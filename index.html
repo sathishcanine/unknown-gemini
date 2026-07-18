@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TNPSC Prep - Mobile Dashboard & AI Study Advisor</title>
+  <!-- Google Fonts for premium typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Link custom stylesheet -->
+  <link rel="stylesheet" href="styles.css?v=4">
+</head>
+<body class="dark-theme">
+  <div class="app-wrapper">
+    <!-- Desktop Simulator Frame Bezel -->
+    <div class="phone-bezel">
+      <div class="phone-notch"></div>
+      
+      <!-- Inside Mobile Screen -->
+      <div class="phone-screen">
+        
+        <!-- Mobile Status Bar -->
+        <div class="status-bar">
+          <div class="status-time" id="status-time">09:41</div>
+          <div class="status-icons">
+            <!-- Signal SVG -->
+            <svg class="icon-signal" viewBox="0 0 24 24"><path d="M2 22h20V2z" fill="currentColor"/></svg>
+            <!-- Wifi SVG -->
+            <svg class="icon-wifi" viewBox="0 0 24 24"><path d="M12 21l-12-18c0 0 8.005-4 12-4s12 4 12 4l-12 18z" fill="currentColor"/></svg>
+            <!-- Battery SVG -->
+            <svg class="icon-battery" viewBox="0 0 24 24"><path d="M17 5H3a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm2 4h3v6h-3V9z" fill="currentColor"/></svg>
+          </div>
+        </div>
+
+        <!-- Top Screen Navigation Header -->
+        <header class="app-header">
+          <div class="header-user">
+            <div class="user-avatar">TN</div>
+            <div class="user-info">
+              <span class="user-greeting">Exam Aspirant</span>
+              <span class="user-meta" id="header-group-display">Group 1 Prep</span>
+            </div>
+          </div>
+          <!-- Dark Mode Toggle Button -->
+          <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Theme">
+            <svg class="sun-icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </button>
+        </header>
+
+        <!-- MAIN SCROLLABLE BODY FOR SCREENS -->
+        <main class="screen-content" id="screen-container">
+          
+          <!-- SCREEN 1: HOME/DASHBOARD -->
+          <section id="screen-home" class="app-screen active">
+            <!-- Segmented Control for Group Selector -->
+            <div class="segment-selector">
+              <button class="segment-btn active" data-group="Group 1">Group 1</button>
+              <button class="segment-btn" data-group="Group 2">Group 2</button>
+              <button class="segment-btn" data-group="Group 4">Group 4</button>
+            </div>
+
+            <!-- Weakness Highlight Banner (Dynamic) -->
+            <div class="alert-banner d-none" id="weakness-banner">
+              <div class="alert-icon">⚠️</div>
+              <div class="alert-body">
+                <h4>Weakness Identified</h4>
+                <p id="weakness-banner-text">You score poorly on "Planning Commission". Read Chapter 8, page 150.</p>
+              </div>
+              <button class="alert-action-btn" id="weakness-banner-action">Review</button>
+            </div>
+
+            <!-- Analytics Progress Card -->
+            <div class="dashboard-progress-card">
+              <div class="progress-info">
+                <h3>Overall Mastery</h3>
+                <span class="progress-percent" id="mastery-percent">0%</span>
+              </div>
+              <div class="progress-bar-container">
+                <div class="progress-bar-fill" id="mastery-progress-fill" style="width: 0%"></div>
+              </div>
+              <div class="progress-stats">
+                <div class="stat-item">
+                  <span class="stat-value" id="stats-total-tests">0</span>
+                  <span class="stat-label">Tests Done</span>
+                </div>
+                <div class="stat-item">
+                  <span class="stat-value" id="stats-correct-ratio">0/0</span>
+                  <span class="stat-label">Correct Answers</span>
+                </div>
+                <div class="stat-item">
+                  <span class="stat-value" id="stats-avg-accuracy">0%</span>
+                  <span class="stat-label">Avg Accuracy</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Subjects Grid -->
+            <div class="section-title-row">
+              <h2>Subjects</h2>
+            </div>
+            
+            <div class="subjects-list">
+              <!-- Active Subject: Economics -->
+              <div class="subject-card active" id="subject-card-economics">
+                <div class="subject-card-header">
+                  <div class="subject-icon-wrap economy-bg">📈</div>
+                  <div class="subject-details">
+                    <h3>Indian Economy</h3>
+                    <span class="subject-meta" id="subject-econ-questions-count">36 Questions Available</span>
+                  </div>
+                  <div class="subject-chevron">➔</div>
+                </div>
+                <div class="subject-card-footer">
+                  <div class="sub-progress-text">Progress: <span id="subject-econ-progress-pct">0%</span></div>
+                  <div class="sub-progress-bar"><div class="sub-progress-fill" id="subject-econ-progress-fill" style="width: 0%"></div></div>
+                </div>
+              </div>
+
+              <!-- Locked Subject: Polity -->
+              <div class="subject-card locked">
+                <div class="subject-card-header">
+                  <div class="subject-icon-wrap polity-bg">⚖️</div>
+                  <div class="subject-details">
+                    <h3>Indian Polity</h3>
+                    <span class="subject-meta">Syllabus Coming Soon</span>
+                  </div>
+                  <div class="lock-icon">🔒</div>
+                </div>
+              </div>
+
+              <!-- Locked Subject: History -->
+              <div class="subject-card locked">
+                <div class="subject-card-header">
+                  <div class="subject-icon-wrap history-bg">🏺</div>
+                  <div class="subject-details">
+                    <h3>History & Culture</h3>
+                    <span class="subject-meta">Syllabus Coming Soon</span>
+                  </div>
+                  <div class="lock-icon">🔒</div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- SCREEN 2: SYLLABUS / TOPIC LISTING -->
+          <section id="screen-syllabus" class="app-screen">
+            <div class="screen-header">
+              <button class="back-btn btn-to-home">➔</button>
+              <h2>Economics Topics</h2>
+            </div>
+
+            <div class="topics-list" id="topics-container">
+              <!-- Dynamically populated topics list -->
+            </div>
+          </section>
+
+          <!-- SCREEN 2B: TOPIC DETAIL (PYQ VS PRACTICE BATCHES) -->
+          <section id="screen-topic-detail" class="app-screen">
+            <div class="screen-header">
+              <button class="back-btn" id="btn-back-to-syllabus">➔</button>
+              <h2 id="topic-detail-title">Topic Detail</h2>
+            </div>
+
+            <!-- PYQs Section -->
+            <div class="section-title-row" style="margin-top: 10px; margin-bottom: 12px;">
+              <h2>Previous Year Questions</h2>
+            </div>
+            <div class="subject-card active" id="topic-detail-pyq-card" style="margin-bottom: 24px; cursor: default;">
+              <div class="subject-card-header" style="margin-bottom: 0; align-items: center;">
+                <div class="subject-icon-wrap economy-bg" style="background-color: rgba(59, 130, 246, 0.15); border: 1px solid rgba(59, 130, 246, 0.3);">📋</div>
+                <div class="subject-details">
+                  <h3 style="font-family: var(--font-header); font-size: 15px; font-weight: 600;">TNPSC Exam PYQs</h3>
+                  <span class="subject-meta" id="topic-detail-pyq-count" style="font-size: 12px; color: var(--text-muted);">0 PYQs Available</span>
+                </div>
+                <button class="alert-action-btn" id="btn-start-pyq" style="background: var(--accent-gradient); box-shadow: var(--shadow-glow); border: none; padding: 8px 16px;">Practice</button>
+              </div>
+            </div>
+
+            <!-- Practice Batches Section -->
+            <div class="section-title-row" style="margin-bottom: 12px;">
+              <h2>Practice Batches (Textbook Generated)</h2>
+            </div>
+            <div class="topics-list" id="topic-detail-batches-container">
+              <!-- Dynamically populated practice batches list -->
+            </div>
+          </section>
+
+          <!-- SCREEN 3: QUIZ TESTING INTERFACE -->
+          <section id="screen-quiz" class="app-screen full-height-screen">
+            <div class="quiz-top-bar">
+              <button class="quiz-close-btn" id="quiz-quit-btn">✕</button>
+              <div class="quiz-topic-title" id="quiz-topic-display">Topic Name</div>
+              <div class="quiz-timer" id="quiz-timer-display">05:00</div>
+            </div>
+
+            <!-- Quiz Progress -->
+            <div class="quiz-progress-row">
+              <div class="quiz-progress-text" id="quiz-progress-text">Question 1 of 10</div>
+              <div class="quiz-progress-bar"><div class="quiz-progress-fill" id="quiz-progress-bar-fill" style="width: 10%"></div></div>
+            </div>
+
+            <!-- Question Card -->
+            <div class="question-container">
+              <!-- Question Text in English -->
+              <div class="question-text-block english-text">
+                <span class="lang-badge">EN</span>
+                <p id="quiz-question-en">Question text in English will load here.</p>
+              </div>
+
+              <!-- Question Text in Tamil -->
+              <div class="question-text-block tamil-text">
+                <span class="lang-badge">TA</span>
+                <p id="quiz-question-ta">தமிழ் வினா இங்கு பதிவேற்றப்படும்.</p>
+              </div>
+
+              <!-- Options List -->
+              <div class="options-list" id="quiz-options-container">
+                <!-- Dynamically generated option items A, B, C, D, E -->
+              </div>
+            </div>
+
+            <!-- Bottom Action Navigation -->
+            <div class="quiz-footer-actions">
+              <button class="quiz-action-btn secondary" id="quiz-prev-btn">Previous</button>
+              <button class="quiz-action-btn primary" id="quiz-next-btn">Next</button>
+            </div>
+          </section>
+
+          <!-- SCREEN 4: TEST RESULTS SCREEN -->
+          <section id="screen-results" class="app-screen">
+            <div class="results-header">
+              <h2>Test Results</h2>
+              <p id="results-topic-display">Nature of Indian Economy</p>
+            </div>
+
+            <!-- Circular Progress Score Chart -->
+            <div class="results-score-card">
+              <div class="score-circle-wrapper">
+                <svg viewBox="0 0 100 100" class="score-svg">
+                  <circle cx="50" cy="50" r="42" stroke="rgba(255,255,255,0.1)" stroke-width="8" fill="transparent" />
+                  <circle cx="50" cy="50" r="42" stroke="var(--primary-glow)" stroke-width="8" fill="transparent" 
+                          stroke-dasharray="263.8" stroke-dashoffset="263.8" id="results-dasharray" stroke-linecap="round"/>
+                </svg>
+                <div class="score-numeric">
+                  <span class="score-value" id="results-score-value">8/10</span>
+                  <span class="score-label" id="results-accuracy-pct">80% Accuracy</span>
+                </div>
+              </div>
+              <div class="score-message" id="results-feedback-message">Great job! You have strong understanding.</div>
+            </div>
+
+            <!-- Performance Stats -->
+            <div class="results-breakdown-stats">
+              <div class="result-stat-card green-bg">
+                <div class="result-stat-num" id="results-correct-count">8</div>
+                <div class="result-stat-lbl">Correct</div>
+              </div>
+              <div class="result-stat-card red-bg">
+                <div class="result-stat-num" id="results-wrong-count">2</div>
+                <div class="result-stat-lbl">Incorrect</div>
+              </div>
+              <div class="result-stat-card blue-bg">
+                <div class="result-stat-num" id="results-time-taken">1m 45s</div>
+                <div class="result-stat-lbl">Time Taken</div>
+              </div>
+            </div>
+
+            <!-- Review Questions Title -->
+            <div class="results-review-title">
+              <h3>Review Answers</h3>
+            </div>
+
+            <!-- Scrollable Answers List -->
+            <div class="answers-review-list" id="results-review-container">
+              <!-- Dynamically generated list of questions with answers -->
+            </div>
+
+            <div class="results-footer-btn-container">
+              <button class="results-btn primary btn-to-home">Back to Dashboard</button>
+              <button class="results-btn secondary" id="results-btn-to-advisor">View Study Advice</button>
+            </div>
+          </section>
+
+          <!-- SCREEN 5: AI STUDY ADVISOR / WEAKNESS PLAN -->
+          <section id="screen-advisor" class="app-screen">
+            <div class="screen-header">
+              <h2>AI Study Advisor</h2>
+            </div>
+
+            <!-- Summary Status -->
+            <div class="advisor-intro-card">
+              <div class="advisor-robot-icon">🤖</div>
+              <div class="advisor-intro-text">
+                <h3>Weakness Analysis</h3>
+                <p id="advisor-summary-text">Complete tests to unlock personalized study recommendations and textbook guides.</p>
+              </div>
+            </div>
+
+            <!-- Action Section: Run customized Weakness review test -->
+            <div class="weakness-review-cta d-none" id="weakness-review-cta">
+              <div class="cta-details">
+                <h3>Weakness Review Quiz</h3>
+                <p id="weakness-review-description">Practice the questions you previously got wrong.</p>
+              </div>
+              <button class="cta-btn" id="advisor-launch-review-btn">Start Test</button>
+            </div>
+
+            <!-- Recommendations List -->
+            <div class="recommendations-container">
+              <h3>Recommended Study Material</h3>
+              <div class="recommendations-list" id="advisor-recommendations-list">
+                <!-- Dynamically generated recommendations card list based on score history -->
+              </div>
+            </div>
+          </section>
+
+        </main>
+
+        <!-- Bottom Navigation Bar (Tabs) -->
+        <nav class="bottom-nav">
+          <button class="nav-tab active" id="tab-home" data-screen="screen-home">
+            <svg viewBox="0 0 24 24" class="nav-icon"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="currentColor"/></svg>
+            <span class="nav-label">Home</span>
+          </button>
+          <button class="nav-tab" id="tab-syllabus" data-screen="screen-syllabus">
+            <svg viewBox="0 0 24 24" class="nav-icon"><path d="M4 6H2v14a2 2 0 0 0 2 2h14v-2H4zm16-4H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm-1 9H9V9h10zm-4 4H9v-2h6zm4-8H9V5h10z" fill="currentColor"/></svg>
+            <span class="nav-label">Syllabus</span>
+          </button>
+          <button class="nav-tab" id="tab-advisor" data-screen="screen-advisor">
+            <svg viewBox="0 0 24 24" class="nav-icon"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z" fill="currentColor"/></svg>
+            <span class="nav-label">Advisor</span>
+          </button>
+        </nav>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Load App Script -->
+  <script src="app.js?v=4"></script>
+</body>
+</html>

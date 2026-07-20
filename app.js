@@ -513,7 +513,7 @@ async function loadData() {
   try {
     // 1. Fetch both Economics and Current Affairs databases
     const resEcon = await fetch('Economic/economics_questions_db.json?v=' + Date.now());
-    const resCA = await fetch('Economic/current_affairs_questions_db.json?v=' + Date.now());
+    const resCA = await fetch('Current-affairs/current_affairs_questions_db.json?v=' + Date.now());
     if (!resEcon.ok || !resCA.ok) throw new Error('Failed to load questions database');
     
     const econQs = await resEcon.json();

@@ -8,9 +8,9 @@ import urllib.error
 
 # Setup paths relative to script location
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_PATH = os.path.join(BASE_DIR, "Economic", "current_affairs_questions_db.json")
-FACTS_PATH = os.path.join(BASE_DIR, "Economic", "economics_facts.json")
-GUIDE_PATH = os.path.join(BASE_DIR, "Economic", "CURRENT_EVENTS_GENERATION_GUIDE.md")
+DB_PATH = os.path.join(BASE_DIR, "Current-affairs", "current_affairs_questions_db.json")
+FACTS_PATH = os.path.join(BASE_DIR, "Current-affairs", "current_affairs_facts.json")
+GUIDE_PATH = os.path.join(BASE_DIR, "Current-affairs", "CURRENT_EVENTS_GENERATION_GUIDE.md")
 
 def call_gemini_api(prompt, api_key, retries=3):
     """Calls Gemini API with exponential backoff on 503 service unavailable errors."""

@@ -91442,5 +91442,1235 @@
     "type": "practice",
     "batch": "Batch 1",
     "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the birth rate per thousand in Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டின் பிறப்பு விகிதம் ஆயிரத்திற்கு எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "7.4",
+        "text_ta": "7.4"
+      },
+      {
+        "key": "B",
+        "text_en": "15.7",
+        "text_ta": "15.7"
+      },
+      {
+        "key": "C",
+        "text_en": "8.3",
+        "text_ta": "8.3"
+      },
+      {
+        "key": "D",
+        "text_en": "17.0",
+        "text_ta": "17.0"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu birth rate is 15.7 per thousand.",
+    "explanation_ta": "தமிழ்நாட்டின் பிறப்பு விகிதம் ஆயிரத்திற்கு 15.7 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Contextual Question: Recent NFHS data focuses on the 'Replacement level fertility' concept. Given TN's birth rate of 15.7, which stage of demographic transition is implied?",
+    "question_ta": "சூழல் வினா: சமீபத்திய NFHS தரவு 'மாற்று நிலை கருவுறுதல்' கருத்தாக்கத்தில் கவனம் செலுத்துகிறது. TN-ன் பிறப்பு விகிதம் 15.7 எனில், இது மக்கள்தொகை மாற்றத்தின் எந்த நிலையைக் குறிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Stage 1 (High birth/death)",
+        "text_ta": "நிலை 1 (அதிக பிறப்பு/இறப்பு)"
+      },
+      {
+        "key": "B",
+        "text_en": "Stage 2 (Population explosion)",
+        "text_ta": "நிலை 2 (மக்கள்தொகை வெடிப்பு)"
+      },
+      {
+        "key": "C",
+        "text_en": "Stage 3 (Low birth/death)",
+        "text_ta": "நிலை 3 (குறைந்த பிறப்பு/இறப்பு)"
+      },
+      {
+        "key": "D",
+        "text_en": "Stage 4 (Stable/Declining)",
+        "text_ta": "நிலை 4 (நிலைத்த/குறையும்)"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A declining or low birth/death rate characterizes the advanced third/fourth stage of demographic transition.",
+    "explanation_ta": "குறைந்த பிறப்பு/இறப்பு விகிதம் மக்கள்தொகை மாற்றத்தின் முன்னேறிய நிலையை (மூன்றாம் அல்லது நான்காம்) குறிக்கிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the male literacy rate in Tamil Nadu as per the 2011 census?",
+    "question_ta": "2011ஆம் ஆண்டு கணக்கெடுப்பின்படி தமிழ்நாட்டின் ஆண் எழுத்தறிவு விகிதம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "86.81%",
+        "text_ta": "86.81%"
+      },
+      {
+        "key": "B",
+        "text_en": "73.86%",
+        "text_ta": "73.86%"
+      },
+      {
+        "key": "C",
+        "text_en": "80.33%",
+        "text_ta": "80.33%"
+      },
+      {
+        "key": "D",
+        "text_en": "68.6%",
+        "text_ta": "68.6%"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tamil Nadu male literacy rate is 86.81% in 2011.",
+    "explanation_ta": "தமிழ்நாட்டின் ஆண் எழுத்தறிவு விகிதம் 2011-ல் 86.81% ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "How does TN's growth rate of 8.3 (per thousand) impact long-term population stability compared to higher growth rates?",
+    "question_ta": "TN-ன் 8.3 (ஆயிரத்திற்கு) வளர்ச்சி விகிதம், அதிக வளர்ச்சி விகிதங்களுடன் ஒப்பிடும்போது நீண்டகால மக்கள்தொகை நிலைத்தன்மையை எவ்வாறு பாதிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It leads to population explosion.",
+        "text_ta": "இது மக்கள்தொகை வெடிப்புக்கு வழிவகுக்கிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "It supports a trend toward stabilization.",
+        "text_ta": "இது நிலைத்தன்மையை நோக்கிச் செல்லும் போக்கை ஆதரிக்கிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It increases the birth rate exponentially.",
+        "text_ta": "இது பிறப்பு விகிதத்தை பெருமளவில் அதிகரிக்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It has no impact on stability.",
+        "text_ta": "இது நிலைத்தன்மையில் எந்த தாக்கத்தையும் ஏற்படுத்தாது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A low growth rate relative to national trends suggests stabilization.",
+    "explanation_ta": "தேசிய போக்குகளுடன் ஒப்பிடும்போது குறைந்த வளர்ச்சி விகிதம் நிலைத்தன்மையைக் குறிக்கிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) TN Total Population 2011<br>b) TN Population Density 2011<br>c) TN Sex Ratio 2011<br>d) National Sex Ratio</div><div class='match-col-right'>1. 940<br>2. 555<br>3. 72,138,958<br>4. 995</div></div>",
+    "question_ta": "பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) TN Total Population 2011<br>b) TN Population Density 2011<br>c) TN Sex Ratio 2011<br>d) National Sex Ratio</div><div class='match-col-right'>1. 940<br>2. 555<br>3. 72,138,958<br>4. 995</div></div>",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "3   2   4   1",
+        "text_ta": "3   2   4   1"
+      },
+      {
+        "key": "B",
+        "text_en": "3   4   2   1",
+        "text_ta": "3   4   2   1"
+      },
+      {
+        "key": "C",
+        "text_en": "1   2   3   4",
+        "text_ta": "1   2   3   4"
+      },
+      {
+        "key": "D",
+        "text_en": "4   3   2   1",
+        "text_ta": "4   3   2   1"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "TN Population: 72,138,958; Density: 555; Sex Ratio: 995; National Sex Ratio: 940.",
+    "explanation_ta": "தமிழ்நாடு மக்கள் தொகை: 7,21,38,958; மக்கள் தொகை அடர்த்தி: 555; பாலின விகிதம்: 995; தேசிய பாலின விகிதம்: 940.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the female literacy rate in Tamil Nadu as per the 2011 census?",
+    "question_ta": "2011ஆம் ஆண்டு கணக்கெடுப்பின்படி தமிழ்நாட்டின் பெண் எழுத்தறிவு விகிதம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "86.81%",
+        "text_ta": "86.81%"
+      },
+      {
+        "key": "B",
+        "text_en": "73.86%",
+        "text_ta": "73.86%"
+      },
+      {
+        "key": "C",
+        "text_en": "80.33%",
+        "text_ta": "80.33%"
+      },
+      {
+        "key": "D",
+        "text_en": "68.6%",
+        "text_ta": "68.6%"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu female literacy rate is 73.86% in 2011.",
+    "explanation_ta": "தமிழ்நாட்டின் பெண் எழுத்தறிவு விகிதம் 2011-ல் 73.86% ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Which of the following is correct regarding the Malthusian theory in the context of TN?",
+    "question_ta": "TN-ன் சூழலில் மால்த்தூசியன் கோட்பாடு குறித்து பின்வருவனவற்றில் எது சரி?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Population grows in geometric progression while food grows in arithmetic progression.",
+        "text_ta": "மக்கள் தொகை பெருக்கல் விகிதத்திலும், உணவு கூட்டல் விகிதத்திலும் வளர்கிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "Population grows in arithmetic progression.",
+        "text_ta": "மக்கள் தொகை கூட்டல் விகிதத்தில் வளர்கிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "Food grows in geometric progression.",
+        "text_ta": "உணவு பெருக்கல் விகிதத்தில் வளர்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "Population and food grow at the same rate.",
+        "text_ta": "மக்கள் தொகையும் உணவும் ஒரே விகிதத்தில் வளர்கின்றன."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Malthus predicted that population outgrows food supply as it grows geometrically.",
+    "explanation_ta": "மக்கள் தொகை பெருக்கல் விகிதத்தில் வளர்வதால் உணவு விநியோகத்தை விட அதிகமாக வளரும் என்று மால்த்தஸ் கணித்தார்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Given the literacy gap (86.81% Male vs 73.86% Female), what can be concluded regarding policy?",
+    "question_ta": "எழுத்தறிவு இடைவெளியைக் கருத்தில் கொண்டு (ஆண் 86.81% vs பெண் 73.86%), கொள்கை குறித்து என்ன முடிவு செய்யலாம்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Female literacy initiatives need prioritization.",
+        "text_ta": "பெண் எழுத்தறிவு முயற்சிகளுக்கு முன்னுரிமை அளிக்கப்பட வேண்டும்."
+      },
+      {
+        "key": "B",
+        "text_en": "Male literacy should be stopped.",
+        "text_ta": "ஆண் எழுத்தறிவை நிறுத்த வேண்டும்."
+      },
+      {
+        "key": "C",
+        "text_en": "No policy change is needed.",
+        "text_ta": "எந்தக் கொள்கை மாற்றமும் தேவையில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "The gap is perfect.",
+        "text_ta": "இடைவெளி சரியாக உள்ளது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The gap necessitates targeted policies to uplift female education.",
+    "explanation_ta": "பெண் கல்வியை உயர்த்த இந்த இடைவெளிக்கு இலக்கு சார்ந்த கொள்கைகள் அவசியம்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Paragraph Analysis: In 2011, Tamil Nadu had a population of 72,138,958 with a male count of 36,158,871. Based on this, which of the following is accurate regarding the female population?",
+    "question_ta": "பத்தி பகுப்பாய்வு: 2011-ல், தமிழ்நாட்டின் மக்கள் தொகை 7,21,38,958 மற்றும் ஆண் மக்கள் தொகை 3,61,58,871. இதன்படி, பெண் மக்கள் தொகை குறித்து பின்வருவனவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The female population is more than 36 million.",
+        "text_ta": "பெண் மக்கள் தொகை 36 மில்லியனுக்கும் அதிகம்."
+      },
+      {
+        "key": "B",
+        "text_en": "The female population is 35,980,087.",
+        "text_ta": "பெண் மக்கள் தொகை 3,59,80,087 ஆகும்."
+      },
+      {
+        "key": "C",
+        "text_en": "The female population is exactly half of the total population.",
+        "text_ta": "பெண் மக்கள் தொகை மொத்த மக்கள் தொகையில் சரியாக பாதி ஆகும்."
+      },
+      {
+        "key": "D",
+        "text_en": "The female population is less than 35 million.",
+        "text_ta": "பெண் மக்கள் தொகை 35 மில்லியனுக்கும் குறைவு."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Total 72,138,958 minus Male 36,158,871 equals Female population 35,980,087.",
+    "explanation_ta": "மொத்த மக்கள் தொகை 7,21,38,958 மற்றும் ஆண் மக்கள் தொகை 3,61,58,871. இதைக் கழித்தால் பெண் மக்கள் தொகை 3,59,80,087 என வரும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Which statement accurately represents the 2011 gender breakdown of TN population?",
+    "question_ta": "TN மக்கள் தொகையின் 2011 பாலினப் பிரிவினை குறித்து எந்தக் கூற்று துல்லியமாக உள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Male population is 36.15 million, Female is 35.98 million.",
+        "text_ta": "ஆண் மக்கள் தொகை 36.15 மில்லியன், பெண் 35.98 மில்லியன்."
+      },
+      {
+        "key": "B",
+        "text_en": "Female population is higher than male.",
+        "text_ta": "பெண் மக்கள் தொகை ஆண்களை விட அதிகம்."
+      },
+      {
+        "key": "C",
+        "text_en": "Male population is 35.98 million.",
+        "text_ta": "ஆண் மக்கள் தொகை 35.98 மில்லியன்."
+      },
+      {
+        "key": "D",
+        "text_en": "Female population is 36.15 million.",
+        "text_ta": "பெண் மக்கள் தொகை 36.15 மில்லியன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Male: 36,158,871; Female: 35,980,087. Approximately 36.15 million and 35.98 million.",
+    "explanation_ta": "ஆண்: 36,158,871; பெண்: 35,980,087. தோராயமாக 36.15 மில்லியன் மற்றும் 35.98 மில்லியன்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Assertion (A): Tamil Nadu has a sex ratio of 995, which is significantly better than the national average of 940. Reason (R): This demonstrates superior socio-economic progress in gender equality.",
+    "question_ta": "கூற்று (A): தமிழ்நாட்டின் பாலின விகிதம் 995, இது தேசிய சராசரியான 940-ஐ விட கணிசமாக சிறந்தது. காரணம் (R): இது பாலின சமத்துவத்தில் சிறந்த சமூக-பொருளாதார முன்னேற்றத்தை வெளிப்படுத்துகிறது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both A and R are true and R is the correct explanation of A.",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் உண்மை, R என்பது A-வின் சரியான விளக்கம்."
+      },
+      {
+        "key": "B",
+        "text_en": "Both A and R are true but R is not the correct explanation of A.",
+        "text_ta": "A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-வின் சரியான விளக்கமல்ல."
+      },
+      {
+        "key": "C",
+        "text_en": "A is true but R is false.",
+        "text_ta": "A உண்மை, ஆனால் R பொய்."
+      },
+      {
+        "key": "D",
+        "text_en": "A is false but R is true.",
+        "text_ta": "A பொய், ஆனால் R உண்மை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "High sex ratio correlates with better indicators of women's welfare and social development.",
+    "explanation_ta": "அதிக பாலின விகிதம் பெண்களின் நலன் மற்றும் சமூக வளர்ச்சியின் சிறந்த குறிகாட்டிகளுடன் தொடர்புடையது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the maternal mortality rate in Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டின் மகப்பேறு இறப்பு விகிதம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "17",
+        "text_ta": "17"
+      },
+      {
+        "key": "B",
+        "text_en": "34",
+        "text_ta": "34"
+      },
+      {
+        "key": "C",
+        "text_en": "79",
+        "text_ta": "79"
+      },
+      {
+        "key": "D",
+        "text_en": "159",
+        "text_ta": "159"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tamil Nadu Maternal Mortality Rate (MMR) is 79 per lakh.",
+    "explanation_ta": "தமிழ்நாட்டின் மகப்பேறு இறப்பு விகிதம் (MMR) 79 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) TN Growth Rate<br>b) TN Death Rate<br>c) TN Birth Rate<br>d) TN Literacy Rate</div><div class='match-col-right'>1. 15.7<br>2. 80.33<br>3. 8.3<br>4. 7.4</div></div>",
+    "question_ta": "பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) TN Growth Rate<br>b) TN Death Rate<br>c) TN Birth Rate<br>d) TN Literacy Rate</div><div class='match-col-right'>1. 15.7<br>2. 80.33<br>3. 8.3<br>4. 7.4</div></div>",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "3   4   1   2",
+        "text_ta": "3   4   1   2"
+      },
+      {
+        "key": "B",
+        "text_en": "4   3   2   1",
+        "text_ta": "4   3   2   1"
+      },
+      {
+        "key": "C",
+        "text_en": "1   2   3   4",
+        "text_ta": "1   2   3   4"
+      },
+      {
+        "key": "D",
+        "text_en": "2   1   4   3",
+        "text_ta": "2   1   4   3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Growth: 8.3; Death: 7.4; Birth: 15.7; Literacy: 80.33.",
+    "explanation_ta": "வளர்ச்சி: 8.3; இறப்பு: 7.4; பிறப்பு: 15.7; எழுத்தறிவு: 80.33.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Which district has the lowest population density in Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டில் மிகக் குறைந்த மக்கள் தொகை அடர்த்தி கொண்ட மாவட்டம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Chennai",
+        "text_ta": "சென்னை"
+      },
+      {
+        "key": "B",
+        "text_en": "Kanyakumari",
+        "text_ta": "கன்னியாகுமரி"
+      },
+      {
+        "key": "C",
+        "text_en": "Nilgiris",
+        "text_ta": "நீலகிரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Tiruchirappalli",
+        "text_ta": "திருச்சிராப்பள்ளி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nilgiris has the lowest population density in Tamil Nadu at 288.",
+    "explanation_ta": "நீலகிரி மாவட்டத்தில் மிகக் குறைந்த மக்கள் தொகை அடர்த்தி 288 ஆக உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the correct ratio of TN density (555) to India's density (382)?",
+    "question_ta": "தமிழ்நாட்டின் மக்கள் தொகை அடர்த்தி (555) மற்றும் இந்தியாவின் அடர்த்தி (382) ஆகியவற்றின் சரியான விகிதம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "TN density is more than 1.4 times India's density.",
+        "text_ta": "TN அடர்த்தி இந்திய அடர்த்தியை விட 1.4 மடங்கு அதிகம்."
+      },
+      {
+        "key": "B",
+        "text_en": "TN density is exactly double.",
+        "text_ta": "TN அடர்த்தி சரியாக இரட்டிப்பு."
+      },
+      {
+        "key": "C",
+        "text_en": "TN density is lower than India's density.",
+        "text_ta": "TN அடர்த்தி இந்திய அடர்த்தியை விட குறைவு."
+      },
+      {
+        "key": "D",
+        "text_en": "The ratio is 1:1.",
+        "text_ta": "விகிதம் 1:1 ஆகும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "555/382 is approximately 1.45, so it is more than 1.4 times.",
+    "explanation_ta": "555/382 என்பது தோராயமாக 1.45 ஆகும், எனவே இது 1.4 மடங்கிற்கும் அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Paragraph Analysis: India's maternal mortality rate is 159, whereas Tamil Nadu's is 79. If a public health policy aims to halve maternal deaths to match the national average, is this goal appropriate for TN?",
+    "question_ta": "பத்தி பகுப்பாய்வு: இந்தியாவின் மகப்பேறு இறப்பு விகிதம் 159, ஆனால் தமிழ்நாட்டின் விகிதம் 79. ஒரு பொது சுகாதாரக் கொள்கை மகப்பேறு இறப்புகளை பாதியாகக் குறைக்க இலக்கு வைத்தால், இந்த இலக்கு TN-க்கு பொருத்தமானதா?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Yes, as it is a common goal.",
+        "text_ta": "ஆம், இது ஒரு பொதுவான இலக்கு."
+      },
+      {
+        "key": "B",
+        "text_en": "No, because TN is already performing better than the national average.",
+        "text_ta": "இல்லை, ஏனெனில் தமிழ்நாடு ஏற்கனவே தேசிய சராசரியை விட சிறந்து விளங்குகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "No, because TN MMR should be higher.",
+        "text_ta": "இல்லை, ஏனெனில் TN MMR அதிகமாக இருக்க வேண்டும்."
+      },
+      {
+        "key": "D",
+        "text_en": "Yes, because all states must match national averages.",
+        "text_ta": "ஆம், ஏனெனில் அனைத்து மாநிலங்களும் தேசிய சராசரியுடன் பொருந்த வேண்டும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "TN's rate (79) is already much lower than the national average (159), so the goal is irrelevant for improvement.",
+    "explanation_ta": "தமிழ்நாட்டின் விகிதம் (79) ஏற்கனவே தேசிய சராசரியை (159) விட குறைவாக இருப்பதால், அந்த இலக்கு தேவையற்றது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the population density of Tamil Nadu in the year 2011?",
+    "question_ta": "2011ஆம் ஆண்டில் தமிழ்நாட்டின் மக்கள் தொகை அடர்த்தி எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "480",
+        "text_ta": "480"
+      },
+      {
+        "key": "B",
+        "text_en": "555",
+        "text_ta": "555"
+      },
+      {
+        "key": "C",
+        "text_en": "382",
+        "text_ta": "382"
+      },
+      {
+        "key": "D",
+        "text_en": "602",
+        "text_ta": "602"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu population density was 555 per square km in 2011.",
+    "explanation_ta": "2011ஆம் ஆண்டு தமிழ்நாட்டின் மக்கள் தொகை அடர்த்தி ஒரு சதுர கிலோமீட்டருக்கு 555 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Which district of Tamil Nadu has a population density of 602?",
+    "question_ta": "தமிழ்நாட்டின் எந்த மாவட்டத்தில் மக்கள் தொகை அடர்த்தி 602 ஆகும்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Chennai",
+        "text_ta": "சென்னை"
+      },
+      {
+        "key": "B",
+        "text_en": "Kanyakumari",
+        "text_ta": "கன்னியாகுமரி"
+      },
+      {
+        "key": "C",
+        "text_en": "Nilgiris",
+        "text_ta": "நீலகிரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Tiruchirappalli",
+        "text_ta": "திருச்சிராப்பள்ளி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Tiruchirappalli has a population density of 602.",
+    "explanation_ta": "திருச்சிராப்பள்ளியின் மக்கள் தொகை அடர்த்தி 602 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Which year witnessed the Tamil Nadu population density of 480?",
+    "question_ta": "தமிழ்நாட்டின் மக்கள் தொகை அடர்த்தி 480 ஆக இருந்த ஆண்டு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1991",
+        "text_ta": "1991"
+      },
+      {
+        "key": "B",
+        "text_en": "2001",
+        "text_ta": "2001"
+      },
+      {
+        "key": "C",
+        "text_en": "2011",
+        "text_ta": "2011"
+      },
+      {
+        "key": "D",
+        "text_en": "2021",
+        "text_ta": "2021"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu population density was 480 per square km in 2001.",
+    "explanation_ta": "தமிழ்நாட்டின் மக்கள் தொகை அடர்த்தி 2001ஆம் ஆண்டில் 480 ஆக இருந்தது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Which of the following describes the child sex ratio in Tamil Nadu for 2011?",
+    "question_ta": "2011ஆம் ஆண்டிற்கான தமிழ்நாட்டின் குழந்தை பாலின விகிதத்தை பின்வருவனவற்றில் எது குறிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "942",
+        "text_ta": "942"
+      },
+      {
+        "key": "B",
+        "text_en": "946",
+        "text_ta": "946"
+      },
+      {
+        "key": "C",
+        "text_en": "987",
+        "text_ta": "987"
+      },
+      {
+        "key": "D",
+        "text_en": "995",
+        "text_ta": "995"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu child sex ratio (0-6 years) is 946 females in 2011.",
+    "explanation_ta": "தமிழ்நாட்டின் குழந்தை பாலின விகிதம் (0-6 வயது) 2011-ல் 946 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Paragraph Analysis: The population density of Chennai is 26,903 and Nilgiris is 288. If a state policy focuses on equitable distribution, which statement is the most logical deduction?",
+    "question_ta": "பத்தி பகுப்பாய்வு: சென்னையின் மக்கள் தொகை அடர்த்தி 26,903 மற்றும் நீலகிரியின் அடர்த்தி 288. ஒரு மாநிலக் கொள்கை சமமான விநியோகத்தில் கவனம் செலுத்தினால், எந்தக் கருத்து மிகவும் தர்க்கரீதியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Chennai requires more urban expansion.",
+        "text_ta": "சென்னைக்கு அதிக நகர்ப்புற விரிவாக்கம் தேவை."
+      },
+      {
+        "key": "B",
+        "text_en": "Nilgiris is overpopulated compared to Chennai.",
+        "text_ta": "சென்னையுடன் ஒப்பிடுகையில் நீலகிரி அதிக மக்கள் தொகை கொண்டது."
+      },
+      {
+        "key": "C",
+        "text_en": "There is a massive disparity in population density between urban and hilly districts.",
+        "text_ta": "நகர்ப்புற மற்றும் மலைப்பாங்கான மாவட்டங்களுக்கு இடையே மக்கள் தொகை அடர்த்தியில் பெரும் வேறுபாடு உள்ளது."
+      },
+      {
+        "key": "D",
+        "text_en": "Both districts have similar needs for public infrastructure.",
+        "text_ta": "இரண்டு மாவட்டங்களும் பொது உள்கட்டமைப்பிற்கு ஒரே மாதிரியான தேவைகளைக் கொண்டுள்ளன."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The large difference between 26,903 and 288 indicates high disparity between regions.",
+    "explanation_ta": "26,903 மற்றும் 288 ஆகியவற்றிற்கு இடையேயான பெரும் வித்தியாசம் பிராந்தியங்களுக்கு இடையிலான பெரும் ஏற்றத்தாழ்வைக் காட்டுகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Paragraph Analysis: Tamil Nadu's life expectancy for males is 68.6 years and females is 72.7 years. If national life expectancy is 67.9 years, what can be inferred?",
+    "question_ta": "பத்தி பகுப்பாய்வு: தமிழ்நாட்டின் ஆண் ஆயுட்காலம் 68.6 ஆண்டுகள், பெண் ஆயுட்காலம் 72.7 ஆண்டுகள். தேசிய ஆயுட்காலம் 67.9 ஆண்டுகள் எனில், எதைக் கணிக்கலாம்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both male and female life expectancy in TN is lower than the national average.",
+        "text_ta": "TN-ல் ஆண் மற்றும் பெண் இருவரின் ஆயுட்காலமும் தேசிய சராசரியை விட குறைவு."
+      },
+      {
+        "key": "B",
+        "text_en": "Both male and female life expectancy in TN is higher than the national average.",
+        "text_ta": "TN-ல் ஆண் மற்றும் பெண் இருவரின் ஆயுட்காலமும் தேசிய சராசரியை விட அதிகம்."
+      },
+      {
+        "key": "C",
+        "text_en": "Only female life expectancy in TN is higher than the national average.",
+        "text_ta": "TN-ல் பெண்களின் ஆயுட்காலம் மட்டுமே தேசிய சராசரியை விட அதிகம்."
+      },
+      {
+        "key": "D",
+        "text_en": "TN males live less than national average males.",
+        "text_ta": "TN ஆண்கள் தேசிய சராசரியை விடக் குறைவாக வாழ்கின்றனர்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "68.6 > 67.9 and 72.7 > 67.9. Thus, both are higher.",
+    "explanation_ta": "68.6 > 67.9 மற்றும் 72.7 > 67.9. எனவே, இரண்டுமே தேசிய சராசரியை விட அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the 2011 census, what was the total population of Tamil Nadu?",
+    "question_ta": "2011ஆம் ஆண்டு மக்கள் தொகை கணக்கெடுப்பின்படி தமிழ்நாட்டின் மொத்த மக்கள் தொகை எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "7.21 crore",
+        "text_ta": "7.21 கோடி"
+      },
+      {
+        "key": "B",
+        "text_en": "7.52 crore",
+        "text_ta": "7.52 கோடி"
+      },
+      {
+        "key": "C",
+        "text_en": "6.85 crore",
+        "text_ta": "6.85 கோடி"
+      },
+      {
+        "key": "D",
+        "text_en": "7.98 crore",
+        "text_ta": "7.98 கோடி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the 2011 census, Tamil Nadu population is 7.21 crore.",
+    "explanation_ta": "2011 கணக்கெடுப்பின்படி தமிழ்நாட்டின் மக்கள் தொகை 7.21 கோடி ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Paragraph Analysis: Tamil Nadu infant mortality rate is 17, while the national average is 34. What is the implied logical conclusion for public policy?",
+    "question_ta": "பத்தி பகுப்பாய்வு: தமிழ்நாட்டின் குழந்தை இறப்பு விகிதம் 17, தேசிய சராசரி 34. பொதுக் கொள்கைக்கான மறைமுகமான தர்க்கரீதியான முடிவு என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "TN needs to increase its IMR.",
+        "text_ta": "TN தனது IMR-ஐ அதிகரிக்க வேண்டும்."
+      },
+      {
+        "key": "B",
+        "text_en": "TN health systems are performing better than the Indian average.",
+        "text_ta": "TN சுகாதார அமைப்புகள் இந்திய சராசரியை விட சிறப்பாக செயல்படுகின்றன."
+      },
+      {
+        "key": "C",
+        "text_en": "The national average is performing better than TN.",
+        "text_ta": "தேசிய சராசரி TN-ஐ விட சிறப்பாக செயல்படுகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "Infant mortality is not an issue for India.",
+        "text_ta": "குழந்தை இறப்பு என்பது இந்தியாவுக்கு ஒரு பிரச்சினையல்ல."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A lower IMR signifies better healthcare performance compared to the higher national average.",
+    "explanation_ta": "குறைந்த IMR என்பது தேசிய சராசரியுடன் ஒப்பிடும்போது சிறந்த சுகாதாரச் செயல்பாட்டைக் குறிக்கிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the average national population density of India as per the 2011 census?",
+    "question_ta": "2011ஆம் ஆண்டு கணக்கெடுப்பின்படி இந்தியாவின் சராசரி மக்கள் தொகை அடர்த்தி என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "480",
+        "text_ta": "480"
+      },
+      {
+        "key": "B",
+        "text_en": "555",
+        "text_ta": "555"
+      },
+      {
+        "key": "C",
+        "text_en": "382",
+        "text_ta": "382"
+      },
+      {
+        "key": "D",
+        "text_en": "602",
+        "text_ta": "602"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "National average population density of India is 382 per square km.",
+    "explanation_ta": "இந்தியாவின் சராசரி மக்கள் தொகை அடர்த்தி 382 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Consider the following: The death rate in Tamil Nadu is 7.4 per thousand, whereas the birth rate is 15.7 per thousand. Based on this, what is the growth rate?",
+    "question_ta": "பின்வருவனவற்றைக் கவனியுங்கள்: தமிழ்நாட்டின் இறப்பு விகிதம் ஆயிரத்திற்கு 7.4, பிறப்பு விகிதம் ஆயிரத்திற்கு 15.7. இதன்படி வளர்ச்சி விகிதம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "8.3",
+        "text_ta": "8.3"
+      },
+      {
+        "key": "B",
+        "text_en": "15.7",
+        "text_ta": "15.7"
+      },
+      {
+        "key": "C",
+        "text_en": "23.1",
+        "text_ta": "23.1"
+      },
+      {
+        "key": "D",
+        "text_en": "7.4",
+        "text_ta": "7.4"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Growth rate = Birth rate - Death rate = 15.7 - 7.4 = 8.3.",
+    "explanation_ta": "வளர்ச்சி விகிதம் = பிறப்பு விகிதம் - இறப்பு விகிதம் = 15.7 - 7.4 = 8.3.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What was the sex ratio of Tamil Nadu in the year 2001?",
+    "question_ta": "2001ஆம் ஆண்டில் தமிழ்நாட்டின் பாலின விகிதம் எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "995",
+        "text_ta": "995"
+      },
+      {
+        "key": "B",
+        "text_en": "940",
+        "text_ta": "940"
+      },
+      {
+        "key": "C",
+        "text_en": "987",
+        "text_ta": "987"
+      },
+      {
+        "key": "D",
+        "text_en": "946",
+        "text_ta": "946"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tamil Nadu sex ratio was 987 females per 1000 males in 2001.",
+    "explanation_ta": "தமிழ்நாட்டின் பாலின விகிதம் 2001-ல் 987 பெண்கள் ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What does the shift in child sex ratio from 942 (2001) to 946 (2011) suggest?",
+    "question_ta": "குழந்தை பாலின விகிதம் 942 (2001) இலிருந்து 946 (2011) ஆக மாறியது எதைக் குறிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It indicates a decline in female child survival.",
+        "text_ta": "இது பெண் குழந்தை உயிர்வாழ்வில் சரிவைக் குறிக்கிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "It indicates an improvement in female child survival.",
+        "text_ta": "இது பெண் குழந்தை உயிர்வாழ்வில் முன்னேற்றத்தைக் குறிக்கிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It has no significance.",
+        "text_ta": "இதற்கு எந்த முக்கியத்துவமும் இல்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "It indicates a sharp drop in male child population.",
+        "text_ta": "இது ஆண் குழந்தை மக்கள் தொகையில் கடுமையான வீழ்ச்சியைக் குறிக்கிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An increase in sex ratio values generally indicates better survival parity.",
+    "explanation_ta": "பாலின விகித மதிப்புகளின் அதிகரிப்பு பொதுவாக சிறந்த உயிர்வாழ்வு சமநிலையைக் குறிக்கிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Hard",
+    "source_exam": "Practice Batch 2",
+    "question_en": "Assertion (A): Nilgiris has the lowest population density in TN. Reason (R): Nilgiris is a hilly district, affecting human settlement.",
+    "question_ta": "கூற்று (A): தமிழ்நாட்டில் நீலகிரி மிகக் குறைந்த மக்கள் தொகை அடர்த்தியைக் கொண்டுள்ளது. காரணம் (R): நீலகிரி ஒரு மலைப்பாங்கான மாவட்டம், இது மனித குடியிருப்பைப் பாதிக்கிறது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A and R are true and R explains A.",
+        "text_ta": "A மற்றும் R உண்மை, R என்பது A-வை விளக்குகிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "A and R are true but R doesn't explain A.",
+        "text_ta": "A மற்றும் R உண்மை, ஆனால் R A-வை விளக்கவில்லை."
+      },
+      {
+        "key": "C",
+        "text_en": "A is true but R is false.",
+        "text_ta": "A உண்மை, ஆனால் R பொய்."
+      },
+      {
+        "key": "D",
+        "text_en": "A is false but R is true.",
+        "text_ta": "A பொய், ஆனால் R உண்மை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hilly terrain naturally limits high-density human settlements.",
+    "explanation_ta": "மலைப்பாங்கான நிலப்பரப்பு இயற்கையாகவே அதிக அடர்த்தி கொண்ட மனித குடியிருப்புகளைக் கட்டுப்படுத்துகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Social Problem : Population",
+    "difficulty": "Medium",
+    "source_exam": "Practice Batch 2",
+    "question_en": "What is the Infant Mortality Rate (IMR) of India?",
+    "question_ta": "இந்தியாவின் குழந்தை இறப்பு விகிதம் (IMR) எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "17",
+        "text_ta": "17"
+      },
+      {
+        "key": "B",
+        "text_en": "34",
+        "text_ta": "34"
+      },
+      {
+        "key": "C",
+        "text_en": "79",
+        "text_ta": "79"
+      },
+      {
+        "key": "D",
+        "text_en": "159",
+        "text_ta": "159"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "National average Infant Mortality Rate (IMR) is 34.",
+    "explanation_ta": "இந்தியாவின் தேசிய சராசரி குழந்தை இறப்பு விகிதம் 34 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
   }
 ]

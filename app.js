@@ -5,6 +5,7 @@
 // App State
 const state = {
   activeScreen: 'screen-home',
+  activeSubject: 'Economy',
   activeGroup: 'Group 1',
   activeTopic: null,
   questions: [], // Loaded from questions_db.json
@@ -218,6 +219,46 @@ const state = {
       chapter: "Class 11 Chapter 7 & Chapter 10 & Chapter 11 & Gurunath Pages 86-87",
       pages: "Class 11 Pages 181-182, 254-255, 279, 290-291 / Gurunath Pages 86-87",
       focus: "Focus on health infrastructure (three-tier system), medical tourism and Chennai as 'Medical Capital of India', child mortality rate, IMR and MMR in Tamil Nadu, Cradle Baby Scheme (1992), Mid-day Meal Scheme (1956 - Kamarajar), and ICDS nutrition indices."
+    },
+    "Current Affairs : January 2026": {
+      title: "Current Affairs : January 2026",
+      titleTa: "நடப்பு நிகழ்வுகள் : ஜனவரி 2026",
+      book: "Zero Current affairs - January 2026 PDF",
+      chapter: "January 2026 Compilations",
+      pages: "Pages 1 - 18",
+      focus: "Focus on January 2026 national and state events, including Supreme Court menstrual health ruling under Article 21, Tamil Nadu's first-place electronics export metrics, the 2025-26 Economic Survey growth projections, ISRO EOS-N1 launch details, and India-EU FTA."
+    },
+    "Current Affairs : February 2026": {
+      title: "Current Affairs : February 2026",
+      titleTa: "நடப்பு நிகழ்வுகள் : பிப்ரவரி 2026",
+      book: "Zero Current affairs - February 2026 PDF",
+      chapter: "February 2026 Compilations",
+      pages: "Pages 1 - 12",
+      focus: "Focus on February 2026 national, state, and international events, appointments, reports, and summits."
+    },
+    "Current Affairs : March 2026": {
+      title: "Current Affairs : March 2026",
+      titleTa: "நடப்பு நிகழ்வுகள் : மார்ச் 2026",
+      book: "Zero Current affairs - March 2026 PDF",
+      chapter: "March 2026 Compilations",
+      pages: "Pages 1 - 12",
+      focus: "Focus on March 2026 national, state, and international events, appointments, reports, and summits."
+    },
+    "Current Affairs : April 2026": {
+      title: "Current Affairs : April 2026",
+      titleTa: "நடப்பு நிகழ்வுகள் : ஏப்ரல் 2026",
+      book: "Zero Current affairs - April 2026 PDF",
+      chapter: "April 2026 Compilations",
+      pages: "Pages 1 - 12",
+      focus: "Focus on April 2026 national, state, and international events, appointments, reports, and summits."
+    },
+    "Current Affairs : June 2026": {
+      title: "Current Affairs : June 2026",
+      titleTa: "நடப்பு நிகழ்வுகள் : ஜூன் 2026",
+      book: "Zero Current affairs - June 2026 PDF",
+      chapter: "June 2026 Compilations",
+      pages: "Pages 1 - 21",
+      focus: "Focus on June 2026 national, state, and international events, appointments, reports, and summits."
     }
   }
 };
@@ -260,6 +301,10 @@ const DOM = {
   subjectEconProgressPct: document.getElementById('subject-econ-progress-pct'),
   subjectEconProgressFill: document.getElementById('subject-econ-progress-fill'),
   subjectEconQuestionsCount: document.getElementById('subject-econ-questions-count'),
+  subjectCardCurrentAffairs: document.getElementById('subject-card-current-affairs'),
+  subjectCaProgressPct: document.getElementById('subject-ca-progress-pct'),
+  subjectCaProgressFill: document.getElementById('subject-ca-progress-fill'),
+  subjectCaQuestionsCount: document.getElementById('subject-ca-questions-count'),
   
   // Syllabus Screen Elements
   topicsContainer: document.getElementById('topics-container'),
@@ -385,6 +430,13 @@ function setupEventListeners() {
 
   // Subject Economics Card click -> navigates to syllabus view
   DOM.subjectCardEconomics.addEventListener('click', () => {
+    state.activeSubject = 'Economy';
+    navigateTo('screen-syllabus');
+  });
+
+  // Subject Current Affairs Card click -> navigates to syllabus view
+  DOM.subjectCardCurrentAffairs.addEventListener('click', () => {
+    state.activeSubject = 'Current Affairs';
     navigateTo('screen-syllabus');
   });
 
@@ -459,10 +511,14 @@ function navigateTo(screenId) {
 // Load Data from local JSON and LocalStorage
 async function loadData() {
   try {
-    // 1. Fetch economics_questions_db.json with cache-buster
-    const response = await fetch('Economic/economics_questions_db.json?v=' + Date.now());
-    if (!response.ok) throw new Error('Failed to load questions database');
-    state.questions = await response.json();
+    // 1. Fetch both Economics and Current Affairs databases
+    const resEcon = await fetch('Economic/economics_questions_db.json?v=' + Date.now());
+    const resCA = await fetch('Economic/current_affairs_questions_db.json?v=' + Date.now());
+    if (!resEcon.ok || !resCA.ok) throw new Error('Failed to load questions database');
+    
+    const econQs = await resEcon.json();
+    const caQs = await resCA.json();
+    state.questions = [...econQs, ...caQs];
     
     // 2. Load History from LocalStorage
     const storedHistory = localStorage.getItem('tnpsc_test_history');
@@ -490,12 +546,17 @@ async function loadData() {
 function updateDashboardStats() {
   const history = state.testHistory;
   
-  // Filter questions by active subject ("Economy") and active Group
-  const subjectQuestions = getFilteredQuestions("Economy");
+  // Filter questions by active subject and active Group
+  const econQuestions = getFilteredQuestions("Economy");
+  const caQuestions = getFilteredQuestions("Current Affairs");
   
   // Calc totals
   const totalTests = history.length;
   DOM.statsTotalTests.textContent = totalTests;
+  
+  // Update available questions counts
+  DOM.subjectEconQuestionsCount.textContent = `${econQuestions.length} Questions Available`;
+  DOM.subjectCaQuestionsCount.textContent = `${caQuestions.length} Questions Available`;
   
   if (totalTests === 0) {
     DOM.statsCorrectRatio.textContent = "0/0";
@@ -505,6 +566,8 @@ function updateDashboardStats() {
     
     DOM.subjectEconProgressPct.textContent = "0%";
     DOM.subjectEconProgressFill.style.width = "0%";
+    DOM.subjectCaProgressPct.textContent = "0%";
+    DOM.subjectCaProgressFill.style.width = "0%";
     DOM.weaknessBanner.classList.add('d-none');
     return;
   }
@@ -538,17 +601,21 @@ function updateDashboardStats() {
     });
   });
   
-  const totalAvailableCount = subjectQuestions.length;
-  DOM.subjectEconQuestionsCount.textContent = `${totalAvailableCount} Questions Available`;
-  
-  const solvedCount = Array.from(correctlySolvedIds).filter(qText => 
-    subjectQuestions.some(q => q.question_en === qText)
+  // 1. Economy Progress
+  const econSolved = Array.from(correctlySolvedIds).filter(qText => 
+    econQuestions.some(q => q.question_en === qText)
   ).length;
+  const econProgressPct = econQuestions.length > 0 ? Math.round((econSolved / econQuestions.length) * 100) : 0;
+  DOM.subjectEconProgressPct.textContent = `${econProgressPct}%`;
+  DOM.subjectEconProgressFill.style.width = `${econProgressPct}%`;
   
-  const progressPct = totalAvailableCount > 0 ? Math.round((solvedCount / totalAvailableCount) * 100) : 0;
-  
-  DOM.subjectEconProgressPct.textContent = `${progressPct}%`;
-  DOM.subjectEconProgressFill.style.width = `${progressPct}%`;
+  // 2. Current Affairs Progress
+  const caSolved = Array.from(correctlySolvedIds).filter(qText => 
+    caQuestions.some(q => q.question_en === qText)
+  ).length;
+  const caProgressPct = caQuestions.length > 0 ? Math.round((caSolved / caQuestions.length) * 100) : 0;
+  DOM.subjectCaProgressPct.textContent = `${caProgressPct}%`;
+  DOM.subjectCaProgressFill.style.width = `${caProgressPct}%`;
   
   // Overall mastery is linked to average accuracy for now
   DOM.masteryPercent.textContent = `${avgAccuracy}%`;
@@ -644,11 +711,20 @@ function getFilteredQuestions(subject = "Economy", topic = null, type = null, ba
 function renderSyllabusTopics() {
   DOM.topicsContainer.innerHTML = '';
   
-  // Discover distinct topics in questions
-  const topics = Array.from(new Set(state.questions.map(q => q.topic)));
+  // Update header text based on active subject
+  const syllabusHeader = document.querySelector('#screen-syllabus h2');
+  if (syllabusHeader) {
+    syllabusHeader.textContent = state.activeSubject === 'Economy' ? 'Indian Economy' : 'Current Affairs';
+  }
+  
+  // Discover distinct topics in questions for the active subject
+  const topics = Array.from(new Set(state.questions
+    .filter(q => q.subject.toLowerCase() === state.activeSubject.toLowerCase())
+    .map(q => q.topic)
+  ));
   
   topics.forEach(topicName => {
-    const filteredQs = getFilteredQuestions("Economy", topicName);
+    const filteredQs = getFilteredQuestions(state.activeSubject, topicName);
     if (filteredQs.length === 0) return; // Skip if no questions match this group
     
     // Get past records for this topic
@@ -710,7 +786,7 @@ function renderTopicDetailScreen() {
   DOM.topicDetailTitle.textContent = topic;
   
   // 1. Get PYQ count
-  const pyqs = getFilteredQuestions("Economy", topic, "pyq");
+  const pyqs = getFilteredQuestions(state.activeSubject, topic, "pyq");
   DOM.topicDetailPyqCount.textContent = `${pyqs.length} PYQs Available`;
   DOM.btnStartPyq.disabled = pyqs.length === 0;
   
@@ -730,7 +806,7 @@ function renderTopicDetailScreen() {
   }
   
   batches.sort().forEach(batchName => {
-    const batchQs = getFilteredQuestions("Economy", topic, "practice", batchName);
+    const batchQs = getFilteredQuestions(state.activeSubject, topic, "practice", batchName);
     
     // Check if this batch has been completed
     const batchTests = state.testHistory.filter(h => h.topic === topic && h.group === 'Practice' && h.questions[0] && h.questions[0].batch === batchName);
@@ -777,7 +853,7 @@ function renderTopicDetailScreen() {
 // ==========================================================================
 function startQuiz(topic, type = null, batch = null) {
   // Get matching questions
-  const availableQs = getFilteredQuestions("Economy", topic, type, batch);
+  const availableQs = getFilteredQuestions(state.activeSubject, topic, type, batch);
   if (availableQs.length === 0) {
     alert("No questions available for this topic and parameters.");
     return;

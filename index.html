@@ -129,15 +129,19 @@
                 </div>
               </div>
 
-              <!-- Locked Subject: History -->
-              <div class="subject-card locked">
+              <!-- Active Subject: Current Affairs -->
+              <div class="subject-card active" id="subject-card-current-affairs">
                 <div class="subject-card-header">
-                  <div class="subject-icon-wrap history-bg">🏺</div>
+                  <div class="subject-icon-wrap ca-bg" style="background-color: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3); color: rgb(16, 185, 129);">📰</div>
                   <div class="subject-details">
-                    <h3>History & Culture</h3>
-                    <span class="subject-meta">Syllabus Coming Soon</span>
+                    <h3>Current Affairs</h3>
+                    <span class="subject-meta" id="subject-ca-questions-count">0 Questions Available</span>
                   </div>
-                  <div class="lock-icon">🔒</div>
+                  <div class="subject-chevron">➔</div>
+                </div>
+                <div class="subject-card-footer">
+                  <div class="sub-progress-text">Progress: <span id="subject-ca-progress-pct">0%</span></div>
+                  <div class="sub-progress-bar"><div class="sub-progress-fill" id="subject-ca-progress-fill" style="width: 0%"></div></div>
                 </div>
               </div>
             </div>

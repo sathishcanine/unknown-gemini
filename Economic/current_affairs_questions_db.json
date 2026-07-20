@@ -4918,5 +4918,1235 @@
     "type": "practice",
     "batch": "Batch 1",
     "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Consider the following statements about India's environmental status in 2026: \n1. There are currently 99 Ramsar sites. \n2. Shekha Jheel is a new Ramsar site in Uttar Pradesh. \nAre these correct?",
+    "question_ta": "2026-இல் இந்தியாவின் சுற்றுச்சூழல் நிலை குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்: \n1. தற்போது 99 ராம்சர் தளங்கள் உள்ளன. \n2. ஷேகா ஜீல் உத்தரப் பிரதேசத்தில் உள்ள ஒரு புதிய ராம்சர் தளம் ஆகும். \nஇவை சரியானவையா?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 ஆகிய இரண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 அல்லது 2 எதுவுமில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Both statements are correct; India reached 99 sites including Shekha Jheel.",
+    "explanation_ta": "இரண்டு கூற்றுகளும் சரியானவை; ஷேகா ஜீல் உட்பட இந்தியா 99 ராம்சர் தளங்களை எட்டியுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does Tamil Nadu's per capita income compare with the national average according to the 2025-26 survey?",
+    "question_ta": "2025-26 ஆய்வின்படி, தமிழ்நாட்டின் தனிநபர் வருமானம் தேசிய சராசரியுடன் எவ்வாறு ஒப்பிடப்படுகிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1.77 times",
+        "text_ta": "1.77 மடங்கு"
+      },
+      {
+        "key": "B",
+        "text_en": "1.50 times",
+        "text_ta": "1.50 மடங்கு"
+      },
+      {
+        "key": "C",
+        "text_en": "2.00 times",
+        "text_ta": "2.00 மடங்கு"
+      },
+      {
+        "key": "D",
+        "text_en": "1.10 times",
+        "text_ta": "1.10 மடங்கு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It is 1.77 times the national average.",
+    "explanation_ta": "இது தேசிய சராசரியை விட 1.77 மடங்கு அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "As per the 2025-26 Economic Survey, which of the following is correct regarding Tamil Nadu's per capita income?",
+    "question_ta": "2025-26 பொருளாதார ஆய்வின்படி, தமிழ்நாட்டின் தனிநபர் வருமானம் குறித்த பின்வருவனவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It reached ₹3.62 lakh, 1.77 times the national average.",
+        "text_ta": "இது ₹3.62 லட்சமாக உயர்ந்துள்ளது, இது தேசிய சராசரியை விட 1.77 மடங்கு அதிகம்."
+      },
+      {
+        "key": "B",
+        "text_en": "It reached ₹3.62 lakh, 1.5 times the national average.",
+        "text_ta": "இது ₹3.62 லட்சமாக உயர்ந்துள்ளது, இது தேசிய சராசரியை விட 1.5 மடங்கு அதிகம்."
+      },
+      {
+        "key": "C",
+        "text_en": "It reached ₹4.12 lakh, 2.0 times the national average.",
+        "text_ta": "இது ₹4.12 லட்சமாக உயர்ந்துள்ளது, இது தேசிய சராசரியை விட 2.0 மடங்கு அதிகம்."
+      },
+      {
+        "key": "D",
+        "text_en": "It reached ₹2.95 lakh, 1.25 times the national average.",
+        "text_ta": "இது ₹2.95 லட்சமாக உயர்ந்துள்ளது, இது தேசிய சராசரியை விட 1.25 மடங்கு அதிகம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tamil Nadu's per capita income reached ₹3.62 lakh, which is 1.77 times the national average in 2025-26.",
+    "explanation_ta": "2025-26-இல் தமிழ்நாட்டின் தனிநபர் வருமானம் ₹3.62 லட்சமாகவும், தேசிய சராசரியை விட 1.77 மடங்காகவும் உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who became the first woman Chief Justice of the Andhra Pradesh High Court?",
+    "question_ta": "ஆந்திரப் பிரதேச உயர் நீதிமன்றத்தின் முதல் பெண் தலைமை நீதிபதியாகப் பொறுப்பேற்றவர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Justice Lisa Gill",
+        "text_ta": "நீதிபதி லிசா கில்"
+      },
+      {
+        "key": "B",
+        "text_en": "Justice Hima Kohli",
+        "text_ta": "நீதிபதி ஹிமா கோலி"
+      },
+      {
+        "key": "C",
+        "text_en": "Justice Indira Banerjee",
+        "text_ta": "நீதிபதி இந்திரா பானர்ஜி"
+      },
+      {
+        "key": "D",
+        "text_en": "Justice R. Bhanumathi",
+        "text_ta": "நீதிபதி ஆர். பானுமதி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Justice Lisa Gill was appointed as the first female Chief Justice of the Andhra Pradesh High Court.",
+    "explanation_ta": "நீதிபதி லிசா கில் ஆந்திரப் பிரதேச உயர் நீதிமன்றத்தின் முதல் பெண் தலைமை நீதிபதியாக நியமிக்கப்பட்டார்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What century does the Tamil-Brahmi inscription found at Kumarikkal Palayam belong to?",
+    "question_ta": "குமாரிக்கல் பாளையத்தில் கண்டெடுக்கப்பட்ட தமிழ்-பிராமி கல்வெட்டு எந்த நூற்றாண்டைச் சேர்ந்தது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1st Century BCE to 1st Century CE",
+        "text_ta": "கிமு 1-ஆம் நூற்றாண்டு முதல் கிபி 1-ஆம் நூற்றாண்டு வரை"
+      },
+      {
+        "key": "B",
+        "text_en": "2nd Century BCE to 2nd Century CE",
+        "text_ta": "கிமு 2-ஆம் நூற்றாண்டு முதல் கிபி 2-ஆம் நூற்றாண்டு வரை"
+      },
+      {
+        "key": "C",
+        "text_en": "3rd Century BCE to 3rd Century CE",
+        "text_ta": "கிமு 3-ஆம் நூற்றாண்டு முதல் கிபி 3-ஆம் நூற்றாண்டு வரை"
+      },
+      {
+        "key": "D",
+        "text_en": "4th Century BCE to 4th Century CE",
+        "text_ta": "கிமு 4-ஆம் நூற்றாண்டு முதல் கிபி 4-ஆம் நூற்றாண்டு வரை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The inscription dates back to the late 1st century BCE to the early 1st century CE.",
+    "explanation_ta": "இந்தக் கல்வெட்டு கிமு முதல் நூற்றாண்டின் பிற்பகுதி முதல் கிபி முதல் நூற்றாண்டின் தொடக்க காலம் வரையிலானது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Consider the following about the PFBR project at Kalpakkam: \n1. It is a 500 MWe Prototype Fast Breeder Reactor. \n2. It has attained its first criticality in April 2026. \nWhich of these are correct?",
+    "question_ta": "கல்பாக்கம் PFBR திட்டம் குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்: \n1. இது 500 மெகாவாட் திறன் கொண்ட முன்மாதிரி அதிவேக ஈனி உலை ஆகும். \n2. இது ஏப்ரல் 2026-இல் அதன் முதல் கிரிட்டிகல் நிலையை அடைந்தது. \nஇவற்றில் எவை சரியானவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 ஆகிய இரண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 அல்லது 2 எதுவுமில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "India's 500 MWe PFBR at Kalpakkam attained first criticality in April 2026.",
+    "explanation_ta": "கல்பாக்கத்தில் உள்ள 500 மெகாவாட் PFBR உலை ஏப்ரல் 2026-இல் அதன் முதல் கிரிட்டிகல் நிலையை அடைந்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Shekha Jheel Bird Sanctuary, which was designated as a Ramsar site in 2026, is located in which state?",
+    "question_ta": "2026-இல் ராம்சர் தளமாக அங்கீகரிக்கப்பட்ட ஷேகா ஜீல் பறவைகள் சரணாலயம் எந்த மாநிலத்தில் அமைந்துள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Punjab",
+        "text_ta": "பஞ்சாப்"
+      },
+      {
+        "key": "B",
+        "text_en": "Uttar Pradesh",
+        "text_ta": "உத்தரப் பிரதேசம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Madhya Pradesh",
+        "text_ta": "மத்தியப் பிரதேசம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Rajasthan",
+        "text_ta": "ராஜஸ்தான்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Shekha Jheel Bird Sanctuary is located in Uttar Pradesh.",
+    "explanation_ta": "ஷேகா ஜீல் பறவைகள் சரணாலயம் உத்தரப் பிரதேசத்தில் அமைந்துள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who has been appointed as the first openly queer Member of Parliament in India?",
+    "question_ta": "இந்தியாவின் முதல் வெளிப்படையான குயர் (queer) நாடாளுமன்ற உறுப்பினராக நியமிக்கப்பட்டவர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Justice Lisa Gill",
+        "text_ta": "நீதிபதி லிசா கில்"
+      },
+      {
+        "key": "B",
+        "text_en": "Menaka Guruswamy",
+        "text_ta": "மேனகா குருசாமி"
+      },
+      {
+        "key": "C",
+        "text_en": "Nirmala Sitharaman",
+        "text_ta": "நிர்மலா சீதாராமன்"
+      },
+      {
+        "key": "D",
+        "text_en": "Meira Kumar",
+        "text_ta": "மீரா குமார்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Menaka Guruswamy has become India’s first openly queer Member of Parliament.",
+    "explanation_ta": "மேனகா குருசாமி இந்தியாவின் முதல் வெளிப்படையான குயர் (queer) நாடாளுமன்ற உறுப்பினராகப் பொறுப்பேற்றுள்ளார்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which district in Tamil Nadu is known for the recent archaeological find of a Tamil-Brahmi potsherd?",
+    "question_ta": "சமீபத்தில் தமிழ்-பிராமி மண்பாண்ட ஓடு கண்டெடுக்கப்பட்ட தமிழ்நாட்டின் மாவட்டம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Chennai",
+        "text_ta": "சென்னை"
+      },
+      {
+        "key": "B",
+        "text_en": "Madurai",
+        "text_ta": "மதுரை"
+      },
+      {
+        "key": "C",
+        "text_en": "Tiruppur",
+        "text_ta": "திருப்பூர்"
+      },
+      {
+        "key": "D",
+        "text_en": "Coimbatore",
+        "text_ta": "கோயம்புத்தூர்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The find was in Kumarikkal Palayam, Tiruppur district.",
+    "explanation_ta": "இந்த கண்டுபிடிப்பு திருப்பூர் மாவட்டம் குமாரிக்கல் பாளையத்தில் நிகழ்ந்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Regarding the 2026 Census in India, which of the following is accurate?",
+    "question_ta": "இந்தியாவில் 2026 மக்கள் தொகை கணக்கெடுப்பு குறித்து பின்வருவனவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is the 15th Census and began on April 1, 2026.",
+        "text_ta": "இது 15-ஆவது மக்கள் தொகை கணக்கெடுப்பு மற்றும் ஏப்ரல் 1, 2026-இல் தொடங்கியது."
+      },
+      {
+        "key": "B",
+        "text_en": "It is the 16th Census and is the first fully digital one.",
+        "text_ta": "இது 16-ஆவது மக்கள் தொகை கணக்கெடுப்பு மற்றும் முதல் முழு டிஜிட்டல் முறை ஆகும்."
+      },
+      {
+        "key": "C",
+        "text_en": "It is the 17th Census and follows traditional paper methods.",
+        "text_ta": "இது 17-ஆவது மக்கள் தொகை கணக்கெடுப்பு மற்றும் பாரம்பரிய காகித முறையைப் பின்பற்றுகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It is the 16th Census and covers only urban areas.",
+        "text_ta": "இது 16-ஆவது மக்கள் தொகை கணக்கெடுப்பு மற்றும் நகர்ப்புறங்களை மட்டுமே உள்ளடக்கியது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "India's 16th Census, which started on April 1, 2026, is the country's first fully digital Census.",
+    "explanation_ta": "ஏப்ரல் 1, 2026 அன்று தொடங்கிய 16-ஆவது மக்கள் தொகை கணக்கெடுப்பு, இந்தியாவின் முதல் முழு டிஜிட்டல் மக்கள் தொகை கணக்கெடுப்பாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "With the designation of Shekha Jheel Bird Sanctuary as a Ramsar site, what is the current total number of Ramsar sites in India?",
+    "question_ta": "ஷேகா ஜீல் பறவைகள் சரணாலயம் ராம்சர் தளமாக அங்கீகரிக்கப்பட்ட பிறகு, இந்தியாவில் உள்ள மொத்த ராம்சர் தளங்களின் எண்ணிக்கை எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "97",
+        "text_ta": "97"
+      },
+      {
+        "key": "B",
+        "text_en": "98",
+        "text_ta": "98"
+      },
+      {
+        "key": "C",
+        "text_en": "99",
+        "text_ta": "99"
+      },
+      {
+        "key": "D",
+        "text_en": "100",
+        "text_ta": "100"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "India reached 99 Ramsar sites with the addition of the Shekha Jheel Bird Sanctuary.",
+    "explanation_ta": "ஷேகா ஜீல் பறவைகள் சரணாலயம் இணைக்கப்பட்டதன் மூலம் இந்தியாவின் ராம்சர் தளங்களின் எண்ணிக்கை 99 ஆக உயர்ந்துள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary significance of the 2026 Census compared to previous ones?",
+    "question_ta": "முந்தைய மக்கள் தொகை கணக்கெடுப்புகளுடன் ஒப்பிடும்போது, 2026 மக்கள் தொகை கணக்கெடுப்பின் முக்கியத்துவம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It covers more rural areas.",
+        "text_ta": "இது அதிக கிராமப்புறங்களை உள்ளடக்கியது."
+      },
+      {
+        "key": "B",
+        "text_en": "It is the first fully digital census.",
+        "text_ta": "இது முதல் முழு டிஜிட்டல் மக்கள் தொகை கணக்கெடுப்பாகும்."
+      },
+      {
+        "key": "C",
+        "text_en": "It includes international citizens.",
+        "text_ta": "இது சர்வதேச குடிமக்களை உள்ளடக்கியது."
+      },
+      {
+        "key": "D",
+        "text_en": "It focuses only on economic status.",
+        "text_ta": "இது பொருளாதார நிலையை மட்டும் கவனிக்கிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 2026 Census is India's first fully digital population census.",
+    "explanation_ta": "2026 மக்கள் தொகை கணக்கெடுப்பு இந்தியாவின் முதல் முழு டிஜிட்டல் மக்கள் தொகை கணக்கெடுப்பாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Consider the following statements regarding the Pradhan Mantri Gram Sadak Yojana III extension: \n1. The scheme is extended until 2028. \n2. The total outlay for this extension is ₹83,977 crore. \nWhich of the above statements is/are correct?",
+    "question_ta": "பிரதான் மந்திரி கிராம சடக் யோஜனா III விரிவாக்கம் குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்: \n1. இத்திட்டம் 2028 வரை நீட்டிக்கப்பட்டுள்ளது. \n2. இந்த நீட்டிப்பிற்கான மொத்த ஒதுக்கீடு ₹83,977 கோடி ஆகும். \nமேற்கூறியவற்றில் எது/எவை சரியானவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 ஆகிய இரண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 அல்லது 2 எதுவுமில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The Union Government extended PMGSY-III until 2028 with an outlay of ₹83,977 crore.",
+    "explanation_ta": "மத்திய அரசு PMGSY-III திட்டத்தை ₹83,977 கோடி ஒதுக்கீட்டுடன் 2028 வரை நீட்டித்துள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What is the core function of the Prototype Fast Breeder Reactor (PFBR) at Kalpakkam?",
+    "question_ta": "கல்பாக்கத்தில் உள்ள முன்மாதிரி அதிவேக ஈனி உலையின் (PFBR) முக்கிய செயல்பாடு என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To generate solar power.",
+        "text_ta": "சூரிய சக்தியை உருவாக்க."
+      },
+      {
+        "key": "B",
+        "text_en": "To act as a nuclear breeder reactor.",
+        "text_ta": "அணு ஈனி உலையாகச் செயல்பட."
+      },
+      {
+        "key": "C",
+        "text_en": "To desalinate seawater.",
+        "text_ta": "கடல்நீரை நன்னீராக்க."
+      },
+      {
+        "key": "D",
+        "text_en": "To store wind energy.",
+        "text_ta": "காற்றாலை ஆற்றலைச் சேமிக்க."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The PFBR is a fast breeder reactor designed to produce more fissile material than it consumes.",
+    "explanation_ta": "PFBR என்பது அது நுகரும் பிளவுபடும் பொருளை விட அதிக பொருளை உற்பத்தி செய்யும் வகையில் வடிவமைக்கப்பட்ட அதிவேக ஈனி உலை ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which of the following statements about India's renewable energy status is true?",
+    "question_ta": "இந்தியாவின் புதுப்பிக்கத்தக்க எரிசக்தி நிலை குறித்த பின்வரும் கூற்றுகளில் எது உண்மையானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "India is 1st in global renewable energy capacity.",
+        "text_ta": "புதுப்பிக்கத்தக்க எரிசக்தி திறனில் இந்தியா உலகளவில் 1-ஆவது இடத்தில் உள்ளது."
+      },
+      {
+        "key": "B",
+        "text_en": "India is 2nd in global renewable energy capacity.",
+        "text_ta": "புதுப்பிக்கத்தக்க எரிசக்தி திறனில் இந்தியா உலகளவில் 2-ஆவது இடத்தில் உள்ளது."
+      },
+      {
+        "key": "C",
+        "text_en": "India is 3rd in global renewable energy capacity.",
+        "text_ta": "புதுப்பிக்கத்தக்க எரிசக்தி திறனில் இந்தியா உலகளவில் 3-ஆவது இடத்தில் உள்ளது."
+      },
+      {
+        "key": "D",
+        "text_en": "India is 5th in global renewable energy capacity.",
+        "text_ta": "புதுப்பிக்கத்தக்க எரிசக்தி திறனில் இந்தியா உலகளவில் 5-ஆவது இடத்தில் உள்ளது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to the International Renewable Energy Agency, India holds the 3rd rank in 2025.",
+    "explanation_ta": "சர்வதேச புதுப்பிக்கத்தக்க எரிசக்தி முகமையின்படி, 2025-இல் இந்தியா 3-ஆவது இடத்தில் உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What is the significance of the 2025-26 Economic Survey for Tamil Nadu's economic stature?",
+    "question_ta": "தமிழ்நாட்டின் பொருளாதார நிலையை பொறுத்தவரை 2025-26 பொருளாதார ஆய்வின் முக்கியத்துவம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It shows Tamil Nadu's per capita income is less than the national average.",
+        "text_ta": "இது தமிழ்நாட்டின் தனிநபர் வருமானம் தேசிய சராசரியை விட குறைவு என்பதைக் காட்டுகிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "It shows Tamil Nadu has a 10.83% growth rate, significantly higher than the 7.4% national average.",
+        "text_ta": "இது தமிழ்நாடு 10.83% வளர்ச்சி விகிதத்தைக் கொண்டுள்ளது, இது 7.4% தேசிய சராசரியை விட அதிகம் என்பதைக் காட்டுகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It shows no growth in the state.",
+        "text_ta": "இது மாநிலத்தில் வளர்ச்சி இல்லை என்பதைக் காட்டுகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It highlights a recession in Tamil Nadu.",
+        "text_ta": "இது தமிழ்நாட்டில் மந்தநிலையை முன்னிலைப்படுத்துகிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The report highlights Tamil Nadu's robust growth of 10.83%.",
+    "explanation_ta": "இந்த அறிக்கை தமிழ்நாட்டின் 10.83% வலுவான வளர்ச்சியை முன்னிலைப்படுத்துகிறது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What is the total economic growth rate recorded by Tamil Nadu in 2025-26, and how does it compare with the national average?",
+    "question_ta": "2025-26-இல் தமிழ்நாடு பதிவு செய்த மொத்த பொருளாதார வளர்ச்சி விகிதம் என்ன, அது தேசிய சராசரியுடன் எவ்வாறு ஒப்பிடப்படுகிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "8.5%, higher than 7.4%",
+        "text_ta": "8.5%, இது 7.4%-ஐ விட அதிகம்"
+      },
+      {
+        "key": "B",
+        "text_en": "10.83%, higher than 7.4%",
+        "text_ta": "10.83%, இது 7.4%-ஐ விட அதிகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "10.83%, lower than 7.4%",
+        "text_ta": "10.83%, இது 7.4%-ஐ விட குறைவு"
+      },
+      {
+        "key": "D",
+        "text_en": "7.4%, equal to the national average",
+        "text_ta": "7.4%, இது தேசிய சராசரிக்கு சமம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu recorded 10.83% growth, which is significantly higher than the 7.4% national average.",
+    "explanation_ta": "தமிழ்நாடு 10.83% வளர்ச்சியைப் பதிவு செய்தது, இது தேசிய சராசரியான 7.4%-ஐ விட அதிகமாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the name of the 7,000-tonne nuclear-powered ballistic missile submarine commissioned by the Indian Navy?",
+    "question_ta": "இந்தியக் கடற்படையால் பணியில் சேர்க்கப்பட்ட 7,000 டன் எடையுள்ள அணுசக்தியால் இயங்கும் ஏவுகணை நீர்மூழ்கிக் கப்பலின் பெயர் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "INS Arihant",
+        "text_ta": "ஐஎன்எஸ் அரிஹந்த்"
+      },
+      {
+        "key": "B",
+        "text_en": "INS Aridhaman",
+        "text_ta": "ஐஎன்எஸ் அரிதமன்"
+      },
+      {
+        "key": "C",
+        "text_en": "INS Vikrant",
+        "text_ta": "ஐஎன்எஸ் விக்ராந்த்"
+      },
+      {
+        "key": "D",
+        "text_en": "INS Arighaat",
+        "text_ta": "ஐஎன்எஸ் அரிகாட்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Indian Navy commissioned the 7,000-tonne nuclear-powered ballistic missile submarine named INS Aridhaman.",
+    "explanation_ta": "இந்தியக் கடற்படை ஐஎன்எஸ் அரிதமன் என்ற 7,000 டன் எடையுள்ள அணுசக்தியால் இயங்கும் நீர்மூழ்கிக் கப்பலை பணியில் சேர்த்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): INS Aridhaman is a nuclear-powered ballistic missile submarine. Reason (R): It signifies a major upgrade in the Indian Navy's underwater capabilities.",
+    "question_ta": "கூற்று (A): ஐஎன்எஸ் அரிதமன் அணுசக்தியால் இயங்கும் ஏவுகணை நீர்மூழ்கிக் கப்பல் ஆகும். காரணம் (R): இது இந்தியக் கடற்படையின் நீருக்கடியில் உள்ள திறன்களில் ஒரு பெரிய மேம்பாட்டைக் குறிக்கிறது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, (R) என்பது (A)-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The induction of INS Aridhaman bolsters the naval capabilities of India significantly.",
+    "explanation_ta": "ஐஎன்எஸ் அரிதமன் பணியமர்த்தல் இந்தியாவின் கடற்படை திறன்களை கணிசமாக வலுப்படுத்துகிறது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Menaka Guruswamy is India’s first openly queer MP. Reason (R): This appointment marks a significant milestone in Indian parliamentary history.",
+    "question_ta": "கூற்று (A): மேனகா குருசாமி இந்தியாவின் முதல் வெளிப்படையான குயர் (queer) நாடாளுமன்ற உறுப்பினர். காரணம் (R): இந்த நியமனம் இந்திய நாடாளுமன்ற வரலாற்றில் ஒரு குறிப்பிடத்தக்க மைல்கல் ஆகும்.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, (R) என்பது (A)-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both statements are correct; her appointment is a landmark in representation.",
+    "explanation_ta": "கூற்றுகள் இரண்டும் சரியானவை; இவரது நியமனம் பிரதிநிதித்துவத்தில் ஒரு முக்கிய மைல்கல் ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where was the Tamil-Brahmi inscription dating back to 1st century BCE/CE discovered?",
+    "question_ta": "கிமு முதல் நூற்றாண்டு/கிபி முதல் நூற்றாண்டு காலத்தைச் சேர்ந்த தமிழ்-பிராமி கல்வெட்டு எங்கு கண்டெடுக்கப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kumarikkal Palayam, Tiruppur",
+        "text_ta": "குமாரிக்கல் பாளையம், திருப்பூர்"
+      },
+      {
+        "key": "B",
+        "text_en": "Keeladi, Sivaganga",
+        "text_ta": "கீழடி, சிவகங்கை"
+      },
+      {
+        "key": "C",
+        "text_en": "Adichanallur, Thoothukudi",
+        "text_ta": "ஆதிச்சநல்லூர், தூத்துக்குடி"
+      },
+      {
+        "key": "D",
+        "text_en": "Kodumanal, Erode",
+        "text_ta": "கொடுமணல், ஈரோடு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A potsherd with Tamil-Brahmi inscription was discovered at Kumarikkal Palayam in Tiruppur district.",
+    "explanation_ta": "திருப்பூர் மாவட்டம் குமாரிக்கல் பாளையத்தில் தமிழ்-பிராமி கல்வெட்டு பொறிக்கப்பட்ட மண்பாண்ட ஓடு கண்டெடுக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Why is the 2026 discovery at Kumarikkal Palayam historically significant?",
+    "question_ta": "குமாரிக்கல் பாளையத்தில் 2026-இல் கண்டெடுக்கப்பட்ட கண்டுபிடிப்பு வரலாற்று ரீதியாக ஏன் முக்கியமானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is the only inscription found in Tiruppur.",
+        "text_ta": "திருப்பூரில் கண்டெடுக்கப்பட்ட ஒரே கல்வெட்டு இதுவாகும்."
+      },
+      {
+        "key": "B",
+        "text_en": "It is a Tamil-Brahmi inscription dating back to the late 1st century BCE to early 1st century CE.",
+        "text_ta": "இது கிமு முதல் நூற்றாண்டின் பிற்பகுதி முதல் கிபி முதல் நூற்றாண்டின் தொடக்க காலத்தைச் சேர்ந்த தமிழ்-பிராமி கல்வெட்டு ஆகும்."
+      },
+      {
+        "key": "C",
+        "text_en": "It confirms the existence of a new script.",
+        "text_ta": "இது ஒரு புதிய எழுத்துமுறை இருந்ததை உறுதிப்படுத்துகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It is the oldest gold coin ever found.",
+        "text_ta": "இது கண்டெடுக்கப்பட்ட மிகப் பழமையான தங்க நாணயம் ஆகும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The discovery is significant for its Tamil-Brahmi inscription dating back to the late 1st century BCE/early 1st century CE.",
+    "explanation_ta": "இந்தக் கண்டுபிடிப்பு கிமு முதல் நூற்றாண்டின் பிற்பகுதி/கிபி முதல் நூற்றாண்டின் தொடக்க கால தமிழ்-பிராமி கல்வெட்டுக்கு முக்கியமானது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which statement about the Indian Navy's recent submarine commissioning is incorrect?",
+    "question_ta": "இந்தியக் கடற்படையின் அண்மைக்கால நீர்மூழ்கிக் கப்பல் பணியமர்த்தல் குறித்த பின்வரும் கூற்றுகளில் எது தவறானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The vessel is named INS Aridhaman.",
+        "text_ta": "இந்தக் கப்பல் ஐஎன்எஸ் அரிதமன் என்று அழைக்கப்படுகிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "It is a 7,000-tonne vessel.",
+        "text_ta": "இது 7,000 டன் எடையுள்ள கப்பல் ஆகும்."
+      },
+      {
+        "key": "C",
+        "text_en": "It is nuclear-powered.",
+        "text_ta": "இது அணுசக்தியால் இயங்குகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It is a diesel-electric submarine.",
+        "text_ta": "இது டீசல்-மின்சார நீர்மூழ்கிக் கப்பல் ஆகும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "INS Aridhaman is a nuclear-powered submarine, not diesel-electric.",
+    "explanation_ta": "ஐஎன்எஸ் அரிதமன் அணுசக்தியால் இயங்கும் நீர்மூழ்கிக் கப்பல், டீசல்-மின்சாரக் கப்பல் அல்ல.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Tamil Nadu recorded a double-digit real economic growth rate of 10.83% for 2025–26. Reason (R): This growth rate is lower than the national average of 7.4%.",
+    "question_ta": "கூற்று (A): தமிழ்நாடு 2025–26 நிதியாண்டில் 10.83% என்ற இரட்டை இலக்க பொருளாதார வளர்ச்சி விகிதத்தைப் பதிவு செய்தது. காரணம் (R): இந்த வளர்ச்சி விகிதம் தேசிய சராசரியான 7.4%-ஐ விட குறைவானது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, (R) என்பது (A)-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tamil Nadu's growth of 10.83% is higher than the national average of 7.4%, not lower.",
+    "explanation_ta": "தமிழ்நாட்டின் 10.83% வளர்ச்சி தேசிய சராசரியான 7.4%-ஐ விட அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which country has launched the world's first 10G (10 Gigabit) 6GHz internet network?",
+    "question_ta": "உலகின் முதல் 10G (10 ஜிகாபிட்) 6GHz இணைய வலைப்பின்னலை அறிமுகப்படுத்திய நாடு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "India",
+        "text_ta": "இந்தியா"
+      },
+      {
+        "key": "B",
+        "text_en": "Japan",
+        "text_ta": "ஜப்பான்"
+      },
+      {
+        "key": "C",
+        "text_en": "United Arab Emirates",
+        "text_ta": "ஐக்கிய அரபு அமீரகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "South Korea",
+        "text_ta": "தென் கொரியா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The UAE has launched the world's first 10G 6GHz internet network.",
+    "explanation_ta": "ஐக்கிய அரபு அமீரகம் உலகின் முதல் 10G 6GHz இணைய வலைப்பின்னலை அறிமுகப்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The 16th Census, launched in April 2026, is historically notable for being the first to be what?",
+    "question_ta": "ஏப்ரல் 2026-இல் தொடங்கப்பட்ட 16-ஆவது மக்கள் தொகை கணக்கெடுப்பு, எதன் காரணமாக வரலாற்று முக்கியத்துவம் வாய்ந்தது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fully paper-based",
+        "text_ta": "முழுக்க முழுக்க காகித அடிப்படையிலான"
+      },
+      {
+        "key": "B",
+        "text_en": "Fully digital",
+        "text_ta": "முழுக்க முழுக்க டிஜிட்டல் முறை"
+      },
+      {
+        "key": "C",
+        "text_en": "Only focused on rural population",
+        "text_ta": "கிராமப்புற மக்கள் மீது மட்டும் கவனம் செலுத்தியது"
+      },
+      {
+        "key": "D",
+        "text_en": "Mandatory for all citizens",
+        "text_ta": "அனைத்து குடிமக்களுக்கும் கட்டாயமானது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 2026 Census is the first fully digital census in India.",
+    "explanation_ta": "2026 மக்கள் தொகை கணக்கெடுப்பு இந்தியாவின் முதல் முழு டிஜிட்டல் மக்கள் தொகை கணக்கெடுப்பாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The Prototype Fast Breeder Reactor (PFBR) that reached criticality in 2026 is located in which town?",
+    "question_ta": "2026-இல் கிரிட்டிகல் நிலையை அடைந்த முன்மாதிரி அதிவேக ஈனி உலை (PFBR) எந்த ஊரில் அமைந்துள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kudankulam",
+        "text_ta": "கூடங்குளம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Kalpakkam",
+        "text_ta": "கல்பாக்கம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Tarapur",
+        "text_ta": "தாராப்பூர்"
+      },
+      {
+        "key": "D",
+        "text_en": "Rawatbhata",
+        "text_ta": "ராவத்பட்டா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The PFBR is situated in Kalpakkam, Tamil Nadu.",
+    "explanation_ta": "PFBR தமிழ்நாட்டின் கல்பாக்கத்தில் அமைந்துள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is India's global rank in renewable energy capacity in 2025 according to the International Renewable Energy Agency?",
+    "question_ta": "சர்வதேச புதுப்பிக்கத்தக்க எரிசக்தி முகமையின்படி, 2025-இல் புதுப்பிக்கத்தக்க எரிசக்தி திறனில் இந்தியாவின் உலகளாவிய தரம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1st",
+        "text_ta": "1-ஆவது"
+      },
+      {
+        "key": "B",
+        "text_en": "2nd",
+        "text_ta": "2-ஆவது"
+      },
+      {
+        "key": "C",
+        "text_en": "3rd",
+        "text_ta": "3-ஆவது"
+      },
+      {
+        "key": "D",
+        "text_en": "4th",
+        "text_ta": "4-ஆவது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "India is ranked 3rd globally in renewable energy capacity in 2025.",
+    "explanation_ta": "2025-இல் புதுப்பிக்கத்தக்க எரிசக்தி திறனில் இந்தியா உலகளவில் 3-ஆவது இடத்தில் உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Match the following findings/data for 2025-26: <br><div class='match-container'><div class='match-col-left'>a) Tamil Nadu Economic Growth <br>b) National Economic Growth <br>c) Census iteration number <br>d) India's Renewable Energy Rank</div><div class='match-col-right'>1. 16th <br>2. 3rd <br>3. 7.4% <br>4. 10.83%</div></div>",
+    "question_ta": "2025-26 க்கான கண்டுபிடிப்புகள்/தரவுகளைப் பொருத்துக: <br><div class='match-container'><div class='match-col-left'>a) தமிழ்நாடு பொருளாதார வளர்ச்சி <br>b) தேசிய பொருளாதார வளர்ச்சி <br>c) மக்கள் தொகை கணக்கெடுப்பு எண் <br>d) இந்தியாவின் புதுப்பிக்கத்தக்க எரிசக்தி தரம்</div><div class='match-col-right'>1. 16-ஆவது <br>2. 3-ஆவது <br>3. 7.4% <br>4. 10.83%</div></div>",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "4   3   1   2",
+        "text_ta": "4   3   1   2"
+      },
+      {
+        "key": "B",
+        "text_en": "3   4   2   1",
+        "text_ta": "3   4   2   1"
+      },
+      {
+        "key": "C",
+        "text_en": "4   1   3   2",
+        "text_ta": "4   1   3   2"
+      },
+      {
+        "key": "D",
+        "text_en": "2   3   1   4",
+        "text_ta": "2   3   1   4"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tamil Nadu growth is 10.83%, National is 7.4%, Census is 16th, and Renewable Rank is 3rd.",
+    "explanation_ta": "தமிழ்நாடு வளர்ச்சி 10.83%, தேசிய வளர்ச்சி 7.4%, மக்கள் தொகை கணக்கெடுப்பு 16-ஆவது, மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி தரம் 3-ஆவது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : April 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary technological advancement of the 10G internet network launched by the UAE?",
+    "question_ta": "ஐக்கிய அரபு அமீரகம் அறிமுகப்படுத்திய 10G இணைய வலைப்பின்னலின் முதன்மையான தொழில்நுட்ப முன்னேற்றம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is the first to use 6GHz band.",
+        "text_ta": "இது 6GHz பட்டையைப் பயன்படுத்தும் முதல் வலைப்பின்னல் ஆகும்."
+      },
+      {
+        "key": "B",
+        "text_en": "It is fully solar-powered.",
+        "text_ta": "இது முற்றிலும் சூரிய சக்தியால் இயங்குகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It is the fastest satellite internet.",
+        "text_ta": "இது மிக வேகமான செயற்கைக்கோள் இணையம் ஆகும்."
+      },
+      {
+        "key": "D",
+        "text_en": "It is completely underwater.",
+        "text_ta": "இது முற்றிலும் நீருக்கடியில் உள்ளது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The UAE launched the world's first 10G 6GHz internet network.",
+    "explanation_ta": "ஐக்கிய அரபு அமீரகம் உலகின் முதல் 10G 6GHz இணைய வலைப்பின்னலை அறிமுகப்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
   }
 ]

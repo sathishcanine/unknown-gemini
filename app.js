@@ -459,8 +459,8 @@ function navigateTo(screenId) {
 // Load Data from local JSON and LocalStorage
 async function loadData() {
   try {
-    // 1. Fetch questions_db.json with cache-buster
-    const response = await fetch('questions_db.json?v=' + Date.now());
+    // 1. Fetch economics_questions_db.json with cache-buster
+    const response = await fetch('Economic/economics_questions_db.json?v=' + Date.now());
     if (!response.ok) throw new Error('Failed to load questions database');
     state.questions = await response.json();
     

@@ -73,10 +73,17 @@ def main():
         
     topic_facts = all_facts.get(args.topic, [])
     if not topic_facts:
-        print(f"Error: No facts found in economics_facts.json for topic '{args.topic}'")
+        print(f"Error: No facts found for topic '{args.topic}'")
         exit(1)
-        
-    print(f"Loaded {len(topic_facts)} ground-truth facts for Current Affairs.")
+
+    # Slice facts per batch if rich facts exist to guarantee zero duplication
+    if len(topic_facts) >= 30:
+        if "Batch 1" in args.batch:
+            topic_facts = topic_facts[:25]
+        elif "Batch 2" in args.batch:
+            topic_facts = topic_facts[25:50]
+            
+    print(f"Using {len(topic_facts)} distinct ground-truth facts for {args.batch}.")
     
     # 2. Load database & build exclusion list
     if not os.path.exists(DB_PATH):
@@ -99,7 +106,7 @@ def main():
             
     # 4. Formulate the Current Affairs prompt
     prompt = f"""
-You are a expert TNPSC (Tamil Nadu Public Service Commission) Group exam question setter.
+You are an expert TNPSC (Tamil Nadu Public Service Commission) Group exam question setter.
 Your task is to generate exactly **34 unique, high-quality, syllabus-aligned bilingual (English and Tamil) questions** based ONLY on the provided facts.
 This is for **{args.batch}** of the topic "{args.topic}".
 
@@ -114,6 +121,12 @@ EXISTING QUESTIONS TO EXCLUDE (DO NOT duplicate, copy, or paraphrase these):
 ---
 CURRENT AFFAIRS GENERATION RULES & PATTERNS:
 {guide_rules}
+
+---
+CRITICAL FACT DIVERSITY RULE:
+- Every question MUST test a DIFFERENT fact from the CORE FACTS list.
+- DO NOT re-use or re-test the same fact across multiple questions.
+- Guarantee 100% fact coverage across all provided facts. Every single fact in the array should be tested.
 
 ---
 CRITICAL FORMAT RULES:

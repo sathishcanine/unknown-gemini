@@ -757,10 +757,13 @@ body {
    SCREEN 3: QUIZ TESTING INTERFACE
    ========================================================================== */
 .full-height-screen {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+  right: 20px;
+  bottom: 80px;
   display: none;
   flex-direction: column;
-  height: calc(100% - 44px); /* Subtract status bar */
-  padding-bottom: 20px !important;
 }
 
 .full-height-screen.active {
@@ -842,6 +845,7 @@ body {
 /* Question Container */
 .question-container {
   flex: 1;
+  min-height: 0; /* Prevents flexbox item from overflowing */
   overflow-y: auto;
   scrollbar-width: none;
   padding-bottom: 12px;

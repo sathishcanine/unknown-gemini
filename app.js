@@ -20,12 +20,204 @@ const state = {
       focus: "Focus on features of Indian economy (strength & weaknesses), mixed economy concept, and development indicators (GNH, HDI, standard of living)."
     },
     "Planning Commission": {
-      title: "Planning Commission & Five Year Plans",
-      titleTa: "திட்டக்குழு மற்றும் ஐந்தாண்டு திட்டங்கள்",
-      book: "Class 11 Economics Textbook (11ஆம் வகுப்பு பொருளியல்)",
+      title: "Planning Commission",
+      titleTa: "திட்டக்குழு",
+      book: "Class 11 Economics Textbook (11ஆம் வகுப்பு பொருளியல்) & Suresh Polity",
       chapter: "Chapter 8: Economic Planning (அத்தியாயம் 8: பொருளாதார திட்டமிடல்)",
       pages: "Pages 160 - 172",
-      focus: "Focus on the history of planning commission, planning models (Gandhian, Nehruvian), and objectives/performance of Five Year Plans."
+      focus: "Focus on the history of the Planning Commission, National Development Council (NDC), and pre-independence economic plans."
+    },
+    "Five Year Plan": {
+      title: "Five Year Plans & Performance",
+      titleTa: "ஐந்தாண்டு திட்டங்கள் மற்றும் சாதனைகள்",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்)",
+      chapter: "Chapter 11: Economic Development and Planning (அத்தியாயம் 11: பொருளாதார மேம்பாடு மற்றும் திட்டமிடல்)",
+      pages: "Pages 290 - 303",
+      focus: "Focus on the growth targets, models, actual outcomes, plan holidays, rolling plans, and evaluation of all 12 Five-Year Plans."
+    },
+    "NITI Aayog": {
+      title: "NITI Aayog",
+      titleTa: "நிதி ஆயோக்",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்) & Gurunath",
+      chapter: "Chapter 11: Economic Development and Planning (அத்தியாயம் 11: பொருளாதார மேம்பாடு மற்றும் திட்டமிடல்) & Gurunath Page 35",
+      pages: "Class 12 Page 291 / Gurunath Page 35",
+      focus: "Focus on NITI Aayog origin, structure, Governing Council components, think tank functions, cooperative federalism, and differences from the Planning Commission."
+    },
+    "National Income": {
+      title: "National Income",
+      titleTa: "தேசிய வருவாய்",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்)",
+      chapter: "Chapter 2: National Income (அத்தியாயம் 2: நாட்டு வருமானம்)",
+      pages: "Pages 23 - 43",
+      focus: "Focus on GDP, GNP, NNP concepts, per capita income equations, measurement methods (Product, Income, Expenditure), and difficulties in calculation."
+    },
+    "Fiscal Policy": {
+      title: "Fiscal Policy",
+      titleTa: "நிதிக் கொள்கை",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்)",
+      chapter: "Chapter 9: Fiscal Economics (அத்தியாயம் 9: நிதிப் பொருளியல்)",
+      pages: "Pages 237 - 244",
+      focus: "Focus on Fiscal Policy instruments (Taxation, Public Expenditure, Public Debt, Deficit Financing), academic definitions, and socio-economic objectives."
+    },
+    "Finance Commission": {
+      title: "Finance Commission",
+      titleTa: "நிதிக்குழு",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்)",
+      chapter: "Chapter 9: Fiscal Economics (அத்தியாயம் 9: நிதிப் பொருளியல்)",
+      pages: "Pages 233 - 235",
+      focus: "Focus on Finance Commission history, table of chairmen (1st to 15th), Article 280 constitutional provisions, and vertical/horizontal fiscal imbalances."
+    },
+    "GST": {
+      title: "GST",
+      titleTa: "சரக்கு மற்றும் சேவை வரி (GST)",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்) & Gurunath",
+      chapter: "Chapter 9: Fiscal Economics (அத்தியாயம் 9: நிதிப் பொருளியல்) & Gurunath Page 144",
+      pages: "Class 12 Page 220 - 221 / Gurunath Page 144",
+      focus: "Focus on Goods and Services Tax (GST) timeline (March 29, 2017 & July 1, 2017), Central vs State taxes subsumed, CGST/SGST/IGST divisions, destination-based rules, VAT vs GST, and technological features."
+    },
+    "RBI": {
+      title: "RBI",
+      titleTa: "இந்திய ரிசர்வ் வங்கி (RBI)",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்) & Gurunath",
+      chapter: "Chapter 6: Banking (அத்தியாயம் 6: வங்கியியல்) & Gurunath Page 100",
+      pages: "Class 12 Page 120 - 128 / Gurunath Page 100",
+      focus: "Focus on Reserve Bank of India (RBI) timelines (1934 Act, April 1, 1935 start, Jan 1, 1949 nationalization), the 15 central banking functions, quantitative vs qualitative credit control tools (bank rate, CRR, SLR, repo, reverse repo, moral suasion, rationing), PSS Act 2007, Banking Ombudsman 1995, ARDC 1963, NABARD 1982, and RRBs 1975."
+    },
+    "Banking Sector": {
+      title: "Banking Sector",
+      titleTa: "வங்கித் துறை (Banking Sector)",
+      book: "Class 11 & Class 12 Economics Textbook (11 & 12ஆம் வகுப்பு பொருளியல்)",
+      chapter: "Class 11 Chapter 8: Indian Economy & Class 12 Chapter 6: Banking",
+      pages: "Class 11 Pages 213 - 214 / Class 12 Pages 111 - 119 & 130 - 134",
+      focus: "Focus on bank nationalization history (July 19, 1969 & 1980 deposits requirements and bank counts), the 4 consolidated public sector bank mergers, commercial banking functions (primary vs secondary), credit creation mechanics (primary vs derived deposits, money multiplier formula), NBFIs, and development banking details (IFCI 1948, ICICI 1955, IDBI 1976, EXIM 1982, SFCs 1951, and SIDCOs)."
+    },
+    "Monetary Policy": {
+      title: "Monetary Policy",
+      titleTa: "பணவியல் கொள்கை (Monetary Policy)",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்) & Gurunath",
+      chapter: "Chapter 6: Banking (அத்தியாயம் 6: வங்கியியல்) & Gurunath Page 119",
+      pages: "Class 12 Pages 134 - 137 / Gurunath Pages 119 - 123",
+      focus: "Focus on cheap money vs dear money states (inflation/recession), Milton Friedman (1976 Nobel Prize, Monetary History book), Cassel/Keynes (1936 General Theory book) theories, neutrality of money, and the 6 key objectives of monetary policy."
+    },
+    "Inflation": {
+      title: "Inflation",
+      titleTa: "பணவீக்கம் (Inflation)",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்)",
+      chapter: "Chapter 5: Monetary Economics (அத்தியாயம் 5: பணவியல் பொருளியல்)",
+      pages: "Class 12 Pages 98 - 106",
+      focus: "Focus on Keynes' determination equations (n=p(k+rk')), classifications of inflation by speed (creeping <3%, walking 3-9%, running 10-20%, hyper/galloping >20%), Zimbabwe's 2007 hyperinflation, demand-pull/cost-push/credit/deficit causes, wage-price spiral, effects on distribution (debtors/creditors, entrepreneurs, fixed income), deflation, stagflation, and the 4 business cycle phases (boom, recession, depression, recovery)."
+    },
+    "Source of revenue": {
+      title: "Source of revenue",
+      titleTa: "வருவாய் ஆதாரங்கள் (Source of Revenue)",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்) & Gurunath",
+      chapter: "Chapter 9: Fiscal Economics (அத்தியாயம் 9: நிதிப் பொருளியல்) & Gurunath Page 144",
+      pages: "Class 12 Pages 213 - 219 / Gurunath Pages 144 - 153",
+      focus: "Focus on public/government revenue definitions, direct vs indirect tax differences, merits/demerits of direct/indirect taxes, Adam Smith's 4 canons of taxation (equity, certainty, convenience, economy), and non-tax revenue components (fees, fines, public sector dividends, special assessments, gifts/grants, escheats)."
+    },
+    "Resource Sharing": {
+      title: "Resource Sharing",
+      titleTa: "மத்திய மாநில வளப் பகிர்வு (Resource Sharing)",
+      book: "Class 12 Economics Textbook (12ஆம் வகுப்பு பொருளியல்) & Gurunath",
+      chapter: "Chapter 9: Fiscal Economics (அத்தியாயம் 9: நிதிப் பொருளியல்) & Gurunath Page 166",
+      pages: "Class 12 Pages 230 - 233 / Gurunath Pages 166 - 169",
+      focus: "Focus on division of legislative powers (7th Schedule: Union (100), State (61), Concurrent (52) list counts), financial distribution constitutional articles (Articles 268, 269, 270, 271, 272, 275(1), 282), Finance Commission (Article 280) role/milestones (1st, 14th, 15th FC), federal finance principles (independence, uniformity, adequacy, administrative economy, accountability), and fiscal fairness rules."
+    },
+    "Rural Welfare": {
+      title: "Rural Welfare",
+      titleTa: "கிராமப்புற நலம் சார்ந்த திட்டங்கள் (Rural Welfare)",
+      book: "Class 11 Economics Textbook & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 10: Rural Economics & Gurunath Page 36 & Suresh Page 14",
+      pages: "Class 11 Pages 261 - 263 / Gurunath Pages 36 - 44 / Suresh Page 14",
+      focus: "Focus on rural electrification statistics (99.25% in 2017), rural road length (26.50 lakh km, 13.5% paved), Gilbert Slater's 1918 village study book, DPSP (Articles 36-51) Irish origins and Ambedkar/Granville descriptions, DPSP Articles 40, 41, 43, 43B, 46, 47, early welfare programs (CDP 1952, DPAP 1973), chronological employment schemes (JRY 1989, EAS 1993, SGRY 2001, MGNREGA 2006), self-employment/skill programs (TRYSEM 1979, IRDP 1980, DWCRA 1982, PMRY 1993, SGSY 1999), and infrastructure schemes (REC 1969, HUDCO 1970, PMGSY 2000, Antyodaya Anna Yojana 2000)."
+    },
+    "Land Reforms": {
+      title: "Land Reforms",
+      titleTa: "நிலச் சீர்திருத்தங்கள் (Land Reforms)",
+      book: "Class 11 Economics Textbook & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 8: Indian Economy before and after Independence & Gurunath Page 68 & Suresh Page 61",
+      pages: "Class 11 Pages 205 - 207 / Gurunath Page 68 / Suresh Page 61",
+      focus: "Focus on British land tenure systems (Zamindari/Landlord, Ryotwari/Owner-cultivator, Mahalwari/Joint-village), Cornwallis 1793 Permanent Settlement Act, 10/11th to government vs 1/11th to Zamindars ratio, Ryotwari 1820 Thomas Munro in Tamil Nadu, Mahalwari village community management, post-independence land reform objectives (cooperative farming, consolidation of holdings, land ceiling laws, and tenancy reforms), Bhoodan movement (Vinoba Bhave 1951), 1st Constitutional Amendment (1951) introducing 9th Schedule and Article 31B, 9th Schedule laws count (13 to 284), Kesavananda Bharati April 24, 1973 cut-off date, and court cases (Golaknath, Kesavananda Bharati, Minerva Mills)."
+    },
+    "Agriculture": {
+      title: "Agriculture",
+      titleTa: "வேளாண்மை (Agriculture)",
+      book: "Class 11 Economics Textbook & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 8 & Chapter 10 & Gurunath Pages 51-61, 71 & Suresh Page 14",
+      pages: "Class 11 Pages 210-211, 259-262 / Gurunath Pages 51-61, 71 / Suresh Page 14",
+      focus: "Focus on economic contribution of agriculture, Green Revolution (HYV, seeds/fertilizers/chemical pesticide package, output growth), Second Green Revolution (doubling food grain production from 214 million tons in 2006-07 to 400 million tons by 2020), agricultural credit & rural indebtedness, crop patterns, pricing and marketing institutions (NAFED), crop insurance (NAIS, PMFBY), sustainable agriculture (NMSA), and DPSP Article 47 nutrition/health goals."
+    },
+    "Agriculture S&T": {
+      title: "Science & Tech in Agriculture",
+      titleTa: "வேளாண்மையில் அறிவியல் மற்றும் தொழில்நுட்பத்தின் பயன்பாடுகள் (Science & Tech in Agriculture)",
+      book: "Class 11 & Class 12 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 8 & Class 12 Chapter 8 & Chapter 10 & Gurunath Pages 6, 36, 58, 59 & Suresh Page 14",
+      pages: "Class 11 Pages 210-212 / Class 12 Pages 196-198, 265, 272-273 / Gurunath Pages 6, 36, 58, 59 / Suresh Page 14",
+      focus: "Focus on agricultural biotechnology (GM crops/BT cotton), tissue culture, High Yielding Varieties Programme (HYVP 1966-67, seeds/NPK fertilizer/chemical pesticide inputs), early technical programs (IADP 1960-61, IAAP 1964-65), micro-irrigation (National Mission for Micro Irrigation - NMMI 2010, drip and sprinkler systems), National Mission for Sustainable Agriculture (NMSA), organic farming goals, environmental impact of toxic fertilizers (DDT, BHC), Seed Balls (விதை பந்து), WTO agreements (TRIPS 20-year patents / 50-year copyrights, Agreement on Agriculture (AoA) subsidy boxes, TRIMS), and DPSP Article 48 (scientific organization of agriculture)."
+    },
+    "Industrial Policy": {
+      title: "Industrial Policy",
+      titleTa: "தொழில் கொள்கை (Industrial Policy)",
+      book: "Class 11 & Class 12 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 8 & Chapter 9 & Class 12 Chapter 8 & Gurunath Pages 7, 8, 9, 87 & Suresh Page 14",
+      pages: "Class 11 Pages 208-210, 212-217, 234-235, 240 / Class 12 Pages 196-198 / Gurunath Pages 7, 8, 9, 87 / Suresh Page 14",
+      focus: "Focus on industrial policy resolutions (IPR 1948, 1956, 1977, 1980, 1991), mixed economy goals, Shyama Prasad Mukherjee, 1956 schedules (A, B, C) and socialistic pattern of society, Morarji Desai Janata Gov 1977 Gandhian model and District Industries Centres (DIC), WTO agreements (TRIPS, GATS, TRIMS, MFA), LPG (Liberalisation, Privatisation, Globalisation), delicensing, disinvestment (பங்குவிலகல்), core large-scale industries history (Iron & Steel Kulti, Jute Rishra 1855, Paper Serampore 1812, Silk global ranking, Digboi first oil well 1889), MSME investment classifications (Micro <₹25L, Small ₹25L-₹5C, Medium ₹5C-₹10C), Special Economic Zones (SEZ) objectives, and DPSP Article 39(b)(c) concentration of wealth."
+    },
+    "Human Development Index": {
+      title: "Human Development Index",
+      titleTa: "மனித வள மேம்பாட்டுக் குறியீடு (Human Development Index)",
+      book: "Class 11 & Class 12 Economics & Gurunath",
+      chapter: "Class 11 Chapter 7 & Chapter 8 & Class 12 Chapter 2 & Chapter 11 & Gurunath Pages 9, 87, 88",
+      pages: "Class 11 Pages 174, 224-225 / Class 12 Pages 43, 47 / Gurunath Pages 9, 87, 88",
+      focus: "Focus on Human Development Index (HDI) definition, parameters (longevity/life expectancy, education/literacy, per capita income), UNDP global reports since 1990, Mahbub ul Haq and Amartya Sen pioneers, HDI scale classifications (Low 0-0.49, Medium 0.50-0.79, High 0.80-1.0), India's HDI progress (0.302 in 1981 to 0.472 in 2011), India's ranking in global reports (131st in 2016), Kerala 1st vs Bihar last in India, Indian Planning Commission National Human Development Report in 2001, Physical Quality of Life Index (PQLI) created by Morris D. Morris in 1979 measuring infant mortality, life expectancy, and basic literacy (excluding income), Gross National Happiness Index (GNHI) coined in 1972 by Bhutan's 4th King Jigme Singye Wangchuck with its 4 pillars (sustainable development, environmental conservation, cultural promotion, and good governance), and indicators pioneers Harbison and Myers."
+    },
+    "International Organization": {
+      title: "International Organization",
+      titleTa: "பன்னாட்டு அமைப்புகள் (International Organization)",
+      book: "Class 12 Economics & Gurunath",
+      chapter: "Class 12 Chapter 8 & Gurunath Pages 31-34",
+      pages: "Class 12 Pages 186-211 / Gurunath Pages 31-34",
+      focus: "Focus on International Economic Organisations: IMF (Washington D.C. 1945, Bretton Woods, SDR/Paper Gold 1969, currency basket, World Economic Outlook), World Bank/IBRD (Washington D.C. 1945, World Bank Group IBRD, IDA Soft Loan Window, IFC 1956, MIGA 1988, ICSID 1966 - India NOT a member), WTO (Geneva 1995, replaced GATT 1948, Marrakesh Agreement, TRIPS, TRIMS, GATS, AoA), UNCTAD (1964), regional organizations: SAARC (Kathmandu 1985, member nations, SAFTA), BRICS (2009 first summit, 2010 South Africa added, NDB Shanghai, member nations), ASEAN (Jakarta 1967, Bangkok Declaration, member nations, AFTA), and Asian Development Bank (ADB Manila 1966)."
+    },
+    "Social Problem : Population": {
+      title: "Social Problem : Population",
+      titleTa: "சமூகப் பிரச்சினைகள் : மக்கள் தொகை (Social Problem : Population)",
+      book: "Class 11 & Class 12 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 7 & Chapter 11 & Class 12 Chapter 11 & Gurunath",
+      pages: "Class 11 Pages 176-177, 278-279, 294-295 / Class 12 Pages 283 / Gurunath Pages 9, 87",
+      focus: "Focus on population growth indicators, demographic transition theory (3 phases, population explosion), birth rate, death rate, growth rate, population density (TN 555 vs national 382), gender ratio (995 overall, 946 for ages 0-6 in TN), highest and lowest gender ratio districts (Nilgiris/Kanyakumari vs Theni/Dharmapuri), child mortality rate, IMR (17 in 2016) and MMR (79 in 2016) in Tamil Nadu, and Malthusian theory of population."
+    },
+    "Social Problem : Poverty": {
+      title: "Social Problem : Poverty",
+      titleTa: "சமூகப் பிரச்சினைகள் : வறுமை (Social Problem : Poverty)",
+      book: "Class 11 & Class 12 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 7 & Chapter 10 & Class 12 Chapter 11 & Gurunath Pages 22-26 & Suresh Page 14",
+      pages: "Class 11 Pages 179, 248-249 / Class 12 Pages 281-282 / Gurunath Pages 22-26 / Suresh Page 14",
+      focus: "Focus on definitions of poverty, rural poverty rates (54.10% in 2009-10), national poverty rates (33.80% in 2009-10), underprivileged groups poverty rate (80% in 2005), 22 crore people below poverty line in 2015, Malcolm Darling's quote ('born in debt, lives in debt...'), Schumacher's 'Small is Beautiful' (Dual Poisoning), Ragnar Nurkse's Vicious Cycle of Poverty, poverty measurement committees (Alagh, Lakdawala, Tendulkar, Rangarajan), AIDIS study (organized credit decrease from 66.3% to 57.1%), and poverty alleviation schemes (20-Point Programme, Food for Work, IRDP, NREP, RLEGP, JRY, Bharat Nirman, NFSA)."
+    },
+    "Social Problem : Employment": {
+      title: "Social Problem : Employment",
+      titleTa: "சமூகப் பிரச்சினைகள் : வேலைவாய்ப்பு மற்றும் வேலையின்மை (Social Problem : Employment)",
+      book: "Class 11 & Class 12 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 7 & Chapter 10 & Class 12 Chapter 3 & Gurunath Pages 22-26 & Suresh Page 14",
+      pages: "Class 11 Pages 179, 249-251 / Class 12 Pages 50-52 / Gurunath Pages 22-26 / Suresh Page 14",
+      focus: "Focus on unemployment types (cyclical, seasonal, frictional, structural, disguised, open, voluntary vs involuntary), disguised unemployment estimation (25%-30% in rural areas), Agricultural Labour Enquiry underemployment stat (84% underemployed, 82 idle days/year), Say's Law of Markets vs Keynesian Theory of Income and Employment, unemployment rates (rural 7.8%, urban 10.1%, national 8.5% in Oct 2016), MGNREGA (2006) details, and labour laws (Minimum Wages Act 1948, Bonded Labour System Abolition Act 1976)."
+    },
+    "Social Problem : Education": {
+      title: "Social Problem : Education",
+      titleTa: "சமூகப் பிரச்சினைகள் : கல்வி (Social Problem : Education)",
+      book: "Class 11 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 7 & Chapter 10 & Chapter 11 & Gurunath Pages 86-87",
+      pages: "Class 11 Pages 180-181, 253, 280, 289-290 / Gurunath Pages 86-87",
+      focus: "Focus on educational infrastructure, Gross Enrollment Ratio (GER) in higher education in Tamil Nadu (46.9% in 2016-17) vs national average (25.2%), Tamil Nadu's share of public sector bank educational loans (20.8% - highest in India), literacy rate in Tamil Nadu (80.33% - male 86.81%, female 73.86%), highest/lowest literacy districts (Kanyakumari vs Dharmapuri), Right to Education (RTE) provisions, Samacheer Kalvi (2010), and Sarva Shiksha Abhiyan (SSA)."
+    },
+    "Social Problem : Health": {
+      title: "Social Problem : Health",
+      titleTa: "சமூகப் பிரச்சினைகள் : சுகாதாரம் (Social Problem : Health)",
+      book: "Class 11 Economics & Gurunath & Suresh",
+      chapter: "Class 11 Chapter 7 & Chapter 10 & Chapter 11 & Gurunath Pages 86-87",
+      pages: "Class 11 Pages 181-182, 254-255, 279, 290-291 / Gurunath Pages 86-87",
+      focus: "Focus on health infrastructure (three-tier system), medical tourism and Chennai as 'Medical Capital of India', child mortality rate, IMR and MMR in Tamil Nadu, Cradle Baby Scheme (1992), Mid-day Meal Scheme (1956 - Kamarajar), and ICDS nutrition indices."
     }
   }
 };

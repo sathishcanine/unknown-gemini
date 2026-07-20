@@ -3688,5 +3688,1235 @@
     "type": "practice",
     "batch": "Batch 1",
     "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the expected launch date for India's first quantum computer in Amaravati?",
+    "question_ta": "அமராவதியில் இந்தியாவின் முதல் குவாண்டம் கணினி தொடங்கப்படும் எதிர்பார்க்கப்படும் தேதி எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "March 14, 2026",
+        "text_ta": "மார்ச் 14, 2026"
+      },
+      {
+        "key": "B",
+        "text_en": "April 14, 2026",
+        "text_ta": "ஏப்ரல் 14, 2026"
+      },
+      {
+        "key": "C",
+        "text_en": "May 14, 2026",
+        "text_ta": "மே 14, 2026"
+      },
+      {
+        "key": "D",
+        "text_en": "June 14, 2026",
+        "text_ta": "ஜூன் 14, 2026"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The quantum computer is scheduled to launch on April 14, 2026.",
+    "explanation_ta": "இந்த குவாண்டம் கணினி ஏப்ரல் 14, 2026 அன்று தொடங்கப்பட உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which tiger reserve in Madhya Pradesh is identified as India's third cheetah habitat?",
+    "question_ta": "மத்தியப் பிரதேசத்தில் உள்ள எந்த புலிகள் காப்பகம் இந்தியாவின் மூன்றாவது சிறுத்தை வாழ்விடமாக அடையாளம் காணப்பட்டுள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kanha Tiger Reserve",
+        "text_ta": "கான்ஹா புலிகள் காப்பகம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Bandhavgarh Tiger Reserve",
+        "text_ta": "பந்தவ்கர் புலிகள் காப்பகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Veerangana Durgavati Tiger Reserve",
+        "text_ta": "வீராங்கனா துர்காவதி புலிகள் காப்பகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Pench Tiger Reserve",
+        "text_ta": "பெஞ்ச் புலிகள் காப்பகம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The Veerangana Durgavati Tiger Reserve is India's third cheetah habitat, incorporating the Nauradehi Wildlife Sanctuary.",
+    "explanation_ta": "வீராங்கனா துர்காவதி புலிகள் காப்பகம் இந்தியாவின் மூன்றாவது சிறுத்தை வாழ்விடமாகும், இது நௌராதேஹி வனவிலங்கு சரணாலயத்தை உள்ளடக்கியது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Regarding the Empowerment of Women initiatives in 2026, which of the following is true?\n1. Lakhpati Didi target involves creating 6 crore beneficiaries by 2029.\n2. EmpowerHer 1.0 program supports more than 6,000 women entrepreneurs.",
+    "question_ta": "2026-ஆம் ஆண்டின் மகளிர் அதிகாரமளித்தல் முயற்சிகள் குறித்து பின்வருவனவற்றில் எது உண்மை?\n1. லக்‌பதி திதி இலக்கு 2029-க்குள் 6 கோடி பயனாளிகளை உருவாக்குவதை உள்ளடக்கியது.\n2. எம்பவர்ஹெர் 1.0 திட்டம் 6,000-க்கும் மேற்பட்ட பெண் தொழில்முனைவோரை ஆதரிக்கிறது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 சரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 மற்றும் 2 தவறு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Both facts are accurately stated regarding recent women-centric initiatives.",
+    "explanation_ta": "மகளிர் சார்ந்த சமீபத்திய முயற்சிகள் குறித்த இரண்டு தகவல்களும் துல்லியமாக உள்ளன.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How many Tamil writers have received the Jnanpith Award including R. Vairamuthu?",
+    "question_ta": "வைரமுத்துவை உள்ளடக்கி இதுவரை எத்தனை தமிழ் எழுத்தாளர்கள் ஞானபீட விருதைப் பெற்றுள்ளனர்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "One",
+        "text_ta": "ஒன்று"
+      },
+      {
+        "key": "B",
+        "text_en": "Two",
+        "text_ta": "இரண்டு"
+      },
+      {
+        "key": "C",
+        "text_en": "Three",
+        "text_ta": "மூன்று"
+      },
+      {
+        "key": "D",
+        "text_en": "Four",
+        "text_ta": "நான்கு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Akilandam, Jayakanthan, and Vairamuthu are the three recipients.",
+    "explanation_ta": "அகிலந்தம், ஜெயகாந்தன் மற்றும் வைரமுத்து ஆகிய மூவரும் இந்த விருதைப் பெற்றவர்கள்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the revised target year for creating 6 crore 'Lakhpati Didis'?",
+    "question_ta": "6 கோடி 'லக்‌பதி திதிகளை' உருவாக்கும் திருத்தப்பட்ட இலக்கு ஆண்டு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "March 2027",
+        "text_ta": "மார்ச் 2027"
+      },
+      {
+        "key": "B",
+        "text_en": "March 2028",
+        "text_ta": "மார்ச் 2028"
+      },
+      {
+        "key": "C",
+        "text_en": "March 2029",
+        "text_ta": "மார்ச் 2029"
+      },
+      {
+        "key": "D",
+        "text_en": "March 2030",
+        "text_ta": "மார்ச் 2030"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The target to create 6 crore 'Lakhpati Didis' is set for March 2029.",
+    "explanation_ta": "6 கோடி 'லக்‌பதி திதிகளை' உருவாக்கும் இலக்கு மார்ச் 2029-க்குள் நிர்ணயிக்கப்பட்டுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Match the following regarding recent developments in India:\na) First Quantum Computer Launch\nb) First Dark Sky Park in Tamil Nadu\nc) 60th Jnanpith Award Recipient\nd) UCC Bill 2026 state",
+    "question_ta": "இந்தியாவின் சமீபத்திய முன்னேற்றங்கள் தொடர்பாக பின்வருவனவற்றை பொருத்துக:\na) முதல் குவாண்டம் கணினி தொடக்கம்\nb) தமிழ்நாட்டின் முதல் டார்க் ஸ்கை பூங்கா\nc) 60-வது ஞானபீட விருது வென்றவர்\nd) UCC மசோதா 2026 நிறைவேற்றிய மாநிலம்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1-c, 2-d, 3-a, 4-b",
+        "text_ta": "1-c, 2-d, 3-a, 4-b"
+      },
+      {
+        "key": "B",
+        "text_en": "a-4, b-3, c-1, d-2",
+        "text_ta": "a-4, b-3, c-1, d-2"
+      },
+      {
+        "key": "C",
+        "text_en": "a-2, b-4, c-1, d-3",
+        "text_ta": "a-2, b-4, c-1, d-3"
+      },
+      {
+        "key": "D",
+        "text_en": "a-1, b-3, c-2, d-4",
+        "text_ta": "a-1, b-3, c-2, d-4"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "a-4 (Amaravati), b-3 (Kolli Hills), c-1 (R. Vairamuthu), d-2 (Gujarat).",
+    "explanation_ta": "a-4 (அமராவதி), b-3 (கொல்லிமலை), c-1 (வைரமுத்து), d-2 (குஜராத்).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The Majlis Park–Maujpur-Babarpur extension of the Pink Line is part of which transport initiative?",
+    "question_ta": "பிங்க் லைனின் மஜ்லிஸ் பார்க்–மௌஜ்பூர்-பாபர்பூர் நீட்டிப்பு எந்த போக்குவரத்து முயற்சியின் ஒரு பகுதியாகும்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "India's first Ring Metro",
+        "text_ta": "இந்தியாவின் முதல் ரிங் மெட்ரோ"
+      },
+      {
+        "key": "B",
+        "text_en": "Smart City Project",
+        "text_ta": "ஸ்மார்ட் சிட்டி திட்டம்"
+      },
+      {
+        "key": "C",
+        "text_en": "National EV Mission",
+        "text_ta": "தேசிய மின்சார வாகன இயக்கம்"
+      },
+      {
+        "key": "D",
+        "text_en": "High-Speed Rail Corridor",
+        "text_ta": "அதிவேக ரயில் வழித்தடம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "This extension is a key part of Delhi's first Ring Metro project.",
+    "explanation_ta": "இந்த நீட்டிப்பு டெல்லியின் முதல் ரிங் மெட்ரோ திட்டத்தின் முக்கிய பகுதியாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Regarding the Uniform Civil Code (UCC) Bill 2026 in Gujarat, identify the correct statement:\n1. It was passed on March 24, 2026.\n2. Gujarat is the first state in India to pass such a bill.",
+    "question_ta": "குஜராத்தில் நிறைவேற்றப்பட்ட பொது சிவில் சட்ட (UCC) மசோதா 2026 குறித்து சரியான கூற்றை அடையாளம் காணவும்:\n1. இது மார்ச் 24, 2026 அன்று நிறைவேற்றப்பட்டது.\n2. இத்தகைய மசோதாவை நிறைவேற்றிய இந்தியாவின் முதல் மாநிலம் குஜராத் ஆகும்.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 சரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 மற்றும் 2 தவறு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Uttarakhand was the first state to pass the UCC bill; Gujarat was the second.",
+    "explanation_ta": "உத்தரகண்ட் தான் UCC மசோதாவை நிறைவேற்றிய முதல் மாநிலம்; குஜராத் இரண்டாவது மாநிலமாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary objective of the PM E-DRIVE Scheme?",
+    "question_ta": "பிஎம் இ-டிரைவ் (PM E-DRIVE) திட்டத்தின் முதன்மை நோக்கம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Increase solar capacity",
+        "text_ta": "சூரிய சக்தி திறனை அதிகரித்தல்"
+      },
+      {
+        "key": "B",
+        "text_en": "Accelerate EV adoption",
+        "text_ta": "மின்சார வாகன பயன்பாட்டை விரைவுபடுத்துதல்"
+      },
+      {
+        "key": "C",
+        "text_en": "Improve rail infrastructure",
+        "text_ta": "ரயில்வே உள்கட்டமைப்பை மேம்படுத்துதல்"
+      },
+      {
+        "key": "D",
+        "text_en": "Promote wind energy",
+        "text_ta": "காற்று ஆற்றலை ஊக்குவித்தல்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The scheme aims to accelerate EV adoption and build charging infrastructure.",
+    "explanation_ta": "இந்தத் திட்டம் மின்சார வாகனங்களின் பயன்பாட்டை ஊக்குவிக்கவும் சார்ஜிங் உள்கட்டமைப்பை உருவாக்கவும் நோக்கமாகக் கொண்டுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which organizations launched the 'EmpowerHer 1.0' program to support women entrepreneurs?",
+    "question_ta": "பெண் தொழில்முனைவோரை ஆதரிப்பதற்காக 'எம்பவர்ஹெர் 1.0' (EmpowerHer 1.0) திட்டத்தைத் தொடங்கிய அமைப்புகள் எவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "StartupTN and TNWeSafe",
+        "text_ta": "ஸ்டார்ட்அப் டிஎன் மற்றும் டிஎன்விசேஃப்"
+      },
+      {
+        "key": "B",
+        "text_en": "TIDCO and SIPCOT",
+        "text_ta": "டிட்கோ மற்றும் சிப்காட்"
+      },
+      {
+        "key": "C",
+        "text_en": "StartupTN and MSME Dept",
+        "text_ta": "ஸ்டார்ட்அப் டிஎன் மற்றும் குறு, சிறு மற்றும் நடுத்தர தொழில் துறை"
+      },
+      {
+        "key": "D",
+        "text_en": "TNWeSafe and Women's Commission",
+        "text_ta": "டிஎன்விசேஃப் மற்றும் மகளிர் ஆணையம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "StartupTN and TNWeSafe launched the EmpowerHer 1.0 Program in March 2026.",
+    "explanation_ta": "மார்ச் 2026-இல் ஸ்டார்ட்அப் டிஎன் மற்றும் டிஎன்விசேஃப் இணைந்து எம்பவர்ஹெர் 1.0 திட்டத்தைத் தொடங்கின.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Tamil Nadu has established its first Dark Sky Park at Kolli Hills. Reason (R): Kolli Hills offers ideal atmospheric conditions for astronomical observation.",
+    "question_ta": "கூற்று (A): தமிழ்நாடு தனது முதல் டார்க் ஸ்கை பூங்காவை கொல்லிமலையில் அமைத்துள்ளது. காரணம் (R): கொல்லிமலை வானியல் அவதானிப்புகளுக்கு ஏற்ற வளிமண்டல சூழலை வழங்குகிறது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) சரி, (R) என்பது (A)-வின் சரியான விளக்கமாகும்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி, ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு, ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Dark sky parks are selected based on clear visibility and lack of light pollution, consistent with Kolli Hills' location.",
+    "explanation_ta": "டார்க் ஸ்கை பூங்காக்கள் தெளிவான பார்வை மற்றும் ஒளி மாசுபாடு இல்லாததன் அடிப்படையில் தேர்ந்தெடுக்கப்படுகின்றன, இது கொல்லிமலைக்கு பொருந்தும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which organisation provides the data for the 'World Happiness Report'?",
+    "question_ta": "'உலக மகிழ்ச்சி அறிக்கை'க்கான தரவுகளை வழங்கும் அமைப்பு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "United Nations",
+        "text_ta": "ஐக்கிய நாடுகள் சபை"
+      },
+      {
+        "key": "B",
+        "text_en": "World Health Organization",
+        "text_ta": "உலக சுகாதார அமைப்பு"
+      },
+      {
+        "key": "C",
+        "text_en": "World Bank",
+        "text_ta": "உலக வங்கி"
+      },
+      {
+        "key": "D",
+        "text_en": "Not specified in text",
+        "text_ta": "குறிப்பில் குறிப்பிடப்படவில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The provided text mentions the report rankings but does not specify the organization.",
+    "explanation_ta": "கொடுக்கப்பட்ட உரையானது அறிக்கையின் தரவரிசையைக் குறிப்பிடுகிறது, ஆனால் அமைப்பைத் தெரிவிக்கவில்லை.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Consider the following entities:\n1. StartupTN\n2. Ministry of Agriculture\n3. Ministry of Heavy Industries\nWhich of these are directly involved in the initiatives launched in March 2026 as per the given facts?",
+    "question_ta": "பின்வரும் அமைப்புகளைக் கவனியுங்கள்:\n1. ஸ்டார்ட்அப் டிஎன்\n2. விவசாய அமைச்சகம்\n3. கனரகத் தொழில்கள் அமைச்சகம்\nகொடுக்கப்பட்ட உண்மைகளின்படி, மார்ச் 2026-இல் தொடங்கப்பட்ட திட்டங்களில் நேரடியாக ஈடுபட்டுள்ளவை எவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "D",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "StartupTN (EmpowerHer), Ministry of Agriculture (Bharat-VISTAAR), and Ministry of Heavy Industries (PM E-DRIVE) are all involved.",
+    "explanation_ta": "ஸ்டார்ட்அப் டிஎன், விவசாய அமைச்சகம் மற்றும் கனரகத் தொழில்கள் அமைச்சகம் ஆகியவை அனைத்தும் இந்தத் திட்டங்களில் ஈடுபட்டுள்ளன.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The 'Vikko Sat-1' project was led by students from which district in Tamil Nadu?",
+    "question_ta": "'விக்கோ சாட்-1' திட்டம் தமிழ்நாட்டின் எந்த மாவட்டத்தைச் சேர்ந்த மாணவர்களால் வழிநடத்தப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Chennai",
+        "text_ta": "சென்னை"
+      },
+      {
+        "key": "B",
+        "text_en": "Coimbatore",
+        "text_ta": "கோயம்புத்தூர்"
+      },
+      {
+        "key": "C",
+        "text_en": "Sivagangai",
+        "text_ta": "சிவகங்கை"
+      },
+      {
+        "key": "D",
+        "text_en": "Madurai",
+        "text_ta": "மதுரை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The satellite was developed by Class XI students from Ariyakudi, Sivagangai district.",
+    "explanation_ta": "இந்த செயற்கைக்கோள் சிவகங்கை மாவட்டம், அரியாக்குடியைச் சேர்ந்த 11-ஆம் வகுப்பு மாணவர்களால் உருவாக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What is the total financial outlay for the PM E-DRIVE Scheme under the Ministry of Heavy Industries to promote EV adoption?",
+    "question_ta": "மின்சார வாகன பயன்பாட்டை ஊக்குவிக்க கனரகத் தொழில்கள் அமைச்சகத்தின் கீழ் உள்ள பிஎம் இ-டிரைவ் (PM E-DRIVE) திட்டத்திற்கான மொத்த நிதி ஒதுக்கீடு எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "₹8,500 crore",
+        "text_ta": "₹8,500 கோடி"
+      },
+      {
+        "key": "B",
+        "text_en": "₹10,900 crore",
+        "text_ta": "₹10,900 கோடி"
+      },
+      {
+        "key": "C",
+        "text_en": "₹12,200 crore",
+        "text_ta": "₹12,200 கோடி"
+      },
+      {
+        "key": "D",
+        "text_en": "₹15,000 crore",
+        "text_ta": "₹15,000 கோடி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The PM E-DRIVE Scheme has an outlay of ₹10,900 crore.",
+    "explanation_ta": "பிஎம் இ-டிரைவ் திட்டம் ₹10,900 கோடி நிதி ஒதுக்கீட்டைக் கொண்டுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Consider the following statements regarding the Autonomous Maritime Shipbuilding and Systems Centre:\n1. It is the world's first such centre.\n2. It will be established at Juvvaladinne Fishing Harbour, Nellore.\nWhich of the above statements is/are correct?",
+    "question_ta": "தன்னாட்சி கடல்சார் கப்பல் கட்டுதல் மற்றும் அமைப்புகள் மையம் குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்:\n1. இது உலகின் முதலாவது மையமாகும்.\n2. இது நெல்லூர் மாவட்டத்தில் உள்ள ஜுவ்வாலதின்னே மீன்பிடி துறைமுகத்தில் நிறுவப்படும்.\nமேற்கூறியவற்றில் சரியான கூற்று எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 சரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 மற்றும் 2 தவறு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Both statements are correct regarding the world's first autonomous maritime centre in Andhra Pradesh.",
+    "explanation_ta": "ஆந்திரப் பிரதேசத்தில் உள்ள உலகின் முதல் தன்னாட்சி கடல்சார் மையம் குறித்த இரண்டு கூற்றுகளும் சரியானவை.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The Nauradehi Wildlife Sanctuary is now part of which recently designated Cheetah habitat?",
+    "question_ta": "நௌராதேஹி வனவிலங்கு சரணாலயம் தற்போது எந்த புதிதாக நியமிக்கப்பட்ட சிறுத்தை வாழ்விடத்தின் ஒரு பகுதியாகும்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kuno National Park",
+        "text_ta": "குனோ தேசிய பூங்கா"
+      },
+      {
+        "key": "B",
+        "text_en": "Veerangana Durgavati Tiger Reserve",
+        "text_ta": "வீராங்கனா துர்காவதி புலிகள் காப்பகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Satpura Tiger Reserve",
+        "text_ta": "சத்புரா புலிகள் காப்பகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Panna National Park",
+        "text_ta": "பன்னா தேசிய பூங்கா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Nauradehi Sanctuary was incorporated into the Veerangana Durgavati Tiger Reserve, the third cheetah habitat.",
+    "explanation_ta": "நௌராதேஹி சரணாலயம் மூன்றாவது சிறுத்தை வாழ்விடமான வீராங்கனா துர்காவதி புலிகள் காப்பகத்துடன் இணைக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Gardasil-4 vaccine is primarily used to prevent diseases caused by which virus?",
+    "question_ta": "கார்டசில்-4 (Gardasil-4) தடுப்பூசி முதன்மையாக எந்த வைரஸால் ஏற்படும் நோய்களைத் தடுக்கப் பயன்படுகிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "HIV",
+        "text_ta": "HIV"
+      },
+      {
+        "key": "B",
+        "text_en": "HPV",
+        "text_ta": "HPV"
+      },
+      {
+        "key": "C",
+        "text_en": "Hepatitis B",
+        "text_ta": "ஹெபடைடிஸ் பி"
+      },
+      {
+        "key": "D",
+        "text_en": "Influenza",
+        "text_ta": "இன்ஃப்ளூயன்ஸா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gardasil-4 is a quadrivalent vaccine targeting HPV types 6, 11, 16, and 18.",
+    "explanation_ta": "கார்டசில்-4 என்பது HPV வகைகள் 6, 11, 16 மற்றும் 18 ஆகியவற்றை இலக்காகக் கொண்ட ஒரு தடுப்பூசியாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which statement best describes the 'Bharat-VISTAAR' platform?\n1. It is meant only for farmers in North India.\n2. It uses AI to provide agricultural advisories.\n3. It is a multilingual platform.",
+    "question_ta": "'பாரத்-விஸ்தார்' (Bharat-VISTAAR) தளத்தை எந்தக் கூற்று சிறப்பாக விவரிக்கிறது?\n1. இது வட இந்திய விவசாயிகளுக்கானது மட்டுமே.\n2. இது விவசாய ஆலோசனைகளை வழங்க AI-ஐப் பயன்படுத்துகிறது.\n3. இது ஒரு பன்மொழி தளமாகும்.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2",
+        "text_ta": "1 மற்றும் 2"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3",
+        "text_ta": "2 மற்றும் 3"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3",
+        "text_ta": "1 மற்றும் 3"
+      },
+      {
+        "key": "D",
+        "text_en": "All of the above",
+        "text_ta": "மேற்கூறிய அனைத்தும்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Bharat-VISTAAR is a nationwide AI-enabled, multilingual advisory platform for farmers.",
+    "explanation_ta": "பாரத்-விஸ்தார் என்பது நாடு தழுவிய, AI திறன் கொண்ட, பன்மொழி விவசாய ஆலோசனை தளமாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which line of the Delhi Metro features the newly launched 12.3 km Majlis Park–Maujpur-Babarpur extension of India's first Ring Metro?",
+    "question_ta": "இந்தியாவின் முதல் ரிங் மெட்ரோவின் 12.3 கி.மீ மஜ்லிஸ் பார்க்–மௌஜ்பூர்-பாபர்பூர் நீட்டிப்பு எந்த டெல்லி மெட்ரோ பாதையில் அமைந்துள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Yellow Line",
+        "text_ta": "மஞ்சள் பாதை"
+      },
+      {
+        "key": "B",
+        "text_en": "Blue Line",
+        "text_ta": "நீல பாதை"
+      },
+      {
+        "key": "C",
+        "text_en": "Pink Line",
+        "text_ta": "பிங்க் பாதை"
+      },
+      {
+        "key": "D",
+        "text_en": "Red Line",
+        "text_ta": "சிவப்பு பாதை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The 12.3 km extension of the Pink Line is part of Delhi's first Ring Metro.",
+    "explanation_ta": "பிங்க் லைனின் 12.3 கி.மீ நீட்டிப்பு டெல்லியின் முதல் ரிங் மெட்ரோவின் ஒரு பகுதியாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What characterizes the Gardasil-4 vaccine technology?",
+    "question_ta": "கார்டசில்-4 (Gardasil-4) தடுப்பூசி தொழில்நுட்பத்தின் சிறப்பம்சம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is a trivalent vaccine targeting 3 strains.",
+        "text_ta": "இது 3 வைரஸ் வகைகளை இலக்காகக் கொண்ட மூவடுக்கு தடுப்பூசி."
+      },
+      {
+        "key": "B",
+        "text_en": "It is a quadrivalent vaccine targeting 4 strains.",
+        "text_ta": "இது 4 வைரஸ் வகைகளை இலக்காகக் கொண்ட நான்கு அடுக்கு தடுப்பூசி."
+      },
+      {
+        "key": "C",
+        "text_en": "It is a bivalent vaccine targeting 2 strains.",
+        "text_ta": "இது 2 வைரஸ் வகைகளை இலக்காகக் கொண்ட இருவடுக்கு தடுப்பூசி."
+      },
+      {
+        "key": "D",
+        "text_en": "It is a monovalent vaccine targeting 1 strain.",
+        "text_ta": "இது 1 வைரஸ் வகையை இலக்காகக் கொண்ட ஒற்றை அடுக்கு தடுப்பூசி."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gardasil-4 is a quadrivalent vaccine targeting HPV types 6, 11, 16, and 18.",
+    "explanation_ta": "கார்டசில்-4 என்பது 6, 11, 16 மற்றும் 18 ஆகிய HPV வகைகளை இலக்காகக் கொண்ட நான்கு அடுக்கு தடுப்பூசியாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the third Tamil writer to receive the Jnanpith Award?",
+    "question_ta": "ஞானபீட விருதைப் பெற்ற மூன்றாவது தமிழ் எழுத்தாளர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "P. V. Akilandam",
+        "text_ta": "பி. வி. அகிலந்தம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Jayakanthan",
+        "text_ta": "ஜெயகாந்தன்"
+      },
+      {
+        "key": "C",
+        "text_en": "R. Vairamuthu",
+        "text_ta": "வைரமுத்து"
+      },
+      {
+        "key": "D",
+        "text_en": "K. Balachander",
+        "text_ta": "கே. பாலசந்தர்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R. Vairamuthu is the third Tamil writer to receive the Jnanpith Award after Akilandam and Jayakanthan.",
+    "explanation_ta": "அகிலந்தம் மற்றும் ஜெயகாந்தனுக்குப் பிறகு ஞானபீட விருதைப் பெறும் மூன்றாவது தமிழ் எழுத்தாளர் வைரமுத்து ஆவார்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which of the following pairings is correct regarding recent events in March 2026?\n1. Jnanpith Award: R. Vairamuthu\n2. First Dark Sky Park: Kolli Hills\n3. First Quantum Computer: Amaravati",
+    "question_ta": "மார்ச் 2026-இல் நடைபெற்ற சமீபத்திய நிகழ்வுகள் குறித்து பின்வரும் இணைகளில் எது சரியானது?\n1. ஞானபீட விருது: வைரமுத்து\n2. முதல் டார்க் ஸ்கை பூங்கா: கொல்லிமலை\n3. முதல் குவாண்டம் கணினி: அமராவதி",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "All three pairings correctly represent the facts mentioned.",
+    "explanation_ta": "மூன்று இணைகளும் குறிப்பிடப்பட்ட உண்மைகளைச் சரியாகப் பிரதிபலிக்கின்றன.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Identify the correct order of years for the Jnanpith Award winners in Tamil literature:\n1. P. V. Akilandam\n2. Jayakanthan\n3. R. Vairamuthu",
+    "question_ta": "தமிழ் இலக்கியத்தில் ஞானபீட விருது பெற்றவர்களின் ஆண்டுகளின் சரியான வரிசையை அடையாளம் காணவும்:\n1. பி.வி. அகிலந்தம்\n2. ஜெயகாந்தன்\n3. வைரமுத்து",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1975, 2002, 2025",
+        "text_ta": "1975, 2002, 2025"
+      },
+      {
+        "key": "B",
+        "text_en": "2002, 1975, 2025",
+        "text_ta": "2002, 1975, 2025"
+      },
+      {
+        "key": "C",
+        "text_en": "1975, 2025, 2002",
+        "text_ta": "1975, 2025, 2002"
+      },
+      {
+        "key": "D",
+        "text_en": "2025, 1975, 2002",
+        "text_ta": "2025, 1975, 2002"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Akilandam (1975), Jayakanthan (2002), Vairamuthu (2025).",
+    "explanation_ta": "அகிலந்தம் (1975), ஜெயகாந்தன் (2002), வைரமுத்து (2025).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which country has been ranked as the world's happiest country for the ninth consecutive year in the World Happiness Report 2026?",
+    "question_ta": "உலக மகிழ்ச்சி அறிக்கை 2026-இல் தொடர்ந்து ஒன்பதாவது ஆண்டாக உலகின் மகிழ்ச்சியான நாடாகத் தரவரிசைப்படுத்தப்பட்ட நாடு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Norway",
+        "text_ta": "நார்வே"
+      },
+      {
+        "key": "B",
+        "text_en": "Denmark",
+        "text_ta": "டென்மார்க்"
+      },
+      {
+        "key": "C",
+        "text_en": "Finland",
+        "text_ta": "பின்லாந்து"
+      },
+      {
+        "key": "D",
+        "text_en": "Iceland",
+        "text_ta": "ஐஸ்லாந்து"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Finland maintains its top position for the ninth consecutive year.",
+    "explanation_ta": "பின்லாந்து தொடர்ந்து ஒன்பதாவது ஆண்டாக முதலிடத்தைத் தக்கவைத்துள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which state became the second state to pass the Uniform Civil Code (UCC) Bill 2026?",
+    "question_ta": "பொது சிவில் சட்ட (UCC) மசோதா 2026-ஐ நிறைவேற்றிய இரண்டாவது மாநிலம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Uttarakhand",
+        "text_ta": "உத்தரகண்ட்"
+      },
+      {
+        "key": "B",
+        "text_en": "Gujarat",
+        "text_ta": "குஜராத்"
+      },
+      {
+        "key": "C",
+        "text_en": "Uttar Pradesh",
+        "text_ta": "உத்தரப் பிரதேசம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Madhya Pradesh",
+        "text_ta": "மத்தியப் பிரதேசம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gujarat is the second state after Uttarakhand to pass the UCC bill.",
+    "explanation_ta": "உத்தரகண்டிற்குப் பிறகு UCC மசோதாவை நிறைவேற்றிய இரண்டாவது மாநிலம் குஜராத் ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What is the weight and origin of the 'Vikko Sat-1' mini satellite?",
+    "question_ta": "'விக்கோ சாட்-1' (Vikko Sat-1) சிறிய செயற்கைக்கோளின் எடை மற்றும் தோற்றம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "500g, Ariyalur students",
+        "text_ta": "500கி, அரியலூர் மாணவர்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "600g, Sivagangai students",
+        "text_ta": "600கி, சிவகங்கை மாணவர்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "700g, Trichy students",
+        "text_ta": "700கி, திருச்சி மாணவர்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "800g, Madurai students",
+        "text_ta": "800கி, மதுரை மாணவர்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Vikko Sat-1 is a 600g satellite developed by students from Ariyakudi Govt Higher Secondary School, Sivagangai.",
+    "explanation_ta": "விக்கோ சாட்-1 என்பது சிவகங்கை மாவட்டத்தைச் சேர்ந்த அரியாக்குடி அரசு மேல்நிலைப்பள்ளி மாணவர்களால் உருவாக்கப்பட்ட 600 கிராம் எடை கொண்ட செயற்கைக்கோள் ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): The Indian rupee hit a record low of ₹95 per US dollar in March 2026. Reason (R): Economic instability globally led to the sharp depreciation of the Indian currency.",
+    "question_ta": "கூற்று (A): மார்ச் 2026-இல் இந்திய ரூபாய் அமெரிக்க டாலருக்கு நிகராக ₹95 என்ற வரலாற்று சரிவை எட்டியது. காரணம் (R): உலகளாவிய பொருளாதார நிலையற்ற தன்மை இந்திய நாணயத்தின் மதிப்பு சரிவுக்கு வழிவகுத்தது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) சரி, (R) என்பது (A)-வின் சரியான விளக்கமாகும்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி, ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு, ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The record low in March 2026 correlates with prevailing global economic factors affecting currency values.",
+    "explanation_ta": "மார்ச் 2026-இல் ஏற்பட்ட வரலாற்று சரிவு நாணய மதிப்பை பாதிக்கும் உலகளாவிய பொருளாதார காரணிகளுடன் தொடர்புடையது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which of the following HPV types are NOT covered by the Gardasil-4 vaccine?",
+    "question_ta": "பின்வருவனவற்றில் எந்த HPV வகைகள் கார்டசில்-4 (Gardasil-4) தடுப்பூசியால் மூடப்படவில்லை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "6 and 11",
+        "text_ta": "6 மற்றும் 11"
+      },
+      {
+        "key": "B",
+        "text_en": "16 and 18",
+        "text_ta": "16 மற்றும் 18"
+      },
+      {
+        "key": "C",
+        "text_en": "31 and 33",
+        "text_ta": "31 மற்றும் 33"
+      },
+      {
+        "key": "D",
+        "text_en": "6 and 16",
+        "text_ta": "6 மற்றும் 16"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Gardasil-4 covers types 6, 11, 16, and 18. Types 31 and 33 are not included in this quadrivalent version.",
+    "explanation_ta": "கார்டசில்-4 என்பது 6, 11, 16 மற்றும் 18 ஆகிய வகைகளை உள்ளடக்கியது. 31 மற்றும் 33 ஆகிய வகைகள் இதில் இல்லை.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : March 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The Bharat-VISTAAR platform is an AI-enabled advisory tool launched for which sector?",
+    "question_ta": "பாரத்-விஸ்தார் (Bharat-VISTAAR) தளம் எந்தத் துறைக்காக தொடங்கப்பட்ட செயற்கை நுண்ணறிவு திறன் கொண்ட ஆலோசனை கருவியாகும்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Healthcare",
+        "text_ta": "சுகாதாரம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Education",
+        "text_ta": "கல்வி"
+      },
+      {
+        "key": "C",
+        "text_en": "Agriculture",
+        "text_ta": "விவசாயம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Infrastructure",
+        "text_ta": "உள்கட்டமைப்பு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Bharat-VISTAAR is a multilingual, AI-enabled advisory platform for farmers.",
+    "explanation_ta": "பாரத்-விஸ்தார் என்பது விவசாயிகளுக்கான பன்மொழி, செயற்கை நுண்ணறிவு திறன் கொண்ட ஆலோசனை தளமாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
   }
 ]

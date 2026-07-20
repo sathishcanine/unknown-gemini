@@ -2458,5 +2458,1235 @@
     "type": "practice",
     "batch": "Batch 2",
     "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When does the Income Tax Act, 2025 officially come into effect?",
+    "question_ta": "வருமான வரிச் சட்டம் 2025 எப்போது அதிகாரப்பூர்வமாக நடைமுறைக்கு வருகிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "January 1, 2026",
+        "text_ta": "ஜனவரி 1, 2026"
+      },
+      {
+        "key": "B",
+        "text_en": "April 1, 2026",
+        "text_ta": "ஏப்ரல் 1, 2026"
+      },
+      {
+        "key": "C",
+        "text_en": "June 1, 2026",
+        "text_ta": "ஜூன் 1, 2026"
+      },
+      {
+        "key": "D",
+        "text_en": "October 1, 2026",
+        "text_ta": "அக்டோபர் 1, 2026"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Income Tax Act, 2025 comes into effect on April 1, 2026.",
+    "explanation_ta": "வருமான வரிச் சட்டம், 2025 ஏப்ரல் 1, 2026 அன்று நடைமுறைக்கு வருகிறது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In which month and year did the 'Namma Arasu' WhatsApp service launch?",
+    "question_ta": "'நம்ம அரசு' வாட்ஸ்அப் சேவை எந்த மாதம் மற்றும் ஆண்டில் தொடங்கப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "December 2025",
+        "text_ta": "டிசம்பர் 2025"
+      },
+      {
+        "key": "B",
+        "text_en": "January 2026",
+        "text_ta": "ஜனவரி 2026"
+      },
+      {
+        "key": "C",
+        "text_en": "February 2026",
+        "text_ta": "பிப்ரவரி 2026"
+      },
+      {
+        "key": "D",
+        "text_en": "March 2026",
+        "text_ta": "மார்ச் 2026"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 'Namma Arasu' WhatsApp service was launched on January 8, 2026.",
+    "explanation_ta": "'நம்ம அரசு' வாட்ஸ்அப் சேவை ஜனவரி 8, 2026 அன்று தொடங்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "As per the Income Tax Act, 2025, to what percentage was the Minimum Alternate Tax (MAT) reduced?",
+    "question_ta": "வருமான வரிச் சட்டம் 2025-ன்படி, குறைந்தபட்ச மாற்று வரி (MAT) எத்தனை சதவீதமாகக் குறைக்கப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "12%",
+        "text_ta": "12%"
+      },
+      {
+        "key": "B",
+        "text_en": "14%",
+        "text_ta": "14%"
+      },
+      {
+        "key": "C",
+        "text_en": "15%",
+        "text_ta": "15%"
+      },
+      {
+        "key": "D",
+        "text_en": "18%",
+        "text_ta": "18%"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Minimum Alternate Tax (MAT) was reduced to 14% under the Income Tax Act, 2025.",
+    "explanation_ta": "வருமான வரிச் சட்டம் 2025-ன்படி, குறைந்தபட்ச மாற்று வரி 14% ஆகக் குறைக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which scheme was launched in Budget 2026 to focus on semiconductor development?",
+    "question_ta": "செமிகண்டக்டர் மேம்பாட்டில் கவனம் செலுத்துவதற்காக பட்ஜெட் 2026-ல் தொடங்கப்பட்ட திட்டம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Semiconductor Mission 1.0",
+        "text_ta": "செமிகண்டக்டர் மிஷன் 1.0"
+      },
+      {
+        "key": "B",
+        "text_en": "India Semiconductor Mission 2.0",
+        "text_ta": "இந்தியா செமிகண்டக்டர் மிஷன் 2.0"
+      },
+      {
+        "key": "C",
+        "text_en": "Chip Design India",
+        "text_ta": "சிப் டிசைன் இந்தியா"
+      },
+      {
+        "key": "D",
+        "text_en": "Tech Boost India",
+        "text_ta": "டெக் பூஸ்ட் இந்தியா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "India Semiconductor Mission 2.0 was launched in Budget 2026.",
+    "explanation_ta": "பட்ஜெட் 2026-ல் இந்தியா செமிகண்டக்டர் மிஷன் 2.0 தொடங்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the public capex raised to for the FY 2026-27 in Budget 2026?",
+    "question_ta": "பட்ஜெட் 2026-ல் 2026-27 நிதியாண்டுக்கான பொது மூலதனச் செலவு (Capex) எவ்வளவு உயர்த்தப்பட்டுள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rs. 10.2 lakh crore",
+        "text_ta": "ரூ. 10.2 லட்சம் கோடி"
+      },
+      {
+        "key": "B",
+        "text_en": "Rs. 11.2 lakh crore",
+        "text_ta": "ரூ. 11.2 லட்சம் கோடி"
+      },
+      {
+        "key": "C",
+        "text_en": "Rs. 12.2 lakh crore",
+        "text_ta": "ரூ. 12.2 லட்சம் கோடி"
+      },
+      {
+        "key": "D",
+        "text_en": "Rs. 13.2 lakh crore",
+        "text_ta": "ரூ. 13.2 லட்சம் கோடி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Public capex was raised to ₹12.2 lakh crore for FY 2026-27.",
+    "explanation_ta": "2026-27 நிதியாண்டுக்கான பொது மூலதனச் செலவு ரூ.12.2 லட்சம் கோடியாக உயர்த்தப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Match the following regarding February 2026 data:<br><div class='match-container'><div class='match-col-left'>a) CPI Score<br>b) TN per capita income<br>c) Total Ramsar sites<br>d) Statehood status of Mizoram</div><div class='match-col-right'>1. 88<br>2. 39th<br>3. 39/100<br>4. 3.62 lakh</div></div>",
+    "question_ta": "பிப்ரவரி 2026 தரவுகள் குறித்து பின்வருவனவற்றைப் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) CPI மதிப்பெண்<br>b) தமிழக தனிநபர் வருமானம்<br>c) மொத்த ராம்சர் தளங்கள்<br>d) மிசோரத்தின் மாநில அந்தஸ்து</div><div class='match-col-right'>1. 88<br>2. 39-வது<br>3. 39/100<br>4. 3.62 லட்சம்</div></div>",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "3   4   1   2",
+        "text_ta": "3   4   1   2"
+      },
+      {
+        "key": "B",
+        "text_en": "4   3   2   1",
+        "text_ta": "4   3   2   1"
+      },
+      {
+        "key": "C",
+        "text_en": "3   1   4   2",
+        "text_ta": "3   1   4   2"
+      },
+      {
+        "key": "D",
+        "text_en": "1   2   3   4",
+        "text_ta": "1   2   3   4"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CPI score is 39/100, TN per capita is 3.62L, Total Ramsar sites are 88, Mizoram is 39th statehood year.",
+    "explanation_ta": "CPI மதிப்பெண் 39/100, தமிழக தனிநபர் வருமானம் ரூ.3.62 லட்சம், மொத்த ராம்சர் தளங்கள் 88, மிசோரம் 39-வது மாநில தினம்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the total financial outlay of the Container Manufacturing Assistance Scheme (CMAS) over 5 years?",
+    "question_ta": "கன்டெய்னர் உற்பத்தி உதவித் திட்டத்தின் (CMAS) 5 ஆண்டுகளுக்கான மொத்த நிதி ஒதுக்கீடு எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rs. 5,000 crore",
+        "text_ta": "ரூ. 5,000 கோடி"
+      },
+      {
+        "key": "B",
+        "text_en": "Rs. 10,000 crore",
+        "text_ta": "ரூ. 10,000 கோடி"
+      },
+      {
+        "key": "C",
+        "text_en": "Rs. 15,000 crore",
+        "text_ta": "ரூ. 15,000 கோடி"
+      },
+      {
+        "key": "D",
+        "text_en": "Rs. 20,000 crore",
+        "text_ta": "ரூ. 20,000 கோடி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Container Manufacturing Assistance Scheme (CMAS) is a ₹10,000 crore initiative.",
+    "explanation_ta": "கன்டெய்னர் உற்பத்தி உதவித் திட்டம் (CMAS) என்பது ரூ.10,000 கோடி மதிப்பிலான திட்டமாகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Tamil Nadu recorded an 11.19% GSDP growth in 2024-25. Reason (R): This growth is lower than the national average.",
+    "question_ta": "கூற்று (A): 2024-25-ல் தமிழ்நாடு 11.19% ஜிஎஸ்டிபி வளர்ச்சியைப் பதிவு செய்தது. காரணம் (R): இந்த வளர்ச்சி தேசிய சராசரியை விடக் குறைவு.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A is true, R is false",
+        "text_ta": "A சரி, R தவறு"
+      },
+      {
+        "key": "B",
+        "text_en": "Both A and R are true",
+        "text_ta": "A மற்றும் R இரண்டும் சரி"
+      },
+      {
+        "key": "C",
+        "text_en": "A is false, R is true",
+        "text_ta": "A தவறு, R சரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Both are false",
+        "text_ta": "A மற்றும் R இரண்டும் தவறு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The growth is high; per capita income is higher than the national average.",
+    "explanation_ta": "இந்த வளர்ச்சி அதிகம்; தனிநபர் வருமானம் தேசிய சராசரியை விட அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Consider the following statements regarding the Supreme Court ruling in Dr. Jaya Thakur v. Government of India: 1. Menstrual health was declared a fundamental right under Article 21. 2. The ruling mandates free oxo-biodegradable sanitary napkins in schools. Which of the statements given above is/are correct?",
+    "question_ta": "டாக்டர் ஜெயா தாகூர் மற்றும் இந்திய அரசு வழக்கில் உச்ச நீதிமன்றத் தீர்ப்பு குறித்த பின்வரும் கூற்றுகளைக் கருத்தில் கொள்க: 1. மாதவிடாய் ஆரோக்கியம் அரசியலமைப்பின் 21-வது பிரிவின் கீழ் அடிப்படை உரிமையாக அறிவிக்கப்பட்டது. 2. இந்தத் தீர்ப்பு பள்ளிகளில் இலவச ஆக்சோ-பயோடிகிரேடபிள் நாப்கின்களை வழங்க உத்தரவிடுகிறது. மேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 இரண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 மற்றும் 2 இல்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In Dr. Jaya Thakur v. Government of India, the Supreme Court ruled menstrual health is a fundamental right under Article 21, mandating free oxo-biodegradable sanitary napkins.",
+    "explanation_ta": "டாக்டர் ஜெயா தாகூர் மற்றும் இந்திய அரசு வழக்கில், மாதவிடாய் ஆரோக்கியம் என்பது அரசியலமைப்பின் 21-வது பிரிவின் கீழ் ஒரு அடிப்படை உரிமை என்று உச்ச நீதிமன்றம் தீர்ப்பளித்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which of the following southern states are part of the revised horizontal devolution formula by the 16th Finance Commission? 1. Andhra Pradesh 2. Karnataka 3. Kerala 4. Tamil Nadu 5. Telangana",
+    "question_ta": "16-வது நிதிக்குழுவின் திருத்தப்பட்ட கிடைமட்ட பகிர்வு சூத்திரத்தில் கீழ்க்கண்ட எந்த தென்னிந்திய மாநிலங்கள் அடங்கும்? 1. ஆந்திரப் பிரதேசம் 2. கர்நாடகா 3. கேரளா 4. தமிழ்நாடு 5. தெலுங்கானா",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1, 2, 3 and 4 only",
+        "text_ta": "1, 2, 3 மற்றும் 4 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2, 3, 4 and 5 only",
+        "text_ta": "2, 3, 4 மற்றும் 5 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1, 3, 4 and 5 only",
+        "text_ta": "1, 3, 4 மற்றும் 5 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "All 1, 2, 3, 4, and 5",
+        "text_ta": "அனைத்தும் (1, 2, 3, 4, 5)"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The list includes Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, and Telangana.",
+    "explanation_ta": "இந்த பட்டியலில் ஆந்திரா, கர்நாடகா, கேரளா, தமிழ்நாடு மற்றும் தெலுங்கானா ஆகிய மாநிலங்கள் உள்ளன.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is India's rank in the Corruption Perceptions Index (CPI) as per the latest release by Transparency International?",
+    "question_ta": "டிரான்ஸ்பரன்சி இன்டர்நேஷனல் வெளியிட்ட ஊழல் உணர்வுக் குறியீட்டில் (CPI) இந்தியாவின் தரம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "89th",
+        "text_ta": "89-வது"
+      },
+      {
+        "key": "B",
+        "text_en": "90th",
+        "text_ta": "90-வது"
+      },
+      {
+        "key": "C",
+        "text_en": "91st",
+        "text_ta": "91-வது"
+      },
+      {
+        "key": "D",
+        "text_en": "92nd",
+        "text_ta": "92-வது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "India improved to 91st rank in the Corruption Perceptions Index (CPI).",
+    "explanation_ta": "இந்தியா ஊழல் உணர்வுக் குறியீட்டில் 91-வது இடத்திற்கு முன்னேறியுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "To access the 'Namma Arasu' WhatsApp service, what keyword should be sent to the number +91 78452 52525?",
+    "question_ta": "'நம்ம அரசு' வாட்ஸ்அப் சேவையைப் பெற +91 78452 52525 என்ற எண்ணிற்கு என்ன குறுஞ்செய்தியை அனுப்ப வேண்டும்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hello",
+        "text_ta": "Hello"
+      },
+      {
+        "key": "B",
+        "text_en": "Hi",
+        "text_ta": "Hi"
+      },
+      {
+        "key": "C",
+        "text_en": "Namma",
+        "text_ta": "Namma"
+      },
+      {
+        "key": "D",
+        "text_en": "Arasu",
+        "text_ta": "Arasu"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 'Namma Arasu' WhatsApp service can be accessed by sending 'Hi' to +91 78452 52525.",
+    "explanation_ta": "'நம்ம அரசு' வாட்ஸ்அப் சேவைக்கு 'Hi' என்று குறுஞ்செய்தி அனுப்ப வேண்டும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "How many times higher is Tamil Nadu's per capita income compared to the national average?",
+    "question_ta": "தேசிய சராசரியை விட தமிழ்நாட்டின் தனிநபர் வருமானம் எத்தனை மடங்கு அதிகம்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1.57 times",
+        "text_ta": "1.57 மடங்கு"
+      },
+      {
+        "key": "B",
+        "text_en": "1.67 times",
+        "text_ta": "1.67 மடங்கு"
+      },
+      {
+        "key": "C",
+        "text_en": "1.77 times",
+        "text_ta": "1.77 மடங்கு"
+      },
+      {
+        "key": "D",
+        "text_en": "1.87 times",
+        "text_ta": "1.87 மடங்கு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tamil Nadu's per capita income is 1.77 times the national average.",
+    "explanation_ta": "தமிழக தனிநபர் வருமானம் தேசிய சராசரியை விட 1.77 மடங்கு அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which of the following regarding Mizoram and Arunachal Pradesh is correct?",
+    "question_ta": "மிசோரம் மற்றும் அருணாச்சல பிரதேசம் குறித்த கீழ்க்கண்டவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both became states in 1987",
+        "text_ta": "இரண்டும் 1987-ல் மாநிலங்களாயின"
+      },
+      {
+        "key": "B",
+        "text_en": "Mizoram 40th, Arunachal 39th state day",
+        "text_ta": "மிசோரம் 40-வது, அருணாச்சலம் 39-வது மாநில தினம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both became states in 1990",
+        "text_ta": "இரண்டும் 1990-ல் மாநிலங்களாயின"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither celebrated statehood in Feb",
+        "text_ta": "இரண்டும் பிப்ரவரியில் மாநில தினத்தைக் கொண்டாடவில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both celebrated statehood days on Feb 20, 2026, having formed in 1987.",
+    "explanation_ta": "இரண்டும் 1987-ல் உருவானவை, பிப்ரவரி 20, 2026 அன்று மாநில தினத்தைக் கொண்டாடின.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Assertion (A): The 16th Finance Commission introduces a revised horizontal devolution formula. Reason (R): This aims to decrease the share of southern states in the tax pool.",
+    "question_ta": "கூற்று (A): 16-வது நிதிக்குழு திருத்தப்பட்ட கிடைமட்ட பகிர்வு சூத்திரத்தை அறிமுகப்படுத்துகிறது. காரணம் (R): இது வரிப் பகிர்வில் தென்னிந்திய மாநிலங்களின் பங்கைக் குறைப்பதை நோக்கமாகக் கொண்டுள்ளது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A is true, R is false",
+        "text_ta": "A சரி, R தவறு"
+      },
+      {
+        "key": "B",
+        "text_en": "Both A and R are true",
+        "text_ta": "A மற்றும் R இரண்டும் சரி"
+      },
+      {
+        "key": "C",
+        "text_en": "A is false, R is true",
+        "text_ta": "A தவறு, R சரி"
+      },
+      {
+        "key": "D",
+        "text_en": "Both are false",
+        "text_ta": "A மற்றும் R இரண்டும் தவறு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The formula increases, not decreases, the share for southern states.",
+    "explanation_ta": "இந்த சூத்திரம் தென்னிந்திய மாநிலங்களின் பங்கை அதிகரிக்கவே செய்கிறது, குறைக்கவில்லை.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which Ministry launched the Container Manufacturing Assistance Scheme (CMAS)?",
+    "question_ta": "கன்டெய்னர் உற்பத்தி உதவித் திட்டத்தை (CMAS) எந்த அமைச்சகம் தொடங்கியது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ministry of Finance",
+        "text_ta": "நிதி அமைச்சகம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Ministry of Commerce",
+        "text_ta": "வணிக அமைச்சகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Ministry of Ports, Shipping and Waterways",
+        "text_ta": "துறைமுகங்கள், கப்பல் மற்றும் நீர்வழக்கு அமைச்சகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Ministry of Heavy Industries",
+        "text_ta": "கனரகத் தொழில்துறை அமைச்சகம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The Ministry of Ports, Shipping and Waterways launched the CMAS.",
+    "explanation_ta": "துறைமுகங்கள், கப்பல் மற்றும் நீர்வழக்கு அமைச்சகம் CMAS திட்டத்தைத் தொடங்கியது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The NSSS-2026 symposium was organized by which agency?",
+    "question_ta": "NSSS-2026 கருத்தரங்கம் எந்த அமைப்பால் ஏற்பாடு செய்யப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "NASA",
+        "text_ta": "நாசா"
+      },
+      {
+        "key": "B",
+        "text_en": "ISRO",
+        "text_ta": "இஸ்ரோ"
+      },
+      {
+        "key": "C",
+        "text_en": "DRDO",
+        "text_ta": "டிஆர்டிஓ"
+      },
+      {
+        "key": "D",
+        "text_en": "CSIR",
+        "text_ta": "சிஎஸ்ஐஆர்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 23rd biennial National Space Science Symposium was held by ISRO.",
+    "explanation_ta": "23-வது தேசிய விண்வெளி அறிவியல் கருத்தரங்கம் இஸ்ரோவால் நடத்தப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "If Tamil Nadu's per capita income is 3.62 lakh, how much is it in terms of 'X' times the national average?",
+    "question_ta": "தமிழக தனிநபர் வருமானம் 3.62 லட்சம் எனில், அது தேசிய சராசரியை விட எத்தனை மடங்கு ('X') அதிகம்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1.57",
+        "text_ta": "1.57"
+      },
+      {
+        "key": "B",
+        "text_en": "1.77",
+        "text_ta": "1.77"
+      },
+      {
+        "key": "C",
+        "text_en": "1.87",
+        "text_ta": "1.87"
+      },
+      {
+        "key": "D",
+        "text_en": "1.97",
+        "text_ta": "1.97"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "It is 1.77 times the national average.",
+    "explanation_ta": "இது தேசிய சராசரியை விட 1.77 மடங்கு அதிகம்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which two states celebrated their 39th and 40th Statehood Days respectively on February 20, 2026?",
+    "question_ta": "பிப்ரவரி 20, 2026 அன்று முறையே 39 மற்றும் 40-வது மாநில தினங்களைக் கொண்டாடிய மாநிலங்கள் யாவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Nagaland and Manipur",
+        "text_ta": "நாகாலாந்து மற்றும் மணிப்பூர்"
+      },
+      {
+        "key": "B",
+        "text_en": "Mizoram and Arunachal Pradesh",
+        "text_ta": "மிசோரம் மற்றும் அருணாச்சல பிரதேசம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Tripura and Meghalaya",
+        "text_ta": "திரிபுரா மற்றும் மேகாலயா"
+      },
+      {
+        "key": "D",
+        "text_en": "Sikkim and Goa",
+        "text_ta": "சிக்கிம் மற்றும் கோவா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mizoram and Arunachal Pradesh celebrated their 39th and 40th Statehood Days on Feb 20, 2026.",
+    "explanation_ta": "மிசோரம் மற்றும் அருணாச்சல பிரதேசம் பிப்ரவரி 20, 2026 அன்று மாநில தினங்களைக் கொண்டாடின.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where was the 23rd biennial National Space Science Symposium (NSSS-2026) held?",
+    "question_ta": "23-வது இருவருடாந்திர தேசிய விண்வெளி அறிவியல் கருத்தரங்கம் (NSSS-2026) எங்கு நடைபெற்றது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kerala",
+        "text_ta": "கேரளா"
+      },
+      {
+        "key": "B",
+        "text_en": "Meghalaya",
+        "text_ta": "மேகாலயா"
+      },
+      {
+        "key": "C",
+        "text_en": "Odisha",
+        "text_ta": "ஒடிசா"
+      },
+      {
+        "key": "D",
+        "text_en": "Tamil Nadu",
+        "text_ta": "தமிழ்நாடு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 23rd biennial National Space Science Symposium (NSSS-2026) was held by ISRO in Meghalaya.",
+    "explanation_ta": "இஸ்ரோவின் 23-வது இருவருடாந்திர தேசிய விண்வெளி அறிவியல் கருத்தரங்கம் மேகாலயாவில் நடைபெற்றது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "The 16th Finance Commission has recommended a fiscal deficit cap for states at what percentage of their GSDP?",
+    "question_ta": "16-வது நிதிக்குழு மாநிலங்களுக்கான நிதிப்பற்றாக்குறையை அவற்றின் GSDP-யில் எத்தனை சதவீதமாகக் கட்டுப்படுத்த பரிந்துரைத்துள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2%",
+        "text_ta": "2%"
+      },
+      {
+        "key": "B",
+        "text_en": "3%",
+        "text_ta": "3%"
+      },
+      {
+        "key": "C",
+        "text_en": "4%",
+        "text_ta": "4%"
+      },
+      {
+        "key": "D",
+        "text_en": "5%",
+        "text_ta": "5%"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 16th Finance Commission recommended a 3% GSDP fiscal deficit cap for states.",
+    "explanation_ta": "16-வது நிதிக்குழு மாநிலங்களுக்கான நிதிப்பற்றாக்குறையை GSDP-யில் 3% ஆகக் கட்டுப்படுத்த பரிந்துரைத்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which statement about the Ramsar sites addition is accurate?",
+    "question_ta": "ராம்சர் தளங்கள் சேர்க்கை குறித்த எந்தக் கூற்று சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "3 in TN, 0 in Odisha",
+        "text_ta": "தமிழ்நாட்டில் 3, ஒடிசாவில் 0"
+      },
+      {
+        "key": "B",
+        "text_en": "2 in TN, 1 in Odisha",
+        "text_ta": "தமிழ்நாட்டில் 2, ஒடிசாவில் 1"
+      },
+      {
+        "key": "C",
+        "text_en": "1 in TN, 2 in Odisha",
+        "text_ta": "தமிழ்நாட்டில் 1, ஒடிசாவில் 2"
+      },
+      {
+        "key": "D",
+        "text_en": "3 in Odisha, 0 in TN",
+        "text_ta": "ஒடிசாவில் 3, தமிழ்நாட்டில் 0"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "India added 3 wetlands (2 in TN, 1 in Odisha).",
+    "explanation_ta": "இந்தியா 3 ஈரநிலங்களைச் சேர்த்தது (தமிழ்நாட்டில் 2, ஒடிசாவில் 1).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The Union Cabinet approved renaming which state to 'Keralam' to match its traditional Malayalam pronunciation?",
+    "question_ta": "அதன் பாரம்பரிய மலையாள உச்சரிப்புக்கு ஏற்ப 'கேரளம்' என பெயர் மாற்ற மத்திய அமைச்சரவை எந்த மாநிலத்திற்கு ஒப்புதல் அளித்தது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Karnataka",
+        "text_ta": "கர்நாடகா"
+      },
+      {
+        "key": "B",
+        "text_en": "Kerala",
+        "text_ta": "கேரளா"
+      },
+      {
+        "key": "C",
+        "text_en": "Telangana",
+        "text_ta": "தெலுங்கானா"
+      },
+      {
+        "key": "D",
+        "text_en": "Tamil Nadu",
+        "text_ta": "தமிழ்நாடு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Union Cabinet approved renaming Kerala as 'Keralam' to align the English name with its traditional Malayalam pronunciation.",
+    "explanation_ta": "கேரள மாநிலத்தின் ஆங்கிலப் பெயரை அதன் பாரம்பரிய மலையாள உச்சரிப்புக்கு ஏற்ப 'கேரளம்' என மாற்ற மத்திய அமைச்சரவை ஒப்புதல் அளித்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which fundamental right was highlighted in the Dr. Jaya Thakur ruling?",
+    "question_ta": "டாக்டர் ஜெயா தாகூர் தீர்ப்பில் எந்த அடிப்படை உரிமை முன்னிலைப்படுத்தப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Right to Equality",
+        "text_ta": "சமத்துவ உரிமை"
+      },
+      {
+        "key": "B",
+        "text_en": "Right to Education",
+        "text_ta": "கல்வி உரிமை"
+      },
+      {
+        "key": "C",
+        "text_en": "Article 21 (Menstrual Health)",
+        "text_ta": "பிரிவு 21 (மாதவிடாய் ஆரோக்கியம்)"
+      },
+      {
+        "key": "D",
+        "text_en": "Right against Exploitation",
+        "text_ta": "சுரண்டலுக்கு எதிரான உரிமை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The ruling declared menstrual health as a fundamental right under Article 21.",
+    "explanation_ta": "மாதவிடாய் ஆரோக்கியம் அரசியலமைப்பின் 21-வது பிரிவின் கீழ் அடிப்படை உரிமை என்று தீர்ப்பளிக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The 16th Finance Commission focuses on which major aspect?",
+    "question_ta": "16-வது நிதிக்குழு எந்த முக்கிய அம்சத்தில் கவனம் செலுத்துகிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Defense budget",
+        "text_ta": "பாதுகாப்பு பட்ஜெட்"
+      },
+      {
+        "key": "B",
+        "text_en": "Fiscal deficit cap for states",
+        "text_ta": "மாநிலங்களுக்கான நிதிப்பற்றாக்குறை வரம்பு"
+      },
+      {
+        "key": "C",
+        "text_en": "Private sector loans",
+        "text_ta": "தனியார் துறை கடன்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "International trade policy",
+        "text_ta": "சர்வதேச வர்த்தகக் கொள்கை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 16th FC recommended a 3% GSDP fiscal deficit cap for states.",
+    "explanation_ta": "16-வது நிதிக்குழு மாநிலங்களுக்கான நிதிப்பற்றாக்குறையை GSDP-யில் 3% ஆகக் கட்டுப்படுத்த பரிந்துரைத்தது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the 'oxo-biodegradable' requirement refer to in the Supreme Court ruling?",
+    "question_ta": "உச்ச நீதிமன்றத் தீர்ப்பில் 'ஆக்சோ-பயோடிகிரேடபிள்' (oxo-biodegradable) தேவை எதைக் குறிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sanitary napkins",
+        "text_ta": "சானிட்டரி நாப்கின்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "School infrastructure",
+        "text_ta": "பள்ளி உள்கட்டமைப்பு"
+      },
+      {
+        "key": "C",
+        "text_en": "Waste management",
+        "text_ta": "கழிவு மேலாண்மை"
+      },
+      {
+        "key": "D",
+        "text_en": "Plastic bags",
+        "text_ta": "பிளாஸ்டிக் பைகள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The mandate refers to free oxo-biodegradable sanitary napkins in schools.",
+    "explanation_ta": "இந்தத் தீர்ப்பு பள்ளிகளில் இலவச ஆக்சோ-பயோடிகிரேடபிள் சானிட்டரி நாப்கின்களை வழங்க உத்தரவிடுகிறது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "What was the real GSDP growth rate of Tamil Nadu in the financial year 2024-25?",
+    "question_ta": "2024-25 நிதியாண்டில் தமிழ்நாட்டின் உண்மையான ஜிஎஸ்டிபி (GSDP) வளர்ச்சி விகிதம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "9.19%",
+        "text_ta": "9.19%"
+      },
+      {
+        "key": "B",
+        "text_en": "10.19%",
+        "text_ta": "10.19%"
+      },
+      {
+        "key": "C",
+        "text_en": "11.19%",
+        "text_ta": "11.19%"
+      },
+      {
+        "key": "D",
+        "text_en": "12.19%",
+        "text_ta": "12.19%"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tamil Nadu's real GSDP growth rate in 2024-25 was 11.19%.",
+    "explanation_ta": "2024-25 நிதியாண்டில் தமிழ்நாட்டின் உண்மையான ஜிஎஸ்டிபி வளர்ச்சி விகிதம் 11.19% ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "With the addition of 3 new wetlands, what is the total number of Ramsar sites in India as of February 2026?",
+    "question_ta": "பிப்ரவரி 2026 நிலவரப்படி, 3 புதிய ஈரநிலங்கள் சேர்க்கப்பட்ட பிறகு, இந்தியாவில் உள்ள மொத்த ராம்சர் தளங்களின் எண்ணிக்கை எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "85",
+        "text_ta": "85"
+      },
+      {
+        "key": "B",
+        "text_en": "86",
+        "text_ta": "86"
+      },
+      {
+        "key": "C",
+        "text_en": "87",
+        "text_ta": "87"
+      },
+      {
+        "key": "D",
+        "text_en": "88",
+        "text_ta": "88"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "India added three more wetlands to the Ramsar List, bringing the national total to 88 sites.",
+    "explanation_ta": "இந்தியா மேலும் மூன்று ஈரநிலங்களை ராம்சர் பட்டியலில் சேர்த்துள்ளது, இதன் மூலம் நாட்டின் மொத்த எண்ணிக்கை 88 ஆக உயர்ந்துள்ளது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which base year has replaced the 2011-12 base for the new GDP series released on February 27, 2026?",
+    "question_ta": "பிப்ரவரி 27, 2026 அன்று வெளியிடப்பட்ட புதிய ஜிடிபி (GDP) தொடரில் 2011-12-க்கு பதிலாக எந்த ஆண்டு அடிப்படை ஆண்டாகக் கொள்ளப்பட்டுள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2020-21",
+        "text_ta": "2020-21"
+      },
+      {
+        "key": "B",
+        "text_en": "2021-22",
+        "text_ta": "2021-22"
+      },
+      {
+        "key": "C",
+        "text_en": "2022-23",
+        "text_ta": "2022-23"
+      },
+      {
+        "key": "D",
+        "text_en": "2023-24",
+        "text_ta": "2023-24"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A new GDP series with 2022-23 as the base year was released, replacing the 2011-12 base.",
+    "explanation_ta": "2011-12-க்கு பதிலாக 2022-23-ஐ அடிப்படை ஆண்டாகக் கொண்ட புதிய ஜிடிபி தொடர் வெளியிடப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : February 2026",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Hard",
+    "question_en": "Which of the following correctly describes the 1987 state formation order?",
+    "question_ta": "1987-ல் உருவான மாநிலங்களின் வரிசை குறித்து கீழ்க்கண்டவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mizoram (23rd), Arunachal (24th)",
+        "text_ta": "மிசோரம் (23-வது), அருணாச்சலம் (24-வது)"
+      },
+      {
+        "key": "B",
+        "text_en": "Arunachal (23rd), Mizoram (24th)",
+        "text_ta": "அருணாச்சலம் (23-வது), மிசோரம் (24-வது)"
+      },
+      {
+        "key": "C",
+        "text_en": "Both formed in 1988",
+        "text_ta": "இரண்டும் 1988-ல் உருவானவை"
+      },
+      {
+        "key": "D",
+        "text_en": "Mizoram was 24th, Arunachal was 25th",
+        "text_ta": "மிசோரம் 24-வது, அருணாச்சலம் 25-வது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mizoram (23rd) and Arunachal Pradesh (24th) formed in 1987.",
+    "explanation_ta": "மிசோரம் (23-வது) மற்றும் அருணாச்சல பிரதேசம் (24-வது) ஆகியவை 1987-ல் உருவானவை.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Practice"
   }
 ]

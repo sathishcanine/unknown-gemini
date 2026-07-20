@@ -787,8 +787,18 @@ function renderTopicDetailScreen() {
   
   // 1. Get PYQ count
   const pyqs = getFilteredQuestions(state.activeSubject, topic, "pyq");
-  DOM.topicDetailPyqCount.textContent = `${pyqs.length} PYQs Available`;
-  DOM.btnStartPyq.disabled = pyqs.length === 0;
+  const pyqCard = document.getElementById('topic-detail-pyq-card');
+  const pyqHeader = pyqCard ? pyqCard.previousElementSibling : null;
+  
+  if (pyqs.length === 0) {
+    if (pyqCard) pyqCard.style.display = 'none';
+    if (pyqHeader && pyqHeader.classList.contains('section-title-row')) pyqHeader.style.display = 'none';
+  } else {
+    if (pyqCard) pyqCard.style.display = 'block';
+    if (pyqHeader && pyqHeader.classList.contains('section-title-row')) pyqHeader.style.display = 'flex';
+    DOM.topicDetailPyqCount.textContent = `${pyqs.length} PYQs Available`;
+    DOM.btnStartPyq.disabled = false;
+  }
   
   // 2. Render Practice Batches
   DOM.topicDetailBatchesContainer.innerHTML = '';

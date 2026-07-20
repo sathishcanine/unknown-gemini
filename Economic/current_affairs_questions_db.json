@@ -1228,5 +1228,1235 @@
     "type": "practice",
     "batch": "Batch 1",
     "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which article of the Constitution of India was linked to the Right to Menstrual Health by the Supreme Court?",
+    "question_ta": "இந்திய அரசியலமைப்பின் எந்தப் பிரிவு மாதவிடாய் ஆரோக்கியத்திற்கான உரிமையுடன் உச்ச நீதிமன்றத்தால் இணைக்கப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Article 14",
+        "text_ta": "பிரிவு 14"
+      },
+      {
+        "key": "B",
+        "text_en": "Article 19",
+        "text_ta": "பிரிவு 19"
+      },
+      {
+        "key": "C",
+        "text_en": "Article 21",
+        "text_ta": "பிரிவு 21"
+      },
+      {
+        "key": "D",
+        "text_en": "Article 32",
+        "text_ta": "பிரிவு 32"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The Supreme Court declared the Right to Menstrual Health as an integral part of Article 21.",
+    "explanation_ta": "மாதவிடாய் ஆரோக்கியத்திற்கான உரிமையை பிரிவு 21-ன் அங்கமாக உச்ச நீதிமன்றம் அறிவித்தது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Based on the January 2026 data, which state-level achievement is uniquely linked to UNICEF collaboration?",
+    "question_ta": "ஜனவரி 2026 தரவுகளின் அடிப்படையில், எந்த மாநில அளவிலான சாதனை யுனிசெஃப் கூட்டாண்மையுடன் தனித்துவமாக இணைக்கப்பட்டுள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Being the first sub-national partner.",
+        "text_ta": "முதல் துணை-தேசிய பங்காளியாக இருப்பது."
+      },
+      {
+        "key": "B",
+        "text_en": "Highest vaccine distribution.",
+        "text_ta": "அதிக தடுப்பூசி விநியோகம்."
+      },
+      {
+        "key": "C",
+        "text_en": "Best GDP growth rates.",
+        "text_ta": "சிறந்த ஜிடிபி வளர்ச்சி விகிதங்கள்."
+      },
+      {
+        "key": "D",
+        "text_en": "Successful launch of PSLV missions.",
+        "text_ta": "PSLV பணிகளின் வெற்றிகரமான ஏவுதல்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The unique global milestone for Tamil Nadu is its status as UNICEF's first sub-national partner.",
+    "explanation_ta": "யுனிசெஃப்-ன் முதல் துணை-தேசிய பங்காளியாக இருப்பது தமிழ்நாட்டிற்கான தனித்துவமான உலகளாவிய மைல்கல்லாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Evaluate the 2026 Indian economic indicators: 1. GDP growth of 7.4%. 2. Average inflation 1.7%. These figures combined imply which of the following economic conditions?",
+    "question_ta": "2026-ன் இந்திய பொருளாதார குறிகாட்டிகளை மதிப்பிடவும்: 1. ஜிடிபி வளர்ச்சி 7.4%. 2. சராசரி பணவீக்கம் 1.7%. இந்த புள்ளிவிவரங்கள் இணைந்து எந்த பொருளாதார நிலையை உணர்த்துகின்றன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Stagflation",
+        "text_ta": "தேக்கநிலை பணவீக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Stable growth with low inflation",
+        "text_ta": "குறைந்த பணவீக்கத்துடன் நிலையான வளர்ச்சி"
+      },
+      {
+        "key": "C",
+        "text_en": "High inflation, low growth",
+        "text_ta": "அதிக பணவீக்கம், குறைந்த வளர்ச்சி"
+      },
+      {
+        "key": "D",
+        "text_en": "Economic recession",
+        "text_ta": "பொருளாதார மந்தநிலை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A high GDP growth rate of 7.4% coupled with low inflation of 1.7% suggests a stable, healthy growth phase.",
+    "explanation_ta": "7.4% உயர் ஜிடிபி வளர்ச்சி மற்றும் 1.7% குறைந்த பணவீக்கம் ஆகியவை ஒரு நிலையான, ஆரோக்கியமான வளர்ச்சி கட்டத்தை பரிந்துரைக்கின்றன.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the primary role of the EOS-N1 satellite launched by ISRO in January 2026?",
+    "question_ta": "ஜனவரி 2026-ல் இஸ்ரோ ஏவிய EOS-N1 செயற்கைக்கோளின் முதன்மை நோக்கம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Weather monitoring",
+        "text_ta": "வானிலை கண்காணிப்பு"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyperspectral Earth observation",
+        "text_ta": "ஹைப்பர்ஸ்பெக்ட்ரல் பூமி கண்காணிப்பு"
+      },
+      {
+        "key": "C",
+        "text_en": "Communication relay",
+        "text_ta": "தகவல் தொடர்பு"
+      },
+      {
+        "key": "D",
+        "text_en": "Lunar exploration",
+        "text_ta": "நிலவு ஆய்வு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "EOS-N1 is a hyperspectral Earth observation satellite.",
+    "explanation_ta": "EOS-N1 என்பது ஒரு ஹைப்பர்ஸ்பெக்ட்ரல் பூமி கண்காணிப்பு செயற்கைக்கோள் ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): The Supreme Court mandated functional toilets in schools under the Right to Menstrual Health. Reason (R): The Supreme Court declared the Right to Menstrual Health as an integral part of Article 21.",
+    "question_ta": "கூற்று (A): மாதவிடாய் ஆரோக்கியத்திற்கான உரிமையின் கீழ் பள்ளிகளில் செயல்பாட்டு கழிப்பறைகள் இருக்க வேண்டும் என உச்ச நீதிமன்றம் கட்டளையிட்டது. காரணம் (R): மாதவிடாய் ஆரோக்கியத்திற்கான உரிமையை உச்ச நீதிமன்றம் அரசியலமைப்பின் 21-வது பிரிவின் ஒரு அங்கமாக அறிவித்தது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both A and R are true and R is the correct explanation of A",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் சரி மற்றும் R என்பது A-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both A and R are true but R is not the correct explanation of A",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் சரி ஆனால் R என்பது A-வின் சரியான விளக்கம் அல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "A is true but R is false",
+        "text_ta": "A சரி ஆனால் R தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "A is false but R is true",
+        "text_ta": "A தவறு ஆனால் R சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Both are correct, and the judicial mandate directly stems from its classification as a right under Article 21.",
+    "explanation_ta": "இரண்டும் சரியானவை, மற்றும் நீதித்துறை ஆணை நேரடியாக பிரிவு 21-ன் கீழ் ஒரு உரிமையாக வகைப்படுத்தப்பட்டதிலிருந்து வருகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which country or regional bloc signed a Free Trade Agreement with India on January 27, 2026?",
+    "question_ta": "ஜனவரி 27, 2026 அன்று இந்தியாவுடன் சுதந்திர வர்த்தக ஒப்பந்தத்தில் கையெழுத்திட்ட நாடு அல்லது பிராந்தியக் குழு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ASEAN",
+        "text_ta": "ASEAN"
+      },
+      {
+        "key": "B",
+        "text_en": "European Union",
+        "text_ta": "ஐரோப்பிய ஒன்றியம்"
+      },
+      {
+        "key": "C",
+        "text_en": "USA",
+        "text_ta": "அமெரிக்கா"
+      },
+      {
+        "key": "D",
+        "text_en": "Japan",
+        "text_ta": "ஜப்பான்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "India and the European Union concluded a Free Trade Agreement on January 27, 2026.",
+    "explanation_ta": "இந்தியாவும் ஐரோப்பிய ஒன்றியமும் ஜனவரி 27, 2026 அன்று சுதந்திர வர்த்தக ஒப்பந்தத்தை முடிவுக்குக் கொண்டு வந்தன.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the rank of the PSLV-C62 flight in the overall sequence of PSLV launches?",
+    "question_ta": "PSLV ஏவுதல்களின் வரிசையில் PSLV-C62 விமானத்தின் தரம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "5th",
+        "text_ta": "5-வது"
+      },
+      {
+        "key": "B",
+        "text_en": "60th",
+        "text_ta": "60-வது"
+      },
+      {
+        "key": "C",
+        "text_en": "64th",
+        "text_ta": "64-வது"
+      },
+      {
+        "key": "D",
+        "text_en": "66th",
+        "text_ta": "66-வது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "PSLV-C62 is the 64th PSLV flight.",
+    "explanation_ta": "PSLV-C62 என்பது 64-வது PSLV விமானமாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Match the following regarding the 2026 Economic statistics for India:<br><div class='match-container'><div class='match-col-left'>a) GDP Growth Projection<br>b) Average Inflation<br>c) Electronics Export Share<br>d) HPV Vaccine Beneficiaries</div><div class='match-col-right'>1. 41.23%<br>2. 3,38,649<br>3. 7.4%<br>4. 1.7%</div></div>",
+    "question_ta": "2026-ம் ஆண்டிற்கான இந்தியாவின் பொருளாதார புள்ளிவிவரங்கள் குறித்துப் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) ஜிடிபி வளர்ச்சி கணிப்பு<br>b) சராசரி பணவீக்கம்<br>c) மின்னணு ஏற்றுமதி பங்கு<br>d) HPV தடுப்பூசி பயனாளிகள்</div><div class='match-col-right'>1. 41.23%<br>2. 3,38,649<br>3. 7.4%<br>4. 1.7%</div></div>",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "3   4   1   2",
+        "text_ta": "3   4   1   2"
+      },
+      {
+        "key": "B",
+        "text_en": "1   3   2   4",
+        "text_ta": "1   3   2   4"
+      },
+      {
+        "key": "C",
+        "text_en": "4   2   3   1",
+        "text_ta": "4   2   3   1"
+      },
+      {
+        "key": "D",
+        "text_en": "2   1   4   3",
+        "text_ta": "2   1   4   3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "GDP growth is 7.4%, inflation is 1.7%, export share is 41.23%, and beneficiaries are 3,38,649.",
+    "explanation_ta": "ஜிடிபி வளர்ச்சி 7.4%, பணவீக்கம் 1.7%, ஏற்றுமதி பங்கு 41.23%, மற்றும் பயனாளிகள் 3,38,649 ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Consider the following regarding the electronics export dominance of Tamil Nadu: 1. It has been ranked first for 3 consecutive years. 2. Its share in national exports is 41.23%. 3. The export value for FY 2024-25 was $14.65 billion. Which of the above statements is/are correct?",
+    "question_ta": "தமிழ்நாட்டின் மின்னணு ஏற்றுமதி ஆதிக்கம் குறித்து பின்வருவனவற்றைக் கவனியுங்கள்: 1. இது தொடர்ந்து 3 ஆண்டுகளாக முதலிடத்தில் உள்ளது. 2. தேசிய ஏற்றுமதியில் இதன் பங்கு 41.23% ஆகும். 3. 2024-25 நிதியாண்டிற்கான ஏற்றுமதி மதிப்பு $14.65 பில்லியன் ஆகும். மேற்கூறிய கூற்றுகளில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "All the above",
+        "text_ta": "அனைத்தும் சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "All three statements accurately reflect the electronics export data for Tamil Nadu as per Jan 2026 reports.",
+    "explanation_ta": "மூன்று கூற்றுகளும் ஜனவரி 2026 அறிக்கைகளின்படி தமிழ்நாட்டின் மின்னணு ஏற்றுமதி தரவை துல்லியமாக பிரதிபலிக்கின்றன.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which of the following about the Right to Menstrual Health as declared by the SC is true?",
+    "question_ta": "உச்ச நீதிமன்றத்தால் அறிவிக்கப்பட்ட மாதவிடாய் ஆரோக்கியத்திற்கான உரிமை குறித்து பின்வருவனவற்றில் எது உண்மை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It applies only to private schools.",
+        "text_ta": "இது தனியார் பள்ளிகளுக்கு மட்டுமே பொருந்தும்."
+      },
+      {
+        "key": "B",
+        "text_en": "It mandates gender-segregated toilets and free sanitary napkins in schools.",
+        "text_ta": "இது பள்ளிகளில் பாலின அடிப்படையில் பிரிக்கப்பட்ட கழிப்பறைகள் மற்றும் இலவச சானிட்டரி நாப்கின்களை கட்டாயமாக்குகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It is a directive principle, not a fundamental right.",
+        "text_ta": "இது ஒரு வழிகாட்டுதல் கொள்கை, அடிப்படை உரிமை அல்ல."
+      },
+      {
+        "key": "D",
+        "text_en": "It relates to Article 14 only.",
+        "text_ta": "இது பிரிவு 14-உடன் மட்டுமே தொடர்புடையது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The mandate includes both physical infrastructure (toilets) and supplies (napkins) for schools.",
+    "explanation_ta": "இந்த ஆணை பள்ளிகளுக்கான உடல் உள்கட்டமைப்பு (கழிப்பறைகள்) மற்றும் பொருட்கள் (நாப்கின்கள்) ஆகிய இரண்டையும் உள்ளடக்கியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which combination best describes the significance of the 2026 Australia Open event for Carlos Alcaraz?",
+    "question_ta": "கார்லோஸ் அல்காரஸிற்கு 2026 ஆஸ்திரேலிய ஓபன் நிகழ்வின் முக்கியத்துவத்தை எது சிறந்த முறையில் விவரிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "First title at 21, record for oldest champion.",
+        "text_ta": "21 வயதில் முதல் பட்டம், வயதான சாம்பியன் சாதனை."
+      },
+      {
+        "key": "B",
+        "text_en": "First Australian Open title, youngest to complete Career Grand Slam.",
+        "text_ta": "முதல் ஆஸ்திரேலிய ஓபன் பட்டம், கேரியர் கிராண்ட் ஸ்லாம் வென்ற மிக இளம் வீரர்."
+      },
+      {
+        "key": "C",
+        "text_en": "Second Australian Open title, oldest player in final.",
+        "text_ta": "இரண்டாவது ஆஸ்திரேலிய ஓபன் பட்டம், இறுதிப் போட்டியில் வயதான வீரர்."
+      },
+      {
+        "key": "D",
+        "text_en": "Third title at 22, youngest runner-up.",
+        "text_ta": "22 வயதில் மூன்றாவது பட்டம், இளம் ரன்னர்-அப்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Alcaraz won his first Australian Open at age 22, completing his Career Grand Slam as the youngest ever.",
+    "explanation_ta": "அல்காரஸ் தனது 22-வது வயதில் முதல் ஆஸ்திரேலிய ஓபனை வென்று, மிக இளம் வயதில் கேரியர் கிராண்ட் ஸ்லாம் சாதனையை முடித்தார்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "The PSLV-C62 mission successfully launched the EOS-N1 satellite. What is the specific classification of this PSLV variant?",
+    "question_ta": "PSLV-C62 விண்கலம் EOS-N1 செயற்கைக்கோளை வெற்றிகரமாக ஏவியது. இந்த PSLV மாறுபாட்டின் குறிப்பிட்ட வகைப்பாடு என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "PSLV-XL",
+        "text_ta": "PSLV-XL"
+      },
+      {
+        "key": "B",
+        "text_en": "PSLV-DL",
+        "text_ta": "PSLV-DL"
+      },
+      {
+        "key": "C",
+        "text_en": "PSLV-QL",
+        "text_ta": "PSLV-QL"
+      },
+      {
+        "key": "D",
+        "text_en": "PSLV-CA",
+        "text_ta": "PSLV-CA"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The PSLV-C62 mission is the 5th flight of the PSLV-DL variant.",
+    "explanation_ta": "PSLV-C62 பணி என்பது PSLV-DL வகையின் 5-வது விமானமாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Tamil Nadu has achieved a consecutive record in electronics exports. For how many years has it held the top rank in India?",
+    "question_ta": "தமிழ்நாடு மின்னணு ஏற்றுமதியில் தொடர்ச்சியான சாதனையை எட்டியுள்ளது. இந்தியாவில் எத்தனை ஆண்டுகளாக முதலிடத்தில் உள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2 years",
+        "text_ta": "2 ஆண்டுகள்"
+      },
+      {
+        "key": "B",
+        "text_en": "3 years",
+        "text_ta": "3 ஆண்டுகள்"
+      },
+      {
+        "key": "C",
+        "text_en": "4 years",
+        "text_ta": "4 ஆண்டுகள்"
+      },
+      {
+        "key": "D",
+        "text_en": "5 years",
+        "text_ta": "5 ஆண்டுகள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu ranked first for three consecutive years (FY 2023–24, 2024–25, and 2025–26).",
+    "explanation_ta": "தமிழ்நாடு தொடர்ந்து மூன்று ஆண்டுகளாக (2023-24, 2024-25, 2025-26) முதலிடத்தில் உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Tamil Nadu has become a global partner of UNICEF. Reason (R): Tamil Nadu is recognized as the first-ever sub-national government to directly collaborate with UNICEF for innovations.",
+    "question_ta": "கூற்று (A): தமிழ்நாடு யுனிசெஃப் அமைப்பின் உலகளாவிய பங்காளியாக மாறியுள்ளது. காரணம் (R): யுனிசெஃப் உடன் புதுமைகளுக்காக நேரடியாக ஒத்துழைக்கும் முதல் துணை-தேசிய அரசாங்கமாக தமிழ்நாடு அங்கீகரிக்கப்பட்டுள்ளது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both A and R are true and R is the correct explanation of A",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் சரி மற்றும் R என்பது A-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both A and R are true but R is not the correct explanation of A",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் சரி ஆனால் R என்பது A-வின் சரியான விளக்கம் அல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "A is true but R is false",
+        "text_ta": "A சரி ஆனால் R தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "A is false but R is true",
+        "text_ta": "A தவறு ஆனால் R சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The status of being the first sub-national partner explains the nature of the global partnership.",
+    "explanation_ta": "முதல் துணை-தேசிய பங்காளியாக இருப்பது உலகளாவிய கூட்டாண்மையின் தன்மையை விளக்குகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Consider the following statements regarding the Tamil Nadu-UNICEF partnership: 1. It is a world-first sub-national government partnership. 2. The focus is on direct collaboration for innovation. 3. It was formally established in 2024. Which is/are true?",
+    "question_ta": "தமிழ்நாடு-யுனிசெஃப் கூட்டாண்மை குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்: 1. இது உலகிலேயே முதல் துணை-தேசிய அரசு கூட்டாண்மை ஆகும். 2. புதுமைக்கான நேரடி ஒத்துழைப்பில் கவனம் செலுத்தப்படுகிறது. 3. இது 2024-ல் முறைப்படி நிறுவப்பட்டது. எது/எவை உண்மையானவை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "All the above",
+        "text_ta": "அனைத்தும் சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Statements 1 and 2 are true. Statement 3 is incorrect as the partnership status is recent (2026 context).",
+    "explanation_ta": "கூற்று 1 மற்றும் 2 சரி. கூட்டாண்மை நிலை சமீபத்தியது (2026 சூழல்) என்பதால் 3-வது கூற்று தவறானது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How many times has PSLV-DL variant been flown, including the C62 mission?",
+    "question_ta": "C62 பணியையும் சேர்த்து, PSLV-DL வகை எத்தனை முறை ஏவப்பட்டுள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "4",
+        "text_ta": "4"
+      },
+      {
+        "key": "B",
+        "text_en": "5",
+        "text_ta": "5"
+      },
+      {
+        "key": "C",
+        "text_en": "6",
+        "text_ta": "6"
+      },
+      {
+        "key": "D",
+        "text_en": "64",
+        "text_ta": "64"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The PSLV-C62 is the 5th flight of the PSLV-DL variant.",
+    "explanation_ta": "PSLV-C62 என்பது PSLV-DL வகையின் 5-வது விமானமாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which global body has partnered with Tamil Nadu as its first-ever sub-national government partner?",
+    "question_ta": "எந்த உலகளாவிய அமைப்பு, தமிழ்நாட்டை அதன் முதல் துணை-தேசிய அரசு பங்காளியாகக் கொண்டுள்ளது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "WHO",
+        "text_ta": "WHO"
+      },
+      {
+        "key": "B",
+        "text_en": "UNICEF",
+        "text_ta": "UNICEF"
+      },
+      {
+        "key": "C",
+        "text_en": "UNDP",
+        "text_ta": "UNDP"
+      },
+      {
+        "key": "D",
+        "text_en": "UNESCO",
+        "text_ta": "UNESCO"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tamil Nadu is the first-ever sub-national government partner of UNICEF globally.",
+    "explanation_ta": "தமிழ்நாடு உலகளவில் யுனிசெஃப் (UNICEF)-ன் முதல் துணை-தேசிய அரசு பங்காளியாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which statement about the EOS-N1 satellite mission is most accurate?",
+    "question_ta": "EOS-N1 செயற்கைக்கோள் பணி குறித்த எந்தக் கூற்று மிகவும் துல்லியமானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is a 5th generation weather satellite.",
+        "text_ta": "இது 5-வது தலைமுறை வானிலை செயற்கைக்கோள்."
+      },
+      {
+        "key": "B",
+        "text_en": "It uses the PSLV-DL variant and is a hyperspectral Earth observation satellite.",
+        "text_ta": "இது PSLV-DL வகையைப் பயன்படுத்துகிறது மற்றும் இது ஒரு ஹைப்பர்ஸ்பெக்ட்ரல் பூமி கண்காணிப்பு செயற்கைக்கோள் ஆகும்."
+      },
+      {
+        "key": "C",
+        "text_en": "It is the 65th PSLV mission.",
+        "text_ta": "இது 65-வது PSLV பணி."
+      },
+      {
+        "key": "D",
+        "text_en": "It was launched from the Mahendragiri facility.",
+        "text_ta": "இது மகேந்திரகிரி வசதியிலிருந்து ஏவப்பட்டது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "EOS-N1 is confirmed as a hyperspectral Earth observation satellite launched by PSLV-DL.",
+    "explanation_ta": "EOS-N1 என்பது PSLV-DL மூலம் ஏவப்பட்ட ஒரு ஹைப்பர்ஸ்பெக்ட்ரல் பூமி கண்காணிப்பு செயற்கைக்கோள் என்பது உறுதிப்படுத்தப்பட்டுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the Economic Survey 2025-26, what was the average inflation rate in India from April to December 2025?",
+    "question_ta": "பொருளாதார ஆய்வறிக்கை 2025-26-ன் படி, ஏப்ரல் முதல் டிசம்பர் 2025 வரை இந்தியாவில் சராசரி பணவீக்க விகிதம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1.7%",
+        "text_ta": "1.7%"
+      },
+      {
+        "key": "B",
+        "text_en": "2.4%",
+        "text_ta": "2.4%"
+      },
+      {
+        "key": "C",
+        "text_en": "7.4%",
+        "text_ta": "7.4%"
+      },
+      {
+        "key": "D",
+        "text_en": "4.1%",
+        "text_ta": "4.1%"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The average inflation rate between April and December 2025 was recorded at 1.7%.",
+    "explanation_ta": "ஏப்ரல் முதல் டிசம்பர் 2025 வரையிலான சராசரி பணவீக்க விகிதம் 1.7% ஆகப் பதிவாகியுள்ளது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which health initiative was launched by the Tamil Nadu government on January 27, 2026, specifically targeting adolescent girls?",
+    "question_ta": "ஜனவரி 27, 2026 அன்று தமிழ்நாடு அரசு பதின்ம வயது சிறுமிகளை இலக்காகக் கொண்டு எந்த சுகாதாரத் திட்டத்தைத் தொடங்கியது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Polio Vaccination Drive",
+        "text_ta": "போலியோ தடுப்பூசி முகாம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Free HPV Vaccination Drive",
+        "text_ta": "இலவச HPV தடுப்பூசி முகாம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Anemia Eradication Program",
+        "text_ta": "இரத்த சோகை ஒழிப்புத் திட்டம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Nutritional Supplement Scheme",
+        "text_ta": "சத்துணவு ஊக்கத் திட்டம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The state-wide free HPV vaccination drive for adolescent girls was launched on January 27, 2026.",
+    "explanation_ta": "பதின்ம வயது சிறுமிகளுக்கான மாநில அளவிலான இலவச HPV தடுப்பூசி முகாம் ஜனவரி 27, 2026 அன்று தொடங்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Analyze the statement about India-EU relations: 'The Free Trade Agreement concluded on January 27, 2026, marks the first time such an agreement reached during the 16th Summit.' Evaluate this statement.",
+    "question_ta": "இந்தியா-ஐரோப்பிய ஒன்றிய உறவுகள் குறித்த கூற்றை பகுப்பாய்வு செய்க: 'ஜனவரி 27, 2026 அன்று முடிவு செய்யப்பட்ட சுதந்திர வர்த்தக ஒப்பந்தம், 16-வது உச்சிமாநாட்டின் போது இத்தகைய ஒப்பந்தம் எட்டப்படுவது இதுவே முதல் முறை.' இந்தக் கூற்றை மதிப்பிடவும்.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "True",
+        "text_ta": "சரி"
+      },
+      {
+        "key": "B",
+        "text_en": "False",
+        "text_ta": "தவறு"
+      },
+      {
+        "key": "C",
+        "text_en": "Partially True",
+        "text_ta": "பகுதி உண்மை"
+      },
+      {
+        "key": "D",
+        "text_en": "Irrelevant",
+        "text_ta": "தொடர்பற்றது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The conclusion of the FTA at the 16th India-EU summit is a significant outcome recorded in January 2026.",
+    "explanation_ta": "16-வது இந்தியா-ஐரோப்பிய ஒன்றிய உச்சிமாநாட்டில் FTA-வின் முடிவு ஜனவரி 2026-ல் பதிவு செய்யப்பட்ட ஒரு முக்கிய விளைவாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): The Tamil Nadu electronics sector is currently leading the Indian market. Reason (R): It has contributed significantly to national exports, holding over 40% of the share.",
+    "question_ta": "கூற்று (A): தமிழக மின்னணுத் துறை தற்போது இந்திய சந்தையில் முன்னிலை வகிக்கிறது. காரணம் (R): இது தேசிய ஏற்றுமதிக்கு கணிசமான பங்களிப்பை அளித்து, 40%-க்கும் அதிகமான பங்கைக் கொண்டுள்ளது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both A and R are true and R is the correct explanation of A",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் சரி மற்றும் R என்பது A-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both A and R are true but R is not the correct explanation of A",
+        "text_ta": "A மற்றும் R ஆகிய இரண்டும் சரி ஆனால் R என்பது A-வின் சரியான விளக்கம் அல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "A is true but R is false",
+        "text_ta": "A சரி ஆனால் R தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "A is false but R is true",
+        "text_ta": "A தவறு ஆனால் R சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tamil Nadu's 41.23% share directly supports its leadership position in the electronics export market.",
+    "explanation_ta": "தமிழ்நாட்டின் 41.23% பங்கு மின்னணு ஏற்றுமதி சந்தையில் அதன் தலைமை நிலையை நேரடியாக ஆதரிக்கிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Who is the tennis player who became the youngest to complete a Career Grand Slam in 2026?",
+    "question_ta": "2026-ல் மிக இளம் வயதில் கேரியர் கிராண்ட் ஸ்லாம் வென்ற டென்னிஸ் வீரர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rafael Nadal",
+        "text_ta": "ரஃபேல் நடால்"
+      },
+      {
+        "key": "B",
+        "text_en": "Novak Djokovic",
+        "text_ta": "நோவக் ஜோகோவிச்"
+      },
+      {
+        "key": "C",
+        "text_en": "Carlos Alcaraz",
+        "text_ta": "கார்லோஸ் அல்காரஸ்"
+      },
+      {
+        "key": "D",
+        "text_en": "Roger Federer",
+        "text_ta": "ரோஜர் பெடரர்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Carlos Alcaraz became the youngest to complete a Career Grand Slam after his 2026 Australian Open win.",
+    "explanation_ta": "2026 ஆஸ்திரேலிய ஓபன் வெற்றிக்குப் பிறகு, கேரியர் கிராண்ட் ஸ்லாம் வென்ற மிக இளம் வீரராக கார்லோஸ் அல்காரஸ் மாறினார்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In which city was the 16th India-European Union Summit conducted in January 2026?",
+    "question_ta": "ஜனவரி 2026-ல் 16-வது இந்தியா-ஐரோப்பிய ஒன்றிய உச்சிமாநாடு எந்த நகரத்தில் நடைபெற்றது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Brussels",
+        "text_ta": "பிரஸ்ஸல்ஸ்"
+      },
+      {
+        "key": "B",
+        "text_en": "Mumbai",
+        "text_ta": "மும்பை"
+      },
+      {
+        "key": "C",
+        "text_en": "New Delhi",
+        "text_ta": "புது தில்லி"
+      },
+      {
+        "key": "D",
+        "text_en": "Chennai",
+        "text_ta": "சென்னை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The 16th India-EU Summit was held in New Delhi on January 27, 2026.",
+    "explanation_ta": "16-வது இந்தியா-ஐரோப்பிய ஒன்றிய உச்சிமாநாடு ஜனவரி 27, 2026 அன்று புது தில்லியில் நடைபெற்றது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In which Australian Open tennis edition did Carlos Alcaraz win his first title at the age of 22?",
+    "question_ta": "கார்லோஸ் அல்காரஸ் தனது 22-வது வயதில் எந்த ஆஸ்திரேலிய ஓபன் டென்னிஸ் தொடரில் தனது முதல் பட்டத்தை வென்றார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2024",
+        "text_ta": "2024"
+      },
+      {
+        "key": "B",
+        "text_en": "2025",
+        "text_ta": "2025"
+      },
+      {
+        "key": "C",
+        "text_en": "2026",
+        "text_ta": "2026"
+      },
+      {
+        "key": "D",
+        "text_en": "2027",
+        "text_ta": "2027"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Carlos Alcaraz won his first Australian Open title in 2026 at age 22.",
+    "explanation_ta": "கார்லோஸ் அல்காரஸ் 2026-ம் ஆண்டு தனது 22-வது வயதில் முதல் ஆஸ்திரேலிய ஓபன் பட்டத்தை வென்றார்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Consider the following regarding the HPV vaccination drive in Tamil Nadu: 1. Launched January 27, 2026. 2. Targeted for adolescent girls. 3. Total beneficiaries are 3,38,649. Which of the above are correct?",
+    "question_ta": "தமிழ்நாட்டில் HPV தடுப்பூசி முகாம் குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்: 1. ஜனவரி 27, 2026 அன்று தொடங்கப்பட்டது. 2. பதின்ம வயது சிறுமிகளுக்கானது. 3. மொத்தம் 3,38,649 பயனாளிகள். மேற்கூறியவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "All three statements are factually correct according to the Jan 2026 update.",
+    "explanation_ta": "ஜனவரி 2026 புதுப்பிப்பின்படி மூன்று கூற்றுகளும் உண்மையாகவே சரியானவை.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the total number of adolescent girl beneficiaries identified for the HPV vaccination drive in Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டில் HPV தடுப்பூசி முகாமிற்கு அடையாளம் காணப்பட்ட பதின்ம வயது சிறுமிகளின் மொத்த எண்ணிக்கை என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2,38,649",
+        "text_ta": "2,38,649"
+      },
+      {
+        "key": "B",
+        "text_en": "3,38,649",
+        "text_ta": "3,38,649"
+      },
+      {
+        "key": "C",
+        "text_en": "4,38,649",
+        "text_ta": "4,38,649"
+      },
+      {
+        "key": "D",
+        "text_en": "5,38,649",
+        "text_ta": "5,38,649"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "There were 3,38,649 beneficiaries identified for the HPV vaccination drive.",
+    "explanation_ta": "HPV தடுப்பூசி முகாமிற்காக 3,38,649 பயனாளிகள் அடையாளம் காணப்பட்டனர்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Identify the correct sequence of events based on January 2026 occurrences: 1. India-EU Summit concludes. 2. HPV drive for adolescent girls launched. 3. PSLV-C62 launches EOS-N1.",
+    "question_ta": "ஜனவரி 2026 நிகழ்வுகளின் அடிப்படையில் சரியான வரிசையை அடையாளம் காணவும்: 1. இந்தியா-ஐரோப்பிய ஒன்றிய உச்சிமாநாடு நிறைவு. 2. பதின்ம வயது சிறுமிகளுக்கான HPV தடுப்பூசி முகாம் தொடக்கம். 3. PSLV-C62, EOS-N1-ஐ ஏவியது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1, 2, 3",
+        "text_ta": "1, 2, 3"
+      },
+      {
+        "key": "B",
+        "text_en": "3, 2, 1",
+        "text_ta": "3, 2, 1"
+      },
+      {
+        "key": "C",
+        "text_en": "2, 1, 3",
+        "text_ta": "2, 1, 3"
+      },
+      {
+        "key": "D",
+        "text_en": "1, 3, 2",
+        "text_ta": "1, 3, 2"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "All events were highlighted in the context of January 2026 developments, typically occurring concurrently or consecutively in that sequence.",
+    "explanation_ta": "ஜனவரி 2026-ன் முன்னேற்றங்களின் சூழலில் அனைத்து நிகழ்வுகளும் சிறப்பம்சப்படுத்தப்பட்டன, இவை பெரும்பாலும் அந்த வரிசையில் நிகழ்ந்தன.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which of the following is correct regarding the PSLV-C62 mission launched from Sriharikota?",
+    "question_ta": "ஸ்ரீஹரிகோட்டாவிலிருந்து ஏவப்பட்ட PSLV-C62 பணி குறித்து பின்வருவனவற்றில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It launched a communication satellite; 65th flight.",
+        "text_ta": "இது ஒரு தகவல் தொடர்பு செயற்கைக்கோளை ஏவியது; 65-வது விமானம்."
+      },
+      {
+        "key": "B",
+        "text_en": "It launched EOS-N1; 64th flight of PSLV and 5th of PSLV-DL variant.",
+        "text_ta": "இது EOS-N1-ஐ ஏவியது; 64-வது PSLV விமானம் மற்றும் 5-வது PSLV-DL வகை."
+      },
+      {
+        "key": "C",
+        "text_en": "It launched a weather satellite; 63rd flight of PSLV.",
+        "text_ta": "இது ஒரு வானிலை செயற்கைக்கோளை ஏவியது; 63-வது PSLV விமானம்."
+      },
+      {
+        "key": "D",
+        "text_en": "It was the first PSLV-DL flight.",
+        "text_ta": "இது முதல் PSLV-DL விமானமாகும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "PSLV-C62 launched the hyperspectral satellite EOS-N1, being the 64th overall and 5th of the DL variant.",
+    "explanation_ta": "PSLV-C62 ஹைப்பர்ஸ்பெக்ட்ரல் செயற்கைக்கோள் EOS-N1-ஐ ஏவியது, இது 64-வது மற்றும் DL வகையின் 5-வது விமானமாகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : January 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Analyze the Economic Survey 2025-26 data: 1. Real GDP growth is projected at 7.4%. 2. The period for inflation monitoring was April 2025 to December 2025. 3. Inflation rate averaged 1.7%. Select the correct combination.",
+    "question_ta": "பொருளாதார ஆய்வறிக்கை 2025-26 தரவை பகுப்பாய்வு செய்க: 1. உண்மையான ஜிடிபி வளர்ச்சி 7.4% என கணிக்கப்பட்டுள்ளது. 2. பணவீக்க கண்காணிப்பு காலம் ஏப்ரல் 2025 முதல் டிசம்பர் 2025 வரை. 3. பணவீக்க விகிதம் சராசரியாக 1.7%. சரியான கலவையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2",
+        "text_ta": "1 மற்றும் 2"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3",
+        "text_ta": "2 மற்றும் 3"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3",
+        "text_ta": "1 மற்றும் 3"
+      },
+      {
+        "key": "D",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "All provided data points correctly align with the Economic Survey 2025-26 release details.",
+    "explanation_ta": "அனைத்து வழங்கப்பட்ட தரவு புள்ளிகளும் பொருளாதார ஆய்வறிக்கை 2025-26 வெளியீட்டு விவரங்களுடன் சரியாக ஒத்துப்போகின்றன.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
   }
 ]

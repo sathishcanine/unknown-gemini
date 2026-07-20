@@ -7378,5 +7378,1235 @@
     "type": "practice",
     "batch": "Batch 1",
     "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "The 'Babuji Vanam' garden is associated with which milestone of Babuji Maharaj?",
+    "question_ta": "'பாபுஜி வனம்' பூங்கா பாபுஜி மகாராஜின் எந்த மைல்கல்லுடன் தொடர்புடையது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "100th birth anniversary",
+        "text_ta": "100-வது பிறந்தநாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "125th birth anniversary",
+        "text_ta": "125-வது பிறந்தநாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "50th death anniversary",
+        "text_ta": "50-வது நினைவு நாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "Establishment of Kanha Shanti Vanam",
+        "text_ta": "கன்ஹா சாந்தி வனத்தின் தொடக்கம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The garden commemorates the 125th birth anniversary of Babuji Maharaj.",
+    "explanation_ta": "இந்த பூங்கா பாபுஜி மகாராஜின் 125-வது பிறந்தநாளைக் குறிக்கிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What technology was used by SKUAST for gene-editing the sheep?",
+    "question_ta": "செம்மறி ஆட்டை மரபணு திருத்தம் செய்ய SKUAST எந்த தொழில்நுட்பத்தைப் பயன்படுத்தியது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "TALENs",
+        "text_ta": "TALENs"
+      },
+      {
+        "key": "B",
+        "text_en": "CRISPR-Cas9",
+        "text_ta": "CRISPR-Cas9"
+      },
+      {
+        "key": "C",
+        "text_en": "Zinc Finger Nucleases",
+        "text_ta": "Zinc Finger Nucleases"
+      },
+      {
+        "key": "D",
+        "text_en": "Genetic Cloning",
+        "text_ta": "மரபணு குளோனிங்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "SKUAST utilized CRISPR-Cas9 technology to produce the Kashmir Merino sheep.",
+    "explanation_ta": "SKUAST இந்த செம்மறி ஆட்டை உருவாக்க CRISPR-Cas9 தொழில்நுட்பத்தைப் பயன்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Match the following Indian current events initiatives:<br><div class='match-container'><div class='match-col-left'>a) Babuji Vanam<br>b) Alaigal Project<br>c) NAVYA Scheme<br>d) Kruti AI</div><div class='match-col-right'>1. Fisherwomen loans<br>2. Energy transmission garden<br>3. Agentic AI<br>4. Vocational training</div></div>",
+    "question_ta": "பின்வரும் இந்திய தற்போதைய நிகழ்வு முயற்சிகளைப் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) பாபுஜி வனம்<br>b) அலைகள் திட்டம்<br>c) NAVYA திட்டம்<br>d) க்ருதி ஏஐ</div><div class='match-col-right'>1. மீனவப் பெண்களுக்கான கடன்<br>2. ஆற்றல் பரிமாற்ற பூங்கா<br>3. ஏஜென்டிக் செயற்கை நுண்ணறிவு<br>4. தொழிற்பயிற்சி</div></div>",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2   1   4   3",
+        "text_ta": "2   1   4   3"
+      },
+      {
+        "key": "B",
+        "text_en": "1   2   3   4",
+        "text_ta": "1   2   3   4"
+      },
+      {
+        "key": "C",
+        "text_en": "4   3   2   1",
+        "text_ta": "4   3   2   1"
+      },
+      {
+        "key": "D",
+        "text_en": "2   4   1   3",
+        "text_ta": "2   4   1   3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Babuji Vanam (Energy garden), Alaigal (Fisherwomen loans), NAVYA (Vocational training), Kruti (Agentic AI).",
+    "explanation_ta": "பாபுஜி வனம் (ஆற்றல் பூங்கா), அலைகள் (மீனவப் பெண்களுக்கான கடன்), NAVYA (தொழிற்பயிற்சி), க்ருதி (ஏஜென்டிக் ஏஐ).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Consider the following about the Central Zonal Council meeting: 1. It was the 25th such meeting. 2. It was held in Varanasi. 3. It was chaired by the Prime Minister. Which of these are true?",
+    "question_ta": "மத்திய மண்டல கவுன்சில் கூட்டம் குறித்து பின்வருவனவற்றைக் கருத்தில் கொள்க: 1. இது 25-வது கூட்டமாகும். 2. இது வாரணாசியில் நடைபெற்றது. 3. இதற்கு பிரதமர் தலைமை தாங்கினார். இதில் எது உண்மையானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The Union Home Minister chaired the meeting, not the Prime Minister.",
+    "explanation_ta": "மத்திய உள்துறை அமைச்சர் கூட்டத்திற்கு தலைமை தாங்கினார், பிரதமர் அல்ல.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Analyze the status of India's population as per the UNFPA report: 1. India is the most populous nation. 2. The population is estimated at 1.46 billion. 3. This data relates to the 2026 report. Which statement is correct?",
+    "question_ta": "UNFPA அறிக்கையின்படி இந்தியாவின் மக்கள் தொகை நிலையை பகுப்பாய்வு செய்க: 1. இந்தியா உலகின் அதிக மக்கள் தொகை கொண்ட நாடு. 2. மக்கள்தொகை 1.46 பில்லியன் என மதிப்பிடப்பட்டுள்ளது. 3. இந்தத் தரவு 2026-ம் ஆண்டின் அறிக்கையைச் சார்ந்தது. எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "D",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Statements 1 and 2 are true based on the 2025 UNFPA report, not 2026.",
+    "explanation_ta": "கூற்றுகள் 1 மற்றும் 2 சரி (2025 UNFPA அறிக்கையின்படி, 2026 அல்ல).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Regarding the hydrogen fuel cell buses in Leh: 1. They are part of a pilot project at 3,650m. 2. The project was launched by NTPC. 3. This is the first of its kind in India. Choose the correct statements.",
+    "question_ta": "லேவில் உள்ள ஹைட்ரஜன் எரிபொருள் செல் பேருந்துகள் குறித்து: 1. அவை 3,650 மீட்டர் உயரத்தில் உள்ள ஒரு சோதனைத் திட்டத்தின் ஒரு பகுதியாகும். 2. இந்தத் திட்டம் NTPC-ஆல் தொடங்கப்பட்டது. 3. இது இந்தியாவில் முதன்மையானது. சரியான கூற்றுகளைத் தேர்வு செய்க.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 and 2 only",
+        "text_ta": "1 மற்றும் 2 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 and 3 only",
+        "text_ta": "2 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "1 and 3 only",
+        "text_ta": "1 மற்றும் 3 மட்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "1, 2 and 3",
+        "text_ta": "1, 2 மற்றும் 3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "All three statements are correct regarding the hydrogen mobility pilot project in Ladakh.",
+    "explanation_ta": "லடாக்கின் ஹைட்ரஜன் போக்குவரத்து சோதனைத் திட்டம் குறித்து மூன்று கூற்றுகளும் சரியானவை.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which country achieved 'gold tier' status in the elimination of mother-to-child transmission (MTCT) of HIV?",
+    "question_ta": "தாய்வழி எச்ஐவி (HIV) பரவலை ஒழிப்பதில் 'தங்க நிலை' (gold tier) அந்தஸ்தை அடைந்த நாடு எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Botswana",
+        "text_ta": "போட்ஸ்வானா"
+      },
+      {
+        "key": "B",
+        "text_en": "South Africa",
+        "text_ta": "தென்னாப்பிரிக்கா"
+      },
+      {
+        "key": "C",
+        "text_en": "Kenya",
+        "text_ta": "கென்யா"
+      },
+      {
+        "key": "D",
+        "text_en": "Namibia",
+        "text_ta": "நமீபியா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Botswana is the first country to achieve the gold tier status for eliminating mother-to-child HIV transmission.",
+    "explanation_ta": "தாய்வழி எச்ஐவி பரவலை ஒழிப்பதில் தங்க நிலை அந்தஸ்தை அடைந்த முதல் நாடு போட்ஸ்வானா ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How many CCU testbeds were established for the cement sector by the Department of Science and Technology (DST)?",
+    "question_ta": "அறிவியல் மற்றும் தொழில்நுட்பத் துறை (DST) சிமெண்ட் துறைக்காக எத்தனை கார்பன் பிடிப்பு மற்றும் பயன்பாடு (CCU) சோதனைத் தளங்களை நிறுவியது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Three",
+        "text_ta": "மூன்று"
+      },
+      {
+        "key": "B",
+        "text_en": "Four",
+        "text_ta": "நான்கு"
+      },
+      {
+        "key": "C",
+        "text_en": "Five",
+        "text_ta": "ஐந்து"
+      },
+      {
+        "key": "D",
+        "text_en": "Six",
+        "text_ta": "ஆறு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The DST launched the country’s first cluster of five CCU testbeds specifically for the cement industry.",
+    "explanation_ta": "DST சிமெண்ட் துறைக்காக நாட்டின் முதல் ஐந்து CCU சோதனைத் தளங்களைக் கொண்ட தொகுப்பை அறிமுகப்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Bihar became the first state to roll out an e-voting system using Android mobiles. Reason (R): This system was implemented for the municipal elections in the state.",
+    "question_ta": "கூற்று (A): ஆண்ட்ராய்டு மொபைல்களைப் பயன்படுத்தி மின்னணு வாக்குப்பதிவு முறையை அமல்படுத்திய முதல் மாநிலமாக பீகார் உருவெடுத்துள்ளது. காரணம் (R): இந்த முறை மாநிலத்தின் நகராட்சித் தேர்தல்களுக்காக செயல்படுத்தப்பட்டது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, (R) என்பது (A)-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி, ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு, ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Bihar State Election Commission implemented this for municipal elections.",
+    "explanation_ta": "பீகார் மாநில தேர்தல் ஆணையம் நகராட்சித் தேர்தல்களுக்காக இதை செயல்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which company launched India's first agentic AI named 'Kruti'?",
+    "question_ta": "இந்தியாவின் முதல் ஏஜென்டிக் செயற்கை நுண்ணறிவான 'க்ருதி' (Kruti)-ஐ அறிமுகப்படுத்திய நிறுவனம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Reliance Jio",
+        "text_ta": "ரிலையன்ஸ் ஜியோ"
+      },
+      {
+        "key": "B",
+        "text_en": "Ola Krutrim",
+        "text_ta": "ஓலா க்ருத்ரிம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Tata Consultancy Services",
+        "text_ta": "டாடா கன்சல்டன்சி சர்வீசஸ்"
+      },
+      {
+        "key": "D",
+        "text_en": "Infosys AI Labs",
+        "text_ta": "இன்ஃபோசிஸ் ஏஐ லேப்ஸ்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ola Krutrim launched the agentic AI 'Kruti' to enhance cloud services.",
+    "explanation_ta": "ஓலா க்ருத்ரிம் மேகக்கணி சேவைகளை மேம்படுத்த 'க்ருதி' என்ற ஏஜென்டிக் செயற்கை நுண்ணறிவை அறிமுகப்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which university in Jammu developed India's first gene-edited sheep?",
+    "question_ta": "இந்தியாவின் முதல் மரபணு திருத்தம் செய்யப்பட்ட செம்மறி ஆட்டை உருவாக்கிய ஜம்முவில் உள்ள பல்கலைக்கழகம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "University of Jammu",
+        "text_ta": "ஜம்மு பல்கலைக்கழகம்"
+      },
+      {
+        "key": "B",
+        "text_en": "SKUAST",
+        "text_ta": "SKUAST"
+      },
+      {
+        "key": "C",
+        "text_en": "Central University of Kashmir",
+        "text_ta": "மத்திய காஷ்மீர் பல்கலைக்கழகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "IIT Jammu",
+        "text_ta": "ஐஐடி ஜம்மு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "SKUAST (Sher-e-Kashmir University of Agricultural Sciences and Technology) produced the sheep.",
+    "explanation_ta": "SKUAST இந்த செம்மறி ஆட்டை உருவாக்கியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which Chennai-based space startup test-fired an electric motor-driven semi-cryogenic rocket engine?",
+    "question_ta": "மின்சார மோட்டார் மூலம் இயங்கும் செமி-கிரையோஜெனிக் ராக்கெட் என்ஜினை வெற்றிகரமாக சோதனை செய்த சென்னையைச் சேர்ந்த விண்வெளி ஸ்டார்ட்-அப் நிறுவனம் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Skyroot Aerospace",
+        "text_ta": "ஸ்கைரூட் ஏரோஸ்பேஸ்"
+      },
+      {
+        "key": "B",
+        "text_en": "Agnikul Cosmos",
+        "text_ta": "அக்னிகுல் காஸ்மோஸ்"
+      },
+      {
+        "key": "C",
+        "text_en": "Bellatrix Aerospace",
+        "text_ta": "பெல்லாட்ரிக்ஸ் ஏரோஸ்பேஸ்"
+      },
+      {
+        "key": "D",
+        "text_en": "Dhruva Space",
+        "text_ta": "துருவா ஸ்பேஸ்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Agnikul Cosmos, based in Chennai, successfully tested this engine.",
+    "explanation_ta": "சென்னையைச் சேர்ந்த அக்னிகுல் காஸ்மோஸ் நிறுவனம் இந்த என்ஜினை வெற்றிகரமாக சோதித்தது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "The 'NAVYA' scheme is targeted at which specific demographic?",
+    "question_ta": "'NAVYA' திட்டம் எந்த குறிப்பிட்ட மக்கள்தொகையை இலக்காகக் கொண்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Boys aged 10-14",
+        "text_ta": "10-14 வயதுடைய சிறுவர்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "Girls aged 16-18",
+        "text_ta": "16-18 வயதுடைய பெண்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "Fisherwomen",
+        "text_ta": "மீனவப் பெண்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "Rural elderly population",
+        "text_ta": "கிராமப்புற முதியவர்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The NAVYA scheme (Nurturing Aspirations through Vocational Training for Young Adolescent Girls) targets girls aged 16-18.",
+    "explanation_ta": "NAVYA திட்டம் 16-18 வயதுடைய இளம் பருவப் பெண்களை இலக்காகக் கொண்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the name of the mascot for the 2025 World Para Athletics Championship?",
+    "question_ta": "2025 உலக பாரா தடகள சாம்பியன்ஷிப் போட்டியின் சின்னத்தின் பெயர் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Veera",
+        "text_ta": "வீரா"
+      },
+      {
+        "key": "B",
+        "text_en": "Viraj",
+        "text_ta": "விராஜ்"
+      },
+      {
+        "key": "C",
+        "text_en": "Vijaya",
+        "text_ta": "விஜயா"
+      },
+      {
+        "key": "D",
+        "text_en": "Vayu",
+        "text_ta": "வாயு"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The mascot for the 2025 World Para Athletics Championship is named 'Viraj'.",
+    "explanation_ta": "2025 உலக பாரா தடகள சாம்பியன்ஷிப் போட்டியின் சின்னம் 'விராஜ்' ஆகும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which statement correctly describes the function of the 'Alaigal' project?",
+    "question_ta": "'அலைகள்' திட்டத்தின் செயல்பாட்டை பின்வரும் எந்தக் கூற்று சரியாக விவரிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It provides government jobs to fisherwomen.",
+        "text_ta": "இது மீனவப் பெண்களுக்கு அரசு வேலைகளை வழங்குகிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "It provides micro-loans to support fisherwomen.",
+        "text_ta": "இது மீனவப் பெண்களுக்கு ஆதரவளிக்க குறுங்கடன் வழங்குகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It builds houses for fisherfolk in coastal areas.",
+        "text_ta": "இது கடற்கரை பகுதிகளில் மீனவர்களுக்கு வீடுகளைக் கட்டுகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It focuses on deep-sea fishing education.",
+        "text_ta": "இது ஆழ்கடல் மீன்பிடி கல்வியில் கவனம் செலுத்துகிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The 'Alaigal' project focuses on providing micro-loans to fisherwomen with a 25 crore budget.",
+    "explanation_ta": "'அலைகள்' திட்டம் 25 கோடி பட்ஜெட்டுடன் மீனவப் பெண்களுக்கு குறுங்கடன் வழங்குவதில் கவனம் செலுத்துகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "At what altitude is the world's highest hydrogen mobility pilot project located, which uses NTPC's fuel cell buses?",
+    "question_ta": "என்டிபிசி (NTPC) நிறுவனத்தின் எரிபொருள் செல் பேருந்துகளைப் பயன்படுத்தும் உலகின் மிக உயரமான ஹைட்ரஜன் போக்குவரத்து திட்டத்தின் உயரம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2,500 meters",
+        "text_ta": "2,500 மீட்டர்"
+      },
+      {
+        "key": "B",
+        "text_en": "3,000 meters",
+        "text_ta": "3,000 மீட்டர்"
+      },
+      {
+        "key": "C",
+        "text_en": "3,650 meters",
+        "text_ta": "3,650 மீட்டர்"
+      },
+      {
+        "key": "D",
+        "text_en": "4,200 meters",
+        "text_ta": "4,200 மீட்டர்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The NTPC project in Leh, Ladakh, operates at an altitude of 3,650 meters.",
+    "explanation_ta": "லடாக்கின் லேவில் உள்ள NTPC திட்டம் 3,650 மீட்டர் உயரத்தில் இயங்குகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which of the following is true about the Agnikul Cosmos rocket engine testing?",
+    "question_ta": "அக்னிகுல் காஸ்மோஸ் ராக்கெட் என்ஜின் சோதனை குறித்து பின்வருவனவற்றில் எது உண்மை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It uses a liquid fuel only.",
+        "text_ta": "இது திரவ எரிபொருளை மட்டுமே பயன்படுத்துகிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "It is powered by an electric motor.",
+        "text_ta": "இது மின்சார மோட்டாரால் இயக்கப்படுகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "It is based in Bangalore.",
+        "text_ta": "இது பெங்களூரை மையமாகக் கொண்டது."
+      },
+      {
+        "key": "D",
+        "text_en": "It is a fully cryogenic engine.",
+        "text_ta": "இது முழுமையான கிரையோஜெனிக் என்ஜின் ஆகும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "It is a semi-cryogenic rocket engine powered by an electric motor and they are Chennai-based.",
+    "explanation_ta": "இது மின்சார மோட்டாரால் இயங்கும் செமி-கிரையோஜெனிக் ராக்கெட் என்ஜின் மற்றும் அவர்கள் சென்னையைச் சேர்ந்தவர்கள்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "The Union Home Minister chaired the 25th meeting of which council in Varanasi?",
+    "question_ta": "மத்திய உள்துறை அமைச்சர் வாரணாசியில் எந்தக் கவுன்சிலின் 25-வது கூட்டத்திற்கு தலைமை தாங்கினார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Northern Zonal Council",
+        "text_ta": "வடக்கு மண்டல கவுன்சில்"
+      },
+      {
+        "key": "B",
+        "text_en": "Southern Zonal Council",
+        "text_ta": "தெற்கு மண்டல கவுன்சில்"
+      },
+      {
+        "key": "C",
+        "text_en": "Central Zonal Council",
+        "text_ta": "மத்திய மண்டல கவுன்சில்"
+      },
+      {
+        "key": "D",
+        "text_en": "Western Zonal Council",
+        "text_ta": "மேற்கு மண்டல கவுன்சில்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The Union Home Minister chaired the 25th meeting of the Central Zonal Council in Varanasi, Uttar Pradesh.",
+    "explanation_ta": "மத்திய உள்துறை அமைச்சர் உத்தரப்பிரதேச மாநிலம் வாரணாசியில் மத்திய மண்டல கவுன்சிலின் 25-வது கூட்டத்திற்கு தலைமை தாங்கினார்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the UNFPA 2025 report, what is the approximate population of India?",
+    "question_ta": "UNFPA-வின் 2025 அறிக்கையின்படி, இந்தியாவின் மக்கள் தொகை சுமார் எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1.26 billion",
+        "text_ta": "1.26 பில்லியன்"
+      },
+      {
+        "key": "B",
+        "text_en": "1.36 billion",
+        "text_ta": "1.36 பில்லியன்"
+      },
+      {
+        "key": "C",
+        "text_en": "1.46 billion",
+        "text_ta": "1.46 பில்லியன்"
+      },
+      {
+        "key": "D",
+        "text_en": "1.56 billion",
+        "text_ta": "1.56 பில்லியன்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "India is the world's most populous nation with approximately 1.46 billion people as per the UNFPA report.",
+    "explanation_ta": "UNFPA அறிக்கையின்படி, இந்தியா சுமார் 1.46 பில்லியன் மக்கள்தொகையுடன் உலகின் அதிக மக்கள் தொகை கொண்ட நாடாக உள்ளது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Where was the world's first energy transmission garden, 'Babuji Vanam', inaugurated?",
+    "question_ta": "உலகின் முதல் ஆற்றல் பரிமாற்ற பூங்காவான 'பாபுஜி வனம்' எங்கு திறந்து வைக்கப்பட்டது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pune",
+        "text_ta": "புனே"
+      },
+      {
+        "key": "B",
+        "text_en": "Kanha Shanti Vanam",
+        "text_ta": "கன்ஹா சாந்தி வனம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Mysore",
+        "text_ta": "மைசூர்"
+      },
+      {
+        "key": "D",
+        "text_en": "Indore",
+        "text_ta": "இந்தூர்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "It was inaugurated at Kanha Shanti Vanam near Hyderabad.",
+    "explanation_ta": "இது ஹைதராபாத் அருகே உள்ள கன்ஹா சாந்தி வனத்தில் திறந்து வைக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Botswana is a pioneer in eliminating mother-to-child HIV transmission. Reason (R): The country achieved gold tier status for this public health milestone.",
+    "question_ta": "கூற்று (A): தாய்வழி எச்ஐவி பரவலை ஒழிப்பதில் போட்ஸ்வானா முன்னோடியாக உள்ளது. காரணம் (R): இந்த பொது சுகாதார மைல்கல்லுக்காக அந்நாடு தங்க நிலை அந்தஸ்தை அடைந்துள்ளது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, (R) என்பது (A)-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி, ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு, ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Botswana is recognized for reaching the gold tier, confirming its pioneering role.",
+    "explanation_ta": "போட்ஸ்வானா தங்க நிலை அந்தஸ்தை எட்டியதற்காக அங்கீகரிக்கப்பட்டுள்ளது, இது அதன் முன்னோடிப் பாத்திரத்தை உறுதிப்படுத்துகிறது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Assertion (A): Agnikul Cosmos developed an electric motor-driven semi-cryogenic rocket engine. Reason (R): This technology increases the weight of the engine significantly, making it less efficient.",
+    "question_ta": "கூற்று (A): அக்னிகுல் காஸ்மோஸ் மின்சார மோட்டார் மூலம் இயங்கும் செமி-கிரையோஜெனிக் ராக்கெட் என்ஜினை உருவாக்கியது. காரணம் (R): இந்த தொழில்நுட்பம் என்ஜினின் எடையை கணிசமாக அதிகரித்து, அதன் செயல்திறனைக் குறைக்கிறது.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, (R) என்பது (A)-வின் சரியான விளக்கம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "text_ta": "கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் (R) என்பது (A)-வின் சரியான விளக்கமல்ல"
+      },
+      {
+        "key": "C",
+        "text_en": "(A) is true but (R) is false",
+        "text_ta": "(A) சரி, ஆனால் (R) தவறு"
+      },
+      {
+        "key": "D",
+        "text_en": "(A) is false but (R) is true",
+        "text_ta": "(A) தவறு, ஆனால் (R) சரி"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Agnikul successfully tested the engine, but it is meant to improve efficiency, not decrease it.",
+    "explanation_ta": "அக்னிகுல் வெற்றிகரமாக என்ஜினை சோதித்தது, ஆனால் இது செயல்திறனை அதிகரிக்கவே நோக்கமாகக் கொண்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the horse power of the new electric locomotive recently flagged off in Gujarat?",
+    "question_ta": "குஜராத்தில் சமீபத்தில் கொடியசைத்து தொடங்கி வைக்கப்பட்ட புதிய மின்சார இரயில் இன்ஜினின் குதிரைத்திறன் (HP) எவ்வளவு?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "6000 HP",
+        "text_ta": "6000 HP"
+      },
+      {
+        "key": "B",
+        "text_en": "7500 HP",
+        "text_ta": "7500 HP"
+      },
+      {
+        "key": "C",
+        "text_en": "9000 HP",
+        "text_ta": "9000 HP"
+      },
+      {
+        "key": "D",
+        "text_en": "10000 HP",
+        "text_ta": "10000 HP"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The electric locomotive is of 9000 HP.",
+    "explanation_ta": "இந்த மின்சார இரயில் இன்ஜின் 9000 குதிரைத்திறன் கொண்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which of the following is true about the 2025 World Para Athletics Championship mascot?",
+    "question_ta": "2025 உலக பாரா தடகள சாம்பியன்ஷிப் போட்டியின் சின்னம் குறித்து பின்வருவனவற்றில் எது உண்மை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It was launched in Chennai.",
+        "text_ta": "இது சென்னையில் தொடங்கப்பட்டது."
+      },
+      {
+        "key": "B",
+        "text_en": "The name of the mascot is Viraj.",
+        "text_ta": "சின்னத்தின் பெயர் விராஜ்."
+      },
+      {
+        "key": "C",
+        "text_en": "The championship was held in 2026.",
+        "text_ta": "இந்த சாம்பியன்ஷிப் போட்டி 2026-ல் நடைபெற்றது."
+      },
+      {
+        "key": "D",
+        "text_en": "It represents ocean life.",
+        "text_ta": "இது கடல் வாழ் உயிரினத்தை பிரதிபலிக்கிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The mascot name is Viraj and the event took place in New Delhi in 2025.",
+    "explanation_ta": "சின்னத்தின் பெயர் விராஜ் மற்றும் நிகழ்ச்சி 2025-ல் புது தில்லியில் நடைபெற்றது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which ministry, alongside MWCD, launched the NAVYA scheme?",
+    "question_ta": "MWCD அமைச்சகத்துடன் இணைந்து எந்த அமைச்சகம் NAVYA திட்டத்தைத் தொடங்கியது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ministry of Science and Technology",
+        "text_ta": "அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சகம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Ministry of Skill Development and Entrepreneurship",
+        "text_ta": "திறன் மேம்பாடு மற்றும் தொழில்முனைவோர் அமைச்சகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Ministry of Education",
+        "text_ta": "கல்வி அமைச்சகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Ministry of Rural Development",
+        "text_ta": "ஊரக வளர்ச்சி அமைச்சகம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The NAVYA scheme was launched by MWCD and the Ministry of Skill Development and Entrepreneurship (MSDE).",
+    "explanation_ta": "NAVYA திட்டம் MWCD மற்றும் திறன் மேம்பாடு மற்றும் தொழில்முனைவோர் அமைச்சகத்தால் (MSDE) தொடங்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which state's CM launched the 'Alaigal' project for fisherwomen?",
+    "question_ta": "மீனவப் பெண்களுக்காக 'அலைகள்' திட்டத்தைத் தொடங்கி வைத்த முதலமைச்சர் எந்த மாநிலத்தைச் சேர்ந்தவர்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kerala",
+        "text_ta": "கேரளா"
+      },
+      {
+        "key": "B",
+        "text_en": "Tamil Nadu",
+        "text_ta": "தமிழ்நாடு"
+      },
+      {
+        "key": "C",
+        "text_en": "Andhra Pradesh",
+        "text_ta": "ஆந்திரப் பிரதேசம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Odisha",
+        "text_ta": "ஒடிசா"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Chief Minister of Tamil Nadu launched the 'Alaigal' project with an outlay of Rs. 25 crores.",
+    "explanation_ta": "தமிழ்நாடு முதலமைச்சர் ரூ.25 கோடி ஒதுக்கீட்டில் மீனவப் பெண்களுக்காக 'அலைகள்' திட்டத்தைத் தொடங்கினார்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Consider the following regarding the Carbon Capture and Utilisation (CCU) testbeds: 1. They are designed for the cement sector. 2. There are five such testbeds launched. Which is/are correct?",
+    "question_ta": "கார்பன் பிடிப்பு மற்றும் பயன்பாடு (CCU) சோதனைத் தளங்கள் குறித்து பின்வருவனவற்றைக் கருத்தில் கொள்க: 1. அவை சிமெண்ட் துறைக்காக வடிவமைக்கப்பட்டுள்ளன. 2. இத்தகைய ஐந்து சோதனைத் தளங்கள் அறிமுகப்படுத்தப்பட்டுள்ளன. எது சரி?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 ஆகிய இரண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 அல்லது 2 எதுவுமில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "DST launched five CCU testbeds for the cement sector.",
+    "explanation_ta": "DST சிமெண்ட் துறைக்காக ஐந்து CCU சோதனைத் தளங்களை அறிமுகப்படுத்தியது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of the MWCD ministry related to the NAVYA scheme?",
+    "question_ta": "NAVYA திட்டத்துடன் தொடர்புடைய MWCD அமைச்சகத்தின் விரிவாக்கம் என்ன?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ministry of Women and Child Development",
+        "text_ta": "மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம்"
+      },
+      {
+        "key": "B",
+        "text_en": "Ministry of Welfare and Community Development",
+        "text_ta": "நலவாழ்வு மற்றும் சமூக மேம்பாட்டு அமைச்சகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "Ministry of Water and Climate Department",
+        "text_ta": "நீர் மற்றும் காலநிலைத் துறை அமைச்சகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "Ministry of Work and Career Development",
+        "text_ta": "வேலை மற்றும் தொழில் மேம்பாட்டு அமைச்சகம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "MWCD stands for Ministry of Women and Child Development.",
+    "explanation_ta": "MWCD என்பது மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகத்தைக் குறிக்கும்.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Which of the following is true about 'Kruti' AI?",
+    "question_ta": "'க்ருதி' ஏஐ குறித்து பின்வருவனவற்றில் எது உண்மை?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is the world's first agentic AI.",
+        "text_ta": "இது உலகின் முதல் ஏஜென்டிக் ஏஐ."
+      },
+      {
+        "key": "B",
+        "text_en": "It was launched by Ola Krutrim.",
+        "text_ta": "இது ஓலா க்ருத்ரிமால் அறிமுகப்படுத்தப்பட்டது."
+      },
+      {
+        "key": "C",
+        "text_en": "It focuses on physical hardware production.",
+        "text_ta": "இது இயற்பியல் வன்பொருள் உற்பத்தியில் கவனம் செலுத்துகிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "It was launched in 2024.",
+        "text_ta": "இது 2024-ல் அறிமுகப்படுத்தப்பட்டது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Kruti is India's first agentic AI, launched by Ola Krutrim.",
+    "explanation_ta": "க்ருதி என்பது இந்தியாவின் முதல் ஏஜென்டிக் ஏஐ ஆகும், இது ஓலா க்ருத்ரிமால் அறிமுகப்படுத்தப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Current Affairs : June 2026",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Hard",
+    "question_en": "Consider the following statements regarding the 9000 HP locomotive: 1. It was flagged off in Dahod, Gujarat. 2. It is an electric locomotive. Which of the above is true?",
+    "question_ta": "9000 குதிரைத்திறன் கொண்ட இரயில் இன்ஜின் குறித்து பின்வரும் கூற்றுகளைக் கருத்தில் கொள்க: 1. இது குஜராத்தின் தாஹோதில் கொடியசைத்து தொடங்கி வைக்கப்பட்டது. 2. இது ஒரு மின்சார இரயில் இன்ஜின் ஆகும். இதில் எது சரியானது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 only",
+        "text_ta": "1 மட்டும்"
+      },
+      {
+        "key": "B",
+        "text_en": "2 only",
+        "text_ta": "2 மட்டும்"
+      },
+      {
+        "key": "C",
+        "text_en": "Both 1 and 2",
+        "text_ta": "1 மற்றும் 2 ஆகிய இரண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "Neither 1 nor 2",
+        "text_ta": "1 அல்லது 2 எதுவுமில்லை"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "விடை தெரியவில்லை"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Both statements are correct; the 9000 HP electric locomotive was inaugurated in Dahod.",
+    "explanation_ta": "இரண்டு கூற்றுகளும் சரியானவை; 9000 குதிரைத்திறன் கொண்ட மின்சார இரயில் இன்ஜின் தாஹோதில் தொடங்கி வைக்கப்பட்டது.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Practice"
   }
 ]

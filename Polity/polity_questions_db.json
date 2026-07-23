@@ -33998,5 +33998,757 @@
     "explanation_ta": "NCDC என்பது நாடாளுமன்றச் சட்டத்தின் கீழ் நிறுவப்பட்ட ஒரு சட்டப்பூர்வ கழகமாகும் (1) மற்றும் இது ஒரு பொது நிதி நிறுவனமாக செயல்படுகிறது (3).",
     "type": "pyq",
     "group": "Other Exams"
+  },
+  {
+    "question_en": "Consider the following statements and identify the correct one: 1. The Soviet Constitution is the source for the ideals of social, economic, and political justice. 2. The Soviet Constitution is the source for Fundamental Duties. Which are correct?",
+    "question_ta": "பின்வரும் கூற்றுகளைக் கருத்தில் கொண்டு சரியானதைக் கண்டறியவும்: 1. சோவியத் அரசியலமைப்பு சமூக, பொருளாதார மற்றும் அரசியல் நீதிக்கான இலட்சியங்களின் ஆதாரமாகும். 2. சோவியத் அரசியலமைப்பு அடிப்படை கடமைகளின் ஆதாரமாகும். எவை சரியானவை?",
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "options_ta": [
+      "1 மட்டும்",
+      "2 மட்டும்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Both 1 and 2",
+    "answer_ta": "1 மற்றும் 2",
+    "explanation_en": "Both the concepts of justice (social, economic, political) in the Preamble and the Fundamental Duties were inspired by the former Soviet Union's Constitution.",
+    "explanation_ta": "முகவுரையில் உள்ள நீதியின் கருத்துக்கள் (சமூக, பொருளாதார, அரசியல்) மற்றும் அடிப்படை கடமைகள் ஆகிய இரண்டும் முன்னாள் சோவியத் யூனியனின் அரசியலமைப்பால் ஈர்க்கப்பட்டன.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "13. The Soviet Constitution is the source for Fundamental Duties and the ideals of social, economic, and political justice."
+  },
+  {
+    "question_en": "What does Article 79 of the Indian Constitution define?",
+    "question_ta": "இந்திய அரசியலமைப்பின் சரத்து 79 எதனை வரையறுக்கிறது?",
+    "options_en": [
+      "Supreme Court",
+      "Parliament",
+      "State Legislature",
+      "President's powers"
+    ],
+    "options_ta": [
+      "உச்ச நீதிமன்றம்",
+      "நாடாளுமன்றம்",
+      "மாநில சட்டமன்றம்",
+      "குடியரசுத் தலைவரின் அதிகாரங்கள்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "நாடாளுமன்றம்",
+    "explanation_en": "Article 79 defines the Indian Parliament as consisting of the President, the Council of States (Rajya Sabha), and the House of the People (Lok Sabha).",
+    "explanation_ta": "சரத்து 79 இந்திய நாடாளுமன்றமானது குடியரசுத் தலைவர், மாநிலங்களவை (ராஜ்யசபா) மற்றும் மக்களவை (லோக்சபா) ஆகியவற்றை உள்ளடக்கியது என்று வரையறுக்கிறது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "11. Article 79 of the Indian Constitution defines the Parliament as consisting of the President, Council of States, and House of the People."
+  },
+  {
+    "question_en": "Match the following historical events related to the Constituent Assembly: A) First meeting - 1) 24th Jan 1950, B) Partition re-assembly - 2) 9th Dec 1946, C) Final meeting - 3) 14th Aug 1947",
+    "question_ta": "அரசியலமைப்பு நிர்ணய சபை தொடர்பான வரலாற்று நிகழ்வுகளைப் பொருத்துக: A) முதல் கூட்டம் - 1) 24 ஜன 1950, B) பிரிவினைக்கு பின் மறுக்கூடல் - 2) 9 டிச 1946, C) இறுதி கூட்டம் - 3) 14 ஆகஸ்ட் 1947",
+    "options_en": [
+      "A-2, B-3, C-1",
+      "A-1, B-2, C-3",
+      "A-3, B-1, C-2",
+      "A-2, B-1, C-3"
+    ],
+    "options_ta": [
+      "A-2, B-3, C-1",
+      "A-1, B-2, C-3",
+      "A-3, B-1, C-2",
+      "A-2, B-1, C-3"
+    ],
+    "answer_en": "A-2, B-3, C-1",
+    "answer_ta": "A-2, B-3, C-1",
+    "explanation_en": "The first meeting was on 9th December 1946, the re-assembly after partition was on 14th August 1947, and the final meeting was on 24th January 1950.",
+    "explanation_ta": "முதல் கூட்டம் 9 டிசம்பர் 1946-லும், பிரிவினைக்குப் பின் மறுக்கூடல் 14 ஆகஸ்ட் 1947-லும், மற்றும் இறுதி கூட்டம் 24 ஜனவரி 1950-லும் நடைபெற்றது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "1. The first meeting of the Constituent Assembly took place on 9th December 1946. 2. The Constituent Assembly re-assembled after the partition of Pakistan on 14th August 1947. 4. The final meeting of the Constituent Assembly was held on 24th January 1950."
+  },
+  {
+    "question_en": "Evaluate the statements: 1. Tamil Nadu has 45 reserved constituencies for legislative elections. 2. Article 333 allows the Governor to nominate one member if the Anglo-Indian community is under-represented. Are they correct?",
+    "question_ta": "கூற்றுகளை மதிப்பீடு செய்க: 1. தமிழ்நாடு சட்டமன்றத் தேர்தல்களுக்கு 45 தனித்தொகுதிகள் உள்ளன. 2. சரத்து 333, ஆங்கிலோ-இந்திய சமூகத்திற்குப் போதுமான பிரதிநிதித்துவம் இல்லை எனில் ஒரு உறுப்பினரை நியமிக்க ஆளுநருக்கு அதிகாரம் அளிக்கிறது. இவை சரியானவையா?",
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "options_ta": [
+      "1 மட்டும்",
+      "2 மட்டும்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Both 1 and 2",
+    "answer_ta": "1 மற்றும் 2",
+    "explanation_en": "Both statements are correct; there are 45 reserved constituencies in Tamil Nadu, and Article 333 provides for the nomination of an Anglo-Indian representative.",
+    "explanation_ta": "கூற்றுகள் இரண்டும் சரியானவை; தமிழ்நாட்டில் 45 தனித்தொகுதிகள் உள்ளன, மேலும் சரத்து 333 ஆங்கிலோ-இந்தியப் பிரதிநிதியை நியமிக்க வகை செய்கிறது.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "17. The Tamil Nadu Legislative Assembly has 234 elected members from 189 General and 45 Reserved Constituencies. 19. Article 333 of the Constitution of India empowers the Governor to nominate one member from the Anglo-Indian community."
+  },
+  {
+    "question_en": "Consider the following statements regarding the Citizenship Act: 1. It was enacted in 1955. 2. The Citizenship (Amendment) Bill was introduced in Lok Sabha on 27th February 2015. Which are correct?",
+    "question_ta": "குடியுரிமைச் சட்டம் குறித்த பின்வரும் கூற்றுகளைக் கவனியுங்கள்: 1. இது 1955-ல் இயற்றப்பட்டது. 2. குடியுரிமை (திருத்த) மசோதா 27 பிப்ரவரி 2015 அன்று மக்களவையில் அறிமுகப்படுத்தப்பட்டது. எவை சரியானவை?",
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "options_ta": [
+      "1 மட்டும்",
+      "2 மட்டும்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Both 1 and 2",
+    "answer_ta": "1 மற்றும் 2",
+    "explanation_en": "The original Citizenship Act was passed in 1955, and a specific Amendment Bill was introduced on 27th February 2015 in the Lok Sabha.",
+    "explanation_ta": "அசல் குடியுரிமைச் சட்டம் 1955-ல் இயற்றப்பட்டது, மேலும் ஒரு குறிப்பிட்ட திருத்த மசோதா 27 பிப்ரவரி 2015 அன்று மக்களவையில் அறிமுகப்படுத்தப்பட்டது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "7. The Citizenship Act was enacted in 1955. 14. The Citizenship (Amendment) Bill was introduced in Lok Sabha on 27th February 2015."
+  },
+  {
+    "question_en": "Which part of the Indian Constitution contains the Directive Principles of State Policy?",
+    "question_ta": "இந்திய அரசியலமைப்பின் எந்தப் பகுதியில் அரசு கொள்கை வழிகாட்டும் நெறிமுறைகள் இடம் பெற்றுள்ளன?",
+    "options_en": [
+      "Part III",
+      "Part IV",
+      "Part V",
+      "Part VI"
+    ],
+    "options_ta": [
+      "பகுதி III",
+      "பகுதி IV",
+      "பகுதி V",
+      "பகுதி VI"
+    ],
+    "answer_en": "Part IV",
+    "answer_ta": "பகுதி IV",
+    "explanation_en": "Directive Principles of State Policy (DPSP) are enumerated in Part IV of the Indian Constitution, acting as guidelines for the state to frame laws and policies.",
+    "explanation_ta": "அரசு கொள்கை வழிகாட்டும் நெறிமுறைகள் (DPSP) இந்திய அரசியலமைப்பின் பகுதி IV-ல் பட்டியலிடப்பட்டுள்ளன, இவை சட்டங்கள் மற்றும் கொள்கைகளை உருவாக்க அரசுக்கு வழிகாட்டியாகச் செயல்படுகின்றன.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "6. Part IV of the Indian Constitution contains the Directive Principles of State Policy."
+  },
+  {
+    "question_en": "How many members signed the Indian Constitution on 26th November 1949?",
+    "question_ta": "26 நவம்பர் 1949 அன்று எத்தனை உறுப்பினர்கள் இந்திய அரசியலமைப்பில் கையெழுத்திட்டனர்?",
+    "options_en": [
+      "284",
+      "299",
+      "308",
+      "389"
+    ],
+    "options_ta": [
+      "284",
+      "299",
+      "308",
+      "389"
+    ],
+    "answer_en": "284",
+    "answer_ta": "284",
+    "explanation_en": "The Constituent Assembly concluded its work on 26th November 1949, where 284 members were present to sign the document, finalizing the adoption of the Constitution.",
+    "explanation_ta": "அரசியலமைப்பு நிர்ணய சபை தனது பணியை 26 நவம்பர் 1949 அன்று முடித்தது, அந்த நாளில் 284 உறுப்பினர்கள் ஆவணத்தில் கையெழுத்திட்டனர், இது அரசியலமைப்பின் ஏற்பை உறுதி செய்தது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "3. 284 members signed the Constitution on 26th November 1949."
+  },
+  {
+    "question_en": "Examine the following regarding the Constituent Assembly: 1. Final meeting date: 24 Jan 1950. 2. First meeting date: 9 Dec 1946. 3. Members signed on: 26 Nov 1949. Are these dates accurate?",
+    "question_ta": "அரசியலமைப்பு நிர்ணய சபை தொடர்பாக பின்வருவனவற்றை ஆய்வு செய்க: 1. இறுதி கூட்டத் தேதி: 24 ஜன 1950. 2. முதல் கூட்டத் தேதி: 9 டிச 1946. 3. உறுப்பினர்கள் கையெழுத்திட்டது: 26 நவ 1949. இந்தத் தேதிகள் சரியானவையா?",
+    "options_en": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All are accurate"
+    ],
+    "options_ta": [
+      "1 மற்றும் 2 மட்டும்",
+      "2 மற்றும் 3 மட்டும்",
+      "1 மற்றும் 3 மட்டும்",
+      "அனைத்தும் சரியானவை"
+    ],
+    "answer_en": "All are accurate",
+    "answer_ta": "அனைத்தும் சரியானவை",
+    "explanation_en": "These milestones (First meeting, signing, and final meeting) are historically confirmed events in the formation of the Indian Constitution.",
+    "explanation_ta": "இந்த மைல்கற்கள் (முதல் கூட்டம், கையெழுத்திடுதல் மற்றும் இறுதி கூட்டம்) இந்திய அரசியலமைப்பை உருவாக்குவதில் வரலாற்று ரீதியாக உறுதிப்படுத்தப்பட்ட நிகழ்வுகளாகும்.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "1. The first meeting of the Constituent Assembly took place on 9th December 1946. 3. 284 members signed the Constitution on 26th November 1949. 4. The final meeting of the Constituent Assembly was held on 24th January 1950."
+  },
+  {
+    "question_en": "What event occurred in November 1992 concerning the Supreme Court of India?",
+    "question_ta": "இந்திய உச்ச நீதிமன்றம் தொடர்பாக 1992 நவம்பரில் நடந்த நிகழ்வு என்ன?",
+    "options_en": [
+      "Basic Structure judgment",
+      "Mandal Commission judgment",
+      "First amendment judgment",
+      "Citizenship act ruling"
+    ],
+    "options_ta": [
+      "அடிப்படை கட்டமைப்பு தீர்ப்பு",
+      "மண்டல் கமிஷன் தீர்ப்பு",
+      "முதல் சட்டத் திருத்த தீர்ப்பு",
+      "குடியுரிமைச் சட்டத் தீர்ப்பு"
+    ],
+    "answer_en": "Mandal Commission judgment",
+    "answer_ta": "மண்டல் கமிஷன் தீர்ப்பு",
+    "explanation_en": "In November 1992, the Supreme Court of India delivered its landmark judgment in the Mandal Commission case regarding the reservation for Other Backward Classes (OBCs).",
+    "explanation_ta": "1992 நவம்பரில், பிற்படுத்தப்பட்ட வகுப்பினருக்கான (OBCs) இடஒதுக்கீடு குறித்த மண்டல் கமிஷன் வழக்கில் இந்திய உச்ச நீதிமன்றம் தனது வரலாற்றுச் சிறப்புமிக்க தீர்ப்பை வழங்கியது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "21. The Supreme Court delivered the Mandal Commission judgment in November 1992."
+  },
+  {
+    "question_en": "When was the First Madras Legislative Assembly session held?",
+    "question_ta": "முதல் சென்னை சட்டமன்றக் கூட்டத்தொடர் எப்போது நடைபெற்றது?",
+    "options_en": [
+      "15th August 1947",
+      "26th January 1950",
+      "3rd May 1952",
+      "21st May 2016"
+    ],
+    "options_ta": [
+      "15 ஆகஸ்ட் 1947",
+      "26 ஜனவரி 1950",
+      "3 மே 1952",
+      "21 மே 2016"
+    ],
+    "answer_en": "3rd May 1952",
+    "answer_ta": "3 மே 1952",
+    "explanation_en": "The inaugural session of the First Madras Legislative Assembly took place on 3rd May 1952, marking the beginning of the legislative process in the post-independence state.",
+    "explanation_ta": "முதல் சென்னை சட்டமன்றத்தின் தொடக்கக் கூட்டத்தொடர் 3 மே 1952 அன்று நடைபெற்றது, இது சுதந்திரத்திற்குப் பிந்தைய மாநிலத்தில் சட்டமன்ற செயல்முறையின் தொடக்கத்தைக் குறிக்கிறது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "18. The First Madras Legislative Assembly session was held on 3rd May 1952."
+  },
+  {
+    "question_en": "When was the Right to Property removed as a Fundamental Right?",
+    "question_ta": "சொத்துரிமை எப்போது அடிப்படை உரிமையிலிருந்து நீக்கப்பட்டது?",
+    "options_en": [
+      "42nd Amendment, 1976",
+      "44th Amendment, 1978",
+      "24th Amendment, 1971",
+      "38th Amendment, 1975"
+    ],
+    "options_ta": [
+      "42-வது திருத்தம், 1976",
+      "44-வது திருத்தம், 1978",
+      "24-வது திருத்தம், 1971",
+      "38-வது திருத்தம், 1975"
+    ],
+    "answer_en": "44th Amendment, 1978",
+    "answer_ta": "44-வது திருத்தம், 1978",
+    "explanation_en": "The 44th Constitutional Amendment Act, passed in 1978, reclassified the Right to Property from a Fundamental Right to a legal right under Article 300A.",
+    "explanation_ta": "1978-ல் இயற்றப்பட்ட 44-வது அரசியலமைப்பு திருத்தச் சட்டம், சொத்துரிமையை அடிப்படை உரிமையிலிருந்து சட்ட உரிமையாக (சரத்து 300A-ன் கீழ்) மாற்றியது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "8. The Right to Property was removed as a Fundamental Right by the 44th Amendment Act of 1978."
+  },
+  {
+    "question_en": "Match the following historical amendments and acts: A) 42nd Amendment - 1) 1978, B) 44th Amendment - 2) 1955, C) Citizenship Act - 3) 1976, D) RTE Act - 4) 2009",
+    "question_ta": "பின்வரும் வரலாற்றுத் திருத்தங்கள் மற்றும் சட்டங்களைப் பொருத்துக: A) 42-வது திருத்தம் - 1) 1978, B) 44-வது திருத்தம் - 2) 1955, C) குடியுரிமைச் சட்டம் - 3) 1976, D) RTE சட்டம் - 4) 2009",
+    "options_en": [
+      "A-3, B-1, C-2, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "options_ta": [
+      "A-3, B-1, C-2, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer_en": "A-3, B-1, C-2, D-4",
+    "answer_ta": "A-3, B-1, C-2, D-4",
+    "explanation_en": "42nd Amendment (1976), 44th Amendment (1978), Citizenship Act (1955), and RTE Act (2009) are correctly ordered.",
+    "explanation_ta": "42-வது திருத்தம் (1976), 44-வது திருத்தம் (1978), குடியுரிமைச் சட்டம் (1955) மற்றும் RTE சட்டம் (2009) சரியாக வரிசைப்படுத்தப்பட்டுள்ளன.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "5. The 42nd Amendment of the Indian Constitution was enacted in 1976. 7. The Citizenship Act was enacted in 1955. 8. The Right to Property was removed as a Fundamental Right by the 44th Amendment Act of 1978. 10. The Right of Children to Free and Compulsory Education (RTE) Act was passed in 2009."
+  },
+  {
+    "question_en": "Which article empowers the Governor to nominate one member from the Anglo-Indian community?",
+    "question_ta": "ஆங்கிலோ-இந்திய சமூகத்திலிருந்து ஒரு உறுப்பினரை நியமிக்க ஆளுநருக்கு அதிகாரமளிக்கும் சரத்து எது?",
+    "options_en": [
+      "Article 331",
+      "Article 333",
+      "Article 335",
+      "Article 337"
+    ],
+    "options_ta": [
+      "சரத்து 331",
+      "சரத்து 333",
+      "சரத்து 335",
+      "சரத்து 337"
+    ],
+    "answer_en": "Article 333",
+    "answer_ta": "சரத்து 333",
+    "explanation_en": "Article 333 of the Indian Constitution empowers the Governor of a state to nominate one member from the Anglo-Indian community to the State Legislative Assembly if they are not adequately represented.",
+    "explanation_ta": "இந்திய அரசியலமைப்பின் சரத்து 333, ஒரு மாநில ஆளுநர் ஆங்கிலோ-இந்திய சமூகத்திற்குப் போதுமான பிரதிநிதித்துவம் இல்லை எனில், ஒரு உறுப்பினரை மாநில சட்டமன்றத்திற்கு நியமிக்க அதிகாரமளிக்கிறது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "19. Article 333 of the Constitution of India empowers the Governor to nominate one member from the Anglo-Indian community."
+  },
+  {
+    "question_en": "Which of these are correct? 1. Article 21-A is related to compulsory education. 2. RTE Act was passed in 2009. 3. Article 333 involves Anglo-Indian nomination. 4. Mandal judgment was in 1992.",
+    "question_ta": "பின்வருவனவற்றில் எவை சரியானவை? 1. சரத்து 21-A கட்டாயக் கல்வியுடன் தொடர்புடையது. 2. RTE சட்டம் 2009-ல் நிறைவேற்றப்பட்டது. 3. சரத்து 333 ஆங்கிலோ-இந்திய நியமனத்தை உள்ளடக்கியது. 4. மண்டல் தீர்ப்பு 1992-ல் வழங்கப்பட்டது.",
+    "options_en": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "All 1, 2, 3 and 4"
+    ],
+    "options_ta": [
+      "1, 2 மற்றும் 3",
+      "2, 3 மற்றும் 4",
+      "1, 3 மற்றும் 4",
+      "அனைத்து 1, 2, 3 மற்றும் 4"
+    ],
+    "answer_en": "All 1, 2, 3 and 4",
+    "answer_ta": "அனைத்து 1, 2, 3 மற்றும் 4",
+    "explanation_en": "All four statements are accurate representations of Indian Constitutional provisions and historical judicial facts.",
+    "explanation_ta": "நான்கு கூற்றுகளும் இந்திய அரசியலமைப்பு விதிகளின் மற்றும் வரலாற்று நீதித்துறை உண்மைகளின் துல்லியமான பிரதிபலிப்புகளாகும்.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "9. Article 21-A provides for free and compulsory education for children in the age group of six to fourteen. 10. The Right of Children to Free and Compulsory Education (RTE) Act was passed in 2009. 19. Article 333 of the Constitution of India empowers the Governor to nominate one member from the Anglo-Indian community. 21. The Supreme Court delivered the Mandal Commission judgment in November 1992."
+  },
+  {
+    "question_en": "Analyze the following: 1. The Citizenship Act was 1955. 2. The Citizenship (Amendment) Bill was introduced in 2015. 3. The 42nd Amendment was 1976. 4. The 44th Amendment was 1978. Are they correct?",
+    "question_ta": "பின்வருவனவற்றை ஆய்வு செய்க: 1. குடியுரிமைச் சட்டம் 1955-ல் இயற்றப்பட்டது. 2. குடியுரிமை (திருத்த) மசோதா 2015-ல் அறிமுகப்படுத்தப்பட்டது. 3. 42-வது திருத்தம் 1976-ல் நடந்தது. 4. 44-வது திருத்தம் 1978-ல் நடந்தது. இவை சரியானவையா?",
+    "options_en": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "All are correct",
+      "None are correct"
+    ],
+    "options_ta": [
+      "1 மற்றும் 2 மட்டும்",
+      "3 மற்றும் 4 மட்டும்",
+      "அனைத்தும் சரியானவை",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "All are correct",
+    "answer_ta": "அனைத்தும் சரியானவை",
+    "explanation_en": "These points summarize key legislative milestones within the Indian constitutional and legal framework.",
+    "explanation_ta": "இந்த புள்ளிகள் இந்திய அரசியலமைப்பு மற்றும் சட்ட கட்டமைப்பிற்குள் உள்ள முக்கிய சட்ட மைல்கற்களைச் சுருக்கமாகக் கூறுகின்றன.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "5. The 42nd Amendment of the Indian Constitution was enacted in 1976. 7. The Citizenship Act was enacted in 1955. 8. The Right to Property was removed as a Fundamental Right by the 44th Amendment Act of 1978. 14. The Citizenship (Amendment) Bill was introduced in Lok Sabha on 27th February 2015."
+  },
+  {
+    "question_en": "Which of these statements accurately defines the scope of Article 79 and Article 333?",
+    "question_ta": "சரத்து 79 மற்றும் சரத்து 333-ன் வரம்பை பின்வரும் கூற்றுகளில் எது துல்லியமாக வரையறுக்கிறது?",
+    "options_en": [
+      "Article 79 covers Parliament composition; Article 333 covers Anglo-Indian nomination",
+      "Article 79 covers Anglo-Indian nomination; Article 333 covers Parliament",
+      "Both deal with the President's veto powers",
+      "Both deal with Supreme Court structure"
+    ],
+    "options_ta": [
+      "சரத்து 79 நாடாளுமன்ற அமைப்பை உள்ளடக்கியது; சரத்து 333 ஆங்கிலோ-இந்திய நியமனத்தை உள்ளடக்கியது",
+      "சரத்து 79 ஆங்கிலோ-இந்திய நியமனத்தை உள்ளடக்கியது; சரத்து 333 நாடாளுமன்றத்தை உள்ளடக்கியது",
+      "இரண்டும் குடியரசுத் தலைவரின் வீட்டோ அதிகாரங்களைக் கையாள்கின்றன",
+      "இரண்டும் உச்ச நீதிமன்ற அமைப்பைக் கையாள்கின்றன"
+    ],
+    "answer_en": "Article 79 covers Parliament composition; Article 333 covers Anglo-Indian nomination",
+    "answer_ta": "சரத்து 79 நாடாளுமன்ற அமைப்பை உள்ளடக்கியது; சரத்து 333 ஆங்கிலோ-இந்திய நியமனத்தை உள்ளடக்கியது",
+    "explanation_en": "Article 79 pertains to the Parliament's structure (President, Houses), and Article 333 grants the Governor power to nominate Anglo-Indian members.",
+    "explanation_ta": "சரத்து 79 நாடாளுமன்ற அமைப்போடு (குடியரசுத் தலைவர், அவைகள்) தொடர்புடையது, மற்றும் சரத்து 333 ஆங்கிலோ-இந்திய உறுப்பினர்களை நியமிக்க ஆளுநருக்கு அதிகாரமளிக்கிறது.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "11. Article 79 of the Indian Constitution defines the Parliament as consisting of the President, Council of States, and House of the People. 19. Article 333 of the Constitution of India empowers the Governor to nominate one member from the Anglo-Indian community."
+  },
+  {
+    "question_en": "Regarding the Speaker of the House and the Parliamentary Committee, which of the following is correct?",
+    "question_ta": "மக்களவை சபாநாயகர் மற்றும் நாடாளுமன்றக் குழு குறித்து பின்வருவனவற்றில் எது சரியானது?",
+    "options_en": [
+      "Speaker appointed opposition member as chair in 1967-68",
+      "Speaker has controlled 1596 reports until 2018",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "options_ta": [
+      "சபாநாயகர் 1967-68-ல் எதிர்க்கட்சி உறுப்பினரை தலைவராக நியமித்தார்",
+      "சபாநாயகர் 2018 வரை 1596 அறிக்கைகளைக் கட்டுப்படுத்தினார்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Both 1 and 2",
+    "answer_ta": "1 மற்றும் 2",
+    "explanation_en": "In 1967-68, the Speaker appointed a Member of the Opposition as the Chairperson of the Committee, and the committee has presented 1596 reports from 1950 till April 2018.",
+    "explanation_ta": "1967-68-ல், சபாநாயகர் எதிர்க்கட்சி உறுப்பினரை குழுவின் தலைவராக நியமித்தார், மேலும் அந்தக் குழு 1950 முதல் ஏப்ரல் 2018 வரை 1596 அறிக்கைகளைச் சமர்ப்பித்துள்ளது.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "15. The Speaker of the House first appointed a Member of the Opposition as the Chairperson of the Committee for 1967-68. 16. The Parliamentary Committee under the Speaker's control has presented 1596 reports from January 1950 till April 2018."
+  },
+  {
+    "question_en": "Which article of the Indian Constitution provides for free and compulsory education for children aged six to fourteen?",
+    "question_ta": "ஆறு முதல் பதினான்கு வயது வரையிலான குழந்தைகளுக்கு இலவச மற்றும் கட்டாயக் கல்வியை வழங்கும் இந்திய அரசியலமைப்பின் சரத்து எது?",
+    "options_en": [
+      "Article 21",
+      "Article 21-A",
+      "Article 45",
+      "Article 51-A"
+    ],
+    "options_ta": [
+      "சரத்து 21",
+      "சரத்து 21-A",
+      "சரத்து 45",
+      "சரத்து 51-A"
+    ],
+    "answer_en": "Article 21-A",
+    "answer_ta": "சரத்து 21-A",
+    "explanation_en": "Article 21-A was inserted into the Constitution to make education a fundamental right for children between the ages of 6 and 14 years.",
+    "explanation_ta": "6 முதல் 14 வயதுக்குட்பட்ட குழந்தைகளுக்கு கல்வியை அடிப்படை உரிமையாக மாற்ற 21-A சரத்து அரசியலமைப்பில் சேர்க்கப்பட்டது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "9. Article 21-A provides for free and compulsory education for children in the age group of six to fourteen."
+  },
+  {
+    "question_en": "Which country's constitution is the source for the provision of suspension of Fundamental Rights during an Emergency?",
+    "question_ta": "அவசரகாலத்தின் போது அடிப்படை உரிமைகளை நிறுத்தி வைப்பதற்கான விதிமுறை எந்த நாட்டு அரசியலமைப்பிலிருந்து பெறப்பட்டது?",
+    "options_en": [
+      "Soviet Union",
+      "Germany (Weimar)",
+      "United States",
+      "Ireland"
+    ],
+    "options_ta": [
+      "சோவியத் யூனியன்",
+      "ஜெர்மனி (வைமர்)",
+      "அமெரிக்கா",
+      "அயர்லாந்து"
+    ],
+    "answer_en": "Germany (Weimar)",
+    "answer_ta": "ஜெர்மனி (வைமர்)",
+    "explanation_en": "The Weimar Constitution of Germany served as the model for incorporating provisions related to the suspension of fundamental rights during a national emergency.",
+    "explanation_ta": "தேசிய அவசரகாலத்தின் போது அடிப்படை உரிமைகளை நிறுத்தி வைப்பது தொடர்பான விதிகளைச் சேர்ப்பதற்கான மாதிரியாக ஜெர்மனியின் வைமர் அரசியலமைப்பு செயல்பட்டது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "12. The Weimar Constitution (Germany) is the source for the provision of suspension of Fundamental Rights during Emergency."
+  },
+  {
+    "question_en": "Choose the correctly matched sets for the Constituent Assembly history:",
+    "question_ta": "அரசியலமைப்பு நிர்ணய சபை வரலாறு தொடர்பான சரியாகப் பொருத்தப்பட்ட தொகுப்புகளைத் தேர்வு செய்யவும்:",
+    "options_en": [
+      "First meeting: Dec 9, 1946; Final meeting: Jan 24, 1950",
+      "Partition re-assembly: Aug 14, 1947; Constitution signed: Nov 26, 1949",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "options_ta": [
+      "முதல் கூட்டம்: டிச 9, 1946; இறுதி கூட்டம்: ஜன 24, 1950",
+      "பிரிவினைக்கு பின் மறுக்கூடல்: ஆக 14, 1947; அரசியலமைப்பு கையெழுத்து: நவ 26, 1949",
+      "A மற்றும் B இரண்டும்",
+      "A மற்றும் B இரண்டுமில்லை"
+    ],
+    "answer_en": "Both A and B",
+    "answer_ta": "A மற்றும் B இரண்டும்",
+    "explanation_en": "All these dates are factually correct regarding the timeline of the Constituent Assembly's proceedings.",
+    "explanation_ta": "அரசியலமைப்பு நிர்ணய சபையின் நடவடிக்கைகள் குறித்த இந்தத் தேதிகள் அனைத்தும் உண்மையானவை.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "1. The first meeting of the Constituent Assembly took place on 9th December 1946. 2. The Constituent Assembly re-assembled after the partition of Pakistan on 14th August 1947. 3. 284 members signed the Constitution on 26th November 1949. 4. The final meeting of the Constituent Assembly was held on 24th January 1950."
+  },
+  {
+    "question_en": "The Right of Children to Free and Compulsory Education (RTE) Act was passed in which year?",
+    "question_ta": "குழந்தைகளுக்கான இலவச மற்றும் கட்டாயக் கல்வி உரிமைச் சட்டம் (RTE) எந்த ஆண்டில் நிறைவேற்றப்பட்டது?",
+    "options_en": [
+      "2002",
+      "2005",
+      "2009",
+      "2010"
+    ],
+    "options_ta": [
+      "2002",
+      "2005",
+      "2009",
+      "2010"
+    ],
+    "answer_en": "2009",
+    "answer_ta": "2009",
+    "explanation_en": "The Right of Children to Free and Compulsory Education Act, commonly known as the RTE Act, was passed by the Indian Parliament in 2009.",
+    "explanation_ta": "குழந்தைகளுக்கான இலவச மற்றும் கட்டாயக் கல்வி உரிமைச் சட்டம், பொதுவாக RTE சட்டம் என்று அழைக்கப்படுகிறது, இது இந்திய நாடாளுமன்றத்தால் 2009-ல் நிறைவேற்றப்பட்டது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "10. The Right of Children to Free and Compulsory Education (RTE) Act was passed in 2009."
+  },
+  {
+    "question_en": "Which of the following pairings regarding Sankaralinganar's timeline is correct?",
+    "question_ta": "சங்கரலிங்கனாரின் காலவரிசை தொடர்பான பின்வரும் பொருத்தங்களில் எது சரியானது?",
+    "options_en": [
+      "Born: 1895; Joined INC: 1917",
+      "Salt March Participation: 1930; Hunger Strike: 1956",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "options_ta": [
+      "பிறப்பு: 1895; INC-ல் சேர்ந்தது: 1917",
+      "உப்பு சத்தியாகிரகம்: 1930; உண்ணாவிரதம்: 1956",
+      "A மற்றும் B இரண்டும்",
+      "A மற்றும் B இரண்டுமில்லை"
+    ],
+    "answer_en": "Both A and B",
+    "answer_ta": "A மற்றும் B இரண்டும்",
+    "explanation_en": "All chronological data points for Sankaralinganar are historically accurate based on the provided facts.",
+    "explanation_ta": "சங்கரலிங்கனார் குறித்த அனைத்து காலவரிசைத் தரவுகளும் வழங்கப்பட்ட உண்மைகளின் அடிப்படையில் வரலாற்று ரீதியாகத் துல்லியமானவை.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "22. Sankaralinganar was born in Manmalai Medu, Virudhunagar District, in 1895. 23. Sankaralinganar joined the Indian National Congress in 1917. 24. Sankaralinganar participated in the Salt March in 1930. 25. Sankaralinganar started a hunger strike on 27th July 1956 for the renaming of Madras state to Tamil Nadu."
+  },
+  {
+    "question_en": "When did Sankaralinganar begin his hunger strike for the renaming of Madras state to Tamil Nadu?",
+    "question_ta": "சென்னை மாநிலத்தை தமிழ்நாடு என்று பெயர் மாற்றக் கோரி சங்கரலிங்கனார் எப்போது தனது உண்ணாவிரதத்தைத் தொடங்கினார்?",
+    "options_en": [
+      "27th July 1956",
+      "21st May 2016",
+      "3rd May 1952",
+      "26th November 1949"
+    ],
+    "options_ta": [
+      "27 ஜூலை 1956",
+      "21 மே 2016",
+      "3 மே 1952",
+      "26 நவம்பர் 1949"
+    ],
+    "answer_en": "27th July 1956",
+    "answer_ta": "27 ஜூலை 1956",
+    "explanation_en": "Sankaralinganar started his hunger strike on 27th July 1956 specifically for the purpose of renaming the Madras State to Tamil Nadu.",
+    "explanation_ta": "சென்னை மாகாணத்திற்கு தமிழ்நாடு என்று பெயர் மாற்ற வேண்டும் என்ற கோரிக்கையை வலியுறுத்தி, சங்கரலிங்கனார் 27 ஜூலை 1956 அன்று உண்ணாவிரதத்தைத் தொடங்கினார்.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "25. Sankaralinganar started a hunger strike on 27th July 1956 for the renaming of Madras state to Tamil Nadu."
+  },
+  {
+    "question_en": "Assess the statements about the Constitution of India: 1. Article 21-A makes education a fundamental right for ages 6-14. 2. The RTE Act 2009 was enacted to implement this. Are these statements correct?",
+    "question_ta": "இந்திய அரசியலமைப்பு குறித்த கூற்றுகளை மதிப்பிடவும்: 1. சரத்து 21-A, 6-14 வயதுடைய குழந்தைகளுக்குக் கல்வியை அடிப்படை உரிமையாக்குகிறது. 2. இதை நடைமுறைப்படுத்த RTE சட்டம் 2009 இயற்றப்பட்டது. இவை சரியானவையா?",
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "options_ta": [
+      "1 மட்டும்",
+      "2 மட்டும்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Both 1 and 2",
+    "answer_ta": "1 மற்றும் 2",
+    "explanation_en": "Article 21-A mandates free and compulsory education, and the RTE Act of 2009 is the enabling legislation for this constitutional provision.",
+    "explanation_ta": "சரத்து 21-A இலவச மற்றும் கட்டாயக் கல்வியை கட்டாயமாக்குகிறது, மேலும் 2009-ன் RTE சட்டம் இந்த அரசியலமைப்பு விதியைச் செயல்படுத்துவதற்கான சட்டமாகும்.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "9. Article 21-A provides for free and compulsory education for children in the age group of six to fourteen. 10. The Right of Children to Free and Compulsory Education (RTE) Act was passed in 2009."
+  },
+  {
+    "question_en": "Which of the following accurately describes the structure of the Parliament as defined by Article 79?",
+    "question_ta": "சரத்து 79-ஆல் வரையறுக்கப்பட்டுள்ள நாடாளுமன்றத்தின் அமைப்பை பின்வருவனவற்றில் எது துல்லியமாக விவரிக்கிறது?",
+    "options_en": [
+      "President, Rajya Sabha, Lok Sabha",
+      "President, Prime Minister, Speaker",
+      "Lok Sabha, Rajya Sabha, Supreme Court",
+      "President, Council of Ministers, Rajya Sabha"
+    ],
+    "options_ta": [
+      "குடியரசுத் தலைவர், ராஜ்யசபா, லோக்சபா",
+      "குடியரசுத் தலைவர், பிரதமர், சபாநாயகர்",
+      "லோக்சபா, ராஜ்யசபா, உச்ச நீதிமன்றம்",
+      "குடியரசுத் தலைவர், அமைச்சரவை, ராஜ்யசபா"
+    ],
+    "answer_en": "President, Rajya Sabha, Lok Sabha",
+    "answer_ta": "குடியரசுத் தலைவர், ராஜ்யசபா, லோக்சபா",
+    "explanation_en": "Article 79 explicitly states that the Parliament consists of the President, the Council of States (Rajya Sabha), and the House of the People (Lok Sabha).",
+    "explanation_ta": "சரத்து 79, நாடாளுமன்றமானது குடியரசுத் தலைவர், மாநிலங்களவை (ராஜ்யசபா) மற்றும் மக்களவை (லோக்சபா) ஆகியவற்றை உள்ளடக்கியது என்பதைத் தெளிவாகக் கூறுகிறது.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "11. Article 79 of the Indian Constitution defines the Parliament as consisting of the President, Council of States, and House of the People."
+  },
+  {
+    "question_en": "Select the correct statements: 1. The First Madras Legislative Assembly session was on May 3, 1952. 2. The 15th Tamil Nadu Assembly was constituted on May 21, 2016. 3. Sankaralinganar began his hunger strike on July 27, 1956.",
+    "question_ta": "சரியான கூற்றுகளைத் தேர்ந்தெடுக்கவும்: 1. முதல் சென்னை சட்டமன்றக் கூட்டத்தொடர் மே 3, 1952-ல் நடைபெற்றது. 2. 15-வது தமிழ்நாடு சட்டமன்றம் மே 21, 2016-ல் உருவாக்கப்பட்டது. 3. சங்கரலிங்கனார் தனது உண்ணாவிரதத்தை ஜூலை 27, 1956-ல் தொடங்கினார்.",
+    "options_en": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3 are correct"
+    ],
+    "options_ta": [
+      "1 மற்றும் 2 மட்டும்",
+      "2 மற்றும் 3 மட்டும்",
+      "1 மற்றும் 3 மட்டும்",
+      "1, 2, மற்றும் 3 சரி"
+    ],
+    "answer_en": "1, 2, and 3 are correct",
+    "answer_ta": "1, 2, மற்றும் 3 சரி",
+    "explanation_en": "All three facts accurately align with the historical records of the Tamil Nadu legislature and Sankaralinganar's life.",
+    "explanation_ta": "மூன்று உண்மைகளும் தமிழ்நாடு சட்டமன்றம் மற்றும் சங்கரலிங்கனாரின் வாழ்க்கையின் வரலாற்றுப் பதிவுகளுடன் துல்லியமாக ஒத்துப்போகின்றன.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "18. The First Madras Legislative Assembly session was held on 3rd May 1952. 20. The Fifteenth Tamil Nadu Legislative Assembly was constituted on 21st May 2016. 25. Sankaralinganar started a hunger strike on 27th July 1956 for the renaming of Madras state to Tamil Nadu."
+  },
+  {
+    "question_en": "How many elected members are in the Tamil Nadu Legislative Assembly?",
+    "question_ta": "தமிழ்நாடு சட்டமன்றத்தில் எத்தனை தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்கள் உள்ளனர்?",
+    "options_en": [
+      "234",
+      "235",
+      "230",
+      "240"
+    ],
+    "options_ta": [
+      "234",
+      "235",
+      "230",
+      "240"
+    ],
+    "answer_en": "234",
+    "answer_ta": "234",
+    "explanation_en": "The Tamil Nadu Legislative Assembly consists of 234 elected members, divided into 189 General constituencies and 45 Reserved constituencies.",
+    "explanation_ta": "தமிழ்நாடு சட்டமன்றம் 234 தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்களைக் கொண்டது, இது 189 பொதுத் தொகுதிகள் மற்றும் 45 தனித்தொகுதிகளாகப் பிரிக்கப்பட்டுள்ளது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "17. The Tamil Nadu Legislative Assembly has 234 elected members from 189 General and 45 Reserved Constituencies."
+  },
+  {
+    "question_en": "Analyze the features of the Indian Constitution: 1. Fundamental Rights suspension is derived from the Weimar Constitution. 2. The ideal of justice (social, economic, political) is derived from the Soviet Constitution. Are these true?",
+    "question_ta": "இந்திய அரசியலமைப்பின் அம்சங்களை பகுப்பாய்வு செய்க: 1. அடிப்படை உரிமைகள் நிறுத்தி வைப்பது வைமர் அரசியலமைப்பிலிருந்து பெறப்பட்டது. 2. நீதியின் இலட்சியம் (சமூக, பொருளாதார, அரசியல்) சோவியத் அரசியலமைப்பிலிருந்து பெறப்பட்டது. இவை உண்மையா?",
+    "options_en": [
+      "1 is true, 2 is false",
+      "1 is false, 2 is true",
+      "Both 1 and 2 are true",
+      "Both 1 and 2 are false"
+    ],
+    "options_ta": [
+      "1 சரி, 2 தவறு",
+      "1 தவறு, 2 சரி",
+      "1 மற்றும் 2 சரி",
+      "1 மற்றும் 2 தவறு"
+    ],
+    "answer_en": "Both 1 and 2 are true",
+    "answer_ta": "1 மற்றும் 2 சரி",
+    "explanation_en": "Germany (Weimar) provided the emergency suspension clause, and the Soviet Union provided the ideals of justice and fundamental duties.",
+    "explanation_ta": "ஜெர்மனி (வைமர்) அவசரகால நிறுத்தி வைப்பு விதிமுறையையும், சோவியத் யூனியன் நீதிக்கான இலட்சியங்கள் மற்றும் அடிப்படை கடமைகளையும் வழங்கின.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "12. The Weimar Constitution (Germany) is the source for the provision of suspension of Fundamental Rights during Emergency. 13. The Soviet Constitution is the source for Fundamental Duties and the ideals of social, economic, and political justice."
+  },
+  {
+    "question_en": "Consider the facts: 1. Part IV covers DPSP. 2. Right to Property was removed in 1978. 3. Citizenship Act was in 1955. Which statements are correct?",
+    "question_ta": "உண்மைகளைக் கருத்தில் கொள்க: 1. பகுதி IV DPSP-ஐ உள்ளடக்கியது. 2. சொத்துரிமை 1978-ல் நீக்கப்பட்டது. 3. குடியுரிமைச் சட்டம் 1955-ல் இயற்றப்பட்டது. எந்தக் கூற்றுகள் சரியானவை?",
+    "options_en": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All are correct"
+    ],
+    "options_ta": [
+      "1 மற்றும் 2 மட்டும்",
+      "2 மற்றும் 3 மட்டும்",
+      "1 மற்றும் 3 மட்டும்",
+      "அனைத்தும் சரியானவை"
+    ],
+    "answer_en": "All are correct",
+    "answer_ta": "அனைத்தும் சரியானவை",
+    "explanation_en": "All provided facts accurately reflect the provisions and amendments of the Indian Constitution.",
+    "explanation_ta": "வழங்கப்பட்ட அனைத்து உண்மைகளும் இந்திய அரசியலமைப்பின் விதிகள் மற்றும் திருத்தங்களை துல்லியமாகப் பிரதிபலிக்கின்றன.",
+    "difficulty": "hard",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "6. Part IV of the Indian Constitution contains the Directive Principles of State Policy. 7. The Citizenship Act was enacted in 1955. 8. The Right to Property was removed as a Fundamental Right by the 44th Amendment Act of 1978."
+  },
+  {
+    "question_en": "What is the historical significance of the 42nd Amendment in the context of the Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பின் சூழலில் 42-வது திருத்தத்தின் வரலாற்று முக்கியத்துவம் என்ன?",
+    "options_en": [
+      "Enacted in 1976",
+      "Removed Right to Property",
+      "Introduced RTE",
+      "Established Supreme Court",
+      "None of these"
+    ],
+    "options_ta": [
+      "1976-ல் இயற்றப்பட்டது",
+      "சொத்துரிமையை நீக்கியது",
+      "RTE-ஐ அறிமுகப்படுத்தியது",
+      "உச்ச நீதிமன்றத்தை நிறுவியது",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Enacted in 1976",
+    "answer_ta": "1976-ல் இயற்றப்பட்டது",
+    "explanation_en": "The 42nd Amendment of the Indian Constitution is significant because it was enacted in 1976 during a period of extensive constitutional changes.",
+    "explanation_ta": "இந்திய அரசியலமைப்பின் 42-வது திருத்தம் குறிப்பிடத்தக்கது, ஏனெனில் இது 1976-ல் விரிவான அரசியலமைப்பு மாற்றங்கள் நிகழ்ந்த காலத்தில் இயற்றப்பட்டது.",
+    "difficulty": "medium",
+    "topic": "Constitution of India",
+    "type": "practice",
+    "batch": "Practice Batch 1",
+    "source_fact": "5. The 42nd Amendment of the Indian Constitution was enacted in 1976."
   }
 ]

@@ -173,6 +173,23 @@ def main():
             print(f"  Discarding question due to mismatched option/answer: {ans_en}")
             continue
 
+        # Strict Match-the-following 4x4 layout validation
+        is_match = False
+        if "match" in q["question_en"].lower() or "பொருத்து" in q["question_ta"].lower():
+            is_match = True
+            
+        if is_match:
+            q_text_lower = q["question_en"].lower()
+            has_abcd = (all(p in q_text_lower for p in ["a)", "b)", "c)", "d)"]) or 
+                       all(p in q_text_lower for p in ["a.", "b.", "c.", "d."]) or
+                       all(p in q_text_lower for p in ["a -", "b -", "c -", "d -"]))
+            has_1234 = (all(p in q_text_lower for p in ["1.", "2.", "3.", "4."]) or 
+                       all(p in q_text_lower for p in ["1)", "2)", "3)", "4)"]) or
+                       all(p in q_text_lower for p in ["1 -", "2 -", "3 -", "4 -"]))
+            if not (has_abcd and has_1234):
+                print(f"  Discarding match question due to sub-standard match layout (not 4x4): {q['question_en'][:100]}...")
+                continue
+
         # Length validation: combined length of question + explanation
         combined_len = len(q["question_en"]) + len(q["question_ta"]) + len(q["explanation_en"]) + len(q["explanation_ta"])
         if combined_len < 180:

@@ -49,9 +49,11 @@ Every 30-question practice batch must contain:
 1. **Paragraph-Based Inference Questions (Min 5)**: 2–3 sentence data-rich premise. Options test logical deduction rather than rote memory (utilizing qualifiers like *only*, *more than*, *less than*).
 2. **Contextual Connect Questions (Min 4)**: Core historical constitutional concepts hooked to modern contexts (recent Supreme Court judgments, recent amendments, or central/state executive orders).
 
-### Rule 6: Formatting & Shuffling
-* Match-the-following questions must use the two-column HTML layout:
-  `Match the following:<br><div class='match-container'><div class='match-col-left'>a) A<br>b) B</div><div class='match-col-right'>1. X<br>2. Y</div></div>`
+### Rule 6: Formatting & Shuffling (Strict 4x4 Match Requirement)
+* Match-the-following questions must always be a **strict 4x4 matching layout** (exactly 4 items in Column A and exactly 4 items in Column B). Layouts with 2x2 or 3x3 items are strictly prohibited.
+* Use the two-column HTML layout:
+  `Match the following:<br><div class='match-container'><div class='match-col-left'>a) Item A<br>b) Item B<br>c) Item C<br>d) Item D</div><div class='match-col-right'>1. Match 1<br>2. Match 2<br>3. Match 3<br>4. Match 4</div></div>`
+* Option choices must be formatted as combinations, e.g., `a-2, b-1, c-4, d-3` or `A-2, B-1, C-4, D-3`.
 * Shuffled once before saving.
 
 ### Rule 7: 4-Round Text-Segment Partitioning Fact Extraction

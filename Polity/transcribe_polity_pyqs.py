@@ -175,3 +175,6 @@ def main():
         
     print(f"\nSUCCESS: Added {added_count} unique questions to {db_path}!")
     print(f"Total questions in Polity database: {len(existing_qs)}")
+
+if __name__ == "__main__":
+    main()

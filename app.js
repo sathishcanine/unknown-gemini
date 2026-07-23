@@ -268,6 +268,214 @@ const state = {
       pages: "Class 12 Pages 68-100 / Gurunath Pages 68-105",
       focus: "Focus on Part III (Articles 12-35) of the Constitution, source (USA Bill of Rights), Magna Carta of India, six Fundamental Rights: Right to Equality (Arts 14-18), Right to Freedom (Arts 19-22), Right against Exploitation (Arts 23-24), Right to Freedom of Religion (Arts 25-28), Cultural & Educational Rights (Arts 29-30), Right to Constitutional Remedies (Art 32 - 'Heart and Soul' of the Constitution), Writs (Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto), and suspension of rights during emergency (Article 19 auto-suspends, Articles 20 and 21 CANNOT be suspended)."
     },
+    "DPSP": {
+      title: "DPSP",
+      titleTa: "அரசு நெறிமுறையுறுத்தும் கோட்பாடுகள் (DPSP)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 7",
+      pages: "Class 12 Pages 101-110 / Gurunath Pages 106-129",
+      focus: "Focus on Part IV (Articles 36-51) of the Constitution, source (Ireland / Spanish Constitution), Instrument of Instructions (GoI Act 1935), classification of principles (Socialistic, Gandhian, Liberal-Intellectual), key articles (Art 39A free legal aid, Art 40 Village Panchayats, Art 44 Uniform Civil Code, Art 45 Early childhood care, Art 50 Separation of judiciary from executive), and differences between FRs and DPSPs."
+    },
+    "Fundamental Duties": {
+      title: "Fundamental Duties",
+      titleTa: "அடிப்படை கடமைகள் (Fundamental Duties)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 8",
+      pages: "Class 12 Pages 111-115 / Gurunath Pages 130-143",
+      focus: "Focus on Part IV-A (Article 51A) of the Constitution, source (USSR Constitution), Swaran Singh Committee recommendations (1976), 42nd Constitutional Amendment Act 1976 (added 10 duties), 86th Constitutional Amendment Act 2002 (added 11th duty - education for child ages 6-14), and non-justiciable nature of duties."
+    },
+    "Union Executive": {
+      title: "Union Executive",
+      titleTa: "மத்திய நிர்வாகம் (Union Executive)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Suresh Polity",
+      chapter: "Class 12 Chapter 3: Executive & Gurunath Chapter 9",
+      pages: "Class 12 Pages 116-140 / Gurunath Pages 144-172",
+      focus: "Focus on President (qualification, election via Electoral College, powers, impeachment under Article 61), Vice-President (ex-officio chairman of Rajya Sabha, election), Prime Minister and Council of Ministers (Article 74, Article 75, collective responsibility), and coalition governments."
+    },
+    "Union Parliament": {
+      title: "Union Parliament",
+      titleTa: "நாடாளுமன்றம் (Union Parliament)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 2: Legislature & Gurunath Chapter 10",
+      pages: "Class 12 Pages 141-170 / Gurunath Pages 173-199",
+      focus: "Focus on composition of Lok Sabha (max 550) and Rajya Sabha (max 250), Speaker of Lok Sabha, legislative procedures (ordinary bills, money bills under Article 110, joint sitting under Article 108), parliamentary committees (Public Accounts, Estimates, Public Undertakings), and parliamentary privileges (Article 105)."
+    },
+    "Attorney General of India": {
+      title: "Attorney General of India",
+      titleTa: "இந்திய தலைமை வழக்கறிஞர் (Attorney General)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 3 & Gurunath Chapter 11",
+      pages: "Class 12 Pages 138-139 / Gurunath Pages 200-201",
+      focus: "Focus on Article 76 (appointment by President, qualifications equivalent to SC judge, term during pleasure of President), right of audience in all courts of India, right to speak and take part in parliamentary proceedings without right to vote (Article 88)."
+    },
+    "CAG of India": {
+      title: "CAG of India",
+      titleTa: "தலைமை தணிக்கையாளர் (CAG of India)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Suresh Polity",
+      chapter: "Class 12 Chapter 3 & Gurunath Chapter 12",
+      pages: "Class 12 Page 140 / Gurunath Page 202",
+      focus: "Focus on Articles 148-151 of the Constitution, appointment by President, tenure (6 years or 65 years of age), duties and powers (auditing accounts of Union, States, and UTs), reports submitted to President/Governors, and Guardian of the Public Purse."
+    },
+    "State Executive": {
+      title: "State Executive",
+      titleTa: "மாநில நிர்வாகம் (State Executive)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 3 & Gurunath Chapter 13",
+      pages: "Class 12 Pages 125-135 / Gurunath Pages 203-214",
+      focus: "Focus on Governor (Articles 153-162, appointment by President, executive/legislative/judicial/discretionary powers, ordinance power under Article 213), Chief Minister and Council of Ministers (Articles 163-164, appointment, relationship with Governor)."
+    },
+    "State Legislature": {
+      title: "State Legislature",
+      titleTa: "மாநில சட்டமன்றம் (State Legislature)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Suresh",
+      chapter: "Class 12 Chapter 2 & Gurunath Chapter 14",
+      pages: "Class 12 Pages 150-165 / Gurunath Pages 215-221",
+      focus: "Focus on unicameral vs bicameral legislatures, Legislative Assembly (Vidhan Sabha, composition, Speaker) and Legislative Council (Vidhan Parishad, Article 169 creation/abolition procedure, composition), and legislative process at state level."
+    },
+    "State Advocate General": {
+      title: "State Advocate General",
+      titleTa: "மாநில தலைமை வழக்கறிஞர் (Advocate General)",
+      book: "Class 12 Political Science & Gurunath Polity",
+      chapter: "Class 12 Chapter 3 & Gurunath Chapter 15",
+      pages: "Class 12 Page 135 / Gurunath Page 222",
+      focus: "Focus on Article 165 (appointment by Governor, qualifications equivalent to HC judge, term during pleasure of Governor), duties (advising state government on legal matters), and right to speak/take part in state legislative proceedings."
+    },
+    "Local Self Government": {
+      title: "Local Self Government",
+      titleTa: "உள்ளாட்சி அமைப்புகள் (Local Self Government)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy",
+      chapter: "Class 12 Chapter 6: Local Governments & Gurunath Chapter 16",
+      pages: "Class 12 Pages 200-225 / Gurunath Pages 223-245",
+      focus: "Focus on historical development (Community Development Programme 1952, Balwant Rai Mehta 1957 - 3 tier, Ashok Mehta 1977 - 2 tier, L.M. Singhvi 1986), 73rd Constitutional Amendment Act 1992 (Part IX, Articles 243-243O, 11th Schedule - 29 matters, Gram Sabha), and 74th Amendment Act 1992 (Part IX-A, Articles 243P-243ZG, 12th Schedule - 18 matters)."
+    },
+    "Centre & State Spirit of Federalism": {
+      title: "Centre & State Spirit of Federalism",
+      titleTa: "மத்திய மாநில உறவுகள் (Spirit of Federalism)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Suresh",
+      chapter: "Class 12 Chapter 5: Federalism in India & Gurunath Chapter 17",
+      pages: "Class 12 Pages 175-199 / Gurunath Pages 246-266",
+      focus: "Focus on Legislative relations (Articles 245-255, Union List, State List, Concurrent List), Administrative relations (Articles 256-263, Article 262 Inter-State Water Disputes, Article 263 Inter-State Council), Financial relations, and center-state commissions (Sarkaria Commission 1983, Punchhi Commission 2007, Rajamannar Committee 1969 TN Gov)."
+    },
+    "Election": {
+      title: "Election",
+      titleTa: "தேர்தல்கள் (Election)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy",
+      chapter: "Class 12 Chapter 7 & Gurunath Chapter 18",
+      pages: "Class 12 Pages 226-240 / Gurunath Pages 267-278",
+      focus: "Focus on Part XV (Articles 324-329) of the Constitution, Election Commission of India (composition, appointment of CEC/ECs), state election commissions, electoral reforms (Tarunde, Goswami, Indrajit Gupta committees), EVMs, VVPAT, NOTA, and Model Code of Conduct."
+    },
+    "Judiciary": {
+      title: "Judiciary",
+      titleTa: "நீதித்துறை (Judiciary)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 4: Indian Judiciary & Gurunath Chapter 19",
+      pages: "Class 12 Pages 171-195 / Gurunath Pages 279-302",
+      focus: "Focus on Supreme Court of India (Articles 124-147, appointment of judges, Collegium system, original/appellate/advisory jurisdiction under Article 143), High Courts (Articles 214-231, writ power under Article 226), Subordinate Courts, Judicial Review, Judicial Activism, and Public Interest Litigation (PIL)."
+    },
+    "Rule of Law": {
+      title: "Rule of Law",
+      titleTa: "சட்டத்தின் ஆட்சி (Rule of Law)",
+      book: "Class 12 Political Science & Gurunath Polity",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 20",
+      pages: "Class 12 Page 18 / Gurunath Pages 303-304",
+      focus: "Focus on concept origin (A.V. Dicey), the three principles (supremacy of law, equality before law, predominance of legal spirit), Article 14 constitutional backing, and exceptions to Rule of Law in India (President/Governor immunity under Article 361)."
+    },
+    "Official Languages": {
+      title: "Official Languages",
+      titleTa: "அலுவல் மொழிகள் (Official Languages)",
+      book: "Class 12 Political Science & Gurunath Polity & Suresh",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 21",
+      pages: "Class 12 Page 22 / Gurunath Pages 305-306",
+      focus: "Focus on Part XVII (Articles 343-351) of the Constitution, Eighth Schedule languages (originally 14, now 22), language amendments (21st, 71st, 96th), Official Languages Act 1963, and Classical Languages criteria and list (Tamil declared first in 2004)."
+    },
+    "Emergency Provisions": {
+      title: "Emergency Provisions",
+      titleTa: "நெருக்கடி நிலை பிரகடனம் (Emergency Provisions)",
+      book: "Class 12 Political Science & Gurunath Polity",
+      chapter: "Class 12 Chapter 3 & Gurunath Chapter 22",
+      pages: "Class 12 Page 124 / Gurunath Pages 307-310",
+      focus: "Focus on Part XVIII of the Constitution: National Emergency (Article 352, grounds, approval, duration), State Emergency/President's Rule (Article 356 & Article 365, grounds, Bommai case guidelines), Financial Emergency (Article 360 - never declared in India), and effect on Fundamental Rights (Article 358 and Article 359)."
+    },
+    "Anticorruption Measures": {
+      title: "Anticorruption Measures",
+      titleTa: "ஊழல் தடுப்பு நடவடிக்கைகள் (Anticorruption)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy & Suresh",
+      chapter: "Class 12 Chapter 8 & Gurunath Chapter 23",
+      pages: "Class 12 Pages 241-255 / Gurunath Pages 311-325",
+      focus: "Focus on Santhanam Committee recommendations (1962), Central Vigilance Commission (CVC 1964/2003 statutory), CBI history, Lokpal and Lokayuktas Act 2013 (composition, jurisdiction, first Lokpal Pinaki Chandra Ghose), and Prevention of Corruption Act 1988."
+    },
+    "Right to Information (RTI)": {
+      title: "Right to Information (RTI)",
+      titleTa: "தகவல் அறியும் உரிமை (RTI)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy",
+      chapter: "Class 12 Chapter 8 & Gurunath Chapter 24",
+      pages: "Class 12 Pages 250-252 / Gurunath Pages 326-336",
+      focus: "Focus on Right to Information Act 2005 (enacted Oct 12, 2005), Central Information Commission (CIC) and State Information Commissions (SIC) composition, terms, appeal procedure, timelines (30 days standard, 48 hours for life/liberty), and exemptions under Section 8."
+    },
+    "Human Rights Charter": {
+      title: "Human Rights Charter",
+      titleTa: "மனித உரிமைகள் சாசனம் (Human Rights Charter)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy",
+      chapter: "Class 12 Chapter 8 & Gurunath Chapter 25",
+      pages: "Class 12 Pages 245-248 / Gurunath Pages 337-346",
+      focus: "Focus on Universal Declaration of Human Rights (UDHR Dec 10, 1948), Protection of Human Rights Act 1993, National Human Rights Commission (NHRC) and State Human Rights Commissions (SHRC) composition, appointments committee, and powers."
+    },
+    "Pressure Groups": {
+      title: "Pressure Groups",
+      titleTa: "அழுத்தக் குழுக்கள் (Pressure Groups)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 8 & Gurunath Chapter 26",
+      pages: "Class 12 Page 253 / Gurunath Page 347",
+      focus: "Focus on definition and origin (USA), differences between political parties and pressure groups, classification in India (Business groups, Trade unions, Agrarian groups, Student organizations, Caste/Religious groups), and techniques used (lobbying, publicity, litigation)."
+    },
+    "Consumer Protection Forum": {
+      title: "Consumer Protection Forum",
+      titleTa: "நுகர்வோர் பாதுகாப்பு மன்றம் (Consumer Protection)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy",
+      chapter: "Class 12 Chapter 8 & Gurunath Chapter 27",
+      pages: "Class 12 Page 254 / Gurunath Pages 348-350",
+      focus: "Focus on Consumer Protection Act 1986 (COPRA - Magna Carta of Consumers) vs Consumer Protection Act 2019, three-tier consumer disputes redressal machinery: District Commission (up to 1 crore), State Commission (1 crore to 10 crore), and National Commission (above 10 crore)."
+    },
+    "Women Empowerment": {
+      title: "Women Empowerment",
+      titleTa: "பெண் மேம்பாடு (Women Empowerment)",
+      book: "Class 12 Political Science & Gurunath & Iyachamy & Suresh",
+      chapter: "Class 12 Chapter 8 & Gurunath Chapter 28",
+      pages: "Class 12 Pages 248-250 / Gurunath Pages 351-356",
+      focus: "Focus on Constitutional safeguards for women (Article 15(3) special provisions, Article 39(a) livelihood, Article 39(d) equal pay, Article 42 maternity relief), National Commission for Women (NCW 1992), local body reservations (33% under 73rd/74th amendments), and key welfare legislations (Dowry Prohibition 1961, PNDT 1994, Domestic Violence 2005, POSH 2013)."
+    },
+    "Political Parties": {
+      title: "Political Parties",
+      titleTa: "அரசியல் கட்சிகள் (Political Parties)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Iyachamy",
+      chapter: "Class 12 Chapter 8: Challenges of Nation Building & Gurunath Chapter 29",
+      pages: "Class 12 Pages 238-245 / Gurunath Pages 357-371",
+      focus: "Focus on party system classification (one-party, two-party, multi-party), recognition criteria for National Parties (6% votes in 4 states, 2% seats in Lok Sabha from 3 states, or recognized in 4 states) and State Parties, and coalition dynamics in Indian politics."
+    },
+    "Important Acts & Articles": {
+      title: "Important Acts & Articles",
+      titleTa: "முக்கிய சட்டங்கள் & விதிகள் (Important Acts & Articles)",
+      book: "Gurunath Polity & Suresh Polity & Class 12 Political Science",
+      chapter: "Gurunath Chapter 30",
+      pages: "Gurunath Pages 372-388",
+      focus: "Focus on major Central Acts (Representation of the People Act 1950/1951, Unlawful Activities Act, Armed Forces Special Powers Act, National Security Act, Environment Protection Act 1986), and critical constitutional Articles (Articles 1-51A, Article 311, Article 370 history)."
+    },
+    "Important SC Judgements": {
+      title: "Important SC Judgements",
+      titleTa: "முக்கிய தீர்ப்புகள் (Important SC Judgements)",
+      book: "Gurunath Polity & Suresh Polity & Class 12 Political Science",
+      chapter: "Gurunath Chapter 31",
+      pages: "Gurunath Pages 389-396",
+      focus: "Focus on landmark cases: AK Gopalan 1950, Shankari Prasad 1951, Golaknath 1967, Kesavananda Bharati 1973 (Basic Structure Doctrine), Indira Gandhi 1975, Minerva Mills 1980 (harmony between FRs and DPSPs), SR Bommai 1994 (Article 356 limits), Vishaka 1997, Puttaswamy 2017 (Right to Privacy under Article 21)."
+    },
+    "Committees & Commissions": {
+      title: "Committees & Commissions",
+      titleTa: "குழுக்கள் மற்றும் ஆணையங்கள் (Committees & Commissions)",
+      book: "Gurunath Polity & Suresh Polity & Class 12 Political Science",
+      chapter: "Gurunath Chapter 32",
+      pages: "Gurunath Pages 397-406",
+      focus: "Focus on first and second Administrative Reforms Commissions (ARC), Law Commissions of India chairs, police reforms commissions, backward classes commissions (Kaka Kalelkar 1953, Mandal Commission 1979), and National Commission to Review the Working of the Constitution (NCRWC 2000 - Venkatachaliah)."
+    },
     "Current Affairs : January 2026": {
       title: "Current Affairs : January 2026",
       titleTa: "நடப்பு நிகழ்வுகள் : ஜனவரி 2026",

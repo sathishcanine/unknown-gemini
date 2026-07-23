@@ -1,1 +1,404 @@
-{}
+{
+  "Constitution of India": [
+    {
+      "fact_en": "The first meeting of the Constituent Assembly took place on 9th December 1946.",
+      "fact_ta": "அரசியல் நிர்ணய சபையின் முதல் கூட்டம் 1946 டிசம்பர் 9 அன்று நடைபெற்றது.",
+      "source": "Class 12 Political Science Page 13"
+    },
+    {
+      "fact_en": "The Constituent Assembly re-assembled after the partition of Pakistan on 14th August 1947.",
+      "fact_ta": "பாகிஸ்தான் பிரிவினைக்குப் பிறகு 1947 ஆகஸ்ட் 14 அன்று அரசியல் நிர்ணய சபை மீண்டும் கூடியது.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "284 members signed the Constitution on 26th November 1949.",
+      "fact_ta": "1949 நவம்பர் 26 அன்று 284 உறுப்பினர்கள் அரசியலமைப்பில் கையெழுத்திட்டனர்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "The final meeting of the Constituent Assembly was held on 24th January 1950.",
+      "fact_ta": "அரசியல் நிர்ணய சபையின் இறுதி கூட்டம் 1950 ஜனவரி 24 அன்று நடைபெற்றது.",
+      "source": "Class 12 Political Science Page 13"
+    },
+    {
+      "fact_en": "The 42nd Amendment of the Indian Constitution was enacted in 1976.",
+      "fact_ta": "இந்திய அரசியலமைப்பின் 42-வது திருத்தம் 1976-இல் கொண்டுவரப்பட்டது.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "Part IV of the Indian Constitution contains the Directive Principles of State Policy.",
+      "fact_ta": "இந்திய அரசியலமைப்பின் பகுதி IV அரசு கொள்கையின் வழிகாட்டு நெறிமுறைகளைக் கொண்டுள்ளது.",
+      "source": "Class 12 Political Science Page 10"
+    },
+    {
+      "fact_en": "The Citizenship Act was enacted in 1955.",
+      "fact_ta": "குடியுரிமைச் சட்டம் 1955-இல் இயற்றப்பட்டது.",
+      "source": "Class 12 Political Science Page 15"
+    },
+    {
+      "fact_en": "The Right to Property was removed as a Fundamental Right by the 44th Amendment Act of 1978.",
+      "fact_ta": "1978-ஆம் ஆண்டின் 44-வது அரசியலமைப்புத் திருத்தச் சட்டத்தின் மூலம் சொத்துரிமை அடிப்படை உரிமையிலிருந்து நீக்கப்பட்டது.",
+      "source": "Class 12 Political Science Page 15"
+    },
+    {
+      "fact_en": "Article 21-A provides for free and compulsory education for children in the age group of six to fourteen.",
+      "fact_ta": "பிரிவு 21-ஏ, ஆறு முதல் பதினான்கு வயது வரை உள்ள குழந்தைகளுக்கு இலவச மற்றும் கட்டாயக் கல்வியை வழங்குகிறது.",
+      "source": "Class 12 Political Science Page 16"
+    },
+    {
+      "fact_en": "The Right of Children to Free and Compulsory Education (RTE) Act was passed in 2009.",
+      "fact_ta": "குழந்தைகளுக்கான இலவச மற்றும் கட்டாயக் கல்வி உரிமை (RTE) சட்டம் 2009-இல் நிறைவேற்றப்பட்டது.",
+      "source": "Class 12 Political Science Page 16"
+    },
+    {
+      "fact_en": "Article 79 of the Indian Constitution defines the Parliament as consisting of the President, Council of States, and House of the People.",
+      "fact_ta": "இந்திய அரசியலமைப்பின் பிரிவு 79, குடியரசுத் தலைவர், மாநிலங்களவை மற்றும் மக்களவை ஆகியவற்றைக் கொண்ட நாடாளுமன்றத்தை வரையறுக்கிறது.",
+      "source": "Class 12 Political Science Page 18"
+    },
+    {
+      "fact_en": "The Weimar Constitution (Germany) is the source for the provision of suspension of Fundamental Rights during Emergency.",
+      "fact_ta": "நெருக்கடி காலத்தின் போது அடிப்படை உரிமைகளை நிறுத்தி வைக்கும் அம்சம் வீமர் (ஜெர்மனி) அரசியலமைப்பிலிருந்து பெறப்பட்டது.",
+      "source": "Class 12 Political Science Page 14"
+    },
+    {
+      "fact_en": "The Soviet Constitution is the source for Fundamental Duties and the ideals of social, economic, and political justice.",
+      "fact_ta": "அடிப்படை கடமைகள் மற்றும் சமூக, பொருளாதார, அரசியல் நீதி ஆகிய இலட்சியங்கள் சோவியத் அரசியலமைப்பிலிருந்து பெறப்பட்டன.",
+      "source": "Class 12 Political Science Page 14"
+    },
+    {
+      "fact_en": "The Citizenship (Amendment) Bill was introduced in Lok Sabha on 27th February 2015.",
+      "fact_ta": "குடியுரிமை (திருத்த) மசோதா 2015 பிப்ரவரி 27 அன்று மக்களவையில் அறிமுகப்படுத்தப்பட்டது.",
+      "source": "Class 12 Political Science Page 15"
+    },
+    {
+      "fact_en": "The Speaker of the House first appointed a Member of the Opposition as the Chairperson of the Committee for 1967-68.",
+      "fact_ta": "1967-68-ஆம் ஆண்டிற்கான குழுவின் தலைவராக எதிர்க்கட்சி உறுப்பினர் ஒருவரை சபாநாயகர் முதன்முதலில் நியமித்தார்.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "The Parliamentary Committee under the Speaker's control has presented 1596 reports from January 1950 till April 2018.",
+      "fact_ta": "ஜனவரி 1950 முதல் ஏப்ரல் 2018 வரை சபாநாயகரின் கட்டுப்பாட்டில் உள்ள நாடாளுமன்றக் குழு 1596 அறிக்கைகளைச் சமர்ப்பித்துள்ளது.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "The Tamil Nadu Legislative Assembly has 234 elected members from 189 General and 45 Reserved Constituencies.",
+      "fact_ta": "தமிழ்நாடு சட்டமன்றம் 189 பொது மற்றும் 45 தனித் தொகுதிகளிலிருந்து தேர்ந்தெடுக்கப்பட்ட 234 உறுப்பினர்களைக் கொண்டது.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "The First Madras Legislative Assembly session was held on 3rd May 1952.",
+      "fact_ta": "முதல் மதராஸ் சட்டமன்றக் கூட்டம் மே 3, 1952 அன்று நடைபெற்றது.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "Article 333 of the Constitution of India empowers the Governor to nominate one member from the Anglo-Indian community.",
+      "fact_ta": "இந்திய அரசியலமைப்பின் 333-வது பிரிவின்படி, ஆங்கிலோ-இந்திய சமூகத்திலிருந்து ஒரு உறுப்பினரை ஆளுநர் நியமிக்கிறார்.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "The Fifteenth Tamil Nadu Legislative Assembly was constituted on 21st May 2016.",
+      "fact_ta": "பதினைந்தாவது தமிழ்நாடு சட்டமன்றம் மே 21, 2016 அன்று அமைக்கப்பட்டது.",
+      "source": "Class 12 Political Science Page 11"
+    },
+    {
+      "fact_en": "The Supreme Court delivered the Mandal Commission judgment in November 1992.",
+      "fact_ta": "மண்டல் கமிஷன் தீர்ப்பை உச்ச நீதிமன்றம் நவம்பர் 1992-ல் வழங்கியது.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "Sankaralinganar was born in Manmalai Medu, Virudhunagar District, in 1895.",
+      "fact_ta": "சங்கரலிங்கனார் 1895-ல் விருதுநகர் மாவட்டம் மன்மலை மேட்டில் பிறந்தார்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "Sankaralinganar joined the Indian National Congress in 1917.",
+      "fact_ta": "சங்கரலிங்கனார் 1917-ல் இந்திய தேசிய காங்கிரஸில் சேர்ந்தார்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "Sankaralinganar participated in the Salt March in 1930.",
+      "fact_ta": "சங்கரலிங்கனார் 1930-ல் உப்பு சத்தியாகிரகத்தில் பங்கேற்றார்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "Sankaralinganar started a hunger strike on 27th July 1956 for the renaming of Madras state to Tamil Nadu.",
+      "fact_ta": "மதராஸ் மாநிலத்தின் பெயரை தமிழ்நாடு என மாற்றக் கோரி சங்கரலிங்கனார் ஜூலை 27, 1956 அன்று உண்ணாவிரதத்தைத் தொடங்கினார்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "Sankaralinganar died on 13th October 1956, on the 76th day of his fast.",
+      "fact_ta": "சங்கரலிங்கனார் தனது 76-வது நாள் உண்ணாவிரதத்தின் போது அக்டோபர் 13, 1956 அன்று காலமானார்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "The State of Madras changed its name to the State of Tamil Nadu on 14th January 1969.",
+      "fact_ta": "மதராஸ் மாநிலம் ஜனவரி 14, 1969 அன்று தமிழ்நாடு எனப் பெயர் மாற்றம் செய்யப்பட்டது.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "Rule 125 of the Rajya Sabha Rules and Procedures pertains to the referral of a bill to a select committee.",
+      "fact_ta": "மாநிலங்களவை விதி 125 ஒரு மசோதாவைத் தேர்வு குழுவிற்கு அனுப்புவது தொடர்பானதாகும்.",
+      "source": "Class 12 Political Science Page 12"
+    },
+    {
+      "fact_en": "A joint sitting of both Houses of Parliament can be called if a bill is rejected or a disagreement exists for more than six months.",
+      "fact_ta": "ஒரு மசோதா நிராகரிக்கப்பட்டாலோ அல்லது ஆறு மாதங்களுக்கு மேல் கருத்து வேறுபாடு நீடித்தாலோ நாடாளுமன்ற இரு அவைகளின் கூட்டுக்கூட்டத்தை கூட்டலாம்.",
+      "source": "Class 12 Political Science Page 13"
+    },
+    {
+      "fact_en": "There is no provision for a joint sitting of both Houses on a money bill or a Constitution Amendment Bill.",
+      "fact_ta": "பண மசோதா அல்லது அரசியலமைப்பு திருத்த மசோதாவிற்கு நாடாளுமன்ற இரு அவைகளின் கூட்டுக்கூட்டத்திற்கு இடமில்லை.",
+      "source": "Class 12 Political Science Page 13"
+    },
+    {
+      "fact_en": "The East India Company arrived in India in 1600 as traders.",
+      "fact_ta": "கிழக்கிந்திய கம்பெனி 1600-ல் வணிகர்களாக இந்தியாவிற்கு வந்தனர்.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "In 1765, the East India Company obtained the diwani rights over Bengal, Bihar, and Orissa.",
+      "fact_ta": "1765-ல் கிழக்கிந்திய கம்பெனி வங்காளம், பீகார் மற்றும் ஒரிசாவிற்கான திவானி உரிமைகளைப் பெற்றது.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "The British Crown assumed direct responsibility for the governance of India in 1858.",
+      "fact_ta": "1858-ல் பிரிட்டிஷ் அரசு இந்திய நிர்வாகத்தின் நேரடிப் பொறுப்பை ஏற்றது.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "The Constituent Assembly was formed in 1946.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபை 1946-ல் உருவாக்கப்பட்டது.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "The Indian Constitution came into being on January 26, 1950.",
+      "fact_ta": "இந்திய அரசியலமைப்பு ஜனவரி 26, 1950 அன்று நடைமுறைக்கு வந்தது.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "Lord Warren Hastings was the first Governor-General of Bengal.",
+      "fact_ta": "வாரன் ஹேஸ்டிங்ஸ் பிரபு வங்காளத்தின் முதல் கவர்னர் ஜெனரல் ஆவார்.",
+      "source": "Gurunath Page 4"
+    },
+    {
+      "fact_en": "A Supreme Court was established at Calcutta in 1774.",
+      "fact_ta": "1774-ல் கல்கத்தாவில் உச்ச நீதிமன்றம் நிறுவப்பட்டது.",
+      "source": "Gurunath Page 4"
+    },
+    {
+      "fact_en": "Lord William Bentinck was the first Governor-General of India.",
+      "fact_ta": "வில்லியம் பெண்டிங் பிரபு இந்தியாவின் முதல் கவர்னர் ஜெனரல் ஆவார்.",
+      "source": "Gurunath Page 4"
+    },
+    {
+      "fact_en": "Lord Canning was the first Viceroy of India.",
+      "fact_ta": "கானிங் பிரபு இந்தியாவின் முதல் வைஸ்ராய் ஆவார்.",
+      "source": "Gurunath Page 5"
+    },
+    {
+      "fact_en": "The Government of India Act of 1919 is also known as Montagu-Chelmsford Reforms.",
+      "fact_ta": "1919-ஆம் ஆண்டின் இந்திய அரசுச் சட்டம் மாண்டேகு-செம்ஸ்போர்டு சீர்திருத்தங்கள் என்றும் அழைக்கப்படுகிறது.",
+      "source": "Gurunath Page 7"
+    },
+    {
+      "fact_en": "The Indian Independence Act of 1947 declared India an independent and sovereign state from August 15, 1947.",
+      "fact_ta": "1947-ஆம் ஆண்டின் இந்திய சுதந்திரச் சட்டம் ஆகஸ்ட் 15, 1947 முதல் இந்தியாவை சுதந்திரமான மற்றும் இறையாண்மை கொண்ட நாடாக அறிவித்தது.",
+      "source": "Gurunath Page 9"
+    },
+    {
+      "fact_en": "The Indian Independence Act of 1947 deprived the British Monarch of the right to veto bills.",
+      "fact_ta": "1947-ஆம் ஆண்டின் இந்திய சுதந்திரச் சட்டம், பிரிட்டிஷ் மன்னருக்கு மசோதாக்களை நிராகரிக்கும் உரிமையை பறித்தது.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "Lord Mountbatten became the first Governor-General of independent India.",
+      "fact_ta": "சுதந்திர இந்தியாவின் முதல் கவர்னர் ஜெனரலாக மவுண்ட்பேட்டன் பிரபு நியமிக்கப்பட்டார்.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "Jawaharlal Nehru was the first Prime Minister of independent India.",
+      "fact_ta": "சுதந்திர இந்தியாவின் முதல் பிரதமராக ஜவஹர்லால் நேரு பதவியேற்றார்.",
+      "source": "Gurunath Chapter 1"
+    },
+    {
+      "fact_en": "M.N. Roy first proposed the idea of a Constituent Assembly for India in 1934.",
+      "fact_ta": "இந்தியாவிற்கான அரசியலமைப்பு நிர்ணய சபை என்ற கருத்தை முதன்முதலில் 1934-இல் எம்.என். ராய் முன்வைத்தார்.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The Indian National Congress officially demanded a Constituent Assembly in 1935.",
+      "fact_ta": "இந்திய தேசிய காங்கிரஸ் 1935-ஆம் ஆண்டு முதன்முதலில் அரசியலமைப்பு நிர்ணய சபையை அதிகாரப்பூர்வமாக கோரியது.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The total strength of the Constituent Assembly was 389 members.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபையின் மொத்த உறுப்பினர்களின் எண்ணிக்கை 389 ஆகும்.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The Constituent Assembly held its first meeting on December 9, 1946.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபையின் முதல் கூட்டம் டிசம்பர் 9, 1946 அன்று நடைபெற்றது.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "Dr. Sachchidananda Sinha was the temporary President of the Constituent Assembly.",
+      "fact_ta": "டாக்டர் சச்சிதானந்த சின்ஹா அரசியலமைப்பு நிர்ணய சபையின் தற்காலிகத் தலைவராக இருந்தார்.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly.",
+      "fact_ta": "டாக்டர் ராஜேந்திர பிரசாத் அரசியலமைப்பு நிர்ணய சபையின் தலைவராகத் தேர்ந்தெடுக்கப்பட்டார்.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The Drafting Committee of the Constitution was set up on August 29, 1947.",
+      "fact_ta": "அரசியலமைப்பின் வரைவுக்குழு ஆகஸ்ட் 29, 1947 அன்று அமைக்கப்பட்டது.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.",
+      "fact_ta": "டாக்டர் பி.ஆர். அம்பேத்கர் வரைவுக்குழுவின் தலைவராக இருந்தார்.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The Indian Constitution was adopted on November 26, 1949.",
+      "fact_ta": "இந்திய அரசியலமைப்பு நவம்பர் 26, 1949 அன்று ஏற்றுக்கொள்ளப்பட்டது.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The original Indian Constitution contained 395 Articles and 8 Schedules.",
+      "fact_ta": "அசல் இந்திய அரசியலமைப்பில் 395 சட்டப்பிரிவுகள் மற்றும் 8 அட்டவணைகள் இருந்தன.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "January 26 was chosen as the date of commencement of the Constitution because of its historical importance linked to the 1930 Purna Swaraj day.",
+      "fact_ta": "1930-ஆம் ஆண்டின் பூர்ண ஸ்வராஜ் தினத்தின் வரலாற்று முக்கியத்துவம் காரணமாக, ஜனவரி 26 அரசியலமைப்பு நடைமுறைக்கு வந்த நாளாகத் தேர்ந்தெடுக்கப்பட்டது.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "Prem Behari Narain Raizada was the calligrapher of the Indian Constitution.",
+      "fact_ta": "இந்திய அரசியலமைப்பின் கையெழுத்துப் பிரதி எழுதியவர் பிரேம் பெஹாரி நரேன் ரைசாடா ஆவார்.",
+      "source": "Gurunath Chapter 2"
+    },
+    {
+      "fact_en": "The Regulating Act was passed in 1773.",
+      "fact_ta": "ஒழுங்குமுறைச் சட்டம் 1773-இல் இயற்றப்பட்டது.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "The Supreme Court in Calcutta was established in 1774.",
+      "fact_ta": "கொல்கத்தாவில் உச்ச நீதிமன்றம் 1774-இல் நிறுவப்பட்டது.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "Lord Macaulay chaired the Indian Law Commission established in 1834.",
+      "fact_ta": "1834-இல் நிறுவப்பட்ட இந்திய சட்ட ஆணையத்திற்கு மெக்காலே பிரபு தலைமை தாங்கினார்.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "The Government of India Act of 1858 abolished the East India Company.",
+      "fact_ta": "1858-ஆம் ஆண்டின் இந்திய அரசுச் சட்டம் கிழக்கிந்திய கம்பெனியை ஒழித்தது.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "Lord Minto II is known as the Father of Communal Electorate.",
+      "fact_ta": "மின்டோ பிரபு வகுப்புவாத வாக்காளர் தொகுதியின் தந்தை என்று அழைக்கப்படுகிறார்.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "The Poona Pact was an agreement between Congress and Dr. B.R. Ambedkar.",
+      "fact_ta": "பூனா ஒப்பந்தம் என்பது காங்கிரஸ் மற்றும் டாக்டர் பி.ஆர். அம்பேத்கருக்கு இடையே ஏற்பட்ட உடன்படிக்கையாகும்.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "The Reserve Bank of India was created by the Government of India Act 1935.",
+      "fact_ta": "இந்திய ரிசர்வ் வங்கி 1935-ஆம் ஆண்டின் இந்திய அரசுச் சட்டத்தால் உருவாக்கப்பட்டது.",
+      "source": "Iyachami Chapter 3"
+    },
+    {
+      "fact_en": "Lord Mountbatten was the first Governor-General of India.",
+      "fact_ta": "மவுண்ட்பேட்டன் பிரபு இந்தியாவின் முதல் கவர்னர் ஜெனரல் ஆவார்.",
+      "source": "Iyachami Indian Polity Page 9"
+    },
+    {
+      "fact_en": "The Constituent Assembly of India was formed in 1946.",
+      "fact_ta": "இந்திய அரசியலமைப்பு நிர்ணய சபை 1946-இல் உருவாக்கப்பட்டது.",
+      "source": "Iyachami Indian Polity Page 9"
+    },
+    {
+      "fact_en": "The British government accepted the Constituent Assembly demand in principle in the August Offer of 1940.",
+      "fact_ta": "1940 ஆகஸ்ட் சலுகையின் மூலம் பிரிட்டிஷ் அரசாங்கம் அரசியலமைப்பு நிர்ணய சபை கோரிக்கையை கொள்கையளவில் ஏற்றுக்கொண்டது.",
+      "source": "Iyachami Indian Polity Page 11"
+    },
+    {
+      "fact_en": "The first sitting of the Constituent Assembly took place on 9th December 1946.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபையின் முதல் கூட்டம் 1946 டிசம்பர் 9 அன்று நடைபெற்றது.",
+      "source": "Iyachami Indian Polity Page 11"
+    },
+    {
+      "fact_en": "Dr. Rajendra Prasad was elected as the President of the Constituent Assembly on 11th December 1946.",
+      "fact_ta": "டாக்டர் ராஜேந்திர பிரசாத் 1946 டிசம்பர் 11 அன்று அரசியலமைப்பு நிர்ணய சபையின் தலைவராகத் தேர்ந்தெடுக்கப்பட்டார்.",
+      "source": "Iyachami Indian Polity Page 11"
+    },
+    {
+      "fact_en": "Dr. Sachidanand Sinha was the temporary chairman of the Constituent Assembly.",
+      "fact_ta": "டாக்டர் சச்சிதானந்த சின்ஹா அரசியலமைப்பு நிர்ணய சபையின் தற்காலிகத் தலைவராக இருந்தார்.",
+      "source": "Iyachami Indian Polity Page 11"
+    },
+    {
+      "fact_en": "The National Flag was adopted by the Constituent Assembly on 22nd July 1947.",
+      "fact_ta": "1947 ஜூலை 22 அன்று அரசியலமைப்பு நிர்ணய சபையால் தேசியக்கொடி ஏற்றுக்கொள்ளப்பட்டது.",
+      "source": "Iyachami Indian Polity Page 11"
+    },
+    {
+      "fact_en": "The Constitution of India was adopted on 26th November 1949.",
+      "fact_ta": "இந்திய அரசியலமைப்பு 1949 நவம்பர் 26 அன்று ஏற்றுக்கொள்ளப்பட்டது.",
+      "source": "Iyachami Indian Polity Page 12"
+    },
+    {
+      "fact_en": "The Constitution of India came into force on 26th January 1950.",
+      "fact_ta": "இந்திய அரசியலமைப்பு 1950 ஜனவரி 26 அன்று நடைமுறைக்கு வந்தது.",
+      "source": "Iyachami Indian Polity Page 12"
+    },
+    {
+      "fact_en": "The total initial strength of the Constituent Assembly was 389 members.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபையின் ஆரம்ப மொத்த உறுப்பினர் எண்ணிக்கை 389 ஆகும்.",
+      "source": "Iyachami Indian Polity Page 12"
+    },
+    {
+      "fact_en": "The drafting of the Constitution took 2 years, 11 months, and 18 days.",
+      "fact_ta": "அரசியலமைப்பு உருவாக்கப்பட 2 ஆண்டுகள், 11 மாதங்கள் மற்றும் 18 நாட்கள் ஆனது.",
+      "source": "Iyachami Indian Polity Page 12"
+    },
+    {
+      "fact_en": "The total expenditure for drafting the Constitution was ₹64 lakh.",
+      "fact_ta": "அரசியலமைப்பு உருவாக்கத்திற்கான மொத்த செலவு ₹64 லட்சம் ஆகும்.",
+      "source": "Iyachami Indian Polity Page 12"
+    },
+    {
+      "fact_en": "The elephant was the symbol (seal) of the Constituent Assembly.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபையின் சின்னமாக (முத்திரை) யானை இருந்தது.",
+      "source": "Iyachami Indian Polity Page 12"
+    },
+    {
+      "fact_en": "Sir B. N. Rau served as the Constitutional Adviser.",
+      "fact_ta": "அரசியலமைப்பு நிர்ணய சபையின் ஆலோசகராக சர் பி. என். ராவ் இருந்தார்.",
+      "source": "Iyachami Indian Polity Page 13"
+    },
+    {
+      "fact_en": "Prem Behari Raizada was the English calligrapher of the Constitution.",
+      "fact_ta": "பிரேம் பெஹாரி ரைசாடா அரசியலமைப்பின் ஆங்கில கையெழுத்து பிரதி எழுதுபவராக இருந்தார்.",
+      "source": "Iyachami Indian Polity Page 13"
+    },
+    {
+      "fact_en": "The Drafting Committee had 7 members.",
+      "fact_ta": "வரைவுக்குழுவில் மொத்தம் 7 உறுப்பினர்கள் இருந்தனர்.",
+      "source": "Iyachami Indian Polity Page 14"
+    },
+    {
+      "fact_en": "At the time of adoption, the Constitution contained 395 Articles and 8 Schedules.",
+      "fact_ta": "ஏற்றுக்கொள்ளப்பட்டபோது, அரசியலமைப்பில் 395 உறுப்புகள் மற்றும் 8 அட்டவணைகள் இருந்தன.",
+      "source": "Iyachami Indian Polity Page 14"
+    }
+  ]
+}

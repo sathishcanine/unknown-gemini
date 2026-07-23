@@ -220,6 +220,54 @@ const state = {
       pages: "Class 11 Pages 181-182, 254-255, 279, 290-291 / Gurunath Pages 86-87",
       focus: "Focus on health infrastructure (three-tier system), medical tourism and Chennai as 'Medical Capital of India', child mortality rate, IMR and MMR in Tamil Nadu, Cradle Baby Scheme (1992), Mid-day Meal Scheme (1956 - Kamarajar), and ICDS nutrition indices."
     },
+    "Constitution of India": {
+      title: "Constitution of India",
+      titleTa: "இந்திய அரசியலமைப்பு (Constitution of India)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Suresh Polity",
+      chapter: "Class 12 Chapter 1: Constitution of India & Gurunath Chapter 1",
+      pages: "Class 12 Pages 1-24 / Gurunath Pages 3-20",
+      focus: "Focus on historical background of the Constitution, Regulating Act 1773, Charter Acts, Government of India Acts (1858, 1919, 1935), Cabinet Mission Plan 1946, Constitution Assembly composition and committees (Drafting Committee under Ambedkar), adoption date (Nov 26, 1949) and enforcement date (Jan 26, 1950)."
+    },
+    "Preamble": {
+      title: "Preamble",
+      titleTa: "முகப்புரை (Preamble)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Iyachamy Polity",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 2",
+      pages: "Class 12 Pages 25-30 / Gurunath Pages 21-35",
+      focus: "Focus on Preamble text, Objective Resolution by Jawaharlal Nehru (adopted Jan 22, 1947), key descriptors: Sovereign, Socialist, Secular, Democratic, Republic, Justice, Liberty, Equality, Fraternity, and the 42nd Constitutional Amendment Act 1976 (added Socialist, Secular, Integrity)."
+    },
+    "Salient Features of Constitution": {
+      title: "Salient Features of Constitution",
+      titleTa: "அரசியலமைப்பின் முக்கிய கூறுகள் (Salient Features of Constitution)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Suresh Polity",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 3",
+      pages: "Class 12 Pages 31-40 / Gurunath Pages 36-43",
+      focus: "Focus on salient features of the Indian Constitution: longest written constitution, mixture of rigidity and flexibility, federal system with unitary bias, parliamentary form of government, independent judiciary, single citizenship, emergency provisions, and sources borrowed from other constitutions (UK, USA, Ireland, Canada, Australia, Germany, USSR, France, South Africa)."
+    },
+    "Union, States & Union Territories": {
+      title: "Union, States & Union Territories",
+      titleTa: "ஒன்றியம், மாநிலங்கள் மற்றும் யூனியன் பிரதேசங்கள் (Union, States & UTs)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 2 & Gurunath Chapter 4",
+      pages: "Class 12 Pages 44-55 / Gurunath Pages 44-55",
+      focus: "Focus on Part I (Articles 1-4) of the Constitution, Article 1 (India, that is Bharat, shall be a Union of States), Parliament's power to admit new states (Article 2) and alter boundaries/names (Article 3), reorganisation committees (Dhar Commission 1948, JVP Committee 1948, Fazl Ali State Reorganisation Commission 1953, State Reorganisation Act 1956), creation of linguistic states (Andhra Pradesh as first in 1953), and timelines of state formation."
+    },
+    "Citizenship": {
+      title: "Citizenship",
+      titleTa: "குடியுரிமை (Citizenship)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity & Iyachamy",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 5",
+      pages: "Class 12 Pages 56-62 / Gurunath Pages 56-67",
+      focus: "Focus on Part II (Articles 5-11) of the Constitution, acquisition of citizenship under Citizenship Act 1955 (Birth, Descent, Registration, Naturalisation, Incorporation of territory), loss of citizenship (Renunciation, Termination, Deprivation), Single Citizenship concept, and amendments to the Citizenship Act."
+    },
+    "Fundamental Rights": {
+      title: "Fundamental Rights",
+      titleTa: "அடிப்படை உரிமைகள் (Fundamental Rights)",
+      book: "Class 12 Political Science Textbook & Gurunath Polity",
+      chapter: "Class 12 Chapter 1 & Gurunath Chapter 6",
+      pages: "Class 12 Pages 68-100 / Gurunath Pages 68-105",
+      focus: "Focus on Part III (Articles 12-35) of the Constitution, source (USA Bill of Rights), Magna Carta of India, six Fundamental Rights: Right to Equality (Arts 14-18), Right to Freedom (Arts 19-22), Right against Exploitation (Arts 23-24), Right to Freedom of Religion (Arts 25-28), Cultural & Educational Rights (Arts 29-30), Right to Constitutional Remedies (Art 32 - 'Heart and Soul' of the Constitution), Writs (Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto), and suspension of rights during emergency (Article 19 auto-suspends, Articles 20 and 21 CANNOT be suspended)."
+    },
     "Current Affairs : January 2026": {
       title: "Current Affairs : January 2026",
       titleTa: "நடப்பு நிகழ்வுகள் : ஜனவரி 2026",
@@ -305,6 +353,10 @@ const DOM = {
   subjectCaProgressPct: document.getElementById('subject-ca-progress-pct'),
   subjectCaProgressFill: document.getElementById('subject-ca-progress-fill'),
   subjectCaQuestionsCount: document.getElementById('subject-ca-questions-count'),
+  subjectCardPolity: document.getElementById('subject-card-polity'),
+  subjectPolityProgressPct: document.getElementById('subject-polity-progress-pct'),
+  subjectPolityProgressFill: document.getElementById('subject-polity-progress-fill'),
+  subjectPolityQuestionsCount: document.getElementById('subject-polity-questions-count'),
   
   // Syllabus Screen Elements
   topicsContainer: document.getElementById('topics-container'),
@@ -440,6 +492,12 @@ function setupEventListeners() {
     navigateTo('screen-syllabus');
   });
 
+  // Subject Polity Card click -> navigates to syllabus view
+  DOM.subjectCardPolity.addEventListener('click', () => {
+    state.activeSubject = 'Polity';
+    navigateTo('screen-syllabus');
+  });
+
   // Topic Detail Navigation Event Listeners
   DOM.btnBackToSyllabus.addEventListener('click', () => {
     navigateTo('screen-syllabus');
@@ -511,14 +569,16 @@ function navigateTo(screenId) {
 // Load Data from local JSON and LocalStorage
 async function loadData() {
   try {
-    // 1. Fetch both Economics and Current Affairs databases
+    // 1. Fetch Economics, Current Affairs, and Polity databases
     const resEcon = await fetch('Economic/economics_questions_db.json?v=' + Date.now());
     const resCA = await fetch('Current-affairs/current_affairs_questions_db.json?v=' + Date.now());
-    if (!resEcon.ok || !resCA.ok) throw new Error('Failed to load questions database');
+    const resPolity = await fetch('Polity/polity_questions_db.json?v=' + Date.now());
+    if (!resEcon.ok || !resCA.ok || !resPolity.ok) throw new Error('Failed to load questions database');
     
     const econQs = await resEcon.json();
     const caQs = await resCA.json();
-    state.questions = [...econQs, ...caQs];
+    const polityQs = await resPolity.json();
+    state.questions = [...econQs, ...caQs, ...polityQs];
     
     // 2. Load History from LocalStorage
     const storedHistory = localStorage.getItem('tnpsc_test_history');
@@ -527,7 +587,6 @@ async function loadData() {
     }
     
     // 3. Update UI
-    DOM.subjectEconQuestionsCount.textContent = `${state.questions.length} Questions Available`;
     updateDashboardStats();
     
   } catch (err) {
@@ -535,7 +594,6 @@ async function loadData() {
     // Fallback Mock Questions in case of local network issue
     state.questions = getFallbackQuestions();
     state.testHistory = [];
-    DOM.subjectEconQuestionsCount.textContent = `${state.questions.length} Questions Available`;
     updateDashboardStats();
   }
 }
@@ -549,6 +607,7 @@ function updateDashboardStats() {
   // Filter questions by active subject and active Group
   const econQuestions = getFilteredQuestions("Economy");
   const caQuestions = getFilteredQuestions("Current Affairs");
+  const polityQuestions = getFilteredQuestions("Polity");
   
   // Calc totals
   const totalTests = history.length;
@@ -557,6 +616,7 @@ function updateDashboardStats() {
   // Update available questions counts
   DOM.subjectEconQuestionsCount.textContent = `${econQuestions.length} Questions Available`;
   DOM.subjectCaQuestionsCount.textContent = `${caQuestions.length} Questions Available`;
+  DOM.subjectPolityQuestionsCount.textContent = `${polityQuestions.length} Questions Available`;
   
   if (totalTests === 0) {
     DOM.statsCorrectRatio.textContent = "0/0";
@@ -568,6 +628,8 @@ function updateDashboardStats() {
     DOM.subjectEconProgressFill.style.width = "0%";
     DOM.subjectCaProgressPct.textContent = "0%";
     DOM.subjectCaProgressFill.style.width = "0%";
+    DOM.subjectPolityProgressPct.textContent = "0%";
+    DOM.subjectPolityProgressFill.style.width = "0%";
     DOM.weaknessBanner.classList.add('d-none');
     return;
   }
@@ -616,6 +678,14 @@ function updateDashboardStats() {
   const caProgressPct = caQuestions.length > 0 ? Math.round((caSolved / caQuestions.length) * 100) : 0;
   DOM.subjectCaProgressPct.textContent = `${caProgressPct}%`;
   DOM.subjectCaProgressFill.style.width = `${caProgressPct}%`;
+  
+  // 3. Polity Progress
+  const politySolved = Array.from(correctlySolvedIds).filter(qText => 
+    polityQuestions.some(q => q.question_en === qText)
+  ).length;
+  const polityProgressPct = polityQuestions.length > 0 ? Math.round((politySolved / polityQuestions.length) * 100) : 0;
+  DOM.subjectPolityProgressPct.textContent = `${polityProgressPct}%`;
+  DOM.subjectPolityProgressFill.style.width = `${polityProgressPct}%`;
   
   // Overall mastery is linked to average accuracy for now
   DOM.masteryPercent.textContent = `${avgAccuracy}%`;
@@ -714,7 +784,13 @@ function renderSyllabusTopics() {
   // Update header text based on active subject
   const syllabusHeader = document.querySelector('#screen-syllabus h2');
   if (syllabusHeader) {
-    syllabusHeader.textContent = state.activeSubject === 'Economy' ? 'Indian Economy' : 'Current Affairs';
+    if (state.activeSubject === 'Economy') {
+      syllabusHeader.textContent = 'Indian Economy';
+    } else if (state.activeSubject === 'Polity') {
+      syllabusHeader.textContent = 'Indian Polity';
+    } else {
+      syllabusHeader.textContent = 'Current Affairs';
+    }
   }
   
   // Discover distinct topics in questions for the active subject

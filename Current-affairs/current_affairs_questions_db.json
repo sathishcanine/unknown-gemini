@@ -7876,28 +7876,28 @@
     "topic": "Current Affairs : January 2026",
     "source_exam": "Practice Batch 1",
     "difficulty": "Medium",
-    "question_en": "Match the following Ramsar sites added to India's wetland list:<br><div class='match-container'><div class='match-col-left'>a) Patna Bird Sanctuary<br>b) Chhari-Dhand</div><div class='match-col-right'>1. Gujarat<br>2. Uttar Pradesh</div></div>",
-    "question_ta": "இந்தியாவின் ராம்சர் ஈரநிலப் பட்டியலில் சேர்க்கப்பட்டுள்ள இடங்களைப் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) பாட்னா பறவைகள் சரணாலயம்<br>b) சாரி-தண்ட்</div><div class='match-col-right'>1. குஜராத்<br>2. உத்தரப் பிரதேசம்</div></div>",
+    "question_en": "Match the following Ramsar sites with their respective states:<br><div class='match-container'><div class='match-col-left'>a) Patna Bird Sanctuary<br>b) Chhari-Dhand<br>c) Karaivetti Bird Sanctuary<br>d) Ansupa Lake</div><div class='match-col-right'>1. Gujarat<br>2. Uttar Pradesh<br>3. Odisha<br>4. Tamil Nadu</div></div>",
+    "question_ta": "பின்வரும் ராம்சர் தளங்களை அவற்றின் மாநிலங்களுடன் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) பாட்னா பறவைகள் சரணாலயம்<br>b) சாரி-தண்ட்<br>c) கரைவெட்டி பறவைகள் சரணாலயம்<br>d) அன்சுபா ஏரி</div><div class='match-col-right'>1. குஜராத்<br>2. உத்தரப் பிரதேசம்<br>3. ஒடிசா<br>4. தமிழ்நாடு</div></div>",
     "options": [
       {
         "key": "A",
-        "text_en": "2  1",
-        "text_ta": "2  1"
+        "text_en": "a-2, b-1, c-4, d-3",
+        "text_ta": "a-2, b-1, c-4, d-3"
       },
       {
         "key": "B",
-        "text_en": "1  2",
-        "text_ta": "1  2"
+        "text_en": "a-1, b-2, c-3, d-4",
+        "text_ta": "a-1, b-2, c-3, d-4"
       },
       {
         "key": "C",
-        "text_en": "1  1",
-        "text_ta": "1  1"
+        "text_en": "a-2, b-1, c-3, d-4",
+        "text_ta": "a-2, b-1, c-3, d-4"
       },
       {
         "key": "D",
-        "text_en": "2  2",
-        "text_ta": "2  2"
+        "text_en": "a-1, b-2, c-4, d-3",
+        "text_ta": "a-1, b-2, c-4, d-3"
       },
       {
         "key": "E",
@@ -7906,8 +7906,8 @@
       }
     ],
     "correct_option": "A",
-    "explanation": "Patna Bird Sanctuary is in Uttar Pradesh and Chhari-Dhand is in Gujarat.",
-    "explanation_ta": "பாட்னா பறவைகள் சரணாலயம் உத்தரப் பிரதேசத்திலும், சாரி-தண்ட் குஜராத்திலும் உள்ளன.",
+    "explanation": "Patna Bird Sanctuary is in Uttar Pradesh, Chhari-Dhand in Gujarat, Karaivetti Bird Sanctuary in Tamil Nadu, and Ansupa Lake in Odisha.",
+    "explanation_ta": "பாட்னா பறவைகள் சரணாலயம் உத்தரப் பிரதேசத்திலும், சாரி-தண்ட் குஜராத்திலும், கரைவெட்டி பறவைகள் சரணாலயம் தமிழ்நாட்டிலும், அன்சுபா ஏரி ஒடிசாவிலும் அமைந்துள்ளன.",
     "type": "practice",
     "batch": "Batch 1",
     "group": "Practice"
@@ -9106,28 +9106,28 @@
     "topic": "Current Affairs : January 2026",
     "source_exam": "Practice Batch 2",
     "difficulty": "Hard",
-    "question_en": "Match the following Days with their respective 2026 themes:<br><div class='match-container'><div class='match-col-left'>a) National Tourism Day<br>b) National Voters Day</div><div class='match-col-right'>1. My India, My Vote<br>2. Sustainable Journeys, Timeless Memories</div></div>",
-    "question_ta": "பின்வரும் நாட்களை அவற்றின் 2026-ம் ஆண்டிற்கான கருப்பொருள்களுடன் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) தேசிய சுற்றுலா தினம்<br>b) தேசிய வாக்காளர் தினம்</div><div class='match-col-right'>1. எனது இந்தியா, எனது வாக்கு<br>2. நிலையான பயணங்கள், காலத்தால் அழியாத நினைவுகள்</div></div>",
+    "question_en": "Match the following Days with their respective 2026 themes / significance:<br><div class='match-container'><div class='match-col-left'>a) National Tourism Day<br>b) National Voters Day<br>c) National Youth Day<br>d) Republic Day Parade</div><div class='match-col-right'>1. My India, My Vote<br>2. Sustainable Journeys, Timeless Memories<br>3. Swami Vivekananda's Birth Anniversary<br>4. 150 Years of Vande Mataram</div></div>",
+    "question_ta": "பின்வரும் நாட்களை அவற்றின் 2026-ம் ஆண்டிற்கான கருப்பொருள்கள் / முக்கியத்துவத்துடன் பொருத்துக:<br><div class='match-container'><div class='match-col-left'>a) தேசிய சுற்றுலா தினம்<br>b) தேசிய வாக்காளர் தினம்<br>c) தேசிய இளைஞர் தினம்<br>d) குடியரசு தின அணிவகுப்பு</div><div class='match-col-right'>1. எனது இந்தியா, எனது வாக்கு<br>2. நிலையான பயணங்கள், காலத்தால் அழியாத நினைவுகள்<br>3. சுவாமி விவேகானந்தரின் பிறந்த நாள்<br>4. வந்தே மாதரத்தின் 150 ஆண்டுகள்</div></div>",
     "options": [
       {
         "key": "A",
-        "text_en": "a-2, b-1",
-        "text_ta": "a-2, b-1"
+        "text_en": "a-2, b-1, c-3, d-4",
+        "text_ta": "a-2, b-1, c-3, d-4"
       },
       {
         "key": "B",
-        "text_en": "a-1, b-2",
-        "text_ta": "a-1, b-2"
+        "text_en": "a-1, b-2, c-3, d-4",
+        "text_ta": "a-1, b-2, c-3, d-4"
       },
       {
         "key": "C",
-        "text_en": "a-2, b-2",
-        "text_ta": "a-2, b-2"
+        "text_en": "a-2, b-1, c-4, d-3",
+        "text_ta": "a-2, b-1, c-4, d-3"
       },
       {
         "key": "D",
-        "text_en": "a-1, b-1",
-        "text_ta": "a-1, b-1"
+        "text_en": "a-1, b-2, c-4, d-3",
+        "text_ta": "a-1, b-2, c-4, d-3"
       },
       {
         "key": "E",
@@ -9136,8 +9136,8 @@
       }
     ],
     "correct_option": "A",
-    "explanation": "National Tourism Day (Jan 25) was marked by 'Sustainable Journeys, Timeless Memories', and National Voters Day (Jan 25) by 'My India, My Vote'.",
-    "explanation_ta": "தேசிய சுற்றுலா தினம் (ஜனவரி 25) 'நிலையான பயணங்கள், காலத்தால் அழியாத நினைவுகள்' மற்றும் தேசிய வாக்காளர் தினம் (ஜனவரி 25) 'எனது இந்தியா, எனது வாக்கு' என்ற கருப்பொருள்களைக் கொண்டிருந்தன.",
+    "explanation": "National Tourism Day theme is 'Sustainable Journeys, Timeless Memories'; National Voters Day is 'My India, My Vote'; National Youth Day commemorates Swami Vivekananda's Birth Anniversary; Republic Day Parade theme is '150 Years of Vande Mataram'.",
+    "explanation_ta": "தேசிய சுற்றுலா தினக் கருப்பொருள் 'நிலையான பயணங்கள், காலத்தால் அழியாத நினைவுகள்'; தேசிய வாக்காளர் தினம் 'எனது இந்தியா, எனது வாக்கு'; தேசிய இளைஞர் தினம் சுவாமி விவேகானந்தரின் பிறந்தநாளைக் குறிக்கிறது; குடியரசு தின அணிவகுப்புக் கருப்பொருள் 'வந்தே மாதரத்தின் 150 ஆண்டுகள்'.",
     "type": "practice",
     "batch": "Batch 2",
     "group": "Practice"

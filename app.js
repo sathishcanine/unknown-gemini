@@ -515,6 +515,158 @@ const state = {
       chapter: "June 2026 Compilations",
       pages: "Pages 1 - 21",
       focus: "Focus on June 2026 national, state, and international events, appointments, reports, and summits."
+    },
+    "Adi Dravidar and Tribal Welfare": {
+      title: "Adi Dravidar and Tribal Welfare",
+      titleTa: "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலன் (Adi Dravidar and Tribal Welfare)",
+      book: "Gist ADIDRAVIDAR TRIBAL Welfare Policy Note 2025",
+      chapter: "Adi Dravidar & Tribal Welfare Policy Notes 2025",
+      pages: "Pages 1 - 8",
+      focus: "Focus on educational scholarship schemes, hostel facilities, tribal development programs, land distribution, and socio-economic welfare initiatives."
+    },
+    "Agriculture": {
+      title: "Agriculture",
+      titleTa: "வேளாண்மை (Agriculture)",
+      book: "Gist AGRICULTURE Policy Note 2025",
+      chapter: "Agriculture Policy Notes 2025",
+      pages: "Pages 1 - 17",
+      focus: "Focus on organic farming, crop insurance (PMFBY), irrigation projects, agricultural subsidies, cooperative societies, and crop production targets in Tamil Nadu."
+    },
+    "Differently Abled Persons": {
+      title: "Differently Abled Persons",
+      titleTa: "மாற்றுத்திறனாளிகள் நலன் (Differently Abled Persons)",
+      book: "Gist Differently Abled Persons Policy Note 2025",
+      chapter: "Differently Abled Persons Welfare Policy Notes 2025",
+      pages: "Pages 1 - 6",
+      focus: "Focus on social security pensions, assistive devices distribution, reservation in employment and education, and rehabilitation centers."
+    },
+    "Energy": {
+      title: "Energy",
+      titleTa: "ஆற்றல் துறை (Energy)",
+      book: "Gist ENERGY Policy Note 2025",
+      chapter: "Energy Policy Notes 2025",
+      pages: "Pages 1 - 3",
+      focus: "Focus on solar energy targets, TANGEDCO power projects, renewable energy integration, and smart grid initiatives in Tamil Nadu."
+    },
+    "Environment": {
+      title: "Environment",
+      titleTa: "சுற்றுச்சூழல் (Environment)",
+      book: "Gist Environment Policy Note 2025",
+      chapter: "Environment Policy Notes 2025",
+      pages: "Pages 1 - 7",
+      focus: "Focus on pollution control measures, climate change adaptation schemes, plastic ban enforcement, and coastal zone management in Tamil Nadu."
+    },
+    "Forest": {
+      title: "Forest",
+      titleTa: "வனத்துறை (Forest)",
+      book: "Gist FOREST Policy Note 2025",
+      chapter: "Forest Policy Notes 2025",
+      pages: "Pages 1 - 8",
+      focus: "Focus on afforestation programs, wildlife sanctuaries protection, eco-tourism initiatives, and joint forest management in Tamil Nadu."
+    },
+    "Health": {
+      title: "Health",
+      titleTa: "சுகாதாரத் துறை (Health)",
+      book: "Gist HEALTH Policy Note 2025",
+      chapter: "Health Policy Notes 2025",
+      pages: "Pages 1 - 12",
+      focus: "Focus on public health infrastructure, maternal and child health programs, Makkalai Thedi Maruthuvam, government medical colleges, and insurance schemes."
+    },
+    "Higher Education": {
+      title: "Higher Education",
+      titleTa: "உயர்கல்வித் துறை (Higher Education)",
+      book: "Gist HIGHER EDUCATION Policy Note 2025",
+      chapter: "Higher Education Policy Notes 2025",
+      pages: "Pages 1 - 8",
+      focus: "Focus on Pudhumai Penn, Tamil Pudhalvan schemes, university research funds, gross enrollment ratio targets, and technical education enhancement."
+    },
+    "IT": {
+      title: "IT",
+      titleTa: "தகவல் தொழில்நுட்பத் துறை (IT)",
+      book: "Gist IT Policy Note 2025",
+      chapter: "Information Technology Policy Notes 2025",
+      pages: "Pages 1 - 5",
+      focus: "Focus on e-governance applications, ELCOT IT parks, startup incubation centers, software export statistics, and digital literacy initiatives."
+    },
+    "Industry": {
+      title: "Industry",
+      titleTa: "தொழில்துறை (Industry)",
+      book: "Gist INDUSTRY Policy Note 2025",
+      chapter: "Industry Policy Notes 2025",
+      pages: "Pages 1 - 10",
+      focus: "Focus on industrial investment, SIPCOT parks, TIDCO projects, single-window clearance, and global investors meet initiatives."
+    },
+    "Labour Welfare": {
+      title: "Labour Welfare",
+      titleTa: "தொழிலாளர் நலன் (Labour Welfare)",
+      book: "Gist LABOUR Welfare Policy Note 2025",
+      chapter: "Labour Welfare Policy Notes 2025",
+      pages: "Pages 1 - 10",
+      focus: "Focus on unorganized sector welfare boards, social security for workers, industrial safety standards, and employment exchange services."
+    },
+    "MSME": {
+      title: "MSME",
+      titleTa: "குறு, சிறு மற்றும் நடுத்தர தொழில்கள் (MSME)",
+      book: "Gist MSME Policy Note 2025",
+      chapter: "MSME Policy Notes 2025",
+      pages: "Pages 1 - 4",
+      focus: "Focus on credit guarantee schemes, capital subsidies, single window clearance, cluster development programs, and entrepreneurship training."
+    },
+    "Natural Resources": {
+      title: "Natural Resources",
+      titleTa: "இயற்கை வளங்கள் (Natural Resources)",
+      book: "Gist NATURAL RESOURCES Policy Note 2025",
+      chapter: "Natural Resources Policy Notes 2025",
+      pages: "Pages 1 - 3",
+      focus: "Focus on mineral exploration, quarry regulations, sand mining controls, and revenue generation from natural assets."
+    },
+    "Revenue & Disaster": {
+      title: "Revenue & Disaster",
+      titleTa: "வருவாய் மற்றும் பேரிடர் மேலாண்மை (Revenue & Disaster)",
+      book: "Gist REVENUE DISASTER Policy Note 2025",
+      chapter: "Revenue & Disaster Management Policy Notes 2025",
+      pages: "Pages 1 - 10",
+      focus: "Focus on land administration, online patta transfers, disaster relief funds, flood mitigation projects, and social security pensions."
+    },
+    "Rural": {
+      title: "Rural",
+      titleTa: "ஊரக வளர்ச்சி (Rural)",
+      book: "Gist RURAL Policy Note 2025",
+      chapter: "Rural Development Policy Notes 2025",
+      pages: "Pages 1 - 5",
+      focus: "Focus on Kalaignar Kanavu Illam housing, village infrastructure, rural water supply, self-help groups (SHG), and employment schemes."
+    },
+    "School Education": {
+      title: "School Education",
+      titleTa: "பள்ளி கல்வித் துறை (School Education)",
+      book: "Gist SCHOOL EDUCATION Policy Note 2025",
+      chapter: "School Education Policy Notes 2025",
+      pages: "Pages 1 - 8",
+      focus: "Focus on Illam Thedi Kalvi, smart classrooms, free supplies for students, teacher recruitment, and school infrastructure improvements."
+    },
+    "Social Welfare": {
+      title: "Social Welfare",
+      titleTa: "சமூக நலத்துறை (Social Welfare)",
+      book: "Gist SOCIALWELFARE Policy Note 2025",
+      chapter: "Social Welfare Policy Notes 2025",
+      pages: "Pages 1 - 11",
+      focus: "Focus on nutritious meal program, marriage assistance schemes, gender equality initiatives, and welfare of senior citizens."
+    },
+    "Special Program Implementation": {
+      title: "Special Program Implementation",
+      titleTa: "சிறப்புத் திட்டங்கள் அமலாக்கம் (Special Program Implementation)",
+      book: "Gist SPECIAL PROG Implementation Policy Note 2025",
+      chapter: "Special Program Implementation Policy Notes 2025",
+      pages: "Pages 1 - 3",
+      focus: "Focus on monitoring flagship schemes, CM Helpline system, and cross-departmental coordination of major programs."
+    },
+    "Tamil Development": {
+      title: "Tamil Development",
+      titleTa: "தமிழ் வளர்ச்சித் துறை (Tamil Development)",
+      book: "Gist TAMIL DEVELOPMENT Policy Note 2025",
+      chapter: "Tamil Development Policy Notes 2025",
+      pages: "Pages 1 - 8",
+      focus: "Focus on promotion of Tamil language in administration, financial support for Tamil scholars, archeological excavations, and translation of classic works."
     }
   }
 };
@@ -565,6 +717,10 @@ const DOM = {
   subjectPolityProgressPct: document.getElementById('subject-polity-progress-pct'),
   subjectPolityProgressFill: document.getElementById('subject-polity-progress-fill'),
   subjectPolityQuestionsCount: document.getElementById('subject-polity-questions-count'),
+  subjectCardPolicy: document.getElementById('subject-card-policy'),
+  subjectPolicyProgressPct: document.getElementById('subject-policy-progress-pct'),
+  subjectPolicyProgressFill: document.getElementById('subject-policy-progress-fill'),
+  subjectPolicyQuestionsCount: document.getElementById('subject-policy-questions-count'),
   
   // Syllabus Screen Elements
   topicsContainer: document.getElementById('topics-container'),
@@ -706,6 +862,12 @@ function setupEventListeners() {
     navigateTo('screen-syllabus');
   });
 
+  // Subject Policy Card click -> navigates to syllabus view
+  DOM.subjectCardPolicy.addEventListener('click', () => {
+    state.activeSubject = 'Policy';
+    navigateTo('screen-syllabus');
+  });
+
   // Topic Detail Navigation Event Listeners
   DOM.btnBackToSyllabus.addEventListener('click', () => {
     navigateTo('screen-syllabus');
@@ -777,16 +939,18 @@ function navigateTo(screenId) {
 // Load Data from local JSON and LocalStorage
 async function loadData() {
   try {
-    // 1. Fetch Economics, Current Affairs, and Polity databases
+    // 1. Fetch Economics, Current Affairs, Polity, and Policy databases
     const resEcon = await fetch('Economic/economics_questions_db.json?v=' + Date.now());
     const resCA = await fetch('Current-affairs/current_affairs_questions_db.json?v=' + Date.now());
     const resPolity = await fetch('Polity/polity_questions_db.json?v=' + Date.now());
-    if (!resEcon.ok || !resCA.ok || !resPolity.ok) throw new Error('Failed to load questions database');
+    const resPolicy = await fetch('Policy/policy_questions_db.json?v=' + Date.now());
+    if (!resEcon.ok || !resCA.ok || !resPolity.ok || !resPolicy.ok) throw new Error('Failed to load questions database');
     
     const econQs = await resEcon.json();
     const caQs = await resCA.json();
     const polityQs = await resPolity.json();
-    state.questions = [...econQs, ...caQs, ...polityQs];
+    const policyQs = await resPolicy.json();
+    state.questions = [...econQs, ...caQs, ...polityQs, ...policyQs];
     
     // 2. Load History from LocalStorage
     const storedHistory = localStorage.getItem('tnpsc_test_history');
@@ -816,6 +980,7 @@ function updateDashboardStats() {
   const econQuestions = getFilteredQuestions("Economy");
   const caQuestions = getFilteredQuestions("Current Affairs");
   const polityQuestions = getFilteredQuestions("Polity");
+  const policyQuestions = getFilteredQuestions("Policy");
   
   // Calc totals
   const totalTests = history.length;
@@ -825,6 +990,7 @@ function updateDashboardStats() {
   DOM.subjectEconQuestionsCount.textContent = `${econQuestions.length} Questions Available`;
   DOM.subjectCaQuestionsCount.textContent = `${caQuestions.length} Questions Available`;
   DOM.subjectPolityQuestionsCount.textContent = `${polityQuestions.length} Questions Available`;
+  DOM.subjectPolicyQuestionsCount.textContent = `${policyQuestions.length} Questions Available`;
   
   if (totalTests === 0) {
     DOM.statsCorrectRatio.textContent = "0/0";
@@ -838,6 +1004,8 @@ function updateDashboardStats() {
     DOM.subjectCaProgressFill.style.width = "0%";
     DOM.subjectPolityProgressPct.textContent = "0%";
     DOM.subjectPolityProgressFill.style.width = "0%";
+    DOM.subjectPolicyProgressPct.textContent = "0%";
+    DOM.subjectPolicyProgressFill.style.width = "0%";
     DOM.weaknessBanner.classList.add('d-none');
     return;
   }
@@ -894,6 +1062,14 @@ function updateDashboardStats() {
   const polityProgressPct = polityQuestions.length > 0 ? Math.round((politySolved / polityQuestions.length) * 100) : 0;
   DOM.subjectPolityProgressPct.textContent = `${polityProgressPct}%`;
   DOM.subjectPolityProgressFill.style.width = `${polityProgressPct}%`;
+
+  // 4. Policy Progress
+  const policySolved = Array.from(correctlySolvedIds).filter(qText => 
+    policyQuestions.some(q => q.question_en === qText)
+  ).length;
+  const policyProgressPct = policyQuestions.length > 0 ? Math.round((policySolved / policyQuestions.length) * 100) : 0;
+  DOM.subjectPolicyProgressPct.textContent = `${policyProgressPct}%`;
+  DOM.subjectPolicyProgressFill.style.width = `${policyProgressPct}%`;
   
   // Overall mastery is linked to average accuracy for now
   DOM.masteryPercent.textContent = `${avgAccuracy}%`;
@@ -996,6 +1172,8 @@ function renderSyllabusTopics() {
       syllabusHeader.textContent = 'Indian Economy';
     } else if (state.activeSubject === 'Polity') {
       syllabusHeader.textContent = 'Indian Polity';
+    } else if (state.activeSubject === 'Policy') {
+      syllabusHeader.textContent = 'Policy Notes';
     } else {
       syllabusHeader.textContent = 'Current Affairs';
     }

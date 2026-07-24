@@ -32,13 +32,17 @@ Every AI agent must follow these strict guidelines for the Indian Polity subject
 ### Rule 1: Source of Truth
 * Only learn facts from the official study material PDFs in the `Data/Polity/` directory (Class 11/12 Samacheer, Gurunath, Iyachamy, Suresh Polity). **Do not learn facts from the PYQs** (only use PYQs to learn question patterns, wording, and style).
 
-### Rule 2: Complete Exclusion (Zero Duplicates)
-* Before calling the API, the agent **must** load `Polity/polity_questions_db.json`, filter by the current `topic`, and pass the English text of all existing questions as a strict exclusion list in the prompt to ensure 100% unique questions.
+### Rule 2: Complete Pool Analysis & Zero Duplicates
+* **No Fact Slicing**: For every batch (including Batch 1, Batch 2, and onward), the generator script **must** load and analyze the **entire pool of facts** for that topic in `polity_facts.json`, rather than slicing them into subsets.
+* **Strict Question Exclusion**: To guarantee zero duplication, the script loads all existing questions from `polity_questions_db.json` for that topic and passes their English text as a strict exclusion list. The API will choose from the entire fact pool but must craft entirely new questions that do not duplicate the existing ones.
 
 ### Rule 3: Batch Structure
 * **Total Final Questions**: Exactly **30 questions**.
-* **Difficulty Split**: Exactly **15 Medium** and **15 Hard** questions.
-* **Over-provisioning & Pruning**: Generate **34 questions** (17 Medium, 17 Hard) from the API. Calculate a quality score `len(question_en) + len(explanation)` in Python and discard the 2 shortest/weakest questions in each category.
+* **Difficulty Split**: Roughly **17 Medium** and **13 Hard** questions (does not have to be exactly 17/13; splits like 18/12, 16/14, or 15/15 are fully acceptable).
+* **Over-provisioning & Dynamic Selection**:
+  * Generate **32 questions** (18 Medium, 14 Hard) from the API.
+  * Filter out invalid questions and sort the remaining lists by quality score (`len(question_en) + len(explanation)` descending).
+  * Dynamically select the 30 best questions: If there are fewer than 13 Hard questions, take all available Hard questions and make up the remainder from Medium (e.g., 18 Medium / 12 Hard); if there are fewer than 17 Medium, take all available Medium and make up the remainder from Hard; otherwise, select 17 Medium and 13 Hard. This discards the shortest/weakest questions while ensuring a total of 30.
 
 ### Rule 4: Plausible Distractors
 * Distractors (wrong options) must be highly plausible and closely related to the question fact. 

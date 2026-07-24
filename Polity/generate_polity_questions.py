@@ -34,7 +34,7 @@ def call_gemini_generation(topic, batch_num, facts, exclusion_texts, api_key):
 
     prompt = f"""
 You are a senior exam compiler for the TNPSC Group I/II Civil Services.
-Your task is to generate exactly 34 practice questions (17 Medium, 17 Hard) for the topic "{topic}" under "Practice Batch {batch_num}".
+Your task is to generate exactly 32 practice questions (18 Medium, 14 Hard) for the topic "{topic}" under "Practice Batch {batch_num}".
 
 Ground Truth Facts:
 {facts_formatted}
@@ -42,7 +42,7 @@ Ground Truth Facts:
 
 Rules for Question Generation:
 1. Base every question strictly on the Ground Truth Facts provided. Mention the source fact in the "source_fact" key.
-2. Generate exactly 17 "medium" and 17 "hard" difficulty questions.
+2. Generate exactly 18 "medium" and 14 "hard" difficulty questions.
 3. Every question must be fully bilingual (English and Tamil).
 4. Target formats:
    - Match the following questions: Must always be a 4x4 matching layout (exactly 4 items in Column A and exactly 4 items in Column B). You MUST format the question text using this exact two-column HTML layout:
@@ -117,8 +117,8 @@ def main():
     parser = argparse.ArgumentParser(description="Polity Practice Question Generator")
     parser.add_argument("--topic", required=True, help="Exact topic name in syllabus")
     parser.add_argument("--batch", type=int, required=True, help="Practice Batch number")
-    parser.add_argument("--start", type=int, required=True, help="1-based start index of facts")
-    parser.add_argument("--end", type=int, required=True, help="1-based end index of facts")
+    parser.add_argument("--start", type=int, default=None, help="1-based start index of facts (optional/deprecated)")
+    parser.add_argument("--end", type=int, default=None, help="1-based end index of facts (optional/deprecated)")
     
     args = parser.parse_args()
 
@@ -130,22 +130,15 @@ def main():
     facts_path = "/Users/sathishkumar/Pictures/Ai-Demos/Q-Gemini/Polity/polity_facts.json"
     db_path = "/Users/sathishkumar/Pictures/Ai-Demos/Q-Gemini/Polity/polity_questions_db.json"
 
-    # 1. Load and slice facts
+    # 1. Load all facts for the topic
     all_topic_facts = load_facts(facts_path, args.topic)
     if not all_topic_facts:
         print(f"Error: No facts found for topic '{args.topic}' in {facts_path}.")
         sys.exit(1)
 
-    # Convert 1-based args to 0-based indices
-    start_idx = args.start - 1
-    end_idx = args.end
-    sliced_facts = all_topic_facts[start_idx:end_idx]
-
-    if not sliced_facts:
-        print(f"Error: Sliced fact range {args.start}-{args.end} returned no facts. Total available: {len(all_topic_facts)}.")
-        sys.exit(1)
-
-    print(f"Loaded {len(sliced_facts)} facts (indices {args.start} to {args.end}) for generation.")
+    # Use all facts for the topic to allow complete pool analysis
+    sliced_facts = all_topic_facts
+    print(f"Loaded all {len(sliced_facts)} facts for topic '{args.topic}' for generation.")
 
     # 2. Load existing questions to build exclusion list
     existing_qs = load_existing_questions(db_path, args.topic)
@@ -244,17 +237,29 @@ def main():
 
     print(f"Valid questions - Medium: {len(valid_medium)}, Hard: {len(valid_hard)}")
 
-    if len(valid_medium) < 15 or len(valid_hard) < 15:
-        print("ERROR: Did not get enough valid questions of each difficulty level. Please run again.")
+    # We need at least 30 valid questions in total to select a full batch
+    if len(valid_medium) + len(valid_hard) < 30:
+        print(f"ERROR: Not enough valid questions to make 30. Got Medium: {len(valid_medium)}, Hard: {len(valid_hard)}")
         sys.exit(1)
 
     # Sort each list by length (descending) to get the most detailed explanations
     valid_medium.sort(key=lambda q: len(q["explanation"]) + len(q["explanation_ta"]), reverse=True)
     valid_hard.sort(key=lambda q: len(q["explanation"]) + len(q["explanation_ta"]), reverse=True)
 
-    # Take exactly 15 of each
-    final_medium = valid_medium[:15]
-    final_hard = valid_hard[:15]
+    # Dynamically select questions to get as close to 17/13 as possible
+    if len(valid_hard) < 13:
+        take_hard = len(valid_hard)
+        take_medium = 30 - take_hard
+    elif len(valid_medium) < 17:
+        take_medium = len(valid_medium)
+        take_hard = 30 - take_medium
+    else:
+        take_medium = 17
+        take_hard = 13
+
+    print(f"Selecting {take_medium} Medium and {take_hard} Hard questions for the final batch of 30.")
+    final_medium = valid_medium[:take_medium]
+    final_hard = valid_hard[:take_hard]
     
     final_batch = final_medium + final_hard
     random.shuffle(final_batch) # Shuffle to mix difficulties

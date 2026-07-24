@@ -45,10 +45,15 @@ Rules for Question Generation:
 2. Generate exactly 17 "medium" and 17 "hard" difficulty questions.
 3. Every question must be fully bilingual (English and Tamil).
 4. Target formats:
-   - Match the following questions: Use 4 items, e.g., A-1, B-2, C-3, D-4.
+   - Match the following questions: Must always be a 4x4 matching layout (exactly 4 items in Column A and exactly 4 items in Column B). You MUST format the question text using this exact two-column HTML layout:
+     Match the following:<br><div class='match-container'><div class='match-col-left'>a) [Item A]<br>b) [Item B]<br>c) [Item C]<br>d) [Item D]</div><div class='match-col-right'>1. [Match 1]<br>2. [Match 2]<br>3. [Match 3]<br>4. [Match 4]</div></div>
+     The Tamil question_ta must use the exact same HTML structure with Tamil translations. Options_en/options_ta must be combinations like: a-2, b-1, c-4, d-3.
    - Statement-based questions: Present 2 or 3 statements, followed by "Which of the statements given above is/are correct?".
-   - Standard multiple-choice questions with plausible distractors.
-5. JSON Output Format:
+   - Standard multiple-choice questions with plausible distractors. Distractors must be highly plausible, using adjacent articles, similar legal cases, or realistic dates/statistics to make them challenging.
+5. Advanced Formats (Rule 5):
+   - Paragraph-Based Inference Questions (Min 6 per batch): Must feature a 2-3 sentence data-rich premise. Options must test logical deduction rather than rote memory (e.g., using logical qualifiers like 'only', 'more than', 'less than').
+   - Contextual Connect Questions (Min 5 per batch): Hook core constitutional principles/facts to modern contexts (such as recent Supreme Court judgments, recent amendments, or executive actions).
+6. JSON Output Format:
    Output a raw JSON array of objects. Do not wrap in markdown or include introductions. Each object must have these exact keys:
    - "question_en": Question text in English
    - "question_ta": Question text in Tamil
@@ -59,9 +64,6 @@ Rules for Question Generation:
    - "explanation_en": Detailed explanation in English
    - "explanation_ta": Detailed explanation in Tamil
    - "difficulty": Either "medium" or "hard"
-   - "topic": "{topic}"
-   - "type": "practice"
-   - "batch": "Practice Batch {batch_num}"
    - "source_fact": The English ground-truth fact used to generate this question
 
 Ensure the combined length of question + explanation is substantial (minimum 180 characters total).
@@ -87,7 +89,7 @@ Ensure the combined length of question + explanation is substantial (minimum 180
     req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers, method="POST")
 
     try:
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=90) as response:
             res_data = response.read().decode("utf-8")
             res_json = json.loads(res_data)
             raw_text = res_json["candidates"][0]["content"]["parts"][0]["text"].strip()
@@ -155,7 +157,7 @@ def main():
     raw_questions = call_gemini_generation(args.topic, args.batch, sliced_facts, exclusion_texts, api_key)
     print(f"Received {len(raw_questions)} questions from Gemini.")
 
-    # 4. Python-side validation and pruning
+    # 4. Python-side validation, mapping and pruning
     valid_medium = []
     valid_hard = []
 
@@ -196,12 +198,49 @@ def main():
             print(f"  Discarding question due to short explanation length: {combined_len} chars")
             continue
 
+        # Transform to standard frontend schema format
+        correct_index = q["options_en"].index(ans_en)
+        keys_map = ["A", "B", "C", "D"]
+        correct_key = keys_map[correct_index]
+
+        standard_options = []
+        for i in range(4):
+            standard_options.append({
+                "key": keys_map[i],
+                "text_en": q["options_en"][i].strip(),
+                "text_ta": q["options_ta"][i].strip()
+            })
+        
+        # Add Option E (Answer Not Known)
+        standard_options.append({
+            "key": "E",
+            "text_en": "Answer not known",
+            "text_ta": "விடை தெரியவில்லை"
+        })
+
+        standard_q = {
+            "subject": "Polity",
+            "topic": args.topic,
+            "source_exam": f"Practice Batch {args.batch}",
+            "difficulty": q["difficulty"].strip().capitalize(),
+            "question_en": q["question_en"].strip(),
+            "question_ta": q["question_ta"].strip(),
+            "options": standard_options,
+            "correct_option": correct_key,
+            "explanation": q["explanation_en"].strip(),
+            "explanation_ta": q["explanation_ta"].strip(),
+            "type": "practice",
+            "batch": f"Batch {args.batch}",
+            "group": "Practice",
+            "source_fact": q.get("source_fact", "").strip()
+        }
+
         # Sort by difficulty
         diff = q["difficulty"].lower()
         if diff == "medium":
-            valid_medium.append(q)
+            valid_medium.append(standard_q)
         elif diff == "hard":
-            valid_hard.append(q)
+            valid_hard.append(standard_q)
 
     print(f"Valid questions - Medium: {len(valid_medium)}, Hard: {len(valid_hard)}")
 
@@ -210,8 +249,8 @@ def main():
         sys.exit(1)
 
     # Sort each list by length (descending) to get the most detailed explanations
-    valid_medium.sort(key=lambda q: len(q["explanation_en"]) + len(q["explanation_ta"]), reverse=True)
-    valid_hard.sort(key=lambda q: len(q["explanation_en"]) + len(q["explanation_ta"]), reverse=True)
+    valid_medium.sort(key=lambda q: len(q["explanation"]) + len(q["explanation_ta"]), reverse=True)
+    valid_hard.sort(key=lambda q: len(q["explanation"]) + len(q["explanation_ta"]), reverse=True)
 
     # Take exactly 15 of each
     final_medium = valid_medium[:15]

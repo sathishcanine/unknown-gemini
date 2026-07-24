@@ -56,7 +56,7 @@ Every 30-question practice batch must contain:
 * Option choices must be formatted as combinations, e.g., `a-2, b-1, c-4, d-3` or `A-2, B-1, C-4, D-3`.
 * Shuffled once before saving.
 
-### Rule 7: 4-Round Text-Segment Partitioning Fact Extraction
+### Rule 7: 5-Round Text-Segment Partitioning Fact Extraction
 Before generating questions for any new topic, the agent **must** compile the fact database using the **Text-Segment Partitioning Method** to ensure absolutely no facts are missed.
 
 **Crucial Automation Search Step**:
@@ -74,13 +74,17 @@ Before generating questions for any new topic, the agent **must** compile the fa
    * **Round 3: Chapter-Level Index Verification**: Check index and neighboring pages of matches in the school textbooks to identify complete chapters. Ensure all pages in these chapters are included.
 
    The agent **must** print and examine the matches, extract all relevant pages, and combine their text into the combined raw text before beginning fact extraction.
-* **Step 2: Partition Text**: Split this combined text into **4 equal parts** (Part 1, Part 2, Part 3, and Part 4).
+* **Step 2: Partition Text**: Split this combined text into **5 equal parts** (Part 1, Part 2, Part 3, Part 4, and Part 5) to maximize the LLM's attention span and resolution.
 * **Step 3: Sequential Extraction**:
-   - **Round 1**: Feed Part 1 to the API and extract **every single** factual statement, article, year, and name.
-   - **Round 2**: Feed Part 2 to the API and extract **every single** fact.
-   - **Round 3**: Feed Part 3 to the API and extract **every single** fact.
-   - **Round 4**: Feed Part 4 to the API and extract **every single** fact.
-* **Step 4: Clean & Merge**: Combine the facts from all 4 rounds, remove duplicates, ensure standard TNPSC bilingual translations, and save the final JSON to `Polity/polity_facts.json`.
+   - **Rounds 1–5**: Feed each Part sequentially to the API and extract **every single** factual statement. 
+   - **Explicit Prompt Directives**: The extraction prompt must explicitly command the LLM to search for and extract:
+     1. Key dates, years, amendments, names, and historic locations.
+     2. Calligraphers, illustrators, and designers of the original English and Hindi versions.
+     3. Definition and classification of keywords (e.g., democratic socialism, mixed economy, positive concept of secularism, elected heads).
+     4. Specific articles associated with constitutional objectives (e.g., civic/political/economic equality articles, Article 51A).
+     5. Philosophical definitions and quotes (e.g., John Locke on liberty, Ambedkar on fraternity, Union of Trinity).
+     6. Supreme Court case rulings and exact case years (e.g., Berubari, Golak Nath, Kesavananda, LIC).
+* **Step 4: Clean & Merge**: Combine the facts from all 5 rounds, remove duplicates using normalized alphanumeric string comparison in Python (to capture slightly varying wordings), ensure standard TNPSC bilingual translations, and save the final JSON to `Polity/polity_facts.json`.
 
 ---
 

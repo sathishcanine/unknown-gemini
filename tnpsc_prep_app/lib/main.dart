@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 import 'providers/app_state.dart';
 import 'screens/home_screen.dart';
@@ -10,8 +11,18 @@ import 'screens/results_screen.dart';
 import 'screens/advisor_screen.dart';
 import 'screens/login_screen.dart';
 import 'screens/performance_screen.dart';
+import 'screens/profile_screen.dart';
+import 'services/update_service.dart';
+import 'widgets/update_dialog.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  try {
+    await Firebase.initializeApp();
+  } catch (e) {
+    debugPrint('Firebase initialization failed: $e');
+  }
+
   runApp(
     ChangeNotifierProvider(
       create: (_) => AppState(),
@@ -53,13 +64,37 @@ class TNPSCPrepApp extends StatelessWidget {
   }
 }
 
-class AppShell extends StatelessWidget {
+class AppShell extends StatefulWidget {
   const AppShell({Key? key}) : super(key: key);
+
+  @override
+  State<AppShell> createState() => _AppShellState();
+}
+
+class _AppShellState extends State<AppShell> {
+  bool _updateCheckStarted = false;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) => _checkForUpdate());
+  }
+
+  Future<void> _checkForUpdate() async {
+    if (_updateCheckStarted) return;
+    _updateCheckStarted = true;
+
+    final info = await UpdateService().checkForUpdate();
+    if (info == null || !mounted) return;
+
+    final isDarkMode = Provider.of<AppState>(context, listen: false).isDarkMode;
+    UpdateDialog.show(context, info, isDarkMode: isDarkMode);
+  }
 
   @override
   Widget build(BuildContext context) {
     final appState = Provider.of<AppState>(context);
-    
+
     if (!appState.isAuthenticated) {
       return const LoginScreen();
     }
@@ -73,6 +108,8 @@ class AppShell extends StatelessWidget {
       currentIndex = 1;
     } else if (active == 'advisor') {
       currentIndex = 2;
+    } else if (active == 'profile') {
+      currentIndex = 3;
     }
 
     Widget body;
@@ -90,6 +127,8 @@ class AppShell extends StatelessWidget {
       body = const AdvisorScreen();
     } else if (active == 'performance') {
       body = const PerformanceScreen();
+    } else if (active == 'profile') {
+      body = const ProfileScreen();
     } else {
       body = const HomeScreen();
     }
@@ -101,6 +140,7 @@ class AppShell extends StatelessWidget {
       body: body,
       bottomNavigationBar: showBottomNav
           ? BottomNavigationBar(
+              type: BottomNavigationBarType.fixed,
               backgroundColor: isDark ? const Color(0xFF131A2A) : Colors.white,
               selectedItemColor: const Color(0xFF3B82F6),
               unselectedItemColor: isDark ? Colors.grey : const Color(0xFF64748B),
@@ -112,6 +152,8 @@ class AppShell extends StatelessWidget {
                   appState.navigateToPerformance();
                 } else if (index == 2) {
                   appState.navigateToAdvisor();
+                } else if (index == 3) {
+                  appState.navigateToProfile();
                 }
               },
               items: const [
@@ -126,6 +168,10 @@ class AppShell extends StatelessWidget {
                 BottomNavigationBarItem(
                   icon: Icon(Icons.assistant),
                   label: 'AI Advisor',
+                ),
+                BottomNavigationBarItem(
+                  icon: Icon(Icons.person),
+                  label: 'Profile',
                 ),
               ],
             )

@@ -277,5 +277,46 @@ class QuestionDatabase:
         finally:
             self.release_conn(conn)
 
+    def delete_user_account(self, user_id):
+        conn = self.get_conn()
+        try:
+            with conn.cursor() as cur:
+                user_uuid = None
+                is_uuid = False
+                try:
+                    import uuid
+                    uuid.UUID(str(user_id))
+                    is_uuid = True
+                except ValueError:
+                    pass
+
+                if is_uuid:
+                    cur.execute("SELECT id FROM users WHERE id = %s;", (user_id,))
+                else:
+                    cur.execute("SELECT id FROM users WHERE email = %s;", (f"user_{user_id}@example.com" if "@" not in user_id else user_id,))
+
+                row = cur.fetchone()
+                if not row:
+                    return False
+                user_uuid = row[0]
+
+                # 1. Delete user answers
+                cur.execute("DELETE FROM user_answers WHERE session_id IN (SELECT id FROM test_sessions WHERE user_id = %s);", (user_uuid,))
+                # 2. Delete test sessions
+                cur.execute("DELETE FROM test_sessions WHERE user_id = %s;", (user_uuid,))
+                # 3. Delete activity logs
+                cur.execute("DELETE FROM activity_logs WHERE user_id = %s;", (user_uuid,))
+                # 4. Delete user record
+                cur.execute("DELETE FROM users WHERE id = %s;", (user_uuid,))
+
+                conn.commit()
+                return True
+        except Exception as e:
+            conn.rollback()
+            print(f"Error deleting user account: {e}")
+            raise e
+        finally:
+            self.release_conn(conn)
+
 # Singleton instance
 db = QuestionDatabase()

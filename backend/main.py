@@ -240,6 +240,13 @@ def submit_session(req: SessionSubmitRequest):
 def get_user_history(user_id: str):
     return db.get_user_history(user_id)
 
+@app.delete("/api/users/{user_id}")
+def delete_user_account(user_id: str):
+    success = db.delete_user_account(user_id)
+    if not success:
+        raise HTTPException(status_code=404, detail="User not found")
+    return {"message": "Account deleted successfully"}
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8085)

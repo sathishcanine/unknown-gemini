@@ -236,6 +236,13 @@ class AppState extends ChangeNotifier {
     notifyListeners();
   }
 
+  void navigateToProfile() {
+    _activeScreen = 'profile';
+    _activeSubject = null;
+    _activeTopic = null;
+    notifyListeners();
+  }
+
   // Statistics calculation by syncing with Backend API
   Future<void> syncStatsWithBackend() async {
     try {
@@ -415,5 +422,19 @@ class AppState extends ChangeNotifier {
     _selectedAnswers.clear();
     await saveLocalPreferences();
     notifyListeners();
+  }
+
+  Future<void> deleteUserAccount() async {
+    _loading = true;
+    notifyListeners();
+    try {
+      await _apiService.deleteAccount(_userEmail);
+      print("Account deleted successfully on server database.");
+    } catch (e) {
+      print("Error deleting account from server: $e");
+    } finally {
+      _loading = false;
+      await signOut();
+    }
   }
 }

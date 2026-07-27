@@ -106,4 +106,11 @@ class ApiService {
       throw Exception('Failed to load user history: ${response.statusCode}');
     }
   }
+
+  Future<void> deleteAccount(String userId) async {
+    final response = await http.delete(Uri.parse('$_baseUrl/api/users/$userId'));
+    if (response.statusCode != 200) {
+      throw Exception('Failed to delete account: ${response.statusCode}');
+    }
+  }
 }

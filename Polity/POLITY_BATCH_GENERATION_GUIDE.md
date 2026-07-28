@@ -12,7 +12,7 @@ When you return and want to generate new batches for a Polity topic, copy-paste 
 > "I want to generate **Batch [X]** for the topic **[Topic Name]** in Indian Polity. 
 > 1. Read `Polity/POLITY_BATCH_GENERATION_GUIDE.md` for the polity generation rules and guardrails.
 > 2. Load `Polity/polity_questions_db.json` and gather all existing questions (both PYQs and practice batches) under the topic '[Topic Name]' to use as exclusions.
-> 3. Use the facts in the `Current Affairs : February 2026` or the respective topic key in `Polity/polity_facts.json`.
+> 3. Use the facts in the or the respective topic key in `Polity/polity_facts.json`.
 > 4. Generate 34 questions, prune to 30 (15 Medium, 15 Hard), shuffle, and append to the database."
 
 ### Option B: Start a New Polity Topic from Scratch

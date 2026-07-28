@@ -92,6 +92,10 @@ class AppState extends ChangeNotifier {
   HistoryEntry? _lastCompletedSession;
   HistoryEntry? get lastCompletedSession => _lastCompletedSession;
 
+  // Per-question timing instrumentation (used for admin analytics)
+  final Map<int, DateTime> _questionFirstViewedAt = {};
+  final Map<int, int> _questionResponseTimeMs = {};
+
   AppState() {
     _init();
   }
@@ -115,6 +119,21 @@ class AppState extends ChangeNotifier {
 
     _loading = false;
     notifyListeners();
+
+    // Fire-and-forget analytics; never blocks app startup.
+    unawaited(_logAppOpenAndSyncDevice());
+  }
+
+  Future<void> _logAppOpenAndSyncDevice() async {
+    try {
+      // Only log app_open for DAU/engagement. Device metadata (platform /
+      // OS / app version / IP country) is intentionally not collected.
+      if (_isAuthenticated && _userEmail != 'test_user') {
+        await _apiService.logEvent(_userEmail, 'app_open');
+      }
+    } catch (e) {
+      debugPrint('Analytics init failed silently: $e');
+    }
   }
 
   // Load preferences from local storage
@@ -271,6 +290,15 @@ class AppState extends ChangeNotifier {
     _activeScreen = 'quiz';
     _timeTakenSeconds = 0;
 
+    _questionFirstViewedAt.clear();
+    _questionResponseTimeMs.clear();
+    _questionFirstViewedAt[0] = DateTime.now();
+
+    unawaited(_apiService.logEvent(_userEmail, 'quiz_started', {
+      'topic': _resolveTopicName(),
+      'question_count': questions.length,
+    }));
+
     if (timed) {
       _remainingSeconds = 1800; // 30 mins
       _quizTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
@@ -292,12 +320,22 @@ class AppState extends ChangeNotifier {
 
   void selectOption(String optionKey) {
     _selectedAnswers[_currentQuestionIndex] = optionKey;
+
+    // Record time-to-first-answer for this question, used for admin analytics.
+    if (!_questionResponseTimeMs.containsKey(_currentQuestionIndex)) {
+      final firstViewed = _questionFirstViewedAt[_currentQuestionIndex];
+      if (firstViewed != null) {
+        _questionResponseTimeMs[_currentQuestionIndex] =
+            DateTime.now().difference(firstViewed).inMilliseconds;
+      }
+    }
     notifyListeners();
   }
 
   void nextQuestion() {
     if (_currentQuestionIndex < _quizQuestions.length - 1) {
       _currentQuestionIndex++;
+      _questionFirstViewedAt.putIfAbsent(_currentQuestionIndex, () => DateTime.now());
       notifyListeners();
     }
   }
@@ -305,15 +343,39 @@ class AppState extends ChangeNotifier {
   void prevQuestion() {
     if (_currentQuestionIndex > 0) {
       _currentQuestionIndex--;
+      _questionFirstViewedAt.putIfAbsent(_currentQuestionIndex, () => DateTime.now());
       notifyListeners();
     }
   }
 
   void quitQuiz() {
+    final topic = _resolveTopicName();
+    final answered = _selectedAnswers.values.where((v) => v != 'E' && v.isNotEmpty).length;
+    unawaited(_apiService.logEvent(_userEmail, 'quiz_abandoned', {
+      'topic': topic,
+      'answered_count': answered,
+      'question_count': _quizQuestions.length,
+      'time_taken': _timeTakenSeconds,
+    }));
+
     _quizTimer?.cancel();
     _quizInProgress = false;
     _activeScreen = 'topic_detail';
     notifyListeners();
+  }
+
+  /// Single source of truth for the "topic" label attached to quiz_started /
+  /// quiz_completed events and saved sessions, so admin analytics can match
+  /// funnel events (started vs completed) by an identical topic string.
+  String _resolveTopicName() {
+    return _activeTopic ??
+        (_activeSubject == 'Economy'
+            ? 'Indian Economy'
+            : _activeSubject == 'Polity'
+                ? 'Indian Polity'
+                : _activeSubject == 'Policy'
+                    ? 'Policy Notes'
+                    : 'Current Affairs');
   }
 
   // Submit test session
@@ -333,14 +395,7 @@ class AppState extends ChangeNotifier {
     }
 
     final newSession = HistoryEntry(
-      topic: _activeTopic ??
-          (_activeSubject == 'Economy'
-              ? 'Indian Economy'
-              : _activeSubject == 'Polity'
-                  ? 'Indian Polity'
-                  : _activeSubject == 'Policy'
-                      ? 'Policy Notes'
-                      : 'Current Affairs'),
+      topic: _resolveTopicName(),
       group: _activeGroup,
       correctCount: correct,
       totalCount: _quizQuestions.length,
@@ -360,6 +415,7 @@ class AppState extends ChangeNotifier {
         'question_id': _quizQuestions[i].id ?? 0,
         'selected_option': selected,
         'is_correct': selected == _quizQuestions[i].correctOption,
+        'response_time_ms': _questionResponseTimeMs[i],
       });
     }
 
@@ -368,7 +424,7 @@ class AppState extends ChangeNotifier {
       topicName: newSession.topic,
       correctCount: correct,
       totalCount: _quizQuestions.length,
-      timeTaken: 120,
+      timeTaken: _timeTakenSeconds,
       answers: backendAnswers,
     ).then((res) {
       print("Session saved successfully on server. ID: ${res['session_id']}");
@@ -397,6 +453,13 @@ class AppState extends ChangeNotifier {
         _isAuthenticated = true;
         _activeScreen = 'home';
         await saveLocalPreferences();
+
+        unawaited(_apiService.logEvent(_userEmail, 'sign_in', {'method': 'google'}));
+        unawaited(_apiService.updateDeviceInfo(
+          userId: _userEmail,
+          displayName: googleUser.displayName,
+        ));
+        unawaited(_logAppOpenAndSyncDevice());
       }
     } catch (e) {
       print("Google Sign-In Error: $e");
@@ -408,7 +471,11 @@ class AppState extends ChangeNotifier {
   }
 
   Future<void> signOut() async {
+    final email = _userEmail;
     try {
+      if (_isAuthenticated && email != 'test_user') {
+        unawaited(_apiService.logEvent(email, 'sign_out'));
+      }
       await GoogleSignIn.instance.signOut();
     } catch (e) {
       print("Google Sign-Out Error: $e");

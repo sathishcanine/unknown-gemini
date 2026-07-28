@@ -1,14 +1,16 @@
-from fastapi import FastAPI, Query, HTTPException
+from fastapi import FastAPI, Query, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Optional
 import os
 import json
+import datetime
 
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 
 from database import db
+from admin_auth import hash_password, verify_password, create_access_token, require_admin
 
 # Resolve project root directory path
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -28,6 +30,15 @@ app.add_middleware(
 @app.get("/")
 def read_index():
     return FileResponse(os.path.join(ROOT_DIR, "index.html"))
+
+@app.get("/privacy")
+@app.get("/privacy-policy")
+def read_privacy():
+    return FileResponse(os.path.join(ROOT_DIR, "privacy.html"))
+
+@app.get("/delete-account")
+def read_delete_account():
+    return FileResponse(os.path.join(ROOT_DIR, "delete-account.html"))
 
 @app.get("/app.js")
 def read_js():
@@ -88,6 +99,7 @@ class AnswerSubmitModel(BaseModel):
     question_id: int
     selected_option: str
     is_correct: bool
+    response_time_ms: Optional[int] = None
 
 class SessionSubmitRequest(BaseModel):
     user_id: str
@@ -246,6 +258,173 @@ def delete_user_account(user_id: str):
     if not success:
         raise HTTPException(status_code=404, detail="User not found")
     return {"message": "Account deleted successfully"}
+
+
+# =============================================================================
+# APP EVENT TRACKING (used by the Flutter app for analytics instrumentation)
+# =============================================================================
+
+class EventLogRequest(BaseModel):
+    user_id: str
+    event_type: str
+    meta_data: Optional[Dict] = None
+
+@app.post("/api/events")
+def log_event(req: EventLogRequest):
+    db.log_event(req.user_id, req.event_type, req.meta_data)
+    return {"status": "ok"}
+
+
+class DeviceInfoRequest(BaseModel):
+    user_id: str
+    display_name: Optional[str] = None
+
+@app.post("/api/users/device-info")
+def update_device_info(req: DeviceInfoRequest):
+    # Used only for optional profile fields (e.g. display_name after Google Sign-In).
+    # Intentionally does NOT collect platform/OS/app version or IP-derived country.
+    db.update_user_device_info(
+        req.user_id,
+        display_name=req.display_name,
+    )
+    return {"status": "ok"}
+
+
+# =============================================================================
+# ADMIN PANEL: AUTH
+# =============================================================================
+
+class AdminLoginRequest(BaseModel):
+    username: str
+    password: str
+
+class AdminLoginResponse(BaseModel):
+    access_token: str
+    token_type: str = "bearer"
+
+# Prefixed /api/admin/* so the React SPA can own /admin/* without route clashes
+@app.post("/api/admin/auth/login", response_model=AdminLoginResponse)
+def admin_login(req: AdminLoginRequest):
+    admin = db.get_admin_by_username(req.username)
+    if not admin or not verify_password(req.password, admin["password_hash"]):
+        raise HTTPException(status_code=401, detail="Invalid username or password")
+    db.touch_admin_login(req.username)
+    token = create_access_token(req.username)
+    return AdminLoginResponse(access_token=token)
+
+@app.get("/api/admin/auth/me")
+def admin_me(admin_username: str = Depends(require_admin)):
+    return {"username": admin_username}
+
+
+# =============================================================================
+# ADMIN PANEL: ANALYTICS
+# =============================================================================
+
+def _default_dates(start: Optional[str], end: Optional[str]):
+    from database import ist_today_iso
+    today = ist_today_iso()
+    return start or today, end or today
+
+@app.get("/api/admin/dashboard/summary")
+def admin_dashboard_summary(
+    start: Optional[str] = None,
+    end: Optional[str] = None,
+    compare_start: Optional[str] = None,
+    compare_end: Optional[str] = None,
+    admin_username: str = Depends(require_admin),
+):
+    start, end = _default_dates(start, end)
+    return db.get_dashboard_summary(start, end, compare_start, compare_end)
+
+@app.get("/api/admin/users")
+def admin_users_list(
+    start: Optional[str] = None,
+    end: Optional[str] = None,
+    search: Optional[str] = None,
+    sort_by: str = "last_active_at",
+    page: int = 1,
+    page_size: int = 20,
+    admin_username: str = Depends(require_admin),
+):
+    start, end = _default_dates(start, end)
+    return db.get_users_list(start, end, search=search, sort_by=sort_by, page=page, page_size=page_size)
+
+@app.get("/api/admin/users/{user_id}")
+def admin_user_detail(user_id: str, admin_username: str = Depends(require_admin)):
+    detail = db.get_user_detail(user_id)
+    if not detail:
+        raise HTTPException(status_code=404, detail="User not found")
+    return detail
+
+@app.get("/api/admin/users/{user_id}/timeline")
+def admin_user_timeline(
+    user_id: str,
+    page: int = 1,
+    page_size: int = 30,
+    admin_username: str = Depends(require_admin),
+):
+    return db.get_user_timeline(user_id, page=page, page_size=page_size)
+
+@app.get("/api/admin/topics")
+def admin_topic_analytics(
+    start: Optional[str] = None,
+    end: Optional[str] = None,
+    admin_username: str = Depends(require_admin),
+):
+    start, end = _default_dates(start, end)
+    return db.get_topic_analytics(start, end)
+
+@app.get("/api/admin/questions")
+def admin_question_analytics(
+    start: Optional[str] = None,
+    end: Optional[str] = None,
+    topic_id: Optional[int] = None,
+    sort_by: str = "attempts",
+    page: int = 1,
+    page_size: int = 25,
+    admin_username: str = Depends(require_admin),
+):
+    start, end = _default_dates(start, end)
+    return db.get_question_analytics(start, end, topic_id=topic_id, sort_by=sort_by, page=page, page_size=page_size)
+
+
+@app.get("/api/admin/leaderboard")
+def admin_leaderboard(
+    start: Optional[str] = None,
+    end: Optional[str] = None,
+    limit: int = 20,
+    admin_username: str = Depends(require_admin),
+):
+    start, end = _default_dates(start, end)
+    return db.get_leaderboard(start, end, limit=min(max(limit, 1), 100))
+
+
+# =============================================================================
+# ADMIN PANEL: SPA (built files in admin-panel/dist)
+# =============================================================================
+
+ADMIN_DIST = os.path.join(ROOT_DIR, "admin-panel", "dist")
+
+@app.get("/admin")
+@app.get("/admin/")
+def admin_spa_root():
+    index = os.path.join(ADMIN_DIST, "index.html")
+    if not os.path.isfile(index):
+        raise HTTPException(status_code=404, detail="Admin panel not built yet")
+    return FileResponse(index)
+
+@app.get("/admin/{full_path:path}")
+def admin_spa_assets(full_path: str):
+    # Serve real static assets when they exist; otherwise SPA fallback for client routes
+    candidate = os.path.join(ADMIN_DIST, full_path)
+    if os.path.isfile(candidate):
+        return FileResponse(candidate)
+    index = os.path.join(ADMIN_DIST, "index.html")
+    if not os.path.isfile(index):
+        raise HTTPException(status_code=404, detail="Admin panel not built yet")
+    return FileResponse(index)
+
 
 if __name__ == "__main__":
     import uvicorn

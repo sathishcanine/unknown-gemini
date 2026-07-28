@@ -8,7 +8,7 @@ import '../models/history.dart';
 
 class ApiConfig {
   static String get baseUrl {
-    return "http://103.181.177.31:8085";
+    return "https://103-181-177-31.nip.io";
   }
 }
 
@@ -111,6 +111,42 @@ class ApiService {
     final response = await http.delete(Uri.parse('$_baseUrl/api/users/$userId'));
     if (response.statusCode != 200) {
       throw Exception('Failed to delete account: ${response.statusCode}');
+    }
+  }
+
+  /// Fire-and-forget analytics event logging. Failures are swallowed so
+  /// that analytics never impacts the user-facing experience.
+  Future<void> logEvent(String userId, String eventType, [Map<String, dynamic>? metaData]) async {
+    try {
+      await http.post(
+        Uri.parse('$_baseUrl/api/events'),
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode({
+          'user_id': userId,
+          'event_type': eventType,
+          'meta_data': metaData ?? {},
+        }),
+      );
+    } catch (e) {
+      debugPrint('logEvent($eventType) failed silently: $e');
+    }
+  }
+
+  Future<void> updateDeviceInfo({
+    required String userId,
+    String? displayName,
+  }) async {
+    try {
+      await http.post(
+        Uri.parse('$_baseUrl/api/users/device-info'),
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode({
+          'user_id': userId,
+          if (displayName != null) 'display_name': displayName,
+        }),
+      );
+    } catch (e) {
+      debugPrint('updateDeviceInfo failed silently: $e');
     }
   }
 }

@@ -32,22 +32,13 @@ class _HomeScreenState extends State<HomeScreen> {
         automaticallyImplyLeading: false,
         title: Row(
           children: [
-            Container(
-              padding: const EdgeInsets.all(8),
-              decoration: BoxDecoration(
-                gradient: const LinearGradient(
-                  colors: [Color(0xFF3B82F6), Color(0xFF8B5CF6)],
-                ),
-                borderRadius: BorderRadius.circular(10),
-              ),
-              child: const Text(
-                'TN',
-                style: TextStyle(
-                  fontFamily: 'Outfit',
-                  fontWeight: FontWeight.bold,
-                  fontSize: 16,
-                  color: Colors.white,
-                ),
+            ClipRRect(
+              borderRadius: BorderRadius.circular(10),
+              child: Image.asset(
+                'assets/icon/app_icon.png',
+                width: 36,
+                height: 36,
+                fit: BoxFit.cover,
               ),
             ),
             const SizedBox(width: 12),

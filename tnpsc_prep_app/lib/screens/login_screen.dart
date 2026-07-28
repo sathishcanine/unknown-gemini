@@ -113,10 +113,10 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                   children: [
                     const Spacer(),
 
-                    // Logo / Shield Icon
+                    // App Logo
                     Center(
                       child: Container(
-                        padding: const EdgeInsets.all(24),
+                        padding: const EdgeInsets.all(6),
                         decoration: BoxDecoration(
                           shape: BoxShape.circle,
                           color: const Color(0xFF131A2A),
@@ -132,9 +132,14 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                             ),
                           ],
                         ),
-                        child: const Text(
-                          '🏛️',
-                          style: TextStyle(fontSize: 48),
+                        child: ClipRRect(
+                          borderRadius: BorderRadius.circular(90),
+                          child: Image.asset(
+                            'assets/icon/app_icon.png',
+                            width: 88,
+                            height: 88,
+                            fit: BoxFit.cover,
+                          ),
                         ),
                       ),
                     ),

@@ -38,7 +38,7 @@ class TNPSCPrepApp extends StatelessWidget {
   Widget build(BuildContext context) {
     final appState = Provider.of<AppState>(context);
     return MaterialApp(
-      title: 'TNPSC Prep',
+      title: 'ACE TNPSC Unlimited Questions',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.light().copyWith(
         scaffoldBackgroundColor: const Color(0xFFF1F5F9),

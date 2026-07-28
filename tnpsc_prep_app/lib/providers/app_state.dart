@@ -375,7 +375,9 @@ class AppState extends ChangeNotifier {
                 ? 'Indian Polity'
                 : _activeSubject == 'Policy'
                     ? 'Policy Notes'
-                    : 'Current Affairs');
+                    : _activeSubject == 'History'
+                        ? 'Indian History'
+                        : 'Current Affairs');
   }
 
   // Submit test session

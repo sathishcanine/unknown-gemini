@@ -158,6 +158,7 @@ def generate_batch_for_topic(topic_name, facts, existing_db, batch_name):
     all_qs = []
     for q in (medium_qs + hard_qs):
         q["source_exam"] = f"Practice - {batch_name}"
+        q["batch"] = batch_name  # e.g. "Batch 1" — required for app grouping (30 Qs/batch)
         all_qs.append(q)
         
     final_batch = prune_and_select(all_qs, 30)

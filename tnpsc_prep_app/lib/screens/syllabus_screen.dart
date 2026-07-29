@@ -23,7 +23,9 @@ class SyllabusScreen extends StatelessWidget {
                 ? 'Policy Notes'
                 : appState.activeSubject == 'History'
                     ? 'Indian History'
-                    : 'Current Affairs';
+                    : appState.activeSubject == 'INM'
+                        ? 'Indian National Movement'
+                        : 'Current Affairs';
 
     return Scaffold(
       backgroundColor: scaffoldBg,

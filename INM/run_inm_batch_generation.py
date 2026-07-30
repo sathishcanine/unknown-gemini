@@ -9,7 +9,25 @@ topics = [
     "Early Uprising - Tribal Rebellions",
     "Early Uprising - Vellore Revolt",
     "Early Uprising - 1857 Great Revolt",
-    "Early Uprising - Effects of British Rule"
+    "Early Uprising - Effects of British Rule",
+    "National Renaissance",
+    "INC, Growth of Satyagraha & Militants",
+    "Communism & Partition",
+    "Role of TN in Freedom Struggle",
+    "Leaders - Dr. B.R. Ambedkar",
+    "Leaders - Gandhi",
+    "Leaders - Nehru",
+    "Leaders - Bhagat Singh",
+    "Leaders - Bose",
+    "Leaders - Maulana Abul Kalam Azad",
+    "Leaders - Gokhale",
+    "Leaders - Bharathiyar",
+    "Leaders - V.O.C",
+    "Leaders - Kamarajar",
+    "Leaders - Periyar",
+    "Leaders - Rajaji",
+    "Leaders - Other Leaders",
+    "Newspaper, Magazine, Books"
 ]
 
 def check_batch_exists(topic, batch_num):
@@ -30,7 +48,7 @@ def check_batch_exists(topic, batch_num):
         return False
 
 def main():
-    print("Starting practice question generation runner for first 5 topics...")
+    print("Starting practice question generation runner for INM syllabus topics...")
     
     for topic in topics:
         print(f"\n==========================================")
@@ -46,19 +64,17 @@ def main():
             
             cmd = [
                 "python3",
+                "-u",
                 "INM/generate_inm_questions.py",
                 "--topic", topic,
                 "--batch", str(batch_num)
             ]
             
-            # Execute and pipe output in real-time
+            # Execute and stream output in real-time
             try:
-                result = subprocess.run(cmd, check=True, capture_output=True, text=True)
-                print(result.stdout)
+                subprocess.run(cmd, check=True)
             except subprocess.CalledProcessError as e:
-                print(f"  ERROR generating Batch {batch_num} for '{topic}':")
-                print(e.stdout)
-                print(e.stderr)
+                print(f"  ERROR generating Batch {batch_num} for '{topic}'")
                 # We stop execution on first error to let user debug
                 return
                 

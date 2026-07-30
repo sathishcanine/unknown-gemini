@@ -27,7 +27,12 @@ def load_existing_questions(db_path, topic):
 
 def call_gemini_generation(topic, batch_num, facts, exclusion_texts, api_key):
     """Calls Gemini to generate 34 practice questions (18 Medium, 16 Hard) based on facts."""
-    facts_formatted = "\n".join([f"- {idx+1}. {f['fact_en']}" for idx, f in enumerate(facts)])
+    # If there are too many facts, randomly sample 80 facts to keep prompt size manageable
+    sampled_facts = facts
+    if len(facts) > 80:
+        # Seed random for variety
+        sampled_facts = random.sample(facts, 80)
+    facts_formatted = "\n".join([f"- {idx+1}. {f['fact_en']}" for idx, f in enumerate(sampled_facts)])
     
     exclusions_formatted = ""
     if exclusion_texts:
@@ -35,7 +40,7 @@ def call_gemini_generation(topic, batch_num, facts, exclusion_texts, api_key):
 
     prompt = f"""
 You are a senior exam compiler for the TNPSC Group I/II Civil Services.
-Your task is to generate exactly 34 practice questions (18 Medium, 16 Hard) for the topic "{topic}" under "Practice Batch {batch_num}".
+Your task is to generate exactly 17 practice questions (9 Medium, 8 Hard) for the topic "{topic}" under "Practice Batch {batch_num}".
 
 Ground Truth Facts:
 {facts_formatted}
@@ -43,7 +48,7 @@ Ground Truth Facts:
 
 Rules for Question Generation:
 1. Base every question strictly on the Ground Truth Facts provided. Mention the source fact in the "source_fact" key.
-2. Generate exactly 18 "medium" and 16 "hard" difficulty questions.
+2. Generate exactly 9 "medium" and 8 "hard" difficulty questions.
 3. Every question must be fully bilingual (English and Tamil).
 4. Target formats:
    - Match the following questions: Must always be a 4x4 matching layout (exactly 4 items in Column A and exactly 4 items in Column B). You MUST format the question text using this exact two-column HTML layout:
@@ -52,10 +57,10 @@ Rules for Question Generation:
    - Statement-based questions: Present 2 or 3 statements, followed by "Which of the statements given above is/are correct?".
    - Standard multiple-choice questions with plausible distractors. Distractors must be highly plausible, using adjacent articles, similar legal cases, or realistic dates/statistics to make them challenging.
 5. Advanced Formats:
-   - Paragraph-Based Inference Questions (Min 6 per batch): Must feature a 2-3 sentence data-rich premise. Options must test logical deduction rather than rote memory (e.g., using logical qualifiers like 'only', 'more than', 'less than').
-   - Contextual Connect Questions (Min 5 per batch): Hook core historical events, acts, journals, or organizations to their stated administrative, cultural, or social objectives.
+   - Paragraph-Based Inference Questions (Min 3 per call): Must feature a 2-3 sentence data-rich premise. Options must test logical deduction rather than rote memory (e.g., using logical qualifiers like 'only', 'more than', 'less than').
+   - Contextual Connect Questions (Min 2 per call): Hook core historical events, acts, journals, or organizations to their stated administrative, cultural, or social objectives.
 6. JSON Output Format:
-   Output a raw JSON array of objects. Do not wrap in markdown or include introductions. Each object must have these exact keys:
+   Output a raw JSON array of objects. Do not wrap in markdown or include introductions. You MUST strictly escape all double quotes inside JSON string values as \" (e.g. He said \"Freedom is my birthright\" instead of He said "Freedom is my birthright") to prevent syntax errors. Each object must have these exact keys:
    - "question_en": Question text in English
    - "question_ta": Question text in Tamil
    - "options_en": Array of 4 options in English
@@ -90,12 +95,14 @@ Ensure the combined length of question + explanation is substantial (minimum 180
     
     # 5 attempts with exponential backoff on 429
     retries = 5
-    delay = 6
     attempt = 0
+    rate_limit_retries = 4
+    rate_limit_attempt = 0
+    delay = 10
     while attempt < retries:
         req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers, method="POST")
         try:
-            with urllib.request.urlopen(req, timeout=90) as response:
+            with urllib.request.urlopen(req, timeout=180) as response:
                 res_data = response.read().decode("utf-8")
                 res_json = json.loads(res_data)
                 raw_text = res_json["candidates"][0]["content"]["parts"][0]["text"].strip()
@@ -115,9 +122,15 @@ Ensure the combined length of question + explanation is substantial (minimum 180
                 return json.loads(raw_text)
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                print(f"    Rate limited (429). Retrying in {delay}s...")
+                rate_limit_attempt += 1
+                error_body = e.read().decode('utf-8', errors='ignore')
+                print(f"    Rate limited (429): {error_body}")
+                if rate_limit_attempt >= rate_limit_retries:
+                    print("    Rate limited too many times. Failing attempt.")
+                    break
+                print(f"    Retrying in {delay}s...")
                 time.sleep(delay)
-                delay *= 2
+                delay = min(delay * 2, 45)
             else:
                 attempt += 1
                 print(f"    HTTP Error {e.code}: {e.read().decode('utf-8', errors='ignore')}")
@@ -170,7 +183,7 @@ def main():
     valid_medium = []
     valid_hard = []
     
-    attempts = 3
+    attempts = 5
     for attempt in range(attempts):
         print(f"Calling Gemini to generate practice questions (Attempt {attempt+1}/{attempts})...")
         raw_questions = call_gemini_generation(args.topic, args.batch, all_topic_facts, exclusion_texts, api_key)
@@ -180,6 +193,14 @@ def main():
             # Check keys
             required_keys = ["question_en", "question_ta", "options_en", "options_ta", "answer_en", "answer_ta", "explanation_en", "explanation_ta", "difficulty"]
             if not all(k in q for k in required_keys):
+                continue
+
+            # Verify options are valid lists of length 4
+            if not isinstance(q["options_en"], list) or not isinstance(q["options_ta"], list):
+                print("  Discarding question: options_en and options_ta must be JSON lists.")
+                continue
+            if len(q["options_en"]) != 4 or len(q["options_ta"]) != 4:
+                print("  Discarding question: options_en and options_ta must have exactly 4 items.")
                 continue
                 
             # Verify answer exists in options
@@ -269,7 +290,8 @@ def main():
         if len(valid_medium) + len(valid_hard) >= 30:
             break
             
-        time.sleep(2)
+        print("  Sleeping 10s before the next generation attempt to cool down API rate limits...")
+        time.sleep(10)
 
     # We need at least 30 valid questions in total to select a full batch
     if len(valid_medium) + len(valid_hard) < 30:

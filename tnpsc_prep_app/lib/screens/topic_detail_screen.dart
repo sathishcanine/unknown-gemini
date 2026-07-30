@@ -67,7 +67,9 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                     ? 'Indian History'
                     : appState.activeSubject == 'INM'
                         ? 'Indian National Movement'
-                        : 'Current Affairs';
+                        : appState.activeSubject == 'Chemistry'
+                            ? 'Chemistry'
+                            : 'Current Affairs';
     final topicName = appState.activeTopic ?? subjectName;
 
     // Group questions by type / batch

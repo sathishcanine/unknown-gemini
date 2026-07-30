@@ -379,7 +379,9 @@ class AppState extends ChangeNotifier {
                         ? 'Indian History'
                         : _activeSubject == 'INM'
                             ? 'Indian National Movement'
-                            : 'Current Affairs');
+                            : _activeSubject == 'Chemistry'
+                                ? 'Chemistry'
+                                : 'Current Affairs');
   }
 
   // Submit test session

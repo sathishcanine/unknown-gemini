@@ -158,7 +158,35 @@ class QuestionDatabase:
         finally:
             self.release_conn(conn)
 
-    def save_test_session(self, user_id, topic_name, correct_count, total_count, time_taken, answers):
+    def _resolve_user_uuid(self, cur, user_id):
+        """Resolve or create a users.id for an email / uuid-like user_id."""
+        user_uuid = None
+        is_uuid = False
+        try:
+            import uuid
+            uuid.UUID(str(user_id))
+            is_uuid = True
+        except ValueError:
+            pass
+
+        if is_uuid:
+            try:
+                cur.execute("SELECT id FROM users WHERE id = %s;", (user_id,))
+                user_row = cur.fetchone()
+                if user_row:
+                    return user_row[0]
+            except Exception:
+                pass
+
+        cur.execute("""
+            INSERT INTO users (display_name, email)
+            VALUES (%s, %s)
+            ON CONFLICT (email) DO UPDATE SET display_name = EXCLUDED.display_name
+            RETURNING id;
+        """, ("Test User", f"user_{user_id}@example.com" if "@" not in str(user_id) else user_id))
+        return cur.fetchone()[0]
+
+    def save_test_session(self, user_id, topic_name, correct_count, total_count, time_taken, answers, batch=None):
         """
         Saves a user test session and individual question responses into the PostgreSQL database.
         """
@@ -175,6 +203,12 @@ class QuestionDatabase:
                     subject_id = "Policy"
                 elif "Current" in topic_name:
                     subject_id = "Current Affairs"
+                elif "History" in topic_name:
+                    subject_id = "History"
+                elif "Chemistry" in topic_name:
+                    subject_id = "Chemistry"
+                elif "Movement" in topic_name or topic_name.startswith("INM"):
+                    subject_id = "INM"
 
                 cur.execute("SELECT id FROM topics WHERE name = %s;", (topic_name,))
                 topic_row = cur.fetchone()
@@ -186,38 +220,32 @@ class QuestionDatabase:
                     topic_id = cur.fetchone()[0]
 
                 # 2. Ensure user exists (auto-register/upsert user for testing/auth convenience)
-                user_uuid = None
-                is_uuid = False
-                try:
-                    import uuid
-                    uuid.UUID(str(user_id))
-                    is_uuid = True
-                except ValueError:
-                    pass
+                user_uuid = self._resolve_user_uuid(cur, user_id)
 
-                if is_uuid:
-                    try:
-                        cur.execute("SELECT id FROM users WHERE id = %s;", (user_id,))
-                        user_row = cur.fetchone()
-                        if user_row:
-                            user_uuid = user_row[0]
-                    except Exception:
-                        pass
-
-                if not user_uuid:
-                    cur.execute("""
-                        INSERT INTO users (display_name, email) 
-                        VALUES (%s, %s) 
-                        ON CONFLICT (email) DO UPDATE SET display_name = EXCLUDED.display_name
-                        RETURNING id;
-                    """, ("Test User", f"user_{user_id}@example.com" if "@" not in user_id else user_id))
-                    user_uuid = cur.fetchone()[0]
+                # Infer batch from answers when client did not send one.
+                session_batch = (batch or "").strip() or None
+                if not session_batch and answers:
+                    q_ids = [a.get("question_id") for a in answers if a.get("question_id")]
+                    if q_ids:
+                        cur.execute("""
+                            SELECT q.batch
+                            FROM questions q
+                            WHERE q.id = ANY(%s)
+                              AND LOWER(COALESCE(q.type, '')) <> 'pyq'
+                              AND NULLIF(TRIM(q.batch), '') IS NOT NULL
+                            GROUP BY q.batch
+                            ORDER BY COUNT(*) DESC
+                            LIMIT 1;
+                        """, (q_ids,))
+                        row = cur.fetchone()
+                        if row and row[0]:
+                            session_batch = row[0]
 
                 # 3. Save Test Session
                 cur.execute("""
-                    INSERT INTO test_sessions (user_id, topic_id, correct_count, total_count, time_taken)
-                    VALUES (%s, %s, %s, %s, %s) RETURNING id;
-                """, (user_uuid, topic_id, correct_count, total_count, time_taken))
+                    INSERT INTO test_sessions (user_id, topic_id, correct_count, total_count, time_taken, batch)
+                    VALUES (%s, %s, %s, %s, %s, %s) RETURNING id;
+                """, (user_uuid, topic_id, correct_count, total_count, time_taken, session_batch))
                 session_id = cur.fetchone()[0]
 
                 # 4. Save individual user responses
@@ -239,6 +267,7 @@ class QuestionDatabase:
                 """, (user_uuid, "quiz_completed", json.dumps({
                     "session_id": session_id,
                     "topic": topic_name,
+                    "batch": session_batch,
                     "accuracy": (correct_count / total_count * 100) if total_count > 0 else 0
                 })))
 
@@ -250,6 +279,81 @@ class QuestionDatabase:
             raise e
         finally:
             conn.autocommit = True
+            self.release_conn(conn)
+
+    def get_completed_batches(self, user_id, topic_name):
+        """
+        Return practice batches the user has completed for a topic.
+        Uses test_sessions.batch, with a fallback join through answered questions.
+        """
+        conn = self.get_conn()
+        try:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
+                email = f"user_{user_id}@example.com" if "@" not in str(user_id) else user_id
+                is_uuid = False
+                try:
+                    import uuid
+                    uuid.UUID(str(user_id))
+                    is_uuid = True
+                except ValueError:
+                    pass
+
+                if is_uuid:
+                    cur.execute("SELECT id FROM users WHERE id = %s;", (user_id,))
+                else:
+                    cur.execute("SELECT id FROM users WHERE email = %s;", (email,))
+                row = cur.fetchone()
+                if not row:
+                    return []
+                user_uuid = row["id"]
+
+                cur.execute("""
+                    SELECT
+                        ts.id,
+                        ts.batch,
+                        ts.correct_count,
+                        ts.total_count,
+                        ts.timestamp
+                    FROM test_sessions ts
+                    JOIN topics t ON t.id = ts.topic_id
+                    WHERE ts.user_id = %s
+                      AND t.name = %s
+                    ORDER BY ts.timestamp DESC;
+                """, (user_uuid, topic_name))
+                sessions = cur.fetchall()
+
+                completed = {}
+                for s in sessions:
+                    batch = (s.get("batch") or "").strip()
+                    if not batch:
+                        cur.execute("""
+                            SELECT q.batch
+                            FROM user_answers ua
+                            JOIN questions q ON q.id = ua.question_id
+                            WHERE ua.session_id = %s
+                              AND LOWER(COALESCE(q.type, '')) <> 'pyq'
+                              AND NULLIF(TRIM(q.batch), '') IS NOT NULL
+                            GROUP BY q.batch
+                            ORDER BY COUNT(*) DESC
+                            LIMIT 1;
+                        """, (s["id"],))
+                        inferred = cur.fetchone()
+                        batch = (inferred["batch"] if inferred else "") or ""
+                    if not batch:
+                        continue
+                    # Keep latest session stats per batch key.
+                    if batch not in completed:
+                        completed[batch] = {
+                            "batch": batch,
+                            "correct_count": s["correct_count"],
+                            "total_count": s["total_count"],
+                            "timestamp": to_ist_iso(s["timestamp"]),
+                        }
+                return list(completed.values())
+        except Exception as e:
+            print(f"Error in get_completed_batches: {e}")
+            return []
+        finally:
             self.release_conn(conn)
 
     def get_user_history(self, user_id):
@@ -277,7 +381,8 @@ class QuestionDatabase:
                     return []
 
                 cur.execute("""
-                    SELECT ts.id, t.name as topic_name, ts.correct_count, ts.total_count, ts.time_taken, ts.timestamp
+                    SELECT ts.id, t.name as topic_name, ts.correct_count, ts.total_count,
+                           ts.time_taken, ts.timestamp, ts.batch
                     FROM test_sessions ts
                     JOIN topics t ON ts.topic_id = t.id
                     WHERE ts.user_id = %s
@@ -294,6 +399,128 @@ class QuestionDatabase:
         except Exception as e:
             print(f"Error in get_user_history: {e}")
             return []
+        finally:
+            self.release_conn(conn)
+
+    def get_session_detail(self, user_id, session_id):
+        """
+        Full session payload for re-opening Test Results:
+        questions (+ options) in answer order, selected answers, score, time.
+        """
+        conn = self.get_conn()
+        try:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
+                email = f"user_{user_id}@example.com" if "@" not in str(user_id) else user_id
+                is_uuid = False
+                try:
+                    import uuid
+                    uuid.UUID(str(user_id))
+                    is_uuid = True
+                except ValueError:
+                    pass
+
+                if is_uuid:
+                    cur.execute("SELECT id FROM users WHERE id = %s;", (user_id,))
+                else:
+                    cur.execute("SELECT id FROM users WHERE email = %s;", (email,))
+                user_row = cur.fetchone()
+                if not user_row:
+                    return None
+                user_uuid = user_row["id"]
+
+                cur.execute("""
+                    SELECT ts.id, t.name AS topic_name, ts.correct_count, ts.total_count,
+                           ts.time_taken, ts.timestamp, ts.batch, ts.user_id
+                    FROM test_sessions ts
+                    JOIN topics t ON t.id = ts.topic_id
+                    WHERE ts.id = %s AND ts.user_id = %s;
+                """, (session_id, user_uuid))
+                session = cur.fetchone()
+                if not session:
+                    return None
+
+                cur.execute("""
+                    SELECT
+                        ua.id AS answer_row_id,
+                        ua.selected_option,
+                        ua.is_correct,
+                        q.id, q.subject_id AS subject, t.name AS topic,
+                        q.question_en, q.question_ta, q.correct_option,
+                        q.explanation, q.explanation_ta, q.difficulty, q.type,
+                        q.batch, q.source_exam, q.source_fact
+                    FROM user_answers ua
+                    JOIN questions q ON q.id = ua.question_id
+                    JOIN topics t ON t.id = q.topic_id
+                    WHERE ua.session_id = %s
+                    ORDER BY ua.id ASC;
+                """, (session_id,))
+                answer_rows = cur.fetchall()
+
+                questions = []
+                answers = {}
+                q_ids = []
+                for idx, row in enumerate(answer_rows):
+                    q_ids.append(row["id"])
+                    answers[str(idx)] = row["selected_option"] or "E"
+                    questions.append({
+                        "id": row["id"],
+                        "subject": row["subject"],
+                        "topic": row["topic"],
+                        "question_en": row["question_en"],
+                        "question_ta": row["question_ta"],
+                        "correct_option": row["correct_option"],
+                        "explanation": row["explanation"] or "",
+                        "explanation_ta": row["explanation_ta"] or "",
+                        "difficulty": row["difficulty"] or "Medium",
+                        "type": row["type"] or "practice",
+                        "batch": row["batch"] or "",
+                        "source_exam": row["source_exam"] or "",
+                        "source_fact": row["source_fact"] or "",
+                        "group": "Practice",
+                        "options": [],
+                    })
+
+                if q_ids:
+                    cur.execute("""
+                        SELECT question_id, key, text_en, text_ta
+                        FROM options
+                        WHERE question_id = ANY(%s)
+                        ORDER BY question_id, key;
+                    """, (q_ids,))
+                    options_by_q = {}
+                    for opt in cur.fetchall():
+                        qid = opt["question_id"]
+                        options_by_q.setdefault(qid, []).append({
+                            "key": opt["key"],
+                            "text_en": opt["text_en"],
+                            "text_ta": opt["text_ta"],
+                        })
+                    for q in questions:
+                        q["options"] = options_by_q.get(q["id"], [])
+
+                ts = session["timestamp"]
+                timestamp_ms = None
+                if ts is not None:
+                    try:
+                        timestamp_ms = ts.timestamp() * 1000.0
+                    except Exception:
+                        timestamp_ms = None
+
+                return {
+                    "id": session["id"],
+                    "topic_name": session["topic_name"],
+                    "batch": session.get("batch") or "",
+                    "correct_count": session["correct_count"],
+                    "total_count": session["total_count"],
+                    "time_taken": session["time_taken"],
+                    "timestamp": to_ist_iso(session["timestamp"]),
+                    "timestamp_ms": timestamp_ms,
+                    "answers": answers,
+                    "questions": questions,
+                }
+        except Exception as e:
+            print(f"Error in get_session_detail: {e}")
+            return None
         finally:
             self.release_conn(conn)
 

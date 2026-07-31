@@ -25,7 +25,15 @@ class _HomeScreenState extends State<HomeScreen> {
     final cardBg = isDark ? const Color(0xFF131A2A) : Colors.white;
     final scaffoldBg = isDark ? const Color(0xFF0B0F19) : const Color(0xFFF1F5F9);
 
-    return Scaffold(
+    // Swipe/system back should leave a hub category before exiting the app.
+    return PopScope(
+      canPop: _selectedCategory == null,
+      onPopInvokedWithResult: (didPop, result) {
+        if (!didPop && _selectedCategory != null) {
+          setState(() => _selectedCategory = null);
+        }
+      },
+      child: Scaffold(
       backgroundColor: scaffoldBg,
       appBar: AppBar(
         backgroundColor: scaffoldBg,
@@ -243,6 +251,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ],
           ),
         ),
+      ),
       ),
     );
   }

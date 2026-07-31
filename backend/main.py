@@ -109,6 +109,13 @@ class SessionSubmitRequest(BaseModel):
     total_count: int
     time_taken: int
     answers: List[AnswerSubmitModel]
+    batch: Optional[str] = None
+
+class CompletedBatchResponse(BaseModel):
+    batch: str
+    correct_count: int
+    total_count: int
+    timestamp: Optional[str] = None
 
 class SessionSubmitResponse(BaseModel):
     session_id: int
@@ -238,6 +245,19 @@ class SessionHistoryResponse(BaseModel):
     total_count: int
     time_taken: int
     timestamp: str
+    batch: Optional[str] = None
+
+class SessionDetailResponse(BaseModel):
+    id: int
+    topic_name: str
+    batch: Optional[str] = None
+    correct_count: int
+    total_count: int
+    time_taken: int
+    timestamp: Optional[str] = None
+    timestamp_ms: Optional[float] = None
+    answers: Dict[str, str]
+    questions: List[QuestionModel]
 
 @app.post("/api/sessions/submit", response_model=SessionSubmitResponse)
 def submit_session(req: SessionSubmitRequest):
@@ -248,7 +268,8 @@ def submit_session(req: SessionSubmitRequest):
             correct_count=req.correct_count,
             total_count=req.total_count,
             time_taken=req.time_taken,
-            answers=[ans.dict() for ans in req.answers]
+            answers=[ans.dict() for ans in req.answers],
+            batch=req.batch,
         )
         return SessionSubmitResponse(session_id=session_id)
     except Exception as e:
@@ -257,6 +278,17 @@ def submit_session(req: SessionSubmitRequest):
 @app.get("/api/sessions/history", response_model=List[SessionHistoryResponse])
 def get_user_history(user_id: str):
     return db.get_user_history(user_id)
+
+@app.get("/api/sessions/completed-batches", response_model=List[CompletedBatchResponse])
+def get_completed_batches(user_id: str, topic: str = Query(...)):
+    return db.get_completed_batches(user_id, topic)
+
+@app.get("/api/sessions/{session_id}", response_model=SessionDetailResponse)
+def get_session_detail(session_id: int, user_id: str = Query(...)):
+    detail = db.get_session_detail(user_id, session_id)
+    if not detail:
+        raise HTTPException(status_code=404, detail="Session not found")
+    return detail
 
 @app.delete("/api/users/{user_id}")
 def delete_user_account(user_id: str):

@@ -77,6 +77,7 @@ class ApiService {
     required int totalCount,
     required int timeTaken,
     required List<Map<String, dynamic>> answers,
+    String? batch,
   }) async {
     final response = await http.post(
       Uri.parse('$_baseUrl/api/sessions/submit'),
@@ -88,6 +89,7 @@ class ApiService {
         'total_count': totalCount,
         'time_taken': timeTaken,
         'answers': answers,
+        if (batch != null && batch.isNotEmpty) 'batch': batch,
       }),
     );
     if (response.statusCode == 200) {
@@ -104,6 +106,40 @@ class ApiService {
       return data.cast<Map<String, dynamic>>();
     } else {
       throw Exception('Failed to load user history: ${response.statusCode}');
+    }
+  }
+
+  Future<List<Map<String, dynamic>>> getCompletedBatches({
+    required String userId,
+    required String topic,
+  }) async {
+    final uri = Uri.parse('$_baseUrl/api/sessions/completed-batches').replace(
+      queryParameters: {
+        'user_id': userId,
+        'topic': topic,
+      },
+    );
+    final response = await http.get(uri);
+    if (response.statusCode == 200) {
+      List data = jsonDecode(utf8.decode(response.bodyBytes));
+      return data.cast<Map<String, dynamic>>();
+    } else {
+      throw Exception('Failed to load completed batches: ${response.statusCode}');
+    }
+  }
+
+  Future<Map<String, dynamic>> getSessionDetail({
+    required String userId,
+    required int sessionId,
+  }) async {
+    final uri = Uri.parse('$_baseUrl/api/sessions/$sessionId').replace(
+      queryParameters: {'user_id': userId},
+    );
+    final response = await http.get(uri);
+    if (response.statusCode == 200) {
+      return jsonDecode(utf8.decode(response.bodyBytes)) as Map<String, dynamic>;
+    } else {
+      throw Exception('Failed to load session detail: ${response.statusCode}');
     }
   }
 

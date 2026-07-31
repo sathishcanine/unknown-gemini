@@ -140,40 +140,86 @@ class _AppShellState extends State<AppShell> {
     final showBottomNav = active != 'quiz' && active != 'profile';
     final isDark = appState.isDarkMode;
 
-    return Scaffold(
-      body: body,
-      bottomNavigationBar: showBottomNav
-          ? BottomNavigationBar(
-              type: BottomNavigationBarType.fixed,
-              backgroundColor: isDark ? const Color(0xFF131A2A) : Colors.white,
-              selectedItemColor: const Color(0xFF3B82F6),
-              unselectedItemColor: isDark ? Colors.grey : const Color(0xFF64748B),
-              currentIndex: currentIndex,
-              onTap: (index) {
-                if (index == 0) {
-                  appState.navigateToHome();
-                } else if (index == 1) {
-                  appState.navigateToPerformance();
-                } else if (index == 2) {
-                  appState.navigateToAdvisor();
-                }
+    // Custom screen switching (not Navigator routes) — intercept OS back/swipe.
+    final canExitApp = active == 'home';
+
+    return PopScope(
+      canPop: canExitApp,
+      onPopInvokedWithResult: (didPop, result) async {
+        if (didPop) return;
+        if (active == 'quiz') {
+          _showQuitQuizDialog(context, appState);
+          return;
+        }
+        appState.handleSystemBack();
+      },
+      child: Scaffold(
+        body: body,
+        bottomNavigationBar: showBottomNav
+            ? BottomNavigationBar(
+                type: BottomNavigationBarType.fixed,
+                backgroundColor: isDark ? const Color(0xFF131A2A) : Colors.white,
+                selectedItemColor: const Color(0xFF3B82F6),
+                unselectedItemColor: isDark ? Colors.grey : const Color(0xFF64748B),
+                currentIndex: currentIndex,
+                onTap: (index) {
+                  if (index == 0) {
+                    appState.navigateToHome();
+                  } else if (index == 1) {
+                    appState.navigateToPerformance();
+                  } else if (index == 2) {
+                    appState.navigateToAdvisor();
+                  }
+                },
+                items: const [
+                  BottomNavigationBarItem(
+                    icon: Icon(Icons.home),
+                    label: 'Home',
+                  ),
+                  BottomNavigationBarItem(
+                    icon: Icon(Icons.bar_chart),
+                    label: 'Performance',
+                  ),
+                  BottomNavigationBarItem(
+                    icon: Icon(Icons.assistant),
+                    label: 'AI Advisor',
+                  ),
+                ],
+              )
+            : null,
+      ),
+    );
+  }
+
+  void _showQuitQuizDialog(BuildContext context, AppState appState) {
+    showDialog(
+      context: context,
+      builder: (dialogContext) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF0F172A),
+          title: const Text(
+            'Quit Practice?',
+            style: TextStyle(fontFamily: 'Outfit', color: Colors.white),
+          ),
+          content: const Text(
+            'Are you sure you want to end this practice session? Your progress will not be saved.',
+            style: TextStyle(fontFamily: 'Inter', color: Colors.grey),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(dialogContext),
+              child: const Text('Cancel', style: TextStyle(fontFamily: 'Inter', color: Colors.grey)),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.pop(dialogContext);
+                appState.quitQuiz();
               },
-              items: const [
-                BottomNavigationBarItem(
-                  icon: Icon(Icons.home),
-                  label: 'Home',
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(Icons.bar_chart),
-                  label: 'Performance',
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(Icons.assistant),
-                  label: 'AI Advisor',
-                ),
-              ],
-            )
-          : null,
+              child: const Text('Quit', style: TextStyle(fontFamily: 'Inter', color: Colors.red)),
+            ),
+          ],
+        );
+      },
     );
   }
 }

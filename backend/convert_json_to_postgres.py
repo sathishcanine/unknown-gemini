@@ -112,6 +112,7 @@ def main():
         correct_count INTEGER NOT NULL,
         total_count INTEGER NOT NULL,
         time_taken INTEGER NOT NULL,
+        batch VARCHAR(100),
         timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     """)

@@ -3,8 +3,30 @@ import 'package:provider/provider.dart';
 import '../providers/app_state.dart';
 import '../services/api_service.dart';
 
-class PerformanceScreen extends StatelessWidget {
+class PerformanceScreen extends StatefulWidget {
   const PerformanceScreen({Key? key}) : super(key: key);
+
+  @override
+  State<PerformanceScreen> createState() => _PerformanceScreenState();
+}
+
+class _PerformanceScreenState extends State<PerformanceScreen> {
+  int? _openingSessionId;
+
+  Future<void> _openSession(AppState appState, int sessionId) async {
+    if (_openingSessionId != null) return;
+    setState(() => _openingSessionId = sessionId);
+    try {
+      await appState.openSessionResults(sessionId);
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Could not open result: $e')),
+      );
+    } finally {
+      if (mounted) setState(() => _openingSessionId = null);
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -155,11 +177,15 @@ class PerformanceScreen extends StatelessWidget {
                   itemCount: history.length,
                   itemBuilder: (context, index) {
                     final item = history[index];
+                    final sessionId = item['id'] is int
+                        ? item['id'] as int
+                        : int.tryParse('${item['id']}') ?? 0;
                     final topic = item['topic_name'] ?? 'General studies practice';
                     final correct = item['correct_count'] ?? 0;
                     final total = item['total_count'] ?? 0;
                     final time = item['time_taken'] ?? 0;
                     final dateStr = item['timestamp'] ?? '';
+                    final isOpening = _openingSessionId == sessionId;
 
                     String displayDate = 'Just now';
                     try {
@@ -186,6 +212,9 @@ class PerformanceScreen extends StatelessWidget {
                         side: BorderSide(color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04)),
                       ),
                       child: ListTile(
+                        onTap: sessionId > 0 && !isOpening
+                            ? () => _openSession(appState, sessionId)
+                            : null,
                         contentPadding: const EdgeInsets.all(16),
                         leading: Container(
                           padding: const EdgeInsets.all(10),
@@ -230,26 +259,39 @@ class PerformanceScreen extends StatelessWidget {
                             ),
                           ],
                         ),
-                        trailing: Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                          decoration: BoxDecoration(
-                            color: accuracy >= 70
-                                ? const Color(0x2210B981)
-                                : const Color(0x22EF4444),
-                            borderRadius: BorderRadius.circular(8),
-                          ),
-                          child: Text(
-                            '$correct/$total ($accuracy%)',
-                            style: TextStyle(
-                              fontFamily: 'Outfit',
-                              fontWeight: FontWeight.bold,
-                              fontSize: 13,
-                              color: accuracy >= 70
-                                  ? const Color(0xFF10B981)
-                                  : const Color(0xFFEF4444),
-                            ),
-                          ),
-                        ),
+                        trailing: isOpening
+                            ? const SizedBox(
+                                width: 22,
+                                height: 22,
+                                child: CircularProgressIndicator(strokeWidth: 2),
+                              )
+                            : Row(
+                                mainAxisSize: MainAxisSize.min,
+                                children: [
+                                  Container(
+                                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                                    decoration: BoxDecoration(
+                                      color: accuracy >= 70
+                                          ? const Color(0x2210B981)
+                                          : const Color(0x22EF4444),
+                                      borderRadius: BorderRadius.circular(8),
+                                    ),
+                                    child: Text(
+                                      '$correct/$total ($accuracy%)',
+                                      style: TextStyle(
+                                        fontFamily: 'Outfit',
+                                        fontWeight: FontWeight.bold,
+                                        fontSize: 13,
+                                        color: accuracy >= 70
+                                            ? const Color(0xFF10B981)
+                                            : const Color(0xFFEF4444),
+                                      ),
+                                    ),
+                                  ),
+                                  const SizedBox(width: 6),
+                                  Icon(Icons.chevron_right, color: mutedColor, size: 20),
+                                ],
+                              ),
                       ),
                     );
                   },

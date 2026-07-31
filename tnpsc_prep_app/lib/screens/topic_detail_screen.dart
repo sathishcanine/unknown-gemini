@@ -17,6 +17,8 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
   List<Question> _allQuestions = [];
   bool _loading = true;
   String _errorMsg = '';
+  /// Normalized batch key -> latest completion stats from API
+  final Map<String, Map<String, dynamic>> _completedByBatch = {};
 
   @override
   void initState() {
@@ -36,6 +38,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
         subject: appState.activeSubject ?? 'Economy',
         topic: appState.activeTopic,
       );
+      await _loadCompletedBatches(appState);
       setState(() {
         _allQuestions = qs;
         _loading = false;
@@ -46,6 +49,45 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
         _loading = false;
       });
     }
+  }
+
+  Future<void> _loadCompletedBatches(AppState appState) async {
+    final topic = appState.activeTopic;
+    if (topic == null || topic.isEmpty) return;
+
+    // Seed from local history first.
+    _completedByBatch.clear();
+    for (final key in appState.localCompletedBatchKeys(topic)) {
+      final local = appState.latestLocalBatchSession(topic, key);
+      _completedByBatch[key] = {
+        'batch': key,
+        'correct_count': local?.correctCount ?? 0,
+        'total_count': local?.totalCount ?? 0,
+      };
+    }
+
+    try {
+      final remote = await _apiService.getCompletedBatches(
+        userId: appState.userEmail,
+        topic: topic,
+      );
+      for (final item in remote) {
+        final key = appState.normalizeBatchKey(item['batch']?.toString());
+        if (key.isEmpty) continue;
+        _completedByBatch[key] = item;
+      }
+    } catch (e) {
+      // Local history still drives Completed section if API is unavailable.
+      debugPrint('Completed batches fetch failed: $e');
+    }
+  }
+
+  bool _isBatchCompleted(AppState appState, String batchKey) {
+    final key = appState.normalizeBatchKey(batchKey);
+    if (_completedByBatch.containsKey(key)) return true;
+    final topic = appState.activeTopic;
+    if (topic == null) return false;
+    return appState.localCompletedBatchKeys(topic).contains(key);
   }
 
   @override
@@ -71,6 +113,12 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
       }
     }
     final sortedBatchKeys = batchesMap.keys.toList()..sort();
+    final availableBatchKeys = sortedBatchKeys
+        .where((k) => !_isBatchCompleted(appState, k))
+        .toList();
+    final completedBatchKeys = sortedBatchKeys
+        .where((k) => _isBatchCompleted(appState, k))
+        .toList();
 
     return Scaffold(
       backgroundColor: scaffoldBg,
@@ -209,17 +257,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                       ),
                       const SizedBox(height: 28),
 
-                      // 2. Practice Batches — compact 3-row panel
-                      Text(
-                        appState.hubLabel('Practice Batches'),
-                        style: TextStyle(
-                          fontFamily: 'Outfit',
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
-                          color: textColor,
-                        ),
-                      ),
-                      const SizedBox(height: 12),
+                      // 2. Available Practice Batches
                       if (sortedBatchKeys.isEmpty)
                         Center(
                           child: Padding(
@@ -230,44 +268,106 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                             ),
                           ),
                         )
-                      else
-                        Container(
-                          decoration: BoxDecoration(
-                            color: cardBg,
-                            borderRadius: BorderRadius.circular(18),
-                            border: Border.all(
-                              color: isDark
-                                  ? Colors.white.withOpacity(0.06)
-                                  : Colors.black.withOpacity(0.05),
-                            ),
-                          ),
-                          child: Column(
-                            children: [
-                              for (int index = 0; index < sortedBatchKeys.length; index++) ...[
-                                if (index > 0)
-                                  Divider(
-                                    height: 1,
-                                    thickness: 1,
-                                    color: isDark
-                                        ? Colors.white.withOpacity(0.06)
-                                        : Colors.black.withOpacity(0.05),
-                                  ),
-                                _buildPracticeBatchRow(
-                                  appState: appState,
-                                  index: index,
-                                  batchKey: sortedBatchKeys[index],
-                                  questions: batchesMap[sortedBatchKeys[index]]!,
-                                  textColor: textColor,
-                                  mutedColor: mutedColor,
-                                  isDark: isDark,
-                                ),
-                              ],
-                            ],
+                      else ...[
+                        Text(
+                          appState.hubLabel('Practice Batches'),
+                          style: TextStyle(
+                            fontFamily: 'Outfit',
+                            fontSize: 16,
+                            fontWeight: FontWeight.bold,
+                            color: textColor,
                           ),
                         ),
+                        const SizedBox(height: 12),
+                        if (availableBatchKeys.isEmpty)
+                          Padding(
+                            padding: const EdgeInsets.only(bottom: 8),
+                            child: Text(
+                              'All batches completed for this topic.',
+                              style: TextStyle(fontFamily: 'Inter', color: mutedColor, fontSize: 13),
+                            ),
+                          )
+                        else
+                          _buildBatchPanel(
+                            appState: appState,
+                            batchKeys: availableBatchKeys,
+                            batchesMap: batchesMap,
+                            textColor: textColor,
+                            mutedColor: mutedColor,
+                            isDark: isDark,
+                            cardBg: cardBg,
+                            completed: false,
+                          ),
+                        if (completedBatchKeys.isNotEmpty) ...[
+                          const SizedBox(height: 28),
+                          Text(
+                            appState.hubLabel('Completed'),
+                            style: TextStyle(
+                              fontFamily: 'Outfit',
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                              color: textColor,
+                            ),
+                          ),
+                          const SizedBox(height: 12),
+                          _buildBatchPanel(
+                            appState: appState,
+                            batchKeys: completedBatchKeys,
+                            batchesMap: batchesMap,
+                            textColor: textColor,
+                            mutedColor: mutedColor,
+                            isDark: isDark,
+                            cardBg: cardBg,
+                            completed: true,
+                          ),
+                        ],
+                      ],
                     ],
                   ),
                 ),
+    );
+  }
+
+  Widget _buildBatchPanel({
+    required AppState appState,
+    required List<String> batchKeys,
+    required Map<String, List<Question>> batchesMap,
+    required Color textColor,
+    required Color mutedColor,
+    required bool isDark,
+    required Color cardBg,
+    required bool completed,
+  }) {
+    return Container(
+      decoration: BoxDecoration(
+        color: cardBg,
+        borderRadius: BorderRadius.circular(18),
+        border: Border.all(
+          color: isDark ? Colors.white.withOpacity(0.06) : Colors.black.withOpacity(0.05),
+        ),
+      ),
+      child: Column(
+        children: [
+          for (int index = 0; index < batchKeys.length; index++) ...[
+            if (index > 0)
+              Divider(
+                height: 1,
+                thickness: 1,
+                color: isDark ? Colors.white.withOpacity(0.06) : Colors.black.withOpacity(0.05),
+              ),
+            _buildPracticeBatchRow(
+              appState: appState,
+              index: index,
+              batchKey: batchKeys[index],
+              questions: batchesMap[batchKeys[index]]!,
+              textColor: textColor,
+              mutedColor: mutedColor,
+              isDark: isDark,
+              completed: completed,
+            ),
+          ],
+        ],
+      ),
     );
   }
 
@@ -279,13 +379,21 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
     required Color textColor,
     required Color mutedColor,
     required bool isDark,
+    required bool completed,
   }) {
-    final number = (index + 1).toString().padLeft(2, '0');
-    final accent = const Color(0xFF10B981);
+    final number = (() {
+      final m = RegExp(r'(\d+)').firstMatch(batchKey);
+      return (m?.group(1) ?? '${index + 1}').padLeft(2, '0');
+    })();
+    final accent = completed ? const Color(0xFF3B82F6) : const Color(0xFF10B981);
+    final norm = appState.normalizeBatchKey(batchKey);
+    final stats = _completedByBatch[norm];
+    final scoreText = (completed && stats != null)
+        ? '${stats['correct_count'] ?? 0}/${stats['total_count'] ?? questions.length} · ${appState.hubLabel('Completed')}'
+        : appState.questionsAvailableLabel(questions.length);
 
     return InkWell(
       onTap: () => _showStartDialog(questions),
-      borderRadius: BorderRadius.circular(index == 0 ? 18 : 0),
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 14),
         child: Row(
@@ -298,15 +406,17 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                 borderRadius: BorderRadius.circular(12),
                 color: accent.withOpacity(0.12),
               ),
-              child: Text(
-                number,
-                style: TextStyle(
-                  fontFamily: 'Outfit',
-                  fontSize: 15,
-                  fontWeight: FontWeight.w800,
-                  color: accent,
-                ),
-              ),
+              child: completed
+                  ? Icon(Icons.check_rounded, color: accent, size: 22)
+                  : Text(
+                      number,
+                      style: TextStyle(
+                        fontFamily: 'Outfit',
+                        fontSize: 15,
+                        fontWeight: FontWeight.w800,
+                        color: accent,
+                      ),
+                    ),
             ),
             const SizedBox(width: 14),
             Expanded(
@@ -324,7 +434,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                   ),
                   const SizedBox(height: 3),
                   Text(
-                    appState.questionsAvailableLabel(questions.length),
+                    scoreText,
                     style: TextStyle(
                       fontFamily: 'Inter',
                       fontSize: 12,
@@ -341,7 +451,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                 borderRadius: BorderRadius.circular(10),
               ),
               child: Text(
-                appState.hubLabel('Start'),
+                appState.hubLabel(completed ? 'Retake' : 'Start'),
                 style: const TextStyle(
                   fontFamily: 'Inter',
                   fontWeight: FontWeight.bold,

@@ -15,6 +15,9 @@ class AppState extends ChangeNotifier {
   String _activeScreen = 'home';
   String get activeScreen => _activeScreen;
 
+  /// Where system/UI back should return from results (`topic_detail` | `performance` | `home`).
+  String _resultsReturnScreen = 'home';
+
   // Auth State
   // Starts unknown; never show Login vs Home until prefs restore finishes.
   bool _authReady = false;
@@ -251,7 +254,9 @@ class AppState extends ChangeNotifier {
       'Syllabus': 'பாடத்திட்டம்',
       'Practice Batch': 'பயிற்சித் தொகுதி',
       'Practice Batches': 'பயிற்சித் தொகுதிகள்',
+      'Completed': 'முடிந்தவை',
       'Start': 'தொடங்கு',
+      'Retake': 'மீண்டும் எழுது',
       'Current Affairs Batches': 'நடப்பு நிகழ்வுகள் தொகுதிகள்',
       'Current Affairs': 'நடப்பு நிகழ்வுகள்',
     };
@@ -267,6 +272,51 @@ class AppState extends ChangeNotifier {
     final match = RegExp(r'(\d+)').firstMatch(batchKey);
     final num = match?.group(1) ?? batchKey;
     return '${hubLabel('Practice Batch')} $num';
+  }
+
+  /// Normalize batch keys so "Batch 1" and "1" match.
+  String normalizeBatchKey(String? batchKey) {
+    if (batchKey == null || batchKey.trim().isEmpty) return '';
+    final match = RegExp(r'(\d+)').firstMatch(batchKey);
+    return match?.group(1) ?? batchKey.trim().toLowerCase();
+  }
+
+  String _sessionBatchKey(HistoryEntry entry) {
+    if (entry.batch.trim().isNotEmpty) {
+      return normalizeBatchKey(entry.batch);
+    }
+    for (final q in entry.questions) {
+      if (q.type.toLowerCase() != 'pyq' && q.batch.trim().isNotEmpty) {
+        return normalizeBatchKey(q.batch);
+      }
+    }
+    return '';
+  }
+
+  /// Locally known completed practice batches for a topic (device history).
+  Set<String> localCompletedBatchKeys(String topicName) {
+    final keys = <String>{};
+    for (final h in _testHistory) {
+      if (h.topic != topicName) continue;
+      final hasPractice = h.questions.any((q) => q.type.toLowerCase() != 'pyq');
+      if (!hasPractice && h.batch.trim().isEmpty) continue;
+      final key = _sessionBatchKey(h);
+      if (key.isNotEmpty) keys.add(key);
+    }
+    return keys;
+  }
+
+  HistoryEntry? latestLocalBatchSession(String topicName, String batchKey) {
+    final target = normalizeBatchKey(batchKey);
+    HistoryEntry? latest;
+    for (final h in _testHistory) {
+      if (h.topic != topicName) continue;
+      if (_sessionBatchKey(h) != target) continue;
+      if (latest == null || h.timestamp > latest.timestamp) {
+        latest = h;
+      }
+    }
+    return latest;
   }
 
   Future<void> setGroup(String group) async {
@@ -357,6 +407,83 @@ class AppState extends ChangeNotifier {
     _activeSubject = null;
     _activeTopic = null;
     notifyListeners();
+  }
+
+  void navigateToResults() {
+    _resultsReturnScreen = _activeTopic != null ? 'topic_detail' : 'home';
+    _activeScreen = 'results';
+    notifyListeners();
+  }
+
+  /// Open a past session in Test Results (from Performance history).
+  Future<void> openSessionResults(int sessionId) async {
+    final detail = await _apiService.getSessionDetail(
+      userId: _userEmail,
+      sessionId: sessionId,
+    );
+
+    final questions = (detail['questions'] as List? ?? [])
+        .map((q) => Question.fromJson(Map<String, dynamic>.from(q as Map)))
+        .toList();
+    final rawAnswers = detail['answers'] as Map? ?? {};
+    final answers = rawAnswers.map(
+      (k, v) => MapEntry(k.toString(), v.toString()),
+    );
+
+    _lastCompletedSession = HistoryEntry(
+      topic: (detail['topic_name'] ?? '').toString(),
+      group: _activeGroup,
+      correctCount: detail['correct_count'] ?? 0,
+      totalCount: detail['total_count'] ?? questions.length,
+      answers: answers,
+      questions: questions,
+      timestamp: (detail['timestamp_ms'] as num?)?.toDouble() ??
+          DateTime.now().millisecondsSinceEpoch.toDouble(),
+      batch: (detail['batch'] ?? '').toString(),
+    );
+    _timeTakenSeconds = detail['time_taken'] ?? 0;
+    _resultsReturnScreen = 'performance';
+    _activeScreen = 'results';
+    notifyListeners();
+  }
+
+  /// Handle Android/iOS system back / swipe-back.
+  /// Returns `true` if navigation was handled in-app (app must NOT exit).
+  /// Returns `false` only on Home root — caller may allow the OS to exit.
+  /// For `quiz`, returns `true` but does not navigate; caller should show quit UI.
+  bool handleSystemBack() {
+    switch (_activeScreen) {
+      case 'home':
+        return false;
+      case 'quiz':
+        return true;
+      case 'topic_detail':
+        navigateToSyllabus();
+        return true;
+      case 'syllabus':
+        navigateToHome();
+        return true;
+      case 'results':
+        if (_resultsReturnScreen == 'performance') {
+          navigateToPerformance();
+        } else if (_activeTopic != null) {
+          _activeScreen = 'topic_detail';
+          notifyListeners();
+        } else {
+          navigateToHome();
+        }
+        return true;
+      case 'profile':
+        navigateToHome();
+        return true;
+      case 'performance':
+      case 'advisor':
+        navigateToHome();
+        return true;
+      default:
+        navigateToHome();
+        return true;
+    }
   }
 
   // Statistics calculation by syncing with Backend API
@@ -497,6 +624,14 @@ class AppState extends ChangeNotifier {
       }
     }
 
+    String sessionBatch = '';
+    for (final q in _quizQuestions) {
+      if (q.type.toLowerCase() != 'pyq' && q.batch.trim().isNotEmpty) {
+        sessionBatch = q.batch.trim();
+        break;
+      }
+    }
+
     final newSession = HistoryEntry(
       topic: _resolveTopicName(),
       group: _activeGroup,
@@ -505,10 +640,12 @@ class AppState extends ChangeNotifier {
       answers: sessionAnswers,
       questions: _quizQuestions,
       timestamp: DateTime.now().millisecondsSinceEpoch.toDouble(),
+      batch: sessionBatch,
     );
 
     _testHistory.add(newSession);
     _lastCompletedSession = newSession;
+    _resultsReturnScreen = 'topic_detail';
     _activeScreen = 'results';
 
     List<Map<String, dynamic>> backendAnswers = [];
@@ -529,6 +666,7 @@ class AppState extends ChangeNotifier {
       totalCount: _quizQuestions.length,
       timeTaken: _timeTakenSeconds,
       answers: backendAnswers,
+      batch: sessionBatch.isNotEmpty ? sessionBatch : null,
     ).then((res) {
       print("Session saved successfully on server. ID: ${res['session_id']}");
     }).catchError((err) {

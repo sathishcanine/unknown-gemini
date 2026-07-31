@@ -1,0 +1,227 @@
+{
+  "topic": "TVK Leaders",
+  "raw_count": 101,
+  "strong_count": 44,
+  "dropped_count": 57,
+  "drop_reason_counts": {
+    "noise_or_ceremony": 24,
+    "no_exam_signal": 38,
+    "statue_only": 1,
+    "soft_literary": 2
+  },
+  "dropped_samples": [
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "C. Joseph Vijay is designated as Chief Minister in the provided text context related to TVK Leaders."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony",
+        "no_exam_signal"
+      ],
+      "fact_en": "DIPR represents the Department of Information and Public Relations, Government of Tamil Nadu, with the official website www.dipr.tn.gov.in."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The social media presence of the department shows 59.6K posts and 360K followers."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "Press Release No: 739, dated 28.04.2026 regarding Pavendar Bharathidasan's birth anniversary celebration."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The 136th birth anniversary of Pavendar Bharathidasan falls on Wednesday, April 29, 2026."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The floral tribute ceremony is scheduled at 8:00 AM on 29.4.2026."
+    },
+    {
+      "reasons": [
+        "no_exam_signal",
+        "statue_only"
+      ],
+      "fact_en": "The statue of Bharathidasan is located on Kamarajar Salai, Marina Beach, Chennai."
+    },
+    {
+      "reasons": [
+        "soft_literary",
+        "no_exam_signal"
+      ],
+      "fact_en": "Famous literary works quoted include 'Engal Vazhuvum Engal Valamum' and 'Thamizhukkum Amudhendru Per'."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony",
+        "soft_literary",
+        "no_exam_signal"
+      ],
+      "fact_en": "Pavendar Bharathidasan instilled linguistic awareness and growth in Tamil society through his sweet Tamil poems."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The Government of Tamil Nadu celebrates Bharathidasan's birth anniversary every year as a state festival."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The 136th anniversary event is attended by government secretaries, high-ranking officials, Tamil scholars, and the public."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Bharathidasan was deeply inspired by Subramania Bharathi and adopted the pen name Bharathidasan."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "Bharathidasan's birth anniversary, April 29, is celebrated as 'Bharathidasan Day'."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Bharathidasan authored prominent plays including Kutumba Vilakku, Cheran Senguttuvan, and Pisiranthaiyar."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Bharathidasan was actively associated with the Dravidian Movement and Self-Respect Movement."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Bharathidasan's poetic works include Pandian Parisu, Kaadhal Oviyam, and Tamizhakathin Katti."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "Hon'ble Chief Minister of Tamil Nadu Thiru S. Joseph Vijay paid floral tribute to the statue of Dravida Peroli Pandithar Iyothee Thassar on his 181st birth anniversary."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony",
+        "no_exam_signal"
+      ],
+      "fact_en": "The floral tribute event for Pandithar Iyothee Thassar took place at the Gandhi Mandapam complex in Guindy."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The official press release regarding the event was issued by the Director of Information and Public Relations on 20-05-2026."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Professionally, Iyyothee Thassar was a practitioner and expert in Siddha medicine."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "The newspaper 'Oru Paisa Thamizhan' was published at the cost of one paisa to be easily accessible to the common public."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Iyyothee Thassar authored 'Adhiveedham' focusing on the history, culture, and rights of Dalits."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Iyyothee Thassar stated: 'There is no human being without caste; a society without caste is a true society.'"
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "Press Release Number 141 was issued on 01.06.2026 regarding the tribute to freedom fighter Anjalai Ammal."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "Hon'ble Chief Minister of Tamil Nadu, Thiru S. Joseph Vijay, paid floral tribute to freedom fighter Anjalai Ammal on her 137th birth anniversary."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "The tribute event for Anjalai Ammal's 137th birth anniversary was held in Chennai on 01.06.2026."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Anjalai Ammal studied up to the fifth standard at a traditional Thinnai school."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Thanthai Periyar campaigned on the streets of Cuddalore emphasizing the necessity of wearing Khadi when he served as the Madras Province Congress Committee President."
+    },
+    {
+      "reasons": [
+        "noise_or_ceremony"
+      ],
+      "fact_en": "Press release number 144 was issued on 02.06.2026."
+    },
+    {
+      "reasons": [
+        "no_exam_signal"
+      ],
+      "fact_en": "Isaignani Ilaiyaraaja was born in Pannaipuram village, Theni district."
+    }
+  ],
+  "kept_samples": [
+    "Bharathidasan was born on April 29, 1891, and his original name was Kanagasaburathinam.",
+    "Bharathidasan passed away on April 21, 1964.",
+    "Bharathidasan received the Soviet Land Nehru Peace Award in the year 1962.",
+    "Iyyothee Thassar was born in 1845 in Pandithoppu, Chennai (then Madras).",
+    "The original birth name of Iyyothee Thassar was Kathavarayan, and his parents were Chinna Thampi and Parvathi Ammal.",
+    "Iyyothee Thassar passed away in the year 1914.",
+    "Iyyothee Thassar founded the 'Sakya Buddhist Society' (சாக்கிய புத்த சங்கம்) in the year 1898.",
+    "Iyyothee Thassar started the Tamil monthly magazine 'Thamizhan' in 1898.",
+    "During 1898-1899, Iyyothee Thassar conducted conferences and explanatory lectures on the Buddhist religion.",
+    "Freedom fighter Anjalai Ammal was born in Cuddalore Mudunagar to parents Ammakannu and Muthukumani in the year 1890.",
+    "Anjalai Ammal entered public life by participating in Mahatma Gandhi's Non-Cooperation Movement in 1921.",
+    "Anjalai Ammal spent over 6 years in prison for participating in movements like the Neill Statue Satyagraha, Civil Disobedience, Individual Satyagraha, Foreign Cloth Boycott, and Weavers' Struggle.",
+    "Anjalai Ammal was temporarily released on parole during her pregnancy in Vellore jail and was reimprisoned after giving birth.",
+    "Anjalai Ammal's daughter Leelavathi was sentenced to four years in prison for participating in the Neill Statue removal agitation.",
+    "Tamil Nadu Chief Minister Thiru. S. Joseph Vijay extended birthday greetings to Isaignani Ilaiyaraaja on his 83rd birthday.",
+    "Freedom fighter Anjalai Ammal sacrificed her family properties and her own residence for the freedom struggle.",
+    "Anjalai Ammal was elected twice as a Member of the Madras Presidency Legislative Assembly from the Cuddalore constituency in 1937 and 1946.",
+    "Ilaiyaraaja's original name is G. Gnanasechehen and he was born on 3 June 1943 at Pannaipuram, Thenkasi district, Tamil Nadu.",
+    "Ilaiyaraaja entered the film industry in 1976 and his debut film as a music composer was Annakili (1976).",
+    "Ilaiyaraaja won the National Film Award 3 times in the years 1987, 1993, and 1997.",
+    "Ilaiyaraaja was honored with the Padma Bhushan in 2001 and the Padma Vibhushan in 2018.",
+    "Ilaiyaraaja received the 'GRAND MASTER' (Lifetime Achievement Award) in 2019.",
+    "Quaid-e-Millath Mohammad Ismail Sahib was born on October 5, 1886, in Pudukottai, Tamil Nadu.",
+    "Quaid-e-Millath Mohammad Ismail Sahib passed away on January 1, 1954, in Chennai, Tamil Nadu.",
+    "Thiru. S. Joseph Vijay is the Honorable Chief Minister of Tamil Nadu."
+  ]
+}

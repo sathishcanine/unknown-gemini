@@ -209,6 +209,8 @@ class QuestionDatabase:
                     subject_id = "Chemistry"
                 elif "Movement" in topic_name or topic_name.startswith("INM"):
                     subject_id = "INM"
+                elif "TVK" in topic_name or topic_name.startswith("TVK"):
+                    subject_id = "TVK"
 
                 cur.execute("SELECT id FROM topics WHERE name = %s;", (topic_name,))
                 topic_row = cur.fetchone()

@@ -259,6 +259,8 @@ class AppState extends ChangeNotifier {
       'Retake': 'மீண்டும் எழுது',
       'Current Affairs Batches': 'நடப்பு நிகழ்வுகள் தொகுதிகள்',
       'Current Affairs': 'நடப்பு நிகழ்வுகள்',
+      'TVK-Government Policies': 'த.வெ.க அரசு கொள்கைகள்',
+      'Very Important': 'மிக முக்கியம்',
     };
     return ta[english] ?? english;
   }
@@ -605,7 +607,9 @@ class AppState extends ChangeNotifier {
                             ? 'Indian National Movement'
                             : _activeSubject == 'Chemistry'
                                 ? 'Chemistry'
-                                : 'Current Affairs');
+                                : _activeSubject == 'TVK'
+                                    ? 'TVK-Government Policies'
+                                    : 'Current Affairs');
   }
 
   // Submit test session

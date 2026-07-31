@@ -317,7 +317,101 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           ],
         ),
+        const SizedBox(height: 16),
+        _buildFullWidthMenuCard(
+          title: appState.hubLabel('TVK-Government Policies'),
+          subtitle: appState.hubLabel('Very Important'),
+          imageAsset: 'assets/icon/tvk_government.png',
+          accentColor: const Color(0xFFDC2626),
+          isDark: isDark,
+          onTap: () => appState.selectSubject('TVK'),
+        ),
       ],
+    );
+  }
+
+  Widget _buildFullWidthMenuCard({
+    required String title,
+    required String subtitle,
+    required String imageAsset,
+    required Color accentColor,
+    required VoidCallback onTap,
+    required bool isDark,
+  }) {
+    final cardBg = isDark ? const Color(0xFF131A2A) : Colors.white;
+    final textColor = isDark ? Colors.white : const Color(0xFF0F172A);
+    final mutedColor = isDark ? Colors.grey : const Color(0xFF64748B);
+
+    return Card(
+      color: cardBg,
+      elevation: 0,
+      margin: EdgeInsets.zero,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(20),
+        side: BorderSide(color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04)),
+      ),
+      child: InkWell(
+        onTap: onTap,
+        borderRadius: BorderRadius.circular(20),
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 16),
+          child: Row(
+            children: [
+              Container(
+                width: 56,
+                height: 56,
+                decoration: BoxDecoration(
+                  shape: BoxShape.circle,
+                  border: Border.all(color: accentColor.withOpacity(0.35), width: 2),
+                  boxShadow: [
+                    BoxShadow(
+                      color: accentColor.withOpacity(0.18),
+                      blurRadius: 10,
+                      offset: const Offset(0, 4),
+                    ),
+                  ],
+                ),
+                child: ClipOval(
+                  child: Image.asset(
+                    imageAsset,
+                    fit: BoxFit.cover,
+                    width: 56,
+                    height: 56,
+                  ),
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      title,
+                      style: TextStyle(
+                        fontFamily: 'Outfit',
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: textColor,
+                      ),
+                    ),
+                    const SizedBox(height: 3),
+                    Text(
+                      subtitle,
+                      style: TextStyle(
+                        fontFamily: 'Inter',
+                        fontSize: 12,
+                        fontWeight: FontWeight.w600,
+                        color: accentColor,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Icon(Icons.arrow_forward_ios, size: 16, color: mutedColor),
+            ],
+          ),
+        ),
+      ),
     );
   }
 
@@ -418,8 +512,10 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildGeneralStudiesSubjects(AppState appState, bool isDark, Color textColor, Color cardBg, Color mutedColor) {
-    // Filter out Current Affairs, only show Economy, Polity, Policy Notes
-    final gsSubjects = appState.subjects.where((sub) => sub['id'] != 'Current Affairs').toList();
+    // Filter out Current Affairs and TVK (TVK has its own full-width home card)
+    final gsSubjects = appState.subjects
+        .where((sub) => sub['id'] != 'Current Affairs' && sub['id'] != 'TVK')
+        .toList();
 
     if (gsSubjects.isEmpty) {
       return const Center(

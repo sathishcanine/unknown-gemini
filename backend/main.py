@@ -52,6 +52,7 @@ def read_css():
 app.mount("/Polity", StaticFiles(directory=os.path.join(ROOT_DIR, "Polity")), name="Polity")
 app.mount("/Economic", StaticFiles(directory=os.path.join(ROOT_DIR, "Economic")), name="Economic")
 app.mount("/Policy", StaticFiles(directory=os.path.join(ROOT_DIR, "Policy")), name="Policy")
+app.mount("/TVK", StaticFiles(directory=os.path.join(ROOT_DIR, "TVK")), name="TVK")
 app.mount("/Current-affairs", StaticFiles(directory=os.path.join(ROOT_DIR, "Current-affairs")), name="Current-affairs")
 
 # Request / Response Schemas

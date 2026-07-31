@@ -95,6 +95,11 @@ class _AppShellState extends State<AppShell> {
   Widget build(BuildContext context) {
     final appState = Provider.of<AppState>(context);
 
+    // Hold splash until SharedPreferences session is restored — avoids Login flash.
+    if (!appState.authReady) {
+      return const _AuthBootstrapScreen();
+    }
+
     if (!appState.isAuthenticated) {
       return const LoginScreen();
     }
@@ -176,6 +181,25 @@ class _AppShellState extends State<AppShell> {
               ],
             )
           : null,
+    );
+  }
+}
+
+/// Matches native splash while auth session is restored from local storage.
+class _AuthBootstrapScreen extends StatelessWidget {
+  const _AuthBootstrapScreen();
+
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(
+      backgroundColor: Color(0xFF0B0F19),
+      body: Center(
+        child: Image(
+          image: AssetImage('assets/icon/app_icon.png'),
+          width: 120,
+          height: 120,
+        ),
+      ),
     );
   }
 }

@@ -16,6 +16,10 @@ class AppState extends ChangeNotifier {
   String get activeScreen => _activeScreen;
 
   // Auth State
+  // Starts unknown; never show Login vs Home until prefs restore finishes.
+  bool _authReady = false;
+  bool get authReady => _authReady;
+
   bool _isAuthenticated = false;
   bool get isAuthenticated => _isAuthenticated;
 
@@ -102,6 +106,10 @@ class AppState extends ChangeNotifier {
 
   Future<void> _init() async {
     _loading = true;
+
+    // Restore session first so the UI never flashes Login for signed-in users.
+    await loadLocalPreferences();
+    _authReady = true;
     notifyListeners();
 
     try {
@@ -113,7 +121,6 @@ class AppState extends ChangeNotifier {
       print("Google Sign-In Init Error: $e");
     }
 
-    await loadLocalPreferences();
     await fetchSubjects();
     await syncStatsWithBackend();
 

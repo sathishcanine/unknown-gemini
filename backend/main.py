@@ -58,16 +58,17 @@ app.mount("/Current-affairs", StaticFiles(directory=os.path.join(ROOT_DIR, "Curr
 class SubjectResponse(BaseModel):
     id: str
     name: str
+    name_ta: Optional[str] = None
     icon: str
     questions_count: int
 
 class TextbookMappingModel(BaseModel):
-    title: str
-    titleTa: str
-    book: str
-    chapter: str
-    pages: str
-    focus: str
+    title: str = ""
+    titleTa: str = ""
+    book: str = ""
+    chapter: str = ""
+    pages: str = ""
+    focus: str = ""
 
 class TopicResponse(BaseModel):
     name: str
@@ -148,9 +149,14 @@ def get_subjects():
 def get_syllabus(subject: str):
     topics = db.get_topics_for_subject(subject)
     response = []
-    for topic_name in topics:
-        # Resolve textbook mapping metadata
-        mapping = db.textbook_mappings.get(topic_name)
+    for topic in topics:
+        # Prefer per-topic mapping stored in Postgres; fall back to JSON file.
+        topic_name = topic["name"] if isinstance(topic, dict) else topic
+        mapping = None
+        if isinstance(topic, dict):
+            mapping = topic.get("textbook_mapping")
+        if not mapping:
+            mapping = db.textbook_mappings.get(topic_name)
         response.append(TopicResponse(name=topic_name, textbook=mapping))
     return response
 

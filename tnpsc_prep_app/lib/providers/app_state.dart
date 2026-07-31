@@ -38,6 +38,11 @@ class AppState extends ChangeNotifier {
   bool _isDarkMode = true;
   bool get isDarkMode => _isDarkMode;
 
+  // Content language for menus/titles from API (en | ta)
+  String _contentLanguage = 'en';
+  String get contentLanguage => _contentLanguage;
+  bool get isTamilContent => _contentLanguage == 'ta';
+
   // Subjects / Syllabus loaded from backend
   List<Map<String, dynamic>> _subjects = [];
   List<Map<String, dynamic>> get subjects => _subjects;
@@ -149,6 +154,7 @@ class AppState extends ChangeNotifier {
     _activeGroup = prefs.getString('active_group') ?? 'Group 1';
     _isAuthenticated = prefs.getBool('is_authenticated') ?? false;
     _userEmail = prefs.getString('user_email') ?? 'test_user';
+    _contentLanguage = prefs.getString('content_language') ?? 'en';
 
     final historyJson = prefs.getString('test_history');
     if (historyJson != null) {
@@ -168,6 +174,7 @@ class AppState extends ChangeNotifier {
     await prefs.setString('active_group', _activeGroup);
     await prefs.setBool('is_authenticated', _isAuthenticated);
     await prefs.setString('user_email', _userEmail);
+    await prefs.setString('content_language', _contentLanguage);
 
     final historyJson = jsonEncode(_testHistory.map((h) => h.toJson()).toList());
     await prefs.setString('test_history', historyJson);
@@ -177,6 +184,89 @@ class AppState extends ChangeNotifier {
     _isDarkMode = !_isDarkMode;
     await saveLocalPreferences();
     notifyListeners();
+  }
+
+  Future<void> setContentLanguage(String language) async {
+    final next = language == 'ta' ? 'ta' : 'en';
+    if (_contentLanguage == next) return;
+    _contentLanguage = next;
+    await saveLocalPreferences();
+    notifyListeners();
+  }
+
+  Future<void> toggleContentLanguage() async {
+    await setContentLanguage(isTamilContent ? 'en' : 'ta');
+  }
+
+  /// Subject title from API: `name` (EN) or `name_ta` (TA). Falls back to EN if TA empty.
+  String subjectDisplayName(String? subjectId) {
+    Map<String, dynamic>? match;
+    for (final sub in _subjects) {
+      if (sub['id'] == subjectId) {
+        match = sub;
+        break;
+      }
+    }
+    if (match == null) {
+      return subjectId ?? '';
+    }
+    if (isTamilContent) {
+      final ta = (match['name_ta'] ?? '').toString().trim();
+      if (ta.isNotEmpty) return ta;
+    }
+    return (match['name'] ?? subjectId ?? '').toString();
+  }
+
+  /// Topic title from syllabus item: EN `name` or API `textbook.titleTa`.
+  String topicDisplayNameFromItem(Map<String, dynamic> item) {
+    final en = (item['name'] ?? '').toString();
+    if (!isTamilContent) return en;
+    final tb = item['textbook'];
+    if (tb is Map) {
+      final ta = (tb['titleTa'] ?? '').toString().trim();
+      if (ta.isNotEmpty) return ta;
+    }
+    return en;
+  }
+
+  String activeTopicDisplayName() {
+    if (_activeTopic == null) return subjectDisplayName(_activeSubject);
+    for (final item in _syllabusList) {
+      if (item['name'] == _activeTopic) {
+        return topicDisplayNameFromItem(item);
+      }
+    }
+    return _activeTopic!;
+  }
+
+  /// Hub chrome labels (not subject/topic titles from API).
+  String hubLabel(String english) {
+    if (!isTamilContent) return english;
+    const ta = {
+      'General Studies': 'பொது அறிவு',
+      'Tamil & English': 'தமிழ் மற்றும் ஆங்கிலம்',
+      'Past Year Questions': 'முந்தைய ஆண்டு வினாக்கள்',
+      'Questions Available': 'வினாக்கள் உள்ளன',
+      'Preparation Hub': 'தயாரிப்பு மையம்',
+      'Syllabus': 'பாடத்திட்டம்',
+      'Practice Batch': 'பயிற்சித் தொகுதி',
+      'Practice Batches': 'பயிற்சித் தொகுதிகள்',
+      'Start': 'தொடங்கு',
+      'Current Affairs Batches': 'நடப்பு நிகழ்வுகள் தொகுதிகள்',
+      'Current Affairs': 'நடப்பு நிகழ்வுகள்',
+    };
+    return ta[english] ?? english;
+  }
+
+  String questionsAvailableLabel(Object? count) {
+    return '$count ${hubLabel('Questions Available')}';
+  }
+
+  /// Display label for a batch key like "Batch 1" / "1" / "Batch 2".
+  String practiceBatchLabel(String batchKey) {
+    final match = RegExp(r'(\d+)').firstMatch(batchKey);
+    final num = match?.group(1) ?? batchKey;
+    return '${hubLabel('Practice Batch')} $num';
   }
 
   Future<void> setGroup(String group) async {

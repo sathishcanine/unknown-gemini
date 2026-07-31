@@ -17,10 +17,10 @@ JSON_PATHS = {
 }
 
 SUBJECTS_METADATA = [
-    {"id": "Economy", "name": "Indian Economy", "icon": "📈"},
-    {"id": "Polity", "name": "Indian Polity", "icon": "⚖️"},
-    {"id": "Current Affairs", "name": "Current Affairs", "icon": "📰"},
-    {"id": "Policy", "name": "Policy Notes", "icon": "📋"},
+    {"id": "Economy", "name": "Indian Economy", "name_ta": "பொருளாதாரம்", "icon": "📈"},
+    {"id": "Polity", "name": "Indian Polity", "name_ta": "அரசியல் அமைப்பு", "icon": "⚖️"},
+    {"id": "Current Affairs", "name": "Current Affairs", "name_ta": "நடப்பு நிகழ்வுகள்", "icon": "📰"},
+    {"id": "Policy", "name": "Policy Notes", "name_ta": "கொள்கை", "icon": "📋"},
 ]
 
 def main():
@@ -62,6 +62,7 @@ def main():
     CREATE TABLE subjects (
         id VARCHAR(50) PRIMARY KEY,
         name VARCHAR(100) NOT NULL,
+        name_ta VARCHAR(255),
         icon VARCHAR(10) NOT NULL
     );
     """)
@@ -148,8 +149,10 @@ def main():
     # 3. Insert Subjects Metadata
     print("Inserting subjects...")
     for sub in SUBJECTS_METADATA:
-        cursor.execute("INSERT INTO subjects (id, name, icon) VALUES (%s, %s, %s);", 
-                       (sub["id"], sub["name"], sub["icon"]))
+        cursor.execute(
+            "INSERT INTO subjects (id, name, name_ta, icon) VALUES (%s, %s, %s, %s);",
+            (sub["id"], sub["name"], sub.get("name_ta"), sub["icon"]),
+        )
         
     # 4. Load Textbook Mappings to seed Topics table
     textbook_mappings = {}

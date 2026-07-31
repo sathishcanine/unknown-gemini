@@ -54,10 +54,10 @@ class QuestionDatabase:
         try:
             with conn.cursor(cursor_factory=RealDictCursor) as cur:
                 cur.execute("""
-                    SELECT s.id, s.name, s.icon, COUNT(q.id) as questions_count
+                    SELECT s.id, s.name, s.name_ta, s.icon, COUNT(q.id) as questions_count
                     FROM subjects s
                     LEFT JOIN questions q ON s.id = q.subject_id
-                    GROUP BY s.id, s.name, s.icon;
+                    GROUP BY s.id, s.name, s.name_ta, s.icon;
                 """)
                 rows = cur.fetchall()
                 # Return standard subjects metadata formatted correctly
@@ -71,20 +71,20 @@ class QuestionDatabase:
     def get_topics_for_subject(self, subject):
         conn = self.get_conn()
         try:
-            with conn.cursor() as cur:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
                 # Normalise input subject name matching DB ID
                 sub_norm = subject
                 if subject in ["Economy", "Economics"]:
                     sub_norm = "Economy"
-                
+
                 cur.execute("""
-                    SELECT DISTINCT name 
-                    FROM topics 
-                    WHERE subject_id = %s 
+                    SELECT name, textbook_mapping
+                    FROM topics
+                    WHERE subject_id = %s
                     ORDER BY name;
                 """, (sub_norm,))
                 rows = cur.fetchall()
-                return [row[0] for row in rows]
+                return [dict(row) for row in rows]
         except Exception as e:
             print(f"Error in get_topics_for_subject: {e}")
             return []

@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../providers/app_state.dart';
 import '../services/api_service.dart';
+import '../widgets/content_language_toggle.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -67,10 +68,16 @@ class _HomeScreenState extends State<HomeScreen> {
           ],
         ),
         actions: [
+          const ContentLanguageToggle(),
           IconButton(
-            icon: const Icon(Icons.logout, color: Colors.grey),
-            onPressed: () => _showSignOutConfirmation(context, appState),
+            tooltip: 'Settings',
+            onPressed: () => appState.navigateToProfile(),
+            icon: Icon(
+              Icons.settings_outlined,
+              color: mutedColor,
+            ),
           ),
+          const SizedBox(width: 4),
         ],
       ),
       body: RefreshIndicator(
@@ -230,7 +237,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
               // 3. Dynamic Category Render Block
               if (_selectedCategory == null)
-                _buildMainMenuGrid(isDark)
+                _buildMainMenuGrid(appState, isDark)
               else
                 _buildCategoryListBlock(appState, isDark, textColor, cardBg, mutedColor),
             ],
@@ -240,12 +247,12 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  Widget _buildMainMenuGrid(bool isDark) {
+  Widget _buildMainMenuGrid(AppState appState, bool isDark) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          'Preparation Hub',
+          appState.hubLabel('Preparation Hub'),
           style: TextStyle(
             fontFamily: 'Outfit',
             fontSize: 18,
@@ -263,14 +270,14 @@ class _HomeScreenState extends State<HomeScreen> {
           childAspectRatio: 1.1,
           children: [
             _buildMenuCard(
-              title: 'General Studies',
+              title: appState.hubLabel('General Studies'),
               icon: Icons.menu_book,
               color: const Color(0xFF3B82F6),
               isDark: isDark,
               onTap: () => setState(() => _selectedCategory = 'general_studies'),
             ),
             _buildMenuCard(
-              title: 'Tamil & English',
+              title: appState.hubLabel('Tamil & English'),
               icon: Icons.translate,
               color: const Color(0xFF8B5CF6),
               isDark: isDark,
@@ -284,14 +291,16 @@ class _HomeScreenState extends State<HomeScreen> {
               },
             ),
             _buildMenuCard(
-              title: 'Current Affairs',
+              title: appState.subjectDisplayName('Current Affairs').isNotEmpty
+                  ? appState.subjectDisplayName('Current Affairs')
+                  : appState.hubLabel('Current Affairs'),
               icon: Icons.newspaper,
               color: const Color(0xFFF59E0B),
               isDark: isDark,
               onTap: () => setState(() => _selectedCategory = 'current_affairs'),
             ),
             _buildMenuCard(
-              title: 'Past Year Questions',
+              title: appState.hubLabel('Past Year Questions'),
               icon: Icons.history_edu,
               color: const Color(0xFF10B981),
               isDark: isDark,
@@ -362,11 +371,11 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildCategoryListBlock(AppState appState, bool isDark, Color textColor, Color cardBg, Color mutedColor) {
     String headerTitle = '';
     if (_selectedCategory == 'general_studies') {
-      headerTitle = 'General Studies';
+      headerTitle = appState.hubLabel('General Studies');
     } else if (_selectedCategory == 'current_affairs') {
-      headerTitle = 'Current Affairs Batches';
+      headerTitle = appState.hubLabel('Current Affairs Batches');
     } else if (_selectedCategory == 'pyqs') {
-      headerTitle = 'Past Year Questions';
+      headerTitle = appState.hubLabel('Past Year Questions');
     }
 
     return Column(
@@ -439,7 +448,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             title: Text(
-              sub['name'],
+              appState.subjectDisplayName(sub['id']?.toString()),
               style: TextStyle(
                 fontFamily: 'Outfit',
                 fontSize: 16,
@@ -448,7 +457,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             subtitle: Text(
-              '${sub['questions_count']} Questions Available',
+              appState.questionsAvailableLabel(sub['questions_count']),
               style: TextStyle(
                 fontFamily: 'Inter',
                 fontSize: 12,
@@ -510,6 +519,11 @@ class _HomeScreenState extends State<HomeScreen> {
           itemBuilder: (context, index) {
             final batch = batches[index];
             final name = batch['name'] as String;
+            final displayName = appState.topicDisplayNameFromItem(batch);
+            final enShort = name.replaceAll('Current Affairs : ', '');
+            final title = appState.isTamilContent
+                ? displayName.replaceAll('நடப்பு நிகழ்வுகள் : ', '')
+                : enShort;
 
             return Card(
               margin: const EdgeInsets.only(bottom: 12),
@@ -532,7 +546,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                 ),
                 title: Text(
-                  name.replaceAll('Current Affairs : ', ''),
+                  title,
                   style: TextStyle(
                     fontFamily: 'Outfit',
                     fontSize: 16,
@@ -583,38 +597,6 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ),
       ],
-    );
-  }
-
-  void _showSignOutConfirmation(BuildContext context, AppState appState) {
-    showDialog(
-      context: context,
-      builder: (context) {
-        return AlertDialog(
-          backgroundColor: const Color(0xFF0F172A),
-          title: const Text(
-            'Sign Out?',
-            style: TextStyle(fontFamily: 'Outfit', color: Colors.white),
-          ),
-          content: const Text(
-            'Are you sure you want to sign out from your Google account?',
-            style: TextStyle(fontFamily: 'Inter', color: Colors.grey),
-          ),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.pop(context),
-              child: const Text('Cancel', style: TextStyle(fontFamily: 'Inter', color: Colors.grey)),
-            ),
-            TextButton(
-              onPressed: () {
-                Navigator.pop(context);
-                appState.signOut();
-              },
-              child: const Text('Sign Out', style: TextStyle(fontFamily: 'Inter', color: Colors.red)),
-            ),
-          ],
-        );
-      },
     );
   }
 }

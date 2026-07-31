@@ -15,19 +15,8 @@ class SyllabusScreen extends StatelessWidget {
     final cardBg = isDark ? const Color(0xFF131A2A) : Colors.white;
     final scaffoldBg = isDark ? const Color(0xFF0B0F19) : const Color(0xFFF1F5F9);
 
-    final subjectName = appState.activeSubject == 'Economy'
-        ? 'Indian Economy'
-        : appState.activeSubject == 'Polity'
-            ? 'Indian Polity'
-            : appState.activeSubject == 'Policy'
-                ? 'Policy Notes'
-                : appState.activeSubject == 'History'
-                    ? 'Indian History'
-                    : appState.activeSubject == 'INM'
-                        ? 'Indian National Movement'
-                        : appState.activeSubject == 'Chemistry'
-                            ? 'Chemistry'
-                            : 'Current Affairs';
+    final subjectName = appState.subjectDisplayName(appState.activeSubject);
+    final syllabusLabel = appState.hubLabel('Syllabus');
 
     return Scaffold(
       backgroundColor: scaffoldBg,
@@ -39,7 +28,7 @@ class SyllabusScreen extends StatelessWidget {
           onPressed: () => appState.navigateToHome(),
         ),
         title: Text(
-          '$subjectName Syllabus',
+          '$subjectName $syllabusLabel',
           style: TextStyle(
             fontFamily: 'Outfit',
             fontWeight: FontWeight.bold,
@@ -67,7 +56,7 @@ class SyllabusScreen extends StatelessWidget {
                   itemBuilder: (context, index) {
                     final item = appState.syllabusList[index];
                     final tName = item['name'] ?? '';
-                    final tb = item['textbook'];
+                    final displayName = appState.topicDisplayNameFromItem(item);
 
                     return Card(
                       margin: const EdgeInsets.only(bottom: 12),
@@ -90,7 +79,7 @@ class SyllabusScreen extends StatelessWidget {
                           ),
                         ),
                         title: Text(
-                          tName,
+                          displayName,
                           style: TextStyle(
                             fontFamily: 'Outfit',
                             fontSize: 16,
@@ -98,18 +87,9 @@ class SyllabusScreen extends StatelessWidget {
                             color: textColor,
                           ),
                         ),
-                        subtitle: Text(
-                          tb != null ? tb['book'].toString().split(' (').first : 'Bilingual syllabus topic module',
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                          style: const TextStyle(
-                            fontFamily: 'Inter',
-                            fontSize: 12,
-                            color: Colors.grey,
-                          ),
-                        ),
                         trailing: Icon(Icons.arrow_forward_ios, size: 16, color: mutedColor),
                         onTap: () {
+                          // Keep English API topic key for data fetch.
                           appState.selectTopic(tName);
                         },
                       ),

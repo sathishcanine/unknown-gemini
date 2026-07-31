@@ -113,8 +113,6 @@ class _AppShellState extends State<AppShell> {
       currentIndex = 1;
     } else if (active == 'advisor') {
       currentIndex = 2;
-    } else if (active == 'profile') {
-      currentIndex = 3;
     }
 
     Widget body;
@@ -138,7 +136,8 @@ class _AppShellState extends State<AppShell> {
       body = const HomeScreen();
     }
 
-    final showBottomNav = active != 'quiz';
+    // Profile is opened from home settings; hide bottom nav there (and during quiz).
+    final showBottomNav = active != 'quiz' && active != 'profile';
     final isDark = appState.isDarkMode;
 
     return Scaffold(
@@ -157,8 +156,6 @@ class _AppShellState extends State<AppShell> {
                   appState.navigateToPerformance();
                 } else if (index == 2) {
                   appState.navigateToAdvisor();
-                } else if (index == 3) {
-                  appState.navigateToProfile();
                 }
               },
               items: const [
@@ -173,10 +170,6 @@ class _AppShellState extends State<AppShell> {
                 BottomNavigationBarItem(
                   icon: Icon(Icons.assistant),
                   label: 'AI Advisor',
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(Icons.person),
-                  label: 'Profile',
                 ),
               ],
             )

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../models/history.dart';
+import '../models/question.dart';
 import '../providers/app_state.dart';
 
 class ScoreRingPainter extends CustomPainter {
@@ -25,7 +27,7 @@ class ScoreRingPainter extends CustomPainter {
       ..strokeCap = StrokeCap.round;
 
     canvas.drawCircle(center, radius, bgPaint);
-    
+
     // Draw arc starting from top (-90 degrees)
     canvas.drawArc(
       Rect.fromCircle(center: center, radius: radius),
@@ -42,8 +44,17 @@ class ScoreRingPainter extends CustomPainter {
   }
 }
 
-class ResultsScreen extends StatelessWidget {
+enum _ReviewFilter { all, correct, incorrect }
+
+class ResultsScreen extends StatefulWidget {
   const ResultsScreen({Key? key}) : super(key: key);
+
+  @override
+  State<ResultsScreen> createState() => _ResultsScreenState();
+}
+
+class _ResultsScreenState extends State<ResultsScreen> {
+  _ReviewFilter _filter = _ReviewFilter.all;
 
   @override
   Widget build(context) {
@@ -80,6 +91,8 @@ class ResultsScreen extends StatelessWidget {
     } else {
       feedback = 'Needs improvement. Recommend re-reading focus areas.';
     }
+
+    final reviewItems = _buildReviewItems(session);
 
     return Scaffold(
       backgroundColor: const Color(0xFF0B0F19),
@@ -178,64 +191,38 @@ class ResultsScreen extends StatelessWidget {
             ),
             const SizedBox(height: 16),
 
-            // 2. Metrics blocks
+            // 2. Metrics blocks — Correct / Incorrect are tappable filters
             Row(
               children: [
                 Expanded(
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                    decoration: BoxDecoration(
-                      color: const Color(0x1110B981),
-                      borderRadius: BorderRadius.circular(12),
-                      border: Border.all(color: const Color(0x3310B981)),
-                    ),
-                    child: Column(
-                      children: [
-                        Text(
-                          '$correct',
-                          style: const TextStyle(
-                            fontFamily: 'Outfit',
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                            color: Color(0xFF10B981),
-                          ),
-                        ),
-                        const SizedBox(height: 4),
-                        const Text(
-                          'Correct',
-                          style: TextStyle(fontFamily: 'Inter', fontSize: 11, color: Colors.grey),
-                        ),
-                      ],
-                    ),
+                  child: _buildFilterMetric(
+                    value: '$correct',
+                    label: 'Correct',
+                    color: const Color(0xFF10B981),
+                    selected: _filter == _ReviewFilter.correct,
+                    onTap: () {
+                      setState(() {
+                        _filter = _filter == _ReviewFilter.correct
+                            ? _ReviewFilter.all
+                            : _ReviewFilter.correct;
+                      });
+                    },
                   ),
                 ),
                 const SizedBox(width: 12),
                 Expanded(
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                    decoration: BoxDecoration(
-                      color: const Color(0x11EF4444),
-                      borderRadius: BorderRadius.circular(12),
-                      border: Border.all(color: const Color(0x33EF4444)),
-                    ),
-                    child: Column(
-                      children: [
-                        Text(
-                          '$incorrect',
-                          style: const TextStyle(
-                            fontFamily: 'Outfit',
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                            color: Color(0xFFEF4444),
-                          ),
-                        ),
-                        const SizedBox(height: 4),
-                        const Text(
-                          'Incorrect',
-                          style: TextStyle(fontFamily: 'Inter', fontSize: 11, color: Colors.grey),
-                        ),
-                      ],
-                    ),
+                  child: _buildFilterMetric(
+                    value: '$incorrect',
+                    label: 'Incorrect',
+                    color: const Color(0xFFEF4444),
+                    selected: _filter == _ReviewFilter.incorrect,
+                    onTap: () {
+                      setState(() {
+                        _filter = _filter == _ReviewFilter.incorrect
+                            ? _ReviewFilter.all
+                            : _ReviewFilter.incorrect;
+                      });
+                    },
                   ),
                 ),
                 const SizedBox(width: 12),
@@ -272,11 +259,15 @@ class ResultsScreen extends StatelessWidget {
             const SizedBox(height: 28),
 
             // 3. Review Answers Title
-            const Align(
+            Align(
               alignment: Alignment.centerLeft,
               child: Text(
-                'Review Answers',
-                style: TextStyle(
+                _filter == _ReviewFilter.correct
+                    ? 'Review Answers · Correct'
+                    : _filter == _ReviewFilter.incorrect
+                        ? 'Review Answers · Incorrect'
+                        : 'Review Answers',
+                style: const TextStyle(
                   fontFamily: 'Outfit',
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
@@ -286,132 +277,144 @@ class ResultsScreen extends StatelessWidget {
             ),
             const SizedBox(height: 12),
 
-            // 4. Scrollable Answers List
-            ListView.builder(
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              itemCount: session.questions.length,
-              itemBuilder: (context, index) {
-                final q = session.questions[index];
-                final selected = session.answers[index.toString()] ?? 'E';
-                final isCorrect = selected == q.correctOption;
+            if (reviewItems.isEmpty)
+              Padding(
+                padding: const EdgeInsets.symmetric(vertical: 32),
+                child: Text(
+                  _filter == _ReviewFilter.correct
+                      ? 'No correct answers in this session.'
+                      : 'No incorrect answers in this session.',
+                  style: const TextStyle(fontFamily: 'Inter', color: Colors.grey),
+                ),
+              )
+            else
+              ListView.builder(
+                shrinkWrap: true,
+                physics: const NeverScrollableScrollPhysics(),
+                itemCount: reviewItems.length,
+                itemBuilder: (context, index) {
+                  final item = reviewItems[index];
+                  final q = item.question;
+                  final selected = item.selected;
+                  final isCorrect = item.isCorrect;
+                  final questionNo = item.originalIndex + 1;
 
-                return Card(
-                  margin: const EdgeInsets.only(bottom: 16),
-                  color: const Color(0xFF131A2A),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(16),
-                    side: BorderSide(color: Colors.white.withOpacity(0.04)),
-                  ),
-                  child: Padding(
-                    padding: const EdgeInsets.all(16.0),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          children: [
+                  return Card(
+                    margin: const EdgeInsets.only(bottom: 16),
+                    color: const Color(0xFF131A2A),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(16),
+                      side: BorderSide(color: Colors.white.withOpacity(0.04)),
+                    ),
+                    child: Padding(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              Text(
+                                'Question $questionNo',
+                                style: const TextStyle(
+                                  fontFamily: 'Outfit',
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.grey,
+                                ),
+                              ),
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                decoration: BoxDecoration(
+                                  color: isCorrect
+                                      ? const Color(0x2210B981)
+                                      : const Color(0x22EF4444),
+                                  borderRadius: BorderRadius.circular(6),
+                                ),
+                                child: Text(
+                                  isCorrect ? 'Correct' : 'Incorrect',
+                                  style: TextStyle(
+                                    fontFamily: 'Inter',
+                                    fontSize: 11,
+                                    fontWeight: FontWeight.bold,
+                                    color: isCorrect
+                                        ? const Color(0xFF10B981)
+                                        : const Color(0xFFEF4444),
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 12),
+                          Text(
+                            q.questionEn.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), ''),
+                            style: const TextStyle(
+                              fontFamily: 'Inter',
+                              fontSize: 14,
+                              color: Colors.white,
+                            ),
+                          ),
+                          if (q.questionTa.isNotEmpty && q.questionTa != q.questionEn) ...[
+                            const SizedBox(height: 8),
                             Text(
-                              'Question ${index + 1}',
+                              q.questionTa.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), ''),
                               style: const TextStyle(
-                                fontFamily: 'Outfit',
+                                fontFamily: 'Inter',
                                 fontSize: 13,
-                                fontWeight: FontWeight.bold,
                                 color: Colors.grey,
                               ),
                             ),
-                            Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                              decoration: BoxDecoration(
-                                color: isCorrect
-                                    ? const Color(0x2210B981)
-                                    : const Color(0x22EF4444),
-                                borderRadius: BorderRadius.circular(6),
-                              ),
-                              child: Text(
-                                isCorrect ? 'Correct' : 'Incorrect',
-                                style: TextStyle(
-                                  fontFamily: 'Inter',
-                                  fontSize: 11,
-                                  fontWeight: FontWeight.bold,
-                                  color: isCorrect
-                                      ? const Color(0xFF10B981)
-                                      : const Color(0xFFEF4444),
-                                ),
-                              ),
-                            ),
                           ],
-                        ),
-                        const SizedBox(height: 12),
-                        // Question content
-                        Text(
-                          q.questionEn.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), ''),
-                          style: const TextStyle(
-                            fontFamily: 'Inter',
-                            fontSize: 14,
-                            color: Colors.white,
+                          const SizedBox(height: 16),
+                          _buildReviewOptionStatus(
+                            'Your Answer: ($selected)',
+                            isCorrect ? Colors.green : Colors.red,
                           ),
-                        ),
-                        if (q.questionTa.isNotEmpty && q.questionTa != q.questionEn) ...[
-                          const SizedBox(height: 8),
+                          if (!isCorrect)
+                            _buildReviewOptionStatus(
+                              'Correct Answer: (${q.correctOption})',
+                              Colors.green,
+                            ),
+                          const SizedBox(height: 16),
+                          const Divider(color: Colors.white10),
+                          const SizedBox(height: 12),
+                          const Text(
+                            'Explanation:',
+                            style: TextStyle(
+                              fontFamily: 'Outfit',
+                              fontSize: 12,
+                              fontWeight: FontWeight.bold,
+                              color: Color(0xFF3B82F6),
+                            ),
+                          ),
+                          const SizedBox(height: 4),
                           Text(
-                            q.questionTa.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), ''),
+                            q.explanation,
                             style: const TextStyle(
                               fontFamily: 'Inter',
                               fontSize: 13,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                        const SizedBox(height: 16),
-
-                        // Render selection indicators
-                        _buildReviewOptionStatus('Your Answer: ($selected)', isCorrect ? Colors.green : Colors.red),
-                        if (!isCorrect)
-                          _buildReviewOptionStatus('Correct Answer: (${q.correctOption})', Colors.green),
-                        
-                        const SizedBox(height: 16),
-                        const Divider(color: Colors.white10),
-                        const SizedBox(height: 12),
-                        
-                        // Explanation
-                        const Text(
-                          'Explanation:',
-                          style: TextStyle(
-                            fontFamily: 'Outfit',
-                            fontSize: 12,
-                            fontWeight: FontWeight.bold,
-                            color: Color(0xFF3B82F6),
-                          ),
-                        ),
-                        const SizedBox(height: 4),
-                        Text(
-                          q.explanation,
-                          style: const TextStyle(
-                            fontFamily: 'Inter',
-                            fontSize: 13,
-                            height: 1.4,
-                            color: Colors.white70,
-                          ),
-                        ),
-                        if (q.explanationTa.isNotEmpty && q.explanationTa != q.explanation) ...[
-                          const SizedBox(height: 8),
-                          Text(
-                            q.explanationTa,
-                            style: const TextStyle(
-                              fontFamily: 'Inter',
-                              fontSize: 12,
                               height: 1.4,
-                              color: Colors.grey,
+                              color: Colors.white70,
                             ),
                           ),
+                          if (q.explanationTa.isNotEmpty && q.explanationTa != q.explanation) ...[
+                            const SizedBox(height: 8),
+                            Text(
+                              q.explanationTa,
+                              style: const TextStyle(
+                                fontFamily: 'Inter',
+                                fontSize: 12,
+                                height: 1.4,
+                                color: Colors.grey,
+                              ),
+                            ),
+                          ],
                         ],
-                      ],
+                      ),
                     ),
-                  ),
-                );
-              },
-            ),
+                  );
+                },
+              ),
 
             const SizedBox(height: 16),
             SizedBox(
@@ -440,6 +443,90 @@ class ResultsScreen extends StatelessWidget {
     );
   }
 
+  List<_ReviewItem> _buildReviewItems(HistoryEntry session) {
+    final items = <_ReviewItem>[];
+    for (var i = 0; i < session.questions.length; i++) {
+      final q = session.questions[i];
+      final selected = session.answers[i.toString()] ?? 'E';
+      final isCorrect = selected == q.correctOption;
+      items.add(
+        _ReviewItem(
+          originalIndex: i,
+          question: q,
+          selected: selected,
+          isCorrect: isCorrect,
+        ),
+      );
+    }
+
+    // Wrong questions first by default.
+    items.sort((a, b) {
+      if (a.isCorrect == b.isCorrect) {
+        return a.originalIndex.compareTo(b.originalIndex);
+      }
+      return a.isCorrect ? 1 : -1;
+    });
+
+    if (_filter == _ReviewFilter.correct) {
+      return items.where((e) => e.isCorrect).toList();
+    }
+    if (_filter == _ReviewFilter.incorrect) {
+      return items.where((e) => !e.isCorrect).toList();
+    }
+    return items;
+  }
+
+  Widget _buildFilterMetric({
+    required String value,
+    required String label,
+    required Color color,
+    required bool selected,
+    required VoidCallback onTap,
+  }) {
+    return Material(
+      color: Colors.transparent,
+      child: InkWell(
+        onTap: onTap,
+        borderRadius: BorderRadius.circular(12),
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 180),
+          padding: const EdgeInsets.symmetric(vertical: 16),
+          decoration: BoxDecoration(
+            color: color.withOpacity(selected ? 0.22 : 0.07),
+            borderRadius: BorderRadius.circular(12),
+            border: Border.all(
+              color: color.withOpacity(selected ? 0.85 : 0.2),
+              width: selected ? 1.6 : 1,
+            ),
+          ),
+          child: Column(
+            children: [
+              Text(
+                value,
+                style: TextStyle(
+                  fontFamily: 'Outfit',
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: color,
+                ),
+              ),
+              const SizedBox(height: 4),
+              Text(
+                label,
+                style: TextStyle(
+                  fontFamily: 'Inter',
+                  fontSize: 11,
+                  fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+                  color: selected ? Colors.white : Colors.grey,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
   Widget _buildReviewOptionStatus(String label, Color color) {
     return Container(
       width: double.infinity,
@@ -461,4 +548,18 @@ class ResultsScreen extends StatelessWidget {
       ),
     );
   }
+}
+
+class _ReviewItem {
+  final int originalIndex;
+  final Question question;
+  final String selected;
+  final bool isCorrect;
+
+  _ReviewItem({
+    required this.originalIndex,
+    required this.question,
+    required this.selected,
+    required this.isCorrect,
+  });
 }

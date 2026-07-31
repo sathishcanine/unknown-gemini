@@ -57,20 +57,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
     final cardBg = isDark ? const Color(0xFF131A2A) : Colors.white;
     final scaffoldBg = isDark ? const Color(0xFF0B0F19) : const Color(0xFFF1F5F9);
 
-    final subjectName = appState.activeSubject == 'Economy'
-        ? 'Indian Economy'
-        : appState.activeSubject == 'Polity'
-            ? 'Indian Polity'
-            : appState.activeSubject == 'Policy'
-                ? 'Policy Notes'
-                : appState.activeSubject == 'History'
-                    ? 'Indian History'
-                    : appState.activeSubject == 'INM'
-                        ? 'Indian National Movement'
-                        : appState.activeSubject == 'Chemistry'
-                            ? 'Chemistry'
-                            : 'Current Affairs';
-    final topicName = appState.activeTopic ?? subjectName;
+    final topicName = appState.activeTopicDisplayName();
 
     // Group questions by type / batch
     final pyqList = _allQuestions.where((q) => q.type.toLowerCase() == 'pyq').toList();
@@ -222,9 +209,9 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                       ),
                       const SizedBox(height: 28),
 
-                      // 2. Practice Batches
+                      // 2. Practice Batches — compact 3-row panel
                       Text(
-                        'Practice Batches (Textbook Generated)',
+                        appState.hubLabel('Practice Batches'),
                         style: TextStyle(
                           fontFamily: 'Outfit',
                           fontSize: 16,
@@ -232,7 +219,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                           color: textColor,
                         ),
                       ),
-                      const SizedBox(height: 10),
+                      const SizedBox(height: 12),
                       if (sortedBatchKeys.isEmpty)
                         Center(
                           child: Padding(
@@ -244,87 +231,128 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                           ),
                         )
                       else
-                        ListView.builder(
-                          shrinkWrap: true,
-                          physics: const NeverScrollableScrollPhysics(),
-                          itemCount: sortedBatchKeys.length,
-                          itemBuilder: (context, index) {
-                            final bKey = sortedBatchKeys[index];
-                            final bQs = batchesMap[bKey]!;
-
-                            return Card(
-                              margin: const EdgeInsets.only(bottom: 12),
-                              color: cardBg,
-                              shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(16),
-                                side: BorderSide(color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04)),
-                              ),
-                              child: Padding(
-                                padding: const EdgeInsets.all(16.0),
-                                child: Row(
-                                  children: [
-                                    Container(
-                                      padding: const EdgeInsets.all(12),
-                                      decoration: BoxDecoration(
-                                        color: Colors.purple.withOpacity(0.1),
-                                        borderRadius: BorderRadius.circular(12),
-                                      ),
-                                      child: const Text('⚡', style: TextStyle(fontSize: 22)),
-                                    ),
-                                    const SizedBox(width: 16),
-                                    Expanded(
-                                      child: Column(
-                                        crossAxisAlignment: CrossAxisAlignment.start,
-                                        children: [
-                                          Text(
-                                            'Practice Batch $bKey',
-                                            style: TextStyle(
-                                              fontFamily: 'Outfit',
-                                              fontSize: 15,
-                                              fontWeight: FontWeight.bold,
-                                              color: textColor,
-                                            ),
-                                          ),
-                                          const SizedBox(height: 4),
-                                          Text(
-                                            '${bQs.length} Questions Available',
-                                            style: TextStyle(
-                                              fontFamily: 'Inter',
-                                              fontSize: 12,
-                                              color: mutedColor,
-                                            ),
-                                          ),
-                                        ],
-                                      ),
-                                    ),
-                                    ElevatedButton(
-                                      style: ElevatedButton.styleFrom(
-                                        backgroundColor: const Color(0xFF10B981),
-                                        foregroundColor: Colors.white,
-                                        shape: RoundedRectangleBorder(
-                                          borderRadius: BorderRadius.circular(8),
-                                        ),
-                                        elevation: 0,
-                                      ),
-                                      onPressed: () => _showStartDialog(bQs),
-                                      child: const Text(
-                                        'Start',
-                                        style: TextStyle(
-                                          fontFamily: 'Inter',
-                                          fontWeight: FontWeight.bold,
-                                          fontSize: 12,
-                                        ),
-                                      ),
-                                    ),
-                                  ],
+                        Container(
+                          decoration: BoxDecoration(
+                            color: cardBg,
+                            borderRadius: BorderRadius.circular(18),
+                            border: Border.all(
+                              color: isDark
+                                  ? Colors.white.withOpacity(0.06)
+                                  : Colors.black.withOpacity(0.05),
+                            ),
+                          ),
+                          child: Column(
+                            children: [
+                              for (int index = 0; index < sortedBatchKeys.length; index++) ...[
+                                if (index > 0)
+                                  Divider(
+                                    height: 1,
+                                    thickness: 1,
+                                    color: isDark
+                                        ? Colors.white.withOpacity(0.06)
+                                        : Colors.black.withOpacity(0.05),
+                                  ),
+                                _buildPracticeBatchRow(
+                                  appState: appState,
+                                  index: index,
+                                  batchKey: sortedBatchKeys[index],
+                                  questions: batchesMap[sortedBatchKeys[index]]!,
+                                  textColor: textColor,
+                                  mutedColor: mutedColor,
+                                  isDark: isDark,
                                 ),
-                              ),
-                            );
-                          },
+                              ],
+                            ],
+                          ),
                         ),
                     ],
                   ),
                 ),
+    );
+  }
+
+  Widget _buildPracticeBatchRow({
+    required AppState appState,
+    required int index,
+    required String batchKey,
+    required List<Question> questions,
+    required Color textColor,
+    required Color mutedColor,
+    required bool isDark,
+  }) {
+    final number = (index + 1).toString().padLeft(2, '0');
+    final accent = const Color(0xFF10B981);
+
+    return InkWell(
+      onTap: () => _showStartDialog(questions),
+      borderRadius: BorderRadius.circular(index == 0 ? 18 : 0),
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 14),
+        child: Row(
+          children: [
+            Container(
+              width: 42,
+              height: 42,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(12),
+                color: accent.withOpacity(0.12),
+              ),
+              child: Text(
+                number,
+                style: TextStyle(
+                  fontFamily: 'Outfit',
+                  fontSize: 15,
+                  fontWeight: FontWeight.w800,
+                  color: accent,
+                ),
+              ),
+            ),
+            const SizedBox(width: 14),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    appState.practiceBatchLabel(batchKey),
+                    style: TextStyle(
+                      fontFamily: 'Outfit',
+                      fontSize: 15,
+                      fontWeight: FontWeight.bold,
+                      color: textColor,
+                    ),
+                  ),
+                  const SizedBox(height: 3),
+                  Text(
+                    appState.questionsAvailableLabel(questions.length),
+                    style: TextStyle(
+                      fontFamily: 'Inter',
+                      fontSize: 12,
+                      color: mutedColor,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+              decoration: BoxDecoration(
+                color: accent,
+                borderRadius: BorderRadius.circular(10),
+              ),
+              child: Text(
+                appState.hubLabel('Start'),
+                style: const TextStyle(
+                  fontFamily: 'Inter',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 12,
+                  color: Colors.white,
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 

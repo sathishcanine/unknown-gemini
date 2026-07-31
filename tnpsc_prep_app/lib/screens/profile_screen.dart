@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/app_state.dart';
+import '../widgets/content_language_toggle.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({Key? key}) : super(key: key);
@@ -19,6 +20,10 @@ class ProfileScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: scaffoldBg,
         elevation: 0,
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: textColor),
+          onPressed: () => appState.navigateToHome(),
+        ),
         title: Text(
           'Profile Settings',
           style: TextStyle(
@@ -140,6 +145,43 @@ class ProfileScreen extends StatelessWidget {
                 onChanged: (bool val) {
                   appState.toggleTheme();
                 },
+              ),
+            ),
+            const SizedBox(height: 12),
+
+            // Content language toggle
+            Card(
+              color: cardBg,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(16),
+                side: BorderSide(color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04)),
+              ),
+              child: ListTile(
+                contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                leading: Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF3B82F6).withOpacity(0.1),
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: const Icon(Icons.translate, color: Color(0xFF3B82F6), size: 20),
+                ),
+                title: Text(
+                  'Content Language',
+                  style: TextStyle(
+                    fontFamily: 'Outfit',
+                    fontSize: 15,
+                    fontWeight: FontWeight.bold,
+                    color: textColor,
+                  ),
+                ),
+                subtitle: Text(
+                  appState.isTamilContent
+                      ? 'Menus & topic titles shown in Tamil'
+                      : 'Menus & topic titles shown in English',
+                  style: const TextStyle(fontFamily: 'Inter', fontSize: 11, color: Colors.grey),
+                ),
+                trailing: const ContentLanguageToggle(compact: false),
               ),
             ),
             const SizedBox(height: 24),

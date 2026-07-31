@@ -101,27 +101,34 @@ Each object must have the following keys:
 - "source_fact": The English fact(s) this question is based on.
 """
 
-    raw_text = call_gemini_api(prompt, api_key)
+    last_err = None
+    for attempt in range(1, 4):
+        raw_text = call_gemini_api(prompt, api_key)
 
-    start_idx = raw_text.find("[")
-    if start_idx != -1:
-        count = 0
-        for idx in range(start_idx, len(raw_text)):
-            if raw_text[idx] == "[":
-                count += 1
-            elif raw_text[idx] == "]":
-                count -= 1
-                if count == 0:
-                    raw_text = raw_text[start_idx : idx + 1]
-                    break
+        start_idx = raw_text.find("[")
+        if start_idx != -1:
+            count = 0
+            for idx in range(start_idx, len(raw_text)):
+                if raw_text[idx] == "[":
+                    count += 1
+                elif raw_text[idx] == "]":
+                    count -= 1
+                    if count == 0:
+                        raw_text = raw_text[start_idx : idx + 1]
+                        break
 
-    try:
-        return json.loads(raw_text)
-    except Exception as e:
-        print(f"Error parsing JSON response: {e}")
-        print("Raw output was:")
-        print(raw_text[:2000])
-        raise e
+        try:
+            return json.loads(raw_text)
+        except Exception as e:
+            last_err = e
+            print(f"Error parsing JSON response (attempt {attempt}/3): {e}")
+            print("Raw output was:")
+            print(raw_text[:2000])
+            if attempt < 3:
+                print("Retrying generation after truncated/invalid JSON...")
+                time.sleep(3 * attempt)
+
+    raise last_err
 
 
 def load_existing_questions(db_path, topic):
@@ -176,8 +183,40 @@ def main():
         print(f"Error: No facts found for topic '{args.topic}'")
         exit(1)
 
-    sliced_facts = all_topic_facts
-    print(f"Loaded all {len(sliced_facts)} facts for topic '{args.topic}' for generation.")
+    # Prefer explicit --start/--end; otherwise partition large fact banks by batch
+    # so each batch covers a different slice (keeps prompts under API limits).
+    if args.start is not None or args.end is not None:
+        start = args.start if args.start is not None else 0
+        end = args.end if args.end is not None else len(all_topic_facts)
+        sliced_facts = all_topic_facts[start:end]
+        print(
+            f"Loaded facts [{start}:{end}] -> {len(sliced_facts)} of "
+            f"{len(all_topic_facts)} for topic '{args.topic}'."
+        )
+    elif len(all_topic_facts) > 120:
+        try:
+            b_idx = max(int(batch_num) - 1, 0)
+        except ValueError:
+            b_idx = 0
+        chunk = (len(all_topic_facts) + 3) // 4
+        start = b_idx * chunk
+        end = min(start + chunk, len(all_topic_facts))
+        # Final batch takes any remaining tail
+        if b_idx >= 3:
+            start = 3 * chunk
+            end = len(all_topic_facts)
+        sliced_facts = all_topic_facts[start:end]
+        print(
+            f"Partitioned facts for Batch {batch_num}: [{start}:{end}] "
+            f"-> {len(sliced_facts)} of {len(all_topic_facts)} for topic '{args.topic}'."
+        )
+    else:
+        sliced_facts = all_topic_facts
+        print(f"Loaded all {len(sliced_facts)} facts for topic '{args.topic}' for generation.")
+
+    if len(sliced_facts) < 15:
+        print(f"Error: Too few facts in slice ({len(sliced_facts)}). Need at least 15.")
+        exit(1)
 
     existing_qs = load_existing_questions(DB_PATH, args.topic)
     exclusion_texts = [
@@ -185,122 +224,137 @@ def main():
     ]
     print(f"Found {len(existing_qs)} existing questions for exclusions.")
 
-    print(f"Calling Gemini to generate practice questions for Batch {batch_num}...")
-    raw_questions = call_gemini_generation(
-        args.topic, batch_num, sliced_facts, exclusion_texts, api_key
-    )
-    print(f"Received {len(raw_questions)} questions from Gemini.")
-
     valid_medium = []
     valid_hard = []
+    for gen_attempt in range(1, 4):
+        print(
+            f"Calling Gemini to generate practice questions for Batch {batch_num} "
+            f"(attempt {gen_attempt}/3)..."
+        )
+        raw_questions = call_gemini_generation(
+            args.topic, batch_num, sliced_facts, exclusion_texts, api_key
+        )
+        print(f"Received {len(raw_questions)} questions from Gemini.")
 
-    for q in raw_questions:
-        required_keys = [
-            "question_en",
-            "question_ta",
-            "options_en",
-            "options_ta",
-            "answer_en",
-            "answer_ta",
-            "explanation_en",
-            "explanation_ta",
-            "difficulty",
-        ]
-        if not all(k in q for k in required_keys):
-            continue
+        valid_medium = []
+        valid_hard = []
 
-        if not isinstance(q["options_en"], list) or not isinstance(q["options_ta"], list):
-            print("  Discarding question: options_en and options_ta must be JSON lists.")
-            continue
-        if len(q["options_en"]) != 4 or len(q["options_ta"]) != 4:
-            print("  Discarding question: options_en and options_ta must have exactly 4 items.")
-            continue
-
-        ans_en = q["answer_en"].strip()
-        ans_ta = q["answer_ta"].strip()
-
-        if ans_en not in q["options_en"] or ans_ta not in q["options_ta"]:
-            print(f"  Discarding question due to mismatched option/answer: {ans_en}")
-            continue
-
-        is_match = False
-        if "match" in q["question_en"].lower() or "பொருத்து" in q["question_ta"].lower():
-            is_match = True
-
-        if is_match:
-            q_text_lower = q["question_en"].lower()
-            has_abcd = (
-                all(p in q_text_lower for p in ["a)", "b)", "c)", "d)"])
-                or all(p in q_text_lower for p in ["a.", "b.", "c.", "d."])
-                or all(p in q_text_lower for p in ["a -", "b -", "c -", "d -"])
-            )
-            has_1234 = (
-                all(p in q_text_lower for p in ["1.", "2.", "3.", "4."])
-                or all(p in q_text_lower for p in ["1)", "2)", "3)", "4)"])
-                or all(p in q_text_lower for p in ["1 -", "2 -", "3 -", "4 -"])
-            )
-            if not (has_abcd and has_1234):
-                print(
-                    f"  Discarding match question due to sub-standard match layout (not 4x4): {q['question_en'][:100]}..."
-                )
+        for q in raw_questions:
+            required_keys = [
+                "question_en",
+                "question_ta",
+                "options_en",
+                "options_ta",
+                "answer_en",
+                "answer_ta",
+                "explanation_en",
+                "explanation_ta",
+                "difficulty",
+            ]
+            if not all(k in q for k in required_keys):
                 continue
 
-        combined_len = (
-            len(q["question_en"])
-            + len(q["question_ta"])
-            + len(q["explanation_en"])
-            + len(q["explanation_ta"])
-        )
-        if combined_len < 180:
-            print(f"  Discarding question due to short explanation length: {combined_len} chars")
-            continue
+            if not isinstance(q["options_en"], list) or not isinstance(q["options_ta"], list):
+                print("  Discarding question: options_en and options_ta must be JSON lists.")
+                continue
+            if len(q["options_en"]) != 4 or len(q["options_ta"]) != 4:
+                print("  Discarding question: options_en and options_ta must have exactly 4 items.")
+                continue
 
-        correct_index = q["options_en"].index(ans_en)
-        keys_map = ["A", "B", "C", "D"]
-        correct_key = keys_map[correct_index]
+            ans_en = q["answer_en"].strip()
+            ans_ta = q["answer_ta"].strip()
 
-        standard_options = []
-        for i in range(4):
+            if ans_en not in q["options_en"] or ans_ta not in q["options_ta"]:
+                print(f"  Discarding question due to mismatched option/answer: {ans_en}")
+                continue
+
+            is_match = False
+            if "match" in q["question_en"].lower() or "பொருத்து" in q["question_ta"].lower():
+                is_match = True
+
+            if is_match:
+                q_text_lower = q["question_en"].lower()
+                has_abcd = (
+                    all(p in q_text_lower for p in ["a)", "b)", "c)", "d)"])
+                    or all(p in q_text_lower for p in ["a.", "b.", "c.", "d."])
+                    or all(p in q_text_lower for p in ["a -", "b -", "c -", "d -"])
+                )
+                has_1234 = (
+                    all(p in q_text_lower for p in ["1.", "2.", "3.", "4."])
+                    or all(p in q_text_lower for p in ["1)", "2)", "3)", "4)"])
+                    or all(p in q_text_lower for p in ["1 -", "2 -", "3 -", "4 -"])
+                )
+                if not (has_abcd and has_1234):
+                    print(
+                        f"  Discarding match question due to sub-standard match layout (not 4x4): {q['question_en'][:100]}..."
+                    )
+                    continue
+
+            combined_len = (
+                len(q["question_en"])
+                + len(q["question_ta"])
+                + len(q["explanation_en"])
+                + len(q["explanation_ta"])
+            )
+            if combined_len < 180:
+                print(f"  Discarding question due to short explanation length: {combined_len} chars")
+                continue
+
+            correct_index = q["options_en"].index(ans_en)
+            keys_map = ["A", "B", "C", "D"]
+            correct_key = keys_map[correct_index]
+
+            standard_options = []
+            for i in range(4):
+                standard_options.append(
+                    {
+                        "key": keys_map[i],
+                        "text_en": q["options_en"][i].strip(),
+                        "text_ta": q["options_ta"][i].strip(),
+                    }
+                )
+
             standard_options.append(
                 {
-                    "key": keys_map[i],
-                    "text_en": q["options_en"][i].strip(),
-                    "text_ta": q["options_ta"][i].strip(),
+                    "key": "E",
+                    "text_en": "Answer not known",
+                    "text_ta": "விடை தெரியவில்லை",
                 }
             )
 
-        standard_options.append(
-            {
-                "key": "E",
-                "text_en": "Answer not known",
-                "text_ta": "விடை தெரியவில்லை",
+            standard_q = {
+                "subject": "TVK",
+                "topic": args.topic,
+                "source_exam": f"Practice Batch {batch_num}",
+                "difficulty": q["difficulty"].strip().capitalize(),
+                "question_en": q["question_en"].strip(),
+                "question_ta": q["question_ta"].strip(),
+                "options": standard_options,
+                "correct_option": correct_key,
+                "explanation": q["explanation_en"].strip(),
+                "explanation_ta": q["explanation_ta"].strip(),
+                "type": "practice",
+                "batch": f"Batch {batch_num}",
+                "group": "Practice",
+                "source_fact": q.get("source_fact", "").strip(),
             }
+
+            diff = q["difficulty"].lower()
+            if diff == "medium":
+                valid_medium.append(standard_q)
+            elif diff == "hard":
+                valid_hard.append(standard_q)
+
+        print(f"Valid questions - Medium: {len(valid_medium)}, Hard: {len(valid_hard)}")
+
+        if len(valid_medium) + len(valid_hard) >= 30:
+            break
+
+        print(
+            f"Not enough valid questions yet "
+            f"(Medium: {len(valid_medium)}, Hard: {len(valid_hard)}). Retrying..."
         )
-
-        standard_q = {
-            "subject": "TVK",
-            "topic": args.topic,
-            "source_exam": f"Practice Batch {batch_num}",
-            "difficulty": q["difficulty"].strip().capitalize(),
-            "question_en": q["question_en"].strip(),
-            "question_ta": q["question_ta"].strip(),
-            "options": standard_options,
-            "correct_option": correct_key,
-            "explanation": q["explanation_en"].strip(),
-            "explanation_ta": q["explanation_ta"].strip(),
-            "type": "practice",
-            "batch": f"Batch {batch_num}",
-            "group": "Practice",
-            "source_fact": q.get("source_fact", "").strip(),
-        }
-
-        diff = q["difficulty"].lower()
-        if diff == "medium":
-            valid_medium.append(standard_q)
-        elif diff == "hard":
-            valid_hard.append(standard_q)
-
-    print(f"Valid questions - Medium: {len(valid_medium)}, Hard: {len(valid_hard)}")
+        time.sleep(2 * gen_attempt)
 
     if len(valid_medium) + len(valid_hard) < 30:
         print(

@@ -232,8 +232,8 @@ class ProfileScreen extends StatelessWidget {
                       style: TextStyle(fontFamily: 'Inter', fontSize: 11, color: Colors.grey),
                     ),
                     trailing: Icon(Icons.chevron_right, color: mutedColor),
-                    onTap: () async {
-                      await appState.signOut();
+                    onTap: () {
+                      _showLogoutConfirmationDialog(context, appState);
                     },
                   ),
                   Divider(color: isDark ? Colors.white12 : Colors.black12, height: 1),
@@ -275,6 +275,66 @@ class ProfileScreen extends StatelessWidget {
     );
   }
 
+  void _showLogoutConfirmationDialog(BuildContext context, AppState appState) {
+    showDialog(
+      context: context,
+      builder: (BuildContext dialogContext) {
+        final isDark = appState.isDarkMode;
+        final dialogBg = isDark ? const Color(0xFF131A2A) : Colors.white;
+        final txtColor = isDark ? Colors.white : const Color(0xFF0F172A);
+
+        return AlertDialog(
+          backgroundColor: dialogBg,
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          title: Text(
+            'Logout?',
+            style: TextStyle(
+              fontFamily: 'Outfit',
+              fontWeight: FontWeight.bold,
+              color: txtColor,
+              fontSize: 18,
+            ),
+          ),
+          content: Text(
+            'Are you sure you want to sign out of this session on this device?',
+            style: TextStyle(
+              fontFamily: 'Inter',
+              color: isDark ? Colors.white70 : Colors.black87,
+              fontSize: 14,
+              height: 1.4,
+            ),
+          ),
+          actions: [
+            TextButton(
+              child: const Text(
+                'Cancel',
+                style: TextStyle(fontFamily: 'Outfit', fontWeight: FontWeight.bold),
+              ),
+              onPressed: () {
+                Navigator.of(dialogContext).pop();
+              },
+            ),
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.orange,
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+              ),
+              onPressed: () async {
+                Navigator.of(dialogContext).pop();
+                await appState.signOut();
+              },
+              child: const Text(
+                'Logout',
+                style: TextStyle(fontFamily: 'Outfit', fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   void _showDeleteConfirmationDialog(BuildContext context, AppState appState) {
     showDialog(
       context: context,
@@ -287,7 +347,7 @@ class ProfileScreen extends StatelessWidget {
           backgroundColor: dialogBg,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
           title: Text(
-            '⚠️ Permanent Account Deletion?',
+            'Delete Account?',
             style: TextStyle(
               fontFamily: 'Outfit',
               fontWeight: FontWeight.bold,
@@ -296,7 +356,7 @@ class ProfileScreen extends StatelessWidget {
             ),
           ),
           content: Text(
-            'This action is irreversible. Deleting your account will completely wipe your user records, practice test histories, and scores from our PostgreSQL database. Are you sure you want to proceed?',
+            'This action is irreversible. Deleting your account will permanently wipe your user records, practice test histories, and scores. Do you want to continue?',
             style: TextStyle(
               fontFamily: 'Inter',
               color: isDark ? Colors.white70 : Colors.black87,
@@ -320,19 +380,152 @@ class ProfileScreen extends StatelessWidget {
                 foregroundColor: Colors.white,
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
               ),
-              onPressed: () async {
+              onPressed: () {
                 Navigator.of(dialogContext).pop();
-                // Execute deletion
-                await appState.deleteUserAccount();
+                _showDeleteFinalConfirmationDialog(context, appState);
               },
               child: const Text(
-                'Delete Permanently',
+                'Continue',
                 style: TextStyle(fontFamily: 'Outfit', fontWeight: FontWeight.bold),
               ),
             ),
           ],
         );
       },
+    );
+  }
+
+  Future<void> _showDeleteFinalConfirmationDialog(BuildContext context, AppState appState) async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext dialogContext) {
+        return _DeleteFinalConfirmationDialog(isDark: appState.isDarkMode);
+      },
+    );
+
+    if (confirmed == true) {
+      await appState.deleteUserAccount();
+    }
+  }
+}
+
+class _DeleteFinalConfirmationDialog extends StatefulWidget {
+  final bool isDark;
+
+  const _DeleteFinalConfirmationDialog({required this.isDark});
+
+  @override
+  State<_DeleteFinalConfirmationDialog> createState() => _DeleteFinalConfirmationDialogState();
+}
+
+class _DeleteFinalConfirmationDialogState extends State<_DeleteFinalConfirmationDialog> {
+  late final TextEditingController _confirmController;
+
+  @override
+  void initState() {
+    super.initState();
+    _confirmController = TextEditingController();
+  }
+
+  @override
+  void dispose() {
+    _confirmController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = widget.isDark;
+    final dialogBg = isDark ? const Color(0xFF131A2A) : Colors.white;
+    final txtColor = isDark ? Colors.white : const Color(0xFF0F172A);
+    final canDelete = _confirmController.text.trim().toUpperCase() == 'DELETE';
+
+    return AlertDialog(
+      backgroundColor: dialogBg,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      title: Text(
+        'Final Confirmation',
+        style: TextStyle(
+          fontFamily: 'Outfit',
+          fontWeight: FontWeight.bold,
+          color: txtColor,
+          fontSize: 18,
+        ),
+      ),
+      content: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            'Type DELETE below to permanently erase your account and all associated data.',
+            style: TextStyle(
+              fontFamily: 'Inter',
+              color: isDark ? Colors.white70 : Colors.black87,
+              fontSize: 14,
+              height: 1.4,
+            ),
+          ),
+          const SizedBox(height: 16),
+          TextField(
+            controller: _confirmController,
+            autofocus: true,
+            onChanged: (_) => setState(() {}),
+            style: TextStyle(
+              fontFamily: 'Outfit',
+              fontWeight: FontWeight.bold,
+              color: txtColor,
+            ),
+            decoration: InputDecoration(
+              hintText: 'DELETE',
+              hintStyle: TextStyle(
+                fontFamily: 'Outfit',
+                color: isDark ? Colors.white38 : Colors.black38,
+              ),
+              filled: true,
+              fillColor: isDark ? Colors.white.withOpacity(0.06) : Colors.black.withOpacity(0.04),
+              border: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(8),
+                borderSide: BorderSide(
+                  color: isDark ? Colors.white24 : Colors.black12,
+                ),
+              ),
+              enabledBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(8),
+                borderSide: BorderSide(
+                  color: isDark ? Colors.white24 : Colors.black12,
+                ),
+              ),
+              focusedBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(8),
+                borderSide: const BorderSide(color: Colors.red, width: 1.5),
+              ),
+            ),
+          ),
+        ],
+      ),
+      actions: [
+        TextButton(
+          child: const Text(
+            'Cancel',
+            style: TextStyle(fontFamily: 'Outfit', fontWeight: FontWeight.bold),
+          ),
+          onPressed: () => Navigator.of(context).pop(false),
+        ),
+        ElevatedButton(
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.red,
+            foregroundColor: Colors.white,
+            disabledBackgroundColor: Colors.red.withOpacity(0.35),
+            disabledForegroundColor: Colors.white70,
+            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+          ),
+          onPressed: canDelete ? () => Navigator.of(context).pop(true) : null,
+          child: const Text(
+            'Delete Permanently',
+            style: TextStyle(fontFamily: 'Outfit', fontWeight: FontWeight.bold),
+          ),
+        ),
+      ],
     );
   }
 }

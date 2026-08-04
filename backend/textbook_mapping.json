@@ -1190,5 +1190,221 @@
     "chapter": "TVK-Government Policies",
     "pages": "",
     "focus": "TVK government policies, schemes, budgets, and welfare programmes."
+  },
+  "Ministry of Agriculture & Farmers Welfare": {
+    "title": "Ministry of Agriculture & Farmers Welfare",
+    "titleTa": "வேளாண்மை மற்றும் விவசாயிகள் நல அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Agriculture & Farmers Welfare."
+  },
+  "Ministry of Commerce & Industry": {
+    "title": "Ministry of Commerce & Industry",
+    "titleTa": "வர்த்தகம் மற்றும் தொழில் அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Commerce & Industry."
+  },
+  "Ministry of Earth Sciences": {
+    "title": "Ministry of Earth Sciences",
+    "titleTa": "பூமி அறிவியல் அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Earth Sciences."
+  },
+  "Ministry of Education": {
+    "title": "Ministry of Education",
+    "titleTa": "கல்வி அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Education."
+  },
+  "Ministry of Finance": {
+    "title": "Ministry of Finance",
+    "titleTa": "நிதி அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Finance."
+  },
+  "Ministry of Fisheries, Animal Husbandry and Dairying": {
+    "title": "Ministry of Fisheries, Animal Husbandry and Dairying",
+    "titleTa": "மீன்வளம், கால்நடை மற்றும் பால்வள அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Fisheries, Animal Husbandry and Dairying."
+  },
+  "Ministry of Health & Family Welfare": {
+    "title": "Ministry of Health & Family Welfare",
+    "titleTa": "சுகாதாரம் மற்றும் குடும்ப நல அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Health & Family Welfare."
+  },
+  "Ministry of Housing and Urban Affairs (MOHUA)": {
+    "title": "Ministry of Housing and Urban Affairs (MOHUA)",
+    "titleTa": "வீட்டுவசதி மற்றும் நகர்ப்புற விவகார அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Housing and Urban Affairs."
+  },
+  "Ministry of Jal Shakti": {
+    "title": "Ministry of Jal Shakti",
+    "titleTa": "ஜல் சக்தி அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Jal Shakti."
+  },
+  "Ministry of Labour & Employment": {
+    "title": "Ministry of Labour & Employment",
+    "titleTa": "தொழிலாளர் மற்றும் வேலைவாய்ப்பு அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Labour & Employment."
+  },
+  "Ministry of Micro, Small & Medium Enterprises": {
+    "title": "Ministry of Micro, Small & Medium Enterprises",
+    "titleTa": "குறு, சிறு மற்றும் நடுத்தர தொழில் நிறுவனங்கள் அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of MSME."
+  },
+  "Ministry of Minority Affairs": {
+    "title": "Ministry of Minority Affairs",
+    "titleTa": "சிறுபான்மையினர் நல அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Minority Affairs."
+  },
+  "Ministry of New and Renewable Energy": {
+    "title": "Ministry of New and Renewable Energy",
+    "titleTa": "புதிய மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of New and Renewable Energy."
+  },
+  "NITI Aayog": {
+    "title": "NITI Aayog",
+    "titleTa": "நிதி ஆயோக்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes and initiatives under NITI Aayog."
+  },
+  "Ministry of Panchayati Raj": {
+    "title": "Ministry of Panchayati Raj",
+    "titleTa": "பஞ்சாயத்து ராஜ் அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Panchayati Raj."
+  },
+  "Ministry of Petroleum and Natural Gas": {
+    "title": "Ministry of Petroleum and Natural Gas",
+    "titleTa": "பெட்ரோலியம் மற்றும் இயற்கை எரிவாயு அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Petroleum and Natural Gas."
+  },
+  "Ministry of Rural Development": {
+    "title": "Ministry of Rural Development",
+    "titleTa": "ஊரக வளர்ச்சி அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Rural Development."
+  },
+  "Ministry of Skill Development and Entrepreneurship": {
+    "title": "Ministry of Skill Development and Entrepreneurship",
+    "titleTa": "திறன் மேம்பாடு மற்றும் தொழில்முனைவோர் அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Skill Development and Entrepreneurship."
+  },
+  "Ministry of Social Justice and Empowerment": {
+    "title": "Ministry of Social Justice and Empowerment",
+    "titleTa": "சமூக நீதி மற்றும் அதிகாரமளித்தல் அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Social Justice and Empowerment."
+  },
+  "Ministry of Tribal Affairs": {
+    "title": "Ministry of Tribal Affairs",
+    "titleTa": "பழங்குடியினர் விவகார அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Tribal Affairs."
+  },
+  "Ministry of Women & Child Development": {
+    "title": "Ministry of Women & Child Development",
+    "titleTa": "மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Ministry of Women & Child Development."
+  },
+  "Culture & Communications": {
+    "title": "Culture & Communications",
+    "titleTa": "கலாச்சாரம் மற்றும் தகவல் தொடர்பு",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Culture and Communications ministries."
+  },
+  "Civil Aviation & Heavy Industries": {
+    "title": "Civil Aviation & Heavy Industries",
+    "titleTa": "சிவில் விமானப் போக்குவரத்து மற்றும் கனரகத் தொழில்கள்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Civil Aviation and Heavy Industries."
+  },
+  "Chemicals, Fertilisers & Mines": {
+    "title": "Chemicals, Fertilisers & Mines",
+    "titleTa": "இரசாயனங்கள், உரங்கள் மற்றும் சுரங்கங்கள்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Chemicals, Fertilisers and Mines."
+  },
+  "Corporate Affairs & Electronics / IT": {
+    "title": "Corporate Affairs & Electronics / IT",
+    "titleTa": "நிறுவன விவகாரங்கள் மற்றும் மின்னணு / தகவல் தொழில்நுட்பம்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Corporate Affairs and Electronics / IT."
+  },
+  "Home Affairs & North Eastern Region Development": {
+    "title": "Home Affairs & North Eastern Region Development",
+    "titleTa": "உள்துறை மற்றும் வடகிழக்கு மண்டல மேம்பாடு",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Home Affairs and North Eastern Region Development."
+  },
+  "Consumer Affairs & Environment": {
+    "title": "Consumer Affairs & Environment",
+    "titleTa": "நுகர்வோர் விவகாரங்கள் மற்றும் சுற்றுச்சூழல்",
+    "book": "Union Government Schemes",
+    "chapter": "Central Government Schemes",
+    "pages": "",
+    "focus": "Central schemes under Consumer Affairs and Environment."
   }
 }

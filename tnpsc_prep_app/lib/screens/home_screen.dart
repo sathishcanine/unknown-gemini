@@ -326,6 +326,17 @@ class _HomeScreenState extends State<HomeScreen> {
           isDark: isDark,
           onTap: () => appState.selectSubject('TVK'),
         ),
+        const SizedBox(height: 12),
+        _buildFullWidthMenuCard(
+          title: appState.subjectDisplayName('CGS').isNotEmpty
+              ? appState.subjectDisplayName('CGS')
+              : appState.hubLabel('Central Government Schemes'),
+          subtitle: appState.hubLabel('Union Schemes'),
+          imageAsset: 'assets/icon/central_gov_schemes.png',
+          accentColor: const Color(0xFFEA580C),
+          isDark: isDark,
+          onTap: () => appState.selectSubject('CGS'),
+        ),
       ],
     );
   }
@@ -512,9 +523,12 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildGeneralStudiesSubjects(AppState appState, bool isDark, Color textColor, Color cardBg, Color mutedColor) {
-    // Filter out Current Affairs and TVK (TVK has its own full-width home card)
+    // Filter out Current Affairs, TVK, and CGS (TVK/CGS have their own home cards)
     final gsSubjects = appState.subjects
-        .where((sub) => sub['id'] != 'Current Affairs' && sub['id'] != 'TVK')
+        .where((sub) =>
+            sub['id'] != 'Current Affairs' &&
+            sub['id'] != 'TVK' &&
+            sub['id'] != 'CGS')
         .toList();
 
     if (gsSubjects.isEmpty) {

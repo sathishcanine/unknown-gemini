@@ -261,6 +261,8 @@ class AppState extends ChangeNotifier {
       'Current Affairs': 'நடப்பு நிகழ்வுகள்',
       'TVK-Government Policies': 'த.வெ.க அரசு கொள்கைகள்',
       'Very Important': 'மிக முக்கியம்',
+      'Central Government Schemes': 'மத்திய அரசுத் திட்டங்கள்',
+      'Union Schemes': 'மத்திய அரசுத் திட்டங்கள்',
     };
     return ta[english] ?? english;
   }
@@ -609,7 +611,9 @@ class AppState extends ChangeNotifier {
                                 ? 'Chemistry'
                                 : _activeSubject == 'TVK'
                                     ? 'TVK-Government Policies'
-                                    : 'Current Affairs');
+                                    : _activeSubject == 'CGS'
+                                        ? 'Central Government Schemes'
+                                        : 'Current Affairs');
   }
 
   // Submit test session

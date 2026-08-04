@@ -211,6 +211,16 @@ class QuestionDatabase:
                     subject_id = "INM"
                 elif "TVK" in topic_name or topic_name.startswith("TVK"):
                     subject_id = "TVK"
+                elif "Ministry of" in topic_name or topic_name in (
+                    "NITI Aayog",
+                    "Culture & Communications",
+                    "Civil Aviation & Heavy Industries",
+                    "Chemicals, Fertilisers & Mines",
+                    "Corporate Affairs & Electronics / IT",
+                    "Home Affairs & North Eastern Region Development",
+                    "Consumer Affairs & Environment",
+                ):
+                    subject_id = "CGS"
 
                 cur.execute("SELECT id FROM topics WHERE name = %s;", (topic_name,))
                 topic_row = cur.fetchone()

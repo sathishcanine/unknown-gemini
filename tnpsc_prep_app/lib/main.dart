@@ -141,7 +141,7 @@ class _AppShellState extends State<AppShell> {
     final isDark = appState.isDarkMode;
 
     // Custom screen switching (not Navigator routes) — intercept OS back/swipe.
-    final canExitApp = active == 'home';
+    final canExitApp = active == 'home' && appState.tamilHubLevel == null;
 
     return PopScope(
       canPop: canExitApp,

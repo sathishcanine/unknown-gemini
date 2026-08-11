@@ -1,0 +1,56 @@
+{
+  "subject_id": "Tamil",
+  "subject_en": "Tamil",
+  "subject_ta": "தமிழ்",
+  "unit": {
+    "id": "Kalaichorkal",
+    "name_en": "Technical Terms (Kalaichorkal)",
+    "name_ta": "கலைச் சொற்கள்",
+    "exam_questions": 10,
+    "syllabus_note": "TNPSC General Tamil — Unit 4 (பல்துறை சார்ந்த கலைச் சொற்கள் → தமிழ் இணைச்சொல்)"
+  },
+  "topics": [
+    {
+      "id": "vakuppu_kalaichorkal",
+      "name_en": "Class-wise technical terms (Std 6–12)",
+      "name_ta": "வகுப்புவாரி கலைச்சொற்கள் (6–12)",
+      "group": "பல்துறை",
+      "priority": 1
+    },
+    {
+      "id": "ariviyal_thozhilnutpam",
+      "name_en": "Science & Technology terms",
+      "name_ta": "அறிவியல் & தொழில்நுட்பம் கலைச்சொற்கள்",
+      "group": "பல்துறை",
+      "priority": 2
+    },
+    {
+      "id": "kalvi_kalaichorkal",
+      "name_en": "Education terms",
+      "name_ta": "கல்வி சார்ந்த கலைச்சொற்கள்",
+      "group": "பல்துறை",
+      "priority": 3
+    },
+    {
+      "id": "maruththuvam_kalaichorkal",
+      "name_en": "Medicine terms",
+      "name_ta": "மருத்துவம் சார்ந்த கலைச்சொற்கள்",
+      "group": "பல்துறை",
+      "priority": 4
+    },
+    {
+      "id": "sattam_melanmai_kalaichorkal",
+      "name_en": "Law & Management terms",
+      "name_ta": "சட்டம் & மேலாண்மை கலைச்சொற்கள்",
+      "group": "பல்துறை",
+      "priority": 5
+    },
+    {
+      "id": "puviyal_oodagam_it",
+      "name_en": "Geography, Media & IT terms",
+      "name_ta": "புவியியல், ஊடகம் & தகவல் தொழில்நுட்பம்",
+      "group": "பல்துறை",
+      "priority": 6
+    }
+  ]
+}

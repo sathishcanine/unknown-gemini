@@ -1,0 +1,57 @@
+{
+  "subject_id": "Tamil",
+  "subject_en": "Tamil",
+  "subject_ta": "தமிழ்",
+  "unit": {
+    "id": "Vasiththal",
+    "name_en": "Reading Comprehension",
+    "name_ta": "வாசித்தல் - புரிந்து கொள்ளும் திறன்",
+    "exam_questions": 15,
+    "syllabus_note": "TNPSC General Tamil — Unit 5 (வாசித்தல் - புரிந்து கொள்ளும் திறன்)"
+  },
+  "topics": [
+    {
+      "id": "pathiyil_vinaigal",
+      "name_en": "Questions from the given paragraph",
+      "name_ta": "கொடுக்கப்பட்ட பத்தியிலிருந்து கேட்கப்பட்ட வினாக்களுக்கு சரியான விடையைத் தேர்ந்தெடுத்தல்",
+      "group": "புரிந்து கொள்ளும் திறன்",
+      "priority": 1
+    },
+    {
+      "id": "seithithaal_vasiththal",
+      "name_en": "Newspaper/editorial/front-page/government news/article reading",
+      "name_ta": "செய்தித்தாள் - தலையங்கம் - முகப்புச் செய்திகள் - அரசு சார்ந்த செய்திகள் - கட்டுரைகள் இவற்றை வாசித்தல் - புரிந்து கொள்ளும் திறன்",
+      "group": "புரிந்து கொள்ளும் திறன்",
+      "priority": 2
+    },
+    {
+      "id": "uvamai_thodar",
+      "name_en": "Understanding meaning of simile phrases",
+      "name_ta": "உவமைத் தொடரின் பொருளறிதல்",
+      "group": "புரிந்து கொள்ளும் திறன்",
+      "priority": 3
+    },
+    {
+      "id": "marabu_thodar",
+      "name_en": "Understanding meaning of traditional/idiom phrases",
+      "name_ta": "மரபுத் தொடரின் பொருளறிதல்",
+      "group": "புரிந்து கொள்ளும் திறன்",
+      "priority": 4
+    },
+    {
+      "id": "pazhamozhigal",
+      "name_en": "Understanding meaning of proverbs",
+      "name_ta": "பழமொழிகள் பொருளறிதல்",
+      "group": "புரிந்து கொள்ளும் திறன்",
+      "priority": 5
+    },
+    {
+      "id": "aavanam_puriththal",
+      "name_en": "Understanding document contents",
+      "name_ta": "ஆவண உள்ளடக்கங்களைப் புரிந்து கொள்ளும் திறன்",
+      "group": "புரிந்து கொள்ளும் திறன்",
+      "priority": 6
+    }
+  ]
+}
+

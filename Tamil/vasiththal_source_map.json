@@ -1,0 +1,45 @@
+{
+  "book": "SM Tamil Full Book — Santhosh Mani Academy",
+  "pdf": "Data/Tamil/ilakanam/SM TAMIL FULL BOOK 570 PAGES.pdf",
+  "pdf_offset": 5,
+  "note": "pdf_page = printed_page + 5. Unit 5 வாசித்தல் starts ~printed 281–284.",
+  "unit": {
+    "id": "Vasiththal",
+    "name_ta": "வாசித்தல் - புரிந்து கொள்ளும் திறன்",
+    "sm_printed": [281, 324],
+    "sm_pdf": [286, 329]
+  },
+  "topics": {
+    "pathiyil_vinaigal": {
+      "name_ta": "கொடுக்கப்பட்ட பத்தியிலிருந்து கேட்கப்பட்ட வினாக்களுக்கு சரியான விடையைத் தேர்ந்தெடுத்தல்",
+      "sm_printed": [281, 283],
+      "sm_pdf": [286, 288]
+    },
+    "seithithaal_vasiththal": {
+      "name_ta": "செய்தித்தாள் - தலையங்கம் - முகப்புச் செய்திகள் - அரசு சார்ந்த செய்திகள் - கட்டுரைகள் இவற்றை வாசித்தல் - புரிந்து கொள்ளும் திறன்",
+      "sm_printed": [284, 289],
+      "sm_pdf": [289, 294]
+    },
+    "uvamai_thodar": {
+      "name_ta": "உவமைத் தொடரின் பொருளறிதல்",
+      "sm_printed": [300, 303],
+      "sm_pdf": [305, 308]
+    },
+    "marabu_thodar": {
+      "name_ta": "மரபுத் தொடரின் பொருளறிதல்",
+      "sm_printed": [306, 309],
+      "sm_pdf": [311, 314]
+    },
+    "pazhamozhigal": {
+      "name_ta": "பழமொழிகள் பொருளறிதல்",
+      "sm_printed": [312, 315],
+      "sm_pdf": [317, 320]
+    },
+    "aavanam_puriththal": {
+      "name_ta": "ஆவண உள்ளடக்கங்களைப் புரிந்து கொள்ளும் திறன்",
+      "sm_printed": [319, 322],
+      "sm_pdf": [324, 327]
+    }
+  }
+}
+

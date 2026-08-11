@@ -1,0 +1,131 @@
+{
+  "primary_notes": "sm",
+  "pdf_offset": {
+    "sm": {
+      "formula": "pdf_page = printed_page + 5",
+      "toc_pdf_pages": [1, 5],
+      "content_starts_pdf_page": 6,
+      "note": "Printed page number is at bottom center of SM scanned pages."
+    }
+  },
+  "files": {
+    "sm": {
+      "path": "Data/Tamil/ilakanam/SM TAMIL FULL BOOK 570 PAGES.pdf",
+      "pages": 570,
+      "role": "primary_rules_examples",
+      "scanned": true
+    },
+    "pyq": {
+      "path": "Data/Tamil/ilakanam/Tamil Part A illakanam previous.pdf",
+      "pages": 344,
+      "role": "exam_style_samples",
+      "scanned": true
+    },
+    "samacheer": {
+      "path": "Data/Tamil/ilakanam/6 to 10 new book ilakanam.pdf",
+      "pages": 106,
+      "role": "secondary_backup"
+    },
+    "gov": {
+      "path": "Data/Tamil/ilakanam/பகுதி -1 இலக்கணம் Government Notes.pdf",
+      "pages": 165,
+      "role": "optional_lists"
+    }
+  },
+  "topics": {
+    "pirithu_sertthu": {
+      "name_ta": "பிரித்து எழுதுதல் / சேர்த்து எழுதுதல்",
+      "sm_printed": [1, 20],
+      "sm_pdf": [6, 25],
+      "pyq_pdf": [58, 71]
+    },
+    "sandhi_otru_pizhai": {
+      "name_ta": "சந்திப்பிழை & ஒற்றுப்பிழை அறிதல்",
+      "sm_printed": [21, 35],
+      "sm_pdf": [26, 40],
+      "pyq_pdf": [95, 101]
+    },
+    "kuril_nedil": {
+      "name_ta": "குறில், நெடில் வேறுபாடு",
+      "sm_printed": [36, 39],
+      "sm_pdf": [41, 44],
+      "pyq_pdf": [146, 157]
+    },
+    "la_na_ra_bedham": {
+      "name_ta": "லகர–ளகர–ழகர / னகர–ணகர / ரகர–றகர வேறுபாடு",
+      "sm_printed": [40, 49],
+      "sm_pdf": [45, 54],
+      "pyq_pdf": [146, 157]
+    },
+    "ina_ezhuthu": {
+      "name_ta": "இனவெழுத்துக்கள் அறிதல்",
+      "sm_printed": [50, 51],
+      "sm_pdf": [55, 56],
+      "pyq_pdf": null
+    },
+    "suttu_ezhuthu": {
+      "name_ta": "சுட்டு எழுத்துக்கள்",
+      "sm_printed": [52, 53],
+      "sm_pdf": [57, 58],
+      "pyq_pdf": null
+    },
+    "vina_ezhuthu": {
+      "name_ta": "வினா எழுத்துக்கள்",
+      "sm_printed": [54, 57],
+      "sm_pdf": [59, 62],
+      "pyq_pdf": null
+    },
+    "orumai_panmai": {
+      "name_ta": "ஒருமைப் பன்மை அறிதல்",
+      "sm_printed": [58, 60],
+      "sm_pdf": [63, 65],
+      "pyq_pdf": [102, 108]
+    },
+    "verchol": {
+      "name_ta": "வேர்ச்சொல் அறிதல்",
+      "sm_printed": [61, 61],
+      "sm_pdf": [66, 66],
+      "pyq_pdf": [169, 178]
+    },
+    "verchol_derivatives": {
+      "name_ta": "வேர்ச்சொல் → வினைமுற்று, வினையெச்சம், வினையாலணையும் பெயர், பெயரெச்சம்",
+      "sm_printed": [62, 70],
+      "sm_pdf": [67, 75],
+      "pyq_pdf": [179, 188]
+    },
+    "ayarchol_tamilchol": {
+      "name_ta": "அயற்சொல் – தமிழ்ச்சொல்",
+      "sm_printed": [71, 71],
+      "sm_pdf": [76, 76],
+      "pyq_pdf": [125, 145]
+    },
+    "ethirchol": {
+      "name_ta": "எதிர்ச்சொல்",
+      "sm_printed": [72, 75],
+      "sm_pdf": [77, 80],
+      "pyq_pdf": [72, 80]
+    },
+    "vinaichol": {
+      "name_ta": "வினைச்சொல்",
+      "sm_printed": [76, 79],
+      "sm_pdf": [81, 84],
+      "pyq_pdf": [179, 188]
+    },
+    "irandu_vinai_bedham": {
+      "name_ta": "இரண்டு வினைச் சொற்களின் வேறுபாடு அறிதல்",
+      "sm_printed": [80, 83],
+      "sm_pdf": [85, 88],
+      "pyq_pdf": [179, 188]
+    }
+  },
+  "pyq_known_sections": [
+    {"start": 58, "end": 71, "title": "பிரித்தெழுதுக/சேர்த்தெழுதுக", "topic_id": "pirithu_sertthu"},
+    {"start": 72, "end": 80, "title": "எதிர்ச்சொல்", "topic_id": "ethirchol"},
+    {"start": 95, "end": 101, "title": "சந்திப்பிழை", "topic_id": "sandhi_otru_pizhai"},
+    {"start": 102, "end": 108, "title": "ஒருமை பன்மை", "topic_id": "orumai_panmai"},
+    {"start": 125, "end": 145, "title": "பிறமொழி / ஆங்கில→தமிழ்", "topic_id": "ayarchol_tamilchol"},
+    {"start": 146, "end": 157, "title": "ஒலி வேறுபாடு", "topic_id": "la_na_ra_bedham"},
+    {"start": 169, "end": 178, "title": "வேர்ச்சொல்", "topic_id": "verchol"},
+    {"start": 179, "end": 188, "title": "வேர்ச்சொல் derivatives", "topic_id": "verchol_derivatives"}
+  ]
+}

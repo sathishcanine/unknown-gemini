@@ -1,0 +1,3162 @@
+{
+  "subject": "Tamil",
+  "unit": "Vasiththal",
+  "version": 1,
+  "topics": {
+    "pathiyil_vinaigal": {
+      "name_ta": "கொடுக்கப்பட்ட பத்தியிலிருந்து கேட்கப்பட்ட வினாக்களுக்கு சரியான விடையைத் தேர்ந்தெடுத்தல்",
+      "rules": [
+        {
+          "rule_ta": "வாசிப்புத் திறன் என்பது தகவல்களை புரிந்து கொள்ளுதல், பகுப்பாய்வு செய்தல் மற்றும் அதை பற்றி விளக்குதல் ஆகும்.",
+          "rule_en": "Reading comprehension means understanding information, analyzing it, and explaining it.",
+          "source": "sm",
+          "source_page": 282
+        },
+        {
+          "rule_ta": "கொடுக்கப்பட்ட பத்தியை நன்கு படித்து புரிந்து கொண்ட பின் அதற்கு கீழே கேட்கப்பட்டுள்ள வினாக்களுக்கு கவனமாக விடையளிக்க வேண்டும்.",
+          "rule_en": "After reading and understanding the given passage well, answer the questions given below it carefully.",
+          "source": "sm",
+          "source_page": 282
+        },
+        {
+          "rule_ta": "கேட்கப்படும் கேள்விக்கான விடைகள் அந்த பத்தியிலே இருக்கும் என்பதால் இதற்கு தனியாக தயார் ஆகிய தேவையில்லை.",
+          "rule_en": "Since the answers to the questions will be in the passage itself, no separate preparation is required.",
+          "source": "sm",
+          "source_page": 282
+        },
+        {
+          "rule_ta": "கொடுக்கப்பட்ட பத்தியைப் படித்து, அதன் பொருளை முழுமையாக உணர்ந்து வினாக்களுக்கு சரியான விடையைத் தேர்ந்தெடுக்க வேண்டும்.",
+          "rule_en": "Read the given passage, fully understand its meaning, and choose the correct answer to the questions.",
+          "source": "sm",
+          "source_page": 283
+        }
+      ],
+      "examples": [
+        {
+          "input": "சூரிய குடும்பத்தில் சூரியனே முதன்மையாகப் போற்றப்படுகிறது. சூரியனைச் சுற்றிக் கோள்கள் சூழ்ந்துள்ளன.",
+          "output": "சூரியன்",
+          "kind": "passage_example",
+          "note_ta": "சூரிய குடும்பத்தில் முதன்மையான கோள் எது? என்ற வினாவிற்குரிய விடை பத்தியிலிருந்து கண்டறியப்படுகிறது.",
+          "source": "sm",
+          "source_page": 282
+        },
+        {
+          "input": "பண்டைத் தமிழர் சூரியன் முதலான ஒன்பது கோள்களைக் கோள்மீன் எனவும், அசுவினி முதலான இருபத்தேழு விண்மீன்களை நாள்மீன் எனவும் பகுத்துக் கூறியதுடன் ஒவ்வொரு கோளுக்கும் காரணப்பெயரிட்டு அழைத்தனர்.",
+          "output": "கோள்மீன்",
+          "kind": "passage_example",
+          "note_ta": "பண்டைத் தமிழர் சூரியன் முதலான ஒன்பது கோள்களை எவ்வாறு அழைத்தனர் என்ற வினாவிற்குரிய விடை பத்தியிலிருந்து பெறப்படுகிறது.",
+          "source": "sm",
+          "source_page": 282
+        },
+        {
+          "input": "Skype",
+          "output": "காயலை",
+          "kind": "other",
+          "note_ta": "Skype என்பதன் கலைச்சொல் காயலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Telegram",
+          "output": "தொலைவரி",
+          "kind": "other",
+          "note_ta": "Telegram என்பதன் கலைச்சொல் தொலைவரி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Bluetooth",
+          "output": "ஊடலை",
+          "kind": "other",
+          "note_ta": "Bluetooth என்பதன் கலைச்சொல் ஊடலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "WiFi",
+          "output": "அருகலை",
+          "kind": "other",
+          "note_ta": "WiFi என்பதன் கலைச்சொல் அருகலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Hotspot",
+          "output": "பகிரலை",
+          "kind": "other",
+          "note_ta": "Hotspot என்பதன் கலைச்சொல் பகிரலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Broadband",
+          "output": "ஆலைலை",
+          "kind": "other",
+          "note_ta": "Broadband என்பதன் கலைச்சொல் ஆலைலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Online",
+          "output": "இயங்கலை",
+          "kind": "other",
+          "note_ta": "Online என்பதன் கலைச்சொல் இயங்கலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Offline",
+          "output": "முடக்கலை",
+          "kind": "other",
+          "note_ta": "Offline என்பதன் கலைச்சொல் முடக்கலை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Thumbdrive",
+          "output": "விரலி",
+          "kind": "other",
+          "note_ta": "Thumbdrive என்பதன் கலைச்சொல் விரலி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "GPS",
+          "output": "தடங்காட்டி",
+          "kind": "other",
+          "note_ta": "GPS என்பதன் கலைச்சொல் தடங்காட்டி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "CCTV",
+          "output": "மறைகாணி",
+          "kind": "other",
+          "note_ta": "CCTV என்பதன் கலைச்சொல் மறைகாணி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "OCR",
+          "output": "எடுத்துணரி",
+          "kind": "other",
+          "note_ta": "OCR என்பதன் கலைச்சொல் எழுத்துணரி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "LED",
+          "output": "ஒளிர்வு முனை",
+          "kind": "other",
+          "note_ta": "LED என்பதன் கலைச்சொல் ஒளிர்வு முனை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "3D, 2D",
+          "output": "முத்திரட்சி, இருதிரட்சி",
+          "kind": "other",
+          "note_ta": "3D, 2D என்பதன் கலைச்சொல் முத்திரட்சி, இருதிரட்சி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Projector",
+          "output": "ஒளிவீச்சி",
+          "kind": "other",
+          "note_ta": "Projector என்பதன் கலைச்சொல் ஒளிவீச்சி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Printer",
+          "output": "அச்சுப்பொறி",
+          "kind": "other",
+          "note_ta": "Printer என்பதன் கலைச்சொல் அச்சுப்பொறி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Scanner",
+          "output": "வருடி",
+          "kind": "other",
+          "note_ta": "Scanner என்பதன் கலைச்சொல் வருடி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Smart Phone",
+          "output": "திறன்பேசி",
+          "kind": "other",
+          "note_ta": "Smart Phone என்பதன் கலைச்சொல் திறன்பேசி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "SIM Card",
+          "output": "செறிவட்டை",
+          "kind": "other",
+          "note_ta": "SIM Card என்பதன் கலைச்சொல் செறிவட்டை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Charger",
+          "output": "மின்னூக்கி",
+          "kind": "other",
+          "note_ta": "Charger என்பதன் கலைச்சொல் மின்னூக்கி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Selfie",
+          "output": "தம் படம் - சுயஉரு - சுயப்பு",
+          "kind": "other",
+          "note_ta": "Selfie என்பதன் கலைச்சொல் தம் படம் - சுயஉரு - சுயப்பு",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Router",
+          "output": "திசைவி",
+          "kind": "other",
+          "note_ta": "Router என்பதன் கலைச்சொல் திசைவி",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Cosmic Rays",
+          "output": "விண்வெளிக் கதிர்கள்",
+          "kind": "other",
+          "note_ta": "Cosmic Rays - விண்வெளிக் கதிர்கள்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Whirlwind",
+          "output": "சுழல் காற்று",
+          "kind": "other",
+          "note_ta": "Whirlwind - சுழல் காற்று",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Classical literature",
+          "output": "செவ்விலக்கியம்",
+          "kind": "other",
+          "note_ta": "Classical literature - செவ்விலக்கியம்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Cultural Academy",
+          "output": "பண்பாட்டுக் கழகம்",
+          "kind": "other",
+          "note_ta": "Cultural Academy - பண்பாட்டுக் கழகம்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Ticket Inspector",
+          "output": "பயணச் சீட்டு ஆய்வர்",
+          "kind": "other",
+          "note_ta": "Ticket Inspector - பயணச் சீட்டு ஆய்வர்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Side Effect",
+          "output": "பக்க விளைவு",
+          "kind": "other",
+          "note_ta": "Side Effect - பக்க விளைவு",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Inscription",
+          "output": "பொறிப்பு",
+          "kind": "other",
+          "note_ta": "Inscription - பொறிப்பு",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Consulate",
+          "output": "துணைத்தூதரகம்",
+          "kind": "other",
+          "note_ta": "Consulate - துணைத்தூதரகம்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Launch Vehicle",
+          "output": "ஏவுகணை",
+          "kind": "other",
+          "note_ta": "Launch Vehicle - ஏவுகணை",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "Download",
+          "output": "பதிவிறக்கம்",
+          "kind": "other",
+          "note_ta": "Download - பதிவிறக்கம்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "WhatsApp",
+          "output": "புலனம்",
+          "kind": "other",
+          "note_ta": "WhatsApp - புலனம்",
+          "source": "sm",
+          "source_page": 281
+        },
+        {
+          "input": "ஆயிரம் யானைகளைப் போரில் வென்ற அரசனுக்காகப் பாடப்படும் இலக்கியவகை எது?",
+          "output": "பரணி",
+          "kind": "passage_example",
+          "note_ta": "ஆயிரம் யானைகளைப் போரில் வென்ற மாணவனுக்கு வகுப்பது பரணி என பரணியின் இலக்கணம் கூறுகிறது.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "போருக்குரிய தெய்வமாகக் கருதுவர்.",
+          "output": "காளி",
+          "kind": "passage_example",
+          "note_ta": "போருக்குரிய தெய்வமாக காளியைக் கருதுவர்.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "'அமர்' என்பதன் பொருள் என்ன?",
+          "output": "போர்",
+          "kind": "passage_example",
+          "note_ta": "அமர் শব্দের பொருள் போர்.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "தொண்ணூாற்று - பிரிக்கும் முறை",
+          "output": "தொண் + ஆறு",
+          "kind": "passage_example",
+          "note_ta": "தொண்ணூாற்று என்பதன் சரியான பிரிப்பு முறை.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "பரணி இலக்கியம் யாரால் இயற்றப்பட்டது?",
+          "output": "சயங்கொண்டார்",
+          "kind": "passage_example",
+          "note_ta": "கலிங்கத்துப்பரணி சயங்கொண்டாரால் பாடப்பட்டது.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "காமராசரின் வீட்டிற்குள் நுழைய முயன்றவர்கள்",
+          "output": "சிறுகுழந்தைகள் (சிறுவன் சிறுமி)",
+          "kind": "passage_example",
+          "note_ta": "காமராசரின் வீட்டிற்குள் ஒரு சிறுவனும் அவனுடைய தங்கையும் நுழைய முயன்றனர்.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "இந்நிகழ்வு சிறுவனது எண்பன்பை விளக்குகிறது?",
+          "output": "நேர்மை",
+          "kind": "passage_example",
+          "note_ta": "தங்களுக்குத் தேவையான பணத்தை தாமே உழைத்து ஈட்டிப் படிக்க விரும்பி வந்த சிறுவனின் நேர்மையை இந்நிகழ்வு விளக்குகிறது.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "மறுநாள் குழந்தைகள் வந்ததும் காமராசர் மனம்",
+          "output": "நெகிழ்ந்தார்",
+          "kind": "passage_example",
+          "note_ta": "குழந்தைகளின் செயலைக் கண்டு காமராசர் மனம் நெகிழ்ந்தார்.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "சிறியனும் சிறுமியும் எதற்காக காமராசரின் வீட்டிற்கு வந்தனர்?",
+          "output": "தேர்வுக்குப் பணம் கட்ட",
+          "kind": "passage_example",
+          "note_ta": "தேர்வுக்குப் பணம் கட்ட வசதியில்லாததால் காமராசரிடம் உதவி கேட்க வந்தனர்.",
+          "source": "sm",
+          "source_page": 283
+        },
+        {
+          "input": "காமராசர் செய்த உதவி யாது?",
+          "output": "பணத்தைக் கொடுத்தார்",
+          "kind": "passage_example",
+          "note_ta": "தேர்வுக்குத் தேவையான பணத்தைக் காமராசர் மாடியேறிச் சென்று கொண்டு வந்து கொடுத்தார்.",
+          "source": "sm",
+          "source_page": 283
+        }
+      ],
+      "pyq_samples": [],
+      "sources": {
+        "sm_pdf_pages": [
+          286,
+          288
+        ],
+        "sm_printed_pages": [
+          281,
+          283
+        ]
+      },
+      "status": "sm_extracted",
+      "sm_extract_meta": {
+        "pdf": "SM TAMIL FULL BOOK 570 PAGES.pdf",
+        "pdf_pages": [
+          286,
+          288
+        ],
+        "printed_pages": [
+          281,
+          283
+        ],
+        "rules_count": 4,
+        "examples_count": 45,
+        "model": "gemini-3.5-flash-lite"
+      }
+    },
+    "seithithaal_vasiththal": {
+      "name_ta": "செய்தித்தாள் - தலையங்கம் - முகப்புச் செய்திகள் - அரசு சார்ந்த செய்திகள் - கட்டுரைகள் இவற்றை வாசித்தல் - புரிந்து கொள்ளும் திறன்",
+      "rules": [
+        {
+          "rule_ta": "செய்தித்தாள் என்பது செய்திகளைப் பொதுமக்களுக்குத் தெரியப்படுத்தும் ஒரு அச்சு ஊடகம் ஆகும்; இது நடப்பு நிகழ்வுகள் பற்றிய தகவல்களை வெளியிடும் ஒரு குறிப்பிட்ட கால வெளியீடு ஆகும்.",
+          "rule_en": "A newspaper is a print medium that conveys news to the public and is a periodical publication containing current affairs.",
+          "source": "sm",
+          "source_page": 285
+        },
+        {
+          "rule_ta": "தலையங்கம் என்பது ஒரு செய்தித்தாள் அல்லது இதழ் ஒரு குறிப்பிட்ட செய்தி அல்லது பிரச்சனை குறித்து அதன் ஆசிரியர் அல்லது ஆசிரியர் குழுவினரின் கருத்துகளைத் தெரிவித்து வெளியிடும் தலைப்புக் கட்டுரை ஆகும்.",
+          "rule_en": "An editorial is a lead article published by a newspaper or magazine expressing the views of the editor or editorial board regarding a specific news item or issue.",
+          "source": "sm",
+          "source_page": 285
+        },
+        {
+          "rule_ta": "கொடுக்கப்பட்டுள்ள பத்தியை கவனமாக வாசித்து, அதன் மையக்கருத்து மற்றும் விவரங்களின் அடிப்படையில் வினாக்களுக்கு சரியான விடையைத் தேர்ந்தெடுக்க வேண்டும்.",
+          "rule_en": "Read the given passage carefully and select the correct answer based on its core theme and details.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "rule_ta": "செய்தித்தாள் தலையங்கம் அல்லது கட்டுரைகளைப் படிக்கும்போது, மையக் கருத்து (Main Idea), கோரிக்கைகள், மற்றும் அரசு எடுக்க வேண்டிய தீர்வுகள் என்ன என்பதை உன்னிப்பாகப் புரிந்து கொள்ள வேண்டும்.",
+          "rule_en": "When reading newspaper editorials or articles, carefully understand the main idea, core demands, and suggested solutions.",
+          "source": "sm",
+          "source_page": 286
+        },
+        {
+          "rule_ta": "தலையங்கம் அல்லது செய்திப் பகுதியை முழுமையாகப் படித்து, கொடுக்கப்பட்டுள்ள வினாக்களுக்கு உரிய சரியான விடையைத் தேர்ந்தெடுக்க வேண்டும்.",
+          "rule_en": "Read the editorial or news passage thoroughly and choose the correct answer for the given questions.",
+          "source": "sm",
+          "source_page": 287
+        },
+        {
+          "rule_ta": "கூற்றுகளை ஆராய்ந்து அவற்றின் உண்டித்தன்மையை மதிப்பிட்டு சரியான தேர்வை (எ.கா. இரண்டு சரி, 1 மட்டும் சரி) கண்டறிய வேண்டும்.",
+          "rule_en": "Analyze statements, evaluate their factual accuracy, and determine the correct option combination.",
+          "source": "sm",
+          "source_page": 287
+        },
+        {
+          "rule_ta": "செய்தியின் சாரத்தைக் கூறும் பகுதி முகப்பு (Lead) எனப்படும்.",
+          "rule_en": "The part of a news item that conveys its essence is called the Lead (முகப்பு).",
+          "source": "sm",
+          "source_page": 288
+        },
+        {
+          "rule_ta": "நாளிதழ்களில் முக்கியமான செய்திகளை முன்னிறுத்து அமைப்பது முகப்புச் செய்தி ஆகும்.",
+          "rule_en": "Lead news emphasizes the most important news items in newspapers.",
+          "source": "sm",
+          "source_page": 288
+        },
+        {
+          "rule_ta": "செய்தியின் மையக் கருத்து அல்லது தலைமைக் கருத்து செய்தியின் தலைப்பில் இருக்கும்.",
+          "rule_en": "The central idea or main theme of the news will be in the title/headline.",
+          "source": "sm",
+          "source_page": 288
+        },
+        {
+          "rule_ta": "செய்தியின் தலைப்பை அடுத்து தேதி வரி அல்லது நாள் வரி (Date line) இருக்கும்.",
+          "rule_en": "The dateline follows immediately after the headline of the news.",
+          "source": "sm",
+          "source_page": 288
+        },
+        {
+          "rule_ta": "செய்தியின் சாரத்தைக் கூறும் முகப்பு (Lead) அமைந்த பிறகு, செய்திகள் விவரமாகத் தரப்படும்.",
+          "source_page": 288,
+          "rule_en": "After the Lead giving the essence of the news, detailed information is provided."
+        },
+        {
+          "rule_ta": "செய்தித் தாள்களில் இடம்பெறும் தலைப்புச் செய்திகள் மற்றும் அரசு சார்ந்த செய்திகளை வாசிக்கும்போது, அவற்றின் முக்கிய நோக்கம், அறிவிக்கப்பட்ட திட்டங்கள் மற்றும் அவற்றின் பயன்கள் குறித்த தகவல்களைத் துல்லியமாகப் புரிந்து கொள்ள வேண்டும்.",
+          "rule_en": "When reading news headlines and government news, accurately understand their main purpose, announced schemes, and their benefits.",
+          "source": "sm",
+          "source_page": 289
+        },
+        {
+          "rule_ta": "கட்டுரைகள் மற்றும் தலையங்கங்களை வாசிக்கும்போது, மையக் கருத்து மற்றும் எதிர்கால சவால்கள் அல்லது வாய்ப்புகள் குறித்த ஆசிரியர் வெளிப்படுத்தும் கருத்துக்களைத் தொகுத்துப் புரிந்து கொள்ள வேண்டும்.",
+          "rule_en": "When reading articles and editorials, summarize and comprehend the core ideas and the opinions expressed by the author regarding future challenges or opportunities.",
+          "source": "sm",
+          "source_page": 289
+        }
+      ],
+      "examples": [
+        {
+          "input": "இந்தியாவின் முதல் செய்தித்தாள்",
+          "output": "ஹிக்கியின் பெங்கால் கெசட், ஜேம்ஸ் அகஸ்டஸ் ஹிக்கி என்ற ஆங்கிலேயரால் 1780 இல் கல்கத்தாவில் வெளியிடப்பட்டது.",
+          "kind": "document",
+          "note_ta": "இந்தியாவின் முதல் செய்தித்தாள் பற்றிய வரலாற்றுத் தகவலை அறிந்துகொள்ளுதல்.",
+          "source": "sm",
+          "source_page": 285
+        },
+        {
+          "input": "உலக அறிவை நாம் பெறுவதற்குப் பாடநூல்கள் மட்டும் போதாது. பல்வேறு துறை சார்ந்த நூல்களைத் தேடிப்ப படிக்க வேண்டும்.",
+          "output": "நூலகம்",
+          "kind": "passage_example",
+          "note_ta": "பல்வேறு துறை சார்ந்த நூல்கள் கிடைக்கும்மிடம் நூலகம் ஆகும்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "சென்னையில் உள்ள அண்ணா நூற்றாண்டு நூலகம் தரைத்தளத்தோடு எட்டு அடுக்குகளைக் கொண்டது. இதன் பரப்பளவு எட்டு ஏக்கர் ஆகும்.",
+          "output": "8 ஏக்கர்",
+          "kind": "passage_example",
+          "note_ta": "அண்ணா நூற்றாண்டு நூலகத்தின் பரப்பளவு எட்டு ஏக்கர் ஆகும்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "அண்ணா நூற்றாண்டு நூலகம் ஆசியாவின் இரண்டாவது பெரிய நூலகம் ஆகும்.",
+          "output": "இரண்டாவது பெரிய நூலகம்",
+          "kind": "passage_example",
+          "note_ta": "அண்ணா நூற்றாண்டு நூலகம் ஆசியாவிலேயே இரண்டாவது பெரிய நூலகமாகும்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "நூலகம் - பிரித்து எழுதுக",
+          "output": "நூல் + அகம்",
+          "kind": "passage_example",
+          "note_ta": "நூலகம் என்னும் சொல்லைப் பிரிக்கக் கிடைப்பது நூல் + அகம்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "கப்பலின் முதன்மையான உறுப்பாகிய அடிமரம் எரா எனப்படும்.",
+          "output": "எரா",
+          "kind": "passage_example",
+          "note_ta": "கப்பலின் முதன்மையான உறுப்பு அடிமரம், இது எரா எனப்படும்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "கப்பலைச் செலுத்துவதற்கும் உரிய திசையில் திருப்புவதற்கும் பயன்படும் முதன்மையான கருவி சுக்கான் எனப்படும்.",
+          "output": "சுக்கான்",
+          "kind": "passage_example",
+          "note_ta": "கப்பலைச் செலுத்தவும் திருத்தவும் பயன்படும் முதன்மைக் கருவி சுக்கான்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "கப்பலை நிலையாக ஓரிடத்தில் நிறுத்தி வைக்க உதவும் உறுப்பு நங்கூரம் ஆகும்.",
+          "output": "நங்கூரம்",
+          "kind": "passage_example",
+          "note_ta": "கப்பலை ஓரிடத்தில் நிலையாக நிறுத்த உதவும் உறுப்பு நங்கூரம்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "கப்பலின் குறுக்கு மரத்தின் பெயர் பருமல்.",
+          "output": "பருமல்",
+          "kind": "passage_example",
+          "note_ta": "கப்பலின் குறுக்கு மரத்தைப் பருமல் என்று கூறுவர்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "சுவுக்கு என்னும் ஒரு கருவியையும் கப்பல்களில் பயன்படுத்தினர் என்று கப்பல் சாத்திரம் என்னும் நூல் குறிப்பிடுகிறது.",
+          "output": "சுவுக்கு",
+          "kind": "passage_example",
+          "note_ta": "கப்பல் சாத்திரம் நூல் குறிப்பிடும் கருவி சுவுக்கு ஆகும்.",
+          "source": "sm",
+          "source_page": 284
+        },
+        {
+          "input": "தொடரக் கூடாது போராட்டம்! - வேளாண் விளைபொருட்களுக்கான குறைந்தபட்ச ஆதரவு விலைக்கு சட்டப்பூர்வ அங்கீகாரம் உள்ளிட்ட பல்வேறு கோரிக்கைகளை வலியுறுத்தி...",
+          "output": "விவசாயிகளின் கோரிக்கைகளும், போராட்டத்தின் பின்னணியும், அரசுடன் நடைபெற்ற பேச்சுவார்த்தை விவரங்களும்.",
+          "kind": "passage_example",
+          "note_ta": "செய்தித் தாளில் உள்ள தலையங்கம் அல்லது கட்டுரையின் சாரம்சத்தைப் புரிந்து கொள்ள உதவும் உதாரணம்.",
+          "source": "sm",
+          "source_page": 286
+        },
+        {
+          "input": "நக்கல் இயக்கம் தோற்றுவிக்கப்பட்ட வருடம்?",
+          "output": "1967",
+          "kind": "passage_example",
+          "note_ta": "செய்திக் கட்டுரையில் குறிப்பிடப்பட்டுள்ள வரலாற்றுத் தகவலை அடிப்படையாகக் கொண்டு விடையளித்தல்.",
+          "source": "sm",
+          "source_page": 287
+        },
+        {
+          "input": "1) நக்ஸல் பாதிப்பு மாநிலங்களில் உட்கட்டமைப்பை மேம்படுத்த ரூ. 2385 கோடியும், சிறப்பு மத்திய நிதியாக ரூ.395 கோடியும் ஒதுக்கந்துள்ளது. 2) இந்த நிதி ஒதுக்கீட்டின் கீழ் சாலைகள், ஏகலைவா மாதிரி உறைவிட பள்ளிகள், கைபேசி கோபுரங்கள், அஞ்சலகங்கள் அமைத்தல் போன்ற பல்வேறு நலப்பணிகள் மேற்கொள்ளப்பட்டு வருகின்றன.",
+          "output": "இரண்டும் சரி",
+          "kind": "document",
+          "note_ta": "அரசு சார்ந்த செய்திகள் மற்றும் திட்டங்கள் குறித்த வாசகங்களை ஒப்புநோக்கி உண்மையைச் சரிபார்த்தல்.",
+          "source": "sm",
+          "source_page": 287
+        },
+        {
+          "input": "முகப்புச் செய்திகள் கட்டமைப்பு",
+          "output": "தலைப்பு -> தேதி வரி / நாள் வரி -> முகப்பு (Lead - சாரக் கருத்து) -> விவரமான செய்திகள்",
+          "kind": "document",
+          "note_ta": "செய்தித் தாளின் கட்டமைப்பு முறை விளக்கம்.",
+          "source": "sm",
+          "source_page": 288
+        },
+        {
+          "input": "நம்பகமான ஏ.ஐ. தொழில்நுட்பம் அவசியம் - பிரான்ஸ் மாநாட்டில் பிரதமர் மோடி வலியுறுத்தல்",
+          "output": "செயற்கை நுண்ணறிவு (ஏ.ஐ.) தொழில்நுட்பம் பாதுகாப்பானதாகவும், வெளிப்படையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும் என்பதைப் பிரதமர் மோடி வலியுறுத்தியுள்ளார்.",
+          "kind": "inference_example",
+          "note_ta": "தலைப்புச் செய்தியிலிருந்து அதன் முக்கிய கருத்தை விளக்குதல்.",
+          "source": "sm",
+          "source_page": 289
+        },
+        {
+          "input": "இந்தியாவில் அடுத்த ஏ.ஐ. மாநாடு: பிரதமர் உரையாற்றியது குறித்தான செய்தி",
+          "output": "140 கோடி பேருக்கு குறைந்த கட்டணத்தில் சேவையை உறுதி செய்யும் வண்ணம் பொது பயன்பாட்டை மையப்படுத்திய வெற்றிகரமாக நிறுவியிருக்கிறது. புதிய வேலைவாய்ப்புகளையும் எதிர்கால வளம் மிக்க பொருளாதாரத்தையும் உருவாக்கும்.",
+          "kind": "document",
+          "note_ta": "அரசு சார்ந்த செய்திகள் மற்றும் அதன் பயன்பாடுகள் பற்றிய குறிப்பு.",
+          "source": "sm",
+          "source_page": 289
+        }
+      ],
+      "pyq_samples": [],
+      "sources": {
+        "sm_pdf_pages": [
+          289,
+          294
+        ],
+        "sm_printed_pages": [
+          284,
+          289
+        ]
+      },
+      "status": "notes_gap",
+      "sm_extract_meta": {
+        "pdf": "SM TAMIL FULL BOOK 570 PAGES.pdf",
+        "pdf_pages": [
+          289,
+          294
+        ],
+        "printed_pages": [
+          284,
+          289
+        ],
+        "rules_count": 13,
+        "examples_count": 16,
+        "model": "gemini-3.5-flash-lite"
+      },
+      "gap_note": "Thin SM pages for this topic. May need wider SM range or enrich from related SM lists."
+    },
+    "uvamai_thodar": {
+      "name_ta": "உவமைத் தொடரின் பொருளறிதல்",
+      "rules": [
+        {
+          "rule_ta": "செய்திகளை வழங்குவதன் அடிப்படையில் செய்தித்தாளின் பக்க அமைப்பு தலையங்கம், கட்டுரை, வாசகர் கடிதம், வணிகப்பகுதி மற்றும் விளையாட்டு போன்ற பிரிவுகளைக் கொண்டுள்ளது.",
+          "rule_en": "Based on the delivery of news, newspaper page layout consists of editorial, articles, reader letters, business sections, and sports.",
+          "source": "sm",
+          "source_page": 300
+        },
+        {
+          "rule_ta": "நாம் பேச்சிலும் எழுத்திலும் கருத்துக்களை எளிதாக விளக்குவதற்காக சில தொடர்களைப் பயன்படுத்துவோம். அவை உவமைத் தொடர்கள் எனப்படும்.",
+          "rule_en": "Simile phrases are used in speech and writing to explain concepts easily by comparing one object to another.",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "rule_ta": "உவமைத் தொடர்கள் என்பது, ஒரு பொருளை வேறு ஒரு பொருளுடன் ஒப்பிட்டு விளக்கும் தொடர்கள் ஆகும். இவை ஒரு பொருளின் பண்பு, பயன், தொழில் ஆகியவற்றை விளக்குவதற்காகப் பயன்படுத்தப்படுகின்றன.",
+          "rule_en": "Simile phrases compare an object with another to explain the quality, use, or action of the object.",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "rule_ta": "கொடுக்கப்பட்டுள்ள உவமைத் தொடர்களின் பொருளை அறிந்து சரியான விடையைத் தேர்ந்தெடுக்க வேண்டும்.",
+          "rule_en": "Understand the meaning of given simile phrases and choose the correct answer.",
+          "source": "sm",
+          "source_page": 302
+        }
+      ],
+      "examples": [
+        {
+          "input": "இந்திய இதியலின் தந்தை",
+          "output": "ஜேம்ஸ் அகஸ்ட்ட் ஹிக்கி",
+          "kind": "other",
+          "note_ta": "இந்திய இதழியலின் தந்தை ஜேம்ஸ் அகஸ்ட்ட் ஹிக்கி ஆவார்.",
+          "source": "sm",
+          "source_page": 300
+        },
+        {
+          "input": "இந்தியாவில் முதன் முதலில் தொடங்கப்பட்ட இதழ்",
+          "output": "பெங்கால் கெஜட் (1780)",
+          "kind": "other",
+          "note_ta": "கல்கத்தா ஜெனரல் அட்வைசர் என்றும் அழைக்கப்படுகிறது.",
+          "source": "sm",
+          "source_page": 300
+        },
+        {
+          "input": "தமிழ்நாட்டில் வெளிவந்த முதல் நாளிதழ்",
+          "output": "மதராஸ் மெயில் (1868)",
+          "kind": "other",
+          "note_ta": "தமிழ்நாட்டில் வெளியான முதல் நாளிதழ் ஆகும்.",
+          "source": "sm",
+          "source_page": 300
+        },
+        {
+          "input": "தமிழ்நாட்டில் வெளிவந்த முதல் தமிழ் நாளிதழ்",
+          "output": "சுதேசமித்திரன் (1882)",
+          "kind": "other",
+          "note_ta": "தமிழ்நாட்டில் வெளியான முதல் தமிழ் நாளிதழ் ஆகும்.",
+          "source": "sm",
+          "source_page": 300
+        },
+        {
+          "input": "மடை திறந்த வெள்ளம் போல",
+          "output": "தடையின்றி மிகுதியாக",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "உள்ளங்கை நெல்லிக்கனி போல",
+          "output": "வெளிப்படைத் தன்மை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "பசுமத்தாணி போல",
+          "output": "எளிதில் மனதில் பதிதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "குன்றின் மேல் இட்ட விளக்கு போல",
+          "output": "புகழ்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "அச்சாணி இல்லா தேர்போல",
+          "output": "சரியான வழிகாட்டி இல்லாமை, நிலைகுலைதல்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "அடியற்ற மரம் போல",
+          "output": "வீழ்த்தல்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "அத்திப்பூத்தாற் போல",
+          "output": "அரிய நிகழ்வு",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "அனலில் விழுந்த புழு போல",
+          "output": "துன்பம்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "ஆடிக்காற்றில் உதிரும் சருகு போல",
+          "output": "நிலைத்தன்மை இல்லாதது",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "ஆந்தை விழிக்கிறது போல",
+          "output": "உறக்கமின்மை",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "இஞ்சி தின்ற குரங்கு போல",
+          "output": "தவிப்பு / விழித்தல்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "இருதலைக் கொள்ளி எறும்பு போல",
+          "output": "தவிப்பு",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "இலவு காத்த கிளி போல",
+          "output": "ஏமாற்றம்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "உடலும் உயிரும் போல",
+          "output": "ஒற்றுமை",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "உரிய காலத்தில் பெய்த மழை போல",
+          "output": "நன்மை",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "எட்டி பழுத்தாற் போல",
+          "output": "பயனற்றது / வீணானது",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "எலியும் பூனையும் போல",
+          "output": "பகை",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "எள்ளினுள் எண்ணெய் போல",
+          "output": "இன்பம்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "ஏற விட்டு ஏணியை வாங்கியது போல",
+          "output": "துரோகம், ஏமாற்றுவது",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "கடலில் கரைத்த காயம் போல",
+          "output": "பயனின்மை",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "கடல் போன்ற கவலை",
+          "output": "மிகுந்த கவலை",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "கண்ணில்லாதவன் கண் பெற்று இழந்தது போல",
+          "output": "தவிப்பு",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "கண்ணினை காக்கும் இமை போல",
+          "output": "பாதுகாத்தல், பாதுகாப்பு",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "கல் மேல் எழுத்து போல",
+          "output": "நிலைத்திருத்தல்",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "காக்கை உட்கார பனம்பழம் விழுந்தது போல",
+          "output": "தற்செயல் நிகழ்வு",
+          "kind": "simile",
+          "note_ta": "பாடப்புத்தகத்திலுள்ள உவமைத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 301
+        },
+        {
+          "input": "காதில் ஈயத்தை காய்ச்சி ஊற்றியது போல",
+          "output": "வெறுப்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "கிணறு வெட்ட பூதம் கிளம்பியது போல",
+          "output": "எதிர்பாரா நிகழ்வு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "கிணற்றுத் தவளை போல",
+          "output": "அறியாமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "கீரியும் பாம்பும் போல",
+          "output": "பகைமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "குடத்தில் இட்ட விளக்கு போல",
+          "output": "மறைந்துள்ள திறமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "கொடிகட்டிப் பறத்தல்",
+          "output": "புகழ் பெற்று விளங்குதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "சிலைமேல் எழுத்து போல",
+          "output": "நிலைத்திருத்தல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "செந்தமிழும் சுவையும் போல",
+          "output": "ஒற்றுமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "தாமரை இலை தண்ணீர் போல",
+          "output": "பற்றின்மை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "தாயைக் கண்ட சேயைப் போல",
+          "output": "மகிழ்ச்சி",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "தாயொப்ப பேசும் மகள்",
+          "output": "தாயை போன்று மகள் பேசுதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "திருடனை தேள் கொட்டியது போல",
+          "output": "திகைப்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "தேன் போன்ற மொழி",
+          "output": "இனிமையான மொழி",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "நநகமும் சதையும் போல",
+          "output": "ஒற்றுமை/ பிரியாமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "நிலவும் வானும் போல",
+          "output": "ஒற்றுமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "நெல்லிக்காய் மூட்டையைக் கொட்டினாற் போல",
+          "output": "ஒற்றுமையின்மை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "பகலவனைக் கண்ட பனி போல",
+          "output": "நீங்குதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "பசுத்தோல் போர்த்திய புலி போல",
+          "output": "நயவஞ்சகம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "பசுமரத்தாணி போல",
+          "output": "எளிதில் மனதில் பதிதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "பருத்தி புடவையைவாய்க் காய்த்தாற் போல் செய்ய முயல்வது கடினமாக இருக்கும்.",
+          "output": "ஒரு செயலைச் செய்யாமல் இருந்தால், பிறகு அதைச் செய்ய முயல்வது கடினமாக இருக்கும்.",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "பழம் நழுவி பாலில் விழுந்தது போல",
+          "output": "இன்பமிகுதி",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "புளியம்பழமும் ஓடும் போல",
+          "output": "ஒட்டாமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "புற்றிலிருந்து ஈசல் புறப்பட்டாற் போல",
+          "output": "திடீரென கிளம்பி எழும் கூட்டம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "மடை திறந்த வெள்ளம் போல்",
+          "output": "தடையின்றி மிகுதியாக",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "மலரன்ன சேவடி",
+          "output": "மலர் போன்ற பாதம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "மலரும் மணமும் போல",
+          "output": "இணை பிரியாமை, நெருக்கம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "மழை முகம் காணாப் பயிர் போல",
+          "output": "வருத்தம், வாட்டம், வறட்சி",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "மின்னாமல் இடித்தது போல",
+          "output": "எதிர்பாராத துக்கச் செய்தி",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "முழவு உறழ் தடக்கை",
+          "output": "மத்தளம் போன்ற பெரிய கைகள்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "வில் போன்ற புருவம்",
+          "output": "கூறுமையானது",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "விழலுக்கு இறைத்த நீர் போல",
+          "output": "பயனற்ற செயல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "வெண்ணிலவும் வானும் போல",
+          "output": "நட்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "வெயில் பட்ட புழு போல",
+          "output": "துன்பம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "வெள்ளம் போன்ற இன்பம்",
+          "output": "மிகுந்த இன்பம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "வேயுபுரை தோள்",
+          "output": "மூங்கில் போன்ற தோள்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "வேலியே பயிரை மேய்ந்தது போல",
+          "output": "கடமை தவறுதல், துரோகம், நயவஞ்சகம், கடமையின்மை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள்",
+          "source": "sm",
+          "source_page": 302
+        },
+        {
+          "input": "அகழ்வாரைத் தாங்கும் நிலம் போல",
+          "output": "பொறுமையுள்ள பண்பாளர்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "அச்சில் வார்த்தாற் போல",
+          "output": "உருவத்தில் ஒரே மாதிரி இருத்தல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "அடுத்தது காட்டும் பளிங்கு போல",
+          "output": "வெளிப்படுத்தல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "அடைக்காத்த கோழி போல",
+          "output": "பாதுகாப்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "அரியினோடு அரியினம் அடாப்ப போல",
+          "output": "மன்னர்களோடு மன்னர்கள் போர் புரிதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "அலையில் அகப்பட்ட துரும்பு போல",
+          "output": "அலைதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "ஆலையில் அகப்பட்ட கரும்பு போல",
+          "output": "துன்பம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "இடியோசை கேட்ட நாகம் போல",
+          "output": "அச்சம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "இலை மறை காய் போல",
+          "output": "மறை பொருள்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "இனம் பிரிந்த மான் போல",
+          "output": "தவிப்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "ஈன்றோர் நீ்த்த குழவி போல",
+          "output": "துன்பம், தனித்து விடப்படல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "உடுக்கை இழந்தவன் கை போல",
+          "output": "இடுக்கண் களைதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "உமி குற்றி கை வருத்தல் போல",
+          "output": "வருத்தம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "உயிரும் உடம்பும் போல",
+          "output": "நட்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "ஊமை கண்ட கனவு போல",
+          "output": "இயலாமை /தவிப்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "கடல் மடை திறந்தாற் போல",
+          "output": "விரைவு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "கடன்பட்டார் நெஞ்சம் போல",
+          "output": "மனக்கலக்கம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "கண்ணைக்கட்டி காட்டில் விட்டது போல",
+          "output": "பயம், துன்பம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "கும்கிட போன தெய்வம் குறுக்கே வந்தது போல",
+          "output": "பார்க்க விரும்பிய ஒருவர் எதிரே வருவது",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "குருடன் கண் பெற்றது போல",
+          "output": "பெருமகிழ்ச்சி",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "சாதி என்னும் சாக்கடையில் புழு போல",
+          "output": "மூடன்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "சுடர் விளக்காயினும் தூண்டு கோல் போல",
+          "output": "ஊக்கப்படுத்துதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "செம்புலப்பெயல் நீர் போல",
+          "output": "ஒரு தன்மையாதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "செவிடின் காதில் ஊதிய சங்கு போல",
+          "output": "பயனிலாச் சொல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "சேற்றில் மலர்ந்த செந்தாமரை போல",
+          "output": "குடிப்பிறப்பின் சிறப்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "தாமரை இலை தண்ணீர் போல",
+          "output": "பட்டும்படாதும் இருத்தல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "தான் உருகி ஒளிதரும் மெழுகு போல",
+          "output": "தியாகம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "தொட்டி நீலத்தில் சுண்ணம் கலந்தது போல",
+          "output": "கட்டிருள் வெளிச்சத்தால் நீங்கும்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "தோண்டத் தோண்ட நீர் சுரத்தல் போல",
+          "output": "பெருகுதல்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "நீர்க்குள் பாசி போல",
+          "output": "மூர்க்கர்களுடைய நட்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "நீர்மேல் எழுத்து போல",
+          "output": "நிலையற்ற தன்மை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "பாம்பின் வாய் தேரை போல",
+          "output": "துன்பம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "பிள்ளையார் பிடிக்கப் போய் குரங்கு ஆனது போல",
+          "output": "எதிர்பாராத தீமை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "புனையா ஓவியம் போல",
+          "output": "சோகம்",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "பூவும் மணமும் போல",
+          "output": "நட்பு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "மண்ணுக்குள் மறைந்திருக்கும் நீரைப் போல",
+          "output": "நுண்ணறிவு",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "மதில்மேல் பூனை போல",
+          "output": "உறுதி இல்லாதது",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        },
+        {
+          "input": "முடவன் கொம்புத் தேவனுக்கு ஆசைப்பட்டதைப் போல",
+          "output": "பேராசை",
+          "kind": "simile",
+          "note_ta": "உவமைத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 303
+        }
+      ],
+      "pyq_samples": [],
+      "sources": {
+        "sm_pdf_pages": [
+          305,
+          308
+        ],
+        "sm_printed_pages": [
+          300,
+          303
+        ]
+      },
+      "status": "sm_extracted",
+      "sm_extract_meta": {
+        "pdf": "SM TAMIL FULL BOOK 570 PAGES.pdf",
+        "pdf_pages": [
+          305,
+          308
+        ],
+        "printed_pages": [
+          300,
+          303
+        ],
+        "rules_count": 4,
+        "examples_count": 103,
+        "model": "gemini-3.5-flash-lite"
+      }
+    },
+    "marabu_thodar": {
+      "name_ta": "மரபுத் தொடரின் பொருளறிதல்",
+      "rules": [
+        {
+          "rule_ta": "நம் முன்னோர் எப்பொருளை எச்சொல்லால் எவ்வாறு வழங்கிவந்தார்களோ, அப்பொருளை அச்சொல்லால் அவ்வாறே வழங்குவது மரபு எனப்படும்.",
+          "rule_en": "Using words in the exact traditional manner as our ancestors did is called Marabu (Tradition).",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "rule_ta": "மரபுத் தொடரில் உள்ள சொற்களுக்கு நேரடிப் பொருள் கொள்ளாது, அதன் உட்பொருளை அறிந்து, வாக்கியத்தில் அமைத்து எழுதவேண்டும்.",
+          "rule_en": "Idioms should not be taken literally; their inner meaning must be understood and applied in sentences.",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "rule_ta": "ஒரு சொல் அல்லது சொற்றொடர், அதன் நேர்பொருளை உணர்த்தாமல் தொடரும் பயன்பாட்டில் வழிவழியாக வேறு குறிப்புப் பொருளைத் தந்து நிற்பும்போது அவற்றை மரபுத்தொடர் என்பர்.",
+          "rule_en": "An idiomatic phrase that conveys a distinct contextual meaning rather than its literal meaning across usage is called an idiom.",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "rule_ta": "உவமையால் விளக்கப்பெறும் பொருத்தமான பொருளைத் தேர்ந்தெழுதுதல்: கொடுக்கப்பட்ட உவமைத் தொடர் உணர்த்தும் உவமையின் பொருளை சரியாகப் புரிந்து கொண்டு சரியான தெரிவைத் தேர்ந்தெடுக்க வேண்டும்.",
+          "rule_en": "Select the appropriate meaning explained by the simile: Understand the meaning conveyed by the given simile phrase and choose the correct option.",
+          "source": "sm",
+          "source_page": 306
+        }
+      ],
+      "examples": [
+        {
+          "input": "கொடிகட்டிப் பறத்தல்",
+          "output": "புகழ்பற்று விளங்குதல்",
+          "kind": "idiom",
+          "note_ta": "திண்டுக்கல், பூக்கள் உற்பத்தியில் கொடிகட்டிப் பறக்கும் நகரமாக விளங்குகிறது.",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "அவசருக்குக்கை",
+          "output": "எண்ணிச் செயல்படாமை",
+          "kind": "idiom",
+          "note_ta": "அவர் ஓர் அவசருக்குக்கை.",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "அகலக்கால்",
+          "output": "விளைவுகளைச் சிந்திக்காமல் செயல்படுவது",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "அத்தி பூத்தாற் போல",
+          "output": "அரிதாக, அதிசயதாக",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "அல்லும் பகலும்",
+          "output": "எப்பொழுதும்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "அவவலை நினைத்து உரலை இடித்தல்",
+          "output": "எண்ணமும் செயலும் ஒத்துவாமை",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "அள்ளியிறைத்தல்",
+          "output": "அதிகமாக செலவு செய்தல் / அளவுக்கு மீறி அளித்தல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆகாசத்தாமரை",
+          "output": "இல்லாத ஒன்று",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆணி அடித்தாற்போல்",
+          "output": "நிலையாக நிற்றல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆணை வந்துவிட்டது",
+          "output": "வேலை கிடைத்துவிட்டது",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆயிரங்காலத்து பயிர்",
+          "output": "நீண்டகாலமாக இருப்பது",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆழம் பார்த்தல்",
+          "output": "மனநிலை அறிதல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆற அமர",
+          "output": "மெதுவாக / நிதானமாக",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஆறப் போடுதல்",
+          "output": "தள்ளிப்போடுதல் / நீட்டித்தல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "இரட்டை நாக்கு பேர்வழி",
+          "output": "மாற்றி மாற்றி பேசுவர்கள்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "உடும்பு பிடி",
+          "output": "உறுதியாக இருத்தல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "உள்ளங்கை நெல்லிக்கனி",
+          "output": "வெளிப்படைத்தன்மை",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஊனுறக்கமின்றி",
+          "output": "ஒய்வின்றி உழைத்தல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "எட்டாக்கனி",
+          "output": "அடைய முடியாத ஒன்று",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "எடுப்பார் கைப்பிள்ளை",
+          "output": "தன் சிந்தனையின்றி சொல்பவர் பேச்சை கேட்டு நடப்பவர்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "எதிர்நீச்சல்",
+          "output": "போராடி வெல்லுதல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஏட்டுச் சுரைக்காய் கறிக்குதவாது",
+          "output": "பட்டறிவில்லாத படிப்புறிவு",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஒருகாலில் நிற்றல்",
+          "output": "பிடிவாதம் காட்டுதல்",
+          "kind": "idiom",
+          "note_ta": "பள்ளிப்பாடப்புத்தகத்திலுள்ள மரபுத்தொடர்கள்",
+          "source": "sm",
+          "source_page": 307
+        },
+        {
+          "input": "ஒருகைபார்த்தல்",
+          "output": "சண்டைக்குப் போதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "ஓலைவந்து விட்டது",
+          "output": "ஆணை கிடைத்துவிட்டது.",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கங்கு கரையில்லை",
+          "output": "எல்லை இல்லை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கச்சை கட்டிக் கொண்டு",
+          "output": "தீவிரம் காட்டுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கடுக்காய் கொடுத்தல்",
+          "output": "ஏமாற்றுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கடை கட்டுதல்",
+          "output": "செயலை நிறுத்துதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கண்ணாயிருத்தல்",
+          "output": "சிதறாத கவனத்துடன் இருத்தல்/காவலாயிருத்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கண்ணுங்கருத்துமாக",
+          "output": "மிகுந்த அக்கறை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கண்ணை உறுத்துகிறது",
+          "output": "பொறாமை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கண்ணை மூடிக்கொண்டு",
+          "output": "ஆராய்ந்து பாராமல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கண்துடைப்பு",
+          "output": "ஏமாற்றுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கயிற்று திரித்தல்",
+          "output": "இல்லாததனை சொல்லுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கம்பி நீட்டுதல்",
+          "output": "விரைந்து வெளியேறுதல்/ சொல்லிக்கொள்ளாமல் செல்லல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கரி பூசுதல்",
+          "output": "அவமானப்படுத்துதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கல்லில் நார் உரித்தல்",
+          "output": "இயலாத செயல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "காதில் பூச்சற்றுதல்",
+          "output": "ஏமாற்றுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "காது குத்துதல்",
+          "output": "ஏமாற்றுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கானல் நீர்",
+          "output": "இருப்பது போல் தோன்றும் ஆனால் இராத்தது",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "காலில் வெந்நீர் ஊற்றிக் கொண்டு நிற்கிறான்",
+          "output": "அவசரப்படுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கிணற்றுத்தவளை",
+          "output": "வெளியுலகம் அறியாதிருத்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "குட்டிச்சுவர்",
+          "output": "பயமின்றி இருத்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "குட்டு வெளிப்படல்",
+          "output": "உண்மை வெளியாதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "குரங்கின் கை பூமாலை",
+          "output": "வீணடித்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கை கொடுத்தல்",
+          "output": "உதவி செய்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கை தூக்கி விடுதல்",
+          "output": "உதவி செய்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கை வந்த கலை",
+          "output": "திறமை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கொடிகட்டி பறத்தல்",
+          "output": "புகழ்பெற்றது விளங்குதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கொட்டியளத்தல்",
+          "output": "மிகுதியாக பேசுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "கோயில் பெருச்சாளி",
+          "output": "பொதுச் சொத்தைத் திருடித் தின்பவன்.",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "சங்கப் பலகை",
+          "output": "விரிந்து அனைவருக்கும் இடம் கொடுப்பது",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "சாயம் வெளுத்து",
+          "output": "உண்மை வெளிப்படுதல் விட்டது",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "சீட்டு கிழிந்து விட்டது",
+          "output": "வேலை போய்விட்டது",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "சொந்தக்காலில் நிற்றல்",
+          "output": "சொந்த உழைப்பில் முன்னேறுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "தங்குதடையின்றி",
+          "output": "அளவின்றி ஏராளமாக",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "தலை தப்பினால் போதும்",
+          "output": "உயிர் தப்பித்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "தலையீடு",
+          "output": "குறுக்கிடுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "தலையில் வைத்து கொண்டாடு",
+          "output": "அளவு கடந்து பாராட்டுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "தொன்றுதொட்டு",
+          "output": "பழமை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "தாளம் போடுதல்",
+          "output": "எதை சொன்னாலும் அப்படியே செய்தல்/துன்பப்படுதல்/தீண்டாட்டம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "நடுத்தெருவில்",
+          "output": "ஆதரவில்லாமல் செய்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "நிறைகுடம்",
+          "output": "அறிவிலும் பண்பிலும் சிறந்தவர் (அடக்கமானவர்)",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 308
+        },
+        {
+          "input": "நீறு பூத்த நெருப்பு",
+          "output": "உணர்ச்சி குன்றாமை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "நெல்லிக்காய் மூட்டை",
+          "output": "ஒற்றுமை இல்லாமை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பசுத்தோல் போர்த்திய புலி",
+          "output": "நயவஞ்சகம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பஞ்சாய் பறத்தல்",
+          "output": "அலைந்து திரிதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பஞ்சாய்ப் பறக்கிறான்",
+          "output": "பொருளின்றி அலைகிறான்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பல்லை கடித்துக்கொண்டு",
+          "output": "பொறுத்து கொண்டு இருத்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பழக்கவழக்கம்",
+          "output": "பின்பற்றும் நடைமுறைகள்/ வழக்கங்கள்/ நம்பிக்கைகள்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பழுக்கப்போடு",
+          "output": "காலம் தாழ்த்துதன்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "புத்தகப் பூச்சி",
+          "output": "உலக அறிவின்றி நூலறிவு மட்டுமே உள்ளவன்.",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பூசி மெழுகுதல்",
+          "output": "மறைத்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "பேரும்புகழும்",
+          "output": "பெரும் புகழ் பெற்று விளங்குதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மதில்மேல் பூனை",
+          "output": "நிச்சயம் இல்லாத நிலை/ முடிவெடுக்க முடியாத குழப்பமான நிலை",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மலையேறிவிட்டது",
+          "output": "பழைய பழக்கம் மறைந்து விட்டது/ மாற்றம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மனக்கோட்டை",
+          "output": "வீண் எண்ணம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மனப்பால் குடித்தல்",
+          "output": "கற்பனை செய்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "முகத்தில் அறைந்தாற்போல்",
+          "output": "எடுத்தறிந்து பேசுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "முகத்தில் கரிபூசுதல்",
+          "output": "தாழ்வு / இழிவுபடுத்துதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "முதலை கண்ணீர்",
+          "output": "பொய்யாக அழுதல் / ஏமாற்றுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "முதுகில் குத்தி விட்டான்",
+          "output": "துரோகம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "முழுக்குப் போடுதல்",
+          "output": "கை விடுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மூக்கறுட்டுபோனான்",
+          "output": "அமானாபடுதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மேடும்பள்ளமும்",
+          "output": "ஏற்ற இறக்கம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "மேளாளத்துடன்",
+          "output": "சந்தோஷம்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "வழிவழியாக",
+          "output": "பரம்பரை பரம்பரையாக",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "வாய் நீளம் காட்டாதே",
+          "output": "அளவுக்குதிகமாக பேசுவது",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "வாய்ப்பூட்டு",
+          "output": "பேசக் கூடாது என தடைவிதித்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "வாலாட்டுதல்",
+          "output": "மீறி நடத்தல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "வாழையடி வாழை",
+          "output": "தொடர்ச்சி",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "வெட்ட வெளிச்சம்",
+          "output": "எல்லாருக்கும் தெரிதல்",
+          "kind": "idiom",
+          "note_ta": "மரபுத் தொடரின் பொருள் அறிதல்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "உதட்டளவு",
+          "output": "மனதார இல்லாமல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "ஏட்டிக்குப் போட்டி",
+          "output": "எதிர்த்துப் பேசுதல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "ஒரு கை பார்த்தல்",
+          "output": "சவால்/ திறமையைக் காட்டுதல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "ஒளிவுமறைவு",
+          "output": "மறைத்து",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "ஒட்டடைக் கை",
+          "output": "செலவாளி",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "ஒட்டைவாய்",
+          "output": "ரகசியத்தைக் காப்பாற்றாமை",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "கண்மூடித்தனம்",
+          "output": "அறியாமை/ சிந்திக்காமல் செயல்படுதல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "கரைத்துக் குடித்தல்",
+          "output": "அனைத்தையும் நன்றாக அறிதல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "குரங்குப்பிடி",
+          "output": "பிடிவாதம்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "கை கழுவுதல்",
+          "output": "விட்டு விடுதல் / ஒதுக்கி விடுதல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "கையபுள்ளையாக",
+          "output": "தவறு செய்த இடத்திலேயே அகப்படுதல்",
+          "kind": "idiom",
+          "note_ta": "மேலும் அறிந்து கொள்வோம்",
+          "source": "sm",
+          "source_page": 309
+        },
+        {
+          "input": "காக்கை உட்காரப் பனம்பழம் விழுந்தது போல",
+          "output": "தற்செயல் நிகழ்வு",
+          "kind": "simile",
+          "note_ta": "காக்கை உட்காரப் பனம்பழம் விழுந்தது போல என்பது தற்செயல் நிகழ்வைக் குறிக்கும்.",
+          "source": "sm",
+          "source_page": 306
+        },
+        {
+          "input": "மடை திறந்த வெள்ளம் போல",
+          "output": "தடையின்றி மிகுதியாக",
+          "kind": "simile",
+          "note_ta": "திருவிழாவைக்காண மடை திறந்த வெள்ளம் போல மக்கள் வந்தனர் - தடையின்றி மிகுதியாக.",
+          "source": "sm",
+          "source_page": 306
+        },
+        {
+          "input": "ஆகாத் தாமரை",
+          "output": "இல்லாத ஒன்று",
+          "kind": "simile",
+          "note_ta": "ஆகாயத் தாமரை - உவமைக் கூறும் பொருள் இல்லாத ஒன்று.",
+          "source": "sm",
+          "source_page": 306
+        }
+      ],
+      "pyq_samples": [],
+      "sources": {
+        "sm_pdf_pages": [
+          311,
+          314
+        ],
+        "sm_printed_pages": [
+          306,
+          309
+        ]
+      },
+      "status": "sm_extracted",
+      "sm_extract_meta": {
+        "pdf": "SM TAMIL FULL BOOK 570 PAGES.pdf",
+        "pdf_pages": [
+          311,
+          314
+        ],
+        "printed_pages": [
+          306,
+          309
+        ],
+        "rules_count": 4,
+        "examples_count": 107,
+        "model": "gemini-3.5-flash-lite"
+      }
+    },
+    "pazhamozhigal": {
+      "name_ta": "பழமொழிகள் பொருளறிதல்",
+      "rules": [
+        {
+          "rule_ta": "பழமொழிகள் என்பது ஒரு சமூகத்தின் அனுபவ முதிர்ச்சியையும், அறிவுக் கூர்மையையும் எடுத்துரைக்கும் சொற்றொடர்கள் ஆகும்.",
+          "rule_en": "Proverbs are phrases that express the experiential maturity and intellectual sharpness of a society.",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "rule_ta": "பழமொழியைத் தொல்காப்பியம் 'முதுசொல்' என்று கூறுகிறது.",
+          "rule_en": "Tholkappiyam refers to proverbs as 'Muthuchol'.",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "rule_ta": "சொலவடைகள் என்பவை சிறுசிறு தொடர்களாக வட்டார பேச்சு வழக்கில் வழங்கி வருபவை.",
+          "rule_en": "Solavadai (idioms/sayings) are short phrases used in regional colloquial speech.",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "rule_ta": "ஆங்கிலப் பழமொழிகளுக்கு இணையான தமிழ்ப் பழமொழிகளை அறிந்துகொண்டு, வாசித்தல் மற்றும் பொருத்துதல் வினாக்களுக்கு விடையளிக்க வேண்டும்.",
+          "rule_en": "Match English proverbs with their equivalent Tamil proverbs to answer reading and matching questions.",
+          "source": "sm",
+          "source_page": 315
+        }
+      ],
+      "examples": [
+        {
+          "input": "சுடர் விளக்காயினும் தூண்டுகோல் வேண்டும்",
+          "output": "தன்ற பெற்றோரும் ஆசிரியர்களும் கொடுத்த ஊக்கத்தால் நன்கு படித்து முதல் மதிப்பெண் பெறமுடிந்தது",
+          "kind": "proverb",
+          "note_ta": "பழமொழிக்கு எடுத்துக்காட்டாக மாணவி ஒருவர் தன் மதிப்பெண் வெற்றியை விளக்கியது.",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "input": "புண்ணுக்கு மருந்து போட முடியும்; புடிவாதத்துக்கு மருந்து போட முடியுமா?",
+          "output": "புடிவாதம் உள்ளவர்க்கு எளிதில் தீர்வு காண முடியாது.",
+          "kind": "proverb",
+          "note_ta": "பள்ளி பாடப்பத்தகத்திலுள்ள சொலவடை எடுத்துக்காட்டு",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "input": "அணை உடைஞ்சு போன வெள்ளம் அழுதாலும் வராது.",
+          "output": "இழப்பு ஏற்பட்டபின் வருந்திப் பயன் இல்லை.",
+          "kind": "proverb",
+          "note_ta": "பள்ளி பாடப்பத்தகத்திலுள்ள சொலவடை எடுத்துக்காட்டு",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "input": "எறும்பு ஊர கல்லும் தேயும்.",
+          "output": "தொடர்ந்து முயன்றால் எத்தகைய கடினமான காரியமும் நடக்கும்.",
+          "kind": "proverb",
+          "note_ta": "பள்ளி பாடப்பத்தகத்திலுள்ள சொலவடை எடுத்துக்காட்டு",
+          "source": "sm",
+          "source_page": 313
+        },
+        {
+          "input": "அவசருக்குடுக்கை",
+          "output": "எண்ணிச் செயல்படாமை",
+          "kind": "proverb",
+          "note_ta": "அவசருக்குடுக்கை என்பதன் பொருள் எண்ணிச் செயல்படாமை ஆகும்.",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "மனப்பால் குடித்தல்",
+          "output": "கற்பனை செய்தல்",
+          "kind": "idiom",
+          "note_ta": "பொருத்தமான இணை: மனப்பால் குடித்தல் - கற்பனை செய்தல்",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "மதில்மேல் பூனை",
+          "output": "நிச்சயம் இல்லாமை",
+          "kind": "idiom",
+          "note_ta": "பொருத்தமான இணை: மதில்மேல் பூனை - நிச்சயம் இல்லாமை",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "தாளம் போடுகிறான்",
+          "output": "இன்பம்படுகிறான்",
+          "kind": "idiom",
+          "note_ta": "பொருத்தமான இணை: தாளம் போடுகிறான் - இன்பம்படுகிறான்",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "கங்கு கரையில்லை",
+          "output": "எல்லையில்லை",
+          "kind": "idiom",
+          "note_ta": "பொருத்தமான இணை: கங்கு கரையில்லை - எல்லையில்லை",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "ஆகாசத் தாமரை",
+          "output": "இல்லாத ஒன்று",
+          "kind": "proverb",
+          "note_ta": "ஆகாசத் தாமரை என்பதன் பொருள் இல்லாத ஒன்று.",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "ஆயிரங்காலத்துப் பயிர்",
+          "output": "நீண்ட காலத்திற்குரியது",
+          "kind": "proverb",
+          "note_ta": "ஆயிரங்காலத்துப் பயிர் என்பதன் பொருள் நீண்ட காலத்திற்குரியது.",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "முதலைக் கண்ணீர்",
+          "output": "பொய்யுழுகை",
+          "kind": "idiom",
+          "note_ta": "முதலைக் கண்ணீர் என்பதன் பொருள் பொய்யுழுகை ஆகும்.",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "கொட்டியளத்தல்",
+          "output": "மிகுதியாகப் பேசுதல்",
+          "kind": "idiom",
+          "note_ta": "கொட்டியளத்தல் என்பதன் பொருள் மிகுதியாகப் பேசுதல்.",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "ஏட்டுச் சுரைக்காய் கறிக்குதவாது",
+          "output": "பயனின்றி இருத்தல்",
+          "kind": "proverb",
+          "note_ta": "ஏட்டுச் சுரைக்காய் கறிக்குதவாது என்பதன் பொருள் பயனின்றி இருத்தல்.",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "கானல்நீர்",
+          "output": "இல்லாத ஒன்று",
+          "kind": "proverb",
+          "note_ta": "பொருத்தமான இணை: கானல்நீர் - இல்லாத ஒன்று",
+          "source": "sm",
+          "source_page": 312
+        },
+        {
+          "input": "Bend the tree while it is young.",
+          "output": "ஐந்தில் வளையாதது, ஐம்பதில் வளையுமா ?",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "As is the mother, so is her daughter.",
+          "output": "தாயைப்போலப் பிள்ளை; நூலைப்போலச் சேலை.",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "A friend in need is a friend indeed.",
+          "output": "உயிர்காப்பான் தோழன்.",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "A man of courage never wants weapons.",
+          "output": "வல்லவனுக்குப் புல்லும் ஆயுதம்.",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "Blood is thicker than water.",
+          "output": "தான் ஆடாவிட்டாலும் தன் தசை ஆடும்.",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "Crying child will get milk.",
+          "output": "அழுத பிள்ளை பால் குடிக்கும்.",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "Make hay while the sun shines.",
+          "output": "காற்றுள்ளபோதே தூற்றிக்கொள்.",
+          "kind": "proverb",
+          "note_ta": "பழைய பள்ளிப்பாடப்புத்தகத்திலுள்ள பழமொழிகள் - இணையான தமிழ்ப் பழமொழியை அறிக",
+          "source": "sm",
+          "source_page": 314
+        },
+        {
+          "input": "The childhood shows the man.",
+          "output": "விளையும் பயிர் முளையிலே தெரியும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "All is well that ends well.",
+          "output": "முதற்கோணல் முற்றிலும் கோணல்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "A Good marksman may miss.",
+          "output": "ஆனைக்கும் அடி சருக்கும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "In a fiddler's house all are dancers.",
+          "output": "கம்பன் வீட்டுக் கட்டுத்தறியும் கவி பாடும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "No man can flay a stone.",
+          "output": "கல்லிலே நார் உரிக்க முடியுமா?",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Difficulties give way to diligence.",
+          "output": "கரைப்பார் கரைத்தால் கல்லும் கரையும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Command your man and do it yourself.",
+          "output": "வெண்ணெயை வைத்துக்கொண்டு நெய்க்கு அலைவானேன்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Charity is a double blessing.",
+          "output": "தருமம் தலை காக்கும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Take away the fuel, the boiling will cease.",
+          "output": "எரிதனைப் பிடுங்கினால் கொதிப்பது அடங்கும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Practice makes perfect.",
+          "output": "சித்திரமும் கைப்பழக்கம், செந்தமிழும் நாப்பழக்கம்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "The law-maker should not be a law-breaker.",
+          "output": "வேலியே பயிரை மேய்ந்தாற்போல.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Misfortune never comes single.",
+          "output": "பட்டகாலிலே படும், கெட்ட குடியே கெடும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Look no gift horse in the mouth.",
+          "output": "தானம் கொடுத்த மாட்டலைப் பல்லைப் பிடித்துப் பார்க்கலாமா?",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "One doth the act, another hath the blow.",
+          "output": "பழி ஓரிடம், பாவம் ஓரிடம்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Every fox must at last pay his skin to the flaye.",
+          "output": "பல நாள் திருடன், ஒரு நாள் அகப்படுவான்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Money makes many things.",
+          "output": "பணம் பத்தும் செய்யும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "The day has eyes, the night has ears.",
+          "output": "பகலில் பக்கம் பார்த்துப் பேசு; இரவில் அதுவும் பேசாதே.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "What comes from the cradle goes to the grave.",
+          "output": "தொட்டில் பழக்கம் சுடுகாடு மட்டும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "The wise and the fool have their follows.",
+          "output": "இனம் இனத்தோடு சேரும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "He who has an art has everywhere a part.",
+          "output": "கற்றோருக்குச் சென்ற இடமெல்லாம் சிறப்பு.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Being on the sea, sail being on the land, settled.",
+          "output": "காலத்திற்கேற்ற கோலம் கொள்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "No rains no grains.",
+          "output": "மாரியல்லது காரியம் இல்லை.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Bad words find bad acceptance.",
+          "output": "நுணலும் தன் வாயால் கெடும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "One flower makes no garland.",
+          "output": "தனிமரம் தோப்பாகாது.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Little wealth little care.",
+          "output": "மடியில் கனமில்லையென்றால் வழியில் பயமில்லை.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Look before you leap.",
+          "output": "ஆழம் அறியாமல் காலை விடாதே.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Something is better than nothing.",
+          "output": "ஆலையில்லா ஊருக்கு இலுப்பைப் பூ சர்க்கரை.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Though he endeavours all he can.",
+          "output": "புலியலைப் பார்த்துப் பூனை சூடுபோட்டுக் கொண்டாற்போல்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Anger is sworn enemy.",
+          "output": "கோபம் குலத்தைக் கெடுக்கும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Break my head and bring a plaster.",
+          "output": "பிள்ளையைக் கிள்ளிவிட்டுத் தொட்டிலையும் ஆட்டுவதுபோல.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "There is danger in men's smiles.",
+          "output": "தொழுத கையுள்ளும் படை ஒடுங்கும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Like hand and glove.",
+          "output": "நகமும் சதையும் போல.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Wealth is best known by want.",
+          "output": "நிழலின் அருமை வெயிலில் தெரியும்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "A wolf in sheep's clothing.",
+          "output": "பசுத்தோல் போர்த்திய புலி.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Union is strength.",
+          "output": "ஒற்றுமையே வலிமை.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "No smoke without fire.",
+          "output": "நெருப்பில்லாமல் புகையாது.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        },
+        {
+          "input": "Might is right.",
+          "output": "வல்லான் வகுத்ததே வாய்க்கால்.",
+          "kind": "proverb",
+          "note_ta": "ஆங்கிலப் பழமொழிக்கு இணையான தமிழ்ப் பழமொழி.",
+          "source": "sm",
+          "source_page": 315
+        }
+      ],
+      "pyq_samples": [],
+      "sources": {
+        "sm_pdf_pages": [
+          317,
+          320
+        ],
+        "sm_printed_pages": [
+          312,
+          315
+        ]
+      },
+      "status": "sm_extracted",
+      "sm_extract_meta": {
+        "pdf": "SM TAMIL FULL BOOK 570 PAGES.pdf",
+        "pdf_pages": [
+          317,
+          320
+        ],
+        "printed_pages": [
+          312,
+          315
+        ],
+        "rules_count": 4,
+        "examples_count": 59,
+        "model": "gemini-3.5-flash-lite"
+      }
+    },
+    "aavanam_puriththal": {
+      "name_ta": "ஆவண உள்ளடக்கங்களைப் புரிந்து கொள்ளும் திறன்",
+      "rules": [
+        {
+          "rule_ta": "அரசாங்க ஆவணங்கள் என்பது அரசாங்க துறையின் உத்தியோகபூர்வ தகவல் அல்லது கொள்கைகளைக் கொண்ட வெளியீடுகளாகும்.",
+          "rule_en": "Government documents are official information or policy publications of a government department.",
+          "source": "sm",
+          "source_page": 320
+        },
+        {
+          "rule_ta": "சட்ட ஆவணங்கள், நிதி ஆவணங்கள், அறிக்கைகள், படிவங்கள் மற்றும் பலவற்றை உள்ளடக்கிய பல வகையான ஆவணங்கள் உள்ளன.",
+          "rule_en": "There are many types of documents including legal documents, financial documents, reports, forms and more.",
+          "source": "sm",
+          "source_page": 320
+        },
+        {
+          "rule_ta": "பழமொழிகளைச் சரியான சொற்களை இட்டு நிறைவு செய்து, அதன் உட்பொருளைப் புரிந்து கொண்டு விடையளிக்க வேண்டும்.",
+          "rule_en": "Complete the proverbs with correct words and answer by understanding their inner meaning.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "rule_ta": "அரசின் கடிதங்கள் மற்றும் அரசாணைகளைப் படித்து, அதில் உள்ள கடித எண், நாள், பொருள், பார்வை மற்றும் கருத்துக்களைத் துல்லியமாக ஆராய்ந்து விடையளிக்க வேண்டும்.",
+          "rule_en": "Read government letters and orders to accurately analyze the letter number, date, subject, reference, and content to answer questions.",
+          "source": "sm",
+          "source_page": 322
+        },
+        {
+          "rule_ta": "ஆவண உள்ளடக்கங்கள் மற்றும் அரசு ஆணைகளைப் படித்து, கொடுக்கப்பட்டுள்ள வினாக்களுக்கு சரியான விடையைத் தேர்ந்தெடுக்க அதில் கூறப்பட்டுள்ள தகுதிகள் மற்றும் சட்டத் திருத்தங்களை முழுமையாகப் புரிந்து கொள்ள வேண்டும்.",
+          "rule_en": "Understand government orders and document contents completely to answer comprehension questions accurately based on qualifications and amendments.",
+          "source": "sm",
+          "source_page": 321
+        }
+      ],
+      "examples": [
+        {
+          "input": "கொள்கைகள், திட்டங்கள், நிதி ஆவணங்கள், அரசாணைகள், ஒப்பந்தங்கள், கடிதங்கள்",
+          "output": "அரசாங்க ஆவணங்களின் வகைகள் மற்றும் வடிவங்கள்",
+          "kind": "document",
+          "note_ta": "அரசாங்க ஆவணங்கள் எவற்றை உள்ளடக்கியது என்பதற்கான எடுத்துக்காட்டுகள்.",
+          "source": "sm",
+          "source_page": 320
+        },
+        {
+          "input": "கந்தை ........ கசக்கிக்கட்டு; கூழ் ........ குளித்துக் குடி",
+          "output": "கந்தையானாலும் கசக்கிக்கட்டு; கூழானாலும் குளித்துக் குடி",
+          "kind": "proverb",
+          "note_ta": "விடுபட்ட சொற்களை நிரப்பிப் பழமொழியை நிறைவு செய்யும் முறை.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "input": "குடல் கூழுக்கு அழுவதாம் ........",
+          "output": "அள்ளுநவன் பக்கத்தில் இருந்தாலும்",
+          "kind": "proverb",
+          "note_ta": "பழமொழியின் இரண்டாம் பகுதியைச் சரியான விருப்பத்தைத் தேர்ந்தெடுத்து நிறைவு செய்தல்.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "input": "குத்துக் கல்லுக்கு குளிரா வெயில்ல",
+          "output": "கவலையில்லாாமல் இருத்தல்",
+          "kind": "proverb",
+          "note_ta": "குத்துக் கல்லுக்கு குளிரா வெயில்ல என்னும் பழமொழிக்குரிய பொருள் கவலையில்லாமல் இருத்தல் ஆகும்.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "input": "மரத்தை இலை காக்கும்",
+          "output": "மானத்தை மழை காக்கும்",
+          "kind": "proverb",
+          "note_ta": "பழமொழியை நிறைவு செய்யும் முறை.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "input": "குந்தி தின்றால் குன்றும் கரையும்",
+          "output": "உழைக்காதவன் செல்வம் அழியும்",
+          "kind": "proverb",
+          "note_ta": "குந்தி தின்றால் குன்றும் கரையும் என்னும் பழமொழி உணர்த்தும் பொருள் உழைக்காதவன் செல்வம் அழியும் என்பதாகும்.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "input": "காரிகை கற்றுக் கவிபாடுவதிலும் பேரிகை கொட்டிப் பிழைப்பது மேல்",
+          "output": "கவிதை எழுதுவது அரிது",
+          "kind": "proverb",
+          "note_ta": "இத்தொடர் உணர்த்துவது கவிதை எழுதுவது அரிது என்பதாகும்.",
+          "source": "sm",
+          "source_page": 319
+        },
+        {
+          "input": "சிறப்புத் திட்டச் செயலாக்கத் துறை - நரிக்குறவர், பழங்குடியினர், இதர விளிம்பு நிலை மக்கள் - நலத்திட்ட உதவிகள் வழங்குதல் - மாண்புமிகு முதலமைச்சர் அவர்களின் நேரடி கள ஆய்வு - தொடர் நடவடிக்கை எடுத்தல்",
+          "output": "மாண்புமிகு முதலமைச்சர் அவர்கள் செங்கல்பட்டு மாவட்டம் பூஞ்சேரியில் நரிக்குறவர்களும் பழங்குடியினரும் வசிக்கும் பகுதியில் கள ஆய்வு மேற்கொண்ட நாள் 04/11/2021",
+          "kind": "document",
+          "note_ta": "அரசு கடிதத்தின் பொருளைப் புரிந்து கொண்டு கள ஆய்வு மேற்கொள்ளப்பட்ட நாளைக் கண்டறிதல்.",
+          "source": "sm",
+          "source_page": 322
+        },
+        {
+          "input": "தமிழ்நாடு அரசு செய்தி வெளியீடு எண். 1041 மற்றும் 1042, நாள். 4.11.2021",
+          "output": "கடிதத்தில் குறிப்பிடப்பட்டுள்ள பார்வை எண்கள்: 1041 மற்றும் 1042",
+          "kind": "document",
+          "note_ta": "கடிதத்தின் 'பார்வை' பகுதியில் குறிப்பிடப்பட்டுள்ள குறிப்புகளைக் கொண்டு விடையளித்தல்.",
+          "source": "sm",
+          "source_page": 322
+        },
+        {
+          "input": "தமிழ்நாடு அரசு பணி நியமனங்களில் தமிழ் வழியில் பயின்றோருக்கு முன்னுரிமை அளிக்கும் வகையில் சட்டம் இயற்றப்பட்ட ஆண்டு",
+          "output": "2010",
+          "kind": "document",
+          "note_ta": "தமிழ் வழி பயின்றோருக்கு முன்னுரிமை வழங்கும் சட்டம் இயற்றப்பட்ட ஆண்டு 2010 ஆகும்.",
+          "source": "sm",
+          "source_page": 321
+        },
+        {
+          "input": "2010 ஆம் ஆண்டில் இயற்றப்பட்ட சட்டத்தின் படி தமிழ் வழி பயின்றோருக்கு எத்தனை விழுக்காடு இடஒதுக்கீடு வழங்கப்பட்டது?",
+          "output": "20",
+          "kind": "document",
+          "note_ta": "தமிழ் வழியில் பயின்றோருக்கான இடஒதுக்கீடு 20 சதவீதம் ஆகும்.",
+          "source": "sm",
+          "source_page": 321
+        },
+        {
+          "input": "தமிழ்நாடு அரசு பணி நியமனங்களில் தமிழ் வழியில் பயின்றோருக்கு முன்னுரிமை வழங்கும் சட்டம் எந்த வருடம் திருத்தப்பட்டது?",
+          "output": "2020",
+          "kind": "document",
+          "note_ta": "2010 ஆம் ஆண்டு சட்டம் 2020 ஆம் ஆண்டு திருத்தப்பட்டது.",
+          "source": "sm",
+          "source_page": 321
+        },
+        {
+          "input": "தமிழ் வழியில் பயின்றோருக்கு முன்னுரிமை வழங்குவது தொடர்பாக எந்த நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது?",
+          "output": "சென்னை உயர்நீதிமன்ற மதுரை கிளை",
+          "kind": "document",
+          "note_ta": "சென்னை உயர்நீதிமன்ற மதுரை கிளையில் WP(MD)No.8025/2020 வழக்கு தொடரப்பட்டது.",
+          "source": "sm",
+          "source_page": 321
+        },
+        {
+          "input": "தமிழ் வழியில் பயின்றோருக்கு முன்னுரிமை வழங்குவது தொடர்பான வழக்கில் நீதிமன்றம் வழங்கிய தீர்ப்பு யாது?",
+          "output": "1 முதல் நிர்ணயிக்கப்பட்ட கல்வி தகுதி வரை தமிழ் வழியில் பயின்றிருத்தல்",
+          "kind": "document",
+          "note_ta": "ஒன்றாம் வகுப்பு முதல் நிர்ணயிக்கப்பட்ட கல்வித் தகுதி வரை முழுமையாகத் தமிழ் வழியில் பயின்றிருக்க வேண்டும்.",
+          "source": "sm",
+          "source_page": 321
+        }
+      ],
+      "pyq_samples": [],
+      "sources": {
+        "sm_pdf_pages": [
+          324,
+          327
+        ],
+        "sm_printed_pages": [
+          319,
+          322
+        ]
+      },
+      "status": "notes_gap",
+      "sm_extract_meta": {
+        "pdf": "SM TAMIL FULL BOOK 570 PAGES.pdf",
+        "pdf_pages": [
+          324,
+          327
+        ],
+        "printed_pages": [
+          319,
+          322
+        ],
+        "rules_count": 5,
+        "examples_count": 14,
+        "model": "gemini-3.5-flash-lite"
+      },
+      "gap_note": "Thin SM pages for this topic. May need wider SM range or enrich from related SM lists."
+    }
+  }
+}

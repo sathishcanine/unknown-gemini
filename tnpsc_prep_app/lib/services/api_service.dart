@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
@@ -7,16 +6,28 @@ import '../models/question.dart';
 import '../models/history.dart';
 
 class ApiConfig {
+  /// Override at run time, e.g.:
+  /// `flutter run -d chrome --dart-define=API_BASE_URL=http://127.0.0.1:8000`
+  static const String _envUrl = String.fromEnvironment('API_BASE_URL');
+
   static String get baseUrl {
-    return "https://103-181-177-31.nip.io";
+    if (_envUrl.isNotEmpty) return _envUrl;
+    return 'https://103-181-177-31.nip.io';
   }
 }
 
 class ApiService {
-  final String _baseUrl = ApiConfig.baseUrl;
+  String get _baseUrl => ApiConfig.baseUrl;
+
+  Map<String, String> get _headers => {
+        'Content-Type': 'application/json',
+      };
 
   Future<List<Map<String, dynamic>>> getSubjects() async {
-    final response = await http.get(Uri.parse('$_baseUrl/api/subjects'));
+    final response = await http.get(
+      Uri.parse('$_baseUrl/api/subjects'),
+      headers: _headers,
+    );
     if (response.statusCode == 200) {
       List data = jsonDecode(utf8.decode(response.bodyBytes));
       return data.cast<Map<String, dynamic>>();
@@ -25,14 +36,33 @@ class ApiService {
     }
   }
 
-  Future<List<Map<String, dynamic>>> getSyllabus(String subject) async {
+  Future<List<Map<String, dynamic>>> getSyllabus(String subject, {String? unit}) async {
     final encodedSubject = Uri.encodeComponent(subject);
-    final response = await http.get(Uri.parse('$_baseUrl/api/syllabus/$encodedSubject'));
+    final uri = Uri.parse('$_baseUrl/api/syllabus/$encodedSubject').replace(
+      queryParameters: {
+        if (unit != null && unit.isNotEmpty) 'unit': unit,
+      },
+    );
+    final response = await http.get(uri, headers: _headers);
     if (response.statusCode == 200) {
       List data = jsonDecode(utf8.decode(response.bodyBytes));
       return data.cast<Map<String, dynamic>>();
     } else {
       throw Exception('Failed to load syllabus: ${response.statusCode}');
+    }
+  }
+
+  /// Podhu Tamil units menu — server-driven (`backend/tamil_units.json`).
+  Future<List<Map<String, dynamic>>> getTamilUnits() async {
+    final response = await http.get(
+      Uri.parse('$_baseUrl/api/tamil/units'),
+      headers: _headers,
+    );
+    if (response.statusCode == 200) {
+      List data = jsonDecode(utf8.decode(response.bodyBytes));
+      return data.cast<Map<String, dynamic>>();
+    } else {
+      throw Exception('Failed to load Tamil units: ${response.statusCode}');
     }
   }
 
@@ -48,7 +78,7 @@ class ApiService {
         if (batch != null) 'batch': batch,
       },
     );
-    final response = await http.get(uri);
+    final response = await http.get(uri, headers: _headers);
     if (response.statusCode == 200) {
       List data = jsonDecode(utf8.decode(response.bodyBytes));
       return data.map((q) => Question.fromJson(q)).toList();
@@ -60,7 +90,7 @@ class ApiService {
   Future<Map<String, dynamic>> calculateStats(List<HistoryEntry> history) async {
     final response = await http.post(
       Uri.parse('$_baseUrl/api/stats'),
-      headers: {'Content-Type': 'application/json'},
+      headers: _headers,
       body: jsonEncode(history.map((h) => h.toJson()).toList()),
     );
     if (response.statusCode == 200) {
@@ -81,7 +111,7 @@ class ApiService {
   }) async {
     final response = await http.post(
       Uri.parse('$_baseUrl/api/sessions/submit'),
-      headers: {'Content-Type': 'application/json'},
+      headers: _headers,
       body: jsonEncode({
         'user_id': userId,
         'topic_name': topicName,
@@ -100,7 +130,10 @@ class ApiService {
   }
 
   Future<List<Map<String, dynamic>>> getUserHistory(String userId) async {
-    final response = await http.get(Uri.parse('$_baseUrl/api/sessions/history?user_id=$userId'));
+    final response = await http.get(
+      Uri.parse('$_baseUrl/api/sessions/history?user_id=$userId'),
+      headers: _headers,
+    );
     if (response.statusCode == 200) {
       List data = jsonDecode(utf8.decode(response.bodyBytes));
       return data.cast<Map<String, dynamic>>();
@@ -119,7 +152,7 @@ class ApiService {
         'topic': topic,
       },
     );
-    final response = await http.get(uri);
+    final response = await http.get(uri, headers: _headers);
     if (response.statusCode == 200) {
       List data = jsonDecode(utf8.decode(response.bodyBytes));
       return data.cast<Map<String, dynamic>>();
@@ -135,7 +168,7 @@ class ApiService {
     final uri = Uri.parse('$_baseUrl/api/sessions/$sessionId').replace(
       queryParameters: {'user_id': userId},
     );
-    final response = await http.get(uri);
+    final response = await http.get(uri, headers: _headers);
     if (response.statusCode == 200) {
       return jsonDecode(utf8.decode(response.bodyBytes)) as Map<String, dynamic>;
     } else {
@@ -144,7 +177,10 @@ class ApiService {
   }
 
   Future<void> deleteAccount(String userId) async {
-    final response = await http.delete(Uri.parse('$_baseUrl/api/users/$userId'));
+    final response = await http.delete(
+      Uri.parse('$_baseUrl/api/users/$userId'),
+      headers: _headers,
+    );
     if (response.statusCode != 200) {
       throw Exception('Failed to delete account: ${response.statusCode}');
     }
@@ -156,7 +192,7 @@ class ApiService {
     try {
       await http.post(
         Uri.parse('$_baseUrl/api/events'),
-        headers: {'Content-Type': 'application/json'},
+        headers: _headers,
         body: jsonEncode({
           'user_id': userId,
           'event_type': eventType,
@@ -175,7 +211,7 @@ class ApiService {
     try {
       await http.post(
         Uri.parse('$_baseUrl/api/users/device-info'),
-        headers: {'Content-Type': 'application/json'},
+        headers: _headers,
         body: jsonEncode({
           'user_id': userId,
           if (displayName != null) 'display_name': displayName,

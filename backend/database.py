@@ -91,6 +91,27 @@ class QuestionDatabase:
         finally:
             self.release_conn(conn)
 
+    def get_tamil_topic_question_counts(self):
+        """topic name → question count for subject Tamil."""
+        conn = self.get_conn()
+        try:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
+                cur.execute(
+                    """
+                    SELECT t.name, COUNT(q.id)::int AS questions_count
+                    FROM topics t
+                    LEFT JOIN questions q ON q.topic_id = t.id
+                    WHERE t.subject_id = 'Tamil'
+                    GROUP BY t.name;
+                    """
+                )
+                return {row["name"]: int(row["questions_count"] or 0) for row in cur.fetchall()}
+        except Exception as e:
+            print(f"Error in get_tamil_topic_question_counts: {e}")
+            return {}
+        finally:
+            self.release_conn(conn)
+
     def get_questions(self, subject, topic=None, batch=None):
         conn = self.get_conn()
         try:
@@ -221,6 +242,13 @@ class QuestionDatabase:
                     "Consumer Affairs & Environment",
                 ):
                     subject_id = "CGS"
+                elif (
+                    "பிரித்து" in topic_name
+                    or "சந்தி" in topic_name
+                    or "இலக்கண" in topic_name
+                    or topic_name.startswith("Tamil")
+                ):
+                    subject_id = "Tamil"
 
                 cur.execute("SELECT id FROM topics WHERE name = %s;", (topic_name,))
                 topic_row = cur.fetchone()

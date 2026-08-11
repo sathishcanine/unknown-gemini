@@ -27,9 +27,14 @@ class _HomeScreenState extends State<HomeScreen> {
 
     // Swipe/system back should leave a hub category before exiting the app.
     return PopScope(
-      canPop: _selectedCategory == null,
+      canPop: _selectedCategory == null && appState.tamilHubLevel == null,
       onPopInvokedWithResult: (didPop, result) {
-        if (!didPop && _selectedCategory != null) {
+        if (didPop) return;
+        if (appState.tamilHubLevel != null) {
+          appState.backTamilHub();
+          return;
+        }
+        if (_selectedCategory != null) {
           setState(() => _selectedCategory = null);
         }
       },
@@ -244,7 +249,9 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(height: 28),
 
               // 3. Dynamic Category Render Block
-              if (_selectedCategory == null)
+              if (appState.tamilHubLevel != null)
+                _buildTamilHubBlock(appState, isDark, textColor, cardBg, mutedColor)
+              else if (_selectedCategory == null)
                 _buildMainMenuGrid(appState, isDark)
               else
                 _buildCategoryListBlock(appState, isDark, textColor, cardBg, mutedColor),
@@ -290,14 +297,7 @@ class _HomeScreenState extends State<HomeScreen> {
               icon: Icons.translate,
               color: const Color(0xFF8B5CF6),
               isDark: isDark,
-              onTap: () {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('Language practice modules (Tamil & English) will be available in the next release!'),
-                    duration: Duration(seconds: 3),
-                  ),
-                );
-              },
+              onTap: () => appState.openTamilEnglishHub(),
             ),
             _buildMenuCard(
               title: appState.subjectDisplayName('Current Affairs').isNotEmpty
@@ -482,6 +482,215 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
+  Widget _buildTamilHubBlock(
+    AppState appState,
+    bool isDark,
+    Color textColor,
+    Color cardBg,
+    Color mutedColor,
+  ) {
+    final isUnits = appState.tamilHubLevel == 'units';
+    final headerTitle = isUnits ? 'பொதுத் தமிழ்' : appState.hubLabel('Tamil & English');
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            IconButton(
+              icon: Icon(Icons.arrow_back, color: textColor),
+              onPressed: () => appState.backTamilHub(),
+            ),
+            const SizedBox(width: 8),
+            Expanded(
+              child: Text(
+                headerTitle,
+                style: TextStyle(
+                  fontFamily: 'Outfit',
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: textColor,
+                ),
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 12),
+        if (isUnits)
+          _buildGeneralTamilUnits(appState, isDark, textColor, cardBg, mutedColor)
+        else
+          _buildTamilEnglishLanguages(appState, isDark, textColor, cardBg, mutedColor),
+      ],
+    );
+  }
+
+  Widget _buildTamilEnglishLanguages(
+    AppState appState,
+    bool isDark,
+    Color textColor,
+    Color cardBg,
+    Color mutedColor,
+  ) {
+    return Column(
+      children: [
+        _buildHubListTile(
+          title: 'பொதுத் தமிழ்',
+          subtitle: 'அலகுகள்',
+          icon: Icons.menu_book_outlined,
+          accent: const Color(0xFF8B5CF6),
+          isDark: isDark,
+          textColor: textColor,
+          cardBg: cardBg,
+          mutedColor: mutedColor,
+          onTap: () => appState.openGeneralTamilUnits(),
+        ),
+        _buildHubListTile(
+          title: 'General English',
+          subtitle: appState.hubLabel('Coming soon'),
+          icon: Icons.translate_outlined,
+          accent: const Color(0xFF06B6D4),
+          isDark: isDark,
+          textColor: textColor,
+          cardBg: cardBg,
+          mutedColor: mutedColor,
+          onTap: () {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(appState.hubLabel('Coming soon')),
+                behavior: SnackBarBehavior.floating,
+              ),
+            );
+          },
+        ),
+      ],
+    );
+  }
+
+  Widget _buildGeneralTamilUnits(
+    AppState appState,
+    bool isDark,
+    Color textColor,
+    Color cardBg,
+    Color mutedColor,
+  ) {
+    if (appState.loading && appState.tamilUnits.isEmpty) {
+      return const Padding(
+        padding: EdgeInsets.symmetric(vertical: 24),
+        child: Center(child: CircularProgressIndicator()),
+      );
+    }
+    if (appState.tamilUnits.isEmpty) {
+      return Padding(
+        padding: const EdgeInsets.symmetric(vertical: 16),
+        child: Text(
+          'அலகுகள் கிடைக்கவில்லை. மீண்டும் முயலவும்.',
+          style: TextStyle(color: mutedColor, fontFamily: 'Outfit'),
+        ),
+      );
+    }
+
+    final defaultAccents = <Color>[
+      const Color(0xFF3B82F6),
+      const Color(0xFF8B5CF6),
+      const Color(0xFF059669),
+      const Color(0xFFD97706),
+      const Color(0xFFDC2626),
+      const Color(0xFF0891B2),
+    ];
+    final iconMap = <String, IconData>{
+      'auto_stories_outlined': Icons.auto_stories_outlined,
+      'library_books_outlined': Icons.library_books_outlined,
+      'edit_note_outlined': Icons.edit_note_outlined,
+      'translate_outlined': Icons.translate_outlined,
+      'menu_book_outlined': Icons.menu_book_outlined,
+    };
+
+    return Column(
+      children: [
+        for (var i = 0; i < appState.tamilUnits.length; i++)
+          Builder(
+            builder: (_) {
+              final unit = appState.tamilUnits[i];
+              final id = (unit['id'] ?? '').toString();
+              final title = (unit['name_ta'] ?? unit['name_en'] ?? id).toString();
+              final subtitle = appState.tamilUnitSubtitle(unit);
+              final accentStr = (unit['accent'] ?? '').toString();
+              Color accent = defaultAccents[i % defaultAccents.length];
+              if (accentStr.startsWith('#') && accentStr.length >= 7) {
+                try {
+                  accent = Color(int.parse(accentStr.substring(1, 7), radix: 16) + 0xFF000000);
+                } catch (_) {}
+              }
+              final iconKey = (unit['icon'] ?? '').toString();
+              final icon = iconMap[iconKey] ?? Icons.menu_book_outlined;
+              return _buildHubListTile(
+                title: title,
+                subtitle: subtitle,
+                icon: icon,
+                accent: accent,
+                isDark: isDark,
+                textColor: textColor,
+                cardBg: cardBg,
+                mutedColor: mutedColor,
+                onTap: () => appState.selectTamilUnit(id),
+              );
+            },
+          ),
+      ],
+    );
+  }
+
+  Widget _buildHubListTile({
+    required String title,
+    required String subtitle,
+    required IconData icon,
+    required Color accent,
+    required bool isDark,
+    required Color textColor,
+    required Color cardBg,
+    required Color mutedColor,
+    required VoidCallback onTap,
+  }) {
+    return Card(
+      margin: const EdgeInsets.only(bottom: 12),
+      color: cardBg,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(16),
+        side: BorderSide(color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04)),
+      ),
+      child: ListTile(
+        contentPadding: const EdgeInsets.all(16),
+        leading: Container(
+          padding: const EdgeInsets.all(10),
+          decoration: BoxDecoration(
+            color: accent.withOpacity(0.12),
+            borderRadius: BorderRadius.circular(12),
+          ),
+          child: Icon(icon, color: accent),
+        ),
+        title: Text(
+          title,
+          style: TextStyle(
+            fontFamily: 'Outfit',
+            fontSize: 16,
+            fontWeight: FontWeight.bold,
+            color: textColor,
+          ),
+        ),
+        subtitle: Text(
+          subtitle,
+          style: TextStyle(
+            fontFamily: 'Inter',
+            fontSize: 12,
+            color: mutedColor,
+          ),
+        ),
+        trailing: Icon(Icons.arrow_forward_ios, size: 16, color: mutedColor),
+        onTap: onTap,
+      ),
+    );
+  }
+
   Widget _buildCategoryListBlock(AppState appState, bool isDark, Color textColor, Color cardBg, Color mutedColor) {
     String headerTitle = '';
     if (_selectedCategory == 'general_studies') {
@@ -523,12 +732,13 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildGeneralStudiesSubjects(AppState appState, bool isDark, Color textColor, Color cardBg, Color mutedColor) {
-    // Filter out Current Affairs, TVK, and CGS (TVK/CGS have their own home cards)
+    // Filter out Current Affairs, TVK, CGS, Tamil (own home cards / hubs)
     final gsSubjects = appState.subjects
         .where((sub) =>
             sub['id'] != 'Current Affairs' &&
             sub['id'] != 'TVK' &&
-            sub['id'] != 'CGS')
+            sub['id'] != 'CGS' &&
+            sub['id'] != 'Tamil')
         .toList();
 
     if (gsSubjects.isEmpty) {

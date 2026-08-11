@@ -1,0 +1,63 @@
+{
+  "subject_id": "Tamil",
+  "subject_en": "Tamil",
+  "subject_ta": "தமிழ்",
+  "unit": {
+    "id": "EzhuthumThiran",
+    "name_en": "Writing Skill / Traditional Tamil",
+    "name_ta": "எழுதும் திறன் / மரபுத் தமிழ்",
+    "exam_questions": 15,
+    "syllabus_note": "TNPSC General Tamil — Unit 3 (எழுதும் திறன் + மரபுத் தமிழ்)"
+  },
+  "topics": [
+    {
+      "id": "sorkalai_ozhungu_sotrodar",
+      "name_en": "Rearrange words to form a sentence",
+      "name_ta": "சொற்களை ஒழுங்குபடுத்திச் சொற்றொடர் அமைத்தல்",
+      "group": "எழுதும் திறன்",
+      "priority": 1
+    },
+    {
+      "id": "thodar_vagaigal",
+      "name_en": "Types of phrases / clauses",
+      "name_ta": "தொடர் வகைகள்",
+      "group": "எழுதும் திறன்",
+      "priority": 2
+    },
+    {
+      "id": "seyvinai_seyappattu",
+      "name_en": "Active / passive & self / causative verbs",
+      "name_ta": "செய்வினை, செயப்பாட்டு வினை - தன்வினை, பிறவினை",
+      "group": "எழுதும் திறன்",
+      "priority": 3
+    },
+    {
+      "id": "orumai_panmai_pizhai_thodar",
+      "name_en": "Singular–plural error → correct sentence",
+      "name_ta": "ஒருமைப் பன்மை பிழையறிந்து சரியான தொடரறிதல்",
+      "group": "எழுதும் திறன்",
+      "priority": 4
+    },
+    {
+      "id": "thinai_paal_kaalam",
+      "name_en": "Gender class, gender, tense conventions",
+      "name_ta": "திணை மரபு, பால் மரபு, காலம்",
+      "group": "மரபுத் தமிழ்",
+      "priority": 5
+    },
+    {
+      "id": "ilamai_oli_vinai_thogai",
+      "name_en": "Young-of animal, sound, verb & aggregate conventions",
+      "name_ta": "இளமைப் பெயர், ஒலிமரபு, வினைமரபு, தொகை மரபு",
+      "group": "மரபுத் தமிழ்",
+      "priority": 6
+    },
+    {
+      "id": "niruththal_kuriyidugal",
+      "name_en": "Punctuation marks",
+      "name_ta": "நிறுத்தற் குறியீடுகள்",
+      "group": "மரபுத் தமிழ்",
+      "priority": 7
+    }
+  ]
+}

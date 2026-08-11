@@ -1,0 +1,137 @@
+{
+  "unit_id": "Sollagarathi",
+  "unit_ta": "சொல்லகராதி",
+  "exam_questions": 15,
+  "primary_notes": "sm",
+  "pdf_offset": {
+    "sm": {
+      "formula": "pdf_page = printed_page + 5",
+      "toc_pdf_pages": [1, 5],
+      "content_starts_pdf_page": 6,
+      "note": "Printed page number is at bottom center of SM scanned pages."
+    }
+  },
+  "files": {
+    "sm": {
+      "path": "Data/Tamil/ilakanam/SM TAMIL FULL BOOK 570 PAGES.pdf",
+      "pages": 570,
+      "role": "primary_rules_examples",
+      "scanned": true
+    },
+    "pyq": {
+      "path": "Data/Tamil/ilakanam/Tamil Part A illakanam previous.pdf",
+      "pages": 344,
+      "role": "exam_style_samples",
+      "scanned": true
+    },
+    "samacheer": {
+      "path": "Data/Tamil/ilakanam/6 to 10 new book ilakanam.pdf",
+      "pages": 106,
+      "role": "secondary_backup"
+    },
+    "gov": {
+      "path": "Data/Tamil/ilakanam/பகுதி -1 இலக்கணம் Government Notes.pdf",
+      "pages": 165,
+      "role": "optional_lists"
+    }
+  },
+  "topics": {
+    "ethirchol_eduthelzhuthal": {
+      "name_ta": "எதிர்ச்சொல்லை எடுத்தெழுதுதல்",
+      "sm_printed": [84, 84],
+      "sm_pdf": [89, 89],
+      "pyq_pdf": null
+    },
+    "orezhuthu_orumozhi": {
+      "name_ta": "ஓரெழுத்து ஒரு மொழி & பொருள் தரும் ஓர் எழுத்து",
+      "sm_printed": [85, 91],
+      "sm_pdf": [90, 96],
+      "pyq_pdf": null
+    },
+    "uriya_porul_kandarithal": {
+      "name_ta": "உரிய பொருளைக் கண்டறிதல் & சொல்லும் பொருளும் அறிதல்",
+      "sm_printed": [92, 129],
+      "sm_pdf": [97, 134],
+      "pyq_pdf": null
+    },
+    "oruporul_pala_sorkal": {
+      "name_ta": "ஒருபொருள் தரும் பல சொற்கள் & ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+      "sm_printed": [130, 132],
+      "sm_pdf": [135, 137],
+      "pyq_pdf": null
+    },
+    "poruntha_sol_kandarithal": {
+      "name_ta": "பொருந்தா சொல்லைக் கண்டறிதல்",
+      "sm_printed": [133, 154],
+      "sm_pdf": [138, 159],
+      "pyq_pdf": null
+    },
+    "agara_varisai": {
+      "name_ta": "அகர வரிசைப்படி சொற்களைச் சீர்செய்தல்",
+      "sm_printed": [155, 161],
+      "sm_pdf": [160, 166],
+      "pyq_pdf": null
+    },
+    "oruporul_panmozhi": {
+      "name_ta": "ஒருபொருள் பன்மொழி",
+      "sm_printed": [162, 162],
+      "sm_pdf": [167, 167],
+      "pyq_pdf": null
+    },
+    "iruporul_kurikkum_sorkal": {
+      "name_ta": "இருபொருள் குறிக்கும் சொற்கள்",
+      "sm_printed": [163, 165],
+      "sm_pdf": [168, 170],
+      "pyq_pdf": null
+    },
+    "pechu_ezhuthu_vazhakku": {
+      "name_ta": "பேச்சு வழக்கு, எழுத்து வழக்கு",
+      "sm_printed": [166, 176],
+      "sm_pdf": [171, 181],
+      "pyq_pdf": null
+    },
+    "koditta_idam_sariya_sol": {
+      "name_ta": "கோடிட்ட இடத்தில் சரியான சொல்லைத் தேர்ந்தெடுத்து எழுதுதல்",
+      "sm_printed": [177, 185],
+      "sm_pdf": [182, 190],
+      "pyq_pdf": null
+    },
+    "poruthamana_porul": {
+      "name_ta": "பொருத்தமான பொருளைத் தெரிவு செய்தல்",
+      "sm_printed": [186, 187],
+      "sm_pdf": [191, 192],
+      "pyq_pdf": null
+    },
+    "oor_peyar_maruu": {
+      "name_ta": "ஊர்ப் பெயர்களின் மரூஉவை எழுதுக",
+      "sm_printed": [188, 189],
+      "sm_pdf": [193, 194],
+      "pyq_pdf": null
+    },
+    "pizhai_thiruthugal": {
+      "name_ta": "பிழை திருத்துக",
+      "sm_printed": [190, 194],
+      "sm_pdf": [195, 199],
+      "pyq_pdf": null
+    },
+    "sorkalai_inaithu_puthiya_sol": {
+      "name_ta": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+      "sm_printed": [195, 196],
+      "sm_pdf": [200, 201],
+      "pyq_pdf": null
+    },
+    "adaippukkul_sol_serthal": {
+      "name_ta": "அடைப்புக்குள் உள்ள சொல்லைத் தகுந்த இடத்தில் சேர்த்தல்",
+      "sm_printed": [197, 201],
+      "sm_pdf": [202, 206],
+      "pyq_pdf": null
+    },
+    "pala_porul_oru_sol": {
+      "name_ta": "பல பொருள் தரும் ஒரு சொல்லைக் கூறுக",
+      "sm_printed": [202, 204],
+      "sm_pdf": [207, 209],
+      "pyq_pdf": null,
+      "note": "Unit 3 starts printed 205; topic ends 204"
+    }
+  }
+}

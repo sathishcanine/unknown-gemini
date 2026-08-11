@@ -1,0 +1,38 @@
+{
+  "unit": "Kalaichorkal",
+  "pdf_offset": 5,
+  "note": "pdf_page = printed_page + 5. Unit 4 printed 259–280; Unit 5 வாசித்தல் starts ~281–284.",
+  "sm_pdf": "Data/Tamil/ilakanam/SM TAMIL FULL BOOK 570 PAGES.pdf",
+  "topics": {
+    "vakuppu_kalaichorkal": {
+      "name_ta": "வகுப்புவாரி கலைச்சொற்கள் (6–12)",
+      "sm_printed": [259, 272],
+      "sm_pdf": [264, 277]
+    },
+    "ariviyal_thozhilnutpam": {
+      "name_ta": "அறிவியல் & தொழில்நுட்பம் கலைச்சொற்கள்",
+      "sm_printed": [273, 275],
+      "sm_pdf": [278, 280]
+    },
+    "kalvi_kalaichorkal": {
+      "name_ta": "கல்வி சார்ந்த கலைச்சொற்கள்",
+      "sm_printed": [276, 276],
+      "sm_pdf": [281, 281]
+    },
+    "maruththuvam_kalaichorkal": {
+      "name_ta": "மருத்துவம் சார்ந்த கலைச்சொற்கள்",
+      "sm_printed": [277, 277],
+      "sm_pdf": [282, 282]
+    },
+    "sattam_melanmai_kalaichorkal": {
+      "name_ta": "சட்டம் & மேலாண்மை கலைச்சொற்கள்",
+      "sm_printed": [278, 278],
+      "sm_pdf": [283, 283]
+    },
+    "puviyal_oodagam_it": {
+      "name_ta": "புவியியல், ஊடகம் & தகவல் தொழில்நுட்பம்",
+      "sm_printed": [279, 280],
+      "sm_pdf": [284, 285]
+    }
+  }
+}

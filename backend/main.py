@@ -149,17 +149,86 @@ class StatsResponse(BaseModel):
     mastery_percent: int
     weakness: Optional[WeaknessReport] = None
 
+TAMIL_UNITS_PATH = os.path.join(ROOT_DIR, "backend", "tamil_units.json")
+
+
+def _load_tamil_units_config() -> dict:
+    if not os.path.exists(TAMIL_UNITS_PATH):
+        return {"units": []}
+    try:
+        with open(TAMIL_UNITS_PATH, "r", encoding="utf-8") as f:
+            return json.load(f) or {"units": []}
+    except Exception as e:
+        print(f"Error loading tamil_units.json: {e}")
+        return {"units": []}
+
+
+class TamilUnitResponse(BaseModel):
+    id: str
+    order: int = 0
+    name_ta: str
+    name_en: str = ""
+    subtitle_ta: str = ""
+    subtitle_en: str = ""
+    accent: str = "#3B82F6"
+    icon: str = "menu_book_outlined"
+    topics: List[str] = []
+    topic_count: int = 0
+    questions_count: int = 0
+
+
 @app.get("/api/subjects", response_model=List[SubjectResponse])
 def get_subjects():
     return db.get_subjects()
 
+
+@app.get("/api/tamil/units", response_model=List[TamilUnitResponse])
+def get_tamil_units():
+    """Podhu Tamil unit menu — driven by backend/tamil_units.json (no app rebuild to add units)."""
+    cfg = _load_tamil_units_config()
+    units = list(cfg.get("units") or [])
+    units.sort(key=lambda u: int(u.get("order") or 0))
+    counts = db.get_tamil_topic_question_counts()
+
+    out: List[TamilUnitResponse] = []
+    for u in units:
+        topics = [str(t).strip() for t in (u.get("topics") or []) if str(t).strip()]
+        live_topics = [t for t in topics if t in counts]
+        q_total = sum(counts.get(t, 0) for t in live_topics)
+        out.append(
+            TamilUnitResponse(
+                id=str(u.get("id") or ""),
+                order=int(u.get("order") or 0),
+                name_ta=str(u.get("name_ta") or u.get("id") or ""),
+                name_en=str(u.get("name_en") or ""),
+                subtitle_ta=str(u.get("subtitle_ta") or ""),
+                subtitle_en=str(u.get("subtitle_en") or ""),
+                accent=str(u.get("accent") or "#3B82F6"),
+                icon=str(u.get("icon") or "menu_book_outlined"),
+                topics=topics,
+                topic_count=len(live_topics) if counts else len(topics),
+                questions_count=q_total,
+            )
+        )
+    return out
+
+
 @app.get("/api/syllabus/{subject}", response_model=List[TopicResponse])
-def get_syllabus(subject: str):
+def get_syllabus(subject: str, unit: Optional[str] = Query(None)):
     topics = db.get_topics_for_subject(subject)
+    allowed = None
+    if subject == "Tamil" and unit:
+        cfg = _load_tamil_units_config()
+        for u in cfg.get("units") or []:
+            if str(u.get("id")) == unit:
+                allowed = set(str(t).strip() for t in (u.get("topics") or []) if str(t).strip())
+                break
     response = []
     for topic in topics:
         # Prefer per-topic mapping stored in Postgres; fall back to JSON file.
         topic_name = topic["name"] if isinstance(topic, dict) else topic
+        if allowed is not None and topic_name not in allowed:
+            continue
         mapping = None
         if isinstance(topic, dict):
             mapping = topic.get("textbook_mapping")

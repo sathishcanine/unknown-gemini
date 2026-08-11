@@ -15,8 +15,13 @@ class SyllabusScreen extends StatelessWidget {
     final cardBg = isDark ? const Color(0xFF131A2A) : Colors.white;
     final scaffoldBg = isDark ? const Color(0xFF0B0F19) : const Color(0xFFF1F5F9);
 
+    final unitTitle = appState.activeSubject == 'Tamil' && appState.tamilUnitId != null
+        ? appState.tamilUnitDisplayName(appState.tamilUnitId)
+        : null;
     final subjectName = appState.subjectDisplayName(appState.activeSubject);
     final syllabusLabel = appState.hubLabel('Syllabus');
+    final titleText = unitTitle != null ? unitTitle : '$subjectName $syllabusLabel';
+    final topics = appState.visibleSyllabusList;
 
     return Scaffold(
       backgroundColor: scaffoldBg,
@@ -25,10 +30,10 @@ class SyllabusScreen extends StatelessWidget {
         elevation: 0,
         leading: IconButton(
           icon: Icon(Icons.arrow_back, color: textColor),
-          onPressed: () => appState.navigateToHome(),
+          onPressed: () => appState.navigateBackFromSyllabus(),
         ),
         title: Text(
-          '$subjectName $syllabusLabel',
+          titleText,
           style: TextStyle(
             fontFamily: 'Outfit',
             fontWeight: FontWeight.bold,
@@ -43,7 +48,7 @@ class SyllabusScreen extends StatelessWidget {
                 valueColor: AlwaysStoppedAnimation<Color>(Color(0xFF3B82F6)),
               ),
             )
-          : appState.syllabusList.isEmpty
+          : topics.isEmpty
               ? Center(
                   child: Text(
                     'No topics loaded for this subject.',
@@ -52,9 +57,9 @@ class SyllabusScreen extends StatelessWidget {
                 )
               : ListView.builder(
                   padding: const EdgeInsets.all(16),
-                  itemCount: appState.syllabusList.length,
+                  itemCount: topics.length,
                   itemBuilder: (context, index) {
-                    final item = appState.syllabusList[index];
+                    final item = topics[index];
                     final tName = item['name'] ?? '';
                     final displayName = appState.topicDisplayNameFromItem(item);
 

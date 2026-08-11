@@ -1,0 +1,126 @@
+{
+  "subject_id": "Tamil",
+  "subject_en": "Tamil",
+  "subject_ta": "தமிழ்",
+  "unit": {
+    "id": "Sollagarathi",
+    "name_en": "Vocabulary (Sollagarathi)",
+    "name_ta": "சொல்லகராதி",
+    "exam_questions": 15,
+    "syllabus_note": "TNPSC General Tamil — Unit 2 (சொல்லகராதி)"
+  },
+  "topics": [
+    {
+      "id": "ethirchol_eduthelzhuthal",
+      "name_en": "Write / pick the antonym",
+      "name_ta": "எதிர்ச்சொல்லை எடுத்தெழுதுதல்",
+      "group": "(i)",
+      "priority": 1
+    },
+    {
+      "id": "orezhuthu_orumozhi",
+      "name_en": "One-letter words & meaningful single letters",
+      "name_ta": "ஓரெழுத்து ஒரு மொழி & பொருள் தரும் ஓர் எழுத்து",
+      "group": "(i)",
+      "priority": 2
+    },
+    {
+      "id": "uriya_porul_kandarithal",
+      "name_en": "Find apt meaning / word & meaning",
+      "name_ta": "உரிய பொருளைக் கண்டறிதல் & சொல்லும் பொருளும் அறிதல்",
+      "group": "(i)",
+      "priority": 3
+    },
+    {
+      "id": "oruporul_pala_sorkal",
+      "name_en": "Many words, one meaning / equivalent word",
+      "name_ta": "ஒருபொருள் தரும் பல சொற்கள் & ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+      "group": "(i)",
+      "priority": 4
+    },
+    {
+      "id": "poruntha_sol_kandarithal",
+      "name_en": "Odd word out",
+      "name_ta": "பொருந்தா சொல்லைக் கண்டறிதல்",
+      "group": "(i)",
+      "priority": 5
+    },
+    {
+      "id": "agara_varisai",
+      "name_en": "Alphabetical ordering of words",
+      "name_ta": "அகர வரிசைப்படி சொற்களைச் சீர்செய்தல்",
+      "group": "(i)",
+      "priority": 6
+    },
+    {
+      "id": "oruporul_panmozhi",
+      "name_en": "One meaning, many words (pleonasm)",
+      "name_ta": "ஒருபொருள் பன்மொழி",
+      "group": "(i)",
+      "priority": 7
+    },
+    {
+      "id": "iruporul_kurikkum_sorkal",
+      "name_en": "Words with two meanings",
+      "name_ta": "இருபொருள் குறிக்கும் சொற்கள்",
+      "group": "(i)",
+      "priority": 8
+    },
+    {
+      "id": "pechu_ezhuthu_vazhakku",
+      "name_en": "Spoken vs written Tamil",
+      "name_ta": "பேச்சு வழக்கு, எழுத்து வழக்கு",
+      "group": "(i)",
+      "priority": 9
+    },
+    {
+      "id": "koditta_idam_sariya_sol",
+      "name_en": "Fill in the blank with the correct word",
+      "name_ta": "கோடிட்ட இடத்தில் சரியான சொல்லைத் தேர்ந்தெடுத்து எழுதுதல்",
+      "group": "(ii)",
+      "priority": 10
+    },
+    {
+      "id": "poruthamana_porul",
+      "name_en": "Choose the suitable meaning",
+      "name_ta": "பொருத்தமான பொருளைத் தெரிவு செய்தல்",
+      "group": "(ii)",
+      "priority": 11
+    },
+    {
+      "id": "oor_peyar_maruu",
+      "name_en": "Maruu forms of place names",
+      "name_ta": "ஊர்ப் பெயர்களின் மரூஉவை எழுதுக",
+      "group": "(ii)",
+      "priority": 12
+    },
+    {
+      "id": "pizhai_thiruthugal",
+      "name_en": "Error correction",
+      "name_ta": "பிழை திருத்துக",
+      "group": "(ii)",
+      "priority": 13
+    },
+    {
+      "id": "sorkalai_inaithu_puthiya_sol",
+      "name_en": "Combine words to form a new word",
+      "name_ta": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+      "group": "(ii)",
+      "priority": 14
+    },
+    {
+      "id": "adaippukkul_sol_serthal",
+      "name_en": "Insert bracketed word in the right place",
+      "name_ta": "அடைப்புக்குள் உள்ள சொல்லைத் தகுந்த இடத்தில் சேர்த்தல்",
+      "group": "(ii)",
+      "priority": 15
+    },
+    {
+      "id": "pala_porul_oru_sol",
+      "name_en": "One word with many meanings",
+      "name_ta": "பல பொருள் தரும் ஒரு சொல்லைக் கூறுக",
+      "group": "(ii)",
+      "priority": 16
+    }
+  ]
+}

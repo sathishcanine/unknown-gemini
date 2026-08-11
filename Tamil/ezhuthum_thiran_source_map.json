@@ -1,0 +1,49 @@
+{
+  "book": "SM Tamil Full Book — Santhosh Mani Academy",
+  "pdf": "Data/Tamil/ilakanam/SM TAMIL FULL BOOK 570 PAGES.pdf",
+  "pdf_offset": 5,
+  "note": "pdf_page = printed_page + 5. Unit 3 ends printed 258; Unit 4 கலைச்சொற்கள் starts 259.",
+  "unit": {
+    "id": "EzhuthumThiran",
+    "name_ta": "எழுதும் திறன் / மரபுத் தமிழ்",
+    "sm_printed": [205, 258],
+    "sm_pdf": [210, 263]
+  },
+  "topics": {
+    "sorkalai_ozhungu_sotrodar": {
+      "name_ta": "சொற்களை ஒழுங்குபடுத்திச் சொற்றொடர் அமைத்தல்",
+      "sm_printed": [205, 208],
+      "sm_pdf": [210, 213]
+    },
+    "thodar_vagaigal": {
+      "name_ta": "தொடர் வகைகள்",
+      "sm_printed": [209, 220],
+      "sm_pdf": [214, 225]
+    },
+    "seyvinai_seyappattu": {
+      "name_ta": "செய்வினை, செயப்பாட்டு வினை - தன்வினை, பிறவினை",
+      "sm_printed": [221, 224],
+      "sm_pdf": [226, 229]
+    },
+    "orumai_panmai_pizhai_thodar": {
+      "name_ta": "ஒருமைப் பன்மை பிழையறிந்து சரியான தொடரறிதல்",
+      "sm_printed": [225, 229],
+      "sm_pdf": [230, 234]
+    },
+    "thinai_paal_kaalam": {
+      "name_ta": "திணை மரபு, பால் மரபு, காலம்",
+      "sm_printed": [230, 244],
+      "sm_pdf": [235, 249]
+    },
+    "ilamai_oli_vinai_thogai": {
+      "name_ta": "இளமைப் பெயர், ஒலிமரபு, வினைமரபு, தொகை மரபு",
+      "sm_printed": [245, 251],
+      "sm_pdf": [250, 256]
+    },
+    "niruththal_kuriyidugal": {
+      "name_ta": "நிறுத்தற் குறியீடுகள்",
+      "sm_printed": [252, 258],
+      "sm_pdf": [257, 263]
+    }
+  }
+}

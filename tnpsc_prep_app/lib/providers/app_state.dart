@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
+import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:google_sign_in/google_sign_in.dart';
@@ -52,6 +53,66 @@ class AppState extends ChangeNotifier {
 
   List<Map<String, dynamic>> _syllabusList = [];
   List<Map<String, dynamic>> get syllabusList => _syllabusList;
+
+  /// Tamil & English hub: null | `languages` | `units`
+  String? _tamilHubLevel;
+  String? get tamilHubLevel => _tamilHubLevel;
+
+  /// Selected General Tamil unit id from API (e.g. `Kalaichorkal`).
+  String? _tamilUnitId;
+  String? get tamilUnitId => _tamilUnitId;
+
+  /// Server-driven Podhu Tamil units (`GET /api/tamil/units`).
+  List<Map<String, dynamic>> _tamilUnits = [];
+  List<Map<String, dynamic>> get tamilUnits => _tamilUnits;
+
+  Map<String, dynamic>? get selectedTamilUnit {
+    if (_tamilUnitId == null) return null;
+    for (final u in _tamilUnits) {
+      if ((u['id'] ?? '').toString() == _tamilUnitId) return u;
+    }
+    return null;
+  }
+
+  /// Syllabus rows visible for the current Tamil unit (or full list otherwise).
+  List<Map<String, dynamic>> get visibleSyllabusList {
+    if (_activeSubject != 'Tamil' || _tamilUnitId == null) {
+      return _syllabusList;
+    }
+    final unit = selectedTamilUnit;
+    if (unit == null) return _syllabusList;
+    final raw = unit['topics'];
+    final names = <String>{
+      if (raw is List) ...raw.map((e) => e.toString()),
+    };
+    if (names.isEmpty) return _syllabusList;
+    return _syllabusList
+        .where((t) => names.contains((t['name'] ?? '').toString()))
+        .toList();
+  }
+
+  String tamilUnitDisplayName(String? unitId) {
+    if (unitId == null || unitId.isEmpty) return '';
+    for (final u in _tamilUnits) {
+      if ((u['id'] ?? '').toString() == unitId) {
+        return (u['name_ta'] ?? u['name_en'] ?? unitId).toString();
+      }
+    }
+    return unitId;
+  }
+
+  String tamilUnitSubtitle(Map<String, dynamic> unit) {
+    final ta = (unit['subtitle_ta'] ?? '').toString().trim();
+    if (ta.isNotEmpty) return ta;
+    final en = (unit['subtitle_en'] ?? '').toString().trim();
+    if (en.isNotEmpty) return en;
+    final tc = unit['topic_count'];
+    final qc = unit['questions_count'];
+    if (tc != null || qc != null) {
+      return '${tc ?? 0} topics · ${qc ?? 0} Q';
+    }
+    return '';
+  }
 
   bool _loading = false;
   bool get loading => _loading;
@@ -120,13 +181,18 @@ class AppState extends ChangeNotifier {
     _authReady = true;
     notifyListeners();
 
-    try {
-      await GoogleSignIn.instance.initialize(
-        clientId: '81319537728-a3cnfl5nn2e43g27rqd8tc2p239ij403.apps.googleusercontent.com',
-        serverClientId: '81319537728-9jba22kbo57fa1c7f9q9bje69r5173m1.apps.googleusercontent.com',
-      );
-    } catch (e) {
-      print("Google Sign-In Init Error: $e");
+    // Web does not support serverClientId; skip Google init there (guest login used instead).
+    // Android/iOS: use the Web client ID from the same Firebase project as google-services.json
+    // (project 636736405953 / firestoredemo-c4c59). Do not use a different GCP project's IDs.
+    if (!kIsWeb) {
+      try {
+        await GoogleSignIn.instance.initialize(
+          serverClientId:
+              '636736405953-2nvcd7iqao7uapsvmducd5ra6itck7q3.apps.googleusercontent.com',
+        );
+      } catch (e) {
+        print("Google Sign-In Init Error: $e");
+      }
     }
 
     await fetchSubjects();
@@ -263,6 +329,12 @@ class AppState extends ChangeNotifier {
       'Very Important': 'மிக முக்கியம்',
       'Central Government Schemes': 'மத்திய அரசுத் திட்டங்கள்',
       'Union Schemes': 'மத்திய அரசுத் திட்டங்கள்',
+      'Tamil': 'தமிழ்',
+      'General Tamil': 'பொதுத் தமிழ்',
+      'General English': 'பொது ஆங்கிலம்',
+      'Coming soon': 'விரைவில்',
+      'Grammar': 'இலக்கணம்',
+      'Vocabulary': 'சொல்லகராதி',
     };
     return ta[english] ?? english;
   }
@@ -339,6 +411,11 @@ class AppState extends ChangeNotifier {
   }
 
   Future<void> selectSubject(String subjectId) async {
+    // Leaving Tamil hub when opening any other subject path.
+    if (subjectId != 'Tamil') {
+      _tamilHubLevel = null;
+      _tamilUnitId = null;
+    }
     _activeSubject = subjectId;
     _activeTopic = null;
     _activeScreen = 'syllabus';
@@ -354,6 +431,90 @@ class AppState extends ChangeNotifier {
 
     _loading = false;
     notifyListeners();
+  }
+
+  void openTamilEnglishHub() {
+    _tamilHubLevel = 'languages';
+    _tamilUnitId = null;
+    _activeSubject = null;
+    _activeTopic = null;
+    _activeScreen = 'home';
+    notifyListeners();
+  }
+
+  Future<void> openGeneralTamilUnits() async {
+    _tamilHubLevel = 'units';
+    _tamilUnitId = null;
+    _activeSubject = null;
+    _activeTopic = null;
+    _activeScreen = 'home';
+    _loading = true;
+    notifyListeners();
+    try {
+      _tamilUnits = await _apiService.getTamilUnits();
+    } catch (e) {
+      print("Error fetching Tamil units: $e");
+      _tamilUnits = [];
+    }
+    _loading = false;
+    notifyListeners();
+  }
+
+  /// Back within Tamil & English hub (languages ↔ units ↔ home root).
+  /// Returns true if a hub level was popped.
+  bool backTamilHub() {
+    if (_tamilHubLevel == 'units') {
+      _tamilHubLevel = 'languages';
+      _tamilUnitId = null;
+      notifyListeners();
+      return true;
+    }
+    if (_tamilHubLevel == 'languages') {
+      _tamilHubLevel = null;
+      _tamilUnitId = null;
+      notifyListeners();
+      return true;
+    }
+    return false;
+  }
+
+  Future<void> selectTamilUnit(String unitId) async {
+    _tamilUnitId = unitId;
+    _tamilHubLevel = 'units';
+    _activeSubject = 'Tamil';
+    _activeTopic = null;
+    _activeScreen = 'syllabus';
+    _loading = true;
+    notifyListeners();
+
+    try {
+      // Prefer server-side unit filter; fall back to full syllabus + client filter.
+      _syllabusList = await _apiService.getSyllabus('Tamil', unit: unitId);
+      if (_syllabusList.isEmpty) {
+        _syllabusList = await _apiService.getSyllabus('Tamil');
+      }
+    } catch (e) {
+      print("Error fetching Tamil syllabus for unit $unitId: $e");
+      _syllabusList = [];
+    }
+
+    _loading = false;
+    notifyListeners();
+  }
+
+  /// Back from syllabus: Tamil units → unit picker; else home root.
+  void navigateBackFromSyllabus() {
+    if (_activeSubject == 'Tamil' && _tamilUnitId != null) {
+      _tamilUnitId = null;
+      _tamilHubLevel = 'units';
+      _activeSubject = null;
+      _activeTopic = null;
+      _syllabusList = [];
+      _activeScreen = 'home';
+      notifyListeners();
+      return;
+    }
+    navigateToHome();
   }
 
   void selectTopic(String topicName) {
@@ -382,12 +543,16 @@ class AppState extends ChangeNotifier {
     _activeScreen = 'home';
     _activeSubject = null;
     _activeTopic = null;
+    _tamilHubLevel = null;
+    _tamilUnitId = null;
     notifyListeners();
   }
 
   void navigateToSyllabus() {
     if (_activeSubject != null) {
       _activeScreen = 'syllabus';
+    } else if (_tamilHubLevel != null) {
+      _activeScreen = 'home';
     } else {
       _activeScreen = 'home';
     }
@@ -458,14 +623,14 @@ class AppState extends ChangeNotifier {
   bool handleSystemBack() {
     switch (_activeScreen) {
       case 'home':
-        return false;
+        return backTamilHub();
       case 'quiz':
         return true;
       case 'topic_detail':
         navigateToSyllabus();
         return true;
       case 'syllabus':
-        navigateToHome();
+        navigateBackFromSyllabus();
         return true;
       case 'results':
         if (_resultsReturnScreen == 'performance') {
@@ -613,7 +778,9 @@ class AppState extends ChangeNotifier {
                                     ? 'TVK-Government Policies'
                                     : _activeSubject == 'CGS'
                                         ? 'Central Government Schemes'
-                                        : 'Current Affairs');
+                                        : _activeSubject == 'Tamil'
+                                            ? 'Tamil'
+                                            : 'Current Affairs');
   }
 
   // Submit test session
@@ -692,7 +859,7 @@ class AppState extends ChangeNotifier {
     try {
       final GoogleSignInAccount? googleUser = await GoogleSignIn.instance.authenticate();
       if (googleUser != null) {
-        final GoogleSignInAuthentication googleAuth = await googleUser.authentication;
+        final GoogleSignInAuthentication googleAuth = googleUser.authentication;
         final String? idToken = googleAuth.idToken;
 
         print("Logged in successfully: ${googleUser.email}");
@@ -713,6 +880,21 @@ class AppState extends ChangeNotifier {
     } catch (e) {
       print("Google Sign-In Error: $e");
       rethrow;
+    } finally {
+      _loading = false;
+      notifyListeners();
+    }
+  }
+
+  /// Web / local preview path — same idea as the old app.js (no Google gate).
+  Future<void> signInAsGuest() async {
+    _loading = true;
+    notifyListeners();
+    try {
+      _userEmail = 'test_user';
+      _isAuthenticated = true;
+      _activeScreen = 'home';
+      await saveLocalPreferences();
     } finally {
       _loading = false;
       notifyListeners();

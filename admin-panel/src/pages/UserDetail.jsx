@@ -21,6 +21,8 @@ const EVENT_LABELS = {
   quiz_started: 'Started Test',
   quiz_completed: 'Completed Test',
   explanation_viewed: 'Viewed Explanation',
+  sign_in: 'Signed In',
+  sign_out: 'Signed Out',
 };
 
 function eventLabel(evt) {
@@ -32,7 +34,14 @@ function eventDetail(evt) {
   if (evt.event_type === 'quiz_started') return meta.topic ? `Topic: ${meta.topic}` : null;
   if (evt.event_type === 'quiz_completed')
     return meta.topic ? `${meta.topic} \u2014 ${Math.round(meta.accuracy || 0)}% accuracy` : null;
+  if (evt.event_type === 'sign_in' && meta.method) {
+    return meta.method === 'guest' ? 'Guest login' : `Method: ${meta.method}`;
+  }
   return null;
+}
+
+function isGuestEmail(email) {
+  return typeof email === 'string' && email.endsWith('@guest.local');
 }
 
 export default function UserDetail() {
@@ -84,6 +93,11 @@ export default function UserDetail() {
               <div className="flex items-center gap-2 text-slate-600">
                 <Mail size={15} className="text-slate-400" /> {profile.email}
               </div>
+              {isGuestEmail(profile.email) && (
+                <div className="inline-flex items-center rounded-full bg-slate-100 px-2.5 py-0.5 text-xs font-semibold text-slate-600">
+                  Guest
+                </div>
+              )}
               <div className="flex items-center gap-2 text-slate-600">
                 <Calendar size={15} className="text-slate-400" />
                 Joined {formatISTDate(profile.created_at)}

@@ -109,6 +109,116 @@
         "பழமொழிகள் பொருளறிதல்",
         "ஆவண உள்ளடக்கங்களைப் புரிந்து கொள்ளும் திறன்"
       ]
+    },
+    {
+      "id": "EliyaMozhiPeyarppu",
+      "order": 6,
+      "name_ta": "அலகு 6 — எளிய மொழி பெயர்ப்பு",
+      "name_en": "Unit 6 — Simple Translation",
+      "subtitle_ta": "எளிய மொழி பெயர்ப்பு",
+      "subtitle_en": "Simple Translation",
+      "accent": "#0D9488",
+      "icon": "g_translate_outlined",
+      "topics": [
+        "ஆங்கிலம் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+        "பிறமொழிச் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+        "பயன்பாட்டில் உள்ள ஆங்கிலச் சொற்களை மொழிபெயர்த்தல்"
+      ]
+    },
+    {
+      "id": "Thirukkural",
+      "order": 7,
+      "name_ta": "அலகு 7 — திருக்குறள்",
+      "name_en": "Unit 7 — Thirukkural",
+      "subtitle_ta": "திருக்குறள்",
+      "subtitle_en": "Thirukkural",
+      "accent": "#B45309",
+      "icon": "menu_book_outlined",
+      "topics": [
+        "ஒழுக்கமுடைமை — பொறையுடைமை",
+        "ஊக்கமுடைமை — விருந்தோம்பல்",
+        "அறன் வலியுறுத்தல் — ஈகை",
+        "பெரியாரைத் துணைக்கோடல் — வினை செயல்வகை",
+        "அவை அஞ்சாமை — கண்ணோட்டம்",
+        "அன்புடைமை — கல்வி",
+        "நடுவுநிலைமை — கூடா ஒழுக்கம்",
+        "கல்லாமை — செங்கோன்மை",
+        "பண்புடைமை — நட்பாராய்தல்",
+        "புறங்கூறாமை — அருளுடைமை"
+      ]
+    },
+    {
+      "id": "Aranoolgal",
+      "order": 8,
+      "name_ta": "அலகு 7 — அறநூல்கள்",
+      "name_en": "Unit 7 — Aranoolgal",
+      "subtitle_ta": "அறநூல்கள் தொடர்பான செய்திகள்",
+      "subtitle_en": "Ethical works",
+      "accent": "#C2410C",
+      "icon": "auto_stories_outlined",
+      "topics": [
+        "அறநூல்கள் தொடர்பான செய்திகள்",
+        "நாலடியார் — நான்மணிக்கடிகை",
+        "பழமொழி நானூறு — இன்னா நாற்பது",
+        "திரிகடுகம் — ஏலாதி",
+        "சிறுபஞ்சமூலம் — முதுமொழிக் காஞ்சி",
+        "ஔவையார்",
+        "ஆசாரக்கோவை — அறநெறிச்சாரம் — நீதிநெறி விளக்கம்"
+      ]
+    },
+    {
+      "id": "TamilThonmai",
+      "order": 9,
+      "name_ta": "அலகு 7 — தமிழின் தொன்மை, சிறப்பு, திராவிட மொழிகள்",
+      "name_en": "Unit 7 — Antiquity, Speciality of Tamil, Dravidian Languages",
+      "subtitle_ta": "தொன்மை, சிறப்பு, திராவிட மொழிகள்",
+      "subtitle_en": "Antiquity, Speciality, Dravidian languages",
+      "accent": "#7C3AED",
+      "icon": "library_books_outlined",
+      "topics": [
+        "தமிழின் தொன்மை",
+        "தமிழின் சிறப்பு",
+        "திராவிட மொழிகள்"
+      ]
+    },
+    {
+      "id": "Tamilpani",
+      "order": 10,
+      "name_ta": "அலகு 7 — தமிழ்ப்பணி தொடர்பான செய்திகள்",
+      "name_en": "Unit 7 — Tamil Service (Pani)",
+      "subtitle_ta": "உ.வே.சா, தெ.பொ.மீ, சி. இலக்குவனார்",
+      "subtitle_en": "U.V.Sa, T.P.Me, C. Ilakkuvanar",
+      "accent": "#0F766E",
+      "icon": "edit_note_outlined",
+      "topics": [
+        "தமிழ்ப்பணி தொடர்பான செய்திகள்"
+      ]
+    },
+    {
+      "id": "Tamilthondu",
+      "order": 11,
+      "name_ta": "அலகு 7 — தமிழ்த் தொண்டு தொடர்பான செய்திகள்",
+      "name_en": "Unit 7 — Tamil Service (Thondu)",
+      "subtitle_ta": "பாவாணர், பெருஞ்சித்திரனார், ஜி.யு.போப், வீரமாமுனிவர்",
+      "subtitle_en": "Pavanar, Perunchithiranar, G.U. Pope, Veeramamunivar",
+      "accent": "#BE185D",
+      "icon": "translate_outlined",
+      "topics": [
+        "தமிழ்த் தொண்டு தொடர்பான செய்திகள்"
+      ]
+    },
+    {
+      "id": "TamilSaandror",
+      "order": 12,
+      "name_ta": "அலகு 7 — தமிழ்ச் சான்றோர் பற்றிய செய்திகள்",
+      "name_en": "Unit 7 — Tamil Scholars",
+      "subtitle_ta": "பாவேந்தர், கண்ணதாசன், வேலுநாச்சியார், நாமக்கல் கவிஞர்",
+      "subtitle_en": "Pavendhar, Kannadasan, Velu Nachiyar, Namakkal Kavignar",
+      "accent": "#6366F1",
+      "icon": "auto_stories_outlined",
+      "topics": [
+        "தமிழ்ச் சான்றோர் பற்றிய செய்திகள்"
+      ]
     }
   ]
 }

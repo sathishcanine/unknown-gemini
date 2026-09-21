@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:flutter/foundation.dart' show kIsWeb;
+import 'dart:math';
+import 'package:flutter/foundation.dart' show kDebugMode, kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:google_sign_in/google_sign_in.dart';
@@ -33,8 +34,25 @@ class AppState extends ChangeNotifier {
   String _activeGroup = 'Group 1';
   String get activeGroup => _activeGroup;
 
+  static const _guestIdKey = 'guest_user_id';
+  static const _whatsAppNumberKey = 'whatsapp_number';
+  static const _whatsAppCollectedKey = 'whatsapp_collected';
+
   String _userEmail = 'test_user';
   String get userEmail => _userEmail;
+
+  String? _whatsAppNumber;
+  String? get whatsAppNumber => _whatsAppNumber;
+
+  /// True until the user saves a WhatsApp number or taps "I'll do this later".
+  bool _whatsAppCollected = false;
+  bool get needsWhatsAppNumber =>
+      _isAuthenticated && _authReady && !_whatsAppCollected;
+
+  bool get isGuestUser {
+    final email = _userEmail.toLowerCase();
+    return email.endsWith('@guest.local') || email == 'test_user';
+  }
 
   String? _activeTopic;
   String? get activeTopic => _activeTopic;
@@ -47,6 +65,57 @@ class AppState extends ChangeNotifier {
   String get contentLanguage => _contentLanguage;
   bool get isTamilContent => _contentLanguage == 'ta';
 
+  /// Podhu Tamil / General English are monolingual (exam language), not toggle-driven.
+  bool get isEnglishSection =>
+      _activeSubject == 'English' ||
+      _tamilHubLevel == 'english_units' ||
+      _tamilHubLevel == 'english_menus' ||
+      _tamilHubLevel == 'english_groups';
+
+  bool get isTamilSection =>
+      _activeSubject == 'Tamil' || _tamilHubLevel == 'units';
+
+  /// UI language for labels: Tamil section → always TA; English section → always EN;
+  /// otherwise follow the content-language toggle (GS / CA / etc.).
+  bool get useTamilUi {
+    if (isEnglishSection) return false;
+    if (isTamilSection) return true;
+    return isTamilContent;
+  }
+
+  /// Quiz/results: show EN+TA only for bilingual GS-style subjects.
+  bool get showBilingualQuestions =>
+      !isEnglishSection && !isTamilSection && _activeSubject != 'English' && _activeSubject != 'Tamil';
+
+  /// General English is English-only (exam paper language) — never show Tamil text.
+  bool get isGeneralEnglish =>
+      _activeSubject == 'English' || isEnglishSection;
+
+  String displayQuestionText(Question q) {
+    if (_activeSubject == 'Tamil' || isTamilSection) {
+      return q.questionTa.isNotEmpty ? q.questionTa : q.questionEn;
+    }
+    return q.questionEn;
+  }
+
+  String displayOptionText(Option opt) {
+    if (_activeSubject == 'Tamil' || isTamilSection) {
+      return opt.textTa.isNotEmpty ? opt.textTa : opt.textEn;
+    }
+    return opt.textEn;
+  }
+
+  String displayExplanationText(Question q) {
+    if (_activeSubject == 'Tamil' || isTamilSection) {
+      return q.explanationTa.isNotEmpty ? q.explanationTa : q.explanation;
+    }
+    return q.explanation;
+  }
+
+  /// Hide EN/TA toggle inside monolingual Tamil & English hub flows.
+  bool get showContentLanguageToggle =>
+      !isEnglishSection && !isTamilSection;
+
   // Subjects / Syllabus loaded from backend
   List<Map<String, dynamic>> _subjects = [];
   List<Map<String, dynamic>> get subjects => _subjects;
@@ -54,7 +123,7 @@ class AppState extends ChangeNotifier {
   List<Map<String, dynamic>> _syllabusList = [];
   List<Map<String, dynamic>> get syllabusList => _syllabusList;
 
-  /// Tamil & English hub: null | `languages` | `units`
+  /// Tamil & English hub: null | `languages` | `units` | `english_units` | `english_menus` | `english_groups`
   String? _tamilHubLevel;
   String? get tamilHubLevel => _tamilHubLevel;
 
@@ -62,9 +131,27 @@ class AppState extends ChangeNotifier {
   String? _tamilUnitId;
   String? get tamilUnitId => _tamilUnitId;
 
+  /// Selected General English unit / menu / group.
+  String? _englishUnitId;
+  String? get englishUnitId => _englishUnitId;
+
+  String? _englishMenuId;
+  String? get englishMenuId => _englishMenuId;
+
+  String? _englishGroupId;
+  String? get englishGroupId => _englishGroupId;
+
+  /// Unit had a single topic — skipped syllabus and opened batches directly.
+  bool _directTopicFromUnit = false;
+  bool get directTopicFromUnit => _directTopicFromUnit;
+
   /// Server-driven Podhu Tamil units (`GET /api/tamil/units`).
   List<Map<String, dynamic>> _tamilUnits = [];
   List<Map<String, dynamic>> get tamilUnits => _tamilUnits;
+
+  /// Server-driven General English units (`GET /api/english/units`).
+  List<Map<String, dynamic>> _englishUnits = [];
+  List<Map<String, dynamic>> get englishUnits => _englishUnits;
 
   Map<String, dynamic>? get selectedTamilUnit {
     if (_tamilUnitId == null) return null;
@@ -74,21 +161,82 @@ class AppState extends ChangeNotifier {
     return null;
   }
 
-  /// Syllabus rows visible for the current Tamil unit (or full list otherwise).
-  List<Map<String, dynamic>> get visibleSyllabusList {
-    if (_activeSubject != 'Tamil' || _tamilUnitId == null) {
-      return _syllabusList;
+  Map<String, dynamic>? get selectedEnglishUnit {
+    if (_englishUnitId == null) return null;
+    for (final u in _englishUnits) {
+      if ((u['id'] ?? '').toString() == _englishUnitId) return u;
     }
-    final unit = selectedTamilUnit;
-    if (unit == null) return _syllabusList;
-    final raw = unit['topics'];
-    final names = <String>{
-      if (raw is List) ...raw.map((e) => e.toString()),
-    };
-    if (names.isEmpty) return _syllabusList;
-    return _syllabusList
-        .where((t) => names.contains((t['name'] ?? '').toString()))
-        .toList();
+    return null;
+  }
+
+  Map<String, dynamic>? get selectedEnglishMenu {
+    final unit = selectedEnglishUnit;
+    if (unit == null || _englishMenuId == null) return null;
+    final raw = unit['menus'];
+    if (raw is! List) return null;
+    for (final m in raw) {
+      if (m is Map && (m['id'] ?? '').toString() == _englishMenuId) {
+        return Map<String, dynamic>.from(m);
+      }
+    }
+    return null;
+  }
+
+  Map<String, dynamic>? get selectedEnglishGroup {
+    final menu = selectedEnglishMenu;
+    if (menu == null || _englishGroupId == null) return null;
+    final raw = menu['groups'];
+    if (raw is! List) return null;
+    for (final g in raw) {
+      if (g is Map && (g['id'] ?? '').toString() == _englishGroupId) {
+        return Map<String, dynamic>.from(g);
+      }
+    }
+    return null;
+  }
+
+  /// Syllabus rows visible for the current Tamil/English filter (or full list).
+  List<Map<String, dynamic>> get visibleSyllabusList {
+    if (_activeSubject == 'Tamil' && _tamilUnitId != null) {
+      final unit = selectedTamilUnit;
+      if (unit == null) return _syllabusList;
+      final raw = unit['topics'];
+      final names = <String>{
+        if (raw is List) ...raw.map((e) => e.toString()),
+      };
+      if (names.isEmpty) return _syllabusList;
+      return _syllabusList
+          .where((t) => names.contains((t['name'] ?? '').toString()))
+          .toList();
+    }
+    if (_activeSubject == 'English') {
+      // Tenses: only show topics for the selected group (never all 13 forms).
+      if (_englishMenuHasGroups(selectedEnglishMenu ?? findEnglishMenu(_englishMenuId ?? ''))) {
+        final group = selectedEnglishGroup;
+        if (group == null) return [];
+        final raw = group['topics'];
+        final names = <String>{
+          if (raw is List) ...raw.map((e) => e.toString()),
+        };
+        if (names.isEmpty) return _syllabusList;
+        return _syllabusList
+            .where((t) => names.contains((t['name'] ?? '').toString()))
+            .toList();
+      }
+      final src = selectedEnglishMenu;
+      if (src != null) {
+        final raw = src['topics'];
+        final names = <String>{
+          if (raw is List) ...raw.map((e) => e.toString()),
+        };
+        if (names.isNotEmpty) {
+          return _syllabusList
+              .where((t) => names.contains((t['name'] ?? '').toString()))
+              .toList();
+        }
+      }
+    }
+    return _syllabusList;
   }
 
   String tamilUnitDisplayName(String? unitId) {
@@ -110,6 +258,47 @@ class AppState extends ChangeNotifier {
     final qc = unit['questions_count'];
     if (tc != null || qc != null) {
       return '${tc ?? 0} topics · ${qc ?? 0} Q';
+    }
+    return '';
+  }
+
+  String englishUnitDisplayName(String? unitId) {
+    if (unitId == null || unitId.isEmpty) return '';
+    for (final u in _englishUnits) {
+      if ((u['id'] ?? '').toString() == unitId) {
+        return (u['name_en'] ?? u['name_ta'] ?? unitId).toString();
+      }
+    }
+    return unitId;
+  }
+
+  String englishMenuDisplayName(String? menuId) {
+    if (menuId == null || menuId.isEmpty) return '';
+    final menu = selectedEnglishMenu;
+    if (menu != null && (menu['id'] ?? '').toString() == menuId) {
+      return (menu['name_en'] ?? menu['name_ta'] ?? menuId).toString();
+    }
+    for (final u in _englishUnits) {
+      final menus = u['menus'];
+      if (menus is! List) continue;
+      for (final m in menus) {
+        if (m is Map && (m['id'] ?? '').toString() == menuId) {
+          return (m['name_en'] ?? m['name_ta'] ?? menuId).toString();
+        }
+      }
+    }
+    return menuId;
+  }
+
+  String englishHubSubtitle(Map<String, dynamic> item) {
+    final en = (item['subtitle_en'] ?? '').toString().trim();
+    if (en.isNotEmpty) return en;
+    final ta = (item['subtitle_ta'] ?? '').toString().trim();
+    if (ta.isNotEmpty) return ta;
+    final tc = item['topic_count'] ?? item['menu_count'];
+    final qc = item['questions_count'];
+    if (tc != null || qc != null) {
+      return '${tc ?? 0} items · ${qc ?? 0} Q';
     }
     return '';
   }
@@ -155,7 +344,7 @@ class AppState extends ChangeNotifier {
   bool _isTimed = false;
   bool get isTimed => _isTimed;
 
-  int _remainingSeconds = 1800; // 30 minutes default
+  int _remainingSeconds = 1200; // 20 minutes default
   int get remainingSeconds => _remainingSeconds;
 
   int _timeTakenSeconds = 0;
@@ -209,12 +398,35 @@ class AppState extends ChangeNotifier {
     try {
       // Only log app_open for DAU/engagement. Device metadata (platform /
       // OS / app version / IP country) is intentionally not collected.
-      if (_isAuthenticated && _userEmail != 'test_user') {
+      if (_isAuthenticated && _userEmail.isNotEmpty && _userEmail != 'test_user') {
         await _apiService.logEvent(_userEmail, 'app_open');
       }
     } catch (e) {
       debugPrint('Analytics init failed silently: $e');
     }
+  }
+
+  String _generateGuestUserId() {
+    final rand = Random.secure();
+    final bytes = List<int>.generate(16, (_) => rand.nextInt(256));
+    final hex = bytes.map((b) => b.toRadixString(16).padLeft(2, '0')).join();
+    return 'guest_$hex@guest.local';
+  }
+
+  /// Stable per-device guest identity so returning guests map to the same backend user.
+  Future<String> _ensureGuestUserId() async {
+    final prefs = await SharedPreferences.getInstance();
+    final stored = prefs.getString(_guestIdKey);
+    if (stored != null && stored.endsWith('@guest.local')) {
+      return stored;
+    }
+    if (_userEmail.endsWith('@guest.local')) {
+      await prefs.setString(_guestIdKey, _userEmail);
+      return _userEmail;
+    }
+    final guestId = _generateGuestUserId();
+    await prefs.setString(_guestIdKey, guestId);
+    return guestId;
   }
 
   // Load preferences from local storage
@@ -224,6 +436,22 @@ class AppState extends ChangeNotifier {
     _isAuthenticated = prefs.getBool('is_authenticated') ?? false;
     _userEmail = prefs.getString('user_email') ?? 'test_user';
     _contentLanguage = prefs.getString('content_language') ?? 'en';
+    _whatsAppNumber = prefs.getString(_whatsAppNumberKey);
+    _whatsAppCollected = prefs.getBool(_whatsAppCollectedKey) ?? false;
+
+    // Release builds retire guest login: clear any persisted guest session so
+    // the user must sign in with Google. Debug builds keep guest sessions.
+    if (!kDebugMode && _isAuthenticated && isGuestUser) {
+      _isAuthenticated = false;
+      _userEmail = 'test_user';
+      await prefs.setBool('is_authenticated', false);
+      await prefs.remove('user_email');
+      await prefs.remove(_guestIdKey);
+      await prefs.remove(_whatsAppNumberKey);
+      await prefs.setBool(_whatsAppCollectedKey, false);
+      _whatsAppNumber = null;
+      _whatsAppCollected = false;
+    }
 
     final historyJson = prefs.getString('test_history');
     if (historyJson != null) {
@@ -244,6 +472,12 @@ class AppState extends ChangeNotifier {
     await prefs.setBool('is_authenticated', _isAuthenticated);
     await prefs.setString('user_email', _userEmail);
     await prefs.setString('content_language', _contentLanguage);
+    await prefs.setBool(_whatsAppCollectedKey, _whatsAppCollected);
+    if (_whatsAppNumber != null && _whatsAppNumber!.isNotEmpty) {
+      await prefs.setString(_whatsAppNumberKey, _whatsAppNumber!);
+    } else {
+      await prefs.remove(_whatsAppNumberKey);
+    }
 
     final historyJson = jsonEncode(_testHistory.map((h) => h.toJson()).toList());
     await prefs.setString('test_history', historyJson);
@@ -279,7 +513,11 @@ class AppState extends ChangeNotifier {
     if (match == null) {
       return subjectId ?? '';
     }
-    if (isTamilContent) {
+    // General English stays English; Podhu Tamil stays Tamil.
+    if (subjectId == 'English' || isEnglishSection) {
+      return (match['name'] ?? subjectId ?? '').toString();
+    }
+    if (subjectId == 'Tamil' || isTamilSection || useTamilUi) {
       final ta = (match['name_ta'] ?? '').toString().trim();
       if (ta.isNotEmpty) return ta;
     }
@@ -289,7 +527,8 @@ class AppState extends ChangeNotifier {
   /// Topic title from syllabus item: EN `name` or API `textbook.titleTa`.
   String topicDisplayNameFromItem(Map<String, dynamic> item) {
     final en = (item['name'] ?? '').toString();
-    if (!isTamilContent) return en;
+    if (isEnglishSection || _activeSubject == 'English') return en;
+    if (!useTamilUi) return en;
     final tb = item['textbook'];
     if (tb is Map) {
       final ta = (tb['titleTa'] ?? '').toString().trim();
@@ -310,7 +549,36 @@ class AppState extends ChangeNotifier {
 
   /// Hub chrome labels (not subject/topic titles from API).
   String hubLabel(String english) {
-    if (!isTamilContent) return english;
+    if (isGeneralEnglish) return english;
+    if (isTamilSection || _activeSubject == 'Tamil') {
+      const ta = {
+        'General Studies': 'பொது அறிவு',
+        'Tamil & English': 'தமிழ் மற்றும் ஆங்கிலம்',
+        'Past Year Questions': 'முந்தைய ஆண்டு வினாக்கள்',
+        'Questions Available': 'வினாக்கள் உள்ளன',
+        'Preparation Hub': 'தயாரிப்பு மையம்',
+        'Syllabus': 'பாடத்திட்டம்',
+        'Practice Batch': 'பயிற்சித் தொகுதி',
+        'Practice Batches': 'பயிற்சித் தொகுதிகள்',
+        'Completed': 'முடிந்தவை',
+        'Start': 'தொடங்கு',
+        'Retake': 'மீண்டும் எழுது',
+        'Current Affairs Batches': 'நடப்பு நிகழ்வுகள் தொகுதிகள்',
+        'Current Affairs': 'நடப்பு நிகழ்வுகள்',
+        'TVK-Government Policies': 'த.வெ.க அரசு கொள்கைகள்',
+        'Very Important': 'மிக முக்கியம்',
+        'Central Government Schemes': 'மத்திய அரசுத் திட்டங்கள்',
+        'Union Schemes': 'மத்திய அரசுத் திட்டங்கள்',
+        'Tamil': 'தமிழ்',
+        'General Tamil': 'பொதுத் தமிழ்',
+        'General English': 'பொது ஆங்கிலம்',
+        'Coming soon': 'விரைவில்',
+        'Grammar': 'இலக்கணம்',
+        'Vocabulary': 'சொல்லகராதி',
+      };
+      return ta[english] ?? english;
+    }
+    if (!useTamilUi) return english;
     const ta = {
       'General Studies': 'பொது அறிவு',
       'Tamil & English': 'தமிழ் மற்றும் ஆங்கிலம்',
@@ -411,19 +679,38 @@ class AppState extends ChangeNotifier {
   }
 
   Future<void> selectSubject(String subjectId) async {
-    // Leaving Tamil hub when opening any other subject path.
-    if (subjectId != 'Tamil') {
+    // Leaving Tamil/English hub when opening any other subject path.
+    if (subjectId != 'Tamil' && subjectId != 'English') {
       _tamilHubLevel = null;
       _tamilUnitId = null;
+      _englishUnitId = null;
+      _englishMenuId = null;
+      _englishGroupId = null;
+    }
+    if (subjectId == 'English') {
+      // Flat English entry (legacy) — prefer nested hub via openGeneralEnglishUnits.
+      _englishUnitId = null;
+      _englishMenuId = null;
+      _englishGroupId = null;
     }
     _activeSubject = subjectId;
     _activeTopic = null;
+    _directTopicFromUnit = false;
     _activeScreen = 'syllabus';
     _loading = true;
     notifyListeners();
 
     try {
       _syllabusList = await _apiService.getSyllabus(subjectId);
+      // Aptitude has a single topic — open batches directly (no syllabus submenu).
+      if (subjectId == 'Aptitude' && _syllabusList.length == 1) {
+        final name = (_syllabusList.first['name'] ?? '').toString();
+        if (name.isNotEmpty) {
+          _activeTopic = name;
+          _directTopicFromUnit = true;
+          _activeScreen = 'topic_detail';
+        }
+      }
     } catch (e) {
       print("Error fetching syllabus for $subjectId: $e");
       _syllabusList = [];
@@ -436,6 +723,9 @@ class AppState extends ChangeNotifier {
   void openTamilEnglishHub() {
     _tamilHubLevel = 'languages';
     _tamilUnitId = null;
+    _englishUnitId = null;
+    _englishMenuId = null;
+    _englishGroupId = null;
     _activeSubject = null;
     _activeTopic = null;
     _activeScreen = 'home';
@@ -445,6 +735,9 @@ class AppState extends ChangeNotifier {
   Future<void> openGeneralTamilUnits() async {
     _tamilHubLevel = 'units';
     _tamilUnitId = null;
+    _englishUnitId = null;
+    _englishMenuId = null;
+    _englishGroupId = null;
     _activeSubject = null;
     _activeTopic = null;
     _activeScreen = 'home';
@@ -460,9 +753,184 @@ class AppState extends ChangeNotifier {
     notifyListeners();
   }
 
-  /// Back within Tamil & English hub (languages ↔ units ↔ home root).
+  Future<void> openGeneralEnglishUnits() async {
+    _tamilHubLevel = 'english_units';
+    _tamilUnitId = null;
+    _englishUnitId = null;
+    _englishMenuId = null;
+    _englishGroupId = null;
+    _activeSubject = null;
+    _activeTopic = null;
+    _activeScreen = 'home';
+    _loading = true;
+    notifyListeners();
+    try {
+      _englishUnits = await _apiService.getEnglishUnits();
+    } catch (e) {
+      print("Error fetching English units: $e");
+      _englishUnits = [];
+    }
+    _loading = false;
+    notifyListeners();
+  }
+
+  void openEnglishUnitMenus(String unitId) {
+    _englishUnitId = unitId;
+    _englishMenuId = null;
+    _englishGroupId = null;
+    _tamilHubLevel = 'english_menus';
+    _activeSubject = null;
+    _activeTopic = null;
+    _activeScreen = 'home';
+    notifyListeners();
+  }
+
+  /// Find a menu by id across loaded English units (does not require unit id set).
+  Map<String, dynamic>? findEnglishMenu(String menuId) {
+    for (final u in _englishUnits) {
+      final menus = u['menus'];
+      if (menus is! List) continue;
+      for (final m in menus) {
+        if (m is Map && (m['id'] ?? '').toString() == menuId) {
+          return Map<String, dynamic>.from(m);
+        }
+      }
+    }
+    return null;
+  }
+
+  bool _englishMenuHasGroups(Map<String, dynamic>? menu) {
+    if (menu == null) return false;
+    final groups = menu['groups'];
+    if (groups is List && groups.isNotEmpty) return true;
+    final count = menu['group_count'];
+    if (count is num && count > 0) return true;
+    return false;
+  }
+
+  Future<void> selectEnglishMenu(String menuId) async {
+    _englishMenuId = menuId;
+    _englishGroupId = null;
+    _directTopicFromUnit = false;
+
+    // Prefer explicit lookup so nested Tenses groups are never skipped.
+    final menu = selectedEnglishMenu ?? findEnglishMenu(menuId);
+    if (menu != null && _englishUnitId == null) {
+      for (final u in _englishUnits) {
+        final menus = u['menus'];
+        if (menus is! List) continue;
+        final hit = menus.any(
+          (m) => m is Map && (m['id'] ?? '').toString() == menuId,
+        );
+        if (hit) {
+          _englishUnitId = (u['id'] ?? '').toString();
+          break;
+        }
+      }
+    }
+
+    // Nested groups (Tenses → Present/Past/Future/Mixed) — stay on hub.
+    if (_englishMenuHasGroups(menu)) {
+      _tamilHubLevel = 'english_groups';
+      _activeSubject = null;
+      _activeTopic = null;
+      _activeScreen = 'home';
+      _syllabusList = [];
+      notifyListeners();
+      return;
+    }
+
+    _tamilHubLevel = 'english_menus';
+    _activeSubject = 'English';
+    _activeTopic = null;
+    _activeScreen = 'syllabus';
+    _loading = true;
+    notifyListeners();
+
+    try {
+      _syllabusList = await _apiService.getSyllabus('English', menu: menuId);
+      if (_syllabusList.isEmpty) {
+        _syllabusList = await _apiService.getSyllabus('English');
+      }
+      final topics = visibleSyllabusList;
+      if (topics.length == 1) {
+        final name = (topics.first['name'] ?? '').toString();
+        if (name.isNotEmpty) {
+          _activeTopic = name;
+          _directTopicFromUnit = true;
+          _activeScreen = 'topic_detail';
+        }
+      }
+    } catch (e) {
+      print("Error fetching English syllabus for menu $menuId: $e");
+      _syllabusList = [];
+    }
+
+    _loading = false;
+    notifyListeners();
+  }
+
+  Future<void> selectEnglishGroup(String groupId) async {
+    _englishGroupId = groupId;
+    _tamilHubLevel = 'english_groups';
+    _activeSubject = 'English';
+    _activeTopic = null;
+    _directTopicFromUnit = false;
+    _activeScreen = 'syllabus';
+    _loading = true;
+    notifyListeners();
+
+    try {
+      _syllabusList = await _apiService.getSyllabus(
+        'English',
+        menu: _englishMenuId,
+        group: groupId,
+      );
+      if (_syllabusList.isEmpty) {
+        _syllabusList = await _apiService.getSyllabus('English');
+      }
+      final topics = visibleSyllabusList;
+      if (topics.length == 1) {
+        final name = (topics.first['name'] ?? '').toString();
+        if (name.isNotEmpty) {
+          _activeTopic = name;
+          _directTopicFromUnit = true;
+          _activeScreen = 'topic_detail';
+        }
+      }
+    } catch (e) {
+      print("Error fetching English syllabus for group $groupId: $e");
+      _syllabusList = [];
+    }
+
+    _loading = false;
+    notifyListeners();
+  }
+
+  /// Back within Tamil & English hub.
   /// Returns true if a hub level was popped.
   bool backTamilHub() {
+    if (_tamilHubLevel == 'english_groups') {
+      _tamilHubLevel = 'english_menus';
+      _englishGroupId = null;
+      notifyListeners();
+      return true;
+    }
+    if (_tamilHubLevel == 'english_menus') {
+      _tamilHubLevel = 'english_units';
+      _englishMenuId = null;
+      _englishGroupId = null;
+      notifyListeners();
+      return true;
+    }
+    if (_tamilHubLevel == 'english_units') {
+      _tamilHubLevel = 'languages';
+      _englishUnitId = null;
+      _englishMenuId = null;
+      _englishGroupId = null;
+      notifyListeners();
+      return true;
+    }
     if (_tamilHubLevel == 'units') {
       _tamilHubLevel = 'languages';
       _tamilUnitId = null;
@@ -472,6 +940,9 @@ class AppState extends ChangeNotifier {
     if (_tamilHubLevel == 'languages') {
       _tamilHubLevel = null;
       _tamilUnitId = null;
+      _englishUnitId = null;
+      _englishMenuId = null;
+      _englishGroupId = null;
       notifyListeners();
       return true;
     }
@@ -483,6 +954,7 @@ class AppState extends ChangeNotifier {
     _tamilHubLevel = 'units';
     _activeSubject = 'Tamil';
     _activeTopic = null;
+    _directTopicFromUnit = false;
     _activeScreen = 'syllabus';
     _loading = true;
     notifyListeners();
@@ -493,6 +965,17 @@ class AppState extends ChangeNotifier {
       if (_syllabusList.isEmpty) {
         _syllabusList = await _apiService.getSyllabus('Tamil');
       }
+
+      // Single-topic units (e.g. Tamilpani / Thondu / Saandror): open batches directly.
+      final topics = visibleSyllabusList;
+      if (topics.length == 1) {
+        final name = (topics.first['name'] ?? '').toString();
+        if (name.isNotEmpty) {
+          _activeTopic = name;
+          _directTopicFromUnit = true;
+          _activeScreen = 'topic_detail';
+        }
+      }
     } catch (e) {
       print("Error fetching Tamil syllabus for unit $unitId: $e");
       _syllabusList = [];
@@ -502,13 +985,36 @@ class AppState extends ChangeNotifier {
     notifyListeners();
   }
 
-  /// Back from syllabus: Tamil units → unit picker; else home root.
+  /// Back from syllabus: Tamil units / English menus or groups → hub; else home root.
   void navigateBackFromSyllabus() {
     if (_activeSubject == 'Tamil' && _tamilUnitId != null) {
       _tamilUnitId = null;
       _tamilHubLevel = 'units';
       _activeSubject = null;
       _activeTopic = null;
+      _directTopicFromUnit = false;
+      _syllabusList = [];
+      _activeScreen = 'home';
+      notifyListeners();
+      return;
+    }
+    if (_activeSubject == 'English' && _englishGroupId != null) {
+      _englishGroupId = null;
+      _tamilHubLevel = 'english_groups';
+      _activeSubject = null;
+      _activeTopic = null;
+      _directTopicFromUnit = false;
+      _syllabusList = [];
+      _activeScreen = 'home';
+      notifyListeners();
+      return;
+    }
+    if (_activeSubject == 'English' && _englishMenuId != null) {
+      _englishMenuId = null;
+      _tamilHubLevel = 'english_menus';
+      _activeSubject = null;
+      _activeTopic = null;
+      _directTopicFromUnit = false;
       _syllabusList = [];
       _activeScreen = 'home';
       notifyListeners();
@@ -519,6 +1025,7 @@ class AppState extends ChangeNotifier {
 
   void selectTopic(String topicName) {
     _activeTopic = topicName;
+    _directTopicFromUnit = false;
     _activeScreen = 'topic_detail';
     notifyListeners();
   }
@@ -545,10 +1052,22 @@ class AppState extends ChangeNotifier {
     _activeTopic = null;
     _tamilHubLevel = null;
     _tamilUnitId = null;
+    _englishUnitId = null;
+    _englishMenuId = null;
+    _englishGroupId = null;
     notifyListeners();
   }
 
   void navigateToSyllabus() {
+    // Came straight from a single-topic unit/subject → back to prior list, not empty syllabus.
+    if (_directTopicFromUnit &&
+        (_tamilUnitId != null ||
+            _englishMenuId != null ||
+            _activeSubject == 'Aptitude')) {
+      _directTopicFromUnit = false;
+      navigateBackFromSyllabus();
+      return;
+    }
     if (_activeSubject != null) {
       _activeScreen = 'syllabus';
     } else if (_tamilHubLevel != null) {
@@ -693,7 +1212,7 @@ class AppState extends ChangeNotifier {
     }));
 
     if (timed) {
-      _remainingSeconds = 1800; // 30 mins
+      _remainingSeconds = 1200; // 20 mins
       _quizTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
         if (_remainingSeconds > 0) {
           _remainingSeconds--;
@@ -712,6 +1231,11 @@ class AppState extends ChangeNotifier {
   }
 
   void selectOption(String optionKey) {
+    // In Learn Mode, lock the first selection so right/wrong feedback stays visible.
+    if (!_isTimed && _selectedAnswers.containsKey(_currentQuestionIndex)) {
+      return;
+    }
+
     _selectedAnswers[_currentQuestionIndex] = optionKey;
 
     // Record time-to-first-answer for this question, used for admin analytics.
@@ -780,7 +1304,9 @@ class AppState extends ChangeNotifier {
                                         ? 'Central Government Schemes'
                                         : _activeSubject == 'Tamil'
                                             ? 'Tamil'
-                                            : 'Current Affairs');
+                                            : _activeSubject == 'English'
+                                                ? 'General English'
+                                                : 'Current Affairs');
   }
 
   // Submit test session
@@ -865,9 +1391,21 @@ class AppState extends ChangeNotifier {
         print("Logged in successfully: ${googleUser.email}");
         print("ID Token: $idToken");
 
+        final previousEmail = _userEmail;
+        final hadCollected = _whatsAppCollected;
+        final hadNumber = _whatsAppNumber;
+
         _userEmail = googleUser.email;
         _isAuthenticated = true;
         _activeScreen = 'home';
+        // Re-prompt only for a different account; keep number for same user.
+        if (previousEmail != _userEmail || !hadCollected) {
+          _whatsAppCollected = false;
+          _whatsAppNumber = null;
+        } else {
+          _whatsAppCollected = hadCollected;
+          _whatsAppNumber = hadNumber;
+        }
         await saveLocalPreferences();
 
         unawaited(_apiService.logEvent(_userEmail, 'sign_in', {'method': 'google'}));
@@ -886,28 +1424,73 @@ class AppState extends ChangeNotifier {
     }
   }
 
-  /// Web / local preview path — same idea as the old app.js (no Google gate).
   Future<void> signInAsGuest() async {
     _loading = true;
     notifyListeners();
     try {
-      _userEmail = 'test_user';
+      final previousEmail = _userEmail;
+      final hadCollected = _whatsAppCollected;
+      final hadNumber = _whatsAppNumber;
+
+      _userEmail = await _ensureGuestUserId();
       _isAuthenticated = true;
       _activeScreen = 'home';
+      // Guest path shows WhatsApp screen for testing; same guest keeps prior choice.
+      if (previousEmail != _userEmail || !hadCollected) {
+        _whatsAppCollected = false;
+        _whatsAppNumber = null;
+      } else {
+        _whatsAppCollected = hadCollected;
+        _whatsAppNumber = hadNumber;
+      }
       await saveLocalPreferences();
+
+      unawaited(_apiService.logEvent(_userEmail, 'sign_in', {'method': 'guest'}));
+      unawaited(_apiService.updateDeviceInfo(
+        userId: _userEmail,
+        displayName: 'Guest',
+      ));
+      unawaited(_logAppOpenAndSyncDevice());
     } finally {
       _loading = false;
       notifyListeners();
     }
   }
 
+  Future<void> saveWhatsAppNumber(String digits) async {
+    final normalized = digits.trim();
+    _whatsAppNumber = normalized;
+    _whatsAppCollected = true;
+    // Local first so UI unlocks immediately; API sync is background-only.
+    await saveLocalPreferences();
+    notifyListeners();
+
+    unawaited(_apiService.logEvent(_userEmail, 'whatsapp_number_saved', {
+      'digits': normalized.length,
+    }));
+    unawaited(_apiService.saveWhatsAppNumber(
+      userId: _userEmail,
+      phoneNumber: normalized,
+    ));
+  }
+
+  Future<void> skipWhatsAppNumber() async {
+    _whatsAppCollected = true;
+    await saveLocalPreferences();
+    notifyListeners();
+    unawaited(_apiService.logEvent(_userEmail, 'whatsapp_number_skipped'));
+  }
+
   Future<void> signOut() async {
     final email = _userEmail;
+    final wasGuest = isGuestUser;
     try {
-      if (_isAuthenticated && email != 'test_user') {
+      if (_isAuthenticated && email.isNotEmpty && email != 'test_user') {
         unawaited(_apiService.logEvent(email, 'sign_out'));
       }
-      await GoogleSignIn.instance.signOut();
+      if (!wasGuest && !kIsWeb) {
+        await GoogleSignIn.instance.signOut();
+      }
     } catch (e) {
       print("Google Sign-Out Error: $e");
     }
@@ -918,6 +1501,8 @@ class AppState extends ChangeNotifier {
     _quizInProgress = false;
     _quizTimer?.cancel();
     _selectedAnswers.clear();
+    _whatsAppNumber = null;
+    _whatsAppCollected = false;
     await saveLocalPreferences();
     notifyListeners();
   }
@@ -932,6 +1517,8 @@ class AppState extends ChangeNotifier {
       print("Error deleting account from server: $e");
     } finally {
       _loading = false;
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.remove(_guestIdKey);
       await signOut();
     }
   }

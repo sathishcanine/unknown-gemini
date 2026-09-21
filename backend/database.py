@@ -93,6 +93,10 @@ class QuestionDatabase:
 
     def get_tamil_topic_question_counts(self):
         """topic name → question count for subject Tamil."""
+        return self.get_topic_question_counts("Tamil")
+
+    def get_topic_question_counts(self, subject_id: str):
+        """topic name → question count for a subject."""
         conn = self.get_conn()
         try:
             with conn.cursor(cursor_factory=RealDictCursor) as cur:
@@ -101,13 +105,14 @@ class QuestionDatabase:
                     SELECT t.name, COUNT(q.id)::int AS questions_count
                     FROM topics t
                     LEFT JOIN questions q ON q.topic_id = t.id
-                    WHERE t.subject_id = 'Tamil'
+                    WHERE t.subject_id = %s
                     GROUP BY t.name;
-                    """
+                    """,
+                    (subject_id,),
                 )
                 return {row["name"]: int(row["questions_count"] or 0) for row in cur.fetchall()}
         except Exception as e:
-            print(f"Error in get_tamil_topic_question_counts: {e}")
+            print(f"Error in get_topic_question_counts({subject_id}): {e}")
             return {}
         finally:
             self.release_conn(conn)
@@ -123,7 +128,9 @@ class QuestionDatabase:
                 query = """
                     SELECT q.id, q.subject_id as subject, t.name as topic, q.question_en, q.question_ta, 
                            q.correct_option, q.explanation, q.explanation_ta, q.difficulty, q.type, 
-                           q.batch, q.source_exam, q.source_fact
+                           q.batch, q.source_exam, q.source_fact,
+                           COALESCE(q.image_urls, '[]'::jsonb) AS image_urls,
+                           COALESCE(q.tags, '[]'::jsonb) AS tags
                     FROM questions q
                     JOIN topics t ON q.topic_id = t.id
                     WHERE q.subject_id = %s
@@ -136,13 +143,32 @@ class QuestionDatabase:
 
                 if batch:
                     if batch.lower() in ["pyq", "pyqs"]:
-                        query += " AND LOWER(q.type) = 'pyq'"
+                        query += " AND (LOWER(q.type) = 'pyq' OR q.tags ? 'pyq')"
                     else:
                         query += " AND LOWER(q.type) != 'pyq' AND LOWER(q.batch) = LOWER(%s)"
-                    params.append(batch)
+                        params.append(batch)
 
                 cur.execute(query, tuple(params))
                 questions = [dict(row) for row in cur.fetchall()]
+
+                # Normalize jsonb fields to plain lists
+                for q in questions:
+                    iu = q.get("image_urls")
+                    tg = q.get("tags")
+                    if isinstance(iu, str):
+                        try:
+                            import json as _json
+                            iu = _json.loads(iu)
+                        except Exception:
+                            iu = []
+                    if isinstance(tg, str):
+                        try:
+                            import json as _json
+                            tg = _json.loads(tg)
+                        except Exception:
+                            tg = []
+                    q["image_urls"] = iu or []
+                    q["tags"] = tg or []
 
                 # Optimized: Fetch all options for these question IDs in a single query
                 if questions:
@@ -777,8 +803,10 @@ class QuestionDatabase:
                 search_clause = ""
                 params = [start_dt, end_dt]
                 if search:
-                    search_clause = "WHERE (u.email ILIKE %s OR u.display_name ILIKE %s)"
-                    params += [f"%{search}%", f"%{search}%"]
+                    search_clause = (
+                        "WHERE (u.email ILIKE %s OR u.display_name ILIKE %s OR u.phone_number ILIKE %s)"
+                    )
+                    params += [f"%{search}%", f"%{search}%", f"%{search}%"]
 
                 count_query = f"SELECT COUNT(*) AS c FROM users u {search_clause};"
                 cur.execute(count_query, params[2:] if search else [])
@@ -786,7 +814,7 @@ class QuestionDatabase:
 
                 query = f"""
                     SELECT u.id, u.email, u.display_name, u.created_at, u.last_active_at,
-                           u.platform, u.country, u.total_points,
+                           u.platform, u.country, u.total_points, u.phone_number, u.whatsapp_enabled,
                            COUNT(DISTINCT ts.id) FILTER (WHERE ts.timestamp BETWEEN %s AND %s) AS total_tests,
                            COALESCE(AVG(CASE WHEN ua.is_correct THEN 1.0 ELSE 0 END) * 100, 0) AS avg_accuracy
                     FROM users u
@@ -1216,7 +1244,7 @@ class QuestionDatabase:
         finally:
             self.release_conn(conn)
 
-    def update_user_device_info(self, user_id, platform=None, os_version=None, app_version=None, country=None, display_name=None):
+    def update_user_device_info(self, user_id, platform=None, os_version=None, app_version=None, country=None, display_name=None, phone_number=None, whatsapp_enabled=None):
         conn = self.get_conn()
         try:
             with conn.cursor() as cur:
@@ -1229,15 +1257,90 @@ class QuestionDatabase:
                         app_version = COALESCE(%s, app_version),
                         country = COALESCE(%s, country),
                         display_name = COALESCE(%s, display_name),
+                        phone_number = COALESCE(%s, phone_number),
+                        whatsapp_enabled = COALESCE(%s, whatsapp_enabled),
                         last_active_at = CURRENT_TIMESTAMP
                     WHERE id = %s;
                     """,
-                    (platform, os_version, app_version, country, display_name, user_uuid),
+                    (platform, os_version, app_version, country, display_name, phone_number, whatsapp_enabled, user_uuid),
                 )
                 conn.commit()
         except Exception as e:
             conn.rollback()
             print(f"Error updating user device info: {e}")
+        finally:
+            self.release_conn(conn)
+
+    def ensure_whatsapp_columns(self):
+        """Idempotent: production DBs created before WhatsApp capture."""
+        conn = self.get_conn()
+        try:
+            with conn.cursor() as cur:
+                cur.execute(
+                    """
+                    ALTER TABLE users
+                      ADD COLUMN IF NOT EXISTS phone_number VARCHAR(20),
+                      ADD COLUMN IF NOT EXISTS whatsapp_enabled BOOLEAN DEFAULT FALSE;
+                    """
+                )
+                conn.commit()
+        except Exception as e:
+            conn.rollback()
+            print(f"Error ensuring WhatsApp columns: {e}")
+        finally:
+            self.release_conn(conn)
+
+    @staticmethod
+    def normalize_whatsapp_number(raw):
+        """Accept 10-digit IN mobile (optionally with +91 / 91 / 0) → +91XXXXXXXXXX."""
+        if raw is None:
+            return None
+        digits = "".join(ch for ch in str(raw) if ch.isdigit())
+        if digits.startswith("91") and len(digits) == 12:
+            digits = digits[2:]
+        elif digits.startswith("0") and len(digits) == 11:
+            digits = digits[1:]
+        if len(digits) != 10 or digits[0] not in "6789":
+            return None
+        return f"+91{digits}"
+
+    def save_user_whatsapp(self, user_id, phone_number):
+        """Persist WhatsApp mobile for a user (creates user row if needed)."""
+        normalized = self.normalize_whatsapp_number(phone_number)
+        if not normalized:
+            return None
+
+        self.ensure_whatsapp_columns()
+        conn = self.get_conn()
+        try:
+            # Use a plain cursor: _resolve_user_uuid indexes rows by position.
+            with conn.cursor() as cur:
+                user_uuid = self._resolve_user_uuid(cur, user_id, create_if_missing=True)
+                cur.execute(
+                    """
+                    UPDATE users SET
+                        phone_number = %s,
+                        whatsapp_enabled = TRUE,
+                        last_active_at = CURRENT_TIMESTAMP
+                    WHERE id = %s
+                    RETURNING id, email, phone_number, whatsapp_enabled;
+                    """,
+                    (normalized, user_uuid),
+                )
+                row = cur.fetchone()
+                conn.commit()
+                if not row:
+                    return None
+                return {
+                    "id": row[0],
+                    "email": row[1],
+                    "phone_number": row[2],
+                    "whatsapp_enabled": row[3],
+                }
+        except Exception as e:
+            conn.rollback()
+            print(f"Error saving WhatsApp number: {e}")
+            return None
         finally:
             self.release_conn(conn)
 
@@ -1264,10 +1367,11 @@ class QuestionDatabase:
             return None
 
         email = f"user_{user_id}@example.com" if "@" not in str(user_id) else user_id
+        display_name = "Guest" if str(email).endswith("@guest.local") else "Test User"
         cur.execute(
             "INSERT INTO users (display_name, email) VALUES (%s, %s) "
             "ON CONFLICT (email) DO UPDATE SET email = EXCLUDED.email RETURNING id;",
-            ("Test User", email),
+            (display_name, email),
         )
         return cur.fetchone()[0]
 

@@ -89,7 +89,14 @@ export default function Users() {
                 >
                   <td className="px-5 py-3">
                     <div className="font-semibold text-slate-800">{u.display_name || 'Unnamed'}</div>
-                    <div className="text-xs text-slate-400">{u.email}</div>
+                    <div className="text-xs text-slate-400 flex items-center gap-1.5">
+                      {u.email}
+                      {typeof u.email === 'string' && u.email.endsWith('@guest.local') && (
+                        <span className="rounded-full bg-slate-100 px-1.5 py-0.5 text-[10px] font-semibold text-slate-500 uppercase tracking-wide">
+                          Guest
+                        </span>
+                      )}
+                    </div>
                   </td>
                   <td className="px-5 py-3 text-slate-500">
                     {formatISTDate(u.created_at)}

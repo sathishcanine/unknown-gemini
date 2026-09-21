@@ -112,13 +112,19 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
         batchesMap.putIfAbsent(bName, () => []).add(q);
       }
     }
-    final sortedBatchKeys = batchesMap.keys.toList()..sort();
+    final sortedBatchKeys = batchesMap.keys.toList()
+      ..sort((a, b) {
+        final na = int.tryParse(RegExp(r'(\d+)').firstMatch(a)?.group(1) ?? '') ?? 0;
+        final nb = int.tryParse(RegExp(r'(\d+)').firstMatch(b)?.group(1) ?? '') ?? 0;
+        return na.compareTo(nb);
+      });
     final availableBatchKeys = sortedBatchKeys
         .where((k) => !_isBatchCompleted(appState, k))
         .toList();
     final completedBatchKeys = sortedBatchKeys
         .where((k) => _isBatchCompleted(appState, k))
         .toList();
+    final isAptitudeTopic = (appState.activeSubject ?? '') == 'Aptitude';
 
     return Scaffold(
       backgroundColor: scaffoldBg,
@@ -175,6 +181,31 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
+                      if (isAptitudeTopic && sortedBatchKeys.isNotEmpty) ...[
+                        Container(
+                          width: double.infinity,
+                          padding: const EdgeInsets.fromLTRB(16, 14, 16, 14),
+                          decoration: BoxDecoration(
+                            color: const Color(0xFF3B82F6).withOpacity(isDark ? 0.14 : 0.10),
+                            borderRadius: BorderRadius.circular(14),
+                            border: Border.all(
+                              color: const Color(0xFF3B82F6).withOpacity(0.28),
+                            ),
+                          ),
+                          child: Text(
+                            'All the batches were created from PYQs. Master these and get 100%.',
+                            style: TextStyle(
+                              fontFamily: 'Outfit',
+                              fontSize: 14,
+                              height: 1.35,
+                              fontWeight: FontWeight.w600,
+                              color: isDark ? const Color(0xFF93C5FD) : const Color(0xFF1D4ED8),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(height: 20),
+                      ],
+
                       // 1. PYQs Card — hide entirely when this topic has no PYQs
                       if (pyqList.isNotEmpty) ...[
                         Text(
@@ -523,7 +554,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                         appState.startQuiz(questions, timed: false);
                       },
                       child: const Text(
-                        'Untimed Mode',
+                        'Learn Mode',
                         style: TextStyle(
                           fontFamily: 'Outfit',
                           fontWeight: FontWeight.bold,
@@ -548,7 +579,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                         appState.startQuiz(questions, timed: true);
                       },
                       child: const Text(
-                        'Timed (30m)',
+                        'Exam Mode (20m)',
                         style: TextStyle(
                           fontFamily: 'Outfit',
                           fontWeight: FontWeight.bold,

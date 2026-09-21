@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart' show kIsWeb;
+import 'package:flutter/foundation.dart' show kDebugMode;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -46,9 +46,12 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
     } catch (e) {
       if (mounted) {
         final msg = e.toString();
-        final hint = msg.contains('ApiException: 10') || msg.contains('DEVELOPER_ERROR')
+        final hint = msg.contains('ApiException: 10') ||
+                msg.contains('DEVELOPER_ERROR') ||
+                msg.contains('28444') ||
+                msg.contains('Developer console is not set up')
             ? ' Google Sign-In config mismatch (SHA-1 / OAuth client). '
-              'Add this device debug SHA-1 in Firebase: '
+              'Add this debug SHA-1 in Firebase Android app: '
               '4C:BA:EF:4E:83:01:07:5F:26:03:0B:6A:37:3F:43:9A:3A:30:65:B8'
             : '';
         ScaffoldMessenger.of(context).showSnackBar(
@@ -70,6 +73,12 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
     });
     try {
       await appState.signInAsGuest();
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Guest sign-in failed: $e')),
+        );
+      }
     } finally {
       if (mounted) {
         setState(() {
@@ -246,71 +255,11 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                               ),
                             ),
                             const SizedBox(height: 16),
-                            
-                            // Web: skip Google like the old app.js preview (no auth gate).
-                            // Mobile: Google Sign-In.
-                            if (kIsWeb)
-                              ElevatedButton(
-                                style: ElevatedButton.styleFrom(
-                                  backgroundColor: const Color(0xFF3B82F6),
-                                  foregroundColor: Colors.white,
-                                  padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 16),
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(10),
-                                  ),
-                                  elevation: 1,
-                                ),
-                                onPressed: _isSigningIn ? null : () => _handleGuestSignIn(appState),
-                                child: Text(
-                                  _isSigningIn ? 'Opening…' : 'Continue without Google',
-                                  style: const TextStyle(
-                                    fontFamily: 'Inter',
-                                    fontSize: 14,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                              )
-                            else
-                              ElevatedButton(
-                                style: ElevatedButton.styleFrom(
-                                  backgroundColor: Colors.white,
-                                  foregroundColor: const Color(0xFF1F2937),
-                                  padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 16),
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(10),
-                                  ),
-                                  elevation: 1,
-                                ),
-                                onPressed: () => _handleGoogleSignIn(appState),
-                                child: Row(
-                                  mainAxisAlignment: MainAxisAlignment.center,
-                                  children: [
-                                    Image.network(
-                                      'https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.png',
-                                      height: 18,
-                                      errorBuilder: (context, error, stackTrace) {
-                                        return const Text(
-                                          'G',
-                                          style: TextStyle(
-                                            fontWeight: FontWeight.bold,
-                                            fontSize: 16,
-                                            color: Color(0xFF4285F4),
-                                          ),
-                                        );
-                                      },
-                                    ),
-                                    const SizedBox(width: 14),
-                                    const Text(
-                                      'Sign in with Google',
-                                      style: TextStyle(
-                                        fontFamily: 'Inter',
-                                        fontSize: 14,
-                                        fontWeight: FontWeight.bold,
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                              ),
+                            _buildGoogleButton(appState),
+                            if (kDebugMode) ...[
+                              const SizedBox(height: 12),
+                              _buildGuestButton(appState),
+                            ],
                           ],
                         ),
                       ),
@@ -334,6 +283,71 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
             ),
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildGoogleButton(AppState appState) {
+    return ElevatedButton(
+      style: ElevatedButton.styleFrom(
+        backgroundColor: Colors.white,
+        foregroundColor: const Color(0xFF1F2937),
+        padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 16),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(10),
+        ),
+        elevation: 1,
+      ),
+      onPressed: _isSigningIn ? null : () => _handleGoogleSignIn(appState),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Image.network(
+            'https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.png',
+            height: 18,
+            errorBuilder: (context, error, stackTrace) {
+              return const Text(
+                'G',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 16,
+                  color: Color(0xFF4285F4),
+                ),
+              );
+            },
+          ),
+          const SizedBox(width: 14),
+          const Text(
+            'Sign in with Google',
+            style: TextStyle(
+              fontFamily: 'Inter',
+              fontSize: 14,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildGuestButton(AppState appState) {
+    return OutlinedButton(
+      style: OutlinedButton.styleFrom(
+        foregroundColor: Colors.white70,
+        side: BorderSide(color: Colors.white.withOpacity(0.18)),
+        padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 16),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(10),
+        ),
+      ),
+      onPressed: _isSigningIn ? null : () => _handleGuestSignIn(appState),
+      child: const Text(
+        'Continue as Guest',
+        style: TextStyle(
+          fontFamily: 'Inter',
+          fontSize: 14,
+          fontWeight: FontWeight.bold,
+        ),
       ),
     );
   }

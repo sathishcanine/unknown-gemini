@@ -17,6 +17,13 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 app = FastAPI(title="TNPSC Prep API", description="Backend API for TNPSC Practice Questions & Advisor")
 
+@app.on_event("startup")
+def _startup_ensure_schema():
+    try:
+        db.ensure_whatsapp_columns()
+    except Exception as e:
+        print(f"Startup schema ensure failed: {e}")
+
 # Enable CORS for Flutter app connections
 app.add_middleware(
     CORSMiddleware,
@@ -54,6 +61,10 @@ app.mount("/Economic", StaticFiles(directory=os.path.join(ROOT_DIR, "Economic"))
 app.mount("/Policy", StaticFiles(directory=os.path.join(ROOT_DIR, "Policy")), name="Policy")
 app.mount("/TVK", StaticFiles(directory=os.path.join(ROOT_DIR, "TVK")), name="TVK")
 app.mount("/Current-affairs", StaticFiles(directory=os.path.join(ROOT_DIR, "Current-affairs")), name="Current-affairs")
+# Aptitude/Reasoning figure media (PNG crops)
+_aptitude_media = os.path.join(ROOT_DIR, "Aptitude", "media")
+os.makedirs(_aptitude_media, exist_ok=True)
+app.mount("/media/aptitude", StaticFiles(directory=_aptitude_media), name="aptitude_media")
 
 # Request / Response Schemas
 class SubjectResponse(BaseModel):
@@ -90,12 +101,14 @@ class QuestionModel(BaseModel):
     question_ta: str
     options: List[OptionModel]
     correct_option: str
-    explanation: str
-    explanation_ta: str
+    explanation: Optional[str] = ""
+    explanation_ta: Optional[str] = ""
     type: Optional[str] = "practice"
     batch: Optional[str] = ""
     group: Optional[str] = "Practice"
     source_fact: Optional[str] = ""
+    image_urls: Optional[List[str]] = []
+    tags: Optional[List[str]] = []
 
 class AnswerSubmitModel(BaseModel):
     question_id: int
@@ -150,6 +163,7 @@ class StatsResponse(BaseModel):
     weakness: Optional[WeaknessReport] = None
 
 TAMIL_UNITS_PATH = os.path.join(ROOT_DIR, "backend", "tamil_units.json")
+ENGLISH_UNITS_PATH = os.path.join(ROOT_DIR, "backend", "english_units.json")
 
 
 def _load_tamil_units_config() -> dict:
@@ -160,6 +174,17 @@ def _load_tamil_units_config() -> dict:
             return json.load(f) or {"units": []}
     except Exception as e:
         print(f"Error loading tamil_units.json: {e}")
+        return {"units": []}
+
+
+def _load_english_units_config() -> dict:
+    if not os.path.exists(ENGLISH_UNITS_PATH):
+        return {"units": []}
+    try:
+        with open(ENGLISH_UNITS_PATH, "r", encoding="utf-8") as f:
+            return json.load(f) or {"units": []}
+    except Exception as e:
+        print(f"Error loading english_units.json: {e}")
         return {"units": []}
 
 
@@ -174,6 +199,50 @@ class TamilUnitResponse(BaseModel):
     icon: str = "menu_book_outlined"
     topics: List[str] = []
     topic_count: int = 0
+    questions_count: int = 0
+
+
+class EnglishGroupResponse(BaseModel):
+    id: str
+    order: int = 0
+    name_en: str
+    name_ta: str = ""
+    subtitle_en: str = ""
+    subtitle_ta: str = ""
+    accent: str = "#0D9488"
+    icon: str = "schedule_outlined"
+    topics: List[str] = []
+    topic_count: int = 0
+    questions_count: int = 0
+
+
+class EnglishMenuResponse(BaseModel):
+    id: str
+    order: int = 0
+    name_en: str
+    name_ta: str = ""
+    subtitle_en: str = ""
+    subtitle_ta: str = ""
+    accent: str = "#0891B2"
+    icon: str = "category_outlined"
+    topics: List[str] = []
+    groups: List[EnglishGroupResponse] = []
+    topic_count: int = 0
+    questions_count: int = 0
+    group_count: int = 0
+
+
+class EnglishUnitResponse(BaseModel):
+    id: str
+    order: int = 0
+    name_en: str
+    name_ta: str = ""
+    subtitle_en: str = ""
+    subtitle_ta: str = ""
+    accent: str = "#06B6D4"
+    icon: str = "translate_outlined"
+    menus: List[EnglishMenuResponse] = []
+    menu_count: int = 0
     questions_count: int = 0
 
 
@@ -213,19 +282,149 @@ def get_tamil_units():
     return out
 
 
+@app.get("/api/english/units", response_model=List[EnglishUnitResponse])
+def get_english_units():
+    """General English unit/menu hub — driven by backend/english_units.json."""
+    cfg = _load_english_units_config()
+    units = list(cfg.get("units") or [])
+    units.sort(key=lambda u: int(u.get("order") or 0))
+    counts = db.get_topic_question_counts("English")
+
+    out: List[EnglishUnitResponse] = []
+    for u in units:
+        menus_cfg = list(u.get("menus") or [])
+        menus_cfg.sort(key=lambda m: int(m.get("order") or 0))
+        menus: List[EnglishMenuResponse] = []
+        unit_q = 0
+        for m in menus_cfg:
+            groups_cfg = list(m.get("groups") or [])
+            groups_cfg.sort(key=lambda g: int(g.get("order") or 0))
+            groups: List[EnglishGroupResponse] = []
+            group_topics: List[str] = []
+            menu_q = 0
+            for g in groups_cfg:
+                g_topics = [str(t).strip() for t in (g.get("topics") or []) if str(t).strip()]
+                group_topics.extend(g_topics)
+                live_g = [t for t in g_topics if t in counts]
+                g_q = sum(counts.get(t, 0) for t in live_g)
+                menu_q += g_q
+                groups.append(
+                    EnglishGroupResponse(
+                        id=str(g.get("id") or ""),
+                        order=int(g.get("order") or 0),
+                        name_en=str(g.get("name_en") or g.get("id") or ""),
+                        name_ta=str(g.get("name_ta") or ""),
+                        subtitle_en=str(g.get("subtitle_en") or ""),
+                        subtitle_ta=str(g.get("subtitle_ta") or ""),
+                        accent=str(g.get("accent") or "#0D9488"),
+                        icon=str(g.get("icon") or "schedule_outlined"),
+                        topics=g_topics,
+                        topic_count=len(live_g) if counts else len(g_topics),
+                        questions_count=g_q,
+                    )
+                )
+
+            topics = [str(t).strip() for t in (m.get("topics") or []) if str(t).strip()]
+            # Keep topics empty when nested groups exist — clients must open a group.
+            if groups:
+                topics = []
+            elif not topics and group_topics:
+                topics = list(dict.fromkeys(group_topics))  # preserve order, unique
+            live_topics = [t for t in topics if t in counts]
+            # topic_count for grouped menus = number of groups (menus under Tenses)
+            if groups:
+                topic_count = len(groups)
+            else:
+                topic_count = len(live_topics) if counts else len(topics)
+            q_total = sum(counts.get(t, 0) for t in live_topics) if not groups else menu_q
+            unit_q += q_total
+            menus.append(
+                EnglishMenuResponse(
+                    id=str(m.get("id") or ""),
+                    order=int(m.get("order") or 0),
+                    name_en=str(m.get("name_en") or m.get("id") or ""),
+                    name_ta=str(m.get("name_ta") or ""),
+                    subtitle_en=str(m.get("subtitle_en") or ""),
+                    subtitle_ta=str(m.get("subtitle_ta") or ""),
+                    accent=str(m.get("accent") or "#0891B2"),
+                    icon=str(m.get("icon") or "category_outlined"),
+                    topics=topics,
+                    groups=groups,
+                    topic_count=topic_count,
+                    questions_count=q_total,
+                    group_count=len(groups),
+                )
+            )
+        out.append(
+            EnglishUnitResponse(
+                id=str(u.get("id") or ""),
+                order=int(u.get("order") or 0),
+                name_en=str(u.get("name_en") or u.get("id") or ""),
+                name_ta=str(u.get("name_ta") or ""),
+                subtitle_en=str(u.get("subtitle_en") or ""),
+                subtitle_ta=str(u.get("subtitle_ta") or ""),
+                accent=str(u.get("accent") or "#06B6D4"),
+                icon=str(u.get("icon") or "translate_outlined"),
+                menus=menus,
+                menu_count=len(menus),
+                questions_count=unit_q,
+            )
+        )
+    return out
+
+
 @app.get("/api/syllabus/{subject}", response_model=List[TopicResponse])
-def get_syllabus(subject: str, unit: Optional[str] = Query(None)):
+def get_syllabus(
+    subject: str,
+    unit: Optional[str] = Query(None),
+    menu: Optional[str] = Query(None),
+    group: Optional[str] = Query(None),
+):
     topics = db.get_topics_for_subject(subject)
     allowed = None
+    topic_order: List[str] = []
     if subject == "Tamil" and unit:
         cfg = _load_tamil_units_config()
         for u in cfg.get("units") or []:
             if str(u.get("id")) == unit:
-                allowed = set(str(t).strip() for t in (u.get("topics") or []) if str(t).strip())
+                topic_order = [
+                    str(t).strip() for t in (u.get("topics") or []) if str(t).strip()
+                ]
+                allowed = set(topic_order)
+                break
+    if subject == "English" and (menu or group):
+        cfg = _load_english_units_config()
+        for u in cfg.get("units") or []:
+            for m in u.get("menus") or []:
+                if menu and str(m.get("id")) != menu:
+                    continue
+                if group:
+                    for g in m.get("groups") or []:
+                        if str(g.get("id")) == group:
+                            topic_order = [
+                                str(t).strip() for t in (g.get("topics") or []) if str(t).strip()
+                            ]
+                            allowed = set(topic_order)
+                            break
+                    if allowed is not None:
+                        break
+                else:
+                    # Nested groups (Tenses): require group= — do not flatten all forms.
+                    groups_cfg = list(m.get("groups") or [])
+                    if groups_cfg:
+                        topic_order = []
+                        allowed = set()
+                        break
+                    # Flat menu topics
+                    topic_order = [
+                        str(t).strip() for t in (m.get("topics") or []) if str(t).strip()
+                    ]
+                    allowed = set(topic_order)
+                    break
+            if allowed is not None:
                 break
     response = []
     for topic in topics:
-        # Prefer per-topic mapping stored in Postgres; fall back to JSON file.
         topic_name = topic["name"] if isinstance(topic, dict) else topic
         if allowed is not None and topic_name not in allowed:
             continue
@@ -235,6 +434,9 @@ def get_syllabus(subject: str, unit: Optional[str] = Query(None)):
         if not mapping:
             mapping = db.textbook_mappings.get(topic_name)
         response.append(TopicResponse(name=topic_name, textbook=mapping))
+    if subject == "English" and topic_order:
+        rank = {name: i for i, name in enumerate(topic_order)}
+        response.sort(key=lambda t: rank.get(t.name, 10_000))
     return response
 
 @app.get("/api/questions", response_model=List[QuestionModel])
@@ -386,16 +588,40 @@ def log_event(req: EventLogRequest):
 class DeviceInfoRequest(BaseModel):
     user_id: str
     display_name: Optional[str] = None
+    phone_number: Optional[str] = None
+    whatsapp_enabled: Optional[bool] = None
 
 @app.post("/api/users/device-info")
 def update_device_info(req: DeviceInfoRequest):
-    # Used only for optional profile fields (e.g. display_name after Google Sign-In).
+    # Optional profile fields after sign-in (display name, WhatsApp phone).
     # Intentionally does NOT collect platform/OS/app version or IP-derived country.
     db.update_user_device_info(
         req.user_id,
         display_name=req.display_name,
+        phone_number=req.phone_number,
+        whatsapp_enabled=req.whatsapp_enabled,
     )
     return {"status": "ok"}
+
+
+class WhatsAppNumberRequest(BaseModel):
+    user_id: str
+    phone_number: str
+
+@app.post("/api/users/whatsapp")
+def save_whatsapp_number(req: WhatsAppNumberRequest):
+    """Save / update a user's WhatsApp mobile number (from post-login screen)."""
+    result = db.save_user_whatsapp(req.user_id, req.phone_number)
+    if not result:
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid WhatsApp number. Enter a valid 10-digit Indian mobile.",
+        )
+    return {
+        "status": "ok",
+        "phone_number": result.get("phone_number"),
+        "whatsapp_enabled": result.get("whatsapp_enabled", True),
+    }
 
 
 # =============================================================================

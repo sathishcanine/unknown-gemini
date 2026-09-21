@@ -4,6 +4,8 @@ import 'package:provider/provider.dart';
 import '../models/history.dart';
 import '../models/question.dart';
 import '../providers/app_state.dart';
+import '../widgets/question_text.dart';
+import '../services/api_service.dart';
 
 class ScoreRingPainter extends CustomPainter {
   final double scoreFraction;
@@ -346,24 +348,45 @@ class _ResultsScreenState extends State<ResultsScreen> {
                             ],
                           ),
                           const SizedBox(height: 12),
-                          Text(
-                            q.questionEn.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), ''),
+                          QuestionText(
+                            appState.displayQuestionText(q),
                             style: const TextStyle(
                               fontFamily: 'Inter',
                               fontSize: 14,
                               color: Colors.white,
                             ),
                           ),
-                          if (q.questionTa.isNotEmpty && q.questionTa != q.questionEn) ...[
+                          if (appState.showBilingualQuestions &&
+                              q.questionTa.isNotEmpty &&
+                              q.questionTa != q.questionEn) ...[
                             const SizedBox(height: 8),
-                            Text(
-                              q.questionTa.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), ''),
+                            QuestionText(
+                              q.questionTa,
                               style: const TextStyle(
                                 fontFamily: 'Inter',
                                 fontSize: 13,
                                 color: Colors.grey,
                               ),
                             ),
+                          ],
+                          if (q.imageUrls.isNotEmpty) ...[
+                            const SizedBox(height: 12),
+                            ...q.imageUrls.map((url) {
+                              final resolved = url.startsWith('http')
+                                  ? url
+                                  : '${ApiConfig.baseUrl}$url';
+                              return Padding(
+                                padding: const EdgeInsets.only(bottom: 8),
+                                child: ClipRRect(
+                                  borderRadius: BorderRadius.circular(8),
+                                  child: Image.network(
+                                    resolved,
+                                    fit: BoxFit.contain,
+                                    errorBuilder: (_, __, ___) => const SizedBox.shrink(),
+                                  ),
+                                ),
+                              );
+                            }),
                           ],
                           const SizedBox(height: 16),
                           _buildReviewOptionStatus(
@@ -389,7 +412,7 @@ class _ResultsScreenState extends State<ResultsScreen> {
                           ),
                           const SizedBox(height: 4),
                           Text(
-                            q.explanation,
+                            appState.displayExplanationText(q),
                             style: const TextStyle(
                               fontFamily: 'Inter',
                               fontSize: 13,
@@ -397,10 +420,13 @@ class _ResultsScreenState extends State<ResultsScreen> {
                               color: Colors.white70,
                             ),
                           ),
-                          if (q.explanationTa.isNotEmpty && q.explanationTa != q.explanation) ...[
+                          if (appState.showBilingualQuestions &&
+                              q.explanationTa.isNotEmpty &&
+                              q.explanationTa != q.explanation) ...[
                             const SizedBox(height: 8),
                             Text(
                               q.explanationTa,
+
                               style: const TextStyle(
                                 fontFamily: 'Inter',
                                 fontSize: 12,

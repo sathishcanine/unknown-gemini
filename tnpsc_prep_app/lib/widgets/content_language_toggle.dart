@@ -12,6 +12,9 @@ class ContentLanguageToggle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final appState = Provider.of<AppState>(context);
+    if (!appState.showContentLanguageToggle) {
+      return const SizedBox.shrink();
+    }
     final isDark = appState.isDarkMode;
     final label = appState.isTamilContent ? 'English' : 'தமிழ்';
 

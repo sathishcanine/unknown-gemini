@@ -42,6 +42,8 @@ class Question {
   final String batch;
   final String group;
   final String sourceFact;
+  final List<String> imageUrls;
+  final List<String> tags;
 
   Question({
     this.id,
@@ -59,10 +61,18 @@ class Question {
     required this.batch,
     required this.group,
     required this.sourceFact,
+    this.imageUrls = const [],
+    this.tags = const [],
   });
+
+  bool get hasImage => imageUrls.isNotEmpty;
+  bool get isPyq =>
+      type.toLowerCase() == 'pyq' || tags.map((t) => t.toLowerCase()).contains('pyq');
 
   factory Question.fromJson(Map<String, dynamic> json) {
     var rawOpts = json['options'] as List? ?? [];
+    final rawImages = json['image_urls'] as List? ?? [];
+    final rawTags = json['tags'] as List? ?? [];
     return Question(
       id: json['id'] != null ? int.tryParse(json['id'].toString()) : null,
       subject: json['subject'] ?? '',
@@ -79,6 +89,8 @@ class Question {
       batch: json['batch'] ?? '',
       group: json['group'] ?? '',
       sourceFact: json['source_fact'] ?? '',
+      imageUrls: rawImages.map((e) => e.toString()).where((e) => e.isNotEmpty).toList(),
+      tags: rawTags.map((e) => e.toString()).where((e) => e.isNotEmpty).toList(),
     );
   }
 
@@ -99,6 +111,8 @@ class Question {
       'batch': batch,
       'group': group,
       'source_fact': sourceFact,
+      'image_urls': imageUrls,
+      'tags': tags,
     };
   }
 }

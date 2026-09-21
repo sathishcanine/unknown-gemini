@@ -36,11 +36,18 @@ class ApiService {
     }
   }
 
-  Future<List<Map<String, dynamic>>> getSyllabus(String subject, {String? unit}) async {
+  Future<List<Map<String, dynamic>>> getSyllabus(
+    String subject, {
+    String? unit,
+    String? menu,
+    String? group,
+  }) async {
     final encodedSubject = Uri.encodeComponent(subject);
     final uri = Uri.parse('$_baseUrl/api/syllabus/$encodedSubject').replace(
       queryParameters: {
         if (unit != null && unit.isNotEmpty) 'unit': unit,
+        if (menu != null && menu.isNotEmpty) 'menu': menu,
+        if (group != null && group.isNotEmpty) 'group': group,
       },
     );
     final response = await http.get(uri, headers: _headers);
@@ -63,6 +70,20 @@ class ApiService {
       return data.cast<Map<String, dynamic>>();
     } else {
       throw Exception('Failed to load Tamil units: ${response.statusCode}');
+    }
+  }
+
+  /// General English units/menus — server-driven (`backend/english_units.json`).
+  Future<List<Map<String, dynamic>>> getEnglishUnits() async {
+    final response = await http.get(
+      Uri.parse('$_baseUrl/api/english/units'),
+      headers: _headers,
+    );
+    if (response.statusCode == 200) {
+      List data = jsonDecode(utf8.decode(response.bodyBytes));
+      return data.cast<Map<String, dynamic>>();
+    } else {
+      throw Exception('Failed to load English units: ${response.statusCode}');
     }
   }
 
@@ -207,6 +228,8 @@ class ApiService {
   Future<void> updateDeviceInfo({
     required String userId,
     String? displayName,
+    String? phoneNumber,
+    bool? whatsappEnabled,
   }) async {
     try {
       await http.post(
@@ -215,10 +238,48 @@ class ApiService {
         body: jsonEncode({
           'user_id': userId,
           if (displayName != null) 'display_name': displayName,
+          if (phoneNumber != null) 'phone_number': phoneNumber,
+          if (whatsappEnabled != null) 'whatsapp_enabled': whatsappEnabled,
         }),
       );
     } catch (e) {
       debugPrint('updateDeviceInfo failed silently: $e');
+    }
+  }
+
+  /// Fire-and-forget WhatsApp number sync. Never throws to callers.
+  Future<void> saveWhatsAppNumber({
+    required String userId,
+    required String phoneNumber,
+  }) async {
+    try {
+      final res = await http
+          .post(
+            Uri.parse('$_baseUrl/api/users/whatsapp'),
+            headers: _headers,
+            body: jsonEncode({
+              'user_id': userId,
+              'phone_number': phoneNumber,
+            }),
+          )
+          .timeout(const Duration(seconds: 12));
+      if (res.statusCode >= 200 && res.statusCode < 300) {
+        return;
+      }
+      // Older backends may not have /whatsapp yet — fall back.
+      debugPrint('saveWhatsAppNumber HTTP ${res.statusCode}; falling back to device-info');
+      await updateDeviceInfo(
+        userId: userId,
+        phoneNumber: phoneNumber,
+        whatsappEnabled: true,
+      );
+    } catch (e) {
+      debugPrint('saveWhatsAppNumber primary failed ($e); falling back to device-info');
+      await updateDeviceInfo(
+        userId: userId,
+        phoneNumber: phoneNumber,
+        whatsappEnabled: true,
+      );
     }
   }
 }

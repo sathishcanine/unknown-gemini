@@ -489,8 +489,22 @@ class _HomeScreenState extends State<HomeScreen> {
     Color cardBg,
     Color mutedColor,
   ) {
-    final isUnits = appState.tamilHubLevel == 'units';
-    final headerTitle = isUnits ? 'பொதுத் தமிழ்' : appState.hubLabel('Tamil & English');
+    final level = appState.tamilHubLevel;
+    late final String headerTitle;
+    if (level == 'units') {
+      headerTitle = 'பொதுத் தமிழ்';
+    } else if (level == 'english_units') {
+      headerTitle = 'General English';
+    } else if (level == 'english_menus') {
+      final unitName = appState.englishUnitDisplayName(appState.englishUnitId);
+      headerTitle = unitName.isNotEmpty ? unitName : 'Unit I — Grammar';
+    } else if (level == 'english_groups') {
+      final menu = appState.selectedEnglishMenu;
+      final name = (menu?['name_en'] ?? menu?['name_ta'] ?? 'Tenses').toString();
+      headerTitle = name;
+    } else {
+      headerTitle = appState.hubLabel('Tamil & English');
+    }
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -516,8 +530,14 @@ class _HomeScreenState extends State<HomeScreen> {
           ],
         ),
         const SizedBox(height: 12),
-        if (isUnits)
+        if (level == 'units')
           _buildGeneralTamilUnits(appState, isDark, textColor, cardBg, mutedColor)
+        else if (level == 'english_units')
+          _buildGeneralEnglishUnits(appState, isDark, textColor, cardBg, mutedColor)
+        else if (level == 'english_menus')
+          _buildGeneralEnglishMenus(appState, isDark, textColor, cardBg, mutedColor)
+        else if (level == 'english_groups')
+          _buildGeneralEnglishGroups(appState, isDark, textColor, cardBg, mutedColor)
         else
           _buildTamilEnglishLanguages(appState, isDark, textColor, cardBg, mutedColor),
       ],
@@ -546,22 +566,226 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         _buildHubListTile(
           title: 'General English',
-          subtitle: appState.hubLabel('Coming soon'),
+          subtitle: 'Units',
           icon: Icons.translate_outlined,
           accent: const Color(0xFF06B6D4),
           isDark: isDark,
           textColor: textColor,
           cardBg: cardBg,
           mutedColor: mutedColor,
-          onTap: () {
-            ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(
-                content: Text(appState.hubLabel('Coming soon')),
-                behavior: SnackBarBehavior.floating,
-              ),
-            );
-          },
+          onTap: () => appState.openGeneralEnglishUnits(),
         ),
+      ],
+    );
+  }
+
+  Widget _buildGeneralEnglishUnits(
+    AppState appState,
+    bool isDark,
+    Color textColor,
+    Color cardBg,
+    Color mutedColor,
+  ) {
+    if (appState.loading && appState.englishUnits.isEmpty) {
+      return const Padding(
+        padding: EdgeInsets.symmetric(vertical: 24),
+        child: Center(child: CircularProgressIndicator()),
+      );
+    }
+    if (appState.englishUnits.isEmpty) {
+      return Padding(
+        padding: const EdgeInsets.symmetric(vertical: 16),
+        child: Text(
+          'No units available. Try again.',
+          style: TextStyle(color: mutedColor, fontFamily: 'Outfit'),
+        ),
+      );
+    }
+
+    final defaultAccents = <Color>[
+      const Color(0xFF06B6D4),
+      const Color(0xFF0891B2),
+      const Color(0xFF3B82F6),
+    ];
+    final iconMap = <String, IconData>{
+      'translate_outlined': Icons.translate_outlined,
+      'menu_book_outlined': Icons.menu_book_outlined,
+      'edit_note_outlined': Icons.edit_note_outlined,
+      'category_outlined': Icons.category_outlined,
+    };
+
+    return Column(
+      children: [
+        for (var i = 0; i < appState.englishUnits.length; i++)
+          Builder(
+            builder: (_) {
+              final unit = appState.englishUnits[i];
+              final id = (unit['id'] ?? '').toString();
+              final title = (unit['name_en'] ?? unit['name_ta'] ?? id).toString();
+              final subtitle = appState.englishHubSubtitle(unit);
+              final accentStr = (unit['accent'] ?? '').toString();
+              Color accent = defaultAccents[i % defaultAccents.length];
+              if (accentStr.startsWith('#') && accentStr.length >= 7) {
+                try {
+                  accent = Color(int.parse(accentStr.substring(1, 7), radix: 16) + 0xFF000000);
+                } catch (_) {}
+              }
+              final iconKey = (unit['icon'] ?? '').toString();
+              final icon = iconMap[iconKey] ?? Icons.translate_outlined;
+              return _buildHubListTile(
+                title: title,
+                subtitle: subtitle,
+                icon: icon,
+                accent: accent,
+                isDark: isDark,
+                textColor: textColor,
+                cardBg: cardBg,
+                mutedColor: mutedColor,
+                onTap: () => appState.openEnglishUnitMenus(id),
+              );
+            },
+          ),
+      ],
+    );
+  }
+
+  Widget _buildGeneralEnglishMenus(
+    AppState appState,
+    bool isDark,
+    Color textColor,
+    Color cardBg,
+    Color mutedColor,
+  ) {
+    final unit = appState.selectedEnglishUnit;
+    final menus = (unit?['menus'] is List)
+        ? List<Map<String, dynamic>>.from(
+            (unit!['menus'] as List).whereType<Map>().map((e) => Map<String, dynamic>.from(e)),
+          )
+        : <Map<String, dynamic>>[];
+
+    if (menus.isEmpty) {
+      return Padding(
+        padding: const EdgeInsets.symmetric(vertical: 16),
+        child: Text(
+          'No grammar menus available yet.',
+          style: TextStyle(color: mutedColor, fontFamily: 'Outfit'),
+        ),
+      );
+    }
+
+    final iconMap = <String, IconData>{
+      'category_outlined': Icons.category_outlined,
+      'menu_book_outlined': Icons.menu_book_outlined,
+      'translate_outlined': Icons.translate_outlined,
+      'edit_note_outlined': Icons.edit_note_outlined,
+      'schedule_outlined': Icons.schedule_outlined,
+    };
+
+    return Column(
+      children: [
+        for (final menu in menus)
+          Builder(
+            builder: (_) {
+              final id = (menu['id'] ?? '').toString();
+              final title = (menu['name_en'] ?? menu['name_ta'] ?? id).toString();
+              final subtitle = appState.englishHubSubtitle(menu);
+              final accentStr = (menu['accent'] ?? '').toString();
+              Color accent = const Color(0xFF0891B2);
+              if (accentStr.startsWith('#') && accentStr.length >= 7) {
+                try {
+                  accent = Color(int.parse(accentStr.substring(1, 7), radix: 16) + 0xFF000000);
+                } catch (_) {}
+              }
+              final iconKey = (menu['icon'] ?? '').toString();
+              final icon = iconMap[iconKey] ?? Icons.category_outlined;
+              final groupCount = menu['group_count'];
+              final groups = menu['groups'];
+              final hasGroups = (groups is List && groups.isNotEmpty) ||
+                  (groupCount is num && groupCount > 0);
+              return _buildHubListTile(
+                title: title,
+                subtitle: subtitle.isNotEmpty
+                    ? subtitle
+                    : (hasGroups
+                        ? '${groupCount ?? (groups as List).length} menus · ${menu['questions_count'] ?? 0} Q'
+                        : '${menu['topic_count'] ?? 0} topics · ${menu['questions_count'] ?? 0} Q'),
+                icon: icon,
+                accent: accent,
+                isDark: isDark,
+                textColor: textColor,
+                cardBg: cardBg,
+                mutedColor: mutedColor,
+                onTap: () => appState.selectEnglishMenu(id),
+              );
+            },
+          ),
+      ],
+    );
+  }
+
+  Widget _buildGeneralEnglishGroups(
+    AppState appState,
+    bool isDark,
+    Color textColor,
+    Color cardBg,
+    Color mutedColor,
+  ) {
+    final menu = appState.selectedEnglishMenu;
+    final groups = (menu?['groups'] is List)
+        ? List<Map<String, dynamic>>.from(
+            (menu!['groups'] as List).whereType<Map>().map((e) => Map<String, dynamic>.from(e)),
+          )
+        : <Map<String, dynamic>>[];
+
+    if (groups.isEmpty) {
+      return Padding(
+        padding: const EdgeInsets.symmetric(vertical: 16),
+        child: Text(
+          'No tense groups available yet.',
+          style: TextStyle(color: mutedColor, fontFamily: 'Outfit'),
+        ),
+      );
+    }
+
+    final iconMap = <String, IconData>{
+      'schedule_outlined': Icons.schedule_outlined,
+      'category_outlined': Icons.category_outlined,
+      'edit_note_outlined': Icons.edit_note_outlined,
+      'menu_book_outlined': Icons.menu_book_outlined,
+    };
+
+    return Column(
+      children: [
+        for (final group in groups)
+          Builder(
+            builder: (_) {
+              final id = (group['id'] ?? '').toString();
+              final title = (group['name_en'] ?? group['name_ta'] ?? id).toString();
+              final subtitle = appState.englishHubSubtitle(group);
+              final accentStr = (group['accent'] ?? '').toString();
+              Color accent = const Color(0xFF4F46E5);
+              if (accentStr.startsWith('#') && accentStr.length >= 7) {
+                try {
+                  accent = Color(int.parse(accentStr.substring(1, 7), radix: 16) + 0xFF000000);
+                } catch (_) {}
+              }
+              final iconKey = (group['icon'] ?? '').toString();
+              final icon = iconMap[iconKey] ?? Icons.schedule_outlined;
+              return _buildHubListTile(
+                title: title,
+                subtitle: subtitle.isNotEmpty
+                    ? subtitle
+                    : '${group['topic_count'] ?? 0} topics · ${group['questions_count'] ?? 0} Q',
+                icon: icon,
+                accent: accent,
+                isDark: isDark,
+                textColor: textColor,
+                cardBg: cardBg,
+                mutedColor: mutedColor,
+                onTap: () => appState.selectEnglishGroup(id),
+              );
+            },
+          ),
       ],
     );
   }
@@ -738,7 +962,8 @@ class _HomeScreenState extends State<HomeScreen> {
             sub['id'] != 'Current Affairs' &&
             sub['id'] != 'TVK' &&
             sub['id'] != 'CGS' &&
-            sub['id'] != 'Tamil')
+            sub['id'] != 'Tamil' &&
+            sub['id'] != 'English')
         .toList();
 
     if (gsSubjects.isEmpty) {
@@ -772,7 +997,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 borderRadius: BorderRadius.circular(12),
               ),
               child: Text(
-                sub['icon'],
+                _subjectEmoji(sub['icon']?.toString()),
                 style: const TextStyle(fontSize: 22),
               ),
             ),
@@ -927,5 +1152,19 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       ],
     );
+  }
+
+  /// Subject list expects emoji icons. Map leftover Material icon names / blank.
+  String _subjectEmoji(String? icon) {
+    final raw = (icon ?? '').trim();
+    if (raw.isEmpty) return '📚';
+    const materialToEmoji = {
+      'calculate': '🧮',
+      'menu_book': '📚',
+      'menu_book_outlined': '📚',
+      'science': '🔬',
+      'history_edu': '📜',
+    };
+    return materialToEmoji[raw] ?? raw;
   }
 }

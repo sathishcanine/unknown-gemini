@@ -3,6 +3,8 @@ import 'package:provider/provider.dart';
 
 import '../providers/app_state.dart';
 import '../models/question.dart';
+import '../widgets/question_text.dart';
+import '../services/api_service.dart';
 
 class QuizScreen extends StatelessWidget {
   const QuizScreen({Key? key}) : super(key: key);
@@ -22,7 +24,7 @@ class QuizScreen extends StatelessWidget {
     final isLast = appState.currentQuestionIndex == appState.quizQuestions.length - 1;
 
     // Format timer display
-    String timerText = 'Untimed';
+    String timerText = 'Learn Mode';
     if (appState.isTimed) {
       final mins = (appState.remainingSeconds ~/ 60).toString().padLeft(2, '0');
       final secs = (appState.remainingSeconds % 60).toString().padLeft(2, '0');
@@ -130,13 +132,62 @@ class QuizScreen extends StatelessWidget {
               padding: const EdgeInsets.all(16.0),
               child: Column(
                 children: [
-                  // English Question Block
-                  _buildQuestionCard(currentQuestion.questionEn, 'EN', const Color(0xFF3B82F6)),
-                  const SizedBox(height: 16),
-                  
-                  // Tamil Question Block
-                  if (currentQuestion.questionTa.isNotEmpty)
-                    _buildQuestionCard(currentQuestion.questionTa, 'TA', const Color(0xFF10B981)),
+                  // Monolingual for English / Tamil papers; bilingual for GS-style subjects.
+                  if (appState.isTamilSection ||
+                      appState.activeSubject == 'Tamil') ...[
+                    _buildQuestionCard(
+                      appState.displayQuestionText(currentQuestion),
+                      'TA',
+                      const Color(0xFF10B981),
+                    ),
+                  ] else ...[
+                    _buildQuestionCard(
+                      appState.displayQuestionText(currentQuestion),
+                      'EN',
+                      const Color(0xFF3B82F6),
+                    ),
+                    if (appState.showBilingualQuestions &&
+                        currentQuestion.questionTa.isNotEmpty &&
+                        currentQuestion.questionTa != currentQuestion.questionEn) ...[
+                      const SizedBox(height: 16),
+                      _buildQuestionCard(
+                        currentQuestion.questionTa,
+                        'TA',
+                        const Color(0xFF10B981),
+                      ),
+                    ],
+                  ],
+                  if (currentQuestion.imageUrls.isNotEmpty) ...[
+                    const SizedBox(height: 16),
+                    ...currentQuestion.imageUrls.map((url) {
+                      final resolved = url.startsWith('http')
+                          ? url
+                          : '${ApiConfig.baseUrl}$url';
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: 12),
+                        child: ClipRRect(
+                          borderRadius: BorderRadius.circular(12),
+                          child: Container(
+                            width: double.infinity,
+                            color: const Color(0xFF1E293B),
+                            padding: const EdgeInsets.all(8),
+                            child: Image.network(
+                              resolved,
+                              fit: BoxFit.contain,
+                              errorBuilder: (_, __, ___) => const Padding(
+                                padding: EdgeInsets.all(24),
+                                child: Text(
+                                  'Figure unavailable',
+                                  textAlign: TextAlign.center,
+                                  style: TextStyle(color: Colors.grey),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      );
+                    }),
+                  ],
                   const SizedBox(height: 24),
 
                   // Option selections
@@ -155,7 +206,13 @@ class QuizScreen extends StatelessWidget {
                   const SizedBox(height: 8),
                   ...currentQuestion.options.map((opt) {
                     final isSelected = appState.selectedAnswers[appState.currentQuestionIndex] == opt.key;
-                    return _buildOptionTile(opt, isSelected, appState);
+                    return _QuizOptionTile(
+                      key: ValueKey('${appState.currentQuestionIndex}-${opt.key}'),
+                      option: opt,
+                      isSelected: isSelected,
+                      question: currentQuestion,
+                      appState: appState,
+                    );
                   }).toList(),
                 ],
               ),
@@ -309,77 +366,8 @@ class QuizScreen extends StatelessWidget {
         ],
       );
     } else {
-      String clean = text.replaceAll('<br>', '\n').replaceAll(RegExp(r'<[^>]*>'), '');
-      return Text(
-        clean,
-        style: const TextStyle(
-          fontFamily: 'Inter',
-          fontSize: 14,
-          height: 1.4,
-          color: Colors.white,
-        ),
-      );
+      return QuestionText(text);
     }
-  }
-
-  Widget _buildOptionTile(Option opt, bool isSelected, AppState appState) {
-    return Container(
-      margin: const EdgeInsets.only(bottom: 12),
-      decoration: BoxDecoration(
-        color: isSelected ? const Color(0x1F3B82F6) : const Color(0xFF131A2A),
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(
-          color: isSelected ? const Color(0xFF3B82F6) : Colors.white.withOpacity(0.04),
-          width: isSelected ? 1.5 : 1.0,
-        ),
-      ),
-      child: ListTile(
-        onTap: () => appState.selectOption(opt.key),
-        leading: Container(
-          width: 32,
-          height: 32,
-          decoration: BoxDecoration(
-            color: isSelected ? const Color(0xFF3B82F6) : const Color(0xFF1E293B),
-            shape: BoxShape.circle,
-          ),
-          child: Center(
-            child: Text(
-              opt.key,
-              style: TextStyle(
-                fontFamily: 'Outfit',
-                fontSize: 13,
-                fontWeight: FontWeight.bold,
-                color: isSelected ? Colors.white : Colors.grey,
-              ),
-            ),
-          ),
-        ),
-        title: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              opt.textEn,
-              style: TextStyle(
-                fontFamily: 'Inter',
-                fontSize: 13,
-                color: isSelected ? Colors.white : Colors.white70,
-              ),
-            ),
-            if (opt.textTa.isNotEmpty && opt.textTa != opt.textEn) ...[
-              const SizedBox(height: 4),
-              Text(
-                opt.textTa,
-                style: TextStyle(
-                  fontFamily: 'Inter',
-                  fontSize: 12,
-                  color: isSelected ? Colors.white60 : Colors.grey,
-                ),
-              ),
-            ],
-          ],
-        ),
-      ),
-    );
   }
 
   void _showQuitConfirmation(BuildContext context, AppState appState) {
@@ -411,6 +399,227 @@ class QuizScreen extends StatelessWidget {
           ],
         );
       },
+    );
+  }
+}
+
+class _QuizOptionTile extends StatefulWidget {
+  final Option option;
+  final bool isSelected;
+  final Question question;
+  final AppState appState;
+
+  const _QuizOptionTile({
+    Key? key,
+    required this.option,
+    required this.isSelected,
+    required this.question,
+    required this.appState,
+  }) : super(key: key);
+
+  @override
+  State<_QuizOptionTile> createState() => _QuizOptionTileState();
+}
+
+class _QuizOptionTileState extends State<_QuizOptionTile>
+    with SingleTickerProviderStateMixin {
+  late final AnimationController _controller;
+  late final Animation<double> _scale;
+  late final Animation<double> _shake;
+  bool _wasShowingFeedback = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _controller = AnimationController(
+      vsync: this,
+      duration: const Duration(milliseconds: 520),
+    );
+    _scale = TweenSequence<double>([
+      TweenSequenceItem(tween: Tween(begin: 1.0, end: 1.06), weight: 35),
+      TweenSequenceItem(tween: Tween(begin: 1.06, end: 0.97), weight: 30),
+      TweenSequenceItem(tween: Tween(begin: 0.97, end: 1.0), weight: 35),
+    ]).animate(CurvedAnimation(parent: _controller, curve: Curves.easeOutCubic));
+
+    _shake = TweenSequence<double>([
+      TweenSequenceItem(tween: Tween(begin: 0.0, end: -8.0), weight: 1),
+      TweenSequenceItem(tween: Tween(begin: -8.0, end: 8.0), weight: 2),
+      TweenSequenceItem(tween: Tween(begin: 8.0, end: -5.0), weight: 2),
+      TweenSequenceItem(tween: Tween(begin: -5.0, end: 5.0), weight: 2),
+      TweenSequenceItem(tween: Tween(begin: 5.0, end: 0.0), weight: 1),
+    ]).animate(CurvedAnimation(parent: _controller, curve: Curves.easeInOut));
+  }
+
+  @override
+  void didUpdateWidget(covariant _QuizOptionTile oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    final showFeedback = _shouldShowFeedback;
+    if (showFeedback && !_wasShowingFeedback && (_isWrongSelection || _isCorrectReveal)) {
+      _controller.forward(from: 0);
+    }
+    _wasShowingFeedback = showFeedback;
+  }
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  bool get _isLearnMode => !widget.appState.isTimed;
+
+  bool get _hasAnswered =>
+      widget.appState.selectedAnswers.containsKey(widget.appState.currentQuestionIndex);
+
+  bool get _shouldShowFeedback => _isLearnMode && _hasAnswered;
+
+  bool get _isCorrectOption => widget.option.key == widget.question.correctOption;
+
+  bool get _isWrongSelection =>
+      _shouldShowFeedback && widget.isSelected && !_isCorrectOption;
+
+  bool get _isCorrectReveal => _shouldShowFeedback && _isCorrectOption;
+
+  @override
+  Widget build(BuildContext context) {
+    Color backgroundColor =
+        widget.isSelected ? const Color(0x1F3B82F6) : const Color(0xFF131A2A);
+    Color borderColor =
+        widget.isSelected ? const Color(0xFF3B82F6) : Colors.white.withOpacity(0.04);
+    Color badgeColor =
+        widget.isSelected ? const Color(0xFF3B82F6) : const Color(0xFF1E293B);
+
+    if (_isWrongSelection) {
+      backgroundColor = const Color(0x33EF4444);
+      borderColor = const Color(0xFFEF4444);
+      badgeColor = const Color(0xFFEF4444);
+    } else if (_isCorrectReveal) {
+      backgroundColor = const Color(0x3310B981);
+      borderColor = const Color(0xFF10B981);
+      badgeColor = const Color(0xFF10B981);
+    }
+
+    final highlightActive = _isWrongSelection || _isCorrectReveal;
+
+    return AnimatedBuilder(
+      animation: _controller,
+      builder: (context, child) {
+        final dx = _isWrongSelection ? _shake.value : 0.0;
+        final scale = highlightActive ? _scale.value : 1.0;
+        return Transform.translate(
+          offset: Offset(dx, 0),
+          child: Transform.scale(
+            scale: scale,
+            child: child,
+          ),
+        );
+      },
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 380),
+        curve: Curves.easeOutCubic,
+        margin: const EdgeInsets.only(bottom: 12),
+        decoration: BoxDecoration(
+          color: backgroundColor,
+          borderRadius: BorderRadius.circular(24),
+          border: Border.all(
+            color: borderColor,
+            width: (widget.isSelected || highlightActive) ? 1.8 : 1.0,
+          ),
+          boxShadow: highlightActive
+              ? [
+                  BoxShadow(
+                    color: (_isWrongSelection
+                            ? const Color(0xFFEF4444)
+                            : const Color(0xFF10B981))
+                        .withOpacity(0.35),
+                    blurRadius: 14,
+                    spreadRadius: 0,
+                    offset: const Offset(0, 4),
+                  ),
+                ]
+              : null,
+        ),
+        child: ListTile(
+          onTap: () => widget.appState.selectOption(widget.option.key),
+          leading: AnimatedContainer(
+            duration: const Duration(milliseconds: 380),
+            curve: Curves.easeOutCubic,
+            width: 32,
+            height: 32,
+            decoration: BoxDecoration(
+              color: badgeColor,
+              shape: BoxShape.circle,
+            ),
+            child: Center(
+              child: AnimatedSwitcher(
+                duration: const Duration(milliseconds: 280),
+                switchInCurve: Curves.easeOutBack,
+                switchOutCurve: Curves.easeIn,
+                transitionBuilder: (child, animation) {
+                  return ScaleTransition(
+                    scale: animation,
+                    child: FadeTransition(opacity: animation, child: child),
+                  );
+                },
+                child: _isWrongSelection
+                    ? const Icon(
+                        Icons.close,
+                        key: ValueKey('wrong'),
+                        color: Colors.white,
+                        size: 18,
+                      )
+                    : _isCorrectReveal
+                        ? const Icon(
+                            Icons.check,
+                            key: ValueKey('correct'),
+                            color: Colors.white,
+                            size: 18,
+                          )
+                        : Text(
+                            widget.option.key,
+                            key: ValueKey('letter-${widget.option.key}'),
+                            style: TextStyle(
+                              fontFamily: 'Outfit',
+                              fontSize: 13,
+                              fontWeight: FontWeight.bold,
+                              color: widget.isSelected ? Colors.white : Colors.grey,
+                            ),
+                          ),
+              ),
+            ),
+          ),
+          title: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                widget.appState.displayOptionText(widget.option),
+                style: TextStyle(
+                  fontFamily: 'Inter',
+                  fontSize: 13,
+                  color: widget.isSelected || _isCorrectReveal
+                      ? Colors.white
+                      : Colors.white70,
+                ),
+              ),
+              if (widget.appState.showBilingualQuestions &&
+                  widget.option.textTa.isNotEmpty &&
+                  widget.option.textTa != widget.option.textEn) ...[
+                const SizedBox(height: 4),
+                Text(
+                  widget.option.textTa,
+                  style: TextStyle(
+                    fontFamily: 'Inter',
+                    fontSize: 12,
+                    color: widget.isSelected || _isCorrectReveal
+                        ? Colors.white60
+                        : Colors.grey,
+                  ),
+                ),
+              ],
+            ],
+          ),
+        ),
+      ),
     );
   }
 }

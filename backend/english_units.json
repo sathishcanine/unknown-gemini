@@ -1,0 +1,1539 @@
+{
+  "subject_id": "English",
+  "note": "General English hub is driven by this file. Menus may use flat topics or nested groups (e.g. Tenses).",
+  "units": [
+    {
+      "id": "Grammar",
+      "order": 1,
+      "name_en": "Unit I — Grammar",
+      "name_ta": "அலகு I — இலக்கணம்",
+      "subtitle_en": "Parts of Speech · Concord · Tenses · Voice · Sentences · Patterns · Tags · Punctuation · Speech · Degrees · Synthesis · Transformation",
+      "subtitle_ta": "பேச்சின் பகுதிகள் · பொருத்தம் · காலங்கள் · Voice · வாக்கியங்கள் · வடிவம் · தடல்கள் · நிறுத்தம் · பேச்சு · படிநிலை · தொகுப்பு · மாற்றம்",
+      "accent": "#06B6D4",
+      "icon": "translate_outlined",
+      "menus": [
+        {
+          "id": "parts_of_speech",
+          "order": 1,
+          "name_en": "Parts of Speech",
+          "name_ta": "பேச்சின் பகுதிகள்",
+          "subtitle_en": "8 parts + Mixed practice · 475 questions",
+          "subtitle_ta": "8 பகுதிகள் + கலப்பு பயிற்சி · 475 வினாக்கள்",
+          "accent": "#0891B2",
+          "icon": "category_outlined",
+          "topics": [
+            "Noun",
+            "Pronoun",
+            "Adjective",
+            "Verb",
+            "Adverb",
+            "Preposition",
+            "Conjunction",
+            "Interjection",
+            "Mixed Part of Speech Questions"
+          ]
+        },
+        {
+          "id": "concord",
+          "order": 2,
+          "name_en": "Concord",
+          "name_ta": "பொருத்தம்",
+          "subtitle_en": "Subject–Verb Agreement · 50 questions",
+          "subtitle_ta": "Subject–Verb Agreement · 50 வினாக்கள்",
+          "accent": "#0D9488",
+          "icon": "edit_note_outlined",
+          "topics": [
+            "Concord"
+          ]
+        },
+        {
+          "id": "tenses",
+          "order": 3,
+          "name_en": "Tenses",
+          "name_ta": "காலங்கள்",
+          "subtitle_en": "Present · Past · Future · Mixed",
+          "subtitle_ta": "நிகழ் · இறந்த · எதிர் · கலப்பு",
+          "accent": "#6366F1",
+          "icon": "schedule_outlined",
+          "groups": [
+            {
+              "id": "present_tense",
+              "order": 1,
+              "name_en": "Present Tense",
+              "name_ta": "நிகழ்காலம்",
+              "subtitle_en": "Simple · Continuous · Perfect · Perfect Continuous",
+              "accent": "#4F46E5",
+              "icon": "schedule_outlined",
+              "topics": [
+                "Simple Present",
+                "Present Continuous",
+                "Present Perfect",
+                "Present Perfect Continuous"
+              ]
+            },
+            {
+              "id": "past_tense",
+              "order": 2,
+              "name_en": "Past Tense",
+              "name_ta": "இறந்தகாலம்",
+              "subtitle_en": "Simple · Continuous · Perfect · Perfect Continuous",
+              "accent": "#7C3AED",
+              "icon": "schedule_outlined",
+              "topics": [
+                "Simple Past",
+                "Past Continuous",
+                "Past Perfect",
+                "Past Perfect Continuous"
+              ]
+            },
+            {
+              "id": "future_tense",
+              "order": 3,
+              "name_en": "Future Tense",
+              "name_ta": "எதிர்காலம்",
+              "subtitle_en": "Simple · Continuous · Perfect · Perfect Continuous",
+              "accent": "#2563EB",
+              "icon": "schedule_outlined",
+              "topics": [
+                "Simple Future",
+                "Future Continuous",
+                "Future Perfect",
+                "Future Perfect Continuous"
+              ]
+            },
+            {
+              "id": "mixed_tense_questions",
+              "order": 4,
+              "name_en": "Mixed Tense Questions",
+              "name_ta": "கலப்பு கால வினாக்கள்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Tense Questions"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "active_passive_voice",
+          "order": 4,
+          "name_en": "Active & Passive Voice",
+          "name_ta": "செய்வினை & செயப்பாட்டு வினை",
+          "subtitle_en": "5 topics + Mixed · 350 questions",
+          "subtitle_ta": "5 தலைப்புகள் + கலப்பு · 350 வினாக்கள்",
+          "accent": "#059669",
+          "icon": "swap_horiz_outlined",
+          "groups": [
+            {
+              "id": "active_to_passive",
+              "order": 1,
+              "name_en": "Active → Passive",
+              "name_ta": "செய்வினை → செயப்பாட்டு வினை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#10B981",
+              "icon": "arrow_forward_outlined",
+              "topics": [
+                "Active → Passive"
+              ]
+            },
+            {
+              "id": "passive_to_active",
+              "order": 2,
+              "name_en": "Passive → Active",
+              "name_ta": "செயப்பாட்டு வினை → செய்வினை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#14B8A6",
+              "icon": "arrow_back_outlined",
+              "topics": [
+                "Passive → Active"
+              ]
+            },
+            {
+              "id": "voice_different_tenses",
+              "order": 3,
+              "name_en": "Voice with Different Tenses",
+              "name_ta": "பல்வேறு காலங்களில் Voice",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0D9488",
+              "icon": "schedule_outlined",
+              "topics": [
+                "Voice with Different Tenses"
+              ]
+            },
+            {
+              "id": "voice_modals",
+              "order": 4,
+              "name_en": "Voice with Modals",
+              "name_ta": "Modal களுடன் Voice",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0891B2",
+              "icon": "rule_outlined",
+              "topics": [
+                "Voice with Modals"
+              ]
+            },
+            {
+              "id": "imperative_sentences",
+              "order": 5,
+              "name_en": "Imperative Sentences",
+              "name_ta": "கட்டளை / வேண்டுகோள் வாக்கியங்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0284C7",
+              "icon": "campaign_outlined",
+              "topics": [
+                "Imperative Sentences"
+              ]
+            },
+            {
+              "id": "mixed_active_passive_voice",
+              "order": 6,
+              "name_en": "Mixed Active & Passive Voice",
+              "name_ta": "கலப்பு செய்வினை & செயப்பாட்டு வினை",
+              "subtitle_en": "4 batches · 100 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Active & Passive Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "types_of_sentences",
+          "order": 5,
+          "name_en": "Types of Sentences",
+          "name_ta": "வாக்கிய வகைகள்",
+          "subtitle_en": "4 types + Mixed · 325 questions",
+          "subtitle_ta": "4 வகைகள் + கலப்பு · 325 வினாக்கள்",
+          "accent": "#7C3AED",
+          "icon": "format_quote_outlined",
+          "groups": [
+            {
+              "id": "statement_assertive",
+              "order": 1,
+              "name_en": "Statement / Assertive",
+              "name_ta": "அறிக்கை / செய்தித் தொடர்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#8B5CF6",
+              "icon": "subject_outlined",
+              "topics": [
+                "Statement / Assertive"
+              ]
+            },
+            {
+              "id": "interrogative",
+              "order": 2,
+              "name_en": "Interrogative",
+              "name_ta": "வினா வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#6366F1",
+              "icon": "help_outline",
+              "topics": [
+                "Interrogative"
+              ]
+            },
+            {
+              "id": "imperative",
+              "order": 3,
+              "name_en": "Imperative",
+              "name_ta": "கட்டளை / வேண்டுகோள் வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#4F46E5",
+              "icon": "campaign_outlined",
+              "topics": [
+                "Imperative"
+              ]
+            },
+            {
+              "id": "exclamatory",
+              "order": 4,
+              "name_en": "Exclamatory",
+              "name_ta": "உணர்ச்சி வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#DB2777",
+              "icon": "emoji_emotions_outlined",
+              "topics": [
+                "Exclamatory"
+              ]
+            },
+            {
+              "id": "mixed_types_of_sentences",
+              "order": 5,
+              "name_en": "Mixed Types of Sentences",
+              "name_ta": "கலப்பு வாக்கிய வகைகள்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Types of Sentences"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sentence_transformation",
+          "order": 6,
+          "name_en": "Sentence Transformation",
+          "name_ta": "வாக்கிய மாற்றம்",
+          "subtitle_en": "6 transforms + Mixed · 425 questions",
+          "subtitle_ta": "6 மாற்றங்கள் + கலப்பு · 425 வினாக்கள்",
+          "accent": "#EA580C",
+          "icon": "sync_alt_outlined",
+          "groups": [
+            {
+              "id": "statement_to_imperative",
+              "order": 1,
+              "name_en": "Statement → Imperative",
+              "name_ta": "அறிக்கை → கட்டளை வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#F97316",
+              "icon": "arrow_forward_outlined",
+              "topics": [
+                "Statement → Imperative"
+              ]
+            },
+            {
+              "id": "interrogative_to_statement",
+              "order": 2,
+              "name_en": "Interrogative → Statement",
+              "name_ta": "வினா → அறிக்கை வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#FB923C",
+              "icon": "help_outline",
+              "topics": [
+                "Interrogative → Statement"
+              ]
+            },
+            {
+              "id": "assertive_to_negative",
+              "order": 3,
+              "name_en": "Assertive → Negative",
+              "name_ta": "நேர்மறை → எதிர்மறை வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#F59E0B",
+              "icon": "block_outlined",
+              "topics": [
+                "Assertive → Negative"
+              ]
+            },
+            {
+              "id": "exclamatory_to_statement",
+              "order": 4,
+              "name_en": "Exclamatory → Statement",
+              "name_ta": "உணர்ச்சி → அறிக்கை வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#EAB308",
+              "icon": "emoji_emotions_outlined",
+              "topics": [
+                "Exclamatory → Statement"
+              ]
+            },
+            {
+              "id": "imperative_to_interrogative",
+              "order": 5,
+              "name_en": "Imperative → Interrogative",
+              "name_ta": "கட்டளை → வினா வாக்கியம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#D97706",
+              "icon": "question_answer_outlined",
+              "topics": [
+                "Imperative → Interrogative"
+              ]
+            },
+            {
+              "id": "imperative_to_appreciative",
+              "order": 6,
+              "name_en": "Imperative → Appreciative Statement",
+              "name_ta": "கட்டளை → பாராட்டு அறிக்கை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#C2410C",
+              "icon": "thumb_up_outlined",
+              "topics": [
+                "Imperative → Appreciative Statement"
+              ]
+            },
+            {
+              "id": "mixed_sentence_transformation",
+              "order": 7,
+              "name_en": "Mixed Sentence Transformation",
+              "name_ta": "கலப்பு வாக்கிய மாற்றம்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Sentence Transformation"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sentence_patterns",
+          "order": 7,
+          "name_en": "Sentence Patterns",
+          "name_ta": "வாக்கிய வடிவங்கள்",
+          "subtitle_en": "6 patterns + Mixed · 425 questions",
+          "subtitle_ta": "6 வடிவங்கள் + கலப்பு · 425 வினாக்கள்",
+          "accent": "#0EA5E9",
+          "icon": "account_tree_outlined",
+          "groups": [
+            {
+              "id": "sv",
+              "order": 1,
+              "name_en": "Subject + Verb (SV)",
+              "name_ta": "Subject + Verb (SV)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#38BDF8",
+              "icon": "looks_one_outlined",
+              "topics": [
+                "Subject + Verb (SV)"
+              ]
+            },
+            {
+              "id": "svo",
+              "order": 2,
+              "name_en": "Subject + Verb + Object (SVO)",
+              "name_ta": "Subject + Verb + Object (SVO)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0EA5E9",
+              "icon": "looks_two_outlined",
+              "topics": [
+                "Subject + Verb + Object (SVO)"
+              ]
+            },
+            {
+              "id": "svc",
+              "order": 3,
+              "name_en": "Subject + Verb + Complement (SVC)",
+              "name_ta": "Subject + Verb + Complement (SVC)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0284C7",
+              "icon": "looks_3_outlined",
+              "topics": [
+                "Subject + Verb + Complement (SVC)"
+              ]
+            },
+            {
+              "id": "sva",
+              "order": 4,
+              "name_en": "Subject + Verb + Adverbial (SVA)",
+              "name_ta": "Subject + Verb + Adverbial (SVA)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0369A1",
+              "icon": "looks_4_outlined",
+              "topics": [
+                "Subject + Verb + Adverbial (SVA)"
+              ]
+            },
+            {
+              "id": "svoo",
+              "order": 5,
+              "name_en": "Subject + Verb + Indirect Object + Direct Object (SVOO)",
+              "name_ta": "Subject + Verb + Indirect Object + Direct Object (SVOO)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#075985",
+              "icon": "looks_5_outlined",
+              "topics": [
+                "Subject + Verb + Indirect Object + Direct Object (SVOO)"
+              ]
+            },
+            {
+              "id": "svoc",
+              "order": 6,
+              "name_en": "Subject + Verb + Object + Complement (SVOC)",
+              "name_ta": "Subject + Verb + Object + Complement (SVOC)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0C4A6E",
+              "icon": "looks_6_outlined",
+              "topics": [
+                "Subject + Verb + Object + Complement (SVOC)"
+              ]
+            },
+            {
+              "id": "mixed_sentence_patterns",
+              "order": 7,
+              "name_en": "Mixed Sentence Patterns",
+              "name_ta": "கலப்பு வாக்கிய வடிவங்கள்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Sentence Patterns"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "question_tags",
+          "order": 8,
+          "name_en": "Question Tags",
+          "name_ta": "வினாத் தடல்கள்",
+          "subtitle_en": "5 topics + Mixed · 375 questions",
+          "subtitle_ta": "5 தலைப்புகள் + கலப்பு · 375 வினாக்கள்",
+          "accent": "#A855F7",
+          "icon": "help_outline",
+          "groups": [
+            {
+              "id": "basic_tags",
+              "order": 1,
+              "name_en": "Basic Tags (Affirmative / Negative)",
+              "name_ta": "அடிப்படை வினாத் தடல்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#C084FC",
+              "icon": "add_circle_outline",
+              "topics": [
+                "Basic Tags (Affirmative / Negative)"
+              ]
+            },
+            {
+              "id": "no_auxiliary_modals",
+              "order": 2,
+              "name_en": "No Auxiliary & Modals",
+              "name_ta": "துணை வினை இல்லா & Modal",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#A855F7",
+              "icon": "rule_outlined",
+              "topics": [
+                "No Auxiliary & Modals"
+              ]
+            },
+            {
+              "id": "special_subjects",
+              "order": 3,
+              "name_en": "Special Subjects (I am, There, Nobody, It)",
+              "name_ta": "சிறப்பு Subject-கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#9333EA",
+              "icon": "person_outline",
+              "topics": [
+                "Special Subjects (I am, There, Nobody, It)"
+              ]
+            },
+            {
+              "id": "imperatives_lets",
+              "order": 4,
+              "name_en": "Imperatives & Let's",
+              "name_ta": "கட்டளை & Let's",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#7E22CE",
+              "icon": "campaign_outlined",
+              "topics": [
+                "Imperatives & Let's"
+              ]
+            },
+            {
+              "id": "spot_wrong_tag",
+              "order": 5,
+              "name_en": "Spot the Wrong Tag",
+              "name_ta": "தவறான வினாத் தடலைக் கண்டறி",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#6B21A8",
+              "icon": "error_outline",
+              "topics": [
+                "Spot the Wrong Tag"
+              ]
+            },
+            {
+              "id": "mixed_question_tags",
+              "order": 6,
+              "name_en": "Mixed Question Tags",
+              "name_ta": "கலப்பு வினாத் தடல்கள்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Question Tags"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "punctuation",
+          "order": 9,
+          "name_en": "Punctuation",
+          "name_ta": "நிறுத்தக்குறிகள்",
+          "subtitle_en": "Mixed marks · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு குறிகள் · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#F59E0B",
+          "icon": "edit_outlined",
+          "topics": [
+            "Punctuation"
+          ]
+        },
+        {
+          "id": "direct_indirect_speech",
+          "order": 10,
+          "name_en": "Direct & Indirect Speech",
+          "name_ta": "நேரடி & மறைமுக பேச்சு",
+          "subtitle_en": "5 topics + Mixed · 375 questions",
+          "subtitle_ta": "5 தலைப்புகள் + கலப்பு · 375 வினாக்கள்",
+          "accent": "#EC4899",
+          "icon": "forum_outlined",
+          "groups": [
+            {
+              "id": "statements_dti",
+              "order": 1,
+              "name_en": "Statements (Direct → Indirect)",
+              "name_ta": "அறிக்கை (நேரடி → மறைமுக)",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#F472B6",
+              "icon": "format_quote_outlined",
+              "topics": [
+                "Statements (Direct → Indirect)"
+              ]
+            },
+            {
+              "id": "questions",
+              "order": 2,
+              "name_en": "Questions (WH & Yes/No)",
+              "name_ta": "வினா வாக்கியங்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#EC4899",
+              "icon": "help_outline",
+              "topics": [
+                "Questions (WH & Yes/No)"
+              ]
+            },
+            {
+              "id": "commands_imperatives",
+              "order": 3,
+              "name_en": "Commands, Requests & Imperatives",
+              "name_ta": "கட்டளை & கோரிக்கை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#DB2777",
+              "icon": "campaign_outlined",
+              "topics": [
+                "Commands, Requests & Imperatives"
+              ]
+            },
+            {
+              "id": "indirect_to_direct",
+              "order": 4,
+              "name_en": "Indirect → Direct",
+              "name_ta": "மறைமுக → நேரடி",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#BE185D",
+              "icon": "swap_horiz_outlined",
+              "topics": [
+                "Indirect → Direct"
+              ]
+            },
+            {
+              "id": "time_pronoun_reporting",
+              "order": 5,
+              "name_en": "Time, Place, Pronoun & Reporting Verbs",
+              "name_ta": "காலம், இடம் & Reporting Verbs",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#9D174D",
+              "icon": "schedule_outlined",
+              "topics": [
+                "Time, Place, Pronoun & Reporting Verbs"
+              ]
+            },
+            {
+              "id": "mixed_direct_indirect",
+              "order": 6,
+              "name_en": "Mixed Direct & Indirect Speech",
+              "name_ta": "கலப்பு நேரடி & மறைமுக பேச்சு",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Direct & Indirect Speech"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "degrees_of_comparison",
+          "order": 11,
+          "name_en": "Degrees of Comparison",
+          "name_ta": "ஒப்பீட்டு படிநிலைகள்",
+          "subtitle_en": "6 topics + Mixed · 425 questions",
+          "subtitle_ta": "6 தலைப்புகள் + கலப்பு · 425 வினாக்கள்",
+          "accent": "#14B8A6",
+          "icon": "compare_arrows_outlined",
+          "groups": [
+            {
+              "id": "positive_degree",
+              "order": 1,
+              "name_en": "Positive Degree",
+              "name_ta": "நேர்மறை படிநிலை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#2DD4BF",
+              "icon": "looks_one_outlined",
+              "topics": [
+                "Positive Degree"
+              ]
+            },
+            {
+              "id": "comparative_degree",
+              "order": 2,
+              "name_en": "Comparative Degree",
+              "name_ta": "ஒப்பீட்டு படிநிலை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#14B8A6",
+              "icon": "looks_two_outlined",
+              "topics": [
+                "Comparative Degree"
+              ]
+            },
+            {
+              "id": "superlative_degree",
+              "order": 3,
+              "name_en": "Superlative Degree",
+              "name_ta": "மிகை படிநிலை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0D9488",
+              "icon": "emoji_events_outlined",
+              "topics": [
+                "Superlative Degree"
+              ]
+            },
+            {
+              "id": "positive_to_comparative",
+              "order": 4,
+              "name_en": "Positive → Comparative",
+              "name_ta": "நேர்மறை → ஒப்பீட்டு",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#0F766E",
+              "icon": "trending_up_outlined",
+              "topics": [
+                "Positive → Comparative"
+              ]
+            },
+            {
+              "id": "comparative_to_superlative",
+              "order": 5,
+              "name_en": "Comparative → Superlative",
+              "name_ta": "ஒப்பீட்டு → மிகை",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#115E59",
+              "icon": "north_outlined",
+              "topics": [
+                "Comparative → Superlative"
+              ]
+            },
+            {
+              "id": "transformation_degrees",
+              "order": 6,
+              "name_en": "Transformation of Degrees",
+              "name_ta": "படிநிலை மாற்றம்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#134E4A",
+              "icon": "swap_vert_outlined",
+              "topics": [
+                "Transformation of Degrees"
+              ]
+            },
+            {
+              "id": "mixed_degrees_of_comparison",
+              "order": 7,
+              "name_en": "Mixed Degrees of Comparison",
+              "name_ta": "கலப்பு ஒப்பீட்டு படிநிலைகள்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Degrees of Comparison"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "synthesis_of_sentences",
+          "order": 12,
+          "name_en": "Synthesis of Sentences",
+          "name_ta": "வாக்கிய தொகுப்பு",
+          "subtitle_en": "6 topics + Mixed · 425 questions",
+          "subtitle_ta": "6 தலைப்புகள் + கலப்பு · 425 வினாக்கள்",
+          "accent": "#8B5CF6",
+          "icon": "merge_type_outlined",
+          "groups": [
+            {
+              "id": "combining_two_sentences",
+              "order": 1,
+              "name_en": "Combining Two Sentences",
+              "name_ta": "இரண்டு வாக்கியங்களை இணைத்தல்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#A78BFA",
+              "icon": "join_full_outlined",
+              "topics": [
+                "Combining Two Sentences"
+              ]
+            },
+            {
+              "id": "using_conjunctions",
+              "order": 2,
+              "name_en": "Using Conjunctions",
+              "name_ta": "இணைப்புச் சொற்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#8B5CF6",
+              "icon": "link_outlined",
+              "topics": [
+                "Using Conjunctions"
+              ]
+            },
+            {
+              "id": "using_participles",
+              "order": 3,
+              "name_en": "Using Participles",
+              "name_ta": "Participles",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#7C3AED",
+              "icon": "timeline_outlined",
+              "topics": [
+                "Using Participles"
+              ]
+            },
+            {
+              "id": "using_infinitives",
+              "order": 4,
+              "name_en": "Using Infinitives",
+              "name_ta": "Infinitives",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#6D28D9",
+              "icon": "arrow_forward_outlined",
+              "topics": [
+                "Using Infinitives"
+              ]
+            },
+            {
+              "id": "using_phrases",
+              "order": 5,
+              "name_en": "Using Phrases",
+              "name_ta": "சொற்றொடர்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#5B21B6",
+              "icon": "short_text_outlined",
+              "topics": [
+                "Using Phrases"
+              ]
+            },
+            {
+              "id": "using_clauses",
+              "order": 6,
+              "name_en": "Using Clauses",
+              "name_ta": "உட்கூறு வாக்கியங்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#4C1D95",
+              "icon": "account_tree_outlined",
+              "topics": [
+                "Using Clauses"
+              ]
+            },
+            {
+              "id": "mixed_synthesis_of_sentences",
+              "order": 7,
+              "name_en": "Mixed Synthesis of Sentences",
+              "name_ta": "கலப்பு வாக்கிய தொகுப்பு",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Synthesis of Sentences"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "phrases_clauses",
+          "order": 13,
+          "name_en": "Phrases & Clauses",
+          "name_ta": "சொற்றொடர்கள் & உட்கூறு வாக்கியங்கள்",
+          "subtitle_en": "Mixed types · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு வகைகள் · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#0EA5E9",
+          "icon": "account_tree_outlined",
+          "topics": [
+            "Phrases & Clauses"
+          ]
+        },
+        {
+          "id": "verbs",
+          "order": 14,
+          "name_en": "Verbs",
+          "name_ta": "வினைச்சொற்கள்",
+          "subtitle_en": "4 types + Mixed · 325 questions",
+          "subtitle_ta": "4 வகைகள் + கலப்பு · 325 வினாக்கள்",
+          "accent": "#10B981",
+          "icon": "bolt_outlined",
+          "groups": [
+            {
+              "id": "main_verbs",
+              "order": 1,
+              "name_en": "Main Verbs",
+              "name_ta": "முதன்மை வினைச்சொற்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#34D399",
+              "icon": "looks_one_outlined",
+              "topics": [
+                "Main Verbs"
+              ]
+            },
+            {
+              "id": "auxiliary_verbs",
+              "order": 2,
+              "name_en": "Auxiliary Verbs",
+              "name_ta": "துணை வினைச்சொற்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#10B981",
+              "icon": "looks_two_outlined",
+              "topics": [
+                "Auxiliary Verbs"
+              ]
+            },
+            {
+              "id": "regular_verbs",
+              "order": 3,
+              "name_en": "Regular Verbs",
+              "name_ta": "வழக்கமான வினைச்சொற்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#059669",
+              "icon": "looks_3_outlined",
+              "topics": [
+                "Regular Verbs"
+              ]
+            },
+            {
+              "id": "irregular_verbs",
+              "order": 4,
+              "name_en": "Irregular Verbs",
+              "name_ta": "வழக்கமற்ற வினைச்சொற்கள்",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#047857",
+              "icon": "looks_4_outlined",
+              "topics": [
+                "Irregular Verbs"
+              ]
+            },
+            {
+              "id": "mixed_verbs",
+              "order": 5,
+              "name_en": "Mixed Verbs",
+              "name_ta": "கலப்பு வினைச்சொற்கள்",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Verbs"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non_finite_verbs",
+          "order": 15,
+          "name_en": "Non-Finite Verbs",
+          "name_ta": "Non-Finite Verbs",
+          "subtitle_en": "3 types + Mixed · 275 questions",
+          "subtitle_ta": "3 வகைகள் + கலப்பு · 275 வினாக்கள்",
+          "accent": "#F97316",
+          "icon": "all_inclusive_outlined",
+          "groups": [
+            {
+              "id": "gerunds",
+              "order": 1,
+              "name_en": "Gerunds",
+              "name_ta": "Gerunds",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#FB923C",
+              "icon": "looks_one_outlined",
+              "topics": [
+                "Gerunds"
+              ]
+            },
+            {
+              "id": "infinitives",
+              "order": 2,
+              "name_en": "Infinitives",
+              "name_ta": "Infinitives",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#F97316",
+              "icon": "looks_two_outlined",
+              "topics": [
+                "Infinitives"
+              ]
+            },
+            {
+              "id": "participles",
+              "order": 3,
+              "name_en": "Participles",
+              "name_ta": "Participles",
+              "subtitle_en": "2 batches · 50 questions",
+              "accent": "#EA580C",
+              "icon": "looks_3_outlined",
+              "topics": [
+                "Participles"
+              ]
+            },
+            {
+              "id": "mixed_non_finite_verbs",
+              "order": 4,
+              "name_en": "Mixed Non-Finite Verbs",
+              "name_ta": "கலப்பு Non-Finite Verbs",
+              "subtitle_en": "5 batches · 125 questions",
+              "accent": "#DB2777",
+              "icon": "category_outlined",
+              "topics": [
+                "Mixed Non-Finite Verbs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Vocabulary",
+      "order": 2,
+      "name_en": "Unit II — Vocabulary",
+      "name_ta": "அலகு II — சொல்லகராதி",
+      "subtitle_en": "Synonyms · Antonyms · Homonyms · Idioms · Phrasal · Spelling · Usage · Word formation",
+      "subtitle_ta": "ஒத்தசொல் · எதிர்ச்சொல் · Homonyms · Idioms · Phrasal · எழுத்து · பயன்பாடு · சொல் உருவாக்கம்",
+      "accent": "#8B5CF6",
+      "icon": "menu_book_outlined",
+      "menus": [
+        {
+          "id": "synonyms",
+          "order": 1,
+          "name_en": "Synonyms",
+          "name_ta": "ஒத்த சொற்கள்",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#A78BFA",
+          "icon": "swap_horiz_outlined",
+          "topics": [
+            "Synonyms"
+          ]
+        },
+        {
+          "id": "antonyms",
+          "order": 2,
+          "name_en": "Antonyms",
+          "name_ta": "எதிர்ச்சொற்கள்",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#8B5CF6",
+          "icon": "compare_arrows_outlined",
+          "topics": [
+            "Antonyms"
+          ]
+        },
+        {
+          "id": "homonyms_homophones",
+          "order": 3,
+          "name_en": "Homonyms & Homophones",
+          "name_ta": "Homonyms & Homophones",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#7C3AED",
+          "icon": "record_voice_over_outlined",
+          "topics": [
+            "Homonyms & Homophones"
+          ]
+        },
+        {
+          "id": "collocations",
+          "order": 4,
+          "name_en": "Collocations",
+          "name_ta": "Collocations",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#6D28D9",
+          "icon": "link_outlined",
+          "topics": [
+            "Collocations"
+          ]
+        },
+        {
+          "id": "idioms_phrases",
+          "order": 5,
+          "name_en": "Idioms & Phrases",
+          "name_ta": "Idioms & Phrases",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#5B21B6",
+          "icon": "chat_bubble_outline",
+          "topics": [
+            "Idioms & Phrases"
+          ]
+        },
+        {
+          "id": "phrasal_verbs",
+          "order": 6,
+          "name_en": "Phrasal Verbs",
+          "name_ta": "Phrasal Verbs",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#4C1D95",
+          "icon": "alt_route_outlined",
+          "topics": [
+            "Phrasal Verbs"
+          ]
+        },
+        {
+          "id": "spelling",
+          "order": 7,
+          "name_en": "Spelling",
+          "name_ta": "எழுத்துப்பிழை",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#EC4899",
+          "icon": "spellcheck_outlined",
+          "topics": [
+            "Spelling"
+          ]
+        },
+        {
+          "id": "correct_usage",
+          "order": 8,
+          "name_en": "Correct Usage of Words",
+          "name_ta": "சரியான சொல் பயன்பாடு",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#DB2777",
+          "icon": "check_circle_outline",
+          "topics": [
+            "Correct Usage of Words"
+          ]
+        },
+        {
+          "id": "one_word_substitution",
+          "order": 9,
+          "name_en": "One Word Substitution",
+          "name_ta": "ஒரு சொல் பிரதிபீடு",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#BE185D",
+          "icon": "short_text_outlined",
+          "topics": [
+            "One Word Substitution"
+          ]
+        },
+        {
+          "id": "word_formation",
+          "order": 10,
+          "name_en": "Word Formation",
+          "name_ta": "சொல் உருவாக்கம்",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#9D174D",
+          "icon": "auto_fix_outlined",
+          "topics": [
+            "Word Formation"
+          ]
+        },
+        {
+          "id": "singular_plural",
+          "order": 11,
+          "name_en": "Singular & Plural",
+          "name_ta": "ஒருமை & பன்மை",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#F59E0B",
+          "icon": "filter_2_outlined",
+          "topics": [
+            "Singular & Plural"
+          ]
+        },
+        {
+          "id": "abbreviations",
+          "order": 12,
+          "name_en": "Abbreviations",
+          "name_ta": "சுருக்கங்கள்",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#D97706",
+          "icon": "text_fields_outlined",
+          "topics": [
+            "Abbreviations"
+          ]
+        },
+        {
+          "id": "british_american",
+          "order": 13,
+          "name_en": "British & American English",
+          "name_ta": "British & American English",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#B45309",
+          "icon": "public_outlined",
+          "topics": [
+            "British & American English"
+          ]
+        },
+        {
+          "id": "compound_words",
+          "order": 14,
+          "name_en": "Compound Words",
+          "name_ta": "கூட்டுச் சொற்கள்",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#92400E",
+          "icon": "join_full_outlined",
+          "topics": [
+            "Compound Words"
+          ]
+        },
+        {
+          "id": "figures_of_speech",
+          "order": 15,
+          "name_en": "Figures of Speech",
+          "name_ta": "Figures of Speech",
+          "subtitle_en": "Mixed practice · 4 batches · 100 questions",
+          "subtitle_ta": "கலப்பு பயிற்சி · 4 தொகுதிகள் · 100 வினாக்கள்",
+          "accent": "#78350F",
+          "icon": "theater_comedy_outlined",
+          "topics": [
+            "Figures of Speech"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WritingSkills",
+      "order": 3,
+      "name_en": "Unit III — Writing Skills",
+      "name_ta": "அலகு III — எழுத்துத் திறன்",
+      "subtitle_en": "Letter · Jumbled · Queries · Inferences/Blanks",
+      "subtitle_ta": "Letter · Jumbled · Queries · Inferences/Blanks",
+      "accent": "#059669",
+      "icon": "edit_outlined",
+      "menus": [
+        {
+          "id": "letter_writing",
+          "order": 1,
+          "name_en": "Types of Letters (Formal & Informal)",
+          "name_ta": "Types of Letters (Formal & Informal)",
+          "subtitle_en": "3 batches · 75 questions · Vetri+Asan",
+          "subtitle_ta": "3 batches · 75 questions · Vetri+Asan",
+          "accent": "#0EA5E9",
+          "icon": "mail_outlined",
+          "topics": [
+            "Types of Letters (Formal & Informal)"
+          ]
+        },
+        {
+          "id": "jumbled_sentences",
+          "order": 2,
+          "name_en": "Jumbled Sentences",
+          "name_ta": "Jumbled Sentences",
+          "subtitle_en": "3 batches · 75 questions · Vetri+Asan",
+          "subtitle_ta": "3 batches · 75 questions · Vetri+Asan",
+          "accent": "#0284C7",
+          "icon": "reorder",
+          "topics": [
+            "Jumbled Sentences"
+          ]
+        },
+        {
+          "id": "making_queries",
+          "order": 3,
+          "name_en": "Making Queries",
+          "name_ta": "Making Queries",
+          "subtitle_en": "1 batch · 25 questions · Vetri",
+          "subtitle_ta": "1 batch · 25 questions · Vetri",
+          "accent": "#0EA5E9",
+          "icon": "help_outline",
+          "topics": [
+            "Making Queries"
+          ]
+        },
+        {
+          "id": "inferences_blanks_substitutions",
+          "order": 4,
+          "name_en": "Inferences, Blanks & Substitutions",
+          "name_ta": "Inferences, Blanks & Substitutions",
+          "subtitle_en": "2 batches · 50 questions · Vetri",
+          "subtitle_ta": "2 batches · 50 questions · Vetri",
+          "accent": "#0284C7",
+          "icon": "psychology_outlined",
+          "topics": [
+            "Inferences, Blanks & Substitutions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TechnicalTerms",
+      "order": 4,
+      "name_en": "Unit IV — Technical Terms",
+      "name_ta": "Unit IV — Technical Terms",
+      "subtitle_en": "Admin · Department · Official terms · Correspondence",
+      "subtitle_ta": "Admin · Department · Official terms · Correspondence",
+      "accent": "#059669",
+      "icon": "account_balance_outlined",
+      "menus": [
+        {
+          "id": "administrative_terms",
+          "order": 1,
+          "name_en": "Administrative Terms",
+          "name_ta": "Administrative Terms",
+          "subtitle_en": "3 batches · 75 questions",
+          "subtitle_ta": "3 batches · 75 questions",
+          "accent": "#059669",
+          "icon": "badge_outlined",
+          "topics": [
+            "Administrative Terms"
+          ]
+        },
+        {
+          "id": "department_related_terms",
+          "order": 2,
+          "name_en": "Department-related Terms",
+          "name_ta": "Department-related Terms",
+          "subtitle_en": "2 batches · 50 questions",
+          "subtitle_ta": "2 batches · 50 questions",
+          "accent": "#047857",
+          "icon": "corporate_fare",
+          "topics": [
+            "Department-related Terms"
+          ]
+        },
+        {
+          "id": "general_official_terms",
+          "order": 3,
+          "name_en": "General & Official Terms",
+          "name_ta": "General & Official Terms",
+          "subtitle_en": "2 batches · 50 questions",
+          "subtitle_ta": "2 batches · 50 questions",
+          "accent": "#059669",
+          "icon": "gavel",
+          "topics": [
+            "General & Official Terms"
+          ]
+        },
+        {
+          "id": "official_correspondence",
+          "order": 4,
+          "name_en": "Basics of Official Correspondence",
+          "name_ta": "Basics of Official Correspondence",
+          "subtitle_en": "3 batches · 75 questions",
+          "subtitle_ta": "3 batches · 75 questions",
+          "accent": "#047857",
+          "icon": "description_outlined",
+          "topics": [
+            "Basics of Official Correspondence"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ReadingComprehension",
+      "order": 5,
+      "name_en": "Unit V — Reading Comprehension",
+      "name_ta": "Unit V — Reading Comprehension",
+      "subtitle_en": "Unseen passages · Strong/Weak · Match · Completion · Facts",
+      "subtitle_ta": "Unseen passages · Strong/Weak · Match · Completion · Facts",
+      "accent": "#EA580C",
+      "icon": "menu_book_outlined",
+      "menus": [
+        {
+          "id": "unseen_passages",
+          "order": 1,
+          "name_en": "Unseen Passages",
+          "name_ta": "Unseen Passages",
+          "subtitle_en": "3 batches · 75 questions · Vetri",
+          "subtitle_ta": "3 batches · 75 questions · Vetri",
+          "accent": "#F97316",
+          "icon": "article_outlined",
+          "topics": ["Unseen Passages"]
+        },
+        {
+          "id": "strong_weak_questions",
+          "order": 2,
+          "name_en": "Strong & Weak Questions",
+          "name_ta": "Strong & Weak Questions",
+          "subtitle_en": "3 batches · 75 questions · Vetri",
+          "subtitle_ta": "3 batches · 75 questions · Vetri",
+          "accent": "#EA580C",
+          "icon": "help_outline",
+          "topics": ["Strong & Weak Questions"]
+        },
+        {
+          "id": "match_the_following",
+          "order": 3,
+          "name_en": "Match the Following",
+          "name_ta": "Match the Following",
+          "subtitle_en": "2 batches · 50 questions · Vetri",
+          "subtitle_ta": "2 batches · 50 questions · Vetri",
+          "accent": "#C2410C",
+          "icon": "join_inner",
+          "topics": ["Match the Following"]
+        },
+        {
+          "id": "sentence_completion",
+          "order": 4,
+          "name_en": "Sentence Completion",
+          "name_ta": "Sentence Completion",
+          "subtitle_en": "3 batches · 75 questions · Vetri",
+          "subtitle_ta": "3 batches · 75 questions · Vetri",
+          "accent": "#F97316",
+          "icon": "edit_note_outlined",
+          "topics": ["Sentence Completion"]
+        },
+        {
+          "id": "ascertainment_of_facts",
+          "order": 5,
+          "name_en": "Ascertainment of Facts",
+          "name_ta": "Ascertainment of Facts",
+          "subtitle_en": "2 batches · 50 questions · Vetri",
+          "subtitle_ta": "2 batches · 50 questions · Vetri",
+          "accent": "#EA580C",
+          "icon": "fact_check_outlined",
+          "topics": ["Ascertainment of Facts"]
+        }
+      ]
+    },
+    {
+      "id": "Translation",
+      "order": 6,
+      "name_en": "Unit VI — Translation",
+      "name_ta": "Unit VI — Translation",
+      "subtitle_en": "Word · Sentence · Tense · Voice",
+      "subtitle_ta": "Word · Sentence · Tense · Voice",
+      "accent": "#0D9488",
+      "icon": "translate_outlined",
+      "menus": [
+        {
+          "id": "word_translation",
+          "order": 1,
+          "name_en": "Word Translation",
+          "name_ta": "Word Translation",
+          "subtitle_en": "3 batches · 75 questions · Vetri",
+          "subtitle_ta": "3 batches · 75 questions · Vetri",
+          "accent": "#14B8A6",
+          "icon": "abc",
+          "topics": ["Word Translation"]
+        },
+        {
+          "id": "sentence_translation",
+          "order": 2,
+          "name_en": "Sentence Translation",
+          "name_ta": "Sentence Translation",
+          "subtitle_en": "3 batches · 75 questions · Vetri",
+          "subtitle_ta": "3 batches · 75 questions · Vetri",
+          "accent": "#0D9488",
+          "icon": "short_text",
+          "topics": ["Sentence Translation"]
+        },
+        {
+          "id": "tense_related_translation",
+          "order": 3,
+          "name_en": "Tense-related Translation",
+          "name_ta": "Tense-related Translation",
+          "subtitle_en": "3 batches · 75 questions · Vetri",
+          "subtitle_ta": "3 batches · 75 questions · Vetri",
+          "accent": "#0F766E",
+          "icon": "schedule_outlined",
+          "topics": ["Tense-related Translation"]
+        },
+        {
+          "id": "tense_voice_related",
+          "order": 4,
+          "name_en": "Tense / Voice-related Tasks",
+          "name_ta": "Tense / Voice-related Tasks",
+          "subtitle_en": "1 batch · 25 questions · Vetri",
+          "subtitle_ta": "1 batch · 25 questions · Vetri",
+          "accent": "#14B8A6",
+          "icon": "swap_horiz",
+          "topics": ["Tense / Voice-related Tasks"]
+        }
+      ]
+    },
+    {
+      "id": "Literary",
+      "order": 7,
+      "name_en": "Unit VII — Poems & Prose",
+      "name_ta": "Unit VII — Poems & Prose",
+      "subtitle_en": "Poem · Prose",
+      "subtitle_ta": "Poem · Prose",
+      "accent": "#7C3AED",
+      "icon": "auto_stories_outlined",
+      "menus": [
+        {
+          "id": "poem",
+          "order": 1,
+          "name_en": "Poem",
+          "name_ta": "Poem",
+          "subtitle_en": "29 poems · 725 questions",
+          "subtitle_ta": "29 poems · 725 questions",
+          "accent": "#7C3AED",
+          "icon": "menu_book_outlined",
+          "topics": [
+            "Dream of Spices",
+            "The Crocodile",
+            "Teamwork",
+            "From a Railway Carriage",
+            "A Tragic Story",
+            "Sea Fever",
+            "Courage",
+            "The Age of Chivalry",
+            "Wandering Singers",
+            "The Listeners",
+            "Your Space",
+            "Special Hero",
+            "Stopping by Woods on a Snowy Evening",
+            "Leisure",
+            "A Poison Tree",
+            "The Power of a Smile",
+            "On Killing a Tree",
+            "Advice from a Tree",
+            "The Spider and The Fly",
+            "Never Trust a Mirror",
+            "The River",
+            "Nature the Gentlest Mother",
+            "The Comet",
+            "The Star",
+            "The Stick-Together Families",
+            "Memories of My Dad",
+            "Life",
+            "The Grumble Family",
+            "The Secret of the Machines"
+          ]
+        },
+        {
+          "id": "prose",
+          "order": 2,
+          "name_en": "Prose",
+          "name_ta": "Prose",
+          "subtitle_en": "29 lessons · 725 questions · PYQ-style",
+          "subtitle_ta": "29 lessons · 725 questions · PYQ-style",
+          "accent": "#8B5CF6",
+          "icon": "article_outlined",
+          "topics": [
+            "His First Flight",
+            "The Night the Ghost Got In",
+            "Empowered Women Navigating the World",
+            "The Attic",
+            "Tech Bloomers",
+            "The Last Lesson",
+            "The Dying Detective",
+            "Learning the Game",
+            "I Can't Climb Trees Anymore",
+            "Old Man River",
+            "Seventeen Oranges",
+            "Water – The Elixir of Life",
+            "From Zero to Infinity",
+            "A Birthday Letter",
+            "The Nose Jewel",
+            "Hobby – Turns A Successful Career",
+            "Sir Isaac Newton – The Ingenious Scientist",
+            "My Reminiscence",
+            "Sea Turtles",
+            "When the Trees Walked",
+            "A Visitor from Distant Lands",
+            "Sports Stars",
+            "The Last Stone Carver",
+            "Eidgah",
+            "The Wind on Haunted Hill",
+            "A Prayer to the Teacher",
+            "The Tempest",
+            "A Hunter Turned Naturalist",
+            "The Cat and the Painkiller"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -17,7 +17,13 @@ class SyllabusScreen extends StatelessWidget {
 
     final unitTitle = appState.activeSubject == 'Tamil' && appState.tamilUnitId != null
         ? appState.tamilUnitDisplayName(appState.tamilUnitId)
-        : null;
+        : (appState.activeSubject == 'English' && appState.englishGroupId != null
+            ? ((appState.selectedEnglishGroup?['name_en'] ??
+                    appState.englishMenuDisplayName(appState.englishMenuId))
+                .toString())
+            : (appState.activeSubject == 'English' && appState.englishMenuId != null
+                ? appState.englishMenuDisplayName(appState.englishMenuId)
+                : null));
     final subjectName = appState.subjectDisplayName(appState.activeSubject);
     final syllabusLabel = appState.hubLabel('Syllabus');
     final titleText = unitTitle != null ? unitTitle : '$subjectName $syllabusLabel';

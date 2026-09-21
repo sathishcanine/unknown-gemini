@@ -12,6 +12,7 @@ import 'screens/advisor_screen.dart';
 import 'screens/login_screen.dart';
 import 'screens/performance_screen.dart';
 import 'screens/profile_screen.dart';
+import 'screens/whatsapp_phone_screen.dart';
 import 'services/update_service.dart';
 import 'widgets/update_dialog.dart';
 
@@ -102,6 +103,10 @@ class _AppShellState extends State<AppShell> {
 
     if (!appState.isAuthenticated) {
       return const LoginScreen();
+    }
+
+    if (appState.needsWhatsAppNumber) {
+      return const WhatsAppPhoneScreen();
     }
     
     final active = appState.activeScreen;

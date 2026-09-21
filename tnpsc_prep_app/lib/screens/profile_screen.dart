@@ -71,7 +71,7 @@ class ProfileScreen extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Active Student',
+                            appState.isGuestUser ? 'Guest Student' : 'Active Student',
                             style: TextStyle(
                               fontFamily: 'Outfit',
                               fontSize: 16,
@@ -81,7 +81,7 @@ class ProfileScreen extends StatelessWidget {
                           ),
                           const SizedBox(height: 4),
                           Text(
-                            appState.userEmail,
+                            appState.isGuestUser ? 'Signed in as Guest' : appState.userEmail,
                             style: TextStyle(
                               fontFamily: 'Inter',
                               fontSize: 13,

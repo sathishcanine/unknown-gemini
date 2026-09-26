@@ -1,0 +1,1508 @@
+{
+  "subject_id": "English",
+  "menu": "verbs",
+  "sources": [
+    "verb-fully.pdf pp.[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] (primary, vision)",
+    "Race Part A pp.[51, 52] (secondary)",
+    "Grammer.pdf pp.[52, 54, 223, 370, 374, 375, 376] (secondary)",
+    "Govt pp.[91] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "A verb is a word used to express an action or state.",
+      "verb_topic": "overview",
+      "source": "verb_fully",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Auxiliary verbs are verbs that are used with ordinary verbs.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Primary Auxiliaries include Be verbs (am, is, are, was, were, been, being), Have verbs (has, have, had), and Do verbs (do, does, did).",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Modals indicate modality expressing ability, possibility, permission, request, capacity, intention, obligation, or advice. They do not change with the person or number of the subject.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "rule_en": "There are 13 modal auxiliaries, four of which are semi-modals: ought to, dare, need, used to.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Main Verbs denote actions; Modal Auxiliaries denote particular moods, expressions, or conceptions of the mind.",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Can expresses ability, permission, request, and possibility.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "May expresses permission, possibility, and probability.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Must expresses strong obligation, logical conclusion, and necessity.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Might expresses polite permission, possibility, and probability.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Need not expresses lack of necessity or absence of obligation.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Should / ought to express 50% obligation, advice, and logical conclusion.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Shall expresses suggestion.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Will expresses wish, request, demand, order, prediction, assumption, and spontaneous decision.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Would expresses wish and request.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Used to expresses habits in the past.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Dare expresses boldness.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Use 'must' when something is compulsory, obligatory, or important.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Use 'ought to' when something is the right thing to do.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Modals (can, could, may, might, must, ought to, shall, should, will, would) are used to express rules, regulations, or advice.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Modals are auxiliary verbs used to express mood or attitude such as possibility, obligation, necessity, or habit.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "rule_en": "Transitive verbs express action with an object.",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Intransitive verbs express action without an object.",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Regular verbs form their past tense and past participle by adding 'ed'.",
+      "verb_topic": "regular_verbs",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Irregular verbs form their past tense and past participle in a different way from adding 'ed'.",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Irregular verbs have three types: Type 1 (all three forms are the same), Type 2 (two forms are the same), and Type 3 (all three forms are different).",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Type-3: All forms of the verb (Base, Past, Past Participle) are different.",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 8
+    },
+    {
+      "rule_en": "Verbs that have an alternative past participle form ending in 'en' which can be used only as adjectives.",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 8
+    },
+    {
+      "rule_en": "Irregular verbs do not follow the standard -ed rule for forming past tense and past participle; they change their internal spelling according to specific patterns.",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Bare Infinitives: Infinitives may be used without 'to'. We use plain/bare infinitives with modals: shall, will, do, did, would, make, need, may, might, could, must, let, dare, see.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Verbs are words that show action or state. They denote what a person or thing does, what is done to them, or what they are.",
+      "verb_topic": "main_verbs",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "rule_en": "Auxiliaries are helping verbs (be, do, have) used with participles to make a complete verb.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "rule_en": "Regular verbs show tense by adding -ed to the base form.",
+      "verb_topic": "regular_verbs",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "rule_en": "Irregular verbs change their spelling to show past tense and past participle.",
+      "verb_topic": "irregular_verbs",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "rule_en": "Irregular verbs are verbs that do not follow the standard rule of adding -ed to form their past and past participle forms.",
+      "verb_topic": "irregular_verbs",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "rule_en": "Verbs denote an action or state.",
+      "verb_topic": "main_verbs",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "rule_en": "V1 is the present tense form, V2 is the past tense form, and V3 is the past participle form.",
+      "verb_topic": "overview",
+      "source": "grammer",
+      "source_page": 50
+    },
+    {
+      "rule_en": "Main Verbs express the action or state of the subject (e.g., drive, help, rain).",
+      "verb_topic": "main_verbs",
+      "source": "grammer",
+      "source_page": 52
+    },
+    {
+      "rule_en": "Helping Verbs (Modal Auxiliaries) denote particular moods, expressions, or conceptions of the mind such as ability, moral obligation, or possibility.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 52
+    },
+    {
+      "rule_en": "There are 13 Modal Auxiliaries: will, would, shall, should, can, could, may, might, must, ought to, dare, need, used to.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 52
+    },
+    {
+      "rule_en": "Primary auxiliaries consist of Be (am, is, was, are, were), Do (does, do, did), and Have (has, have, had) verbs.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 223
+    },
+    {
+      "rule_en": "Modal verbs include can-could, may-might, shall-should, will-would, and must.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 223
+    },
+    {
+      "rule_en": "Semi-modals include need, dare, used to, and ought to.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 223
+    },
+    {
+      "rule_en": "Transitive verbs are verbs that express action with an object (noun, pronoun, or noun clause).",
+      "verb_topic": "main_verbs",
+      "source": "grammer",
+      "source_page": 370
+    },
+    {
+      "rule_en": "Intransitive verbs are verbs that express action without an object.",
+      "verb_topic": "main_verbs",
+      "source": "grammer",
+      "source_page": 370
+    },
+    {
+      "rule_en": "A modal is a type of helping verb that is used to express ability, possibility, permission, or obligation.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 372
+    },
+    {
+      "rule_en": "Modal phrases (or semi-modals) are a combination of helping verbs and prepositions used to express ability, possibility, permission, or obligation.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 372
+    },
+    {
+      "rule_en": "Modal verbs are used to express certainty, probability, possibility, ability, and to ask for permission.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "rule_en": "Use 'can't' or 'cannot' to express impossibility.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "rule_en": "Use 'couldn't' or 'could not' to express impossibility in the past.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "rule_en": "Use 'must' to express certainty when there are reasons for the belief.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "rule_en": "Use 'can' to ask for permission; 'could' is more formal and polite than 'can'.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "rule_en": "Use 'could you' and 'would you' for polite requests or instructions.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "rule_en": "Can is used to express ability or to request permission.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "rule_en": "May is used to express possibility or to request permission.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "rule_en": "Must is used to express obligation or strong belief.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "rule_en": "Should is used to give advice.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "rule_en": "Would is used to request or offer or in if-sentences.",
+      "verb_topic": "auxiliary_verbs",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "rule_en": "A Transitive verb requires an object after it to complete its sense.",
+      "verb_topic": "main_verbs",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "rule_en": "An Intransitive verb does not require an object to complete its sense, as it makes good sense by itself.",
+      "verb_topic": "main_verbs",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "rule_en": "When the interrogative word 'what' or 'whom' is used to ask a question from the sentence and we get an answer, that is an object and the verb is transitive.",
+      "verb_topic": "main_verbs",
+      "source": "govt",
+      "source_page": 9
+    }
+  ],
+  "examples": [
+    {
+      "input_en": "come, read, speak, write, learn, am, is, was, are, have, had, do, does, did",
+      "output_en": "N/A",
+      "verb_topic": "overview",
+      "note_en": "These illustrate both main verbs and auxiliary verbs.",
+      "source": "verb_fully",
+      "source_page": 1
+    },
+    {
+      "input_en": "can",
+      "output_en": "I can speak a little Russian",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Used to express ability.",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "input_en": "may",
+      "output_en": "May I sit down, please?",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Used to request permission.",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "input_en": "must",
+      "output_en": "I must go now.",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Used to express obligation.",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "input_en": "should",
+      "output_en": "You should stop smoking.",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Used to give advice.",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "input_en": "would",
+      "output_en": "Would you like a cup of tea?",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Used to request or offer.",
+      "source": "verb_fully",
+      "source_page": 2
+    },
+    {
+      "input_en": "He can drive a car.",
+      "output_en": "can (shows ability)",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Examples of main vs modal verbs.",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "input_en": "The rich should help the poor.",
+      "output_en": "should (shows moral obligation)",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Examples of main vs modal verbs.",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "input_en": "It may rain today.",
+      "output_en": "may (shows possibility)",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Examples of main vs modal verbs.",
+      "source": "verb_fully",
+      "source_page": 3
+    },
+    {
+      "input_en": "I would suggest that you take Uzhavan Express to Thanjavur ______ Chennai.",
+      "output_en": "from",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Use of 'would' to make a polite suggestion.",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "input_en": "You could enjoy the journey if you ______ travel ______ train.",
+      "output_en": "can / by",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Use of 'could' for possibility/suggestion.",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "input_en": "You should get your teeth cleaned one a year.",
+      "output_en": "Should - obligation/advice",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Example of modal usage.",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "input_en": "We used to grow vegetables in our kitchen garden but we don't do it now.",
+      "output_en": "Used to - past habit",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Example of semi-modal usage.",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "input_en": "I threw the ball.",
+      "output_en": "Transitive verb (the ball is the object).",
+      "verb_topic": "main_verbs",
+      "note_en": "The object can be a noun, pronoun, or noun clause/phrase.",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "input_en": "I ran.",
+      "output_en": "Intransitive verb (no object).",
+      "verb_topic": "main_verbs",
+      "note_en": "Intransitive verbs cannot take up passive forms.",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "input_en": "talk - talked - talked",
+      "output_en": "Regular verb",
+      "verb_topic": "regular_verbs",
+      "note_en": "Past tense and past participle formed by adding -ed.",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "input_en": "put - put - put",
+      "output_en": "Type 1 Irregular verb",
+      "verb_topic": "irregular_verbs",
+      "note_en": "All three forms are the same.",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "input_en": "bend - bent - bent",
+      "output_en": "Type 2 Irregular verb",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Two of the forms are the same.",
+      "source": "verb_fully",
+      "source_page": 7
+    },
+    {
+      "input_en": "be",
+      "output_en": "was/were (Past), been (Past Participle)",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Base verb 'be' follows an irregular pattern.",
+      "source": "verb_fully",
+      "source_page": 8
+    },
+    {
+      "input_en": "Drink",
+      "output_en": "Drunk (Past), Drunk/Drunken (Past Participle)",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Example of alternative past participle form ending in 'en'.",
+      "source": "verb_fully",
+      "source_page": 8
+    },
+    {
+      "input_en": "begin",
+      "output_en": "began (Past), begun (Past Participle)",
+      "verb_topic": "irregular_verbs",
+      "note_en": "All forms are different.",
+      "source": "verb_fully",
+      "source_page": 8
+    },
+    {
+      "input_en": "sing",
+      "output_en": "sang (V2), sung (V3)",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Example from the irregular verb table.",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "input_en": "walk",
+      "output_en": "walked (V2), walked (V3)",
+      "verb_topic": "regular_verbs",
+      "note_en": "Example from the regular verb table showing -ed suffix.",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "input_en": "She made me do my project.",
+      "output_en": "She made me do my project.",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Example of bare infinitive using the modal 'do'.",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "input_en": "He teaches in our school.",
+      "output_en": "teaches",
+      "verb_topic": "main_verbs",
+      "note_en": "Denotes what a person does.",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "input_en": "She was punished.",
+      "output_en": "was punished",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Denotes what is done to a person.",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "input_en": "She is a pretty village girl.",
+      "output_en": "is",
+      "verb_topic": "main_verbs",
+      "note_en": "Denotes what a person is.",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "input_en": "dance - danced",
+      "output_en": "danced",
+      "verb_topic": "regular_verbs",
+      "note_en": "Shows tense in a regular way.",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "input_en": "Arise | Arose | Arisen",
+      "output_en": "Arise | Arose | Arisen",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Choose | Chose | Chosen",
+      "output_en": "Choose | Chose | Chosen",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Eat | Ate | Eaten",
+      "output_en": "Eat | Ate | Eaten",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Give | Gave | Given",
+      "output_en": "Give | Gave | Given",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Know | Knew | Known",
+      "output_en": "Know | Knew | Known",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Meet | Met | Met",
+      "output_en": "Meet | Met | Met",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Ride | Rode | Ridden",
+      "output_en": "Ride | Rode | Ridden",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "See | Saw | Seen",
+      "output_en": "See | Saw | Seen",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Begin | Began | Begun",
+      "output_en": "Begin | Began | Begun",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Draw | Drew | Drawn",
+      "output_en": "Draw | Drew | Drawn",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Fall | Fell | Fallen",
+      "output_en": "Fall | Fell | Fallen",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Hurt | Hurt | Hurt",
+      "output_en": "Hurt | Hurt | Hurt",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Lie | Lay | Lain",
+      "output_en": "Lie | Lay | Lain",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Pay | Paid | Paid",
+      "output_en": "Pay | Paid | Paid",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Spend | Spent | Spent",
+      "output_en": "Spend | Spent | Spent",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Take | Took | Taken",
+      "output_en": "Take | Took | Taken",
+      "verb_topic": "irregular_verbs",
+      "note_en": "Present | Past | Past Participle",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "Live, was, were, decide, learn, attend, scold, walk, tired, busy, chat, play, missed",
+      "output_en": "Main verbs indicating action or state",
+      "verb_topic": "main_verbs",
+      "note_en": "Examples of verb usage listed in Parts of Speech table",
+      "source": "race",
+      "source_page": 52
+    },
+    {
+      "input_en": "V1 (Present tense form)",
+      "output_en": "play",
+      "verb_topic": "regular_verbs",
+      "note_en": "Base form of the verb",
+      "source": "grammer",
+      "source_page": 50
+    },
+    {
+      "input_en": "V2 (Past tense form)",
+      "output_en": "played",
+      "verb_topic": "regular_verbs",
+      "note_en": "Used for simple past actions",
+      "source": "grammer",
+      "source_page": 50
+    },
+    {
+      "input_en": "V3 (Past participle form)",
+      "output_en": "played",
+      "verb_topic": "regular_verbs",
+      "note_en": "Used in perfect tenses",
+      "source": "grammer",
+      "source_page": 50
+    },
+    {
+      "input_en": "He can drive a car.",
+      "output_en": "Can (Modal), drive (Main Verb)",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "‘can’ denotes ability.",
+      "source": "grammer",
+      "source_page": 52
+    },
+    {
+      "input_en": "The rich should help the poor.",
+      "output_en": "Should (Modal), help (Main Verb)",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "‘should’ denotes moral obligation.",
+      "source": "grammer",
+      "source_page": 52
+    },
+    {
+      "input_en": "It may rain today.",
+      "output_en": "May (Modal), rain (Main Verb)",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "‘may’ denotes possibility.",
+      "source": "grammer",
+      "source_page": 52
+    },
+    {
+      "input_en": "I threw the ball.",
+      "output_en": "Transitive verb with noun object",
+      "verb_topic": "main_verbs",
+      "note_en": "The ball is the object.",
+      "source": "grammer",
+      "source_page": 370
+    },
+    {
+      "input_en": "We beat them.",
+      "output_en": "Transitive verb with pronoun object",
+      "verb_topic": "main_verbs",
+      "note_en": "Them is the object.",
+      "source": "grammer",
+      "source_page": 370
+    },
+    {
+      "input_en": "I think that you are correct.",
+      "output_en": "Transitive verb with noun clause object",
+      "verb_topic": "main_verbs",
+      "note_en": "That you are correct is the noun clause object.",
+      "source": "grammer",
+      "source_page": 370
+    },
+    {
+      "input_en": "I ran.",
+      "output_en": "Intransitive verb",
+      "verb_topic": "main_verbs",
+      "note_en": "Action expressed without an object.",
+      "source": "grammer",
+      "source_page": 370
+    },
+    {
+      "input_en": "Modal verbs list",
+      "output_en": "shall, should, will, would, can, could, may, might, dare, need",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Standard list of modals.",
+      "source": "grammer",
+      "source_page": 372
+    },
+    {
+      "input_en": "Modal phrases (semi-modals) list",
+      "output_en": "have to, ought to, used to, need to",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Combinations of helping verbs and prepositions.",
+      "source": "grammer",
+      "source_page": 372
+    },
+    {
+      "input_en": "Possibility",
+      "output_en": "They may come by car.",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "May is used for possibility.",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "input_en": "Impossibility (Present)",
+      "output_en": "That can't be true.",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Can't/cannot indicate impossibility.",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "input_en": "Probability",
+      "output_en": "You must be hungry.",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Must indicates logical certainty.",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "input_en": "Permission (Informal)",
+      "output_en": "Can I ask a question, please?",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Can is used for permission.",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "input_en": "Permission (Formal)",
+      "output_en": "Could I ask a question please?",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Could is more formal/polite than can.",
+      "source": "grammer",
+      "source_page": 373
+    },
+    {
+      "input_en": "I can speak a little Russian.",
+      "output_en": "Express ability",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Can as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "Can I open the window?",
+      "output_en": "Request permission",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Can as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "I may be home late.",
+      "output_en": "Express possibility",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "May as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "May I sit down, please?",
+      "output_en": "Request permission",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "May as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "I must go now.",
+      "output_en": "Express obligation",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Must as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "She must be over 90 years old.",
+      "output_en": "Express strong belief",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Must as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "You should stop smoking.",
+      "output_en": "Give advice",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Should as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "Would you like a cup of tea?",
+      "output_en": "Request or offer",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Would as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "If I were you, I would say sorry.",
+      "output_en": "In if-sentences",
+      "verb_topic": "auxiliary_verbs",
+      "note_en": "Would as modal verb",
+      "source": "grammer",
+      "source_page": 374
+    },
+    {
+      "input_en": "The man killed a snake.",
+      "output_en": "killed",
+      "verb_topic": "main_verbs",
+      "note_en": "Transitive verb: object 'a snake' used after 'killed'.",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "input_en": "The boy opened the window.",
+      "output_en": "opened",
+      "verb_topic": "main_verbs",
+      "note_en": "Transitive verb: object 'the window' used after 'opened'.",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "input_en": "Aditi made a doll.",
+      "output_en": "made",
+      "verb_topic": "main_verbs",
+      "note_en": "Transitive verb: object 'a doll' used after 'made'.",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "input_en": "The man died.",
+      "output_en": "died",
+      "verb_topic": "main_verbs",
+      "note_en": "Intransitive verb: no object required.",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "input_en": "The girl smiled.",
+      "output_en": "smiled",
+      "verb_topic": "main_verbs",
+      "note_en": "Intransitive verb: no object required.",
+      "source": "govt",
+      "source_page": 9
+    },
+    {
+      "input_en": "The sun shines.",
+      "output_en": "shines",
+      "verb_topic": "main_verbs",
+      "note_en": "Intransitive verb: no object required.",
+      "source": "govt",
+      "source_page": 9
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "We (should/must/ought to) when something is compulsory, obligatory and important.",
+      "answer_en": "must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "We (should/must/ought to) when something is suggested or recommended.",
+      "answer_en": "should",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Students _____ be quiet when they write the examination.",
+      "answer_en": "must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "You _____ wear a coat, it's quite warm.",
+      "answer_en": "needn't",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "_____ you open the window? It is very hot in the room.",
+      "answer_en": "Could",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "I _____ go to the school because I was ill.",
+      "answer_en": "couldn't",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "When she was eighteen, she _____ run fast.",
+      "answer_en": "could",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "You _____ drive fast. It's not safe.",
+      "answer_en": "mustn't",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "The magistrate _____ bat well.",
+      "answer_en": "can",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "1. I have some more juice, please? a. Could b. Needn't c. Would",
+      "answer_en": "a. Could",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "2. I ______ believe my eyes. Is Santhosh the one who is standing over there? a. couldn't b. mustn't c. can't",
+      "answer_en": "c. can't",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "3. Dinesh ______ be the richest person in the village. He's just bought two luxury cars. a. may not b. ought c. must",
+      "answer_en": "c. must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "4. Imran ______ have studied more for the final exam than playing. a. would b. should c. needs",
+      "answer_en": "b. should",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "5. My house ______ decorating as I'm tired of the old furniture. a. could b. may c. needs",
+      "answer_en": "c. needs",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "6. I ______ rather request you to check my exercise before giving it to the teacher. a. must b. May c. Wont",
+      "answer_en": "a. must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "7. In schools, students ______ wear uniforms. It is compulsory. a. should b. must c. may",
+      "answer_en": "b. must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "8. Nirmala's daughter ______ write perfectly when she was seven. a. Might b. could c. mustn't",
+      "answer_en": "b. could",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "9. I ______ let you know when I have more information about the matter. a. would b. shall c. can't",
+      "answer_en": "b. shall",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "10. We are not completely sure but Kishore ______ come back tomorrow. a. needn't b. may c. ought to",
+      "answer_en": "b. may",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "11. When Koushik was a child he ______ play in the street. a. wont b. must c. used to",
+      "answer_en": "c. used to",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: You _______ help the needy. (moral obligation)",
+      "answer_en": "should",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: If I were you, I _______ not behave like that. (conditional sentence)",
+      "answer_en": "would",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: I _______ never tell a lie. (determination)",
+      "answer_en": "will",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: My uncle _______ be taken to the hospital. (compulsion)",
+      "answer_en": "must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: The patient is critical. He _______ have reached by now. (possibility)",
+      "answer_en": "could",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: I _______ play hockey when I was a student. (past habit)",
+      "answer_en": "used to",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: You _______ not attend my class. (order)",
+      "answer_en": "shall",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: He _______ come today. (remote possibility)",
+      "answer_en": "might",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: He _______ follow the traffic rules. (regulation)",
+      "answer_en": "must",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: You _______ play the match. (willingness)",
+      "answer_en": "will",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: You _______ not waste time on it. (necessity)",
+      "answer_en": "need",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Complete the sentence with modals: Had the doctor come in time, he _______ have saved the patient. (probability)",
+      "answer_en": "would",
+      "verb_topic": "auxiliary_verbs",
+      "source": "verb_fully",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "It is years since I ___ him. Has he ___ his best days? (see)",
+      "answer_en": "saw, seen",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "Of late the custom has ___ into disuse. The lot ___ upon him. (fall)",
+      "answer_en": "fallen, fell",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "The toast was ___ with great enthusiasm. (drink)",
+      "answer_en": "drunk",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "He ___ freely when he had drink alcohol. Tamil is ___ in Tamil Nadu. (speak)",
+      "answer_en": "spoke, spoken",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "My patience ___ out at last. The inscription has ___ away in several places. (wear)",
+      "answer_en": "wore, worn",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "In a fit of rage she ___ up the letter. The country is ___ by factions. (tear)",
+      "answer_en": "tore, torn",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "He has been ___ by a scorpion. The remark ___ him. (sting)",
+      "answer_en": "stung, stung",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "You look as if you had ___ all the way home. He ___ for his life. (run)",
+      "answer_en": "run, ran",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "Once Ramesh, being asked his name by the servant, found to his dismay that he had ___ his own name. (forget)",
+      "answer_en": "forgotten",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "A better day for a drive could not have been ___ . (choose)",
+      "answer_en": "chosen",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "Computer technology has ___ a long way since the 1970s. (come)",
+      "answer_en": "come",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "The old beggar was ___ by a mad dog. A mad dog ___ him. (bite)",
+      "answer_en": "bitten, bit",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 9
+    },
+    {
+      "prompt_en": "State if the verb used is a transitive or intransitive one: 1. The boy cut his hand with a knife. 2. The clock stopped this morning. 3. The policeman blew his whistle. 4. The sun rises in the east. 5. An old beggar stood by the gate. 6. The clock ticks all day long. 7. I looked down from my window. 8. Put away your books. 9. The moon rose early. 10. The cat sleeps on the rug.",
+      "answer_en": "1. Transitive, 2. Intransitive, 3. Transitive, 4. Intransitive, 5. Intransitive, 6. Intransitive, 7. Intransitive, 8. Transitive, 9. Intransitive, 10. Intransitive.",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Identify if the verbs in the below list are transitive or intransitive: Come; buy; teach; learn; arrive; sing; run; draw; jump; write.",
+      "answer_en": "1. come - intransitive; 2. buy - transitive; 3. teach - transitive; 4. learn - transitive; 5. arrive - intransitive; 6. Sing - transitive; 7. run - intransitive; 8. draw - transitive; 9. jump - intransitive; 10. write - transitive.",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Fill in the missing forms of irregular verbs: 1. saw, seen; 2. bitten, bit; 3. swum, swam; 4. written, written; 5. laid, laid; 6. lay, lain; 7. took, taken; 8. gone, went, went; 9. begun, began; 10. bid/bidden, bade, bid.",
+      "answer_en": "1. see, saw, seen; 2. bite, bit, bitten; 3. swim, swam, swum; 4. write, wrote, written; 5. lay, laid, laid; 6. lie, lay, lain; 7. take, took, taken; 8. go, went, gone; 9. begin, began, begun; 10. bid, bade, bid/bidden.",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Fill in the missing forms of irregular verbs (Part II): 1. spun; 2. meant, meant; 3. arose, arisen; 4. drew, drawn, drew; 5. understood, understood; 6. shot; 7. shrunk, shrank; 8. smelt; 9. stuck; 10. swore, sworn.",
+      "answer_en": "1. spin, spun, spun; 2. mean, meant, meant; 3. arise, arose, arisen; 4. draw, drew, drawn; 5. understand, understood, understood; 6. shoot, shot, shot; 7. shrink, shrank, shrunk; 8. smell, smelt, smelt; 9. stick, stuck, stuck; 10. swear, swore, sworn.",
+      "verb_topic": "irregular_verbs",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "6. Being an astronaut will enable you ____ (achieve) great success in life.",
+      "answer_en": "achieve",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "7. If you give up ____ (study) now, our mission will be scrubbed.",
+      "answer_en": "studying",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "8. Think of your fellow astronauts who wouldn't hesitate ____ (help) you in time of trouble.",
+      "answer_en": "to help",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "9. We astronauts must keep on ____ (prepare) for our space launch.",
+      "answer_en": "preparing",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "10. Some say it's no use ____ (travel) to distant planets, because it takes too long.",
+      "answer_en": "travelling",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "11. But we really want ____ (visit) other planets and find out if life exists on them.",
+      "answer_en": "to visit",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "12. Can you imagine ____ (walk) up to a Martian and shaking hands and ____ (say), 'Hello, how are you?'",
+      "answer_en": "walking, saying",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "13. We really look forward ____ (meet) alien creatures and ____ (find) out what they are really like.",
+      "answer_en": "to meeting, finding",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "14. Many scientists have warned us not ____ (take) this dangerous journey, but we are not discouraged.",
+      "answer_en": "to take",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "15. Travelling to far away planets involves ____ (risk) our lives for the thrill of discovery.",
+      "answer_en": "risking",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "16. However, we won't delay ____ (blast) off into space.",
+      "answer_en": "blasting",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "17. Would you like ____ (accompany) us on our journey if you could?",
+      "answer_en": "to accompany",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "18. During our training we have got used to ____ (be) weightless and ____ (live) under difficult conditions.",
+      "answer_en": "being, living",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "19. Scientists admit to ____ (be) intensely curious about life on other planets.",
+      "answer_en": "being",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "20. I'm sure they would also enjoy ____ (travel) with our crew.",
+      "answer_en": "travelling",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "21. We told them ____ (come) with us on our trip, but some of them think it is a waste of time ____ (search) for life that doesn't exist.",
+      "answer_en": "to come, searching",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "22. We have been taught how ____ (endure) hardships during our training and now we can't afford ____ (waste) money.",
+      "answer_en": "to endure, to waste",
+      "verb_topic": "main_verbs",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "9. a) I am leaving now. b) I will leave now. c) I will leaving now. d) I leaving now.",
+      "answer_en": "a",
+      "verb_topic": "auxiliary_verbs",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "prompt_en": "11. a) I want three eggs. b) I want three egg. c) I wanted three egg. d) I wants three egg.",
+      "answer_en": "a",
+      "verb_topic": "main_verbs",
+      "source": "race",
+      "source_page": 51
+    },
+    {
+      "prompt_en": "15. a) My father sold his car last week. b) My father will sell his car last week. c) My father was sold his car last week d) My father selling his car last week.",
+      "answer_en": "a",
+      "verb_topic": "irregular_verbs",
+      "source": "race",
+      "source_page": 51
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 61,
+      "examples": 77,
+      "worked_exercises": 68
+    },
+    "by_verb_topic": {
+      "overview": {
+        "rules": 2,
+        "examples": 1,
+        "worked": 0
+      },
+      "auxiliary_verbs": {
+        "rules": 39,
+        "examples": 33,
+        "worked": 33
+      },
+      "main_verbs": {
+        "rules": 11,
+        "examples": 15,
+        "worked": 20
+      },
+      "regular_verbs": {
+        "rules": 2,
+        "examples": 6,
+        "worked": 0
+      },
+      "irregular_verbs": {
+        "rules": 7,
+        "examples": 22,
+        "worked": 15
+      }
+    }
+  }
+}

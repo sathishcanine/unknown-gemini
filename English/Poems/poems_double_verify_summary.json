@@ -1,0 +1,331 @@
+{
+  "poems": {
+    "a_poison_tree": {
+      "pid": "a_poison_tree",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "a_tragic_story": {
+      "pid": "a_tragic_story",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "advice_from_a_tree": {
+      "pid": "advice_from_a_tree",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "courage": {
+      "pid": "courage",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "dream_of_spices": {
+      "pid": "dream_of_spices",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "4",
+      "g_fix": "0",
+      "g_drop": "4",
+      "final": 25,
+      "remain": 0,
+      "verdict": "NEEDS_FIX"
+    },
+    "from_a_railway_carriage": {
+      "pid": "from_a_railway_carriage",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "leisure": {
+      "pid": "leisure",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "1",
+      "g_fix": "1",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "NEEDS_FIX"
+    },
+    "life": {
+      "pid": "life",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "memories_of_my_dad": {
+      "pid": "memories_of_my_dad",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "nature_the_gentlest_mother": {
+      "pid": "nature_the_gentlest_mother",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "1",
+      "g_fix": "0",
+      "g_drop": "1",
+      "final": 25,
+      "remain": 0,
+      "verdict": "NEEDS_FIX"
+    },
+    "never_trust_a_mirror": {
+      "pid": "never_trust_a_mirror",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "on_killing_a_tree": {
+      "pid": "on_killing_a_tree",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "sea_fever": {
+      "pid": "sea_fever",
+      "start": 25,
+      "rule_iss": 1,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "special_hero": {
+      "pid": "special_hero",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "stopping_by_woods_on_a_snowy_evening": {
+      "pid": "stopping_by_woods_on_a_snowy_evening",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "teamwork": {
+      "pid": "teamwork",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "1",
+      "g_fix": "0",
+      "g_drop": "1",
+      "final": 25,
+      "remain": 0,
+      "verdict": "NEEDS_FIX"
+    },
+    "the_age_of_chivalry": {
+      "pid": "the_age_of_chivalry",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_comet": {
+      "pid": "the_comet",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_crocodile": {
+      "pid": "the_crocodile",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_grumble_family": {
+      "pid": "the_grumble_family",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_listeners": {
+      "pid": "the_listeners",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_power_of_a_smile": {
+      "pid": "the_power_of_a_smile",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_river": {
+      "pid": "the_river",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_secret_of_the_machines": {
+      "pid": "the_secret_of_the_machines",
+      "start": 25,
+      "rule_iss": 1,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_spider_and_the_fly": {
+      "pid": "the_spider_and_the_fly",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_star": {
+      "pid": "the_star",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "the_stick_together_families": {
+      "pid": "the_stick_together_families",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "1",
+      "g_fix": "1",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "NEEDS_FIX"
+    },
+    "wandering_singers": {
+      "pid": "wandering_singers",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    },
+    "your_space": {
+      "pid": "your_space",
+      "start": 25,
+      "rule_iss": 0,
+      "g_flag": "0",
+      "g_fix": "0",
+      "g_drop": "0",
+      "final": 25,
+      "remain": 0,
+      "verdict": "PASS"
+    }
+  },
+  "final_rule_problems": {},
+  "totals": {
+    "flagged": 8,
+    "fixed": 2,
+    "dropped": 6,
+    "rule": 2,
+    "questions": 725
+  }
+}

@@ -1,0 +1,556 @@
+[
+  {
+    "q_no": 1,
+    "question_ta": "அறத்துப்பாலில் உள்ள அதிகாரங்களின் எண்ணிக்கை எத்தனை?",
+    "options_ta": [
+      "70",
+      "38",
+      "25",
+      "36"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "அறத்துப்பாலில் பாயிரவியல், இல்லறவியல், துறவறவியல், ஊழியல் என நான்கு இயல்களும் 38 அதிகாரங்களும் உள்ளன."
+  },
+  {
+    "q_no": 2,
+    "question_ta": "திருக்குறள் மூலத்தை முதன் முதலில் அச்சிட்டவர்",
+    "options_ta": [
+      "பரிமேலழகர்",
+      "தஞ்சை ஞானப்பிரகாசர்",
+      "பாரதிதாசன்",
+      "பாரதியார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "1812-இல் தஞ்சை ஞானப்பிரகாசர் முதன்முதலில் திருக்குறளைப் பதிப்பித்து வெளியிட்டார்."
+  },
+  {
+    "q_no": 3,
+    "question_ta": "அடைமொழியால் குறிக்கப்பெறும் நூல் எது?",
+    "options_ta": [
+      "நெடுந்தொகை",
+      "திருக்குறள்",
+      "முத்தொள்ளாயிரம்",
+      "கம்பராமாயணம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "'திரு' என்னும் அடைமொழியோடு குறிக்கப்பெறும் நூல் திருக்குறள் ஆகும்."
+  },
+  {
+    "q_no": 4,
+    "question_ta": "திருக்குறள் முதன் முதலில் அச்சிடப்பட்ட ஆண்டு?",
+    "options_ta": [
+      "1832",
+      "1812",
+      "1842",
+      "1852"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திருக்குறள் முதன் முதலில் அச்சிடப்பட்ட ஆண்டு 1812 ஆகும்."
+  },
+  {
+    "q_no": 5,
+    "question_ta": "பொருட்பாலின் இயல்கள்",
+    "options_ta": [
+      "பாயிரம், இல்லறவியல், துறவறவியல், ஊழியல்",
+      "அரசியல், அங்கவியல், ஒழிபியல்",
+      "களவியல், கற்பியல்",
+      "பாயிரவியல், அரசியல், களவியல்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "பொருட்பாலின் மூன்று இயல்கள் அரசியல், அங்கவியல் (அமைச்சியல்), ஒழிபியல் ஆகும்."
+  },
+  {
+    "q_no": 6,
+    "question_ta": "தமிழக அரசு எந்நாளைத் திருவள்ளுவர் நாளாக அறிவித்துள்ளது?",
+    "options_ta": [
+      "சித்திரை 1",
+      "ஆடி 18",
+      "தை 2",
+      "புரட்டாசி 3"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "தமிழக அரசு தை திங்கள் இரண்டாம் நாளை திருவள்ளுவர் நாளாக அறிவித்துக் கொண்டாடி வருகிறது."
+  },
+  {
+    "q_no": 7,
+    "question_ta": "'உலகப் பொதுமறை' எனப் போற்றப்படும் நூல் எது?",
+    "options_ta": [
+      "திரிகடுகம்",
+      "திருவள்ளுவமாலை",
+      "திருக்குறள்",
+      "திருவிளையாடற்புராணம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "சாதி, மத, இன வேறுபாடின்றி உலக மக்கள் அனைவருக்கும் பொதுவான கருத்துக்களைக் கூறுவதால் திருக்குறள் 'உலகப் பொதுமறை' எனப்படுகிறது."
+  },
+  {
+    "q_no": 8,
+    "question_ta": "திருக்குறளுக்கும் ................. என்னும் எண்ணிற்கும் பெரிதும் தொடர்புடையது",
+    "options_ta": [
+      "மூன்று",
+      "எட்டு",
+      "ஏழு",
+      "ஐந்து"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திருக்குறளில் ஏழு என்ற எண்ணுக்கும் அதன் அமைப்பிற்கும் (அதிகாரங்கள் 133, குறள்கள் 1330, சீர்கள் 7) பெரும் தொடர்புள்ளது."
+  },
+  {
+    "q_no": 9,
+    "question_ta": "'அடையடுத்த ஆகுபெயர்' என்ற இலக்கணக்குறிப்பிற்குப் பொருத்தமான நூல் எது?",
+    "options_ta": [
+      "நாலடியார்",
+      "சீவக சிந்தாமணி",
+      "திருக்குறள்",
+      "சிறுபஞ்சமூலம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "குறள் என்னும் கருவி ஆகுபெயருக்கு 'திரு' என்னும் அடைமொழி சேர்ந்து வருவதால் இது அடையடுத்த ஆகுபெயர் (அடையடுத்த கருவியாகுபெயர்) ஆகும்."
+  },
+  {
+    "q_no": 10,
+    "question_ta": "எந்த நாட்டில் அணுதுளைக்காத சுரங்கப் பாதுகாப்புப் பெட்டகத்தில் திருக்குறள் உள்ளது",
+    "options_ta": [
+      "இங்கிலாந்து",
+      "சிங்கப்பூர்",
+      "உருசியா",
+      "இந்தியா"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "உருசிய நாட்டின் கிரெம்ளின் மாளிகையில் உள்ள சுரங்கப் பாதுகாப்புப் பெட்டகத்தில் திருக்குறள் வைக்கப்பட்டுள்ளது."
+  },
+  {
+    "q_no": 11,
+    "question_ta": "இங்கிலாந்து மகாராணி விக்டோரியா காலையில் கண்விழித்ததும் முதலில் படித்த நூல்?",
+    "options_ta": [
+      "திருவருட்பா",
+      "திருக்குறள்",
+      "மகாபாரதம்",
+      "இராமாயணம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "இங்கிலாந்து மகாராணி விக்டோரியா காலையில் கண்விழித்ததும் முதலில் படித்த நூல் திருக்குறள் என்று கூறப்படுகிறது."
+  },
+  {
+    "q_no": 12,
+    "question_ta": "\"திருவள்ளுவர் தோன்றியிராவிட்டால், தமிழன் என்னும் ஓர் இனம் இருப்பதாக உலகத்தார்க்குத் தெரிந்திருக்காது?\"",
+    "options_ta": [
+      "கி.ஆ. பெ. விசுவநாதம்",
+      "இ. ரா. கிருஷ்ணமூர்த்தி",
+      "ந. மு. வேங்கடசாமி நாட்டார்",
+      "பரிமேலழகர்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "\"திருவள்ளுவர் தோன்றியிராவிட்டால், தமிழன் என்னும் ஓர் இனம் இருப்பதாக உலகத்தார்க்குத் தெரிந்திருக்காது\" என்று கூறியவர் கி.ஆ.பெ. விசுவநாதம்."
+  },
+  {
+    "q_no": 13,
+    "question_ta": "திருக்குறளில் எத்தனை அதிகாரம் உள்ளன",
+    "options_ta": [
+      "33",
+      "133",
+      "13",
+      "1330"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திருக்குறளில் மொத்தம் 133 அதிகாரங்கள் உள்ளன."
+  },
+  {
+    "q_no": 14,
+    "question_ta": "திருக்குறளுக்கு பதின்மர் உரை எழுதியுள்ளனர். அவ்வுரைகளுள் சிறந்த உரை எழுதிய தமிழ்ச் சான்றோர் யார்?",
+    "options_ta": [
+      "இளம்பூரணர்",
+      "நச்சர்",
+      "பரிமேலழகர்",
+      "ந.மு. வேங்கடசாமி"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 388,
+    "source": "SM_Tamil_page388_screenshot",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திருக்குறளுக்கு உரை எழுதிய பதின்மரில் பரிமேலழகரின் உரையே மிகச் சிறந்ததாகப் போற்றப்படுகிறது."
+  },
+  {
+    "q_no": 15,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "மாதானுபங்கி என அழைக்கப்படுபவர் யார்?",
+    "options_ta": [
+      "கம்பர்",
+      "பாரதியார்",
+      "வீரமாமுனிவர்",
+      "திருவள்ளுவர்"
+    ],
+    "correct_option_letter": "D",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 16,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "திருக்குறள் எத்தனை மொழிகளில் மொழிபெயர்க்கப்பட்டுள்ளது?",
+    "options_ta": [
+      "100",
+      "105",
+      "107",
+      "110"
+    ],
+    "correct_option_letter": "C",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 17,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "பயனில்லாத களர்நிலத்திற்கு ஒப்பானவர்கள்",
+    "options_ta": [
+      "வலிமையற்றவர்",
+      "கல்லாதவர்",
+      "ஒழுக்கமற்றவர்",
+      "அன்பில்லாதவர்"
+    ],
+    "correct_option_letter": "B",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 18,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "திருக்குறளின் வழியில் துன்பப்படுபவர்",
+    "options_ta": [
+      "தீக்காயம் பட்டவர்",
+      "தீயினால் சுட்டவர்",
+      "பொருளைக் காக்காதவர்",
+      "நாவைக் காக்காதவர்"
+    ],
+    "correct_option_letter": "D",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 19,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "ஆண்மையின் கூர்மை என திருவள்ளுவர் எதனைக் கூறுகிறார்?",
+    "options_ta": [
+      "வறியவருக்கு உதவுதல்",
+      "பகைவருக்கு உதவுதல்",
+      "நண்பனுக்கு உதவுதல்",
+      "உறவினருக்கு உதவுதல்"
+    ],
+    "correct_option_letter": "B",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 20,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "திருக்குறளின் சரியான வரியை கொண்டு நிறைவு செய்க.\n'தம்மிற் பெரியார் தமரா ஒழுகுதல் –?'",
+    "options_ta": [
+      "வன்மையுள் எல்லாம் தலை",
+      "கெடுக்குந் தகைமை யவர்",
+      "பேணித் தமராக் கோளல்",
+      "பெற்றியார்ப் பேணிக் கோளல்"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 21,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "'ஒப்புரவு' என்பதன் பொருள்",
+    "options_ta": [
+      "அடக்கமுடைமை",
+      "பண்புடைமை",
+      "ஊருக்கு உதவுவது",
+      "செல்வம் உடையது"
+    ],
+    "correct_option_letter": "C",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 22,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "'புறந்தூய்மை நீரான் அமையும்' அகந்தூய்மை .............. காணப்படும்",
+    "options_ta": [
+      "நீரால்",
+      "காற்றால்",
+      "வாய்மையால்",
+      "பொய்மையால்"
+    ],
+    "correct_option_letter": "C",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 23,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "யாருக்கு மருந்துண்ணும் தேவை ஏற்படாது என்கிறார் திருவள்ளுவர்?",
+    "options_ta": [
+      "பசித்த பின் உண்பாருக்கு",
+      "முன் உண்டது செரித்த பின் உண்பாருக்கு",
+      "நீர் அருந்துபவருக்கு",
+      "இவற்றுள் ஏதுமில்லை"
+    ],
+    "correct_option_letter": "B",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 24,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "தீதின்றி வந்த பொருள் எவற்றை ஈனும்?",
+    "options_ta": [
+      "அறமும் இன்பமும்",
+      "கல்வியும் செல்வமும்",
+      "தானமும் தர்மமும்",
+      "ஒழுக்கமும் புகழும்"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 25,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "எத்தகைய கேடு வரினும் தன்னை விற்றாவது செய்ய வேண்டிய கடமை",
+    "options_ta": [
+      "ஒப்புரவு",
+      "பயனில சொல்லாமை",
+      "தவம்",
+      "கல்வி"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 26,
+    "section_ta": "திருக்குறள்",
+    "question_ta": "கன்னியாகுமரியில் உள்ள திருவள்ளுவர் சிலை அமைப்பதற்கு மூன்று டன் முதல் எட்டு டன் வரை எடை உள்ள கருங்கற்கள் பயன்படுத்தப்பட்டுள்ளன.",
+    "options_ta": [
+      "3581",
+      "3481",
+      "3681",
+      "3781"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 27,
+    "section_ta": "திருவள்ளுவமாலை",
+    "question_ta": "'வள்ளைக்கு உறங்கும் வளநாட'\nவள்ளை - என்பதன் பொருள் யாது?",
+    "options_ta": [
+      "நெல் குத்தும் போது பெண்கள் பாடும் பாட்டு",
+      "நடவு நடும் போது பெண்கள் பாடும் பாட்டு",
+      "கும்மியடிக்கும் போது பெண்கள் பாடும் பாட்டு",
+      "இவை எதுவும் இல்லை"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 28,
+    "section_ta": "திருவள்ளுவமாலை",
+    "question_ta": "\"................... சிறுபுல் நீர் நீண்ட பனையளவு காட்டும் படித்தால்\" – என்ற பாடலடியை பாடியவர் யார்?",
+    "options_ta": [
+      "கபிலர்",
+      "கம்பர்",
+      "ஔவையார்",
+      "பரணர்"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 29,
+    "section_ta": "திருவள்ளுவமாலை",
+    "question_ta": "திருக்குறளின் அழியாத் தன்மையைப் பறை சாற்றும் செய்யுள் நூல் எது?",
+    "options_ta": [
+      "நாலடியார்",
+      "பழமொழி",
+      "திருவள்ளுவமாலை",
+      "திரிகடுகம்"
+    ],
+    "correct_option_letter": "C",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  },
+  {
+    "q_no": 30,
+    "section_ta": "திருவள்ளுவமாலை",
+    "question_ta": "திருவள்ளுவமாலையில் திருக்குறளைப் புகழ்ந்து பாடியுள்ள புலவர்கள் எத்தனைப் பேர்?",
+    "options_ta": [
+      "ஐம்பத்துமூவர்",
+      "ஐம்பத்துநால்வர்",
+      "அறுபத்துமூவர்",
+      "நூற்றுவர்"
+    ],
+    "correct_option_letter": "A",
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": 389,
+    "source": "SM_Tamil_page389_screenshot",
+    "answer_source": "gemini_inferred"
+  }
+]

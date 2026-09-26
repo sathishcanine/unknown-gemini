@@ -1,0 +1,2699 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "phrasal_verbs",
+  "sources": [
+    "Vetrii Vocabulary pp.[100, 101, 102, 103, 104, 105, 106, 107] (primary, vision)",
+    "Grammer.pdf pp.[204, 222, 228, 230, 231] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "A phrasal verb is an idiomatic phrase consisting of verb and another element, typically an adverb or preposition or both, meaning of which is different from meaning of its separate parts.",
+      "pv_tag": "definition",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "rule_en": "A phrasal verb is a combination of words (a verb + a preposition or a verb + adverb) that when used together, usually take on a different meaning from that of the original verb.",
+      "pv_tag": "definition",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "rule_en": "A phrasal verb is a verb that is made up of a main verb together with an adverb or a preposition, or both.",
+      "pv_tag": "definition",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "rule_en": "A combination of words (a verb+a preposition or a verb+adverb) that when used together, usually take on a different meaning from that of the original verb.",
+      "pv_tag": "definition",
+      "source": "grammer",
+      "source_page": 228
+    }
+  ],
+  "examples": [
+    {
+      "phrasal_en": "Set out",
+      "meaning_en": "To begin a journey.",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Pick up",
+      "meaning_en": "To get someone from a place",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Get away",
+      "meaning_en": "To go somewhere for a short break or holiday",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "See off",
+      "meaning_en": "To go to the station to say good bye to someone",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Get into",
+      "meaning_en": "To enter a bus, a train or a plane",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Get off",
+      "meaning_en": "To leave a bus, a train or a plane",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Work out",
+      "meaning_en": "To exercise",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Bring it on",
+      "meaning_en": "To accept a challenge with confidence",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Get along",
+      "meaning_en": "To have a friendly relationship",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Hang on",
+      "meaning_en": "To keep something",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Come across",
+      "meaning_en": "To meet or find by chance",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Go far",
+      "meaning_en": "succeed",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Blow up",
+      "meaning_en": "explode",
+      "example_en": "",
+      "note_en": "",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 100
+    },
+    {
+      "phrasal_en": "Show up",
+      "meaning_en": "reveal",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Call on",
+      "meaning_en": "require",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Break off",
+      "meaning_en": "finish",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Knuckle under",
+      "meaning_en": "submit",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Come in",
+      "meaning_en": "enter",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Try again",
+      "meaning_en": "repeat",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Walk away",
+      "meaning_en": "avoid",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Time out",
+      "meaning_en": "time is over",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Pass out",
+      "meaning_en": "faint",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Draw up",
+      "meaning_en": "halt/stop",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Cut off",
+      "meaning_en": "separate/remove",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Come upon",
+      "meaning_en": "to meet by chance",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Put out",
+      "meaning_en": "extinguish",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Bank on",
+      "meaning_en": "depend on/rely",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Turn away",
+      "meaning_en": "refuse/oppose",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Stand up",
+      "meaning_en": "rise to one's feet",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Stand for",
+      "meaning_en": "represent",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Stand by",
+      "meaning_en": "be ready for action",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Look into",
+      "meaning_en": "investigate",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Look after",
+      "meaning_en": "take care of",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Look down on",
+      "meaning_en": "despise",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Run over",
+      "meaning_en": "hit with",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Run away",
+      "meaning_en": "leave/escape",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Put on",
+      "meaning_en": "wear",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Go away",
+      "meaning_en": "to leave",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Give up",
+      "meaning_en": "stop",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Take off",
+      "meaning_en": "start",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Turn on",
+      "meaning_en": "to open",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Put off",
+      "meaning_en": "postpone",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Took over",
+      "meaning_en": "take lead",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Set off",
+      "meaning_en": "start a journey",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Kick off",
+      "meaning_en": "to begin, start",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Get rid of",
+      "meaning_en": "to eliminate",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Catch on",
+      "meaning_en": "understand",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Put up with",
+      "meaning_en": "tolerate",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Ran out",
+      "meaning_en": "to use completely",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Run into",
+      "meaning_en": "collide with someone/something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Put up",
+      "meaning_en": "construct or erect something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Get on",
+      "meaning_en": "having good relationship",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Call back",
+      "meaning_en": "to return a phone call",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Call on somebody",
+      "meaning_en": "visit somebody",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "Keep on",
+      "meaning_en": "to continue doing something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 101
+    },
+    {
+      "phrasal_en": "See to",
+      "meaning_en": "attend to or deal with something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Keep on",
+      "meaning_en": "to continue happening, doing something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Take over",
+      "meaning_en": "the act of taking control of something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Go through",
+      "meaning_en": "to look at or examine something carefully",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "See off",
+      "meaning_en": "to go to station or airport to say goodbye to someone",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Set off",
+      "meaning_en": "start off/to begin a journey",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Get in",
+      "meaning_en": "arrive inside train, bus etc.",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Get off",
+      "meaning_en": "leave a bus, train etc.",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Get on",
+      "meaning_en": "enter a bus, train, plane",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Get away",
+      "meaning_en": "to go away from home for a vacation",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Check in",
+      "meaning_en": "arrive and register at airport or hotel",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Check out",
+      "meaning_en": "pay the bill when leaving a hotel",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Stop over",
+      "meaning_en": "to stay at a place for a short period of time when travelling to another destination",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Act for",
+      "meaning_en": "officiate",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Act on",
+      "meaning_en": "act according to an effect",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Act upon",
+      "meaning_en": "act fully",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Back down",
+      "meaning_en": "to withdraw",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Back out",
+      "meaning_en": "quit",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Back up",
+      "meaning_en": "support",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bear away",
+      "meaning_en": "win",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bear out",
+      "meaning_en": "confirm",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Black out",
+      "meaning_en": "to faint",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Break down",
+      "meaning_en": "fail/lose composure/health",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Break in/into",
+      "meaning_en": "enter illegally/interrupt",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Break out",
+      "meaning_en": "escape/arise/spread/begin",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Break up/off",
+      "meaning_en": "end",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring about",
+      "meaning_en": "cause to happen",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring back",
+      "meaning_en": "reintroduce",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring down",
+      "meaning_en": "lower",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring in",
+      "meaning_en": "earn, make, get",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring on",
+      "meaning_en": "Cause to start",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring out",
+      "meaning_en": "produce",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring round",
+      "meaning_en": "persuade",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring up",
+      "meaning_en": "rear",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Bring along",
+      "meaning_en": "come with",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Call on",
+      "meaning_en": "visit",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Call back",
+      "meaning_en": "to return phone call",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Come off",
+      "meaning_en": "succeed, take place",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Call down",
+      "meaning_en": "reprimand",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Call for",
+      "meaning_en": "require",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Carry off",
+      "meaning_en": "win",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Carry on",
+      "meaning_en": "continue",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Come along",
+      "meaning_en": "accompany",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Come out",
+      "meaning_en": "reveal/disappear",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Calm up",
+      "meaning_en": "to refuse to speak",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 457
+    },
+    {
+      "phrasal_en": "Come back to",
+      "meaning_en": "return to",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Chip in",
+      "meaning_en": "help",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Carry over",
+      "meaning_en": "postpone",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Come about",
+      "meaning_en": "happen",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Come across",
+      "meaning_en": "find by chance",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look upto",
+      "meaning_en": "respect",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Lay aside",
+      "meaning_en": "abandon",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Lay by",
+      "meaning_en": "reserve for future",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Lay down",
+      "meaning_en": "sacrifice, fix, establish",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Lay off",
+      "meaning_en": "dismiss, stop",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Lay out",
+      "meaning_en": "arrange",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Let down",
+      "meaning_en": "disappoint",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Let in",
+      "meaning_en": "allow to enter",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Let out",
+      "meaning_en": "release",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look around",
+      "meaning_en": "search",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look at",
+      "meaning_en": "see something",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look away",
+      "meaning_en": "turn one's eyes aside",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look for",
+      "meaning_en": "search",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look into",
+      "meaning_en": "make investigation/refer",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look on",
+      "meaning_en": "regard as",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look through",
+      "meaning_en": "see carefully",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Look up",
+      "meaning_en": "search for",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Make away with",
+      "meaning_en": "steal",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Make for",
+      "meaning_en": "rush to",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Make off",
+      "meaning_en": "hurry away",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Make out",
+      "meaning_en": "understand",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Make of",
+      "meaning_en": "form an opinion",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Make up",
+      "meaning_en": "come to a decision",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Makes up",
+      "meaning_en": "end",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Made up",
+      "meaning_en": "to put together",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pass away",
+      "meaning_en": "die",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pass by",
+      "meaning_en": "go by the side of",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pass off",
+      "meaning_en": "take place",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pass on",
+      "meaning_en": "give",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pass out",
+      "meaning_en": "become unconscious",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pass over",
+      "meaning_en": "ignore",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pick on",
+      "meaning_en": "single out",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pick out",
+      "meaning_en": "select",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Pick up",
+      "meaning_en": "increase ; learn or acquire",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put up",
+      "meaning_en": "to stay, to lodge",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put down",
+      "meaning_en": "to suppress",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put forward",
+      "meaning_en": "to advance",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put in",
+      "meaning_en": "submit",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put across",
+      "meaning_en": "explain clearly",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put in",
+      "meaning_en": "contribute",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Put up with",
+      "meaning_en": "endure",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run across",
+      "meaning_en": "find by chance",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run after",
+      "meaning_en": "follow",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run along",
+      "meaning_en": "go away",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run for",
+      "meaning_en": "contest election",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run to",
+      "meaning_en": "reach an amount",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run into",
+      "meaning_en": "meet",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run out",
+      "meaning_en": "have none left",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run away",
+      "meaning_en": "desert",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Run down",
+      "meaning_en": "speak ill of",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "See about",
+      "meaning_en": "deal with",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "See off",
+      "meaning_en": "assist in departure",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "See to",
+      "meaning_en": "attend to",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set apart",
+      "meaning_en": "keep away",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set aside",
+      "meaning_en": "nullify",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set back",
+      "meaning_en": "check progress",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set down",
+      "meaning_en": "write",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set forth",
+      "meaning_en": "begin (a journey)",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set in",
+      "meaning_en": "begin (weather)",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 103
+    },
+    {
+      "phrasal_en": "Set on",
+      "meaning_en": "determined",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Set out",
+      "meaning_en": "start",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Set up",
+      "meaning_en": "establish",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Stand against",
+      "meaning_en": "oppose",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Stand aside",
+      "meaning_en": "be idle",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Stand on",
+      "meaning_en": "insist",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Stand out",
+      "meaning_en": "continue to resist",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Stand up for",
+      "meaning_en": "defend, support",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Stand upon",
+      "meaning_en": "depend",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "See through",
+      "meaning_en": "to discern, not to be deceived",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take a back",
+      "meaning_en": "surprised",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take after",
+      "meaning_en": "resemble",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take back",
+      "meaning_en": "withdraw",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take down",
+      "meaning_en": "write",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take for",
+      "meaning_en": "mistake for; regard as",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take in",
+      "meaning_en": "deceive, understand",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take off",
+      "meaning_en": "remove, leave the ground",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take on",
+      "meaning_en": "employ",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take out",
+      "meaning_en": "go out with",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Take to",
+      "meaning_en": "to start liking",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Think back on",
+      "meaning_en": "recall",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Turn down",
+      "meaning_en": "reject",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Turn off",
+      "meaning_en": "return",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Turn out",
+      "meaning_en": "attended in large numbers",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Turn over",
+      "meaning_en": "people attend",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Turn up",
+      "meaning_en": "to be found",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Wake up",
+      "meaning_en": "awaken",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Watch for",
+      "meaning_en": "look and wait for",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Watch out",
+      "meaning_en": "be careful",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Work off",
+      "meaning_en": "dispose",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Work out",
+      "meaning_en": "solve",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Work up",
+      "meaning_en": "prepare; agitated",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Write down",
+      "meaning_en": "record",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "Write up",
+      "meaning_en": "compose",
+      "example_en": null,
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "phrasal_en": "cut down",
+      "meaning_en": "fell (trees)",
+      "example_en": "We should not cut down trees.",
+      "note_en": "Matches with 'fell' in exercise.",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "phrasal_en": "concur with",
+      "meaning_en": "accept",
+      "example_en": "I concur with the speaker in condemning what he has done.",
+      "note_en": "Matches with 'accept' in exercise.",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "phrasal_en": "ponder over",
+      "meaning_en": "think twice",
+      "example_en": "We must ponder over before taking action.",
+      "note_en": "Matches with 'think twice' in exercise.",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "phrasal_en": "carry out",
+      "meaning_en": "continue / perform duty",
+      "example_en": "We should carry out our duty till the end.",
+      "note_en": "Matches with 'continue' in exercise.",
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "phrasal_en": "get along with",
+      "meaning_en": "to have a good relationship with someone",
+      "example_en": "Venkat felt happy to get along with the neighbours in the new locality.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "take-off",
+      "meaning_en": "to leave the ground (for aircraft)",
+      "example_en": "The airhostess instructed the passengers to wear the seat belts during the take-off.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "shut down",
+      "meaning_en": "to stop operating",
+      "example_en": "There will be a shut down next week in the office.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "warm up",
+      "meaning_en": "to prepare for physical activity",
+      "example_en": "Doing warm up every day in the morning keeps one healthy.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "look after",
+      "meaning_en": "to take care of someone or something",
+      "example_en": "The mother instructed the maid to look after the child carefully.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "put on",
+      "meaning_en": "to gain weight",
+      "example_en": "I don't put on weight easily.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "stretch out",
+      "meaning_en": "to reach for something",
+      "example_en": "The only time I stretch out is when I need something from the top shelf.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "keep up",
+      "meaning_en": "to maintain a pace or standard",
+      "example_en": "I couldn't keep up with the others.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "burn off",
+      "meaning_en": "to use up energy or calories through activity",
+      "example_en": "that helps to burn off the calories.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "build up",
+      "meaning_en": "to develop or increase",
+      "example_en": "it's important to build up good levels of strength and stamina.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "tire out",
+      "meaning_en": "to exhaust someone",
+      "example_en": "I don't want to overdo it though. A fitness regime like hers would tire out me.",
+      "note_en": null,
+      "pv_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "phrasal_en": "stay away",
+      "meaning_en": "to not go near or to a place",
+      "example_en": "As you don’t know how to swim, I want you to stay away from the swimming pool.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "break in",
+      "meaning_en": "to enter a building by force",
+      "example_en": "N/A",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "hold up",
+      "meaning_en": "to delay or obstruct",
+      "example_en": "The sports team is late because it is held up in traffic.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "set aside",
+      "meaning_en": "to save for a future purpose",
+      "example_en": "You must set aside some money for emergencies.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "pick up",
+      "meaning_en": "to learn a new skill or language by practice",
+      "example_en": "Sashi picked up some German during her tour of Germany.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "let off",
+      "meaning_en": "to give a light punishment or excuse from penalty",
+      "example_en": "The students who misbehaved in the class were let off with a strong warning.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "make off",
+      "meaning_en": "to escape",
+      "example_en": "The burglars made off with the stolen jewellery.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "pull through",
+      "meaning_en": "to recover from a serious illness",
+      "example_en": "Although the grandfather was very critical, his family hoped that he would pull through.",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "put up with",
+      "meaning_en": "to tolerate or endure",
+      "example_en": "N/A",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "give in",
+      "meaning_en": "to yield or surrender",
+      "example_en": "N/A",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "phrasal_en": "catch on",
+      "meaning_en": "to understand",
+      "example_en": "N/A",
+      "note_en": "N/A",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "phrasal_en": "stay away",
+      "meaning_en": "to avoid being near something or someone",
+      "example_en": "I want you to stay away from the swimming pool.",
+      "note_en": "Used in sentence 2",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "phrasal_en": "hold up",
+      "meaning_en": "to cause a delay",
+      "example_en": "The sports team is late because it is held up in traffic.",
+      "note_en": "Used in sentence 1",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "phrasal_en": "set aside",
+      "meaning_en": "to save something for a specific purpose",
+      "example_en": "You must set aside some money for emergencies.",
+      "note_en": "Used in sentence 3",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "phrasal_en": "pick up",
+      "meaning_en": "to learn something new without effort",
+      "example_en": "Sashi picked up some German during her tour of Germany.",
+      "note_en": "Used in sentence 5",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "phrasal_en": "let off",
+      "meaning_en": "to give a light punishment or warning",
+      "example_en": "The students who misbehaved in the class were let off with a strong warning.",
+      "note_en": "Used in sentence 4",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "phrasal_en": "give in",
+      "meaning_en": "to surrender or yield",
+      "example_en": "N/A",
+      "note_en": "List item",
+      "pv_tag": "meaning",
+      "source": "grammer",
+      "source_page": 228
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The boar slept until the fading sun told him it was time to get up.",
+      "answer_en": "a) Until evening",
+      "options_en": [
+        "a) Until evening",
+        "b) Until sun fades in colour"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "prompt_en": "They all stood around the little jewel of blue.",
+      "answer_en": "a) They stood around the pond",
+      "options_en": [
+        "a) They stood around the pond",
+        "b) They stood around the jewel which was blue."
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "prompt_en": "The dry earth soaked up the moisture as a hungry puppy laps up milk.",
+      "answer_en": "b) The dry earth absorbed the water very quickly.",
+      "options_en": [
+        "a) The puppy was very hungry",
+        "b) The dry earth absorbed the water very quickly."
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 104
+    },
+    {
+      "prompt_en": "The new car falls apart all old vehicles in style and price.",
+      "answer_en": "fall down",
+      "options_en": [
+        "leaves behind",
+        "give up",
+        "get back",
+        "fall down"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 105
+    },
+    {
+      "prompt_en": "The grandma looked out of the window.",
+      "answer_en": "peeped through",
+      "options_en": [
+        "dropout",
+        "fill out",
+        "peeped through",
+        "clean up"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 105
+    },
+    {
+      "prompt_en": "The manager is busy with his business.",
+      "answer_en": "None of the options provided are valid phrasal verbs for 'busy with'.",
+      "options_en": [
+        "concern about",
+        "break into",
+        "ask out",
+        "blow up"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 105
+    },
+    {
+      "prompt_en": "The media made the people know of the secret.",
+      "answer_en": "bring out",
+      "options_en": [
+        "pass out",
+        "look out",
+        "bring out",
+        "set out"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 105
+    },
+    {
+      "prompt_en": "We should not ____ trees.",
+      "answer_en": "cut down",
+      "options_en": [
+        "cut down",
+        "run out",
+        "switch on",
+        "take after"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "prompt_en": "I ____ the speaker in condemning what he has done.",
+      "answer_en": "concur with",
+      "options_en": [
+        "sort out",
+        "turn up",
+        "concur with",
+        "wear off"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "prompt_en": "We won't ____ your selfishness.",
+      "answer_en": "put up with",
+      "options_en": [
+        "wash out",
+        "hold on",
+        "go into",
+        "put up with"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "prompt_en": "They ____ at six daily.",
+      "answer_en": "set out",
+      "options_en": [
+        "set out",
+        "hang on",
+        "go without",
+        "fill up"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "prompt_en": "We must ____ before taking action.",
+      "answer_en": "ponder over",
+      "options_en": [
+        "eat out",
+        "end up",
+        "thank for",
+        "ponder over"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "prompt_en": "We should ____ our duty till the end.",
+      "answer_en": "carry out",
+      "options_en": [
+        "do over",
+        "cross out",
+        "chip in",
+        "carry out"
+      ],
+      "pv_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 461
+    },
+    {
+      "prompt_en": "1. The airhostess instructed the passengers to wear the seat belts during the ____.",
+      "answer_en": "take-off",
+      "options_en": [
+        "get along with",
+        "take-off",
+        "shut down",
+        "look after",
+        "warm up"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "2. Venkat felt happy to ____ the neighbours in the new locality.",
+      "answer_en": "get along with",
+      "options_en": [
+        "get along with",
+        "take-off",
+        "shut down",
+        "look after",
+        "warm up"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "3. There will be a ____ next week in the office.",
+      "answer_en": "shut down",
+      "options_en": [
+        "get along with",
+        "take-off",
+        "shut down",
+        "look after",
+        "warm up"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "4. Doing ____ every day in the morning keeps one healthy.",
+      "answer_en": "warm up",
+      "options_en": [
+        "get along with",
+        "take-off",
+        "shut down",
+        "look after",
+        "warm up"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "5. The mother instructed the maid to ____ the child carefully.",
+      "answer_en": "look after",
+      "options_en": [
+        "get along with",
+        "take-off",
+        "shut down",
+        "look after",
+        "warm up"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "Passage Fill-in-the-blanks (1-8): Riya's fitness routine.",
+      "answer_en": "1. Put on, 2. Workout, 3. Stretch out, 4. Keep up, 5. Burn off, 6. Warms up, 7. Build up, 8. Tire out",
+      "options_en": [
+        "burn off",
+        "Keep up",
+        "Build up",
+        "Tire out",
+        "Warms up",
+        "Put on",
+        "Work out",
+        "Stretch out"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "The sports team is late because it is __________ in traffic.",
+      "answer_en": "held up",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "As you don’t know how to swim, I want you to __________ from the swimming pool.",
+      "answer_en": "stay away",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "You must __________ some money for emergencies.",
+      "answer_en": "set aside",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "The students who misbehaved in the class were __________ with a strong warning.",
+      "answer_en": "let off",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "Sashi __________ some German during her tour of Germany.",
+      "answer_en": "picked up",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "Although the grandfather was very critical, his family hoped that he would __________",
+      "answer_en": "pull through",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "The burglars __________ with the stolen jewellery.",
+      "answer_en": "made off",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 204
+    },
+    {
+      "prompt_en": "Write the meaning for: look into",
+      "answer_en": "investigate",
+      "options_en": [],
+      "pv_tag": "other",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "prompt_en": "Write the meaning for: give up",
+      "answer_en": "stop doing something",
+      "options_en": [],
+      "pv_tag": "other",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "prompt_en": "Write the meaning for: put off",
+      "answer_en": "postpone",
+      "options_en": [],
+      "pv_tag": "other",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "prompt_en": "Write the meaning for: get on",
+      "answer_en": "have a good relationship",
+      "options_en": [],
+      "pv_tag": "other",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "prompt_en": "Write the meaning for: take off",
+      "answer_en": "leave the ground / remove",
+      "options_en": [],
+      "pv_tag": "other",
+      "source": "grammer",
+      "source_page": 222
+    },
+    {
+      "prompt_en": "1. The sports team is late because it is __________ in traffic.",
+      "answer_en": "held up",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "2. As you don’t know how to swim, I want you to __________ from the swimming pool.",
+      "answer_en": "stay away",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "3. You must __________ some money for emergencies.",
+      "answer_en": "set aside",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "4. The students who misbehaved in the class were __________ with a strong warning.",
+      "answer_en": "let off",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "5. Sashi __________ some German during her tour of Germany.",
+      "answer_en": "picked up",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "6. Although the grandfather was very critical, his family hoped that he would __________.",
+      "answer_en": "pull through",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "7. The burglars __________ with the stolen jewellery.",
+      "answer_en": "made off",
+      "options_en": [
+        "stay away",
+        "break in",
+        "hold up",
+        "set aside",
+        "pick up",
+        "let off",
+        "make off",
+        "pull through",
+        "put up with",
+        "give in"
+      ],
+      "pv_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 228
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 4,
+      "examples": 230,
+      "worked_exercises": 38
+    },
+    "by_pv_tag": {
+      "definition": {
+        "rules": 4,
+        "examples": 0,
+        "worked": 0
+      },
+      "meaning": {
+        "rules": 0,
+        "examples": 230,
+        "worked": 0
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 13
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 20
+      },
+      "other": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 5
+      }
+    }
+  }
+}

@@ -8,6 +8,7 @@ import UserDetail from './pages/UserDetail';
 import Topics from './pages/Topics';
 import Questions from './pages/Questions';
 import Leaderboard from './pages/Leaderboard';
+import Pricing from './pages/Pricing';
 import ComingSoon from './components/ComingSoon';
 import Layout from './components/Layout';
 import Loading from './components/Loading';
@@ -84,6 +85,14 @@ export default function App() {
               element={
                 <ProtectedRoute>
                   <UserDetail />
+                </ProtectedRoute>
+              }
+            />
+            <Route
+              path="/pricing"
+              element={
+                <ProtectedRoute>
+                  <Pricing />
                 </ProtectedRoute>
               }
             />

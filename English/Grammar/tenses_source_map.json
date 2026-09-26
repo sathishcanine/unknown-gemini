@@ -1,0 +1,28 @@
+{
+  "note": "Tenses menu uses groups (Present/Past/Future/Mixed) then leaf topics.",
+  "sources": [
+    {
+      "id": "asan",
+      "priority": 1,
+      "file": "Data/General-English/asan - concord,tense, sentence pattern, question tag.pdf",
+      "pdf_pages": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
+      "next_section": "sentence_pattern ~p.40"
+    },
+    {
+      "id": "grammer",
+      "priority": 2,
+      "file": "Data/General-English/Grammer.pdf",
+      "index_label": "Tenses",
+      "index_page_ref": 1,
+      "pdf_pages_start": 11,
+      "pdf_pages_end_approx": 60,
+      "note": "Confirm end vs Transformation chapter during extraction"
+    },
+    {
+      "id": "govt",
+      "priority": 3,
+      "file": "Data/General-English/General_English_Part_A_Grammar_Group_2_Govt_Notes_for_TNPSC_Group.pdf",
+      "pdf_pages": [50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+    }
+  ]
+}

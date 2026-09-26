@@ -1,0 +1,4602 @@
+[
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word among the given options:",
+    "question_ta": "Choose the correctly spelt word among the given options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "plaesant",
+        "text_ta": "plaesant"
+      },
+      {
+        "key": "B",
+        "text_en": "pleasant",
+        "text_ta": "pleasant"
+      },
+      {
+        "key": "C",
+        "text_en": "pleasent",
+        "text_ta": "pleasent"
+      },
+      {
+        "key": "D",
+        "text_en": "pleassant",
+        "text_ta": "pleassant"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'pleasant' as per standard word spelling in the notes.",
+    "explanation_ta": "The correct spelling is 'pleasant' as per standard word spelling in the notes.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word from the choices below:",
+    "question_ta": "Identify the correctly spelt word from the choices below:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "tommorrow",
+        "text_ta": "tommorrow"
+      },
+      {
+        "key": "B",
+        "text_en": "tomorow",
+        "text_ta": "tomorow"
+      },
+      {
+        "key": "C",
+        "text_en": "tomorrow",
+        "text_ta": "tomorrow"
+      },
+      {
+        "key": "D",
+        "text_en": "tomorroh",
+        "text_ta": "tomorroh"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The correct spelling is 'tomorrow', avoiding the common misspelling 'tommorrow'.",
+    "explanation_ta": "The correct spelling is 'tomorrow', avoiding the common misspelling 'tommorrow'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following words is spelt correctly?",
+    "question_ta": "Which of the following words is spelt correctly?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "atheletics",
+        "text_ta": "atheletics"
+      },
+      {
+        "key": "B",
+        "text_en": "athleatics",
+        "text_ta": "athleatics"
+      },
+      {
+        "key": "C",
+        "text_en": "athletics",
+        "text_ta": "athletics"
+      },
+      {
+        "key": "D",
+        "text_en": "athleetics",
+        "text_ta": "athleetics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The correct spelling is 'athletics'.",
+    "explanation_ta": "The correct spelling is 'athletics'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct word based on the prefix rule (use 'im-' before 'm' or 'p'):",
+    "question_ta": "Choose the correct word based on the prefix rule (use 'im-' before 'm' or 'p'):",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "inmoral",
+        "text_ta": "inmoral"
+      },
+      {
+        "key": "B",
+        "text_en": "immoral",
+        "text_ta": "immoral"
+      },
+      {
+        "key": "C",
+        "text_en": "imoral",
+        "text_ta": "imoral"
+      },
+      {
+        "key": "D",
+        "text_en": "inmural",
+        "text_ta": "inmural"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use 'im-' before 'm' or 'p', making 'immoral' the correct spelling.",
+    "explanation_ta": "Use 'im-' before 'm' or 'p', making 'immoral' the correct spelling.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Find the correctly spelt word from the options:",
+    "question_ta": "Find the correctly spelt word from the options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "asisstant",
+        "text_ta": "asisstant"
+      },
+      {
+        "key": "B",
+        "text_en": "assitant",
+        "text_ta": "assitant"
+      },
+      {
+        "key": "C",
+        "text_en": "assistant",
+        "text_ta": "assistant"
+      },
+      {
+        "key": "D",
+        "text_en": "assistent",
+        "text_ta": "assistent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The correct spelling is 'assistant'.",
+    "explanation_ta": "The correct spelling is 'assistant'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling for the given word meaning:",
+    "question_ta": "Select the correct spelling for the given word meaning:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "glutunous",
+        "text_ta": "glutunous"
+      },
+      {
+        "key": "B",
+        "text_en": "gluttonous",
+        "text_ta": "gluttonous"
+      },
+      {
+        "key": "C",
+        "text_en": "gluttenous",
+        "text_ta": "gluttenous"
+      },
+      {
+        "key": "D",
+        "text_en": "glutonous",
+        "text_ta": "glutonous"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'gluttonous'.",
+    "explanation_ta": "The correct spelling is 'gluttonous'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the word with the correct spelling among the choices:",
+    "question_ta": "Identify the word with the correct spelling among the choices:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "seperate",
+        "text_ta": "seperate"
+      },
+      {
+        "key": "B",
+        "text_en": "seprate",
+        "text_ta": "seprate"
+      },
+      {
+        "key": "C",
+        "text_en": "separate",
+        "text_ta": "separate"
+      },
+      {
+        "key": "D",
+        "text_en": "sepparate",
+        "text_ta": "sepparate"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The correct spelling is 'separate'.",
+    "explanation_ta": "The correct spelling is 'separate'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt plural form:",
+    "question_ta": "Choose the correctly spelt plural form:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ladys",
+        "text_ta": "ladys"
+      },
+      {
+        "key": "B",
+        "text_en": "ladies",
+        "text_ta": "ladies"
+      },
+      {
+        "key": "C",
+        "text_en": "ladyes",
+        "text_ta": "ladyes"
+      },
+      {
+        "key": "D",
+        "text_en": "ladyis",
+        "text_ta": "ladyis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "If the word ends in a consonant plus -y, change -y to i and add -es, making 'ladies' correct.",
+    "explanation_ta": "If the word ends in a consonant plus -y, change -y to i and add -es, making 'ladies' correct.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt word following the 'i before e except after c' rule:",
+    "question_ta": "Select the correctly spelt word following the 'i before e except after c' rule:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "recieve",
+        "text_ta": "recieve"
+      },
+      {
+        "key": "B",
+        "text_en": "receive",
+        "text_ta": "receive"
+      },
+      {
+        "key": "C",
+        "text_en": "recive",
+        "text_ta": "recive"
+      },
+      {
+        "key": "D",
+        "text_en": "receave",
+        "text_ta": "receave"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "After 'c', 'e' comes before 'i', making 'receive' correct.",
+    "explanation_ta": "After 'c', 'e' comes before 'i', making 'receive' correct.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which word is spelt correctly when adding '-ing'?",
+    "question_ta": "Which word is spelt correctly when adding '-ing'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "triing",
+        "text_ta": "triing"
+      },
+      {
+        "key": "B",
+        "text_en": "tryying",
+        "text_ta": "tryying"
+      },
+      {
+        "key": "C",
+        "text_en": "trying",
+        "text_ta": "trying"
+      },
+      {
+        "key": "D",
+        "text_en": "trieng",
+        "text_ta": "trieng"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The letter 'y' does not change before '-ing', so 'trying' is correct.",
+    "explanation_ta": "The letter 'y' does not change before '-ing', so 'trying' is correct.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct spelling when adding a suffix to a word ending in silent 'e':",
+    "question_ta": "Choose the correct spelling when adding a suffix to a word ending in silent 'e':",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "strikeing",
+        "text_ta": "strikeing"
+      },
+      {
+        "key": "B",
+        "text_en": "striking",
+        "text_ta": "striking"
+      },
+      {
+        "key": "C",
+        "text_en": "strikng",
+        "text_ta": "strikng"
+      },
+      {
+        "key": "D",
+        "text_en": "strikeeing",
+        "text_ta": "strikeeing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+    "explanation_ta": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt word illustrating consonant doubling:",
+    "question_ta": "Select the correctly spelt word illustrating consonant doubling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "weter",
+        "text_ta": "weter"
+      },
+      {
+        "key": "B",
+        "text_en": "wetter",
+        "text_ta": "wetter"
+      },
+      {
+        "key": "C",
+        "text_en": "wetr",
+        "text_ta": "wetr"
+      },
+      {
+        "key": "D",
+        "text_en": "weetter",
+        "text_ta": "weetter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel.",
+    "explanation_ta": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word based on final 'e' rules:",
+    "question_ta": "Choose the correctly spelt word based on final 'e' rules:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hopful",
+        "text_ta": "hopful"
+      },
+      {
+        "key": "B",
+        "text_en": "hopeful",
+        "text_ta": "hopeful"
+      },
+      {
+        "key": "C",
+        "text_en": "hoppful",
+        "text_ta": "hoppful"
+      },
+      {
+        "key": "D",
+        "text_en": "hopefull",
+        "text_ta": "hopefull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final 'e' is not normally dropped before a consonant (like '-ful').",
+    "explanation_ta": "The final 'e' is not normally dropped before a consonant (like '-ful').",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct spelling for the word meaning 'starting':",
+    "question_ta": "Identify the correct spelling for the word meaning 'starting':",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "begining",
+        "text_ta": "begining"
+      },
+      {
+        "key": "B",
+        "text_en": "beginning",
+        "text_ta": "beginning"
+      },
+      {
+        "key": "C",
+        "text_en": "beginnng",
+        "text_ta": "beginnng"
+      },
+      {
+        "key": "D",
+        "text_en": "beggining",
+        "text_ta": "beggining"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In longer words, the final consonant is doubled if the last syllable is stressed.",
+    "explanation_ta": "In longer words, the final consonant is doubled if the last syllable is stressed.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct spelling using the prefix rule (use 'il-' before 'l'):",
+    "question_ta": "Choose the correct spelling using the prefix rule (use 'il-' before 'l'):",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "inlegible",
+        "text_ta": "inlegible"
+      },
+      {
+        "key": "B",
+        "text_en": "illegible",
+        "text_ta": "illegible"
+      },
+      {
+        "key": "C",
+        "text_en": "illigible",
+        "text_ta": "illigible"
+      },
+      {
+        "key": "D",
+        "text_en": "inligible",
+        "text_ta": "inligible"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use 'il-' before 'l', making 'illegible' correct.",
+    "explanation_ta": "Use 'il-' before 'l', making 'illegible' correct.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt word from the choices:",
+    "question_ta": "Select the correctly spelt word from the choices:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "disebilities",
+        "text_ta": "disebilities"
+      },
+      {
+        "key": "B",
+        "text_en": "disabilities",
+        "text_ta": "disabilities"
+      },
+      {
+        "key": "C",
+        "text_en": "disabilitiez",
+        "text_ta": "disabilitiez"
+      },
+      {
+        "key": "D",
+        "text_en": "disabillities",
+        "text_ta": "disabillities"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'disabilities'.",
+    "explanation_ta": "The correct spelling is 'disabilities'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word:",
+    "question_ta": "Identify the correctly spelt word:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "evolusion",
+        "text_ta": "evolusion"
+      },
+      {
+        "key": "B",
+        "text_en": "evolution",
+        "text_ta": "evolution"
+      },
+      {
+        "key": "C",
+        "text_en": "evallution",
+        "text_ta": "evallution"
+      },
+      {
+        "key": "D",
+        "text_en": "evoulution",
+        "text_ta": "evoulution"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'evolution'.",
+    "explanation_ta": "The correct spelling is 'evolution'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word among the choices:",
+    "question_ta": "Choose the correctly spelt word among the choices:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "foriegn",
+        "text_ta": "foriegn"
+      },
+      {
+        "key": "B",
+        "text_en": "foreign",
+        "text_ta": "foreign"
+      },
+      {
+        "key": "C",
+        "text_en": "foreignn",
+        "text_ta": "foreignn"
+      },
+      {
+        "key": "D",
+        "text_en": "forign",
+        "text_ta": "forign"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'foreign' (exception to the 'i before e' rule as 'ei' is not pronounced like 'ee').",
+    "explanation_ta": "The correct spelling is 'foreign' (exception to the 'i before e' rule as 'ei' is not pronounced like 'ee').",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt British English word:",
+    "question_ta": "Select the correctly spelt British English word:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "traveled",
+        "text_ta": "traveled"
+      },
+      {
+        "key": "B",
+        "text_en": "travelled",
+        "text_ta": "travelled"
+      },
+      {
+        "key": "C",
+        "text_en": "travleld",
+        "text_ta": "travleld"
+      },
+      {
+        "key": "D",
+        "text_en": "travell",
+        "text_ta": "travell"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In British English, the letter 'l' is doubled in words like 'travelled'.",
+    "explanation_ta": "In British English, the letter 'l' is doubled in words like 'travelled'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct spelling for the word meaning 'terrible/dreadful':",
+    "question_ta": "Identify the correct spelling for the word meaning 'terrible/dreadful':",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "aweful",
+        "text_ta": "aweful"
+      },
+      {
+        "key": "B",
+        "text_en": "awful",
+        "text_ta": "awful"
+      },
+      {
+        "key": "C",
+        "text_en": "awfull",
+        "text_ta": "awfull"
+      },
+      {
+        "key": "D",
+        "text_en": "offull",
+        "text_ta": "offull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'awful' (awe + ful becomes awful, dropping one 'e').",
+    "explanation_ta": "The correct spelling is 'awful' (awe + ful becomes awful, dropping one 'e').",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word:",
+    "question_ta": "Choose the correctly spelt word:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "religeous",
+        "text_ta": "religeous"
+      },
+      {
+        "key": "B",
+        "text_en": "religous",
+        "text_ta": "religous"
+      },
+      {
+        "key": "C",
+        "text_en": "religious",
+        "text_ta": "religious"
+      },
+      {
+        "key": "D",
+        "text_en": "religiuos",
+        "text_ta": "religiuos"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The correct spelling is 'religious'.",
+    "explanation_ta": "The correct spelling is 'religious'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling considering words ending in 'ce' or 'ge':",
+    "question_ta": "Select the correct spelling considering words ending in 'ce' or 'ge':",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "changable",
+        "text_ta": "changable"
+      },
+      {
+        "key": "B",
+        "text_en": "changeable",
+        "text_ta": "changeable"
+      },
+      {
+        "key": "C",
+        "text_en": "changible",
+        "text_ta": "changible"
+      },
+      {
+        "key": "D",
+        "text_en": "changeble",
+        "text_ta": "changeble"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Words ending in 'ce' or 'ge' retain the 'e' before a suffix beginning with 'a', 'o', or 'u' to keep the soft sound.",
+    "explanation_ta": "Words ending in 'ce' or 'ge' retain the 'e' before a suffix beginning with 'a', 'o', or 'u' to keep the soft sound.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt noun for a person who travels (British spelling):",
+    "question_ta": "Choose the correctly spelt noun for a person who travels (British spelling):",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "traveler",
+        "text_ta": "traveler"
+      },
+      {
+        "key": "B",
+        "text_en": "traveller",
+        "text_ta": "traveller"
+      },
+      {
+        "key": "C",
+        "text_en": "travellar",
+        "text_ta": "travellar"
+      },
+      {
+        "key": "D",
+        "text_en": "travellr",
+        "text_ta": "travellr"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In British English, the 'l' is doubled, making 'traveller' correct.",
+    "explanation_ta": "In British English, the 'l' is doubled, making 'traveller' correct.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E23"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word among the options:",
+    "question_ta": "Choose the correctly spelt word among the options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "competant",
+        "text_ta": "competant"
+      },
+      {
+        "key": "B",
+        "text_en": "competent",
+        "text_ta": "competent"
+      },
+      {
+        "key": "C",
+        "text_en": "compitent",
+        "text_ta": "compitent"
+      },
+      {
+        "key": "D",
+        "text_en": "competemt",
+        "text_ta": "competemt"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'competent'.",
+    "explanation_ta": "The correct spelling is 'competent'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the option with all correctly spelt words:",
+    "question_ta": "Select the option with all correctly spelt words:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "feild, acheive, beleive",
+        "text_ta": "feild, acheive, beleive"
+      },
+      {
+        "key": "B",
+        "text_en": "field, achieve, believe",
+        "text_ta": "field, achieve, believe"
+      },
+      {
+        "key": "C",
+        "text_en": "feild, achieve, beleive",
+        "text_ta": "feild, achieve, beleive"
+      },
+      {
+        "key": "D",
+        "text_en": "field, acheive, beleive",
+        "text_ta": "field, acheive, beleive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spellings follow the 'i before e except after c' rule: 'field', 'achieve', 'believe'.",
+    "explanation_ta": "The correct spellings follow the 'i before e except after c' rule: 'field', 'achieve', 'believe'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "spelling",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the misspelt word among the following options.",
+    "question_ta": "Identify the misspelt word among the following options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hopeful",
+        "text_ta": "hopeful"
+      },
+      {
+        "key": "B",
+        "text_en": "hopful",
+        "text_ta": "hopful"
+      },
+      {
+        "key": "C",
+        "text_en": "religious",
+        "text_ta": "religious"
+      },
+      {
+        "key": "D",
+        "text_en": "beginning",
+        "text_ta": "beginning"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final 'e' is not normally dropped before a consonant, making 'hopeful' correct and 'hopful' misspelt.",
+    "explanation_ta": "The final 'e' is not normally dropped before a consonant, making 'hopeful' correct and 'hopful' misspelt.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following words is spelt incorrectly?",
+    "question_ta": "Which of the following words is spelt incorrectly?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "sitting",
+        "text_ta": "sitting"
+      },
+      {
+        "key": "B",
+        "text_en": "siting",
+        "text_ta": "siting"
+      },
+      {
+        "key": "C",
+        "text_en": "traveller",
+        "text_ta": "traveller"
+      },
+      {
+        "key": "D",
+        "text_en": "irrelevant",
+        "text_ta": "irrelevant"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In short words ending in one vowel + one consonant, the consonant is doubled before an ending with a vowel, making 'sitting' correct and 'siting' incorrect.",
+    "explanation_ta": "In short words ending in one vowel + one consonant, the consonant is doubled before an ending with a vowel, making 'sitting' correct and 'siting' incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the incorrectly spelt word from the choices given below.",
+    "question_ta": "Identify the incorrectly spelt word from the choices given below.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "religious",
+        "text_ta": "religious"
+      },
+      {
+        "key": "B",
+        "text_en": "religeous",
+        "text_ta": "religeous"
+      },
+      {
+        "key": "C",
+        "text_en": "beginning",
+        "text_ta": "beginning"
+      },
+      {
+        "key": "D",
+        "text_en": "traveller",
+        "text_ta": "traveller"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'religious'. 'Religeous' is the misspelt form.",
+    "explanation_ta": "The correct spelling is 'religious'. 'Religeous' is the misspelt form.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the misspelt word among the options.",
+    "question_ta": "Find the misspelt word among the options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "beginning",
+        "text_ta": "beginning"
+      },
+      {
+        "key": "B",
+        "text_en": "begining",
+        "text_ta": "begining"
+      },
+      {
+        "key": "C",
+        "text_en": "irrelevant",
+        "text_ta": "irrelevant"
+      },
+      {
+        "key": "D",
+        "text_en": "ridiculous",
+        "text_ta": "ridiculous"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Double the final consonant if the last syllable is stressed when adding a vowel suffix, making 'beginning' correct and 'begining' wrong.",
+    "explanation_ta": "Double the final consonant if the last syllable is stressed when adding a vowel suffix, making 'beginning' correct and 'begining' wrong.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following options contains a misspelt word?",
+    "question_ta": "Which of the following options contains a misspelt word?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "traveller",
+        "text_ta": "traveller"
+      },
+      {
+        "key": "B",
+        "text_en": "traveler",
+        "text_ta": "traveler"
+      },
+      {
+        "key": "C",
+        "text_en": "irrelevant",
+        "text_ta": "irrelevant"
+      },
+      {
+        "key": "D",
+        "text_en": "ridiculous",
+        "text_ta": "ridiculous"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Based on British English standards and doubling consonants, 'traveller' is correct while 'traveler' is considered the misspelt option here.",
+    "explanation_ta": "Based on British English standards and doubling consonants, 'traveller' is correct while 'traveler' is considered the misspelt option here.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the word with the incorrect spelling.",
+    "question_ta": "Identify the word with the incorrect spelling.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "irrelevant",
+        "text_ta": "irrelevant"
+      },
+      {
+        "key": "B",
+        "text_en": "inrelevant",
+        "text_ta": "inrelevant"
+      },
+      {
+        "key": "C",
+        "text_en": "ridiculous",
+        "text_ta": "ridiculous"
+      },
+      {
+        "key": "D",
+        "text_en": "hypocrites",
+        "text_ta": "hypocrites"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use the prefix 'ir-' before words starting with 'r', making 'irrelevant' correct and 'inrelevant' incorrect.",
+    "explanation_ta": "Use the prefix 'ir-' before words starting with 'r', making 'irrelevant' correct and 'inrelevant' incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the misspelt word from the given options.",
+    "question_ta": "Choose the misspelt word from the given options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ridiculous",
+        "text_ta": "ridiculous"
+      },
+      {
+        "key": "B",
+        "text_en": "ridiculuous",
+        "text_ta": "ridiculuous"
+      },
+      {
+        "key": "C",
+        "text_en": "hypocrites",
+        "text_ta": "hypocrites"
+      },
+      {
+        "key": "D",
+        "text_en": "truly",
+        "text_ta": "truly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'ridiculous'. 'Ridiculuous' contains an extra 'u' and is misspelt.",
+    "explanation_ta": "The correct spelling is 'ridiculous'. 'Ridiculuous' contains an extra 'u' and is misspelt.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the misspelt word among the choices.",
+    "question_ta": "Identify the misspelt word among the choices.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hypocrites",
+        "text_ta": "hypocrites"
+      },
+      {
+        "key": "B",
+        "text_en": "hippocrites",
+        "text_ta": "hippocrites"
+      },
+      {
+        "key": "C",
+        "text_en": "truly",
+        "text_ta": "truly"
+      },
+      {
+        "key": "D",
+        "text_en": "business",
+        "text_ta": "business"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'hypocrites'. 'Hippocrites' is the misspelt option.",
+    "explanation_ta": "The correct spelling is 'hypocrites'. 'Hippocrites' is the misspelt option.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following is incorrectly spelt?",
+    "question_ta": "Which of the following is incorrectly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "truly",
+        "text_ta": "truly"
+      },
+      {
+        "key": "B",
+        "text_en": "truely",
+        "text_ta": "truely"
+      },
+      {
+        "key": "C",
+        "text_en": "business",
+        "text_ta": "business"
+      },
+      {
+        "key": "D",
+        "text_en": "colloquial",
+        "text_ta": "colloquial"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By exception, 'true + ly' drops the 'e' to become 'truly', making 'truely' incorrect.",
+    "explanation_ta": "By exception, 'true + ly' drops the 'e' to become 'truly', making 'truely' incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the misspelt word from the options below.",
+    "question_ta": "Find the misspelt word from the options below.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "business",
+        "text_ta": "business"
+      },
+      {
+        "key": "B",
+        "text_en": "busyness",
+        "text_ta": "busyness"
+      },
+      {
+        "key": "C",
+        "text_en": "colloquial",
+        "text_ta": "colloquial"
+      },
+      {
+        "key": "D",
+        "text_en": "conscience",
+        "text_ta": "conscience"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For the commercial sense, the correct spelling is 'business', whereas 'busyness' refers to being busy and is often incorrectly substituted.",
+    "explanation_ta": "For the commercial sense, the correct spelling is 'business', whereas 'busyness' refers to being busy and is often incorrectly substituted.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the misspelt word among the four options.",
+    "question_ta": "Identify the misspelt word among the four options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "colloquial",
+        "text_ta": "colloquial"
+      },
+      {
+        "key": "B",
+        "text_en": "coloquial",
+        "text_ta": "coloquial"
+      },
+      {
+        "key": "C",
+        "text_en": "conscience",
+        "text_ta": "conscience"
+      },
+      {
+        "key": "D",
+        "text_en": "ethnic",
+        "text_ta": "ethnic"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'colloquial'. 'Coloquial' misses the double 'l' and is misspelt.",
+    "explanation_ta": "The correct spelling is 'colloquial'. 'Coloquial' misses the double 'l' and is misspelt.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the given words is spelt incorrectly?",
+    "question_ta": "Which of the given words is spelt incorrectly?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "conscience",
+        "text_ta": "conscience"
+      },
+      {
+        "key": "B",
+        "text_en": "concience",
+        "text_ta": "concience"
+      },
+      {
+        "key": "C",
+        "text_en": "ethnic",
+        "text_ta": "ethnic"
+      },
+      {
+        "key": "D",
+        "text_en": "bridging",
+        "text_ta": "bridging"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'conscience'. 'Concience' is incorrect.",
+    "explanation_ta": "The correct spelling is 'conscience'. 'Concience' is incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the misspelt word from the given choices.",
+    "question_ta": "Choose the misspelt word from the given choices.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ethnic",
+        "text_ta": "ethnic"
+      },
+      {
+        "key": "B",
+        "text_en": "ethenic",
+        "text_ta": "ethenic"
+      },
+      {
+        "key": "C",
+        "text_en": "bridging",
+        "text_ta": "bridging"
+      },
+      {
+        "key": "D",
+        "text_en": "occurrence",
+        "text_ta": "occurrence"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'ethnic'. 'Ethenic' is the misspelt word.",
+    "explanation_ta": "The correct spelling is 'ethnic'. 'Ethenic' is the misspelt word.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following words is misspelt?",
+    "question_ta": "Which of the following words is misspelt?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "occurrence",
+        "text_ta": "occurrence"
+      },
+      {
+        "key": "B",
+        "text_en": "occurance",
+        "text_ta": "occurance"
+      },
+      {
+        "key": "C",
+        "text_en": "awful",
+        "text_ta": "awful"
+      },
+      {
+        "key": "D",
+        "text_en": "dysentery",
+        "text_ta": "dysentery"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'occurrence' with '-ence'. 'Occurance' is incorrect.",
+    "explanation_ta": "The correct spelling is 'occurrence' with '-ence'. 'Occurance' is incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the misspelt word from the list below.",
+    "question_ta": "Find the misspelt word from the list below.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "awful",
+        "text_ta": "awful"
+      },
+      {
+        "key": "B",
+        "text_en": "aweful",
+        "text_ta": "aweful"
+      },
+      {
+        "key": "C",
+        "text_en": "dysentery",
+        "text_ta": "dysentery"
+      },
+      {
+        "key": "D",
+        "text_en": "immoral",
+        "text_ta": "immoral"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By exception, 'awe + ful' drops the 'e' to become 'awful', making 'aweful' incorrect.",
+    "explanation_ta": "By exception, 'awe + ful' drops the 'e' to become 'awful', making 'aweful' incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the misspelt word among the options.",
+    "question_ta": "Identify the misspelt word among the options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "dysentery",
+        "text_ta": "dysentery"
+      },
+      {
+        "key": "B",
+        "text_en": "dysentry",
+        "text_ta": "dysentry"
+      },
+      {
+        "key": "C",
+        "text_en": "immoral",
+        "text_ta": "immoral"
+      },
+      {
+        "key": "D",
+        "text_en": "athletics",
+        "text_ta": "athletics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'dysentery'. 'Dysentry' is the misspelt form.",
+    "explanation_ta": "The correct spelling is 'dysentery'. 'Dysentry' is the misspelt form.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which option contains a misspelt word?",
+    "question_ta": "Which option contains a misspelt word?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "disabilities",
+        "text_ta": "disabilities"
+      },
+      {
+        "key": "B",
+        "text_en": "disebilities",
+        "text_ta": "disebilities"
+      },
+      {
+        "key": "C",
+        "text_en": "immoral",
+        "text_ta": "immoral"
+      },
+      {
+        "key": "D",
+        "text_en": "athletics",
+        "text_ta": "athletics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'disabilities'. 'Disebilities' is incorrect.",
+    "explanation_ta": "The correct spelling is 'disabilities'. 'Disebilities' is incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the incorrect spelling among the choices.",
+    "question_ta": "Find the incorrect spelling among the choices.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "immoral",
+        "text_ta": "immoral"
+      },
+      {
+        "key": "B",
+        "text_en": "inmoral",
+        "text_ta": "inmoral"
+      },
+      {
+        "key": "C",
+        "text_en": "athletics",
+        "text_ta": "athletics"
+      },
+      {
+        "key": "D",
+        "text_en": "field",
+        "text_ta": "field"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use the prefix 'im-' before words starting with 'm' or 'p', making 'immoral' correct and 'inmoral' wrong.",
+    "explanation_ta": "Use the prefix 'im-' before words starting with 'm' or 'p', making 'immoral' correct and 'inmoral' wrong.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the misspelt word from the given choices.",
+    "question_ta": "Identify the misspelt word from the given choices.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "athletics",
+        "text_ta": "athletics"
+      },
+      {
+        "key": "B",
+        "text_en": "atheletics",
+        "text_ta": "atheletics"
+      },
+      {
+        "key": "C",
+        "text_en": "indispensable",
+        "text_ta": "indispensable"
+      },
+      {
+        "key": "D",
+        "text_en": "tolerance",
+        "text_ta": "tolerance"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'athletics'. 'Atheletics' contains an extra 'e' and is misspelt.",
+    "explanation_ta": "The correct spelling is 'athletics'. 'Atheletics' contains an extra 'e' and is misspelt.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the incorrect spelling among the options.",
+    "question_ta": "Identify the incorrect spelling among the options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "tolerance",
+        "text_ta": "tolerance"
+      },
+      {
+        "key": "B",
+        "text_en": "tolerence",
+        "text_ta": "tolerence"
+      },
+      {
+        "key": "C",
+        "text_en": "amateur",
+        "text_ta": "amateur"
+      },
+      {
+        "key": "D",
+        "text_en": "buoyantly",
+        "text_ta": "buoyantly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'tolerance' with an 'a'. 'Tolerence' is incorrect.",
+    "explanation_ta": "The correct spelling is 'tolerance' with an 'a'. 'Tolerence' is incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the misspelt word from the options.",
+    "question_ta": "Find the misspelt word from the options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "amateur",
+        "text_ta": "amateur"
+      },
+      {
+        "key": "B",
+        "text_en": "amatuer",
+        "text_ta": "amatuer"
+      },
+      {
+        "key": "C",
+        "text_en": "buoyantly",
+        "text_ta": "buoyantly"
+      },
+      {
+        "key": "D",
+        "text_en": "awfully",
+        "text_ta": "awfully"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'amateur'. 'Amatuer' has transposed vowels and is misspelt.",
+    "explanation_ta": "The correct spelling is 'amateur'. 'Amatuer' has transposed vowels and is misspelt.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which word is spelt incorrectly in the options below?",
+    "question_ta": "Which word is spelt incorrectly in the options below?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "supersede",
+        "text_ta": "supersede"
+      },
+      {
+        "key": "B",
+        "text_en": "superceed",
+        "text_ta": "superceed"
+      },
+      {
+        "key": "C",
+        "text_en": "brief",
+        "text_ta": "brief"
+      },
+      {
+        "key": "D",
+        "text_en": "loaves",
+        "text_ta": "loaves"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Supersede' is the only English word ending in '-sede', making 'superceed' incorrect.",
+    "explanation_ta": "'Supersede' is the only English word ending in '-sede', making 'superceed' incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E29"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the misspelt word from the given choices.",
+    "question_ta": "Find the misspelt word from the given choices.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "brief",
+        "text_ta": "brief"
+      },
+      {
+        "key": "B",
+        "text_en": "breif",
+        "text_ta": "breif"
+      },
+      {
+        "key": "C",
+        "text_en": "loaves",
+        "text_ta": "loaves"
+      },
+      {
+        "key": "D",
+        "text_en": "draped",
+        "text_ta": "draped"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Following the 'i before e except after c' rule for the /i:/ sound, 'brief' is correct and 'breif' is wrong.",
+    "explanation_ta": "Following the 'i before e except after c' rule for the /i:/ sound, 'brief' is correct and 'breif' is wrong.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E30"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the incorrect spelling among the following options.",
+    "question_ta": "Identify the incorrect spelling among the following options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "loaves",
+        "text_ta": "loaves"
+      },
+      {
+        "key": "B",
+        "text_en": "loafs",
+        "text_ta": "loafs"
+      },
+      {
+        "key": "C",
+        "text_en": "draped",
+        "text_ta": "draped"
+      },
+      {
+        "key": "D",
+        "text_en": "notorious",
+        "text_ta": "notorious"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For nouns ending in -f, plurals are formed by changing -f to -ves, making 'loaves' correct and 'loafs' incorrect.",
+    "explanation_ta": "For nouns ending in -f, plurals are formed by changing -f to -ves, making 'loaves' correct and 'loafs' incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E31"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word from the options below:",
+    "question_ta": "Choose the correctly spelt word from the options below:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "foriegn",
+        "text_ta": "foriegn"
+      },
+      {
+        "key": "B",
+        "text_en": "foreign",
+        "text_ta": "foreign"
+      },
+      {
+        "key": "C",
+        "text_en": "foreignn",
+        "text_ta": "foreignn"
+      },
+      {
+        "key": "D",
+        "text_en": "foriegnn",
+        "text_ta": "foriegnn"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the 'i before e except after c' rule, 'foreign' is correctly spelt while 'foriegn' is incorrect.",
+    "explanation_ta": "According to the 'i before e except after c' rule, 'foreign' is correctly spelt while 'foriegn' is incorrect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "spelling",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling of the word denoting a person who takes part in amateur activities.",
+    "question_ta": "Select the correct spelling of the word denoting a person who takes part in amateur activities.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "amatuer",
+        "text_ta": "amatuer"
+      },
+      {
+        "key": "B",
+        "text_en": "amateur",
+        "text_ta": "amateur"
+      },
+      {
+        "key": "C",
+        "text_en": "amature",
+        "text_ta": "amature"
+      },
+      {
+        "key": "D",
+        "text_en": "ammatuer",
+        "text_ta": "ammatuer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Based on standard spelling lists, 'amateur' is the correct spelling.",
+    "explanation_ta": "Based on standard spelling lists, 'amateur' is the correct spelling.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Determine the correctly spelt word from the options provided below.",
+    "question_ta": "Determine the correctly spelt word from the options provided below.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "concience",
+        "text_ta": "concience"
+      },
+      {
+        "key": "B",
+        "text_en": "conscience",
+        "text_ta": "conscience"
+      },
+      {
+        "key": "C",
+        "text_en": "consceince",
+        "text_ta": "consceince"
+      },
+      {
+        "key": "D",
+        "text_en": "concient",
+        "text_ta": "concient"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'conscience' as per the notes.",
+    "explanation_ta": "The correct spelling is 'conscience' as per the notes.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Find the word with the correct spelling relating to business activities.",
+    "question_ta": "Find the word with the correct spelling relating to business activities.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "busyness",
+        "text_ta": "busyness"
+      },
+      {
+        "key": "B",
+        "text_en": "business",
+        "text_ta": "business"
+      },
+      {
+        "key": "C",
+        "text_en": "busines",
+        "text_ta": "busines"
+      },
+      {
+        "key": "D",
+        "text_en": "busniss",
+        "text_ta": "busniss"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'business', following the rule where y changes to i before adding a suffix.",
+    "explanation_ta": "The correct spelling is 'business', following the rule where y changes to i before adding a suffix.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt word that follows the 'i before e except after c' rule.",
+    "question_ta": "Select the correctly spelt word that follows the 'i before e except after c' rule.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "feild",
+        "text_ta": "feild"
+      },
+      {
+        "key": "B",
+        "text_en": "achieve",
+        "text_ta": "achieve"
+      },
+      {
+        "key": "C",
+        "text_en": "acheive",
+        "text_ta": "acheive"
+      },
+      {
+        "key": "D",
+        "text_en": "beleive",
+        "text_ta": "beleive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'achieve' following the 'i before e' rule.",
+    "explanation_ta": "The correct spelling is 'achieve' following the 'i before e' rule.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the word that is spelt correctly when applying consonant doubling in a short word.",
+    "question_ta": "Identify the word that is spelt correctly when applying consonant doubling in a short word.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "weter",
+        "text_ta": "weter"
+      },
+      {
+        "key": "B",
+        "text_en": "wetter",
+        "text_ta": "wetter"
+      },
+      {
+        "key": "C",
+        "text_en": "wetfer",
+        "text_ta": "wetfer"
+      },
+      {
+        "key": "D",
+        "text_en": "wetre",
+        "text_ta": "wetre"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel.",
+    "explanation_ta": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct British English spelling when adding the suffix '-ful' to a word ending in '-ll'.",
+    "question_ta": "Choose the correct British English spelling when adding the suffix '-ful' to a word ending in '-ll'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "skillful",
+        "text_ta": "skillful"
+      },
+      {
+        "key": "B",
+        "text_en": "skilful",
+        "text_ta": "skilful"
+      },
+      {
+        "key": "C",
+        "text_en": "skillfull",
+        "text_ta": "skillfull"
+      },
+      {
+        "key": "D",
+        "text_en": "skilfull",
+        "text_ta": "skilfull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "If a word ending in 'll' takes the suffix '-ful', one 'l' is dropped in British English.",
+    "explanation_ta": "If a word ending in 'll' takes the suffix '-ful', one 'l' is dropped in British English.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling for the word meaning essential or required.",
+    "question_ta": "Select the correct spelling for the word meaning essential or required.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "neccesary",
+        "text_ta": "neccesary"
+      },
+      {
+        "key": "B",
+        "text_en": "necesary",
+        "text_ta": "necesary"
+      },
+      {
+        "key": "C",
+        "text_en": "necessary",
+        "text_ta": "necessary"
+      },
+      {
+        "key": "D",
+        "text_en": "neccessary",
+        "text_ta": "neccessary"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The standard correct spelling is 'necessary'.",
+    "explanation_ta": "The standard correct spelling is 'necessary'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word related to a person on a journey.",
+    "question_ta": "Identify the correctly spelt word related to a person on a journey.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "traveler",
+        "text_ta": "traveler"
+      },
+      {
+        "key": "B",
+        "text_en": "traveller",
+        "text_ta": "traveller"
+      },
+      {
+        "key": "C",
+        "text_en": "travelar",
+        "text_ta": "travelar"
+      },
+      {
+        "key": "D",
+        "text_en": "travellar",
+        "text_ta": "travellar"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final consonant 'l' is doubled in British English when adding a suffix beginning with a vowel.",
+    "explanation_ta": "The final consonant 'l' is doubled in British English when adding a suffix beginning with a vowel.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word using the prefix rule (use 'il-' before 'l').",
+    "question_ta": "Choose the correctly spelt word using the prefix rule (use 'il-' before 'l').",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "inlegible",
+        "text_ta": "inlegible"
+      },
+      {
+        "key": "B",
+        "text_en": "illegible",
+        "text_ta": "illegible"
+      },
+      {
+        "key": "C",
+        "text_en": "illejible",
+        "text_ta": "illejible"
+      },
+      {
+        "key": "D",
+        "text_en": "inlejible",
+        "text_ta": "inlejible"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use 'il-' before 'l' as per the prefix rule.",
+    "explanation_ta": "Use 'il-' before 'l' as per the prefix rule.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling when dropping silent 'e' before a vowel suffix.",
+    "question_ta": "Select the correct spelling when dropping silent 'e' before a vowel suffix.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "drapeed",
+        "text_ta": "drapeed"
+      },
+      {
+        "key": "B",
+        "text_en": "draped",
+        "text_ta": "draped"
+      },
+      {
+        "key": "C",
+        "text_en": "drapeeds",
+        "text_ta": "drapeeds"
+      },
+      {
+        "key": "D",
+        "text_en": "drappd",
+        "text_ta": "drappd"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+    "explanation_ta": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the word that correctly changes 'ie' to 'y' before '-ing'.",
+    "question_ta": "Identify the word that correctly changes 'ie' to 'y' before '-ing'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "dieing",
+        "text_ta": "dieing"
+      },
+      {
+        "key": "B",
+        "text_en": "dying",
+        "text_ta": "dying"
+      },
+      {
+        "key": "C",
+        "text_en": "diing",
+        "text_ta": "diing"
+      },
+      {
+        "key": "D",
+        "text_en": "dyeing",
+        "text_ta": "dyeing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Final 'ie' changes to 'y' before '-ing'.",
+    "explanation_ta": "Final 'ie' changes to 'y' before '-ing'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt medical term for bowel infection.",
+    "question_ta": "Choose the correctly spelt medical term for bowel infection.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "dysentry",
+        "text_ta": "dysentry"
+      },
+      {
+        "key": "B",
+        "text_en": "dysentery",
+        "text_ta": "dysentery"
+      },
+      {
+        "key": "C",
+        "text_en": "disentery",
+        "text_ta": "disentery"
+      },
+      {
+        "key": "D",
+        "text_en": "dysentary",
+        "text_ta": "dysentary"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'dysentery'.",
+    "explanation_ta": "The correct spelling is 'dysentery'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling considering the 'i before e except after c' rule.",
+    "question_ta": "Select the correct spelling considering the 'i before e except after c' rule.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "recieve",
+        "text_ta": "recieve"
+      },
+      {
+        "key": "B",
+        "text_en": "receive",
+        "text_ta": "receive"
+      },
+      {
+        "key": "C",
+        "text_en": "receeve",
+        "text_ta": "receeve"
+      },
+      {
+        "key": "D",
+        "text_en": "ricieve",
+        "text_ta": "ricieve"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "After the letter c, we spell it ei, hence 'receive'.",
+    "explanation_ta": "After the letter c, we spell it ei, hence 'receive'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word meaning situated outside one's own country.",
+    "question_ta": "Identify the correctly spelt word meaning situated outside one's own country.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "foriegn",
+        "text_ta": "foriegn"
+      },
+      {
+        "key": "B",
+        "text_en": "foreign",
+        "text_ta": "foreign"
+      },
+      {
+        "key": "C",
+        "text_en": "forign",
+        "text_ta": "forign"
+      },
+      {
+        "key": "D",
+        "text_en": "foregin",
+        "text_ta": "foregin"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'foreign'.",
+    "explanation_ta": "The correct spelling is 'foreign'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E23"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt adverb indicating cheerfulness.",
+    "question_ta": "Choose the correctly spelt adverb indicating cheerfulness.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "bouyantly",
+        "text_ta": "bouyantly"
+      },
+      {
+        "key": "B",
+        "text_en": "buoyantly",
+        "text_ta": "buoyantly"
+      },
+      {
+        "key": "C",
+        "text_en": "boyantly",
+        "text_ta": "boyantly"
+      },
+      {
+        "key": "D",
+        "text_en": "bouyantely",
+        "text_ta": "bouyantely"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'buoyantly'.",
+    "explanation_ta": "The correct spelling is 'buoyantly'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E24"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling of the word meaning widely and unfavourably known.",
+    "question_ta": "Select the correct spelling of the word meaning widely and unfavourably known.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "notoriuos",
+        "text_ta": "notoriuos"
+      },
+      {
+        "key": "B",
+        "text_en": "notorious",
+        "text_ta": "notorious"
+      },
+      {
+        "key": "C",
+        "text_en": "notorrious",
+        "text_ta": "notorrious"
+      },
+      {
+        "key": "D",
+        "text_en": "notorioues",
+        "text_ta": "notorioues"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'notorious'.",
+    "explanation_ta": "The correct spelling is 'notorious'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word meaning essential or indispensable.",
+    "question_ta": "Identify the correctly spelt word meaning essential or indispensable.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "indispensible",
+        "text_ta": "indispensible"
+      },
+      {
+        "key": "B",
+        "text_en": "indispensable",
+        "text_ta": "indispensable"
+      },
+      {
+        "key": "C",
+        "text_en": "indispensibal",
+        "text_ta": "indispensibal"
+      },
+      {
+        "key": "D",
+        "text_en": "indispansible",
+        "text_ta": "indispansible"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'indispensable'.",
+    "explanation_ta": "The correct spelling is 'indispensable'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E27"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt past tense verb applying consonant doubling.",
+    "question_ta": "Choose the correctly spelt past tense verb applying consonant doubling.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hoped",
+        "text_ta": "hoped"
+      },
+      {
+        "key": "B",
+        "text_en": "hopped",
+        "text_ta": "hopped"
+      },
+      {
+        "key": "C",
+        "text_en": "hopd",
+        "text_ta": "hopd"
+      },
+      {
+        "key": "D",
+        "text_en": "hoppd",
+        "text_ta": "hoppd"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel.",
+    "explanation_ta": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E28"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct plural form of 'lady' according to the rules.",
+    "question_ta": "Select the correct plural form of 'lady' according to the rules.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ladys",
+        "text_ta": "ladys"
+      },
+      {
+        "key": "B",
+        "text_en": "ladies",
+        "text_ta": "ladies"
+      },
+      {
+        "key": "C",
+        "text_en": "ladyes",
+        "text_ta": "ladyes"
+      },
+      {
+        "key": "D",
+        "text_en": "laddies",
+        "text_ta": "laddies"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In words ending in consonant + 'y', 'y' changes to 'ie' before '-s'.",
+    "explanation_ta": "In words ending in consonant + 'y', 'y' changes to 'ie' before '-s'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E30"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct past tense form as an exception to the 'y' rule.",
+    "question_ta": "Identify the correct past tense form as an exception to the 'y' rule.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "payed",
+        "text_ta": "payed"
+      },
+      {
+        "key": "B",
+        "text_en": "paid",
+        "text_ta": "paid"
+      },
+      {
+        "key": "C",
+        "text_en": "payd",
+        "text_ta": "payd"
+      },
+      {
+        "key": "D",
+        "text_en": "paied",
+        "text_ta": "paied"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'paid' is an exception to the standard 'y' rule.",
+    "explanation_ta": "'paid' is an exception to the standard 'y' rule.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E31"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word meaning a gradual development.",
+    "question_ta": "Choose the correctly spelt word meaning a gradual development.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "evolusion",
+        "text_ta": "evolusion"
+      },
+      {
+        "key": "B",
+        "text_en": "evolution",
+        "text_ta": "evolution"
+      },
+      {
+        "key": "C",
+        "text_en": "evoulution",
+        "text_ta": "evoulution"
+      },
+      {
+        "key": "D",
+        "text_en": "evallution",
+        "text_ta": "evallution"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'evolution'.",
+    "explanation_ta": "The correct spelling is 'evolution'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E32"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling of the word meaning having necessary ability or skills.",
+    "question_ta": "Select the correct spelling of the word meaning having necessary ability or skills.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "competant",
+        "text_ta": "competant"
+      },
+      {
+        "key": "B",
+        "text_en": "competent",
+        "text_ta": "competent"
+      },
+      {
+        "key": "C",
+        "text_en": "compitent",
+        "text_ta": "compitent"
+      },
+      {
+        "key": "D",
+        "text_en": "compatant",
+        "text_ta": "compatant"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'competent'.",
+    "explanation_ta": "The correct spelling is 'competent'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E33"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word when separating items.",
+    "question_ta": "Identify the correctly spelt word when separating items.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "seperate",
+        "text_ta": "seperate"
+      },
+      {
+        "key": "B",
+        "text_en": "separate",
+        "text_ta": "separate"
+      },
+      {
+        "key": "C",
+        "text_en": "sepparate",
+        "text_ta": "sepparate"
+      },
+      {
+        "key": "D",
+        "text_en": "seperet",
+        "text_ta": "seperet"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'separate'.",
+    "explanation_ta": "The correct spelling is 'separate'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E36"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct spelling when adding '-ing' to words ending in 'y'.",
+    "question_ta": "Choose the correct spelling when adding '-ing' to words ending in 'y'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "triing",
+        "text_ta": "triing"
+      },
+      {
+        "key": "B",
+        "text_en": "trying",
+        "text_ta": "trying"
+      },
+      {
+        "key": "C",
+        "text_en": "triying",
+        "text_ta": "triying"
+      },
+      {
+        "key": "D",
+        "text_en": "trieng",
+        "text_ta": "trieng"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The letter 'y' in the end does not change before -ing.",
+    "explanation_ta": "The letter 'y' in the end does not change before -ing.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E37"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct plural form of the noun 'wife'.",
+    "question_ta": "Select the correct plural form of the noun 'wife'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "wifes",
+        "text_ta": "wifes"
+      },
+      {
+        "key": "B",
+        "text_en": "wives",
+        "text_ta": "wives"
+      },
+      {
+        "key": "C",
+        "text_en": "wifs",
+        "text_ta": "wifs"
+      },
+      {
+        "key": "D",
+        "text_en": "wive",
+        "text_ta": "wive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Nouns ending in -f or -fe often form plurals by changing -f or -fe to -ves.",
+    "explanation_ta": "Nouns ending in -f or -fe often form plurals by changing -f or -fe to -ves.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "spelling",
+    "source_note": "E38"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct spelling from the given options:",
+    "question_ta": "Choose the correct spelling from the given options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "concience",
+        "text_ta": "concience"
+      },
+      {
+        "key": "B",
+        "text_en": "conscience",
+        "text_ta": "conscience"
+      },
+      {
+        "key": "C",
+        "text_en": "conciance",
+        "text_ta": "conciance"
+      },
+      {
+        "key": "D",
+        "text_en": "conscienc",
+        "text_ta": "conscienc"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'conscience'. 'Concience' is a near-miss wrong spelling.",
+    "explanation_ta": "The correct spelling is 'conscience'. 'Concience' is a near-miss wrong spelling.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word among the choices:",
+    "question_ta": "Identify the correctly spelt word among the choices:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "indispensible",
+        "text_ta": "indispensible"
+      },
+      {
+        "key": "B",
+        "text_en": "indispensable",
+        "text_ta": "indispensable"
+      },
+      {
+        "key": "C",
+        "text_en": "indispensibal",
+        "text_ta": "indispensibal"
+      },
+      {
+        "key": "D",
+        "text_en": "indispensablee",
+        "text_ta": "indispensablee"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'indispensable'.",
+    "explanation_ta": "The correct spelling is 'indispensable'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which of the following terms is spelt correctly?",
+    "question_ta": "Which of the following terms is spelt correctly?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "skillful",
+        "text_ta": "skillful"
+      },
+      {
+        "key": "B",
+        "text_en": "skilful",
+        "text_ta": "skilful"
+      },
+      {
+        "key": "C",
+        "text_en": "skilfull",
+        "text_ta": "skilfull"
+      },
+      {
+        "key": "D",
+        "text_en": "skillfull",
+        "text_ta": "skillfull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "If the word to which the suffix -ful is added ends in -ll, one 'l' is dropped, making it 'skilful'.",
+    "explanation_ta": "If the word to which the suffix -ful is added ends in -ll, one 'l' is dropped, making it 'skilful'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Find the word with the correct spelling:",
+    "question_ta": "Find the word with the correct spelling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "inmoral",
+        "text_ta": "inmoral"
+      },
+      {
+        "key": "B",
+        "text_en": "immoral",
+        "text_ta": "immoral"
+      },
+      {
+        "key": "C",
+        "text_en": "imoral",
+        "text_ta": "imoral"
+      },
+      {
+        "key": "D",
+        "text_en": "inmural",
+        "text_ta": "inmural"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use the prefix 'im-' before 'm' or 'p', hence 'immoral'.",
+    "explanation_ta": "Use the prefix 'im-' before 'm' or 'p', hence 'immoral'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling from the options:",
+    "question_ta": "Select the correct spelling from the options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "dilema",
+        "text_ta": "dilema"
+      },
+      {
+        "key": "B",
+        "text_en": "dilemma",
+        "text_ta": "dilemma"
+      },
+      {
+        "key": "C",
+        "text_en": "dillema",
+        "text_ta": "dillema"
+      },
+      {
+        "key": "D",
+        "text_en": "dilemmaa",
+        "text_ta": "dilemmaa"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'dilemma'.",
+    "explanation_ta": "The correct spelling is 'dilemma'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct plural spelling:",
+    "question_ta": "Identify the correct plural spelling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ladys",
+        "text_ta": "ladys"
+      },
+      {
+        "key": "B",
+        "text_en": "ladies",
+        "text_ta": "ladies"
+      },
+      {
+        "key": "C",
+        "text_en": "ladyes",
+        "text_ta": "ladyes"
+      },
+      {
+        "key": "D",
+        "text_en": "ladyies",
+        "text_ta": "ladyies"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Consonant + 'y' changes to 'ie' before 's', so 'lady' becomes 'ladies'.",
+    "explanation_ta": "Consonant + 'y' changes to 'ie' before 's', so 'lady' becomes 'ladies'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word with the '-ing' suffix:",
+    "question_ta": "Choose the correctly spelt word with the '-ing' suffix:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "dieing",
+        "text_ta": "dieing"
+      },
+      {
+        "key": "B",
+        "text_en": "dying",
+        "text_ta": "dying"
+      },
+      {
+        "key": "C",
+        "text_en": "dyeing",
+        "text_ta": "dyeing"
+      },
+      {
+        "key": "D",
+        "text_en": "diing",
+        "text_ta": "diing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final 'ie' changes to 'y' before '-ing'.",
+    "explanation_ta": "The final 'ie' changes to 'y' before '-ing'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the option with the correct spelling following the 'i before e' rule:",
+    "question_ta": "Select the option with the correct spelling following the 'i before e' rule:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "feild",
+        "text_ta": "feild"
+      },
+      {
+        "key": "B",
+        "text_en": "acheive",
+        "text_ta": "acheive"
+      },
+      {
+        "key": "C",
+        "text_en": "achieve",
+        "text_ta": "achieve"
+      },
+      {
+        "key": "D",
+        "text_en": "beleive",
+        "text_ta": "beleive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Achieve' follows the 'i before e except after c' rule when pronounced like 'ee'.",
+    "explanation_ta": "'Achieve' follows the 'i before e except after c' rule when pronounced like 'ee'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Find the correctly spelt word from the choices:",
+    "question_ta": "Find the correctly spelt word from the choices:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "foriegn",
+        "text_ta": "foriegn"
+      },
+      {
+        "key": "B",
+        "text_en": "foreign",
+        "text_ta": "foreign"
+      },
+      {
+        "key": "C",
+        "text_en": "foregin",
+        "text_ta": "foregin"
+      },
+      {
+        "key": "D",
+        "text_en": "foriein",
+        "text_ta": "foriein"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'foreign'.",
+    "explanation_ta": "The correct spelling is 'foreign'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the word with the correct spelling:",
+    "question_ta": "Choose the word with the correct spelling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "wearhouse",
+        "text_ta": "wearhouse"
+      },
+      {
+        "key": "B",
+        "text_en": "warehouse",
+        "text_ta": "warehouse"
+      },
+      {
+        "key": "C",
+        "text_en": "wairhouse",
+        "text_ta": "wairhouse"
+      },
+      {
+        "key": "D",
+        "text_en": "wareouse",
+        "text_ta": "wareouse"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'warehouse'.",
+    "explanation_ta": "The correct spelling is 'warehouse'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt word:",
+    "question_ta": "Select the correctly spelt word:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "bridgeing",
+        "text_ta": "bridgeing"
+      },
+      {
+        "key": "B",
+        "text_en": "bridging",
+        "text_ta": "bridging"
+      },
+      {
+        "key": "C",
+        "text_en": "bridgeng",
+        "text_ta": "bridgeng"
+      },
+      {
+        "key": "D",
+        "text_en": "bridginge",
+        "text_ta": "bridginge"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Drop the silent 'e' before adding a vowel suffix, making it 'bridging'.",
+    "explanation_ta": "Drop the silent 'e' before adding a vowel suffix, making it 'bridging'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct spelling among the options:",
+    "question_ta": "Identify the correct spelling among the options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hippocrites",
+        "text_ta": "hippocrites"
+      },
+      {
+        "key": "B",
+        "text_en": "hypocrites",
+        "text_ta": "hypocrites"
+      },
+      {
+        "key": "C",
+        "text_en": "hipocrites",
+        "text_ta": "hipocrites"
+      },
+      {
+        "key": "D",
+        "text_en": "hippocrytes",
+        "text_ta": "hippocrytes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'hypocrites'.",
+    "explanation_ta": "The correct spelling is 'hypocrites'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct singular/plural pairing option:",
+    "question_ta": "Choose the correct singular/plural pairing option:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "loaves",
+        "text_ta": "loaves"
+      },
+      {
+        "key": "B",
+        "text_en": "loaf",
+        "text_ta": "loaf"
+      },
+      {
+        "key": "C",
+        "text_en": "loafs",
+        "text_ta": "loafs"
+      },
+      {
+        "key": "D",
+        "text_en": "loavs",
+        "text_ta": "loavs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Loaf' is the correct singular noun (plural is loaves).",
+    "explanation_ta": "'Loaf' is the correct singular noun (plural is loaves).",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the word with the correct spelling:",
+    "question_ta": "Identify the word with the correct spelling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "drapeed",
+        "text_ta": "drapeed"
+      },
+      {
+        "key": "B",
+        "text_en": "draped",
+        "text_ta": "draped"
+      },
+      {
+        "key": "C",
+        "text_en": "drappd",
+        "text_ta": "drappd"
+      },
+      {
+        "key": "D",
+        "text_en": "drappeed",
+        "text_ta": "drappeed"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final 'e' is dropped before a vowel suffix, resulting in 'draped'.",
+    "explanation_ta": "The final 'e' is dropped before a vowel suffix, resulting in 'draped'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct spelling from the options:",
+    "question_ta": "Choose the correct spelling from the options:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "beleive",
+        "text_ta": "beleive"
+      },
+      {
+        "key": "B",
+        "text_en": "believe",
+        "text_ta": "believe"
+      },
+      {
+        "key": "C",
+        "text_en": "beleeve",
+        "text_ta": "beleeve"
+      },
+      {
+        "key": "D",
+        "text_en": "bilieve",
+        "text_ta": "bilieve"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'believe', following the 'i before e except after c' rule.",
+    "explanation_ta": "The correct spelling is 'believe', following the 'i before e except after c' rule.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Find the correct singular noun among the choices:",
+    "question_ta": "Find the correct singular noun among the choices:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "thieves",
+        "text_ta": "thieves"
+      },
+      {
+        "key": "B",
+        "text_en": "thief",
+        "text_ta": "thief"
+      },
+      {
+        "key": "C",
+        "text_en": "thiefs",
+        "text_ta": "thiefs"
+      },
+      {
+        "key": "D",
+        "text_en": "theives",
+        "text_ta": "theives"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Thief' is the correct singular form (plural is thieves).",
+    "explanation_ta": "'Thief' is the correct singular form (plural is thieves).",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling:",
+    "question_ta": "Select the correct spelling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "expence",
+        "text_ta": "expence"
+      },
+      {
+        "key": "B",
+        "text_en": "expense",
+        "text_ta": "expense"
+      },
+      {
+        "key": "C",
+        "text_en": "expenss",
+        "text_ta": "expenss"
+      },
+      {
+        "key": "D",
+        "text_en": "expanse",
+        "text_ta": "expanse"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The correct spelling is 'expense'.",
+    "explanation_ta": "The correct spelling is 'expense'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the word with the correct consonant doubling:",
+    "question_ta": "Identify the word with the correct consonant doubling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hoped",
+        "text_ta": "hoped"
+      },
+      {
+        "key": "B",
+        "text_en": "hopped",
+        "text_ta": "hopped"
+      },
+      {
+        "key": "C",
+        "text_en": "hopd",
+        "text_ta": "hopd"
+      },
+      {
+        "key": "D",
+        "text_en": "hoppd",
+        "text_ta": "hoppd"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final consonant 'p' is doubled before a vowel suffix when rules apply, making it 'hopped'.",
+    "explanation_ta": "The final consonant 'p' is doubled before a vowel suffix when rules apply, making it 'hopped'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct singular form:",
+    "question_ta": "Choose the correct singular form:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "wives",
+        "text_ta": "wives"
+      },
+      {
+        "key": "B",
+        "text_en": "wife",
+        "text_ta": "wife"
+      },
+      {
+        "key": "C",
+        "text_en": "wifes",
+        "text_ta": "wifes"
+      },
+      {
+        "key": "D",
+        "text_en": "wive",
+        "text_ta": "wive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Wife' is the correct singular form (plural is wives).",
+    "explanation_ta": "'Wife' is the correct singular form (plural is wives).",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E23"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt word reflecting consonant doubling rules:",
+    "question_ta": "Select the correctly spelt word reflecting consonant doubling rules:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "begining",
+        "text_ta": "begining"
+      },
+      {
+        "key": "B",
+        "text_en": "beginning",
+        "text_ta": "beginning"
+      },
+      {
+        "key": "C",
+        "text_en": "beginnig",
+        "text_ta": "beginnig"
+      },
+      {
+        "key": "D",
+        "text_en": "beginng",
+        "text_ta": "beginng"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Double the final consonant 'n' because the last syllable is stressed, making it 'beginning'.",
+    "explanation_ta": "Double the final consonant 'n' because the last syllable is stressed, making it 'beginning'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E24"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Find the correct spelling when adding a suffix:",
+    "question_ta": "Find the correct spelling when adding a suffix:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "hopful",
+        "text_ta": "hopful"
+      },
+      {
+        "key": "B",
+        "text_en": "hopeful",
+        "text_ta": "hopeful"
+      },
+      {
+        "key": "C",
+        "text_en": "hopefull",
+        "text_ta": "hopefull"
+      },
+      {
+        "key": "D",
+        "text_en": "hopfull",
+        "text_ta": "hopfull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The final 'e' is not normally dropped before a consonant, so it is 'hopeful'.",
+    "explanation_ta": "The final 'e' is not normally dropped before a consonant, so it is 'hopeful'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly spelt word among the given alternatives:",
+    "question_ta": "Choose the correctly spelt word among the given alternatives:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "colloquial",
+        "text_ta": "colloquial"
+      },
+      {
+        "key": "B",
+        "text_en": "coloquial",
+        "text_ta": "coloquial"
+      },
+      {
+        "key": "C",
+        "text_en": "coloquiall",
+        "text_ta": "coloquiall"
+      },
+      {
+        "key": "D",
+        "text_en": "collocuial",
+        "text_ta": "collocuial"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The correct spelling is 'colloquial'.",
+    "explanation_ta": "The correct spelling is 'colloquial'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correct spelling for the given action:",
+    "question_ta": "Select the correct spelling for the given action:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "droped",
+        "text_ta": "droped"
+      },
+      {
+        "key": "B",
+        "text_en": "dropt",
+        "text_ta": "dropt"
+      },
+      {
+        "key": "C",
+        "text_en": "dropped",
+        "text_ta": "dropped"
+      },
+      {
+        "key": "D",
+        "text_en": "dropedd",
+        "text_ta": "dropedd"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "We double the final consonant of a short word when adding a suffix beginning with a vowel, hence 'dropped'.",
+    "explanation_ta": "We double the final consonant of a short word when adding a suffix beginning with a vowel, hence 'dropped'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly spelt singular noun:",
+    "question_ta": "Select the correctly spelt singular noun:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "loaves",
+        "text_ta": "loaves"
+      },
+      {
+        "key": "B",
+        "text_en": "loaf",
+        "text_ta": "loaf"
+      },
+      {
+        "key": "C",
+        "text_en": "loafe",
+        "text_ta": "loafe"
+      },
+      {
+        "key": "D",
+        "text_en": "loav",
+        "text_ta": "loav"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The singular form is 'loaf' (while loaves is the plural).",
+    "explanation_ta": "The singular form is 'loaf' (while loaves is the plural).",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Spelling",
+    "topic": "Spelling",
+    "topic_id": "spelling",
+    "topic_ta": "Spelling",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly spelt word indicating the start:",
+    "question_ta": "Identify the correctly spelt word indicating the start:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "begining",
+        "text_ta": "begining"
+      },
+      {
+        "key": "B",
+        "text_en": "beginning",
+        "text_ta": "beginning"
+      },
+      {
+        "key": "C",
+        "text_en": "beginnng",
+        "text_ta": "beginnng"
+      },
+      {
+        "key": "D",
+        "text_en": "beggining",
+        "text_ta": "beggining"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "We double the final consonant if the last syllable is stressed, making 'beginning' correct.",
+    "explanation_ta": "We double the final consonant if the last syllable is stressed, making 'beginning' correct.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "spelling",
+    "source_note": "E10"
+  }
+]

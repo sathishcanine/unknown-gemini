@@ -1,0 +1,3452 @@
+[
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'Dance is not my cup of tea; I prefer singing.'",
+    "question_ta": "Choose the correct Tamil translation for: 'Dance is not my cup of tea; I prefer singing.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "எனக்கு நடனம் பிடிக்காது, ஆனால் நான் பாடுவேன்.",
+        "text_ta": "எனக்கு நடனம் பிடிக்காது, ஆனால் நான் பாடுவேன்."
+      },
+      {
+        "key": "B",
+        "text_en": "நடனம் எனது துறை அல்ல, நான் பாடும் கலைஞர்.",
+        "text_ta": "நடனம் எனது துறை அல்ல, நான் பாடும் கலைஞர்."
+      },
+      {
+        "key": "C",
+        "text_en": "நான் நடனம் ஆடுவதை விட பாடுவதை விரும்புவேன்.",
+        "text_ta": "நான் நடனம் ஆடுவதை விட பாடுவதை விரும்புவேன்."
+      },
+      {
+        "key": "D",
+        "text_en": "நடனம் எனக்கு விருப்பமான ஒன்று இல்லை; நான் பாடுவதை விரும்புகிறேன்.",
+        "text_ta": "நடனம் எனக்கு விருப்பமான ஒன்று இல்லை; நான் பாடுவதை விரும்புகிறேன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The idiom 'not my cup of tea' translates to 'விருப்பமான ஒன்று இல்லை' in this context.",
+    "explanation_ta": "The idiom 'not my cup of tea' translates to 'விருப்பமான ஒன்று இல்லை' in this context.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T1"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil translation of: 'I will travel tomorrow.'",
+    "question_ta": "Identify the correct Tamil translation of: 'I will travel tomorrow.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான் இன்று பயணம் செய்கிறேன்.",
+        "text_ta": "நான் இன்று பயணம் செய்கிறேன்."
+      },
+      {
+        "key": "B",
+        "text_en": "நான் நாளை பயணம் செய்வேன்.",
+        "text_ta": "நான் நாளை பயணம் செய்வேன்."
+      },
+      {
+        "key": "C",
+        "text_en": "நான் பயணம் செய்யப் போகிறேன்.",
+        "text_ta": "நான் பயணம் செய்யப் போகிறேன்."
+      },
+      {
+        "key": "D",
+        "text_en": "நான் நேற்று பயணம் செய்தேன்.",
+        "text_ta": "நான் நேற்று பயணம் செய்தேன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'will travel' denotes future tense, translated as 'பயணம் செய்வேன்'.",
+    "explanation_ta": "'will travel' denotes future tense, translated as 'பயணம் செய்வேன்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T2"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the correct Tamil translation for the passive voice sentence: 'The work will be done by him.'?",
+    "question_ta": "What is the correct Tamil translation for the passive voice sentence: 'The work will be done by him.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவன் அந்த வேலையைச் செய்வான்.",
+        "text_ta": "அவன் அந்த வேலையைச் செய்வான்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவன் வேலை செய்து கொண்டிருக்கிறான்.",
+        "text_ta": "அவன் வேலை செய்து கொண்டிருக்கிறான்."
+      },
+      {
+        "key": "C",
+        "text_en": "அந்த வேலை அவனால் செய்யப்படும்.",
+        "text_ta": "அந்த வேலை அவனால் செய்யப்படும்."
+      },
+      {
+        "key": "D",
+        "text_en": "அந்த வேலையை அவன் செய்தான்.",
+        "text_ta": "அந்த வேலையை அவன் செய்தான்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Passive construction 'will be done by him' translates to 'அவனால் செய்யப்படும்'.",
+    "explanation_ta": "Passive construction 'will be done by him' translates to 'அவனால் செய்யப்படும்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T3"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the appropriate Tamil translation for: 'You should study hard.'",
+    "question_ta": "Select the appropriate Tamil translation for: 'You should study hard.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நீ படித்துக் கொண்டிருக்கிறாய்.",
+        "text_ta": "நீ படித்துக் கொண்டிருக்கிறாய்."
+      },
+      {
+        "key": "B",
+        "text_en": "நீ படிக்க மாட்டாய்.",
+        "text_ta": "நீ படிக்க மாட்டாய்."
+      },
+      {
+        "key": "C",
+        "text_en": "நீ நன்றாகப் படிக்கிறாய்.",
+        "text_ta": "நீ நன்றாகப் படிக்கிறாய்."
+      },
+      {
+        "key": "D",
+        "text_en": "நீ கடினமாக படிக்க வேண்டும்.",
+        "text_ta": "நீ கடினமாக படிக்க வேண்டும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'should study' translates to 'படிக்க வேண்டும்'.",
+    "explanation_ta": "'should study' translates to 'படிக்க வேண்டும்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T4"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil equivalent for: 'She has finished her work.'",
+    "question_ta": "Choose the correct Tamil equivalent for: 'She has finished her work.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் தன் வேலையை முடித்துவிட்டாள்.",
+        "text_ta": "அவள் தன் வேலையை முடித்துவிட்டாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் நாளை வேலையை முடிப்பாள்.",
+        "text_ta": "அவள் நாளை வேலையை முடிப்பாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் வேலை செய்து கொண்டிருக்கிறாள்.",
+        "text_ta": "அவள் வேலை செய்து கொண்டிருக்கிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் வேலையைத் தொடங்கினாள்.",
+        "text_ta": "அவள் வேலையைத் தொடங்கினாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'has finished' indicates present perfect tense, translated as 'முடித்துவிட்டாள்'.",
+    "explanation_ta": "'has finished' indicates present perfect tense, translated as 'முடித்துவிட்டாள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T5"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Translate into Tamil: 'He had left before I arrived.'",
+    "question_ta": "Translate into Tamil: 'He had left before I arrived.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான் வருவதற்கு முன்பே அவன் வந்துவிட்டான்.",
+        "text_ta": "நான் வருவதற்கு முன்பே அவன் வந்துவிட்டான்."
+      },
+      {
+        "key": "B",
+        "text_en": "நான் வருவதற்கு முன்பு அவன் போயிருந்தான்.",
+        "text_ta": "நான் வருவதற்கு முன்பு அவன் போயிருந்தான்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவன் சென்ற பிறகு நான் வந்தேன்.",
+        "text_ta": "அவன் சென்ற பிறகு நான் வந்தேன்."
+      },
+      {
+        "key": "D",
+        "text_en": "நான் வந்தபோது அவன் அங்கிருந்தான்.",
+        "text_ta": "நான் வந்தபோது அவன் அங்கிருந்தான்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'had left before I arrived' translates to past perfect sequence: 'நான் வருவதற்கு முன்பு அவன் போயிருந்தான்'.",
+    "explanation_ta": "'had left before I arrived' translates to past perfect sequence: 'நான் வருவதற்கு முன்பு அவன் போயிருந்தான்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T6"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil equivalent for the imperative sentence: 'Open the door.'?",
+    "question_ta": "What is the Tamil equivalent for the imperative sentence: 'Open the door.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கதவைத் திற.",
+        "text_ta": "கதவைத் திற."
+      },
+      {
+        "key": "B",
+        "text_en": "கதவை மூடு.",
+        "text_ta": "கதவை மூடு."
+      },
+      {
+        "key": "C",
+        "text_en": "ஜன்னலைத் திற.",
+        "text_ta": "ஜன்னலைத் திற."
+      },
+      {
+        "key": "D",
+        "text_en": "கதவைத் தட்டு.",
+        "text_ta": "கதவைத் தட்டு."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Open the door' is an imperative meaning 'கதவைத் திற'.",
+    "explanation_ta": "'Open the door' is an imperative meaning 'கதவைத் திற'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T7"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Find the correct Tamil translation for the exclamatory sentence: 'What a beautiful day!'",
+    "question_ta": "Find the correct Tamil translation for the exclamatory sentence: 'What a beautiful day!'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "இன்றைய நாள் மிகவும் நீளமானது.",
+        "text_ta": "இன்றைய நாள் மிகவும் நீளமானது."
+      },
+      {
+        "key": "B",
+        "text_en": "என்ன ஒரு அழகான நாள்!",
+        "text_ta": "என்ன ஒரு அழகான நாள்!"
+      },
+      {
+        "key": "C",
+        "text_en": "இது ஒரு கெட்ட நாள்.",
+        "text_ta": "இது ஒரு கெட்ட நாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அழகான நாள் இது.",
+        "text_ta": "அழகான நாள் இது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'What a beautiful day!' directly translates to 'என்ன ஒரு அழகான நாள்!'.",
+    "explanation_ta": "'What a beautiful day!' directly translates to 'என்ன ஒரு அழகான நாள்!'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T8"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct translation for the conditional sentence: 'If it rains, we will stay home.'",
+    "question_ta": "Select the correct translation for the conditional sentence: 'If it rains, we will stay home.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "மழை பெய்யவில்லை என்றால் நாங்கள் வீட்டிலிருப்போம்.",
+        "text_ta": "மழை பெய்யவில்லை என்றால் நாங்கள் வீட்டிலிருப்போம்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் வீட்டில் இருந்தபோது மழை பெய்தது.",
+        "text_ta": "நாங்கள் வீட்டில் இருந்தபோது மழை பெய்தது."
+      },
+      {
+        "key": "C",
+        "text_en": "மழை பெய்தால், நாங்கள் வெளியே செல்வோம்.",
+        "text_ta": "மழை பெய்தால், நாங்கள் வெளியே செல்வோம்."
+      },
+      {
+        "key": "D",
+        "text_en": "மழை பெய்தால், நாங்கள் வீட்டிலேயே இருப்போம்.",
+        "text_ta": "மழை பெய்தால், நாங்கள் வீட்டிலேயே இருப்போம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'If it rains' -> 'மழை பெய்தால்', 'we will stay home' -> 'நாங்கள் வீட்டிலேயே இருப்போம்'.",
+    "explanation_ta": "'If it rains' -> 'மழை பெய்தால்', 'we will stay home' -> 'நாங்கள் வீட்டிலேயே இருப்போம்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T9"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Translate into Tamil: 'The man who is wearing a hat is my brother.'",
+    "question_ta": "Translate into Tamil: 'The man who is wearing a hat is my brother.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "என் சகோதரன் தொப்பி அணிந்திருக்கிறான்.",
+        "text_ta": "என் சகோதரன் தொப்பி அணிந்திருக்கிறான்."
+      },
+      {
+        "key": "B",
+        "text_en": "தொப்பி அணிந்திருக்கும் மனிதன் என் சகோதரன்.",
+        "text_ta": "தொப்பி அணிந்திருக்கும் மனிதன் என் சகோதரன்."
+      },
+      {
+        "key": "C",
+        "text_en": "தொப்பி அணிந்தவர் என் நண்பர்.",
+        "text_ta": "தொப்பி அணிந்தவர் என் நண்பர்."
+      },
+      {
+        "key": "D",
+        "text_en": "அந்த மனிதன் என் தொப்பியை அணிந்துள்ளான்.",
+        "text_ta": "அந்த மனிதன் என் தொப்பியை அணிந்துள்ளான்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Relative clause 'The man who is wearing a hat' maps to 'தொப்பி அணிந்திருக்கும் மனிதன்'.",
+    "explanation_ta": "Relative clause 'The man who is wearing a hat' maps to 'தொப்பி அணிந்திருக்கும் மனிதன்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T10"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation: 'The cat slept under the table.'",
+    "question_ta": "Choose the correct Tamil translation: 'The cat slept under the table.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பூனை தூங்கிக் கொண்டிருக்கிறது.",
+        "text_ta": "பூனை தூங்கிக் கொண்டிருக்கிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "பூனை மேசைக்கு அடியில் தூங்கியது.",
+        "text_ta": "பூனை மேசைக்கு அடியில் தூங்கியது."
+      },
+      {
+        "key": "C",
+        "text_en": "பூனை நாற்காலியின் கீழ் தூங்கியது.",
+        "text_ta": "பூனை நாற்காலியின் கீழ் தூங்கியது."
+      },
+      {
+        "key": "D",
+        "text_en": "பூனை மேசை மீது தூங்கியது.",
+        "text_ta": "பூனை மேசை மீது தூங்கியது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'under the table' translates to 'மேசைக்கு அடியில்'.",
+    "explanation_ta": "'under the table' translates to 'மேசைக்கு அடியில்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T11"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the Tamil equivalent for: 'Although it was late, they continued working.'",
+    "question_ta": "Identify the Tamil equivalent for: 'Although it was late, they continued working.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் வேலை செய்வதை நிறுத்தவில்லை.",
+        "text_ta": "அவர்கள் வேலை செய்வதை நிறுத்தவில்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "தாமதமாக இருந்தபோதிலும், அவர்கள் தொடர்ந்து வேலை செய்தனர்.",
+        "text_ta": "தாமதமாக இருந்தபோதிலும், அவர்கள் தொடர்ந்து வேலை செய்தனர்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் தாமதமாக வேலைக்கு வந்தனர்.",
+        "text_ta": "அவர்கள் தாமதமாக வேலைக்கு வந்தனர்."
+      },
+      {
+        "key": "D",
+        "text_en": "நேரம் தாமதமானதால் அவர்கள் வேலையை நிறுத்தினர்.",
+        "text_ta": "நேரம் தாமதமானதால் அவர்கள் வேலையை நிறுத்தினர்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Although it was late' -> 'தாமதமாக இருந்தபோதிலும்', 'continued working' -> 'தொடர்ந்து வேலை செய்தனர்'.",
+    "explanation_ta": "'Although it was late' -> 'தாமதமாக இருந்தபோதிலும்', 'continued working' -> 'தொடர்ந்து வேலை செய்தனர்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T12"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct Tamil translation: 'Do you like pizza?'",
+    "question_ta": "Select the correct Tamil translation: 'Do you like pizza?'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நீ பிட்சா சாப்பிடுகிறாயா?",
+        "text_ta": "நீ பிட்சா சாப்பிடுகிறாயா?"
+      },
+      {
+        "key": "B",
+        "text_en": "உனக்குப் பிட்சா பிடிக்குமா?",
+        "text_ta": "உனக்குப் பிட்சா பிடிக்குமா?"
+      },
+      {
+        "key": "C",
+        "text_en": "உனக்கு என்ன உணவு பிடிக்கும்?",
+        "text_ta": "உனக்கு என்ன உணவு பிடிக்கும்?"
+      },
+      {
+        "key": "D",
+        "text_en": "பிட்சா உனக்கு வழங்குவேன்.",
+        "text_ta": "பிட்சா உனக்கு வழங்குவேன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Do you like pizza?' translates to 'உனக்குப் பிட்சா பிடிக்குமா?'.",
+    "explanation_ta": "'Do you like pizza?' translates to 'உனக்குப் பிட்சா பிடிக்குமா?'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T14"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the right Tamil version for: 'She sings beautifully.'",
+    "question_ta": "Choose the right Tamil version for: 'She sings beautifully.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் அழகாகப் பாடுகிறாள்.",
+        "text_ta": "அவள் அழகாகப் பாடுகிறாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் இனிமையாகப் பேசினாள்.",
+        "text_ta": "அவள் இனிமையாகப் பேசினாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் பாட்டுப் பாடுகிறாள்.",
+        "text_ta": "அவள் பாட்டுப் பாடுகிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் நன்றாகப் பேசுகிறாள்.",
+        "text_ta": "அவள் நன்றாகப் பேசுகிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'sings beautifully' translates to 'அழகாகப் பாடுகிறாள்'.",
+    "explanation_ta": "'sings beautifully' translates to 'அழகாகப் பாடுகிறாள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T15"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Translate into Tamil: 'We will go soon.'",
+    "question_ta": "Translate into Tamil: 'We will go soon.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாங்கள் போக மாட்டோம்.",
+        "text_ta": "நாங்கள் போக மாட்டோம்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் தாமதமாக வருவோம்.",
+        "text_ta": "நாங்கள் தாமதமாக வருவோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "நாங்கள் விரைவில் போவோம்.",
+        "text_ta": "நாங்கள் விரைவில் போவோம்."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் நேற்று சென்றோம்.",
+        "text_ta": "நாங்கள் நேற்று சென்றோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'will go soon' translates to 'விரைவில் போவோம்'.",
+    "explanation_ta": "'will go soon' translates to 'விரைவில் போவோம்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T16"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation for: 'It is a big house.'",
+    "question_ta": "What is the Tamil translation for: 'It is a big house.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "இது புதிய வீடு.",
+        "text_ta": "இது புதிய வீடு."
+      },
+      {
+        "key": "B",
+        "text_en": "அது அழகான வீடு.",
+        "text_ta": "அது அழகான வீடு."
+      },
+      {
+        "key": "C",
+        "text_en": "இது ஒரு பெரிய வீடு.",
+        "text_ta": "இது ஒரு பெரிய வீடு."
+      },
+      {
+        "key": "D",
+        "text_en": "இது ஒரு சிறிய வீடு.",
+        "text_ta": "இது ஒரு சிறிய வீடு."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'big house' translates to 'பெரிய வீடு'.",
+    "explanation_ta": "'big house' translates to 'பெரிய வீடு'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T17"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct Tamil translation: 'He likes her.'",
+    "question_ta": "Select the correct Tamil translation: 'He likes her.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் நண்பர்கள்.",
+        "text_ta": "அவர்கள் நண்பர்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவன் அவளைப் பார்த்தான்.",
+        "text_ta": "அவன் அவளைப் பார்த்தான்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவனுக்கு அவளைப் பிடிக்கும்.",
+        "text_ta": "அவனுக்கு அவளைப் பிடிக்கும்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் அவனை விரும்புகிறாள்.",
+        "text_ta": "அவள் அவனை விரும்புகிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'He likes her' translates to 'அவனுக்கு அவளைப் பிடிக்கும்'.",
+    "explanation_ta": "'He likes her' translates to 'அவனுக்கு அவளைப் பிடிக்கும்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T18"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'This is my book.'",
+    "question_ta": "Choose the correct Tamil translation for: 'This is my book.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அது அவனுடைய புத்தகம்.",
+        "text_ta": "அது அவனுடைய புத்தகம்."
+      },
+      {
+        "key": "B",
+        "text_en": "இது ஒரு பழைய புத்தகம்.",
+        "text_ta": "இது ஒரு பழைய புத்தகம்."
+      },
+      {
+        "key": "C",
+        "text_en": "இது உன்னுடைய புத்தகம்.",
+        "text_ta": "இது உன்னுடைய புத்தகம்."
+      },
+      {
+        "key": "D",
+        "text_en": "இது என்னுடைய புத்தகம்.",
+        "text_ta": "இது என்னுடைய புத்தகம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'This is my book' translates to 'இது என்னுடைய புத்தகம்'.",
+    "explanation_ta": "'This is my book' translates to 'இது என்னுடைய புத்தகம்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T19"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil equivalent of: 'Give me the book.'",
+    "question_ta": "Identify the correct Tamil equivalent of: 'Give me the book.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "எனக்கு அந்தப் புத்தகத்தைக் கொடு.",
+        "text_ta": "எனக்கு அந்தப் புத்தகத்தைக் கொடு."
+      },
+      {
+        "key": "B",
+        "text_en": "புத்தகத்தை எடுத்துச் செல்.",
+        "text_ta": "புத்தகத்தை எடுத்துச் செல்."
+      },
+      {
+        "key": "C",
+        "text_en": "புத்தகத்தை கீழே வை.",
+        "text_ta": "புத்தகத்தை கீழே வை."
+      },
+      {
+        "key": "D",
+        "text_en": "இந்த புத்தகத்தைப் படி.",
+        "text_ta": "இந்த புத்தகத்தைப் படி."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Give me the book' translates to 'எனக்கு அந்தப் புத்தகத்தைக் கொடு.'",
+    "explanation_ta": "'Give me the book' translates to 'எனக்கு அந்தப் புத்தகத்தைக் கொடு.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T20"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation of: 'I have three apples.'",
+    "question_ta": "What is the Tamil translation of: 'I have three apples.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான் மூன்று ஆப்பிள்களைச் சாப்பிட்டேன்.",
+        "text_ta": "நான் மூன்று ஆப்பிள்களைச் சாப்பிட்டேன்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவளிடம் மூன்று ஆப்பிள்கள் உள்ளன.",
+        "text_ta": "அவளிடம் மூன்று ஆப்பிள்கள் உள்ளன."
+      },
+      {
+        "key": "C",
+        "text_en": "என்னிடம் மூன்று ஆப்பிள்கள் உள்ளன.",
+        "text_ta": "என்னிடம் மூன்று ஆப்பிள்கள் உள்ளன."
+      },
+      {
+        "key": "D",
+        "text_en": "எனக்கு ஆப்பிள் பழம் பிடிக்கும்.",
+        "text_ta": "எனக்கு ஆப்பிள் பழம் பிடிக்கும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'I have three apples' translates to 'என்னிடம் மூன்று ஆப்பிள்கள் உள்ளன.'",
+    "explanation_ta": "'I have three apples' translates to 'என்னிடம் மூன்று ஆப்பிள்கள் உள்ளன.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T21"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct translation for: 'Please give me some water.'",
+    "question_ta": "Select the correct translation for: 'Please give me some water.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தயவுசெய்து எனக்கு கொஞ்சம் தண்ணீர் கொடுங்கள்.",
+        "text_ta": "தயவுசெய்து எனக்கு கொஞ்சம் தண்ணீர் கொடுங்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "எனக்கு கொஞ்சம் பால் கொடுங்கள்.",
+        "text_ta": "எனக்கு கொஞ்சம் பால் கொடுங்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "தண்ணீர் குடிக்க வேண்டும்.",
+        "text_ta": "தண்ணீர் குடிக்க வேண்டும்."
+      },
+      {
+        "key": "D",
+        "text_en": "தயவுசெய்து வெளியே செல்லுங்கள்.",
+        "text_ta": "தயவுசெய்து வெளியே செல்லுங்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Please give me some water' translates to 'தயவுசெய்து எனக்கு கொஞ்சம் தண்ணீர் கொடுங்கள்.'",
+    "explanation_ta": "'Please give me some water' translates to 'தயவுசெய்து எனக்கு கொஞ்சம் தண்ணீர் கொடுங்கள்.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T22"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Translate into Tamil: 'The children are playing in the park.'",
+    "question_ta": "Translate into Tamil: 'The children are playing in the park.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "குழந்தைகள் பூங்காவில் விளையாடிக்கொண்டிருக்கிறார்கள்.",
+        "text_ta": "குழந்தைகள் பூங்காவில் விளையாடிக்கொண்டிருக்கிறார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "குழந்தைகள் வீட்டில் இருக்கிறார்கள்.",
+        "text_ta": "குழந்தைகள் வீட்டில் இருக்கிறார்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "குழந்தைகள் பள்ளியில் படிக்கிறார்கள்.",
+        "text_ta": "குழந்தைகள் பள்ளியில் படிக்கிறார்கள்."
+      },
+      {
+        "key": "D",
+        "text_en": "சிறுவர்கள் விளையாடச் சென்றார்கள்.",
+        "text_ta": "சிறுவர்கள் விளையாடச் சென்றார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'are playing in the park' translates to 'பூங்காவில் விளையாடிக்கொண்டிருக்கிறார்கள்'.",
+    "explanation_ta": "'are playing in the park' translates to 'பூங்காவில் விளையாடிக்கொண்டிருக்கிறார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T23"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil equivalent for: 'She is reading an interesting book.'",
+    "question_ta": "Choose the correct Tamil equivalent for: 'She is reading an interesting book.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் புதிய புத்தகம் பார்த்தாள்.",
+        "text_ta": "அவள் புதிய புத்தகம் பார்த்தாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் ஒரு கதை புத்தகம் எழுதினாள்.",
+        "text_ta": "அவள் ஒரு கதை புத்தகம் எழுதினாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் நல்ல புத்தகம் வாங்கினாள்.",
+        "text_ta": "அவள் நல்ல புத்தகம் வாங்கினாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் ஒரு சுவாரஸ்யமான புத்தகம் படித்துக் கொண்டிருக்கிறாள்.",
+        "text_ta": "அவள் ஒரு சுவாரஸ்யமான புத்தகம் படித்துக் கொண்டிருக்கிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'interesting book' -> 'சுவாரஸ்யமான புத்தகம்', 'is reading' -> 'படித்துக் கொண்டிருக்கிறாள்'.",
+    "explanation_ta": "'interesting book' -> 'சுவாரஸ்யமான புத்தகம்', 'is reading' -> 'படித்துக் கொண்டிருக்கிறாள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T24"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation for: 'We went to the cinema last night.'",
+    "question_ta": "What is the Tamil translation for: 'We went to the cinema last night.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் நேற்று சினிமா பார்த்தனர்.",
+        "text_ta": "அவர்கள் நேற்று சினிமா பார்த்தனர்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் நாளை சினிமாவுக்குச் செல்வோம்.",
+        "text_ta": "நாங்கள் நாளை சினிமாவுக்குச் செல்வோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "நாங்கள் இன்று இரவு படம் பார்ப்போம்.",
+        "text_ta": "நாங்கள் இன்று இரவு படம் பார்ப்போம்."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் நேற்று இரவு சினிமாவுக்குப் போனோம்.",
+        "text_ta": "நாங்கள் நேற்று இரவு சினிமாவுக்குப் போனோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'last night' -> 'நேற்று இரவு', 'went to the cinema' -> 'சினிமாவுக்குப் போனோம்'.",
+    "explanation_ta": "'last night' -> 'நேற்று இரவு', 'went to the cinema' -> 'சினிமாவுக்குப் போனோம்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T25"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct Tamil translation: 'He will visit his grandparents next week.'",
+    "question_ta": "Select the correct Tamil translation: 'He will visit his grandparents next week.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் கடந்த வாரம் தாத்தா பாட்டியைப் பார்த்தார்.",
+        "text_ta": "அவர் கடந்த வாரம் தாத்தா பாட்டியைப் பார்த்தார்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் நாளை ஊருக்குச் செல்வார்.",
+        "text_ta": "அவர் நாளை ஊருக்குச் செல்வார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர் தன் பெற்றோருடன் வosிக்கிறார்.",
+        "text_ta": "அவர் தன் பெற்றோருடன் வosிக்கிறார்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் அடுத்த வாரம் தன் தாத்தா பாட்டியைப் பார்ப்பார்.",
+        "text_ta": "அவர் அடுத்த வாரம் தன் தாத்தா பாட்டியைப் பார்ப்பார்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'next week' -> 'அடுத்த வாரம்', 'will visit grandparents' -> 'தன் தாத்தா பாட்டியைப் பார்ப்பார்'.",
+    "explanation_ta": "'next week' -> 'அடுத்த வாரம்', 'will visit grandparents' -> 'தன் தாத்தா பாட்டியைப் பார்ப்பார்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Sentence Translation",
+    "source_note": "T26"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'The food smells delicious.'",
+    "question_ta": "Choose the correct Tamil translation for: 'The food smells delicious.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "இந்த உணவு எனக்குப் பிடிக்கவில்லை.",
+        "text_ta": "இந்த உணவு எனக்குப் பிடிக்கவில்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "உணவு நன்றாக சமைக்கப்பட்டுள்ளது.",
+        "text_ta": "உணவு நன்றாக சமைக்கப்பட்டுள்ளது."
+      },
+      {
+        "key": "C",
+        "text_en": "உணவு சூடாக இருக்கிறது.",
+        "text_ta": "உணவு சூடாக இருக்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "உணவு மிகவும் சுவையாக இருக்கிறது.",
+        "text_ta": "உணவு மிகவும் சுவையாக இருக்கிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T27 translation match: 'The food smells delicious.' translates to 'உணவு மிகவும் சுவையாக இருக்கிறது.'",
+    "explanation_ta": "T27 translation match: 'The food smells delicious.' translates to 'உணவு மிகவும் சுவையாக இருக்கிறது.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'They speak English fluently.'",
+    "question_ta": "Choose the correct Tamil translation for: 'They speak English fluently.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் ஆங்கிலம் நன்றாகப் படிக்கிறார்கள்.",
+        "text_ta": "அவர்கள் ஆங்கிலம் நன்றாகப் படிக்கிறார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் ஆங்கிலம் பேச முயற்சி செய்கிறார்கள்.",
+        "text_ta": "அவர்கள் ஆங்கிலம் பேச முயற்சி செய்கிறார்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் ஆங்கிலம் எழுதத் தெரியும்.",
+        "text_ta": "அவர்கள் ஆங்கிலம் எழுதத் தெரியும்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் சரளமாக ஆங்கிலம் பேசுகிறார்கள்.",
+        "text_ta": "அவர்கள் சரளமாக ஆங்கிலம் பேசுகிறார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T28 translation match: 'They speak English fluently.' translates to 'அவர்கள் சரளமாக ஆங்கிலம் பேசுகிறார்கள்.'",
+    "explanation_ta": "T28 translation match: 'They speak English fluently.' translates to 'அவர்கள் சரளமாக ஆங்கிலம் பேசுகிறார்கள்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'I need some help with this problem.'",
+    "question_ta": "Choose the correct Tamil translation for: 'I need some help with this problem.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "எனக்கு இந்த பிரச்சனையில் உதவி தேவையில்லை.",
+        "text_ta": "எனக்கு இந்த பிரச்சனையில் உதவி தேவையில்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "இந்த பிரச்சனையை நீங்களே தீர்த்துக்கொள்ளுங்கள்.",
+        "text_ta": "இந்த பிரச்சனையை நீங்களே தீர்த்துக்கொள்ளுங்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "இந்த பிரச்சனைக்கு எனக்கு கொஞ்சம் உதவி தேவை.",
+        "text_ta": "இந்த பிரச்சனைக்கு எனக்கு கொஞ்சம் உதவி தேவை."
+      },
+      {
+        "key": "D",
+        "text_en": "எனக்கு ஒரு உதவி செய்ய முடியுமா?",
+        "text_ta": "எனக்கு ஒரு உதவி செய்ய முடியுமா?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T29 translation match: 'I need some help with this problem.' translates to 'இந்த பிரச்சனைக்கு எனக்கு கொஞ்சம் உதவி தேவை.'",
+    "explanation_ta": "T29 translation match: 'I need some help with this problem.' translates to 'இந்த பிரச்சனைக்கு எனக்கு கொஞ்சம் உதவி தேவை.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'Can you please close the window?'",
+    "question_ta": "Choose the correct Tamil translation for: 'Can you please close the window?'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தயவுசெய்து ஜன்னலை மூட முடியுமா?",
+        "text_ta": "தயவுசெய்து ஜன்னலை மூட முடியுமா?"
+      },
+      {
+        "key": "B",
+        "text_en": "ஜன்னலைத் திறந்து வை.",
+        "text_ta": "ஜன்னலைத் திறந்து வை."
+      },
+      {
+        "key": "C",
+        "text_en": "தயவுசெய்து கதவை மூடுங்கள்.",
+        "text_ta": "தயவுசெய்து கதவை மூடுங்கள்."
+      },
+      {
+        "key": "D",
+        "text_en": "உங்களால் ஜன்னலைத் திறக்க முடியுமா?",
+        "text_ta": "உங்களால் ஜன்னலைத் திறக்க முடியுமா?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T30 translation match: 'Can you please close the window?' translates to 'தயவுசெய்து ஜன்னலை மூட முடியுமா?'",
+    "explanation_ta": "T30 translation match: 'Can you please close the window?' translates to 'தயவுசெய்து ஜன்னலை மூட முடியுமா?'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'The train arrived on time.'",
+    "question_ta": "Choose the correct Tamil translation for: 'The train arrived on time.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ரயில் தாமதமாக வந்தது.",
+        "text_ta": "ரயில் தாமதமாக வந்தது."
+      },
+      {
+        "key": "B",
+        "text_en": "ரயில் சரியான நேரத்திற்கு வந்தது.",
+        "text_ta": "ரயில் சரியான நேரத்திற்கு வந்தது."
+      },
+      {
+        "key": "C",
+        "text_en": "ரயில் இன்னும் வரவில்லை.",
+        "text_ta": "ரயில் இன்னும் வரவில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "ரயில் புறப்பட்டுவிட்டது.",
+        "text_ta": "ரயில் புறப்பட்டுவிட்டது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T31 translation match: 'The train arrived on time.' translates to 'ரயில் சரியான நேரத்திற்கு வந்தது.'",
+    "explanation_ta": "T31 translation match: 'The train arrived on time.' translates to 'ரயில் சரியான நேரத்திற்கு வந்தது.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'She bought a new dress yesterday.'",
+    "question_ta": "Choose the correct Tamil translation for: 'She bought a new dress yesterday.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் நேற்று ஒரு புதிய ஆடை வாங்கினாள்.",
+        "text_ta": "அவள் நேற்று ஒரு புதிய ஆடை வாங்கினாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவளிடம் ஒரு புதிய ஆடை உள்ளது.",
+        "text_ta": "அவளிடம் ஒரு புதிய ஆடை உள்ளது."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் புதிய ஆடை தைத்துக்கொண்டிருக்கிறாள்.",
+        "text_ta": "அவள் புதிய ஆடை தைத்துக்கொண்டிருக்கிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் நாளை புதிய ஆடை வாங்குவாள்.",
+        "text_ta": "அவள் நாளை புதிய ஆடை வாங்குவாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T32 translation match: 'She bought a new dress yesterday.' translates to 'அவள் நேற்று ஒரு புதிய ஆடை வாங்கினாள்.'",
+    "explanation_ta": "T32 translation match: 'She bought a new dress yesterday.' translates to 'அவள் நேற்று ஒரு புதிய ஆடை வாங்கினாள்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'We are planning a holiday.'",
+    "question_ta": "Choose the correct Tamil translation for: 'We are planning a holiday.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாங்கள் விடுமுறைக்குச் செல்லவில்லை.",
+        "text_ta": "நாங்கள் விடுமுறைக்குச் செல்லவில்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் ஒரு விடுமுறை முடித்துவிட்டோம்.",
+        "text_ta": "நாங்கள் ஒரு விடுமுறை முடித்துவிட்டோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "இது விடுமுறை காலம்.",
+        "text_ta": "இது விடுமுறை காலம்."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் ஒரு விடுமுறைக்குத் திட்டமிடுகிறோம்.",
+        "text_ta": "நாங்கள் ஒரு விடுமுறைக்குத் திட்டமிடுகிறோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T33 translation match: 'We are planning a holiday.' translates to 'நாங்கள் ஒரு விடுமுறைக்குத் திட்டமிடுகிறோம்.'",
+    "explanation_ta": "T33 translation match: 'We are planning a holiday.' translates to 'நாங்கள் ஒரு விடுமுறைக்குத் திட்டமிடுகிறோம்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'He enjoys listening to music.'",
+    "question_ta": "Choose the correct Tamil translation for: 'He enjoys listening to music.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் இசைக்கருவி வாசிக்கிறார்.",
+        "text_ta": "அவர் இசைக்கருவி வாசிக்கிறார்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் இசை கேட்பதை விரும்புகிறார்.",
+        "text_ta": "அவர் இசை கேட்பதை விரும்புகிறார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவருக்கு இசை பிடிக்காது.",
+        "text_ta": "அவருக்கு இசை பிடிக்காது."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் பாட்டுப் பாட விரும்புகிறார்.",
+        "text_ta": "அவர் பாட்டுப் பாட விரும்புகிறார்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T34 translation match: 'He enjoys listening to music.' translates to 'அவர் இசை கேட்பதை விரும்புகிறார்.'",
+    "explanation_ta": "T34 translation match: 'He enjoys listening to music.' translates to 'அவர் இசை கேட்பதை விரும்புகிறார்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'The cat is sleeping on the sofa.'",
+    "question_ta": "Choose the correct Tamil translation for: 'The cat is sleeping on the sofa.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பூனை மேசையின் கீழ் படுத்திருக்கிறது.",
+        "text_ta": "பூனை மேசையின் கீழ் படுத்திருக்கிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "பூனை சோபாவை விட்டு ஓடியது.",
+        "text_ta": "பூனை சோபாவை விட்டு ஓடியது."
+      },
+      {
+        "key": "C",
+        "text_en": "பூனை சோபாவில் தூங்கிக் கொண்டிருக்கிறது.",
+        "text_ta": "பூனை சோபாவில் தூங்கிக் கொண்டிருக்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "பூனை தரையில் அமர்ந்துள்ளது.",
+        "text_ta": "பூனை தரையில் அமர்ந்துள்ளது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T35 translation match: 'The cat is sleeping on the sofa.' translates to 'பூனை சோபாவில் தூங்கிக் கொண்டிருக்கிறது.'",
+    "explanation_ta": "T35 translation match: 'The cat is sleeping on the sofa.' translates to 'பூனை சோபாவில் தூங்கிக் கொண்டிருக்கிறது.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'They are building a new house.'",
+    "question_ta": "Choose the correct Tamil translation for: 'They are building a new house.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் ஒரு புதிய வீடு கட்டிக் கொண்டிருக்கிறார்கள்.",
+        "text_ta": "அவர்கள் ஒரு புதிய வீடு கட்டிக் கொண்டிருக்கிறார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் ஒரு பழைய வீட்டை விற்கிறார்கள்.",
+        "text_ta": "அவர்கள் ஒரு பழைய வீட்டை விற்கிறார்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் புதிய வீட்டிற்கு குடிபெயர்ந்துள்ளனர்.",
+        "text_ta": "அவர்கள் புதிய வீட்டிற்கு குடிபெயர்ந்துள்ளனர்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் வீட்டைப் புதுப்பிக்கிறார்கள்.",
+        "text_ta": "அவர்கள் வீட்டைப் புதுப்பிக்கிறார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T36 translation match: 'They are building a new house.' translates to 'அவர்கள் ஒரு புதிய வீடு கட்டிக் கொண்டிருக்கிறார்கள்.'",
+    "explanation_ta": "T36 translation match: 'They are building a new house.' translates to 'அவர்கள் ஒரு புதிய வீடு கட்டிக் கொண்டிருக்கிறார்கள்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p72"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'I have lived here for ten years.'",
+    "question_ta": "Choose the correct Tamil translation for: 'I have lived here for ten years.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான் இந்த ஊருக்கு வந்து பத்து நாட்கள் ஆகின்றன.",
+        "text_ta": "நான் இந்த ஊருக்கு வந்து பத்து நாட்கள் ஆகின்றன."
+      },
+      {
+        "key": "B",
+        "text_en": "நான் இங்கே பத்து வருடங்களாக வசித்து வருகிறேன்.",
+        "text_ta": "நான் இங்கே பத்து வருடங்களாக வசித்து வருகிறேன்."
+      },
+      {
+        "key": "C",
+        "text_en": "நான் இன்னும் பத்து ஆண்டுகள் இங்கு இருப்பேன்.",
+        "text_ta": "நான் இன்னும் பத்து ஆண்டுகள் இங்கு இருப்பேன்."
+      },
+      {
+        "key": "D",
+        "text_en": "நான் பத்தாண்டுகளுக்கு முன்பு இங்கு வாழ்ந்தேன்.",
+        "text_ta": "நான் பத்தாண்டுகளுக்கு முன்பு இங்கு வாழ்ந்தேன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T37 translation match: 'I have lived here for ten years.' translates to 'நான் இங்கே பத்து வருடங்களாக வசித்து வருகிறேன்.'",
+    "explanation_ta": "T37 translation match: 'I have lived here for ten years.' translates to 'நான் இங்கே பத்து வருடங்களாக வசித்து வருகிறேன்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'She can play the piano very well.'",
+    "question_ta": "Choose the correct Tamil translation for: 'She can play the piano very well.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவளுக்கு பியானோ வாசிக்கத் தெரியாது.",
+        "text_ta": "அவளுக்கு பியானோ வாசிக்கத் தெரியாது."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் பியானோ போட்டியில் வென்றாள்.",
+        "text_ta": "அவள் பியானோ போட்டியில் வென்றாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் பியானோ வாசிக்கக் கற்றுக் கொள்கிறாள்.",
+        "text_ta": "அவள் பியானோ வாசிக்கக் கற்றுக் கொள்கிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவளால் பியானோவை நன்றாக வாசிக்க முடியும்.",
+        "text_ta": "அவளால் பியானோவை நன்றாக வாசிக்க முடியும்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T38 translation match: 'She can play the piano very well.' translates to 'அவளால் பியானோவை நன்றாக வாசிக்க முடியும்.'",
+    "explanation_ta": "T38 translation match: 'She can play the piano very well.' translates to 'அவளால் பியானோவை நன்றாக வாசிக்க முடியும்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'We often go for a walk in the evening.'",
+    "question_ta": "Choose the correct Tamil translation for: 'We often go for a walk in the evening.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாங்கள் காலையில் நடைப்பயிற்சி செல்கிறோம்.",
+        "text_ta": "நாங்கள் காலையில் நடைப்பயிற்சி செல்கிறோம்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் எப்போதாவது மாலை நேரத்தில் உலா செல்வோம்.",
+        "text_ta": "நாங்கள் எப்போதாவது மாலை நேரத்தில் உலா செல்வோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "நாங்கள் அடிக்கடி மாலை நேரத்தில் உலா போகிறோம்.",
+        "text_ta": "நாங்கள் அடிக்கடி மாலை நேரத்தில் உலா போகிறோம்."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் மாலையில் வெளியே செல்வதில்லை.",
+        "text_ta": "நாங்கள் மாலையில் வெளியே செல்வதில்லை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T39 translation match: 'We often go for a walk in the evening.' translates to 'நாங்கள் அடிக்கடி மாலை நேரத்தில் உலா போகிறோம்.'",
+    "explanation_ta": "T39 translation match: 'We often go for a walk in the evening.' translates to 'நாங்கள் அடிக்கடி மாலை நேரத்தில் உலா போகிறோம்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'He is learning to drive a car.'",
+    "question_ta": "Choose the correct Tamil translation for: 'He is learning to drive a car.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் நன்றாக கார் ஓட்டுகிறார்.",
+        "text_ta": "அவர் நன்றாக கார் ஓட்டுகிறார்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் கார் ஓட்ட கற்றுக்கொடுக்கிறார்.",
+        "text_ta": "அவர் கார் ஓட்ட கற்றுக்கொடுக்கிறார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர் கார் ஓட்ட கற்றுக் கொண்டிருக்கிறார்.",
+        "text_ta": "அவர் கார் ஓட்ட கற்றுக் கொண்டிருக்கிறார்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் கார் வாங்க திட்டமிட்டுள்ளார்.",
+        "text_ta": "அவர் கார் வாங்க திட்டமிட்டுள்ளார்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T40 translation match: 'He is learning to drive a car.' translates to 'அவர் கார் ஓட்ட கற்றுக் கொண்டிருக்கிறார்.'",
+    "explanation_ta": "T40 translation match: 'He is learning to drive a car.' translates to 'அவர் கார் ஓட்ட கற்றுக் கொண்டிருக்கிறார்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'They had a picnic last weekend.'",
+    "question_ta": "Choose the correct Tamil translation for: 'They had a picnic last weekend.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் வார இறுதியில் வேலை செய்தனர்.",
+        "text_ta": "அவர்கள் வார இறுதியில் வேலை செய்தனர்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் சுற்றுலா செல்ல விரும்பவில்லை.",
+        "text_ta": "அவர்கள் சுற்றுலா செல்ல விரும்பவில்லை."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் அடுத்த வாரம் சுற்றுலா செல்வார்கள்.",
+        "text_ta": "அவர்கள் அடுத்த வாரம் சுற்றுலா செல்வார்கள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் கடந்த வாரம் ஒரு சுற்றுலா சென்றார்கள்.",
+        "text_ta": "அவர்கள் கடந்த வாரம் ஒரு சுற்றுலா சென்றார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T42 translation match: 'They had a picnic last weekend.' translates to 'அவர்கள் கடந்த வாரம் ஒரு சுற்றுலா சென்றார்கள்.'",
+    "explanation_ta": "T42 translation match: 'They had a picnic last weekend.' translates to 'அவர்கள் கடந்த வாரம் ஒரு சுற்றுலா சென்றார்கள்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'The stars are shining brightly tonight.'",
+    "question_ta": "Choose the correct Tamil translation for: 'The stars are shining brightly tonight.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "இன்று இரவு நட்சத்திரங்கள் பிரகாசமாக மின்னிக் கொண்டிருக்கின்றன.",
+        "text_ta": "இன்று இரவு நட்சத்திரங்கள் பிரகாசமாக மின்னிக் கொண்டிருக்கின்றன."
+      },
+      {
+        "key": "B",
+        "text_en": "நட்சத்திரங்கள் மறைந்துவிட்டன.",
+        "text_ta": "நட்சத்திரங்கள் மறைந்துவிட்டன."
+      },
+      {
+        "key": "C",
+        "text_en": "இன்று இரவு நிலவு பிரகாசமாக இல்லை.",
+        "text_ta": "இன்று இரவு நிலவு பிரகாசமாக இல்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "வானத்தில் மேகங்கள் மூடியுள்ளன.",
+        "text_ta": "வானத்தில் மேகங்கள் மூடியுள்ளன."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T43 translation match: 'The stars are shining brightly tonight.' translates to 'இன்று இரவு நட்சத்திரங்கள் பிரகாசமாக மின்னிக் கொண்டிருக்கின்றன.'",
+    "explanation_ta": "T43 translation match: 'The stars are shining brightly tonight.' translates to 'இன்று இரவு நட்சத்திரங்கள் பிரகாசமாக மின்னிக் கொண்டிருக்கின்றன.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'He solved the difficult puzzle quickly.'",
+    "question_ta": "Choose the correct Tamil translation for: 'He solved the difficult puzzle quickly.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவனால் அந்த புதிரைத் தீர்க்க முடியவில்லை.",
+        "text_ta": "அவனால் அந்த புதிரைத் தீர்க்க முடியவில்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "புதிர் மிகவும் எளிமையாக இருந்தது.",
+        "text_ta": "புதிர் மிகவும் எளிமையாக இருந்தது."
+      },
+      {
+        "key": "C",
+        "text_en": "அவன் கடினமான புதிரை விரைவாக தீர்த்தான்.",
+        "text_ta": "அவன் கடினமான புதிரை விரைவாக தீர்த்தான்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவன் மெதுவாக புதிரைத் தீர்த்தான்.",
+        "text_ta": "அவன் மெதுவாக புதிரைத் தீர்த்தான்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T44 translation match: 'He solved the difficult puzzle quickly.' translates to 'அவன் கடினமான புதிரை விரைவாக தீர்த்தான்.'",
+    "explanation_ta": "T44 translation match: 'He solved the difficult puzzle quickly.' translates to 'அவன் கடினமான புதிரை விரைவாக தீர்த்தான்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'We will celebrate her birthday next month.'",
+    "question_ta": "Choose the correct Tamil translation for: 'We will celebrate her birthday next month.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாங்கள் கடந்த மாதம் பிறந்தநாளைக் கொண்டாடினோம்.",
+        "text_ta": "நாங்கள் கடந்த மாதம் பிறந்தநாளைக் கொண்டாடினோம்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் அடுத்த மாதம் அவளுடைய பிறந்தநாளை கொண்டாடுவோம்.",
+        "text_ta": "நாங்கள் அடுத்த மாதம் அவளுடைய பிறந்தநாளை கொண்டாடுவோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் பிறந்தநாள் இன்று.",
+        "text_ta": "அவள் பிறந்தநாள் இன்று."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் பிறந்தநாளுக்குச் செல்லவில்லை.",
+        "text_ta": "நாங்கள் பிறந்தநாளுக்குச் செல்லவில்லை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T45 translation match: 'We will celebrate her birthday next month.' translates to 'நாங்கள் அடுத்த மாதம் அவளுடைய பிறந்தநாளை கொண்டாடுவோம்.'",
+    "explanation_ta": "T45 translation match: 'We will celebrate her birthday next month.' translates to 'நாங்கள் அடுத்த மாதம் அவளுடைய பிறந்தநாளை கொண்டாடுவோம்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'She offered me a cup of tea.'",
+    "question_ta": "Choose the correct Tamil translation for: 'She offered me a cup of tea.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் தேநீர் குடிக்க விரும்பவில்லை.",
+        "text_ta": "அவள் தேநீர் குடிக்க விரும்பவில்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "நான் அவளுக்கு தேநீர் தயாரித்துக் கொடுத்தேன்.",
+        "text_ta": "நான் அவளுக்கு தேநீர் தயாரித்துக் கொடுத்தேன்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் எனக்கு ஒரு கப் தேநீர் கொடுத்தாள்.",
+        "text_ta": "அவள் எனக்கு ஒரு கப் தேநீர் கொடுத்தாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் எனக்கு காபி வாங்கிக் கொடுத்தாள்.",
+        "text_ta": "அவள் எனக்கு காபி வாங்கிக் கொடுத்தாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T46 translation match: 'She offered me a cup of tea.' translates to 'அவள் எனக்கு ஒரு கப் தேநீர் கொடுத்தாள்.'",
+    "explanation_ta": "T46 translation match: 'She offered me a cup of tea.' translates to 'அவள் எனக்கு ஒரு கப் தேநீர் கொடுத்தாள்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'The river flows gently through the valley.'",
+    "question_ta": "Choose the correct Tamil translation for: 'The river flows gently through the valley.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ஆறு பள்ளத்தாக்கின் வழியாக மெதுவாக ஓடுகிறது.",
+        "text_ta": "ஆறு பள்ளத்தாக்கின் வழியாக மெதுவாக ஓடுகிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "ஆறு வேகமாக ஓடுகிறது.",
+        "text_ta": "ஆறு வேகமாக ஓடுகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "ஆறு திசை மாறிச் செல்கிறது.",
+        "text_ta": "ஆறு திசை மாறிச் செல்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "பள்ளத்தாக்கில் தண்ணீர் இல்லை.",
+        "text_ta": "பள்ளத்தாக்கில் தண்ணீர் இல்லை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T47 translation match: 'The river flows gently through the valley.' translates to 'ஆறு பள்ளத்தாக்கின் வழியாக மெதுவாக ஓடுகிறது.'",
+    "explanation_ta": "T47 translation match: 'The river flows gently through the valley.' translates to 'ஆறு பள்ளத்தாக்கின் வழியாக மெதுவாக ஓடுகிறது.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'They are studying for their final exams.'",
+    "question_ta": "Choose the correct Tamil translation for: 'They are studying for their final exams.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் தங்கள் இறுதி தேர்வுகளுக்காகப் படித்துக் கொண்டிருக்கிறார்கள்.",
+        "text_ta": "அவர்கள் தங்கள் இறுதி தேர்வுகளுக்காகப் படித்துக் கொண்டிருக்கிறார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "இறுதி தேர்வுகள் ஒத்திவைக்கப்பட்டுள்ளன.",
+        "text_ta": "இறுதி தேர்வுகள் ஒத்திவைக்கப்பட்டுள்ளன."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் தேர்வுக்கு படிக்கவில்லை.",
+        "text_ta": "அவர்கள் தேர்வுக்கு படிக்கவில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் தேர்வுகளை எழுதி முடித்துவிட்டார்கள்.",
+        "text_ta": "அவர்கள் தேர்வுகளை எழுதி முடித்துவிட்டார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T48 translation match: 'They are studying for their final exams.' translates to 'அவர்கள் தங்கள் இறுதி தேர்வுகளுக்காகப் படித்துக் கொண்டிருக்கிறார்கள்.'",
+    "explanation_ta": "T48 translation match: 'They are studying for their final exams.' translates to 'அவர்கள் தங்கள் இறுதி தேர்வுகளுக்காகப் படித்துக் கொண்டிருக்கிறார்கள்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'I forgot to bring my umbrella.'",
+    "question_ta": "Choose the correct Tamil translation for: 'I forgot to bring my umbrella.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான் என் குடையை எடுத்து வர மறந்துவிட்டேன்.",
+        "text_ta": "நான் என் குடையை எடுத்து வர மறந்துவிட்டேன்."
+      },
+      {
+        "key": "B",
+        "text_en": "எனக்கு குடை தேவைப்படவில்லை.",
+        "text_ta": "எனக்கு குடை தேவைப்படவில்லை."
+      },
+      {
+        "key": "C",
+        "text_en": "என் குடை தொலைந்துவிட்டது.",
+        "text_ta": "என் குடை தொலைந்துவிட்டது."
+      },
+      {
+        "key": "D",
+        "text_en": "நான் குடையை பத்திரமாக வைத்துள்ளேன்.",
+        "text_ta": "நான் குடையை பத்திரமாக வைத்துள்ளேன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T49 translation match: 'I forgot to bring my umbrella.' translates to 'நான் என் குடையை எடுத்து வர மறந்துவிட்டேன்.'",
+    "explanation_ta": "T49 translation match: 'I forgot to bring my umbrella.' translates to 'நான் என் குடையை எடுத்து வர மறந்துவிட்டேன்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'Can you show me the way to the museum?'",
+    "question_ta": "Choose the correct Tamil translation for: 'Can you show me the way to the museum?'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அருங்காட்சியகம் எங்குள்ளது என்று எனக்குத் தெரியும்.",
+        "text_ta": "அருங்காட்சியகம் எங்குள்ளது என்று எனக்குத் தெரியும்."
+      },
+      {
+        "key": "B",
+        "text_en": "நீங்கள் அருங்காட்சியகத்திற்கு வருகிறீர்களா?",
+        "text_ta": "நீங்கள் அருங்காட்சியகத்திற்கு வருகிறீர்களா?"
+      },
+      {
+        "key": "C",
+        "text_en": "அருங்காட்சியகம் இன்று மூடப்பட்டுள்ளது.",
+        "text_ta": "அருங்காட்சியகம் இன்று மூடப்பட்டுள்ளது."
+      },
+      {
+        "key": "D",
+        "text_en": "அருங்காட்சியகத்திற்கு செல்லும் வழியை எனக்கு காட்ட முடியுமா?",
+        "text_ta": "அருங்காட்சியகத்திற்கு செல்லும் வழியை எனக்கு காட்ட முடியுமா?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T50 translation match: 'Can you show me the way to the museum?' translates to 'அருங்காட்சியகத்திற்கு செல்லும் வழியை எனக்கு காட்ட முடியுமா?'",
+    "explanation_ta": "T50 translation match: 'Can you show me the way to the museum?' translates to 'அருங்காட்சியகத்திற்கு செல்லும் வழியை எனக்கு காட்ட முடியுமா?'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'The birds are singing in the trees.'",
+    "question_ta": "Choose the correct Tamil translation for: 'The birds are singing in the trees.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "மரங்களில் பறவைகள் இல்லை.",
+        "text_ta": "மரங்களில் பறவைகள் இல்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "பறவைகள் மரங்களில் பாடிக்கொண்டிருக்கின்றன.",
+        "text_ta": "பறவைகள் மரங்களில் பாடிக்கொண்டிருக்கின்றன."
+      },
+      {
+        "key": "C",
+        "text_en": "பறவைகள் கூட்டில் தூங்குகின்றன.",
+        "text_ta": "பறவைகள் கூட்டில் தூங்குகின்றன."
+      },
+      {
+        "key": "D",
+        "text_en": "பறவைகள் வானத்தில் பறக்கின்றன.",
+        "text_ta": "பறவைகள் வானத்தில் பறக்கின்றன."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T51 translation match: 'The birds are singing in the trees.' translates to 'பறவைகள் மரங்களில் பாடிக்கொண்டிருக்கின்றன.'",
+    "explanation_ta": "T51 translation match: 'The birds are singing in the trees.' translates to 'பறவைகள் மரங்களில் பாடிக்கொண்டிருக்கின்றன.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation for: 'He works as a software engineer.'",
+    "question_ta": "Choose the correct Tamil translation for: 'He works as a software engineer.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் மென்பொருள் படித்து வருகிறார்.",
+        "text_ta": "அவர் மென்பொருள் படித்து வருகிறார்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் ஒரு மென்பொருள் பொறியாளராக வேலை செய்கிறார்.",
+        "text_ta": "அவர் ஒரு மென்பொருள் பொறியாளராக வேலை செய்கிறார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர் ஒரு பொறியியல் நிறுவனத்தை நடத்தி வருகிறார்.",
+        "text_ta": "அவர் ஒரு பொறியியல் நிறுவனத்தை நடத்தி வருகிறார்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் ஒரு ஆசிரியர்.",
+        "text_ta": "அவர் ஒரு ஆசிரியர்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T52 translation match: 'He works as a software engineer.' translates to 'அவர் ஒரு மென்பொருள் பொறியாளராக வேலை செய்கிறார்.'",
+    "explanation_ta": "T52 translation match: 'He works as a software engineer.' translates to 'அவர் ஒரு மென்பொருள் பொறியாளராக வேலை செய்கிறார்.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Sentence Translation",
+    "source_note": "p74"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'We enjoyed the delicious meal at the restaurant.'",
+    "question_ta": "Choose the correct Tamil translation of: 'We enjoyed the delicious meal at the restaurant.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "உணவகத்தில் சுவையான உணவு இருந்தது.",
+        "text_ta": "உணவகத்தில் சுவையான உணவு இருந்தது."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் உணவகத்தில் சுவையாக சாப்பிடவில்லை.",
+        "text_ta": "நாங்கள் உணவகத்தில் சுவையாக சாப்பிடவில்லை."
+      },
+      {
+        "key": "C",
+        "text_en": "நாங்கள் உணவை உணவகத்தில் சுவைத்தோம்.",
+        "text_ta": "நாங்கள் உணவை உணவகத்தில் சுவைத்தோம்."
+      },
+      {
+        "key": "D",
+        "text_en": "உணவகத்தில் சுவையான உணவை நாங்கள் ரசித்தோம்.",
+        "text_ta": "உணவகத்தில் சுவையான உணவை நாங்கள் ரசித்தோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T53 maps 'We enjoyed the delicious meal at the restaurant.' to 'உணவகத்தில் சுவையான உணவை நாங்கள் ரசித்தோம்.'",
+    "explanation_ta": "T53 maps 'We enjoyed the delicious meal at the restaurant.' to 'உணவகத்தில் சுவையான உணவை நாங்கள் ரசித்தோம்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p75"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'She is interested in learning new languages.'",
+    "question_ta": "Choose the correct Tamil translation of: 'She is interested in learning new languages.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் மொழிகள் கற்றுக்கொடுக்க விரும்புகிறாள்.",
+        "text_ta": "அவள் மொழிகள் கற்றுக்கொடுக்க விரும்புகிறாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் பல மொழிகளைப் பேசுகிறாள்.",
+        "text_ta": "அவள் பல மொழிகளைப் பேசுகிறாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் புதிய மொழிகளைக் கற்றுக் கொண்டிருக்கிறாள்.",
+        "text_ta": "அவள் புதிய மொழிகளைக் கற்றுக் கொண்டிருக்கிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் புதிய மொழிகள் கற்க ஆர்வமாக இருக்கிறாள்.",
+        "text_ta": "அவள் புதிய மொழிகள் கற்க ஆர்வமாக இருக்கிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T54 maps 'She is interested in learning new languages.' to 'அவள் புதிய மொழிகள் கற்க ஆர்வமாக இருக்கிறாள்.'",
+    "explanation_ta": "T54 maps 'She is interested in learning new languages.' to 'அவள் புதிய மொழிகள் கற்க ஆர்வமாக இருக்கிறாள்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p75"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'The movie was very exciting.'",
+    "question_ta": "Choose the correct Tamil translation of: 'The movie was very exciting.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "திரைப்படம் பார்ப்பதற்கு நன்றாக இல்லை.",
+        "text_ta": "திரைப்படம் பார்ப்பதற்கு நன்றாக இல்லை."
+      },
+      {
+        "key": "B",
+        "text_en": "அந்த திரைப்படம் மிகவும் பரபரப்பாக இருந்தது.",
+        "text_ta": "அந்த திரைப்படம் மிகவும் பரபரப்பாக இருந்தது."
+      },
+      {
+        "key": "C",
+        "text_en": "அந்த படம் எனக்குப் பிடித்திருந்தது.",
+        "text_ta": "அந்த படம் எனக்குப் பிடித்திருந்தது."
+      },
+      {
+        "key": "D",
+        "text_en": "அந்த படம் மிகவும் நீளமானது.",
+        "text_ta": "அந்த படம் மிகவும் நீளமானது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T55 maps 'The movie was very exciting.' to 'அந்த திரைப்படம் மிகவும் பரபரப்பாக இருந்தது.'",
+    "explanation_ta": "T55 maps 'The movie was very exciting.' to 'அந்த திரைப்படம் மிகவும் பரபரப்பாக இருந்தது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p76"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'They decided to travel by train.'",
+    "question_ta": "Choose the correct Tamil translation of: 'They decided to travel by train.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் விமானத்தில் பயணம் செய்தனர்.",
+        "text_ta": "அவர்கள் விமானத்தில் பயணம் செய்தனர்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் பேருந்தில் பயணம் செய்யத் திட்டமிட்டனர்.",
+        "text_ta": "அவர்கள் பேருந்தில் பயணம் செய்யத் திட்டமிட்டனர்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் ரயிலில் பயணம் செய்ய முடிவு செய்தனர்.",
+        "text_ta": "அவர்கள் ரயிலில் பயணம் செய்ய முடிவு செய்தனர்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் ரயிலில் பயணம் செய்ய விரும்பவில்லை.",
+        "text_ta": "அவர்கள் ரயிலில் பயணம் செய்ய விரும்பவில்லை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T56 maps 'They decided to travel by train.' to 'அவர்கள் ரயிலில் பயணம் செய்ய முடிவு செய்தனர்.'",
+    "explanation_ta": "T56 maps 'They decided to travel by train.' to 'அவர்கள் ரயிலில் பயணம் செய்ய முடிவு செய்தனர்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p76"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'I often dream about traveling around the world.'",
+    "question_ta": "Choose the correct Tamil translation of: 'I often dream about traveling around the world.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான் எப்போதாவது உலகம் முழுவதும் பயணம் செய்வேன்.",
+        "text_ta": "நான் எப்போதாவது உலகம் முழுவதும் பயணம் செய்வேன்."
+      },
+      {
+        "key": "B",
+        "text_en": "நான் உலகம் முழுவதும் பயணம் செய்ய விரும்பவில்லை.",
+        "text_ta": "நான் உலகம் முழுவதும் பயணம் செய்ய விரும்பவில்லை."
+      },
+      {
+        "key": "C",
+        "text_en": "நான் உலகம் முழுவதும் பயணம் செய்திருக்கிறேன்.",
+        "text_ta": "நான் உலகம் முழுவதும் பயணம் செய்திருக்கிறேன்."
+      },
+      {
+        "key": "D",
+        "text_en": "நான் அடிக்கடி உலகம் முழுவதும் பயணம் செய்வதைப் பற்றி கனவு காண்கிறேன்.",
+        "text_ta": "நான் அடிக்கடி உலகம் முழுவதும் பயணம் செய்வதைப் பற்றி கனவு காண்கிறேன்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T57 maps 'I often dream about traveling around the world.' to 'நான் அடிக்கடி உலகம் முழுவதும் பயணம் செய்வதைப் பற்றி கனவு காண்கிறேன்.'",
+    "explanation_ta": "T57 maps 'I often dream about traveling around the world.' to 'நான் அடிக்கடி உலகம் முழுவதும் பயணம் செய்வதைப் பற்றி கனவு காண்கிறேன்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p76"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'She writes beautiful poems.'",
+    "question_ta": "Choose the correct Tamil translation of: 'She writes beautiful poems.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் கவிதைகளைப் படிக்கிறாள்.",
+        "text_ta": "அவள் கவிதைகளைப் படிக்கிறாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் அழகான பாடல்களைப் பாடுகிறாள்.",
+        "text_ta": "அவள் அழகான பாடல்களைப் பாடுகிறாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் அழகான கவிதைகள் எழுதுகிறாள்.",
+        "text_ta": "அவள் அழகான கவிதைகள் எழுதுகிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் ஒரு நல்ல கதை书 எழுதுகிறாள்.",
+        "text_ta": "அவள் ஒரு நல்ல கதை书 எழுதுகிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T58 maps 'She writes beautiful poems.' to 'அவள் அழகான கவிதைகள் எழுதுகிறாள்.'",
+    "explanation_ta": "T58 maps 'She writes beautiful poems.' to 'அவள் அழகான கவிதைகள் எழுதுகிறாள்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p76"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'We met some interesting people at the conference.'",
+    "question_ta": "Choose the correct Tamil translation of: 'We met some interesting people at the conference.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "மாநாட்டில் சில சுவாரஸ்யமான நபர்களை நாங்கள் சந்தித்தோம்.",
+        "text_ta": "மாநாட்டில் சில சுவாரஸ்யமான நபர்களை நாங்கள் சந்தித்தோம்."
+      },
+      {
+        "key": "B",
+        "text_en": "மாநாட்டில் பல வெளிநாட்டினர் இருந்தனர்.",
+        "text_ta": "மாநாட்டில் பல வெளிநாட்டினர் இருந்தனர்."
+      },
+      {
+        "key": "C",
+        "text_en": "நாங்கள் மாநாட்டில் யாரையும் சந்திக்கவில்லை.",
+        "text_ta": "நாங்கள் மாநாட்டில் யாரையும் சந்திக்கவில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் கூட்டத்தில் பேசினோம்.",
+        "text_ta": "நாங்கள் கூட்டத்தில் பேசினோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T59 maps 'We met some interesting people at the conference.' to 'மாநாட்டில் சில சுவாரஸ்யமான நபர்களை நாங்கள் சந்தித்தோம்.'",
+    "explanation_ta": "T59 maps 'We met some interesting people at the conference.' to 'மாநாட்டில் சில சுவாரஸ்யமான நபர்களை நாங்கள் சந்தித்தோம்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p76"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'He is a talented musician.'",
+    "question_ta": "Choose the correct Tamil translation of: 'He is a talented musician.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் ஒரு நல்ல பாடகர்.",
+        "text_ta": "அவர் ஒரு நல்ல பாடகர்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் ஒரு திறமையான இசைக்கலைஞர்.",
+        "text_ta": "அவர் ஒரு திறமையான இசைக்கலைஞர்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர் பியானோ வாசிக்கிறார்.",
+        "text_ta": "அவர் பியானோ வாசிக்கிறார்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் இசை கேட்க விரும்புகிறார்.",
+        "text_ta": "அவர் இசை கேட்க விரும்புகிறார்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T60 maps 'He is a talented musician.' to 'அவர் ஒரு திறமையான இசைக்கலைஞர்.'",
+    "explanation_ta": "T60 maps 'He is a talented musician.' to 'அவர் ஒரு திறமையான இசைக்கலைஞர்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p76"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'The weather is quite pleasant today.'",
+    "question_ta": "Choose the correct Tamil translation of: 'The weather is quite pleasant today.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "இன்று வெயில் அதிகமாக உள்ளது.",
+        "text_ta": "இன்று வெயில் அதிகமாக உள்ளது."
+      },
+      {
+        "key": "B",
+        "text_en": "இன்று வானிலை மிகவும் இனிமையாக உள்ளது.",
+        "text_ta": "இன்று வானிலை மிகவும் இனிமையாக உள்ளது."
+      },
+      {
+        "key": "C",
+        "text_en": "வானிலை திடீரென மாறிவிட்டது.",
+        "text_ta": "வானிலை திடீரென மாறிவிட்டது."
+      },
+      {
+        "key": "D",
+        "text_en": "இன்று மிகவும் குளிராக இருக்கிறது.",
+        "text_ta": "இன்று மிகவும் குளிராக இருக்கிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T61 maps 'The weather is quite pleasant today.' to 'இன்று வானிலை மிகவும் இனிமையாக உள்ளது.'",
+    "explanation_ta": "T61 maps 'The weather is quite pleasant today.' to 'இன்று வானிலை மிகவும் இனிமையாக உள்ளது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p77"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'They plan to buy a new car soon.'",
+    "question_ta": "Choose the correct Tamil translation of: 'They plan to buy a new car soon.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் ஏற்கனவே புதிய கார் வாங்கியுள்ளனர்.",
+        "text_ta": "அவர்கள் ஏற்கனவே புதிய கார் வாங்கியுள்ளனர்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் கார் வாங்குவதை நிறுத்தினர்.",
+        "text_ta": "அவர்கள் கார் வாங்குவதை நிறுத்தினர்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் விரைவில் ஒரு புதிய கார் வாங்க திட்டமிட்டுள்ளனர்.",
+        "text_ta": "அவர்கள் விரைவில் ஒரு புதிய கார் வாங்க திட்டமிட்டுள்ளனர்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் பழைய காரை விற்கப் போகிறார்கள்.",
+        "text_ta": "அவர்கள் பழைய காரை விற்கப் போகிறார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T62 maps 'They plan to buy a new car soon.' to 'அவர்கள் விரைவில் ஒரு புதிய கார் வாங்க திட்டமிட்டுள்ளனர்.'",
+    "explanation_ta": "T62 maps 'They plan to buy a new car soon.' to 'அவர்கள் விரைவில் ஒரு புதிய கார் வாங்க திட்டமிட்டுள்ளனர்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p77"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'The moon is shining brightly in the night sky.'",
+    "question_ta": "Choose the correct Tamil translation of: 'The moon is shining brightly in the night sky.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "வானம் மேகமூட்டமாக உள்ளது.",
+        "text_ta": "வானம் மேகமூட்டமாக உள்ளது."
+      },
+      {
+        "key": "B",
+        "text_en": "நிலவு இன்று இரவு தெரியவில்லை.",
+        "text_ta": "நிலவு இன்று இரவு தெரியவில்லை."
+      },
+      {
+        "key": "C",
+        "text_en": "இரவு வானத்தில் நிலவு பிரகாசமாக ஒளிர்கிறது.",
+        "text_ta": "இரவு வானத்தில் நிலவு பிரகாசமாக ஒளிர்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "இரவில் நட்சத்திரங்கள் மின்னுகின்றன.",
+        "text_ta": "இரவில் நட்சத்திரங்கள் மின்னுகின்றன."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T63 maps 'The moon is shining brightly in the night sky.' to 'இரவு வானத்தில் நிலவு பிரகாசமாக ஒளிர்கிறது.'",
+    "explanation_ta": "T63 maps 'The moon is shining brightly in the night sky.' to 'இரவு வானத்தில் நிலவு பிரகாசமாக ஒளிர்கிறது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p77"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'She carefully watered the plants in her garden.'",
+    "question_ta": "Choose the correct Tamil translation of: 'She carefully watered the plants in her garden.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தோட்டத்தில் உள்ள செடிகள் காய்ந்துவிட்டன.",
+        "text_ta": "தோட்டத்தில் உள்ள செடிகள் காய்ந்துவிட்டன."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் தன் தோட்டத்தில் உள்ள செடிகளுக்கு கவனமாக தண்ணீர் ஊற்றினாள்.",
+        "text_ta": "அவள் தன் தோட்டத்தில் உள்ள செடிகளுக்கு கவனமாக தண்ணீர் ஊற்றினாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் தோட்டத்தை சுத்தம் செய்தாள்.",
+        "text_ta": "அவள் தோட்டத்தை சுத்தம் செய்தாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் செடிகளுக்கு தண்ணீர் ஊற்ற மறந்துவிட்டாள்.",
+        "text_ta": "அவள் செடிகளுக்கு தண்ணீர் ஊற்ற மறந்துவிட்டாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T64 maps 'She carefully watered the plants in her garden.' to 'அவள் தன் தோட்டத்தில் உள்ள செடிகளுக்கு கவனமாக தண்ணீர் ஊற்றினாள்.'",
+    "explanation_ta": "T64 maps 'She carefully watered the plants in her garden.' to 'அவள் தன் தோட்டத்தில் உள்ள செடிகளுக்கு கவனமாக தண்ணீர் ஊற்றினாள்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p77"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'We are going to a concert this weekend.'",
+    "question_ta": "Choose the correct Tamil translation of: 'We are going to a concert this weekend.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் இசை நிகழ்ச்சிக்கு செல்வார்கள்.",
+        "text_ta": "அவர்கள் இசை நிகழ்ச்சிக்கு செல்வார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் வார இறுதியில் பயணம் செய்கிறோம்.",
+        "text_ta": "நாங்கள் வார இறுதியில் பயணம் செய்கிறோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "நாங்கள் கடந்த வாரம் சினிமாவுக்குச் சென்றோம்.",
+        "text_ta": "நாங்கள் கடந்த வாரம் சினிமாவுக்குச் சென்றோம்."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் இந்த வார இறுதியில் ஒரு இசை நிகழ்ச்சிக்கு செல்கிறோம்.",
+        "text_ta": "நாங்கள் இந்த வார இறுதியில் ஒரு இசை நிகழ்ச்சிக்கு செல்கிறோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T65 maps 'We are going to a concert this weekend.' to 'நாங்கள் இந்த வார இறுதியில் ஒரு இசை நிகழ்ச்சிக்கு செல்கிறோம்.'",
+    "explanation_ta": "T65 maps 'We are going to a concert this weekend.' to 'நாங்கள் இந்த வார இறுதியில் ஒரு இசை நிகழ்ச்சிக்கு செல்கிறோம்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p77"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'He quickly answered all the questions in the interview.'",
+    "question_ta": "Choose the correct Tamil translation of: 'He quickly answered all the questions in the interview.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் கேள்விகளுக்குப் பதிலளிக்கத் திணறினார்.",
+        "text_ta": "அவர் கேள்விகளுக்குப் பதிலளிக்கத் திணறினார்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் நேர்காணலில் அனைத்து கேள்விகளுக்கும் விரைவாக பதிலளித்தார்.",
+        "text_ta": "அவர் நேர்காணலில் அனைத்து கேள்விகளுக்கும் விரைவாக பதிலளித்தார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர் சில கேள்விகளைத் தவிர்த்தார்.",
+        "text_ta": "அவர் சில கேள்விகளைத் தவிர்த்தார்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் நேர்காணலுக்குச் செல்லவில்லை.",
+        "text_ta": "அவர் நேர்காணலுக்குச் செல்லவில்லை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T66 maps 'He quickly answered all the questions in the interview.' to 'அவர் நேர்காணலில் அனைத்து கேள்விகளுக்கும் விரைவாக பதிலளித்தார்.'",
+    "explanation_ta": "T66 maps 'He quickly answered all the questions in the interview.' to 'அவர் நேர்காணலில் அனைத்து கேள்விகளுக்கும் விரைவாக பதிலளித்தார்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p77"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'The old house stood silently on the hill.'",
+    "question_ta": "Choose the correct Tamil translation of: 'The old house stood silently on the hill.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "மலையின் மீது ஒரு புதிய வீடு இருந்தது.",
+        "text_ta": "மலையின் மீது ஒரு புதிய வீடு இருந்தது."
+      },
+      {
+        "key": "B",
+        "text_en": "பழைய வீடு காற்றில் சரிந்துவிட்டது.",
+        "text_ta": "பழைய வீடு காற்றில் சரிந்துவிட்டது."
+      },
+      {
+        "key": "C",
+        "text_en": "அந்த பழைய வீடு மலையில் அமைதியாக நின்றது.",
+        "text_ta": "அந்த பழைய வீடு மலையில் அமைதியாக நின்றது."
+      },
+      {
+        "key": "D",
+        "text_en": "அந்த பழைய வீடு இடிக்கப்பட்டது.",
+        "text_ta": "அந்த பழைய வீடு இடிக்கப்பட்டது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T67 maps 'The old house stood silently on the hill.' to 'அந்த பழைய வீடு மலையில் அமைதியாக நின்றது.'",
+    "explanation_ta": "T67 maps 'The old house stood silently on the hill.' to 'அந்த பழைய வீடு மலையில் அமைதியாக நின்றது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p78"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'They are discussing their travel plans for the summer.'",
+    "question_ta": "Choose the correct Tamil translation of: 'They are discussing their travel plans for the summer.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் குளிர்காலத்தைப் பற்றி பேசுகிறார்கள்.",
+        "text_ta": "அவர்கள் குளிர்காலத்தைப் பற்றி பேசுகிறார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் பயணத் திட்டத்தை ரத்து செய்தனர்.",
+        "text_ta": "அவர்கள் பயணத் திட்டத்தை ரத்து செய்தனர்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் கோடை விடுமுறைக்கு ஊருக்குச் சென்றனர்.",
+        "text_ta": "அவர்கள் கோடை விடுமுறைக்கு ஊருக்குச் சென்றனர்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் கோடைக்கால பயணத் திட்டங்களைப் பற்றி விவாதித்துக் கொண்டிருக்கிறார்கள்.",
+        "text_ta": "அவர்கள் கோடைக்கால பயணத் திட்டங்களைப் பற்றி விவாதித்துக் கொண்டிருக்கிறார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T68 maps 'They are discussing their travel plans for the summer.' to 'அவர்கள் கோடைக்கால பயணத் திட்டங்களைப் பற்றி விவாதித்துக் கொண்டிருக்கிறார்கள்.'",
+    "explanation_ta": "T68 maps 'They are discussing their travel plans for the summer.' to 'அவர்கள் கோடைக்கால பயணத் திட்டங்களைப் பற்றி விவாதித்துக் கொண்டிருக்கிறார்கள்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p78"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'I suddenly remembered that it was her birthday.'",
+    "question_ta": "Choose the correct Tamil translation of: 'I suddenly remembered that it was her birthday.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவளுடைய பிறந்தநாளை நான் மறந்துவிட்டேன்.",
+        "text_ta": "அவளுடைய பிறந்தநாளை நான் மறந்துவிட்டேன்."
+      },
+      {
+        "key": "B",
+        "text_en": "திடீரென்று எனக்கு அவளுடைய பிறந்தநாள் என்று ஞாபகம் வந்தது.",
+        "text_ta": "திடீரென்று எனக்கு அவளுடைய பிறந்தநாள் என்று ஞாபகம் வந்தது."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் எனக்கு தனது பிறந்தநாள் அழைப்பிதழ் தந்தாள்.",
+        "text_ta": "அவள் எனக்கு தனது பிறந்தநாள் அழைப்பிதழ் தந்தாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் அவளது பிறந்தநாளைக் கொண்டாடினோம்.",
+        "text_ta": "நாங்கள் அவளது பிறந்தநாளைக் கொண்டாடினோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T69 maps 'I suddenly remembered that it was her birthday.' to 'திடீரென்று எனக்கு அவளுடைய பிறந்தநாள் என்று ஞாபகம் வந்தது.'",
+    "explanation_ta": "T69 maps 'I suddenly remembered that it was her birthday.' to 'திடீரென்று எனக்கு அவளுடைய பிறந்தநாள் என்று ஞாபகம் வந்தது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p78"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'Can you please help me carry these heavy bags?'",
+    "question_ta": "Choose the correct Tamil translation of: 'Can you please help me carry these heavy bags?'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தயவுசெய்து இந்த பைகளை அங்கே வை.",
+        "text_ta": "தயவுசெய்து இந்த பைகளை அங்கே வை."
+      },
+      {
+        "key": "B",
+        "text_en": "இந்த கனமான பைகளை எடுத்துச் செல்ல எனக்கு உதவ முடியுமா?",
+        "text_ta": "இந்த கனமான பைகளை எடுத்துச் செல்ல எனக்கு உதவ முடியுமா?"
+      },
+      {
+        "key": "C",
+        "text_en": "இந்த பைகள் மிகவும் இலகுவாக உள்ளன.",
+        "text_ta": "இந்த பைகள் மிகவும் இலகுவாக உள்ளன."
+      },
+      {
+        "key": "D",
+        "text_en": "நீங்கள் ஏன் இந்த பைகளைத் தூக்குகிறீர்கள்?",
+        "text_ta": "நீங்கள் ஏன் இந்த பைகளைத் தூக்குகிறீர்கள்?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "T70 maps 'Can you please help me carry these heavy bags?' to 'இந்த கனமான பைகளை எடுத்துச் செல்ல எனக்கு உதவ முடியுமா?'",
+    "explanation_ta": "T70 maps 'Can you please help me carry these heavy bags?' to 'இந்த கனமான பைகளை எடுத்துச் செல்ல எனக்கு உதவ முடியுமா?'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p78"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'The wind was blowing strongly against the windows.'",
+    "question_ta": "Choose the correct Tamil translation of: 'The wind was blowing strongly against the windows.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "காற்று ஜன்னல்களுக்கு எதிராக பலமாக வீசியது.",
+        "text_ta": "காற்று ஜன்னல்களுக்கு எதிராக பலமாக வீசியது."
+      },
+      {
+        "key": "B",
+        "text_en": "காற்று மெதுவாக வீசிக் கொண்டிருந்தது.",
+        "text_ta": "காற்று மெதுவாக வீசிக் கொண்டிருந்தது."
+      },
+      {
+        "key": "C",
+        "text_en": "அறையில் காற்று வரவில்லை.",
+        "text_ta": "அறையில் காற்று வரவில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "ஜன்னல் காற்று காரணமாக உடைந்துவிட்டது.",
+        "text_ta": "ஜன்னல் காற்று காரணமாக உடைந்துவிட்டது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T71 maps 'The wind was blowing strongly against the windows.' to 'காற்று ஜன்னல்களுக்கு எதிராக பலமாக வீசியது.'",
+    "explanation_ta": "T71 maps 'The wind was blowing strongly against the windows.' to 'காற்று ஜன்னல்களுக்கு எதிராக பலமாக வீசியது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p79"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'She often visits her relatives who live in another city.'",
+    "question_ta": "Choose the correct Tamil translation of: 'She often visits her relatives who live in another city.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் வேறொரு நகருக்கு குடிபெயர்ந்தாள்.",
+        "text_ta": "அவள் வேறொரு நகருக்கு குடிபெயர்ந்தாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவளது உறவினர்கள் இந்த நகரத்தில் வசிக்கிறார்கள்.",
+        "text_ta": "அவளது உறவினர்கள் இந்த நகரத்தில் வசிக்கிறார்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் எப்போதாவது உறவினர்களைச் சந்திக்கிறாள்.",
+        "text_ta": "அவள் எப்போதாவது உறவினர்களைச் சந்திக்கிறாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் அடிக்கடி வேறொரு நகரத்தில் வசிக்கும் உறவினர்களைப் பார்க்கிறாள்.",
+        "text_ta": "அவள் அடிக்கடி வேறொரு நகரத்தில் வசிக்கும் உறவினர்களைப் பார்க்கிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "T72 maps 'She often visits her relatives who live in another city.' to 'அவள் அடிக்கடி வேறொரு நகரத்தில் வசிக்கும் உறவினர்களைப் பார்க்கிறாள்.'",
+    "explanation_ta": "T72 maps 'She often visits her relatives who live in another city.' to 'அவள் அடிக்கடி வேறொரு நகரத்தில் வசிக்கும் உறவினர்களைப் பார்க்கிறாள்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p79"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'We thoroughly enjoyed the scenic beauty of the mountains.'",
+    "question_ta": "Choose the correct Tamil translation of: 'We thoroughly enjoyed the scenic beauty of the mountains.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாங்கள் மலைகளின் அழகான காட்சியை முழுமையாக ரசித்தோம்.",
+        "text_ta": "நாங்கள் மலைகளின் அழகான காட்சியை முழுமையாக ரசித்தோம்."
+      },
+      {
+        "key": "B",
+        "text_en": "நாங்கள் மலைகளில் ஏறிச் சென்றோம்.",
+        "text_ta": "நாங்கள் மலைகளில் ஏறிச் சென்றோம்."
+      },
+      {
+        "key": "C",
+        "text_en": "மலைகளின் அழகு எங்களுக்குப் பிடிக்கவில்லை.",
+        "text_ta": "மலைகளின் அழகு எங்களுக்குப் பிடிக்கவில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "நாங்கள் மலைப்பகுதியில் தங்கியிருந்தோம்.",
+        "text_ta": "நாங்கள் மலைப்பகுதியில் தங்கியிருந்தோம்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T73 maps 'We thoroughly enjoyed the scenic beauty of the mountains.' to 'நாங்கள் மலைகளின் அழகான காட்சியை முழுமையாக ரசித்தோம்.'",
+    "explanation_ta": "T73 maps 'We thoroughly enjoyed the scenic beauty of the mountains.' to 'நாங்கள் மலைகளின் அழகான காட்சியை முழுமையாக ரசித்தோம்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p79"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'He is passionate about photography.'",
+    "question_ta": "Choose the correct Tamil translation of: 'He is passionate about photography.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் புகைப்படக்கலையில் மிகுந்த ஆர்வம் கொண்டவர்.",
+        "text_ta": "அவர் புகைப்படக்கலையில் மிகுந்த ஆர்வம் கொண்டவர்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் கேமரா வாங்குவதற்காக சேமிக்கிறார்.",
+        "text_ta": "அவர் கேமரா வாங்குவதற்காக சேமிக்கிறார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவருக்கு புகைப்படம் எடுக்கத் தெரியாது.",
+        "text_ta": "அவருக்கு புகைப்படம் எடுக்கத் தெரியாது."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர் ஒரு நல்ல புகைப்படக் கலைஞர்.",
+        "text_ta": "அவர் ஒரு நல்ல புகைப்படக் கலைஞர்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T74 maps 'He is passionate about photography.' to 'அவர் புகைப்படக்கலையில் மிகுந்த ஆர்வம் கொண்டவர்.'",
+    "explanation_ta": "T74 maps 'He is passionate about photography.' to 'அவர் புகைப்படக்கலையில் மிகுந்த ஆர்வம் கொண்டவர்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p80"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'The story he told us was very amusing.'",
+    "question_ta": "Choose the correct Tamil translation of: 'The story he told us was very amusing.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர் எங்களிடம் சொன்ன கதை மிகவும் வேடிக்கையாக இருந்தது.",
+        "text_ta": "அவர் எங்களிடம் சொன்ன கதை மிகவும் வேடிக்கையாக இருந்தது."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர் ஒரு நீண்ட கதை கூறினார்.",
+        "text_ta": "அவர் ஒரு நீண்ட கதை கூறினார்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர் சொன்ன கதை யாருக்கும் புரியவில்லை.",
+        "text_ta": "அவர் சொன்ன கதை யாருக்கும் புரியவில்லை."
+      },
+      {
+        "key": "D",
+        "text_en": "அந்தக் கதை மிகவும் சோகமாக இருந்தது.",
+        "text_ta": "அந்தக் கதை மிகவும் சோகமாக இருந்தது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T75 maps 'The story he told us was very amusing.' to 'அவர் எங்களிடம் சொன்ன கதை மிகவும் வேடிக்கையாக இருந்தது.'",
+    "explanation_ta": "T75 maps 'The story he told us was very amusing.' to 'அவர் எங்களிடம் சொன்ன கதை மிகவும் வேடிக்கையாக இருந்தது.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p80"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'They have decided to renovate their kitchen.'",
+    "question_ta": "Choose the correct Tamil translation of: 'They have decided to renovate their kitchen.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் தங்கள் சமையலறையை புதுப்பிக்க முடிவு செய்துள்ளனர்.",
+        "text_ta": "அவர்கள் தங்கள் சமையலறையை புதுப்பிக்க முடிவு செய்துள்ளனர்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் புதிய சமையலறை கட்டினார்கள்.",
+        "text_ta": "அவர்கள் புதிய சமையலறை கட்டினார்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் சமையலறையை விற்கப் போகிறார்கள்.",
+        "text_ta": "அவர்கள் சமையலறையை விற்கப் போகிறார்கள்."
+      },
+      {
+        "key": "D",
+        "text_en": "சமையலறை பழுதடைந்துவிட்டது.",
+        "text_ta": "சமையலறை பழுதடைந்துவிட்டது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "T76 maps 'They have decided to renovate their kitchen.' to 'அவர்கள் தங்கள் சமையலறையை புதுப்பிக்க முடிவு செய்துள்ளனர்.'",
+    "explanation_ta": "T76 maps 'They have decided to renovate their kitchen.' to 'அவர்கள் தங்கள் சமையலறையை புதுப்பிக்க முடிவு செய்துள்ளனர்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p80"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Sentence Translation",
+    "topic": "Sentence Translation",
+    "topic_id": "sentence_translation",
+    "topic_ta": "Sentence Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct Tamil translation of: 'I rarely eat fast food.'",
+    "question_ta": "Choose the correct Tamil translation of: 'I rarely eat fast food.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "எனக்கு துரித உணவுகள் மிகவும் பிடிக்கும்.",
+        "text_ta": "எனக்கு துரித உணவுகள் மிகவும் பிடிக்கும்."
+      },
+      {
+        "key": "B",
+        "text_en": "நான் எப்போதும் துரித உணவுகளைச் சாப்பிடுகிறேன்.",
+        "text_ta": "நான் எப்போதும் துரித உணவுகளைச் சாப்பிடுகிறேன்."
+      },
+      {
+        "key": "C",
+        "text_en": "நான் அரிதாகவே துரித உணவுகளை சாப்பிடுகிறேன்.",
+        "text_ta": "நான் அரிதாகவே துரித உணவுகளை சாப்பிடுகிறேன்."
+      },
+      {
+        "key": "D",
+        "text_en": "நான் துரித உணவுகளைச் சாப்பிடுவதில்லை.",
+        "text_ta": "நான் துரித உணவுகளைச் சாப்பிடுவதில்லை."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "T77 maps 'I rarely eat fast food.' to 'நான் அரிதாகவே துரித உணவுகளை சாப்பிடுகிறேன்.'",
+    "explanation_ta": "T77 maps 'I rarely eat fast food.' to 'நான் அரிதாகவே துரித உணவுகளை சாப்பிடுகிறேன்.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Sentence Translation",
+    "source_note": "p80"
+  }
+]

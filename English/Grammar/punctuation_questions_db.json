@@ -1,0 +1,4604 @@
+[
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct ending punctuation for the following declarative sentence: 'Please submit your assignment before Friday'",
+    "question_ta": "Choose the correct ending punctuation for the following declarative sentence: 'Please submit your assignment before Friday'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "?",
+        "text_ta": "?"
+      },
+      {
+        "key": "B",
+        "text_en": "!",
+        "text_ta": "!"
+      },
+      {
+        "key": "C",
+        "text_en": ".",
+        "text_ta": "."
+      },
+      {
+        "key": "D",
+        "text_en": ",",
+        "text_ta": ","
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to rule R18 and R42, assertive (declarative) and imperative sentences end with a full stop or a period.",
+    "explanation_ta": "According to rule R18 and R42, assertive (declarative) and imperative sentences end with a full stop or a period.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.131 R18"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct punctuation to end this interrogative sentence: 'Where did you keep my science book'",
+    "question_ta": "Identify the correct punctuation to end this interrogative sentence: 'Where did you keep my science book'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": ".",
+        "text_ta": "."
+      },
+      {
+        "key": "B",
+        "text_en": "?",
+        "text_ta": "?"
+      },
+      {
+        "key": "C",
+        "text_en": "!",
+        "text_ta": "!"
+      },
+      {
+        "key": "D",
+        "text_en": ";",
+        "text_ta": ";"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to rule R5 and R35, a question mark is used at the end of a sentence when a direct question is asked.",
+    "explanation_ta": "According to rule R5 and R35, a question mark is used at the end of a sentence when a direct question is asked.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which punctuation mark is appropriate for this exclamatory expression: 'What a magnificent victory we achieved'",
+    "question_ta": "Which punctuation mark is appropriate for this exclamatory expression: 'What a magnificent victory we achieved'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": ".",
+        "text_ta": "."
+      },
+      {
+        "key": "B",
+        "text_en": "?",
+        "text_ta": "?"
+      },
+      {
+        "key": "C",
+        "text_en": "!",
+        "text_ta": "!"
+      },
+      {
+        "key": "D",
+        "text_en": ":",
+        "text_ta": ":"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to rule R7 and R28, sentences that express excitement or strong feelings end with an exclamation mark.",
+    "explanation_ta": "According to rule R7 and R28, sentences that express excitement or strong feelings end with an exclamation mark.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R7"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly punctuated sentence from the choices below:",
+    "question_ta": "Select the correctly punctuated sentence from the choices below:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Where are you going for the summer vacation.",
+        "text_ta": "Where are you going for the summer vacation."
+      },
+      {
+        "key": "B",
+        "text_en": "Where are you going for the summer vacation?",
+        "text_ta": "Where are you going for the summer vacation?"
+      },
+      {
+        "key": "C",
+        "text_en": "Where are you going for the summer vacation!",
+        "text_ta": "Where are you going for the summer vacation!"
+      },
+      {
+        "key": "D",
+        "text_en": "Where are you going for the summer vacation;",
+        "text_ta": "Where are you going for the summer vacation;"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R37 states that sentences that ask something must end with a question mark.",
+    "explanation_ta": "Rule R37 states that sentences that ask something must end with a question mark.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.226 R37"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated exclamatory sentence:",
+    "question_ta": "Choose the correctly punctuated exclamatory sentence:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Alas, I lost my wallet?",
+        "text_ta": "Alas, I lost my wallet?"
+      },
+      {
+        "key": "B",
+        "text_en": "Alas! I lost my wallet.",
+        "text_ta": "Alas! I lost my wallet."
+      },
+      {
+        "key": "C",
+        "text_en": "Alas I lost my wallet!",
+        "text_ta": "Alas I lost my wallet!"
+      },
+      {
+        "key": "D",
+        "text_en": "Alas! I lost my wallet!",
+        "text_ta": "Alas! I lost my wallet!"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R32 specifies that an exclamation mark is used after interjections, followed by a declarative sentence completion.",
+    "explanation_ta": "Rule R32 specifies that an exclamation mark is used after interjections, followed by a declarative sentence completion.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.132 R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which punctuation mark is used to show the beginning and end of direct speech or what someone is saying?",
+    "question_ta": "Which punctuation mark is used to show the beginning and end of direct speech or what someone is saying?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Colon",
+        "text_ta": "Colon"
+      },
+      {
+        "key": "B",
+        "text_en": "Quotation Marks",
+        "text_ta": "Quotation Marks"
+      },
+      {
+        "key": "C",
+        "text_en": "Hyphen",
+        "text_ta": "Hyphen"
+      },
+      {
+        "key": "D",
+        "text_en": "Parentheses",
+        "text_ta": "Parentheses"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to rule R1 and R39, quotation marks are used to show the beginning and end of what someone is saying or exact words of a speaker.",
+    "explanation_ta": "According to rule R1 and R39, quotation marks are used to show the beginning and end of what someone is saying or exact words of a speaker.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary purpose of punctuation according to the text overview?",
+    "question_ta": "What is the primary purpose of punctuation according to the text overview?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To decorate sentences",
+        "text_ta": "To decorate sentences"
+      },
+      {
+        "key": "B",
+        "text_en": "To communicate efficiently and make meaning clear",
+        "text_ta": "To communicate efficiently and make meaning clear"
+      },
+      {
+        "key": "C",
+        "text_en": "To make sentences longer",
+        "text_ta": "To make sentences longer"
+      },
+      {
+        "key": "D",
+        "text_en": "To confuse the reader",
+        "text_ta": "To confuse the reader"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R2 states that punctuation is the system of symbols used to communicate efficiently and effectively to make meaning clear.",
+    "explanation_ta": "Rule R2 states that punctuation is the system of symbols used to communicate efficiently and effectively to make meaning clear.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.136 R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the punctuation mark used to indicate ownership or missing letters in words:",
+    "question_ta": "Identify the punctuation mark used to indicate ownership or missing letters in words:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Apostrophe",
+        "text_ta": "Apostrophe"
+      },
+      {
+        "key": "B",
+        "text_en": "Comma",
+        "text_ta": "Comma"
+      },
+      {
+        "key": "C",
+        "text_en": "Semicolon",
+        "text_ta": "Semicolon"
+      },
+      {
+        "key": "D",
+        "text_en": "Dash",
+        "text_ta": "Dash"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R22 and R41 state that an apostrophe is used when showing ownership or to show missing letters.",
+    "explanation_ta": "Rule R22 and R41 state that an apostrophe is used when showing ownership or to show missing letters.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R22"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence containing a direct question and end mark:",
+    "question_ta": "Choose the correctly punctuated sentence containing a direct question and end mark:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She asked me, 'Are you ready for the test.'",
+        "text_ta": "She asked me, 'Are you ready for the test.'"
+      },
+      {
+        "key": "B",
+        "text_en": "She asked me, 'Are you ready for the test?'",
+        "text_ta": "She asked me, 'Are you ready for the test?'"
+      },
+      {
+        "key": "C",
+        "text_en": "She asked me 'Are you ready for the test'",
+        "text_ta": "She asked me 'Are you ready for the test'"
+      },
+      {
+        "key": "D",
+        "text_en": "She asked me: 'Are you ready for the test!'",
+        "text_ta": "She asked me: 'Are you ready for the test!'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R35 and R39 ensure a comma introduces direct speech, and the inner direct question ends with a question mark inside quotation marks.",
+    "explanation_ta": "Rule R35 and R39 ensure a comma introduces direct speech, and the inner direct question ends with a question mark inside quotation marks.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.132 R35"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the option that correctly punctuates the imperative sentence:",
+    "question_ta": "Select the option that correctly punctuates the imperative sentence:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Please close the window.",
+        "text_ta": "Please close the window."
+      },
+      {
+        "key": "B",
+        "text_en": "Please close the window?",
+        "text_ta": "Please close the window?"
+      },
+      {
+        "key": "C",
+        "text_en": "Please close the window!",
+        "text_ta": "Please close the window!"
+      },
+      {
+        "key": "D",
+        "text_en": "Please close the window,",
+        "text_ta": "Please close the window,"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R18 and R42 state that imperative and assertive sentences end with a full stop.",
+    "explanation_ta": "Rule R18 and R42 state that imperative and assertive sentences end with a full stop.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.131 R18"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which punctuation rule dictates that every sentence must begin with a capital letter?",
+    "question_ta": "Which punctuation rule dictates that every sentence must begin with a capital letter?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rule R3",
+        "text_ta": "Rule R3"
+      },
+      {
+        "key": "B",
+        "text_en": "Rule R11",
+        "text_ta": "Rule R11"
+      },
+      {
+        "key": "C",
+        "text_en": "Rule R15",
+        "text_ta": "Rule R15"
+      },
+      {
+        "key": "D",
+        "text_en": "Rule R21",
+        "text_ta": "Rule R21"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R3 explicitly states that every sentence begins with a capital letter.",
+    "explanation_ta": "Rule R3 explicitly states that every sentence begins with a capital letter.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.226 R3",
+    "verify_fixed": true
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the sentence that correctly applies an exclamation mark for a strong feeling:",
+    "question_ta": "Choose the sentence that correctly applies an exclamation mark for a strong feeling:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hurrah, we won the match.",
+        "text_ta": "Hurrah, we won the match."
+      },
+      {
+        "key": "B",
+        "text_en": "Hurrah! We won the match.",
+        "text_ta": "Hurrah! We won the match."
+      },
+      {
+        "key": "C",
+        "text_en": "Hurrah we won the match?",
+        "text_ta": "Hurrah we won the match?"
+      },
+      {
+        "key": "D",
+        "text_en": "Hurrah; we won the match.",
+        "text_ta": "Hurrah; we won the match."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R7 and R32 show that interjections expressing sudden emotion or excitement are followed by an exclamation mark.",
+    "explanation_ta": "Rule R7 and R32 show that interjections expressing sudden emotion or excitement are followed by an exclamation mark.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R7"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which mark is described as representing a stronger pause than a comma to link closely related clauses?",
+    "question_ta": "Which mark is described as representing a stronger pause than a comma to link closely related clauses?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyphen",
+        "text_ta": "Hyphen"
+      },
+      {
+        "key": "B",
+        "text_en": "Semi-Colon",
+        "text_ta": "Semi-Colon"
+      },
+      {
+        "key": "C",
+        "text_en": "Apostrophe",
+        "text_ta": "Apostrophe"
+      },
+      {
+        "key": "D",
+        "text_en": "Full Stop",
+        "text_ta": "Full Stop"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R15 states that the semicolon represents a stronger pause than a comma and is used to stress the close relationship between sentences.",
+    "explanation_ta": "Rule R15 states that the semicolon represents a stronger pause than a comma and is used to stress the close relationship between sentences.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.131 R15"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct punctuation to introduce a list according to the rules:",
+    "question_ta": "Identify the correct punctuation to introduce a list according to the rules:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Comma",
+        "text_ta": "Comma"
+      },
+      {
+        "key": "B",
+        "text_en": "Colon",
+        "text_ta": "Colon"
+      },
+      {
+        "key": "C",
+        "text_en": "Period",
+        "text_ta": "Period"
+      },
+      {
+        "key": "D",
+        "text_en": "Question Mark",
+        "text_ta": "Question Mark"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R21, R44, and R45 state that a colon is used to show that something is to follow or to introduce a list.",
+    "explanation_ta": "Rule R21, R44, and R45 state that a colon is used to show that something is to follow or to introduce a list.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R113"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence addressing a person directly:",
+    "question_ta": "Choose the correctly punctuated sentence addressing a person directly:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Come here John.",
+        "text_ta": "Come here John."
+      },
+      {
+        "key": "B",
+        "text_en": "Come here, John.",
+        "text_ta": "Come here, John."
+      },
+      {
+        "key": "C",
+        "text_en": "Come here; John?",
+        "text_ta": "Come here; John?"
+      },
+      {
+        "key": "D",
+        "text_en": "Come here! John!",
+        "text_ta": "Come here! John!"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R16 states that the comma is used when you address a person.",
+    "explanation_ta": "Rule R16 states that the comma is used when you address a person.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.131 R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What punctuation mark is used to join words together or form compound adjectives?",
+    "question_ta": "What punctuation mark is used to join words together or form compound adjectives?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dash",
+        "text_ta": "Dash"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyphen",
+        "text_ta": "Hyphen"
+      },
+      {
+        "key": "C",
+        "text_en": "Slash",
+        "text_ta": "Slash"
+      },
+      {
+        "key": "D",
+        "text_en": "Parentheses",
+        "text_ta": "Parentheses"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R13 and R30 state that a hyphen is used to join words together and in compound adjectives before nouns.",
+    "explanation_ta": "Rule R13 and R30 state that a hyphen is used to join words together and in compound adjectives before nouns.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R13"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence with correct end punctuation for a polite request (imperative sentence):",
+    "question_ta": "Select the sentence with correct end punctuation for a polite request (imperative sentence):",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Please pass the salt bowl?",
+        "text_ta": "Please pass the salt bowl?"
+      },
+      {
+        "key": "B",
+        "text_en": "Please pass the salt bowl!",
+        "text_ta": "Please pass the salt bowl!"
+      },
+      {
+        "key": "C",
+        "text_en": "Please pass the salt bowl.",
+        "text_ta": "Please pass the salt bowl."
+      },
+      {
+        "key": "D",
+        "text_en": "Please pass the salt bowl;",
+        "text_ta": "Please pass the salt bowl;"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R18 and R42 indicate that imperative sentences end with a full stop.",
+    "explanation_ta": "Rule R18 and R42 indicate that imperative sentences end with a full stop.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.131 R18"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which rule explains using quotation marks around words to indicate irony, misuse, or a special sense?",
+    "question_ta": "Which rule explains using quotation marks around words to indicate irony, misuse, or a special sense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rule R1",
+        "text_ta": "Rule R1"
+      },
+      {
+        "key": "B",
+        "text_en": "Rule R6",
+        "text_ta": "Rule R6"
+      },
+      {
+        "key": "C",
+        "text_en": "Rule R12",
+        "text_ta": "Rule R12"
+      },
+      {
+        "key": "D",
+        "text_en": "Rule R18",
+        "text_ta": "Rule R18"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R6 states: 'Use quotation marks around words to indicate a special sense, misuse, irony, or foreign translation.'",
+    "explanation_ta": "Rule R6 states: 'Use quotation marks around words to indicate a special sense, misuse, irony, or foreign translation.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.227 R6",
+    "verify_fixed": true
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct end mark for an interrogative sentence asking about time: 'What time does the train arrive'",
+    "question_ta": "Choose the correct end mark for an interrogative sentence asking about time: 'What time does the train arrive'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": ".",
+        "text_ta": "."
+      },
+      {
+        "key": "B",
+        "text_en": "!",
+        "text_ta": "!"
+      },
+      {
+        "key": "C",
+        "text_en": "?",
+        "text_ta": "?"
+      },
+      {
+        "key": "D",
+        "text_en": ",",
+        "text_ta": ","
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R5 and R37 state that sentences that ask something end with a question mark.",
+    "explanation_ta": "Rule R5 and R37 state that sentences that ask something end with a question mark.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the function of brackets or parentheses in a sentence according to Rule R38?",
+    "question_ta": "What is the function of brackets or parentheses in a sentence according to Rule R38?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To end the sentence",
+        "text_ta": "To end the sentence"
+      },
+      {
+        "key": "B",
+        "text_en": "To provide supplementary information not essential to the main point",
+        "text_ta": "To provide supplementary information not essential to the main point"
+      },
+      {
+        "key": "C",
+        "text_en": "To join two independent clauses",
+        "text_ta": "To join two independent clauses"
+      },
+      {
+        "key": "D",
+        "text_en": "To show strong emotion",
+        "text_ta": "To show strong emotion"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R38 specifies using parentheses within a sentence to provide supplementary information not essential to the main point.",
+    "explanation_ta": "Rule R38 specifies using parentheses within a sentence to provide supplementary information not essential to the main point.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.227 R38"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the option that correctly punctuates a sentence with a list of items:",
+    "question_ta": "Select the option that correctly punctuates a sentence with a list of items:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We need apples, oranges, and bananas.",
+        "text_ta": "We need apples, oranges, and bananas."
+      },
+      {
+        "key": "B",
+        "text_en": "We need apples oranges and bananas?",
+        "text_ta": "We need apples oranges and bananas?"
+      },
+      {
+        "key": "C",
+        "text_en": "We need apples! oranges! bananas!",
+        "text_ta": "We need apples! oranges! bananas!"
+      },
+      {
+        "key": "D",
+        "text_en": "We need apples; oranges; bananas.",
+        "text_ta": "We need apples; oranges; bananas."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R12 and R19 state that commas are used to divide items in a list or indicate a short pause for words in a series.",
+    "explanation_ta": "Rule R12 and R19 state that commas are used to divide items in a list or indicate a short pause for words in a series.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.113 R12"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which punctuation mark is used to make an abrupt stop or change of thought?",
+    "question_ta": "Which punctuation mark is used to make an abrupt stop or change of thought?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Comma",
+        "text_ta": "Comma"
+      },
+      {
+        "key": "B",
+        "text_en": "Dash",
+        "text_ta": "Dash"
+      },
+      {
+        "key": "C",
+        "text_en": "Colon",
+        "text_ta": "Colon"
+      },
+      {
+        "key": "D",
+        "text_en": "Full Stop",
+        "text_ta": "Full Stop"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R29 states that the dash is used to make an abrupt stop or change of thought.",
+    "explanation_ta": "Rule R29 states that the dash is used to make an abrupt stop or change of thought.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.132 R29"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct rule for capitalization of poetry lines and proper nouns:",
+    "question_ta": "Choose the correct rule for capitalization of poetry lines and proper nouns:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rule R4",
+        "text_ta": "Rule R4"
+      },
+      {
+        "key": "B",
+        "text_en": "Rule R10",
+        "text_ta": "Rule R10"
+      },
+      {
+        "key": "C",
+        "text_en": "Rule R14",
+        "text_ta": "Rule R14"
+      },
+      {
+        "key": "D",
+        "text_en": "Rule R20",
+        "text_ta": "Rule R20"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R4 requires capitalizing first letters of poetry lines, the word 'I', proper nouns, initials, abbreviations, etc.",
+    "explanation_ta": "Rule R4 requires capitalizing first letters of poetry lines, the word 'I', proper nouns, initials, abbreviations, etc.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.226 R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What punctuation mark is used to separate numbers, dates, and addresses?",
+    "question_ta": "What punctuation mark is used to separate numbers, dates, and addresses?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyphen",
+        "text_ta": "Hyphen"
+      },
+      {
+        "key": "B",
+        "text_en": "Comma",
+        "text_ta": "Comma"
+      },
+      {
+        "key": "C",
+        "text_en": "Semicolon",
+        "text_ta": "Semicolon"
+      },
+      {
+        "key": "D",
+        "text_en": "Apostrophe",
+        "text_ta": "Apostrophe"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R10 specifies that the comma is used to separate numbers, dates, and addresses.",
+    "explanation_ta": "Rule R10 specifies that the comma is used to separate numbers, dates, and addresses.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.131 R10"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the punctuation used for alternatives, fractions, and line divisions in poetry:",
+    "question_ta": "Identify the punctuation used for alternatives, fractions, and line divisions in poetry:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Slash / oblique stroke",
+        "text_ta": "Slash / oblique stroke"
+      },
+      {
+        "key": "B",
+        "text_en": "Dash",
+        "text_ta": "Dash"
+      },
+      {
+        "key": "C",
+        "text_en": "Colon",
+        "text_ta": "Colon"
+      },
+      {
+        "key": "D",
+        "text_en": "Semicolon",
+        "text_ta": "Semicolon"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R11 states: 'Use slash/oblique stroke for alternatives, fractions, and line divisions in poetry.'",
+    "explanation_ta": "Rule R11 states: 'Use slash/oblique stroke for alternatives, fractions, and line divisions in poetry.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "punctuation",
+    "source_note": "p.228 R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly punctuated sentence featuring a series, direct address, and proper capitalization.",
+    "question_ta": "Select the correctly punctuated sentence featuring a series, direct address, and proper capitalization.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "raj please buy apples bananas and oranges.",
+        "text_ta": "raj please buy apples bananas and oranges."
+      },
+      {
+        "key": "B",
+        "text_en": "Raj, please buy apples, bananas, and oranges.",
+        "text_ta": "Raj, please buy apples, bananas, and oranges."
+      },
+      {
+        "key": "C",
+        "text_en": "raj, please buy apples bananas and oranges.",
+        "text_ta": "raj, please buy apples bananas and oranges."
+      },
+      {
+        "key": "D",
+        "text_en": "Raj please buy, apples, bananas and oranges.",
+        "text_ta": "Raj please buy, apples, bananas and oranges."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Every sentence begins with a capital letter (R11), commas are used to address a person (R13), and commas separate items in a series (R1).",
+    "explanation_ta": "Every sentence begins with a capital letter (R11), commas are used to address a person (R13), and commas separate items in a series (R1).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R13"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct sentence that correctly applies a semicolon to link closely related clauses and a comma before a question tag.",
+    "question_ta": "Choose the correct sentence that correctly applies a semicolon to link closely related clauses and a comma before a question tag.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "he is a hardworking student; he never gives up, does he?",
+        "text_ta": "he is a hardworking student; he never gives up, does he?"
+      },
+      {
+        "key": "B",
+        "text_en": "He is a hardworking student, he never gives up, does he?",
+        "text_ta": "He is a hardworking student, he never gives up, does he?"
+      },
+      {
+        "key": "C",
+        "text_en": "He is a hardworking student; he never gives up does he?",
+        "text_ta": "He is a hardworking student; he never gives up does he?"
+      },
+      {
+        "key": "D",
+        "text_en": "he is a hardworking student, he never gives up does he?",
+        "text_ta": "he is a hardworking student, he never gives up does he?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A semicolon links closely related clauses without a conjunction (R23), a comma is used before question tags (R19), and sentences begin with a capital letter (R11).",
+    "explanation_ta": "A semicolon links closely related clauses without a conjunction (R23), a comma is used before question tags (R19), and sentences begin with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R19, R23"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that properly uses a colon to introduce a list and commas to separate items.",
+    "question_ta": "Select the sentence that properly uses a colon to introduce a list and commas to separate items.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "she needs three things for painting: paper brushes and paints.",
+        "text_ta": "she needs three things for painting: paper brushes and paints."
+      },
+      {
+        "key": "B",
+        "text_en": "She needs three things for painting: paper, brushes, and paints.",
+        "text_ta": "She needs three things for painting: paper, brushes, and paints."
+      },
+      {
+        "key": "C",
+        "text_en": "She needs three things for painting, paper, brushes and paints.",
+        "text_ta": "She needs three things for painting, paper, brushes and paints."
+      },
+      {
+        "key": "D",
+        "text_en": "she needs three things for painting paper, brushes, and paints.",
+        "text_ta": "she needs three things for painting paper, brushes, and paints."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon is used to introduce a list (R29/R37) after a complete independent clause, and commas separate items in a series (R1).",
+    "explanation_ta": "A colon is used to introduce a list (R29/R37) after a complete independent clause, and commas separate items in a series (R1).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R29, R37"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following sentences correctly punctuates a brief pause and a question tag?",
+    "question_ta": "Which of the following sentences correctly punctuates a brief pause and a question tag?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "well you are coming to the party aren't you?",
+        "text_ta": "well you are coming to the party aren't you?"
+      },
+      {
+        "key": "B",
+        "text_en": "Well, you are coming to the party, aren't you?",
+        "text_ta": "Well, you are coming to the party, aren't you?"
+      },
+      {
+        "key": "C",
+        "text_en": "Well you are coming to the party, aren't you.",
+        "text_ta": "Well you are coming to the party, aren't you."
+      },
+      {
+        "key": "D",
+        "text_en": "Well, you are coming to the party aren't you.",
+        "text_ta": "Well, you are coming to the party aren't you."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma is used after 'well' to indicate a brief pause, before a question tag (R19), and a question mark ends the sentence (R32).",
+    "explanation_ta": "A comma is used after 'well' to indicate a brief pause, before a question tag (R19), and a question mark ends the sentence (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R19, R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the option with correct capitalization, comma for a pause, and semicolon linkage.",
+    "question_ta": "Identify the option with correct capitalization, comma for a pause, and semicolon linkage.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ramesh loves cricket; suresh prefers football, and both enjoy sports.",
+        "text_ta": "ramesh loves cricket; suresh prefers football, and both enjoy sports."
+      },
+      {
+        "key": "B",
+        "text_en": "ramesh loves cricket suresh prefers football and both enjoy sports.",
+        "text_ta": "ramesh loves cricket suresh prefers football and both enjoy sports."
+      },
+      {
+        "key": "C",
+        "text_en": "Ramesh loves cricket; suresh prefers football and both enjoy sports.",
+        "text_ta": "Ramesh loves cricket; suresh prefers football and both enjoy sports."
+      },
+      {
+        "key": "D",
+        "text_en": "Ramesh loves cricket suresh prefers football, and both enjoy sports.",
+        "text_ta": "Ramesh loves cricket suresh prefers football, and both enjoy sports."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Proper nouns are capitalized (R42), sentences begin with a capital letter (R11), a semicolon links major related elements (R4), and a comma precedes the coordinating conjunction in a compound sentence (R19).",
+    "explanation_ta": "Proper nouns are capitalized (R42), sentences begin with a capital letter (R11), a semicolon links major related elements (R4), and a comma precedes the coordinating conjunction in a compound sentence (R19).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R4, R11, R19, R42"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a list introduction with a colon and a capital letter at the beginning.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a list introduction with a colon and a capital letter at the beginning.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "we need the following items: milk sugar and tea leaves.",
+        "text_ta": "we need the following items: milk sugar and tea leaves."
+      },
+      {
+        "key": "B",
+        "text_en": "We need the following items: milk, sugar, and tea leaves.",
+        "text_ta": "We need the following items: milk, sugar, and tea leaves."
+      },
+      {
+        "key": "C",
+        "text_en": "We need the following items, milk sugar and tea leaves.",
+        "text_ta": "We need the following items, milk sugar and tea leaves."
+      },
+      {
+        "key": "D",
+        "text_en": "we need the following items: milk, sugar, and tea leaves.",
+        "text_ta": "we need the following items: milk, sugar, and tea leaves."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon is used to introduce a list (R37), items in a series are separated by commas (R1), and the sentence begins with a capital letter (R11).",
+    "explanation_ta": "A colon is used to introduce a list (R37), items in a series are separated by commas (R1), and the sentence begins with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R37"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that correctly uses a comma before a question tag and proper end punctuation.",
+    "question_ta": "Select the sentence that correctly uses a comma before a question tag and proper end punctuation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "they completed the project on time didn't they?",
+        "text_ta": "they completed the project on time didn't they?"
+      },
+      {
+        "key": "B",
+        "text_en": "They completed the project on time, didn't they?",
+        "text_ta": "They completed the project on time, didn't they?"
+      },
+      {
+        "key": "C",
+        "text_en": "They completed the project on time didn't they.",
+        "text_ta": "They completed the project on time didn't they."
+      },
+      {
+        "key": "D",
+        "text_en": "they completed the project on time, didn't they.",
+        "text_ta": "they completed the project on time, didn't they."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma is required before question tags (R19), a question mark ends the interrogative structure (R32), and the sentence begins with a capital letter (R11).",
+    "explanation_ta": "A comma is required before question tags (R19), a question mark ends the interrogative structure (R32), and the sentence begins with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R19, R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly punctuates a series and uses a semicolon between clauses.",
+    "question_ta": "Choose the option that correctly punctuates a series and uses a semicolon between clauses.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "anil brought apples, mangoes, and oranges; sunil brought books, pens, and pencils.",
+        "text_ta": "anil brought apples, mangoes, and oranges; sunil brought books, pens, and pencils."
+      },
+      {
+        "key": "B",
+        "text_en": "anil brought apples mangoes and oranges sunil brought books pens and pencils.",
+        "text_ta": "anil brought apples mangoes and oranges sunil brought books pens and pencils."
+      },
+      {
+        "key": "C",
+        "text_en": "Anil brought apples mangoes and oranges; Sunil brought books pens and pencils.",
+        "text_ta": "Anil brought apples mangoes and oranges; Sunil brought books pens and pencils."
+      },
+      {
+        "key": "D",
+        "text_en": "Anil brought apples, mangoes and oranges, Sunil brought books, pens and pencils.",
+        "text_ta": "Anil brought apples, mangoes and oranges, Sunil brought books, pens and pencils."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Semicolons link major elements (R4), commas separate items in series (R1), and proper nouns/sentences are capitalized (R11, R42).",
+    "explanation_ta": "Semicolons link major elements (R4), commas separate items in series (R1), and proper nouns/sentences are capitalized (R11, R42).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R4, R11, R42"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly employs a colon for an explanatory clause and a capital letter at the start?",
+    "question_ta": "Which sentence correctly employs a colon for an explanatory clause and a capital letter at the start?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "success is not accidental: it is hard work perseverance and learning.",
+        "text_ta": "success is not accidental: it is hard work perseverance and learning."
+      },
+      {
+        "key": "B",
+        "text_en": "Success is not accidental: it is hard work, perseverance, and learning.",
+        "text_ta": "Success is not accidental: it is hard work, perseverance, and learning."
+      },
+      {
+        "key": "C",
+        "text_en": "Success is not accidental, it is hard work perseverance and learning.",
+        "text_ta": "Success is not accidental, it is hard work perseverance and learning."
+      },
+      {
+        "key": "D",
+        "text_en": "success is not accidental, it is: hard work perseverance and learning.",
+        "text_ta": "success is not accidental, it is: hard work perseverance and learning."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon is used to separate two independent clauses when the second explains the first (R3), and commas are used in a series (R1).",
+    "explanation_ta": "A colon is used to separate two independent clauses when the second explains the first (R3), and commas are used in a series (R1).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R3, R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly punctuated sentence containing a direct address, comma pause, and proper capitalization.",
+    "question_ta": "Select the correctly punctuated sentence containing a direct address, comma pause, and proper capitalization.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "sir can you please help me with this exercise?",
+        "text_ta": "sir can you please help me with this exercise?"
+      },
+      {
+        "key": "B",
+        "text_en": "Sir, can you please help me with this exercise?",
+        "text_ta": "Sir, can you please help me with this exercise?"
+      },
+      {
+        "key": "C",
+        "text_en": "sir, can you please help me with this exercise?",
+        "text_ta": "sir, can you please help me with this exercise?"
+      },
+      {
+        "key": "D",
+        "text_en": "Sir can you please help me with this exercise?",
+        "text_ta": "Sir can you please help me with this exercise?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma is used when addressing a person (R13), sentences begin with a capital letter (R11), and questions end with a question mark (R32).",
+    "explanation_ta": "A comma is used when addressing a person (R13), sentences begin with a capital letter (R11), and questions end with a question mark (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R13, R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly uses commas for a pause in an introductory phrase and a question tag.",
+    "question_ta": "Choose the option that correctly uses commas for a pause in an introductory phrase and a question tag.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "yes you understand the lesson don't you?",
+        "text_ta": "yes you understand the lesson don't you?"
+      },
+      {
+        "key": "B",
+        "text_en": "Yes, you understand the lesson, don't you?",
+        "text_ta": "Yes, you understand the lesson, don't you?"
+      },
+      {
+        "key": "C",
+        "text_en": "Yes you understand the lesson don't you?",
+        "text_ta": "Yes you understand the lesson don't you?"
+      },
+      {
+        "key": "D",
+        "text_en": "Yes, you understand the lesson don't you.",
+        "text_ta": "Yes, you understand the lesson don't you."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma is used after 'yes' for a brief pause and before question tags (R19), with correct capitalization (R11) and end punctuation (R32).",
+    "explanation_ta": "A comma is used after 'yes' for a brief pause and before question tags (R19), with correct capitalization (R11) and end punctuation (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R19, R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly punctuates a series using semicolons because the items themselves contain commas?",
+    "question_ta": "Which sentence correctly punctuates a series using semicolons because the items themselves contain commas?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "we visited paris, france; rome, italy; and madrid, spain.",
+        "text_ta": "we visited paris, france; rome, italy; and madrid, spain."
+      },
+      {
+        "key": "B",
+        "text_en": "we visited paris france, rome italy, and madrid spain.",
+        "text_ta": "we visited paris france, rome italy, and madrid spain."
+      },
+      {
+        "key": "C",
+        "text_en": "We visited paris, france, rome, italy and madrid, spain.",
+        "text_ta": "We visited paris, france, rome, italy and madrid, spain."
+      },
+      {
+        "key": "D",
+        "text_en": "We visited Paris, France; Rome, Italy; and Madrid, Spain.",
+        "text_ta": "We visited Paris, France; Rome, Italy; and Madrid, Spain."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Semicolons link major elements or series items containing commas (R4), proper nouns are capitalized (R42), and sentences begin with a capital letter (R11).",
+    "explanation_ta": "Semicolons link major elements or series items containing commas (R4), proper nouns are capitalized (R42), and sentences begin with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R4, R11, R42"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that properly uses a colon before an explanatory independent clause.",
+    "question_ta": "Select the sentence that properly uses a colon before an explanatory independent clause.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "there is one rule: never give up.",
+        "text_ta": "there is one rule: never give up."
+      },
+      {
+        "key": "B",
+        "text_en": "there is one rule, never give up.",
+        "text_ta": "there is one rule, never give up."
+      },
+      {
+        "key": "C",
+        "text_en": "There is one rule, never give up.",
+        "text_ta": "There is one rule, never give up."
+      },
+      {
+        "key": "D",
+        "text_en": "There is one rule: never give up.",
+        "text_ta": "There is one rule: never give up."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A colon separates two independent clauses when the second explains the first (R3), and the sentence begins with a capital letter (R11).",
+    "explanation_ta": "A colon separates two independent clauses when the second explains the first (R3), and the sentence begins with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R3, R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence with an introductory phrase pause and a question tag.",
+    "question_ta": "Choose the correctly punctuated sentence with an introductory phrase pause and a question tag.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "in the meantime, we can finish the report, can't we?",
+        "text_ta": "in the meantime, we can finish the report, can't we?"
+      },
+      {
+        "key": "B",
+        "text_en": "in the meantime we can finish the report cant we?",
+        "text_ta": "in the meantime we can finish the report cant we?"
+      },
+      {
+        "key": "C",
+        "text_en": "In the meantime we can finish the report can't we?",
+        "text_ta": "In the meantime we can finish the report can't we?"
+      },
+      {
+        "key": "D",
+        "text_en": "In the meantime, we can finish the report cant we?",
+        "text_ta": "In the meantime, we can finish the report cant we?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A comma indicates a brief pause after an introductory phrase and before a question tag (R19), with an apostrophe for contraction (R15) and capital letter start (R11).",
+    "explanation_ta": "A comma indicates a brief pause after an introductory phrase and before a question tag (R19), with an apostrophe for contraction (R15) and capital letter start (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R15, R19"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the option with correct list introduction using a colon, item separation, and capitalization.",
+    "question_ta": "Identify the option with correct list introduction using a colon, item separation, and capitalization.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "bring these items for the trip: tent sleeping bag and water.",
+        "text_ta": "bring these items for the trip: tent sleeping bag and water."
+      },
+      {
+        "key": "B",
+        "text_en": "Bring these items for the trip: tent, sleeping bag, and water.",
+        "text_ta": "Bring these items for the trip: tent, sleeping bag, and water."
+      },
+      {
+        "key": "C",
+        "text_en": "Bring these items for the trip, tent, sleeping bag and water.",
+        "text_ta": "Bring these items for the trip, tent, sleeping bag and water."
+      },
+      {
+        "key": "D",
+        "text_en": "bring these items for the trip, tent sleeping bag and water.",
+        "text_ta": "bring these items for the trip, tent sleeping bag and water."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon introduces a list (R29/R37), commas separate series items (R1), and the sentence begins with a capital letter (R11).",
+    "explanation_ta": "A colon introduces a list (R29/R37), commas separate series items (R1), and the sentence begins with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R29, R37"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that correctly applies a semicolon to link connected sentences without a conjunction.",
+    "question_ta": "Select the sentence that correctly applies a semicolon to link connected sentences without a conjunction.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "the sun was shining brightly; however, the wind was cold.",
+        "text_ta": "the sun was shining brightly; however, the wind was cold."
+      },
+      {
+        "key": "B",
+        "text_en": "the sun was shining brightly however the wind was cold.",
+        "text_ta": "the sun was shining brightly however the wind was cold."
+      },
+      {
+        "key": "C",
+        "text_en": "The sun was shining brightly however the wind was cold.",
+        "text_ta": "The sun was shining brightly however the wind was cold."
+      },
+      {
+        "key": "D",
+        "text_en": "The sun was shining brightly, however the wind was cold.",
+        "text_ta": "The sun was shining brightly, however the wind was cold."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A semicolon links two independent clauses or connected sentences (R23), accompanied by a capital starting letter (R11).",
+    "explanation_ta": "A semicolon links two independent clauses or connected sentences (R23), accompanied by a capital starting letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R23"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring direct address and a question tag.",
+    "question_ta": "Choose the correctly punctuated sentence featuring direct address and a question tag.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "kumar you submitted your assignment didn't you?",
+        "text_ta": "kumar you submitted your assignment didn't you?"
+      },
+      {
+        "key": "B",
+        "text_en": "Kumar, you submitted your assignment, didn't you?",
+        "text_ta": "Kumar, you submitted your assignment, didn't you?"
+      },
+      {
+        "key": "C",
+        "text_en": "kumar, you submitted your assignment didn't you?",
+        "text_ta": "kumar, you submitted your assignment didn't you?"
+      },
+      {
+        "key": "D",
+        "text_en": "Kumar you submitted your assignment, didn't you.",
+        "text_ta": "Kumar you submitted your assignment, didn't you."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Commas are used when addressing a person and before question tags (R13, R19), with proper capitalization (R11, R42) and end punctuation (R32).",
+    "explanation_ta": "Commas are used when addressing a person and before question tags (R13, R19), with proper capitalization (R11, R42) and end punctuation (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R13, R19, R32, R42"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly uses a colon to introduce a concluding explanation?",
+    "question_ta": "Which sentence correctly uses a colon to introduce a concluding explanation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "there is one essential truth: honesty is the best policy.",
+        "text_ta": "there is one essential truth: honesty is the best policy."
+      },
+      {
+        "key": "B",
+        "text_en": "there is one essential truth, honesty is the best policy.",
+        "text_ta": "there is one essential truth, honesty is the best policy."
+      },
+      {
+        "key": "C",
+        "text_en": "There is one essential truth, honesty is the best policy.",
+        "text_ta": "There is one essential truth, honesty is the best policy."
+      },
+      {
+        "key": "D",
+        "text_en": "There is one essential truth: Honesty is the best policy.",
+        "text_ta": "There is one essential truth: Honesty is the best policy."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A colon is used to separate two independent clauses when the second explains the first (R3), with a capital start (R11).",
+    "explanation_ta": "A colon is used to separate two independent clauses when the second explains the first (R3), with a capital start (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R3, R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the option that correctly punctuates a series, introductory pause, and question tag.",
+    "question_ta": "Select the option that correctly punctuates a series, introductory pause, and question tag.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "well math science and history are important subjects aren't they?",
+        "text_ta": "well math science and history are important subjects aren't they?"
+      },
+      {
+        "key": "B",
+        "text_en": "Well, math, science, and history are important subjects, aren't you?",
+        "text_ta": "Well, math, science, and history are important subjects, aren't you?"
+      },
+      {
+        "key": "C",
+        "text_en": "Well, math, science, and history are important subjects, aren't they?",
+        "text_ta": "Well, math, science, and history are important subjects, aren't they?"
+      },
+      {
+        "key": "D",
+        "text_en": "Well math science and history are important subjects aren't they?",
+        "text_ta": "Well math science and history are important subjects aren't they?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A comma follows introductory 'well', separates series items (R1, R19), precedes the question tag (R19), and ends with a question mark (R32).",
+    "explanation_ta": "A comma follows introductory 'well', separates series items (R1, R19), precedes the question tag (R19), and ends with a question mark (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R19, R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a semicolon and a capital letter at the beginning.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a semicolon and a capital letter at the beginning.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "some people write novels; others prefer writing poetry.",
+        "text_ta": "some people write novels; others prefer writing poetry."
+      },
+      {
+        "key": "B",
+        "text_en": "some people write novels others prefer writing poetry.",
+        "text_ta": "some people write novels others prefer writing poetry."
+      },
+      {
+        "key": "C",
+        "text_en": "Some people write novels others prefer writing poetry.",
+        "text_ta": "Some people write novels others prefer writing poetry."
+      },
+      {
+        "key": "D",
+        "text_en": "Some people write novels, others prefer writing poetry.",
+        "text_ta": "Some people write novels, others prefer writing poetry."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A semicolon links major elements or closely related clauses without a conjunction (R4, R23), starting with a capital letter (R11).",
+    "explanation_ta": "A semicolon links major elements or closely related clauses without a conjunction (R4, R23), starting with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R4, R11, R23"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly combines a list introduction colon, a series of commas, and proper capitalization?",
+    "question_ta": "Which sentence correctly combines a list introduction colon, a series of commas, and proper capitalization?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "the core subjects are: mathematics physics and chemistry.",
+        "text_ta": "the core subjects are: mathematics physics and chemistry."
+      },
+      {
+        "key": "B",
+        "text_en": "The core subjects are: mathematics, physics, and chemistry.",
+        "text_ta": "The core subjects are: mathematics, physics, and chemistry."
+      },
+      {
+        "key": "C",
+        "text_en": "The core subjects are, mathematics, physics and chemistry.",
+        "text_ta": "The core subjects are, mathematics, physics and chemistry."
+      },
+      {
+        "key": "D",
+        "text_en": "the core subjects are: mathematics, physics, and chemistry.",
+        "text_ta": "the core subjects are: mathematics, physics, and chemistry."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon introduces a list (R29/R37), commas separate items in a series (R1), and sentences begin with a capital letter (R11).",
+    "explanation_ta": "A colon introduces a list (R29/R37), commas separate items in a series (R1), and sentences begin with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R29, R37"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence with a correct comma pause for direct address and a question tag.",
+    "question_ta": "Select the sentence with a correct comma pause for direct address and a question tag.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "priya you know the answer don't you?",
+        "text_ta": "priya you know the answer don't you?"
+      },
+      {
+        "key": "B",
+        "text_en": "Priya, you know the answer, don't you?",
+        "text_ta": "Priya, you know the answer, don't you?"
+      },
+      {
+        "key": "C",
+        "text_en": "priya, you know the answer don't you?",
+        "text_ta": "priya, you know the answer don't you?"
+      },
+      {
+        "key": "D",
+        "text_en": "Priya you know the answer, don't you.",
+        "text_ta": "Priya you know the answer, don't you."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Commas are used when addressing a person and before question tags (R13, R19), with proper capitalization (R11, R42) and question mark (R32).",
+    "explanation_ta": "Commas are used when addressing a person and before question tags (R13, R19), with proper capitalization (R11, R42) and question mark (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R13, R19, R32, R42"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence that uses a semicolon between balanced clauses and a capital letter at the start.",
+    "question_ta": "Choose the correctly punctuated sentence that uses a semicolon between balanced clauses and a capital letter at the start.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "to err is human; to forgive, divine.",
+        "text_ta": "to err is human; to forgive, divine."
+      },
+      {
+        "key": "B",
+        "text_en": "to err is human to forgive divine.",
+        "text_ta": "to err is human to forgive divine."
+      },
+      {
+        "key": "C",
+        "text_en": "To err is human to forgive divine.",
+        "text_ta": "To err is human to forgive divine."
+      },
+      {
+        "key": "D",
+        "text_en": "To err is human, to forgive, divine.",
+        "text_ta": "To err is human, to forgive, divine."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A semicolon links major balanced elements (R4), a comma indicates word omission (R19), and sentences begin with a capital letter (R11).",
+    "explanation_ta": "A semicolon links major balanced elements (R4), a comma indicates word omission (R19), and sentences begin with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R4, R11, R19"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which option correctly punctuates an introductory pause, a series, and a question tag?",
+    "question_ta": "Which option correctly punctuates an introductory pause, a series, and a question tag?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "now gold silver and platinum are precious metals aren't they?",
+        "text_ta": "now gold silver and platinum are precious metals aren't they?"
+      },
+      {
+        "key": "B",
+        "text_en": "Now, gold, silver, and platinum are precious metals, aren't they?",
+        "text_ta": "Now, gold, silver, and platinum are precious metals, aren't they?"
+      },
+      {
+        "key": "C",
+        "text_en": "Now gold silver and platinum are precious metals aren't they?",
+        "text_ta": "Now gold silver and platinum are precious metals aren't they?"
+      },
+      {
+        "key": "D",
+        "text_en": "Now, gold, silver and platinum are precious metals aren't they.",
+        "text_ta": "Now, gold, silver and platinum are precious metals aren't they."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Commas are used after introductory words, in a series, and before question tags (R19), with a question mark at the end (R32).",
+    "explanation_ta": "Commas are used after introductory words, in a series, and before question tags (R19), with a question mark at the end (R32).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R11, R19, R32"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that uses a colon correctly to introduce a list after a complete clause.",
+    "question_ta": "Select the sentence that uses a colon correctly to introduce a list after a complete clause.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "plan your study schedule: include time for rest revision and practice.",
+        "text_ta": "plan your study schedule: include time for rest revision and practice."
+      },
+      {
+        "key": "B",
+        "text_en": "Plan your study schedule: include time for rest, revision, and practice.",
+        "text_ta": "Plan your study schedule: include time for rest, revision, and practice."
+      },
+      {
+        "key": "C",
+        "text_en": "Plan your study schedule, include time for rest revision and practice.",
+        "text_ta": "Plan your study schedule, include time for rest revision and practice."
+      },
+      {
+        "key": "D",
+        "text_en": "plan your study schedule include time for rest, revision, and practice.",
+        "text_ta": "plan your study schedule include time for rest, revision, and practice."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon is used to introduce a list (R37), commas separate series items (R1), and sentences begin with a capital letter (R11).",
+    "explanation_ta": "A colon is used to introduce a list (R37), commas separate series items (R1), and sentences begin with a capital letter (R11).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "punctuation",
+    "source_note": "R1, R11, R37"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly punctuates the possessive form, contraction, and direct speech in the sentence: 'raghav said i cant find mansis notebook'",
+    "question_ta": "Choose the option that correctly punctuates the possessive form, contraction, and direct speech in the sentence: 'raghav said i cant find mansis notebook'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Raghav said, 'I can't find Mansi's notebook.'",
+        "text_ta": "Raghav said, 'I can't find Mansi's notebook.'"
+      },
+      {
+        "key": "B",
+        "text_en": "Raghav said \"I cant find Mansis notebook.\"",
+        "text_ta": "Raghav said \"I cant find Mansis notebook.\""
+      },
+      {
+        "key": "C",
+        "text_en": "Raghav said, I cant' find Mansis' notebook.",
+        "text_ta": "Raghav said, I cant' find Mansis' notebook."
+      },
+      {
+        "key": "D",
+        "text_en": "Raghav said: I can't find Mansis notebook.",
+        "text_ta": "Raghav said: I can't find Mansis notebook."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13, R31, and R36 require inverted commas for direct speech, an apostrophe for contraction ('can't'), and an apostrophe before 's' for singular possession ('Mansi's').",
+    "explanation_ta": "Rule R13, R31, and R36 require inverted commas for direct speech, an apostrophe for contraction ('can't'), and an apostrophe before 's' for singular possession ('Mansi's').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R13, R31, R36"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly punctuated sentence featuring supplementary information in brackets, a colon for a list, and quotation marks for direct speech.",
+    "question_ta": "Select the correctly punctuated sentence featuring supplementary information in brackets, a colon for a list, and quotation marks for direct speech.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The captain (an experienced leader) announced: 'We will start at dawn.'",
+        "text_ta": "The captain (an experienced leader) announced: 'We will start at dawn.'"
+      },
+      {
+        "key": "B",
+        "text_en": "The captain an experienced leader announced, We will start at dawn.",
+        "text_ta": "The captain an experienced leader announced, We will start at dawn."
+      },
+      {
+        "key": "C",
+        "text_en": "The captain -an experienced leader- announced 'We will start at dawn'",
+        "text_ta": "The captain -an experienced leader- announced 'We will start at dawn'"
+      },
+      {
+        "key": "D",
+        "text_en": "The captain (an experienced leader) announced 'We will start at dawn'.",
+        "text_ta": "The captain (an experienced leader) announced 'We will start at dawn'."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R2 encloses supplementary info in parentheses, Rule R16/R38 uses a colon before a quotation/speech, and Rule R13 encloses the exact words.",
+    "explanation_ta": "Rule R2 encloses supplementary info in parentheses, Rule R16/R38 uses a colon before a quotation/speech, and Rule R13 encloses the exact words.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R2, R13, R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly applies a dash for an abrupt thought change, quotation marks for a title, and an apostrophe for plural possession?",
+    "question_ta": "Which sentence correctly applies a dash for an abrupt thought change, quotation marks for a title, and an apostrophe for plural possession?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The students—reading 'Hamlet'—submitted the girls' assignments.",
+        "text_ta": "The students—reading 'Hamlet'—submitted the girls' assignments."
+      },
+      {
+        "key": "B",
+        "text_en": "The students reading Hamlet submitted the girls assignments.",
+        "text_ta": "The students reading Hamlet submitted the girls assignments."
+      },
+      {
+        "key": "C",
+        "text_en": "The students - reading Hamlet - submitted the girls' assignments.",
+        "text_ta": "The students - reading Hamlet - submitted the girls' assignments."
+      },
+      {
+        "key": "D",
+        "text_en": "The students, reading 'Hamlet', submitted the girls assignments.",
+        "text_ta": "The students, reading 'Hamlet', submitted the girls assignments."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R11/R44 uses dashes for parenthetical/abrupt remarks, Rule R15 uses quotation marks for minor works/titles, and Rule R36 places the apostrophe after 's' for plural possession ('girls'').",
+    "explanation_ta": "Rule R11/R44 uses dashes for parenthetical/abrupt remarks, Rule R15 uses quotation marks for minor works/titles, and Rule R36 places the apostrophe after 's' for plural possession ('girls'').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R11, R15, R36, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the option that correctly punctuates a direct question, a contraction, and a bracketed abbreviation.",
+    "question_ta": "Identify the option that correctly punctuates a direct question, a contraction, and a bracketed abbreviation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Can you check if the WHO (World Health Organization) hasn't replied yet?",
+        "text_ta": "Can you check if the WHO (World Health Organization) hasn't replied yet?"
+      },
+      {
+        "key": "B",
+        "text_en": "Can you check if the WHO World Health Organization hasnt replied yet?",
+        "text_ta": "Can you check if the WHO World Health Organization hasnt replied yet?"
+      },
+      {
+        "key": "C",
+        "text_en": "Can you check if the WHO [World Health Organization] hasn't replied yet?",
+        "text_ta": "Can you check if the WHO [World Health Organization] hasn't replied yet?"
+      },
+      {
+        "key": "D",
+        "text_en": "Can you check if the WHO (World Health Organization) hasnt replied yet?",
+        "text_ta": "Can you check if the WHO (World Health Organization) hasnt replied yet?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R1 uses a question mark for a direct question, Rule R31 uses an apostrophe in 'hasn't', and Rule R2 uses parentheses for supplementary info.",
+    "explanation_ta": "Rule R1 uses a question mark for a direct question, Rule R31 uses an apostrophe in 'hasn't', and Rule R2 uses parentheses for supplementary info.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R1, R2, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence containing an exclamation mark, quotation marks for a speaker, and a dash for hesitation/tone change.",
+    "question_ta": "Choose the correctly punctuated sentence containing an exclamation mark, quotation marks for a speaker, and a dash for hesitation/tone change.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Alas!—she whispered, 'I have lost my key.'",
+        "text_ta": "Alas!—she whispered, 'I have lost my key.'"
+      },
+      {
+        "key": "B",
+        "text_en": "Alas, she whispered 'I have lost my key.'",
+        "text_ta": "Alas, she whispered 'I have lost my key.'"
+      },
+      {
+        "key": "C",
+        "text_en": "Alas! she whispered, 'I have lost my key.'",
+        "text_ta": "Alas! she whispered, 'I have lost my key.'"
+      },
+      {
+        "key": "D",
+        "text_en": "Alas—she whispered, 'I have lost my key.'",
+        "text_ta": "Alas—she whispered, 'I have lost my key.'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R3 uses an exclamation mark after interjections, Rule R44 uses a dash to signal tone change/hesitation, and Rule R13 encloses direct speech in quotation marks.",
+    "explanation_ta": "Rule R3 uses an exclamation mark after interjections, Rule R44 uses a dash to signal tone change/hesitation, and Rule R13 encloses direct speech in quotation marks.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R3, R13, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the option that properly uses a colon to introduce a list, brackets for figures, and an apostrophe for contraction.",
+    "question_ta": "Select the option that properly uses a colon to introduce a list, brackets for figures, and an apostrophe for contraction.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We'll need the following items: (1) pen, (2) paper, (3) ink.",
+        "text_ta": "We'll need the following items: (1) pen, (2) paper, (3) ink."
+      },
+      {
+        "key": "B",
+        "text_en": "We'll need the following items (1) pen, (2) paper, (3) ink.",
+        "text_ta": "We'll need the following items (1) pen, (2) paper, (3) ink."
+      },
+      {
+        "key": "C",
+        "text_en": "Well need the following items: 1. pen, 2. paper, 3. ink.",
+        "text_ta": "Well need the following items: 1. pen, 2. paper, 3. ink."
+      },
+      {
+        "key": "D",
+        "text_en": "We'll need the following items: (1) pen (2) paper (3) ink",
+        "text_ta": "We'll need the following items: (1) pen (2) paper (3) ink"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R40 uses a colon before a list, Rule R17 uses brackets to enclose numbers in lists, and Rule R31 uses an apostrophe for the contraction 'We'll'.",
+    "explanation_ta": "Rule R40 uses a colon before a list, Rule R17 uses brackets to enclose numbers in lists, and Rule R31 uses an apostrophe for the contraction 'We'll'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R4, R17, R31, R40"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly punctuates a direct speech quotation, a hyphenated compound adjective, and possessive apostrophe?",
+    "question_ta": "Which sentence correctly punctuates a direct speech quotation, a hyphenated compound adjective, and possessive apostrophe?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The teacher said, 'This is a well-designed plan for the students' success.'",
+        "text_ta": "The teacher said, 'This is a well-designed plan for the students' success.'"
+      },
+      {
+        "key": "B",
+        "text_en": "The teacher said \"This is a well designed plan for the students success.\"",
+        "text_ta": "The teacher said \"This is a well designed plan for the students success.\""
+      },
+      {
+        "key": "C",
+        "text_en": "The teacher said, 'This is a well-designed plan for the students's success.'",
+        "text_ta": "The teacher said, 'This is a well-designed plan for the students's success.'"
+      },
+      {
+        "key": "D",
+        "text_en": "The teacher said: 'This is a well designed plan for the students success'.",
+        "text_ta": "The teacher said: 'This is a well designed plan for the students success'."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13 uses quotation marks for speech, Rule R25 uses a hyphen for compound adjectives before nouns, and Rule R36 places an apostrophe after 's' for plural possession ('students'').",
+    "explanation_ta": "Rule R13 uses quotation marks for speech, Rule R25 uses a hyphen for compound adjectives before nouns, and Rule R36 places an apostrophe after 's' for plural possession ('students'').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R13, R25, R36"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly punctuated sentence combining a dash for sudden thought change, quotation marks for irony, and an exclamation mark.",
+    "question_ta": "Identify the correctly punctuated sentence combining a dash for sudden thought change, quotation marks for irony, and an exclamation mark.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He is such a brilliant—'genius'—that he failed again!",
+        "text_ta": "He is such a brilliant—'genius'—that he failed again!"
+      },
+      {
+        "key": "B",
+        "text_en": "He is such a brilliant genius that he failed again.",
+        "text_ta": "He is such a brilliant genius that he failed again."
+      },
+      {
+        "key": "C",
+        "text_en": "He is such a brilliant 'genius' that he failed again.",
+        "text_ta": "He is such a brilliant 'genius' that he failed again."
+      },
+      {
+        "key": "D",
+        "text_en": "He is such a brilliant—genius—that he failed again!",
+        "text_ta": "He is such a brilliant—genius—that he failed again!"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R44 uses dashes to set off parenthetical remarks and emphasize/signal tone change, Rule R39 uses quotation marks for irony/special sense, and Rule R9 uses an exclamation mark for strong feeling.",
+    "explanation_ta": "Rule R44 uses dashes to set off parenthetical remarks and emphasize/signal tone change, Rule R39 uses quotation marks for irony/special sense, and Rule R9 uses an exclamation mark for strong feeling.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R9, R39, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly applies brackets for supplementary information, an apostrophe for contraction, and a question mark.",
+    "question_ta": "Choose the option that correctly applies brackets for supplementary information, an apostrophe for contraction, and a question mark.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Won't you join us at the seminar (held at IIT)?",
+        "text_ta": "Won't you join us at the seminar (held at IIT)?"
+      },
+      {
+        "key": "B",
+        "text_en": "Wont you join us at the seminar held at IIT?",
+        "text_ta": "Wont you join us at the seminar held at IIT?"
+      },
+      {
+        "key": "C",
+        "text_en": "Won't you join us at the seminar - held at IIT -?",
+        "text_ta": "Won't you join us at the seminar - held at IIT -?"
+      },
+      {
+        "key": "D",
+        "text_en": "Won't you join us at the seminar [held at IIT]?",
+        "text_ta": "Won't you join us at the seminar [held at IIT]?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R31 uses an apostrophe in 'Won't', Rule R2 uses parentheses for non-essential supplementary information, and Rule R1 ends a direct question with a question mark.",
+    "explanation_ta": "Rule R31 uses an apostrophe in 'Won't', Rule R2 uses parentheses for non-essential supplementary information, and Rule R1 ends a direct question with a question mark.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R1, R2, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence with correct punctuation using quotation marks for a speech, a dash for an interruption, and a full stop.",
+    "question_ta": "Select the sentence with correct punctuation using quotation marks for a speech, a dash for an interruption, and a full stop.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She started to say, 'I wanted to—' before he interrupted.",
+        "text_ta": "She started to say, 'I wanted to—' before he interrupted."
+      },
+      {
+        "key": "B",
+        "text_en": "She started to say 'I wanted to—' before he interrupted.",
+        "text_ta": "She started to say 'I wanted to—' before he interrupted."
+      },
+      {
+        "key": "C",
+        "text_en": "She started to say, 'I wanted to' before he interrupted.",
+        "text_ta": "She started to say, 'I wanted to' before he interrupted."
+      },
+      {
+        "key": "D",
+        "text_en": "She started to say: 'I wanted to—' before he interrupted.",
+        "text_ta": "She started to say: 'I wanted to—' before he interrupted."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13 encloses exact words in quotation marks, Rule R11/R44 uses a dash to show hesitation/abrupt stop, and Rule R6/R12 ends a declarative sentence with a full stop.",
+    "explanation_ta": "Rule R13 encloses exact words in quotation marks, Rule R11/R44 uses a dash to show hesitation/abrupt stop, and Rule R6/R12 ends a declarative sentence with a full stop.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R6, R11, R13, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which of the following sentences correctly utilizes a colon before direct speech, brackets for a year, and possessive apostrophe?",
+    "question_ta": "Which of the following sentences correctly utilizes a colon before direct speech, brackets for a year, and possessive apostrophe?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The author wrote in his book (published in 2020): 'Truth triumphs.'",
+        "text_ta": "The author wrote in his book (published in 2020): 'Truth triumphs.'"
+      },
+      {
+        "key": "B",
+        "text_en": "The author wrote in his book published in 2020: 'Truth triumphs.'",
+        "text_ta": "The author wrote in his book published in 2020: 'Truth triumphs.'"
+      },
+      {
+        "key": "C",
+        "text_en": "The authors wrote in his book (published in 2020) 'Truth triumphs.'",
+        "text_ta": "The authors wrote in his book (published in 2020) 'Truth triumphs.'"
+      },
+      {
+        "key": "D",
+        "text_en": "The author wrote in his book [published in 2020]: 'Truth's triumphs.'",
+        "text_ta": "The author wrote in his book [published in 2020]: 'Truth's triumphs.'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R2 encloses publication year in parentheses, Rule R16/R38 uses a colon before direct speech/quotation, and Rule R13 uses quotation marks for the speech.",
+    "explanation_ta": "Rule R2 encloses publication year in parentheses, Rule R16/R38 uses a colon before direct speech/quotation, and Rule R13 uses quotation marks for the speech.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R2, R13, R16, R38"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly punctuates a contraction, an exclamation mark, and a dash for a sudden shift.",
+    "question_ta": "Choose the option that correctly punctuates a contraction, an exclamation mark, and a dash for a sudden shift.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Don't touch that—it's hot!",
+        "text_ta": "Don't touch that—it's hot!"
+      },
+      {
+        "key": "B",
+        "text_en": "Dont touch that—its hot!",
+        "text_ta": "Dont touch that—its hot!"
+      },
+      {
+        "key": "C",
+        "text_en": "Don't touch that, it's hot!",
+        "text_ta": "Don't touch that, it's hot!"
+      },
+      {
+        "key": "D",
+        "text_en": "Dont touch that it's hot!",
+        "text_ta": "Dont touch that it's hot!"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R31 uses apostrophes for contractions ('Don't', 'it's'), Rule R44 uses a dash for an abrupt shift/emphasis, and Rule R9 uses an exclamation mark for strong feeling.",
+    "explanation_ta": "Rule R31 uses apostrophes for contractions ('Don't', 'it's'), Rule R44 uses a dash for an abrupt shift/emphasis, and Rule R9 uses an exclamation mark for strong feeling.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R9, R31, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correctly punctuated sentence featuring quotation marks for a minor work, brackets for numbers, and a full stop.",
+    "question_ta": "Select the correctly punctuated sentence featuring quotation marks for a minor work, brackets for numbers, and a full stop.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Read the poem (Chapter 1) titled 'The Road Not Taken'.",
+        "text_ta": "Read the poem (Chapter 1) titled 'The Road Not Taken'."
+      },
+      {
+        "key": "B",
+        "text_en": "Read the poem Chapter 1 titled 'The Road Not Taken'.",
+        "text_ta": "Read the poem Chapter 1 titled 'The Road Not Taken'."
+      },
+      {
+        "key": "C",
+        "text_en": "Read the poem [Chapter 1] titled The Road Not Taken.",
+        "text_ta": "Read the poem [Chapter 1] titled The Road Not Taken."
+      },
+      {
+        "key": "D",
+        "text_en": "Read the poem (Chapter 1) titled The Road Not Taken.",
+        "text_ta": "Read the poem (Chapter 1) titled The Road Not Taken."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R2/R17 uses parentheses to enclose numbers/references, Rule R15 uses quotation marks for minor works/poems, and Rule R6/R12 ends the imperative sentence with a full stop.",
+    "explanation_ta": "Rule R2/R17 uses parentheses to enclose numbers/references, Rule R15 uses quotation marks for minor works/poems, and Rule R6/R12 ends the imperative sentence with a full stop.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R2, R6, R15, R17"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly combines a dash for dateline/attribution, quotation marks for direct speech, and a comma?",
+    "question_ta": "Which sentence correctly combines a dash for dateline/attribution, quotation marks for direct speech, and a comma?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "CHENNAI—Kavitha said, 'I will attend the meeting.'",
+        "text_ta": "CHENNAI—Kavitha said, 'I will attend the meeting.'"
+      },
+      {
+        "key": "B",
+        "text_en": "CHENNAI, Kavitha said, 'I will attend the meeting.'",
+        "text_ta": "CHENNAI, Kavitha said, 'I will attend the meeting.'"
+      },
+      {
+        "key": "C",
+        "text_en": "CHENNAI—Kavitha said 'I will attend the meeting'",
+        "text_ta": "CHENNAI—Kavitha said 'I will attend the meeting'"
+      },
+      {
+        "key": "D",
+        "text_en": "CHENNAI - Kavitha said: 'I will attend the meeting.'",
+        "text_ta": "CHENNAI - Kavitha said: 'I will attend the meeting.'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R44 uses a dash to follow datelines and indicate attribution, Rule R27 uses a comma after reporting phrases, and Rule R13 encloses direct speech in quotation marks.",
+    "explanation_ta": "Rule R44 uses a dash to follow datelines and indicate attribution, Rule R27 uses a comma after reporting phrases, and Rule R13 encloses direct speech in quotation marks.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R13, R27, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the option that correctly punctuates direct speech with an exclamation mark, a contraction, and apostrophe for possession.",
+    "question_ta": "Identify the option that correctly punctuates direct speech with an exclamation mark, a contraction, and apostrophe for possession.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He shouted, 'That's children's play!'",
+        "text_ta": "He shouted, 'That's children's play!'"
+      },
+      {
+        "key": "B",
+        "text_en": "He shouted \"Thats childrens play!\"",
+        "text_ta": "He shouted \"Thats childrens play!\""
+      },
+      {
+        "key": "C",
+        "text_en": "He shouted, 'Thats childrens play!'",
+        "text_ta": "He shouted, 'Thats childrens play!'"
+      },
+      {
+        "key": "D",
+        "text_en": "He shouted: 'That's childrens play!'",
+        "text_ta": "He shouted: 'That's childrens play!'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13 uses quotation marks for speech, Rule R31 uses an apostrophe for contraction ('That's'), and Rule R36 places an apostrophe before 's' for a plural noun not ending in 's' ('children's').",
+    "explanation_ta": "Rule R13 uses quotation marks for speech, Rule R31 uses an apostrophe for contraction ('That's'), and Rule R36 places an apostrophe before 's' for a plural noun not ending in 's' ('children's').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R13, R31, R36"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence using brackets for an abbreviation, a colon for a list, and a hyphen for a compound adjective.",
+    "question_ta": "Choose the correctly punctuated sentence using brackets for an abbreviation, a colon for a list, and a hyphen for a compound adjective.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The UN (United Nations) document listed these high-priority goals: peace, health, and education.",
+        "text_ta": "The UN (United Nations) document listed these high-priority goals: peace, health, and education."
+      },
+      {
+        "key": "B",
+        "text_en": "The UN United Nations document listed these high priority goals: peace, health and education.",
+        "text_ta": "The UN United Nations document listed these high priority goals: peace, health and education."
+      },
+      {
+        "key": "C",
+        "text_en": "The UN (United Nations) document listed these high-priority goals, peace, health, and education.",
+        "text_ta": "The UN (United Nations) document listed these high-priority goals, peace, health, and education."
+      },
+      {
+        "key": "D",
+        "text_en": "The UN [United Nations] document listed these high priority goals: peace; health; education.",
+        "text_ta": "The UN [United Nations] document listed these high priority goals: peace; health; education."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R2 encloses abbreviation expansion in parentheses, Rule R25 uses a hyphen for compound adjectives before nouns, and Rule R40 uses a colon before a list.",
+    "explanation_ta": "Rule R2 encloses abbreviation expansion in parentheses, Rule R25 uses a hyphen for compound adjectives before nouns, and Rule R40 uses a colon before a list.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R2, R25, R40"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the option that properly uses quotation marks for ironic usage, a dash for interruption, and a question mark.",
+    "question_ta": "Select the option that properly uses quotation marks for ironic usage, a dash for interruption, and a question mark.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Is this your idea of a 'holiday'—working all weekend?",
+        "text_ta": "Is this your idea of a 'holiday'—working all weekend?"
+      },
+      {
+        "key": "B",
+        "text_en": "Is this your idea of a holiday—working all weekend?",
+        "text_ta": "Is this your idea of a holiday—working all weekend?"
+      },
+      {
+        "key": "C",
+        "text_en": "Is this your idea of a 'holiday' working all weekend?",
+        "text_ta": "Is this your idea of a 'holiday' working all weekend?"
+      },
+      {
+        "key": "D",
+        "text_en": "Is this your idea of a 'holiday'—working all weekend.",
+        "text_ta": "Is this your idea of a 'holiday'—working all weekend."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R39 uses quotation marks to indicate irony/special sense, Rule R44 uses a dash to set off parenthetical remarks or signal tone change/explanation, and Rule R1 ends a direct question with a question mark.",
+    "explanation_ta": "Rule R39 uses quotation marks to indicate irony/special sense, Rule R44 uses a dash to set off parenthetical remarks or signal tone change/explanation, and Rule R1 ends a direct question with a question mark.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R1, R39, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly punctuates a direct question, a contraction, and quotation marks for a title?",
+    "question_ta": "Which sentence correctly punctuates a direct question, a contraction, and quotation marks for a title?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Haven't you read the story 'The Last Leaf'?",
+        "text_ta": "Haven't you read the story 'The Last Leaf'?"
+      },
+      {
+        "key": "B",
+        "text_en": "Havent you read the story The Last Leaf?",
+        "text_ta": "Havent you read the story The Last Leaf?"
+      },
+      {
+        "key": "C",
+        "text_en": "Haven't you read the story, 'The Last Leaf'?",
+        "text_ta": "Haven't you read the story, 'The Last Leaf'?"
+      },
+      {
+        "key": "D",
+        "text_en": "Havent you read the story 'The Last Leaf'?",
+        "text_ta": "Havent you read the story 'The Last Leaf'?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R31 uses an apostrophe for the contraction 'Haven't', Rule R15 uses quotation marks for titles of minor works, and Rule R1 ends a direct question with a question mark.",
+    "explanation_ta": "Rule R31 uses an apostrophe for the contraction 'Haven't', Rule R15 uses quotation marks for titles of minor works, and Rule R1 ends a direct question with a question mark.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R1, R15, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a colon before an explanatory clause, an apostrophe for possession, and a full stop.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a colon before an explanatory clause, an apostrophe for possession, and a full stop.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Success requires one essential quality: perseverance.",
+        "text_ta": "Success requires one essential quality: perseverance."
+      },
+      {
+        "key": "B",
+        "text_en": "Success requires one essential quality - perseverance.",
+        "text_ta": "Success requires one essential quality - perseverance."
+      },
+      {
+        "key": "C",
+        "text_en": "Success requires one essential qualitys perseverance.",
+        "text_ta": "Success requires one essential qualitys perseverance."
+      },
+      {
+        "key": "D",
+        "text_en": "Success requires one essential quality: perseverance's.",
+        "text_ta": "Success requires one essential quality: perseverance's."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R19 uses a colon to separate two independent clauses when the second explains the first, and Rule R6/R12 ends a declarative sentence with a full stop.",
+    "explanation_ta": "Rule R19 uses a colon to separate two independent clauses when the second explains the first, and Rule R6/R12 ends a declarative sentence with a full stop.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R6, R12, R19"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the option that properly uses brackets for letters in a list, an exclamation mark, and a contraction.",
+    "question_ta": "Select the option that properly uses brackets for letters in a list, an exclamation mark, and a contraction.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Don't forget to submit (a) your essay, (b) your report!",
+        "text_ta": "Don't forget to submit (a) your essay, (b) your report!"
+      },
+      {
+        "key": "B",
+        "text_en": "Dont forget to submit a) your essay, b) your report!",
+        "text_ta": "Dont forget to submit a) your essay, b) your report!"
+      },
+      {
+        "key": "C",
+        "text_en": "Don't forget to submit [a] your essay, [b] your report.",
+        "text_ta": "Don't forget to submit [a] your essay, [b] your report."
+      },
+      {
+        "key": "D",
+        "text_en": "Don't forget to submit (a) your essay; (b) your report.",
+        "text_ta": "Don't forget to submit (a) your essay; (b) your report."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R17 uses brackets to enclose letters in lists, Rule R31 uses an apostrophe for 'Don't', and Rule R9 uses an exclamation mark for an exciting/strong sentence.",
+    "explanation_ta": "Rule R17 uses brackets to enclose letters in lists, Rule R31 uses an apostrophe for 'Don't', and Rule R9 uses an exclamation mark for an exciting/strong sentence.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R9, R17, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly punctuates a direct speech dialogue, a dash for an abrupt pause, and a question mark?",
+    "question_ta": "Which sentence correctly punctuates a direct speech dialogue, a dash for an abrupt pause, and a question mark?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She asked, 'Will you—can you help me?'",
+        "text_ta": "She asked, 'Will you—can you help me?'"
+      },
+      {
+        "key": "B",
+        "text_en": "She asked 'Will you, can you help me?'",
+        "text_ta": "She asked 'Will you, can you help me?'"
+      },
+      {
+        "key": "C",
+        "text_en": "She asked, 'Will you—can you help me.'",
+        "text_ta": "She asked, 'Will you—can you help me.'"
+      },
+      {
+        "key": "D",
+        "text_en": "She asked: 'Will you—can you help me?'",
+        "text_ta": "She asked: 'Will you—can you help me?'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13 encloses direct speech in quotation marks, Rule R11/R44 uses a dash to show hesitation/abrupt stop, and Rule R1 ends a direct question with a question mark.",
+    "explanation_ta": "Rule R13 encloses direct speech in quotation marks, Rule R11/R44 uses a dash to show hesitation/abrupt stop, and Rule R1 ends a direct question with a question mark.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R1, R11, R13, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring quotation marks for a poem title, possessive apostrophe, and full stop.",
+    "question_ta": "Choose the correctly punctuated sentence featuring quotation marks for a poem title, possessive apostrophe, and full stop.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We studied Keats's poem 'Ode on a Grecian Urn'.",
+        "text_ta": "We studied Keats's poem 'Ode on a Grecian Urn'."
+      },
+      {
+        "key": "B",
+        "text_en": "We studied Keats' poem 'Ode on a Grecian Urn.'",
+        "text_ta": "We studied Keats' poem 'Ode on a Grecian Urn.'"
+      },
+      {
+        "key": "C",
+        "text_en": "We studied Keats's poem Ode on a Grecian Urn.",
+        "text_ta": "We studied Keats's poem Ode on a Grecian Urn."
+      },
+      {
+        "key": "D",
+        "text_en": "We studied Keatss poem 'Ode on a Grecian Urn'.",
+        "text_ta": "We studied Keatss poem 'Ode on a Grecian Urn'."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R36 places an apostrophe before 's' for singular possessive nouns ('Keats's'), Rule R15 uses quotation marks for minor works/poems, and Rule R6/R12 ends the declarative sentence with a full stop.",
+    "explanation_ta": "Rule R36 places an apostrophe before 's' for singular possessive nouns ('Keats's'), Rule R15 uses quotation marks for minor works/poems, and Rule R6/R12 ends the declarative sentence with a full stop.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R6, R12, R15, R36"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the option that properly uses brackets for time zones/details, a contraction apostrophe, and a full stop.",
+    "question_ta": "Select the option that properly uses brackets for time zones/details, a contraction apostrophe, and a full stop.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The webinar starts at 10:00 a.m. (IST) and it's mandatory.",
+        "text_ta": "The webinar starts at 10:00 a.m. (IST) and it's mandatory."
+      },
+      {
+        "key": "B",
+        "text_en": "The webinar starts at 10:00 a.m. IST and its mandatory.",
+        "text_ta": "The webinar starts at 10:00 a.m. IST and its mandatory."
+      },
+      {
+        "key": "C",
+        "text_en": "The webinar starts at 10:00 a.m. [IST] and it's mandatory.",
+        "text_ta": "The webinar starts at 10:00 a.m. [IST] and it's mandatory."
+      },
+      {
+        "key": "D",
+        "text_en": "The webinar starts at 10:00 a.m. (IST) and its mandatory.",
+        "text_ta": "The webinar starts at 10:00 a.m. (IST) and its mandatory."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R17 uses brackets to enclose time zones/abbreviations, Rule R31 uses an apostrophe in 'it's', and Rule R6/R12 ends a declarative sentence with a full stop.",
+    "explanation_ta": "Rule R17 uses brackets to enclose time zones/abbreviations, Rule R31 uses an apostrophe in 'it's', and Rule R6/R12 ends a declarative sentence with a full stop.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R6, R12, R17, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly combines a colon to introduce a list, quotation marks for terms, and a hyphen?",
+    "question_ta": "Which sentence correctly combines a colon to introduce a list, quotation marks for terms, and a hyphen?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Please review the following 'key' terms: self-discipline, honesty, and focus.",
+        "text_ta": "Please review the following 'key' terms: self-discipline, honesty, and focus."
+      },
+      {
+        "key": "B",
+        "text_en": "Please review the following key terms: self discipline, honesty, and focus.",
+        "text_ta": "Please review the following key terms: self discipline, honesty, and focus."
+      },
+      {
+        "key": "C",
+        "text_en": "Please review the following 'key' terms, self-discipline, honesty and focus.",
+        "text_ta": "Please review the following 'key' terms, self-discipline, honesty and focus."
+      },
+      {
+        "key": "D",
+        "text_en": "Please review the following 'key' terms - self-discipline, honesty, and focus.",
+        "text_ta": "Please review the following 'key' terms - self-discipline, honesty, and focus."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R39 uses quotation marks for special sense/terms, Rule R40 uses a colon before a list, and Rule R25 uses a hyphen with prefixes like self- or compound adjectives.",
+    "explanation_ta": "Rule R39 uses quotation marks for special sense/terms, Rule R40 uses a colon before a list, and Rule R25 uses a hyphen with prefixes like self- or compound adjectives.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R25, R39, R40"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a dash for emphasis, quotation marks for speech, and an exclamation mark.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a dash for emphasis, quotation marks for speech, and an exclamation mark.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He shouted—'Victory is ours!'",
+        "text_ta": "He shouted—'Victory is ours!'"
+      },
+      {
+        "key": "B",
+        "text_en": "He shouted, 'Victory is ours.'",
+        "text_ta": "He shouted, 'Victory is ours.'"
+      },
+      {
+        "key": "C",
+        "text_en": "He shouted - Victory is ours!",
+        "text_ta": "He shouted - Victory is ours!"
+      },
+      {
+        "key": "D",
+        "text_en": "He shouted: 'Victory is ours!'",
+        "text_ta": "He shouted: 'Victory is ours!'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R44 uses a dash to emphasize info, Rule R13 encloses exact words in quotation marks, and Rule R9 uses an exclamation mark for strong feelings/exclamatory sentences.",
+    "explanation_ta": "Rule R44 uses a dash to emphasize info, Rule R13 encloses exact words in quotation marks, and Rule R9 uses an exclamation mark for strong feelings/exclamatory sentences.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "punctuation",
+    "source_note": "R9, R13, R44"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly punctuated sentence containing an introductory phrase, a series, and proper capitalization.",
+    "question_ta": "Identify the correctly punctuated sentence containing an introductory phrase, a series, and proper capitalization.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "In the morning we need bread butter and jam for breakfast.",
+        "text_ta": "In the morning we need bread butter and jam for breakfast."
+      },
+      {
+        "key": "B",
+        "text_en": "In the morning, we need bread, butter, and jam for breakfast.",
+        "text_ta": "In the morning, we need bread, butter, and jam for breakfast."
+      },
+      {
+        "key": "C",
+        "text_en": "In the morning we need, bread butter and jam for breakfast.",
+        "text_ta": "In the morning we need, bread butter and jam for breakfast."
+      },
+      {
+        "key": "D",
+        "text_en": "In the morning, we need bread butter and jam, for breakfast.",
+        "text_ta": "In the morning, we need bread butter and jam, for breakfast."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma is used after the introductory phrase 'In the morning' and to separate items in a series. Rule: R22, R26.",
+    "explanation_ta": "A comma is used after the introductory phrase 'In the morning' and to separate items in a series. Rule: R22, R26.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R22, R26"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a direct address and a question mark.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a direct address and a question mark.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ravi are you coming to the library?",
+        "text_ta": "Ravi are you coming to the library?"
+      },
+      {
+        "key": "B",
+        "text_en": "Ravi, are you coming to the library?",
+        "text_ta": "Ravi, are you coming to the library?"
+      },
+      {
+        "key": "C",
+        "text_en": "Ravi are you coming to the library.",
+        "text_ta": "Ravi are you coming to the library."
+      },
+      {
+        "key": "D",
+        "text_en": "Ravi, are you coming to the library.",
+        "text_ta": "Ravi, are you coming to the library."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma is used when addressing a person directly, and a question mark is used at the end of a direct question. Rule: R5, R26, R31.",
+    "explanation_ta": "A comma is used when addressing a person directly, and a question mark is used at the end of a direct question. Rule: R5, R26, R31.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R5, R26, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the option that correctly punctuates possession, contraction, and direct speech.",
+    "question_ta": "Identify the option that correctly punctuates possession, contraction, and direct speech.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Geetha said I cant find Kumars pen",
+        "text_ta": "Geetha said I cant find Kumars pen"
+      },
+      {
+        "key": "B",
+        "text_en": "Geetha said, \"I can't find Kumar's pen.\"",
+        "text_ta": "Geetha said, \"I can't find Kumar's pen.\""
+      },
+      {
+        "key": "C",
+        "text_en": "Geetha said \"I cant find Kumars pen\"",
+        "text_ta": "Geetha said \"I cant find Kumars pen\""
+      },
+      {
+        "key": "D",
+        "text_en": "Geetha said, I cant find Kumar's pen.",
+        "text_ta": "Geetha said, I cant find Kumar's pen."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Quotation marks enclose direct speech, an apostrophe indicates a contraction (can't) and possession (Kumar's). Rule: R9, R25, R40.",
+    "explanation_ta": "Quotation marks enclose direct speech, an apostrophe indicates a contraction (can't) and possession (Kumar's). Rule: R9, R25, R40.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R9, R25, R40"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring an exclamation mark and an interjection.",
+    "question_ta": "Choose the correctly punctuated sentence featuring an exclamation mark and an interjection.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hurrah We won the match!",
+        "text_ta": "Hurrah We won the match!"
+      },
+      {
+        "key": "B",
+        "text_en": "Hurrah, We won the match.",
+        "text_ta": "Hurrah, We won the match."
+      },
+      {
+        "key": "C",
+        "text_en": "Hurrah! We won the match!",
+        "text_ta": "Hurrah! We won the match!"
+      },
+      {
+        "key": "D",
+        "text_en": "Hurrah; We won the match!",
+        "text_ta": "Hurrah; We won the match!"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "An exclamation mark is used after interjections and after sentences expressing sudden emotion or excitement. Rule: R1, R3, R27.",
+    "explanation_ta": "An exclamation mark is used after interjections and after sentences expressing sudden emotion or excitement. Rule: R1, R3, R27.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R1, R3, R27"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that uses a hyphen correctly for compound numbers and compound adjectives.",
+    "question_ta": "Select the sentence that uses a hyphen correctly for compound numbers and compound adjectives.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She bought twenty five half boiled eggs.",
+        "text_ta": "She bought twenty five half boiled eggs."
+      },
+      {
+        "key": "B",
+        "text_en": "She bought twenty-five half-boiled eggs.",
+        "text_ta": "She bought twenty-five half-boiled eggs."
+      },
+      {
+        "key": "C",
+        "text_en": "She bought twenty five half-boiled eggs.",
+        "text_ta": "She bought twenty five half-boiled eggs."
+      },
+      {
+        "key": "D",
+        "text_en": "She bought twenty-five half boiled eggs.",
+        "text_ta": "She bought twenty-five half boiled eggs."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hyphens are used for numbers twenty-one to ninety-nine and in compound adjectives before nouns. Rule: R2, R8.",
+    "explanation_ta": "Hyphens are used for numbers twenty-one to ninety-nine and in compound adjectives before nouns. Rule: R2, R8.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R2, R8"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the option that correctly uses brackets for abbreviations and a list of items.",
+    "question_ta": "Identify the option that correctly uses brackets for abbreviations and a list of items.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bring the following items a pen b notebook c ruler.",
+        "text_ta": "Bring the following items a pen b notebook c ruler."
+      },
+      {
+        "key": "B",
+        "text_en": "Bring the following items: (a) pen, (b) notebook, (c) ruler.",
+        "text_ta": "Bring the following items: (a) pen, (b) notebook, (c) ruler."
+      },
+      {
+        "key": "C",
+        "text_en": "Bring the following items (a) pen (b) notebook (c) ruler.",
+        "text_ta": "Bring the following items (a) pen (b) notebook (c) ruler."
+      },
+      {
+        "key": "D",
+        "text_en": "Bring the following items: a pen, b notebook, c ruler.",
+        "text_ta": "Bring the following items: a pen, b notebook, c ruler."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon introduces the list, and brackets enclose letters in lists according to punctuation rules. Rule: R12, R13.",
+    "explanation_ta": "A colon introduces the list, and brackets enclose letters in lists according to punctuation rules. Rule: R12, R13.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R12, R13"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring quotation marks for a minor work or poem title.",
+    "question_ta": "Choose the correctly punctuated sentence featuring quotation marks for a minor work or poem title.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We read the poem Stopping by Woods on a Snowy Evening.",
+        "text_ta": "We read the poem Stopping by Woods on a Snowy Evening."
+      },
+      {
+        "key": "B",
+        "text_en": "We read the poem \"Stopping by Woods on a Snowy Evening\".",
+        "text_ta": "We read the poem \"Stopping by Woods on a Snowy Evening\"."
+      },
+      {
+        "key": "C",
+        "text_en": "We read the poem -Stopping by Woods on a Snowy Evening-.",
+        "text_ta": "We read the poem -Stopping by Woods on a Snowy Evening-."
+      },
+      {
+        "key": "D",
+        "text_en": "We read the poem; Stopping by Woods on a Snowy Evening.",
+        "text_ta": "We read the poem; Stopping by Woods on a Snowy Evening."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Quotation marks are used with titles of minor works, poems, and parts of a whole. Rule: R39.",
+    "explanation_ta": "Quotation marks are used with titles of minor works, poems, and parts of a whole. Rule: R39.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R39"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the option that properly uses a dash for an abrupt thought change or hesitation.",
+    "question_ta": "Select the option that properly uses a dash for an abrupt thought change or hesitation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "I was thinking we could go to the park, no let's stay home.",
+        "text_ta": "I was thinking we could go to the park, no let's stay home."
+      },
+      {
+        "key": "B",
+        "text_en": "I was thinking we could go to the park - no, let's stay home.",
+        "text_ta": "I was thinking we could go to the park - no, let's stay home."
+      },
+      {
+        "key": "C",
+        "text_en": "I was thinking we could go to the park, no, let's stay home.",
+        "text_ta": "I was thinking we could go to the park, no, let's stay home."
+      },
+      {
+        "key": "D",
+        "text_en": "I was thinking we could go to the park: no let's stay home.",
+        "text_ta": "I was thinking we could go to the park: no let's stay home."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A dash is used to make an abrupt stop or show a change of thought/hesitation. Rule: R21, R38.",
+    "explanation_ta": "A dash is used to make an abrupt stop or show a change of thought/hesitation. Rule: R21, R38.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R21, R38"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly punctuated sentence using an apostrophe for plural possession.",
+    "question_ta": "Identify the correctly punctuated sentence using an apostrophe for plural possession.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The girls hostel is located near the college.",
+        "text_ta": "The girls hostel is located near the college."
+      },
+      {
+        "key": "B",
+        "text_en": "The girls' hostel is located near the college.",
+        "text_ta": "The girls' hostel is located near the college."
+      },
+      {
+        "key": "C",
+        "text_en": "The girl's hostel is located near the college.",
+        "text_ta": "The girl's hostel is located near the college."
+      },
+      {
+        "key": "D",
+        "text_en": "The girls's hostel is located near the college.",
+        "text_ta": "The girls's hostel is located near the college."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use an apostrophe after 's' if the plural noun already ends in 's' when showing possession. Rule: R9.",
+    "explanation_ta": "Use an apostrophe after 's' if the plural noun already ends in 's' when showing possession. Rule: R9.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R9"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly uses quotation marks for ironic or special sense usage.",
+    "question_ta": "Choose the option that correctly uses quotation marks for ironic or special sense usage.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He is a great scholar who cannot spell his own name.",
+        "text_ta": "He is a great scholar who cannot spell his own name."
+      },
+      {
+        "key": "B",
+        "text_en": "He is a \"great\" scholar who cannot spell his own name.",
+        "text_ta": "He is a \"great\" scholar who cannot spell his own name."
+      },
+      {
+        "key": "C",
+        "text_en": "He is a great \"scholar\" who cannot spell his own name.",
+        "text_ta": "He is a great \"scholar\" who cannot spell his own name."
+      },
+      {
+        "key": "D",
+        "text_en": "He is a 'great' scholar who cannot spell his own name.",
+        "text_ta": "He is a 'great' scholar who cannot spell his own name."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Quotation marks are used around words to indicate irony, misuse, or a special sense. Rule: R19.",
+    "explanation_ta": "Quotation marks are used around words to indicate irony, misuse, or a special sense. Rule: R19.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R19"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that correctly applies a colon before an explanatory independent clause.",
+    "question_ta": "Select the sentence that correctly applies a colon before an explanatory independent clause.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Success is simple do what's right, the right way, at the right time.",
+        "text_ta": "Success is simple do what's right, the right way, at the right time."
+      },
+      {
+        "key": "B",
+        "text_en": "Success is simple: do what's right, the right way, at the right time.",
+        "text_ta": "Success is simple: do what's right, the right way, at the right time."
+      },
+      {
+        "key": "C",
+        "text_en": "Success is simple; do what's right, the right way, at the right time.",
+        "text_ta": "Success is simple; do what's right, the right way, at the right time."
+      },
+      {
+        "key": "D",
+        "text_en": "Success is simple, do what's right, the right way, at the right time.",
+        "text_ta": "Success is simple, do what's right, the right way, at the right time."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A colon is used to separate two independent clauses when the second explains the first. Rule: R15.",
+    "explanation_ta": "A colon is used to separate two independent clauses when the second explains the first. Rule: R15.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R15"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the option with correct capitalization, comma pause, and semicolon linkage.",
+    "question_ta": "Identify the option with correct capitalization, comma pause, and semicolon linkage.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "delhi is the capital of india; it is a historic city.",
+        "text_ta": "delhi is the capital of india; it is a historic city."
+      },
+      {
+        "key": "B",
+        "text_en": "Delhi is the capital of India, it is a historic city.",
+        "text_ta": "Delhi is the capital of India, it is a historic city."
+      },
+      {
+        "key": "C",
+        "text_en": "Delhi is the capital of India; it is a historic city.",
+        "text_ta": "Delhi is the capital of India; it is a historic city."
+      },
+      {
+        "key": "D",
+        "text_en": "delhi is the capital of India; It is a historic city.",
+        "text_ta": "delhi is the capital of India; It is a historic city."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Proper nouns (Delhi, India) are capitalized, sentences begin with capitals, and a semicolon links closely related clauses. Rule: R6, R16, R17.",
+    "explanation_ta": "Proper nouns (Delhi, India) are capitalized, sentences begin with capitals, and a semicolon links closely related clauses. Rule: R6, R16, R17.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R6, R16, R17"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a question tag and proper end punctuation.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a question tag and proper end punctuation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "You are coming to the party aren't you?",
+        "text_ta": "You are coming to the party aren't you?"
+      },
+      {
+        "key": "B",
+        "text_en": "You are coming to the party, aren't you.",
+        "text_ta": "You are coming to the party, aren't you."
+      },
+      {
+        "key": "C",
+        "text_en": "You are coming to the party, aren't you?",
+        "text_ta": "You are coming to the party, aren't you?"
+      },
+      {
+        "key": "D",
+        "text_en": "You are coming to the party aren't you.",
+        "text_ta": "You are coming to the party aren't you."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A comma is used before a question tag, and a question mark is placed at the end. Rule: R26, R31.",
+    "explanation_ta": "A comma is used before a question tag, and a question mark is placed at the end. Rule: R26, R31.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R26, R31"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that properly uses parentheses for supplementary details.",
+    "question_ta": "Select the sentence that properly uses parentheses for supplementary details.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dr. APJ Abdul Kalam the former President was a visionary.",
+        "text_ta": "Dr. APJ Abdul Kalam the former President was a visionary."
+      },
+      {
+        "key": "B",
+        "text_en": "Dr. APJ Abdul Kalam (the former President) was a visionary.",
+        "text_ta": "Dr. APJ Abdul Kalam (the former President) was a visionary."
+      },
+      {
+        "key": "C",
+        "text_en": "Dr. APJ Abdul Kalam -the former President- was a visionary.",
+        "text_ta": "Dr. APJ Abdul Kalam -the former President- was a visionary."
+      },
+      {
+        "key": "D",
+        "text_en": "Dr. APJ Abdul Kalam, the former President, was a visionary.",
+        "text_ta": "Dr. APJ Abdul Kalam, the former President, was a visionary."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Brackets/parentheses are used to enclose words or figures so as to separate them from the context. Rule: R11.",
+    "explanation_ta": "Brackets/parentheses are used to enclose words or figures so as to separate them from the context. Rule: R11.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which sentence correctly punctuates abbreviations and initials with full stops?",
+    "question_ta": "Which sentence correctly punctuates abbreviations and initials with full stops?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mr K R Raman completed his M Sc degree.",
+        "text_ta": "Mr K R Raman completed his M Sc degree."
+      },
+      {
+        "key": "B",
+        "text_en": "Mr. K. R. Raman completed his M.Sc. degree.",
+        "text_ta": "Mr. K. R. Raman completed his M.Sc. degree."
+      },
+      {
+        "key": "C",
+        "text_en": "Mr K R Raman completed his M Sc. degree.",
+        "text_ta": "Mr K R Raman completed his M Sc. degree."
+      },
+      {
+        "key": "D",
+        "text_en": "Mr. K. R Raman completed his M.Sc degree.",
+        "text_ta": "Mr. K. R Raman completed his M.Sc degree."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A full stop is used to mark abbreviations, titles, and initials. Rule: R30.",
+    "explanation_ta": "A full stop is used to mark abbreviations, titles, and initials. Rule: R30.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R30"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly applies a slash for alternatives and fractions.",
+    "question_ta": "Choose the option that correctly applies a slash for alternatives and fractions.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Please submit cash or cheque by Friday.",
+        "text_ta": "Please submit cash or cheque by Friday."
+      },
+      {
+        "key": "B",
+        "text_en": "Please submit cash/cheque by Friday.",
+        "text_ta": "Please submit cash/cheque by Friday."
+      },
+      {
+        "key": "C",
+        "text_en": "Please submit cash-cheque by Friday.",
+        "text_ta": "Please submit cash-cheque by Friday."
+      },
+      {
+        "key": "D",
+        "text_en": "Please submit cash;cheque by Friday.",
+        "text_ta": "Please submit cash;cheque by Friday."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use slash/oblique stroke for alternatives, fractions, and line divisions in poetry. Rule: R14.",
+    "explanation_ta": "Use slash/oblique stroke for alternatives, fractions, and line divisions in poetry. Rule: R14.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R14"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the option that properly uses quotation marks for direct speech and a comma.",
+    "question_ta": "Select the option that properly uses quotation marks for direct speech and a comma.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She whispered Be careful on the stairs.",
+        "text_ta": "She whispered Be careful on the stairs."
+      },
+      {
+        "key": "B",
+        "text_en": "She whispered, \"Be careful on the stairs.\"",
+        "text_ta": "She whispered, \"Be careful on the stairs.\""
+      },
+      {
+        "key": "C",
+        "text_en": "She whispered \"Be careful on the stairs\"",
+        "text_ta": "She whispered \"Be careful on the stairs\""
+      },
+      {
+        "key": "D",
+        "text_en": "She whispered, Be careful on the stairs.",
+        "text_ta": "She whispered, Be careful on the stairs."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Inverted commas are used to enclose the exact words of a speaker, preceded by a comma. Rule: R23, R40.",
+    "explanation_ta": "Inverted commas are used to enclose the exact words of a speaker, preceded by a comma. Rule: R23, R40.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R23, R40"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the correctly punctuated sentence containing an introductory adverb and a full stop.",
+    "question_ta": "Identify the correctly punctuated sentence containing an introductory adverb and a full stop.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "However we must finish the project today.",
+        "text_ta": "However we must finish the project today."
+      },
+      {
+        "key": "B",
+        "text_en": "However, we must finish the project today.",
+        "text_ta": "However, we must finish the project today."
+      },
+      {
+        "key": "C",
+        "text_en": "However; we must finish the project today.",
+        "text_ta": "However; we must finish the project today."
+      },
+      {
+        "key": "D",
+        "text_en": "However: we must finish the project today.",
+        "text_ta": "However: we must finish the project today."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A comma indicates a brief pause after introductory phrases/words, and a full stop ends a declarative sentence. Rule: R26, R42.",
+    "explanation_ta": "A comma indicates a brief pause after introductory phrases/words, and a full stop ends a declarative sentence. Rule: R26, R42.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R26, R42"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly punctuates a sentence with a date and location.",
+    "question_ta": "Choose the option that correctly punctuates a sentence with a date and location.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The meeting was held on 15 August 1947 in Chennai India.",
+        "text_ta": "The meeting was held on 15 August 1947 in Chennai India."
+      },
+      {
+        "key": "B",
+        "text_en": "The meeting was held on 15th August 1947 in Chennai, India.",
+        "text_ta": "The meeting was held on 15th August 1947 in Chennai, India."
+      },
+      {
+        "key": "C",
+        "text_en": "The meeting was held on 15th August, 1947, in Chennai, India.",
+        "text_ta": "The meeting was held on 15th August, 1947, in Chennai, India."
+      },
+      {
+        "key": "D",
+        "text_en": "The meeting was held on 15 August, 1947 in Chennai India.",
+        "text_ta": "The meeting was held on 15 August, 1947 in Chennai India."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Commas are used to separate date elements and location elements according to punctuation standards. Rule: R45.",
+    "explanation_ta": "Commas are used to separate date elements and location elements according to punctuation standards. Rule: R45.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R45"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that correctly employs a hyphen with prefixes like 'ex-'.",
+    "question_ta": "Select the sentence that correctly employs a hyphen with prefixes like 'ex-'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He is an ex minister and a self made man.",
+        "text_ta": "He is an ex minister and a self made man."
+      },
+      {
+        "key": "B",
+        "text_en": "He is an ex-minister and a self-made man.",
+        "text_ta": "He is an ex-minister and a self-made man."
+      },
+      {
+        "key": "C",
+        "text_en": "He is an ex minister and a selfmade man.",
+        "text_ta": "He is an ex minister and a selfmade man."
+      },
+      {
+        "key": "D",
+        "text_en": "He is an ex-minister and a self made man.",
+        "text_ta": "He is an ex-minister and a self made man."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use hyphens with prefixes like ex-, self-, all-, and in compound adjectives before nouns. Rule: R8.",
+    "explanation_ta": "Use hyphens with prefixes like ex-, self-, all-, and in compound adjectives before nouns. Rule: R8.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R8"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the option with correct capitalization for proper nouns, months, and days.",
+    "question_ta": "Identify the option with correct capitalization for proper nouns, months, and days.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "my birthday is on tuesday, 5th july, in madurai.",
+        "text_ta": "my birthday is on tuesday, 5th july, in madurai."
+      },
+      {
+        "key": "B",
+        "text_en": "My birthday is on Tuesday, 5th July, in Madurai.",
+        "text_ta": "My birthday is on Tuesday, 5th July, in Madurai."
+      },
+      {
+        "key": "C",
+        "text_en": "My Birthday is on tuesday, 5th july, In Madurai.",
+        "text_ta": "My Birthday is on tuesday, 5th july, In Madurai."
+      },
+      {
+        "key": "D",
+        "text_en": "my Birthday is on Tuesday, 5th july, in Madurai.",
+        "text_ta": "my Birthday is on Tuesday, 5th july, in Madurai."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Capitalize the first letter of a sentence, days of the week, months, and proper nouns (Madurai). Rule: R6, R16.",
+    "explanation_ta": "Capitalize the first letter of a sentence, days of the week, months, and proper nouns (Madurai). Rule: R6, R16.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R6, R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence featuring a contraction and an apostrophe for omission.",
+    "question_ta": "Choose the correctly punctuated sentence featuring a contraction and an apostrophe for omission.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Its a pleasure to meet you in '99.",
+        "text_ta": "Its a pleasure to meet you in '99."
+      },
+      {
+        "key": "B",
+        "text_en": "It's a pleasure to meet you in '99.",
+        "text_ta": "It's a pleasure to meet you in '99."
+      },
+      {
+        "key": "C",
+        "text_en": "Its a pleasure to meet you in 99.",
+        "text_ta": "Its a pleasure to meet you in 99."
+      },
+      {
+        "key": "D",
+        "text_en": "It's a pleasure to meet you in 99.",
+        "text_ta": "It's a pleasure to meet you in 99."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An apostrophe is used in contracted forms (It's) and in place of omitted letters or numbers ('99). Rule: R10, R25.",
+    "explanation_ta": "An apostrophe is used in contracted forms (It's) and in place of omitted letters or numbers ('99). Rule: R10, R25.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R10, R25"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the sentence that properly uses a colon before a direct quote.",
+    "question_ta": "Select the sentence that properly uses a colon before a direct quote.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The teacher stated, \"Practice makes perfect.\"",
+        "text_ta": "The teacher stated, \"Practice makes perfect.\""
+      },
+      {
+        "key": "B",
+        "text_en": "The teacher stated: \"Practice makes perfect.\"",
+        "text_ta": "The teacher stated: \"Practice makes perfect.\""
+      },
+      {
+        "key": "C",
+        "text_en": "The teacher stated; \"Practice makes perfect.\"",
+        "text_ta": "The teacher stated; \"Practice makes perfect.\""
+      },
+      {
+        "key": "D",
+        "text_en": "The teacher stated - \"Practice makes perfect.\"",
+        "text_ta": "The teacher stated - \"Practice makes perfect.\""
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use a colon before a quotation and sometimes before direct speech when introduced formally. Rule: R34.",
+    "explanation_ta": "Use a colon before a quotation and sometimes before direct speech when introduced formally. Rule: R34.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R34"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the option with correct semicolon usage between complex items containing commas.",
+    "question_ta": "Identify the option with correct semicolon usage between complex items containing commas.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We visited Chennai, India; Paris, France; and Tokyo, Japan.",
+        "text_ta": "We visited Chennai, India; Paris, France; and Tokyo, Japan."
+      },
+      {
+        "key": "B",
+        "text_en": "We visited Chennai, India, Paris, France, and Tokyo, Japan.",
+        "text_ta": "We visited Chennai, India, Paris, France, and Tokyo, Japan."
+      },
+      {
+        "key": "C",
+        "text_en": "We visited Chennai, India: Paris, France: and Tokyo, Japan.",
+        "text_ta": "We visited Chennai, India: Paris, France: and Tokyo, Japan."
+      },
+      {
+        "key": "D",
+        "text_en": "We visited Chennai India; Paris France; and Tokyo Japan.",
+        "text_ta": "We visited Chennai India; Paris France; and Tokyo Japan."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Semicolons are used to separate items in a series when the items themselves contain commas. Rule: R17, R33.",
+    "explanation_ta": "Semicolons are used to separate items in a series when the items themselves contain commas. Rule: R17, R33.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R17, R33"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Punctuation",
+    "topic": "Punctuation",
+    "topic_id": "punctuation",
+    "topic_ta": "Punctuation",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correctly punctuated sentence combining an exclamation mark, a contraction, and a dash.",
+    "question_ta": "Choose the correctly punctuated sentence combining an exclamation mark, a contraction, and a dash.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Look out - she's falling!",
+        "text_ta": "Look out - she's falling!"
+      },
+      {
+        "key": "B",
+        "text_en": "Look out, shes falling!",
+        "text_ta": "Look out, shes falling!"
+      },
+      {
+        "key": "C",
+        "text_en": "Look out! she's falling.",
+        "text_ta": "Look out! she's falling."
+      },
+      {
+        "key": "D",
+        "text_en": "Look out; shes falling!",
+        "text_ta": "Look out; shes falling!"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A dash is used to emphasize sudden info/tone change, an exclamation mark shows strong feeling, and an apostrophe forms the contraction 'she's'. Rule: R3, R21, R25.",
+    "explanation_ta": "A dash is used to emphasize sudden info/tone change, an exclamation mark shows strong feeling, and an apostrophe forms the contraction 'she's'. Rule: R3, R21, R25.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "punctuation",
+    "source_note": "Rule R3, R21, R25"
+  }
+]

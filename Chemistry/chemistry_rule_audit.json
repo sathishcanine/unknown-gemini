@@ -1,0 +1,2805 @@
+{
+  "total_questions": 1018,
+  "flagged_unique": 95,
+  "by_kind": {
+    "duplicate_options": 10,
+    "statements_missing": 2,
+    "stem_too_short": 18,
+    "match_missing_lists": 58,
+    "stem_incomplete_end": 2,
+    "figure_required_no_image": 6
+  },
+  "by_topic": {
+    "11th Chemistry - Book back Questions": 15,
+    "12th Chemistry - Book back Questions": 17,
+    "Acids, Bases, and Salts": 22,
+    "Elements and Compounds, Periodic Classification of Elements": 17,
+    "Petroleum Products, Fertilizers, Pesticides": 25
+  },
+  "issues": [
+    {
+      "id": 5831,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['Zeeman effect', 'Stark effect', 'Compton effect', 'Stark effect']",
+      "stem": "The phenomenon of splitting of spectral lines in an electric field is",
+      "opts": [
+        [
+          "A",
+          "Zeeman effect"
+        ],
+        [
+          "B",
+          "Stark effect"
+        ],
+        [
+          "C",
+          "Compton effect"
+        ],
+        [
+          "D",
+          "Stark effect"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5839,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['(\\\\sqrt{2}h)/(2\\\\pi)', '(\\\\sqrt{2}h)/(2\\\\pi)', '(\\\\sqrt{2\\\\times 4}h)/(2\\\\pi)', '(\\\\sqrt{6}h)/(2\\\\pi)']",
+      "stem": "The orbital angular momentum value for a d-electron is",
+      "opts": [
+        [
+          "A",
+          "(\\sqrt{2}h)/(2\\pi)"
+        ],
+        [
+          "B",
+          "(\\sqrt{2}h)/(2\\pi)"
+        ],
+        [
+          "C",
+          "(\\sqrt{2\\times 4}h)/(2\\pi)"
+        ],
+        [
+          "D",
+          "(\\sqrt{6}h)/(2\\pi)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5844,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "detail": "following_without_body",
+      "stem": "Consider the following sets of quantum numbers. Which of the following set of quantum numbers is not possible?",
+      "opts": [
+        [
+          "A",
+          "(i), (ii), (iii) and (iv)"
+        ],
+        [
+          "B",
+          "(ii), (iv) and (v)"
+        ],
+        [
+          "C",
+          "(i) and (iii)"
+        ],
+        [
+          "D",
+          "(ii), (iii) and (iv)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5866,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Water gas is",
+      "opts": [
+        [
+          "A",
+          "H2O(g)"
+        ],
+        [
+          "B",
+          "CO+H2O"
+        ],
+        [
+          "C",
+          "CO+H2"
+        ],
+        [
+          "D",
+          "CO+N2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5884,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Water is",
+      "opts": [
+        [
+          "A",
+          "basic oxide"
+        ],
+        [
+          "B",
+          "acidic oxide"
+        ],
+        [
+          "C",
+          "amphoteric oxide"
+        ],
+        [
+          "D",
+          "none of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5898,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "RbO2 compound is a",
+      "opts": [
+        [
+          "A",
+          "Superoxide and possesses paramagnetic character."
+        ],
+        [
+          "B",
+          "Peroxide and possesses diamagnetic character."
+        ],
+        [
+          "C",
+          "Superoxide and possesses diamagnetic character."
+        ],
+        [
+          "D",
+          "Peroxide and possesses paramagnetic character."
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5905,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=False",
+      "stem": "Match the colors imparted by alkali and alkaline earth metal salts in the Bunsen burner flame: (p) Sodium, (q) Calcium, (r) Barium, (s) Strontium, (t) Caesium, (u) Potassium with (",
+      "opts": [
+        [
+          "A",
+          "p-2, q-1, r-4, s-5, t-6, u-3"
+        ],
+        [
+          "B",
+          "p-1, q-2, r-4, s-5, t-6, u-3"
+        ],
+        [
+          "C",
+          "p-4, q-1, r-2, s-3, t-5, u-6"
+        ],
+        [
+          "D",
+          "p-6, q-5, r-4, s-3, t-1, u-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5914,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Formula of gypsum",
+      "opts": [
+        [
+          "A",
+          "CaSO4.2H2O"
+        ],
+        [
+          "B",
+          "CaSO4.1/2H2O"
+        ],
+        [
+          "C",
+          "3CaSO4.H2O"
+        ],
+        [
+          "D",
+          "2CaSO4.2H2O"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5944,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['> 0', '> 0', '< 0', '= 0']",
+      "stem": "Entropy change of the universe in a reversible process is.",
+      "opts": [
+        [
+          "A",
+          "> 0"
+        ],
+        [
+          "B",
+          "> 0"
+        ],
+        [
+          "C",
+          "< 0"
+        ],
+        [
+          "D",
+          "= 0"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5985,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=False",
+      "stem": "Match the equilibria with their corresponding conditions: i) liquid ⇌ gas, ii) solid ⇌ liquid, iii) solid ⇌ gas, iv) solute(s) ⇌ solute(solution). 1. Melting point, 2. Concentrated",
+      "opts": [
+        [
+          "A",
+          "(i)-1, (ii)-2, (iii)-3, (iv)-4"
+        ],
+        [
+          "B",
+          "(i)-3, (ii)-1, (iii)-4, (iv)-2"
+        ],
+        [
+          "C",
+          "(i)-2, (ii)-1, (iii)-3, (iv)-4"
+        ],
+        [
+          "D",
+          "(i)-3, (ii)-2, (iii)-4, (iv)-5"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6042,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['CH3-CH=CH-CH3', 'Other options not shown', 'Other options not shown', 'Other options not shown']",
+      "stem": "Choose the compound that contains only one pi (π) bond.",
+      "opts": [
+        [
+          "A",
+          "CH3-CH=CH-CH3"
+        ],
+        [
+          "B",
+          "Other options not shown"
+        ],
+        [
+          "C",
+          "Other options not shown"
+        ],
+        [
+          "D",
+          "Other options not shown"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6048,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "stem_incomplete_end",
+      "detail": "Choose the incorrect statement from the following",
+      "stem": "Choose the incorrect statement from the following",
+      "opts": [
+        [
+          "A",
+          "sp3 hybridized orbitals are equivalent and they are oriented"
+        ],
+        [
+          "B",
+          "dsp2 hybridized orbitals are equivalent and the angle betwee"
+        ],
+        [
+          "C",
+          "Five sp3d hybridized orbitals are equivalent. Three of these"
+        ],
+        [
+          "D",
+          "None of the above"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6050,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['CnH2n', 'CnH2n-1', 'CnH2n-2', 'CnH2n-2']",
+      "stem": "General formula for alkadiynes is:",
+      "opts": [
+        [
+          "A",
+          "CnH2n"
+        ],
+        [
+          "B",
+          "CnH2n-1"
+        ],
+        [
+          "C",
+          "CnH2n-2"
+        ],
+        [
+          "D",
+          "CnH2n-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6052,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['3-methyl-3-hexanone', 'Other options', 'Other options', 'Other options']",
+      "stem": "Which of the following does not match with its correct name?",
+      "opts": [
+        [
+          "A",
+          "3-methyl-3-hexanone"
+        ],
+        [
+          "B",
+          "Other options"
+        ],
+        [
+          "C",
+          "Other options"
+        ],
+        [
+          "D",
+          "Other options"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6094,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "figure_required_no_image",
+      "detail": "",
+      "stem": "5. In the following reaction, the major product obtained in greater amount is: [reaction diagram shown with methylcyclopentane and Br2/hv]",
+      "opts": [
+        [
+          "A",
+          "Cyclopentylmethyl bromide (CH2-Br attached to ring)"
+        ],
+        [
+          "B",
+          "1-bromo-1-methylcyclopentane"
+        ],
+        [
+          "C",
+          "1-bromo-2-methylcyclopentane"
+        ],
+        [
+          "D",
+          "1-bromo-3-methylcyclopentane"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6164,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "figure_required_no_image",
+      "detail": "",
+      "stem": "Consider the Ellingham diagram. Which of the following metals can be used to reduce alumina?",
+      "opts": [
+        [
+          "A",
+          "Fe"
+        ],
+        [
+          "B",
+          "Cu"
+        ],
+        [
+          "C",
+          "Mg"
+        ],
+        [
+          "D",
+          "Zn"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6169,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "figure_required_no_image",
+      "detail": "",
+      "stem": "Which of the following graphs represents the Ellingham diagram?",
+      "opts": [
+        [
+          "A",
+          "ΔS Vs T"
+        ],
+        [
+          "B",
+          "ΔG° Vs T"
+        ],
+        [
+          "C",
+          "ΔG° Vs 1/T"
+        ],
+        [
+          "D",
+          "ΔG° Vs T²"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6170,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "figure_required_no_image",
+      "detail": "",
+      "stem": "In the Ellingham diagram, for the formation of carbon monoxide:",
+      "opts": [
+        [
+          "A",
+          "(ΔS° / ΔT) is negative"
+        ],
+        [
+          "B",
+          "(ΔG° / ΔT) is positive"
+        ],
+        [
+          "C",
+          "(ΔG° / ΔT) is negative"
+        ],
+        [
+          "D",
+          "Initially (ΔT / ΔG°) is positive and above 700°C (ΔG° / ΔT) "
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6172,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "figure_required_no_image",
+      "detail": "",
+      "stem": "Regarding the Ellingham diagram, which of the following statements is incorrect?",
+      "opts": [
+        [
+          "A",
+          "The Gibbs free energy change is in a straight line. Deviatio"
+        ],
+        [
+          "B",
+          "The graph for the formation of CO2 is almost parallel to the"
+        ],
+        [
+          "C",
+          "CO has a negative slope value. Therefore, as temperature inc"
+        ],
+        [
+          "D",
+          "The positive slope value of metal oxides indicates that thei"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6187,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['A-2, B-1, C-4, D-3', 'A-1, B-2, C-4, D-3', 'A-1, B-2, C-4, D-3', 'None of these']",
+      "stem": "Match Column-I with Column-II and select the correct answer.",
+      "opts": [
+        [
+          "A",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "B",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "D",
+          "None of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6187,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=False pair_opts=True",
+      "stem": "Match Column-I with Column-II and select the correct answer.",
+      "opts": [
+        [
+          "A",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "B",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "D",
+          "None of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6218,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['Europium has +2 oxidation state.', 'Europium has +2 oxidation state.', 'Europium has +2 oxidation state.', 'Europium h",
+      "stem": "Which of the following statements regarding lanthanides is incorrect?",
+      "opts": [
+        [
+          "A",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "B",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "C",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "D",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6243,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "stem_incomplete_end",
+      "detail": "Choose the correct statement among the following.",
+      "stem": "Choose the correct statement among the following.",
+      "opts": [
+        [
+          "A",
+          "Square planar complexes are more stable than octahedral comp"
+        ],
+        [
+          "B",
+          "The magnetic moment of [Cu(Cl)4]2- is 1.732 BM and it has a "
+        ],
+        [
+          "C",
+          "The crystal field splitting energy Δ0 for [FeF6]4- is greate"
+        ],
+        [
+          "D",
+          "The crystal field stabilization energy of [V(H2O)6]2+ is gre"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6273,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "detail": "following_without_body",
+      "stem": "Consider the following statements:\n(i) Increase in concentration of reactants increases the rate of zero order reaction.\n(ii) If E_a = 0, the rate constant k is equal to collision ",
+      "opts": [
+        [
+          "A",
+          "(ii) only"
+        ],
+        [
+          "B",
+          "(ii) and (iv)"
+        ],
+        [
+          "C",
+          "(ii) and (v)"
+        ],
+        [
+          "D",
+          "(i), (ii) and (v)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6307,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['[H+] = Ka * ([acid] / [salt])', '[H+] = Ka * [salt]', '[H+] = Ka * ([salt] / [acid])', '[H+] = Ka * ([salt] / [acid])'",
+      "stem": "The hydrogen ion concentration of a buffer solution containing a weak acid and its salts is given by:",
+      "opts": [
+        [
+          "A",
+          "[H+] = Ka * ([acid] / [salt])"
+        ],
+        [
+          "B",
+          "[H+] = Ka * [salt]"
+        ],
+        [
+          "C",
+          "[H+] = Ka * ([salt] / [acid])"
+        ],
+        [
+          "D",
+          "[H+] = Ka * ([salt] / [acid])"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6333,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "7. Hair cream is a",
+      "opts": [
+        [
+          "A",
+          "gel"
+        ],
+        [
+          "B",
+          "emulsion"
+        ],
+        [
+          "C",
+          "solid sol"
+        ],
+        [
+          "D",
+          "sol"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6337,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "figure_required_no_image",
+      "detail": "",
+      "stem": "Consider the changes in the oxidation states of bromine corresponding to different emf values as shown in the given diagram: BrO4^- -> BrO3^- -> HBrO -> Br2 -> Br^-. Which of the f",
+      "opts": [
+        [
+          "A",
+          "Br2"
+        ],
+        [
+          "B",
+          "BrO4-"
+        ],
+        [
+          "C",
+          "BrO3-"
+        ],
+        [
+          "D",
+          "HBrO"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6345,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=False",
+      "stem": "Match the following list of catalysts and processes correctly:",
+      "opts": [
+        [
+          "A",
+          "A-(iv), B-(i), C-(ii), D-(iii)"
+        ],
+        [
+          "B",
+          "A-(i), B-(ii), C-(iv), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(ii), B-(iii), C-(iv), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6351,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=False",
+      "stem": "Match the following and find the correct combination: A) Pure nitrogen, B) Haber's process, C) Contact process, D) Deacon's process with i) Chlorine, ii) Sulphuric acid, iii) Ammon",
+      "opts": [
+        [
+          "A",
+          "A-(i), B-(ii), C-(iii), D-(iv)"
+        ],
+        [
+          "B",
+          "A-(ii), B-(iv), C-(i), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iv), B-(iii), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6357,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Carbolic acid is",
+      "opts": [
+        [
+          "A",
+          "Phenol"
+        ],
+        [
+          "B",
+          "Picric acid"
+        ],
+        [
+          "C",
+          "Benzoic acid"
+        ],
+        [
+          "D",
+          "Phenyl acetic acid"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6381,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "detail": "['Phenylmethanol', 'Ethanal', 'Ethanal', 'Methanal']",
+      "stem": "Which of the following gives an alcohol and an acid on reaction with 50% sodium hydroxide solution?",
+      "opts": [
+        [
+          "A",
+          "Phenylmethanol"
+        ],
+        [
+          "B",
+          "Ethanal"
+        ],
+        [
+          "C",
+          "Ethanal"
+        ],
+        [
+          "D",
+          "Methanal"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 6443,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "What is aspirin?",
+      "opts": [
+        [
+          "A",
+          "Acetyl salicylic acid"
+        ],
+        [
+          "B",
+          "Benzoyl salicylic acid"
+        ],
+        [
+          "C",
+          "Chlorobenzoyl salicylic acid"
+        ],
+        [
+          "D",
+          "Anthranilic acid"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5565,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "NH_4^+ ion is",
+      "opts": [
+        [
+          "A",
+          "A conjugate base"
+        ],
+        [
+          "B",
+          "A neutral molecule"
+        ],
+        [
+          "C",
+          "A strong base"
+        ],
+        [
+          "D",
+          "A conjugate acid"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5592,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Drinking soda is",
+      "opts": [
+        [
+          "A",
+          "Basic"
+        ],
+        [
+          "B",
+          "Acidic"
+        ],
+        [
+          "C",
+          "Neutral"
+        ],
+        [
+          "D",
+          "Amphoteric"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5601,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "SiO₂ is",
+      "opts": [
+        [
+          "A",
+          "a basic oxide"
+        ],
+        [
+          "B",
+          "an acidic oxide"
+        ],
+        [
+          "C",
+          "an amphoteric oxide"
+        ],
+        [
+          "D",
+          "a neutral oxide"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5603,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Is a basic salt?",
+      "opts": [
+        [
+          "A",
+          "CaSO₄"
+        ],
+        [
+          "B",
+          "2PbCO₃.Pb(OH)₂"
+        ],
+        [
+          "C",
+          "NaCl"
+        ],
+        [
+          "D",
+          "KNO₃"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5687,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following acid/base classifications and concepts with their descriptions:<br><div class='match-container'><div class='match-col-left'>a) Diprotic acid<br>b) Diacidic base",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5688,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following compounds/substances with their descriptive classifications or specific industrial/environmental properties:<br><div class='match-container'><div class='match-c",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5690,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following industrial/commercial chemical compounds with their common names or applications:<br><div class='match-container'><div class='match-col-left'>a) Zinc sulphate h",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5691,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical compounds with their specific commercial uses or properties:<br><div class='match-container'><div class='match-col-left'>a) Sulfuric acid<br>b) Hydroch",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5697,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical reactions with their specific examples:<br><div class='match-container'><div class='match-col-left'>a) Metal reacting with acid<br>b) Magnesium reactin",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5698,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following natural acids with their correct primary sources:<br><div class='match-container'><div class='match-col-left'>a) Citric acid<br>b) Oxalic acid<br>c) Tartaric ac",
+      "opts": [
+        [
+          "A",
+          "a-2, b-3, c-4, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5699,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following industrial/commercial chemicals with their major uses:<br><div class='match-container'><div class='match-col-left'>a) Sodium hydroxide (Caustic soda)<br>b) Ammo",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5700,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical manufacturing or industrial application processes with their correct agents:<br><div class='match-container'><div class='match-col-left'>a) Manufacture",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5708,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following approximate pH values with their respective items/substances:<br><div class='match-container'><div class='match-col-left'>a) Lemon juice<br>b) Tomato juice<br>c",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5711,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following acids with their corresponding natural or common sources:<br><div class='match-container'><div class='match-col-left'>a) Citric acid<br>b) Oxalic acid<br>c) Tar",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5712,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Baking soda<br>b) Washing soda<br>c) Plaster of Paris<br>d) Bleaching powder</div><div class='ma",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5717,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Washing soda<br>b) Bleaching powder<br>c) Epsom salt<br>d) Potassium nitrate</div><div class='ma",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5721,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Calcium hydroxide<br>b) Sodium carbonate<br>c) Copper sulphate<br>d) Magnesium sulphate</div><di",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5724,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following specific chemical substances or items with their exact occurrence or practical application context:<br><div class='match-container'><div class='match-col-left'>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-3, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5725,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Monoprotic acid<br>b) Acid salt formation<br>c) Basic salt<br>d) Double salt</div><div class='ma",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5727,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following common chemical substances and biological items with their approximate or specific pH values:<br><div class='match-container'><div class='match-col-left'>a) Hum",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5733,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Sodium benzoate<br>b) Sodium hydroxide<br>c) Magnesium hydroxide<br>d) Carbon dioxide</div><div ",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5741,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following industrial and household chemical substances with their respective descriptions or common applications:<br><div class='match-container'><div class='match-col-le",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-4, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5433,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Plaster of Paris is",
+      "opts": [
+        [
+          "A",
+          "CaSO4·2H2O"
+        ],
+        [
+          "B",
+          "CaSO4·½H2O"
+        ],
+        [
+          "C",
+          "CaCO3"
+        ],
+        [
+          "D",
+          "CaSO4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5457,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Water gas is",
+      "opts": [
+        [
+          "A",
+          "a mixture of CH4 and CO2"
+        ],
+        [
+          "B",
+          "a mixture of CO2 and H2"
+        ],
+        [
+          "C",
+          "a mixture of CO and N2"
+        ],
+        [
+          "D",
+          "a mixture of CO and H2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5480,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "What are isotones?",
+      "opts": [
+        [
+          "A",
+          "Atoms with same mass number"
+        ],
+        [
+          "B",
+          "Atoms with same number of electrons"
+        ],
+        [
+          "C",
+          "Atoms have same number of neutrons but different number of p"
+        ],
+        [
+          "D",
+          "Atoms with same atomic number"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5624,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical reactions and classifications:<br><div class='match-container'><div class='match-col-left'>a) Electrolysis of water<br>b) Quicklime reacting with water",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-4, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5626,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following historical discoveries and atomic classifications:<br><div class='match-container'><div class='match-col-left'>a) John Newlands<br>b) Dmitri Mendeleev<br>c) Hen",
+      "opts": [
+        [
+          "A",
+          "a-1, b-4, c-3, d-2"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5641,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following historical developments and concepts in chemistry:<br><div class='match-container'><div class='match-col-left'>a) John Newlands<br>b) Dmitri Mendeleev<br>c) Hen",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5644,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical reactions and properties:<br><div class='match-container'><div class='match-col-left'>a) Endothermic Reaction<br>b) Element + Element<br>c) Oxidation R",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5649,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following advanced chemical concepts, definitions, and oxide properties:<br><div class='match-container'><div class='match-col-left'>a) Amphoteric oxides<br>b) Periodic r",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5651,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical symbols and their Greek or Latin etymological roots:<br><div class='match-container'><div class='match-col-left'>a) Gold<br>b) Copper<br>c) Plutonium<b",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-3, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5654,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following periodic classifications and chemical descriptions:<br><div class='match-container'><div class='match-col-left'>a) Group 2 elements<br>b) Group 16 elements<br>c",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5658,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following fundamental chemical synthesis reactions and components:<br><div class='match-container'><div class='match-col-left'>a) Element + Element<br>b) Hydrogen + Oxyge",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5659,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following halogen properties and physical states at room temperature:<br><div class='match-container'><div class='match-col-left'>a) Fluorine<br>b) Bromine<br>c) Iodine<b",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5663,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following historical chemical milestones and element categories:<br><div class='match-container'><div class='match-col-left'>a) Lavoisier (1789)<br>b) Non-metals properti",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5672,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical symbols with their respective Greek or Latin derived names:<br><div class='match-container'><div class='match-col-left'>a) Tin<br>b) Sodium<br>c) Antim",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5673,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following subatomic particles and atomic properties:<br><div class='match-container'><div class='match-col-left'>a) Positron<br>b) Alpha particle<br>c) Proton<br>d) Neutr",
+      "opts": [
+        [
+          "A",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5674,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following atomic and molecular characteristics with their respective definitions or examples:<br><div class='match-container'><div class='match-col-left'>a) Noble gases<b",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5683,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical groups, valence electron configurations, and families:<br><div class='match-container'><div class='match-col-left'>a) Group 16 elements (except Poloniu",
+      "opts": [
+        [
+          "A",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5505,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Nylon is a",
+      "opts": [
+        [
+          "A",
+          "polyamide"
+        ],
+        [
+          "B",
+          "polyester"
+        ],
+        [
+          "C",
+          "polysaccharide"
+        ],
+        [
+          "D",
+          "polyurethane"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5506,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Dry ice is",
+      "opts": [
+        [
+          "A",
+          "liquid nitrogen"
+        ],
+        [
+          "B",
+          "solid ammonia"
+        ],
+        [
+          "C",
+          "solid carbon dioxide"
+        ],
+        [
+          "D",
+          "solid water"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5522,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "Bordeaux mixture is",
+      "opts": [
+        [
+          "A",
+          "NaCl + H2O"
+        ],
+        [
+          "B",
+          "CaCO3 + NaOH"
+        ],
+        [
+          "C",
+          "CuCO3 + HCl"
+        ],
+        [
+          "D",
+          "CuSO4 + Ca(OH)2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5532,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "stem_too_short",
+      "detail": "",
+      "stem": "2, 4-D is used as",
+      "opts": [
+        [
+          "A",
+          "Rodenticide"
+        ],
+        [
+          "B",
+          "Fungicide"
+        ],
+        [
+          "C",
+          "Weedicide"
+        ],
+        [
+          "D",
+          "Insecticide"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5745,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following biological and chemical entities with their precise agricultural or industrial classifications:<br><div class='match-container'><div class='match-col-left'>a) A",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5746,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Nitrogenous fertilizers<br>b) Triple phosphate<br>c) Saltpetre<br>d) Gypsum in cement</div><div ",
+      "opts": [
+        [
+          "A",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5753,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Paraffin wax<br>b) Gaseous fuels<br>c) Bituminous coal<br>d) Synthesis gas (Syngas)</div><div cl",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5754,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Power alcohol<br>b) Syngas<br>c) LPG<br>d) Fuel gas</div><div class='match-col-right'>1. Mixture",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5757,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following industrial fuels and coal grades:<br><div class='match-container'><div class='match-col-left'>a) Lignite<br>b) Anthracite<br>c) Synthesis gas (Syngas)<br>d) Gas",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5760,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural additives and their specific applications:<br><div class='match-container'><div class='match-col-left'>a) Dicalcium phosphate<br>b) Zinc phosphate<",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5769,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural inputs and their biological/chemical entities:<br><div class='match-container'><div class='match-col-left'>a) Nematicides<br>b) Rodenticides<br>c) ",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5773,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following chemical preservatives and fuel compositions to their exact constituents or chemical natures:<br><div class='match-container'><div class='match-col-left'>a) LPG",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5776,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following biological and chemical entities with their precise agricultural or industrial applications:<br><div class='match-container'><div class='match-col-left'>a) Glom",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5778,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural protectants and chemical preservation agents:<br><div class='match-container'><div class='match-col-left'>a) Poly-octane gel<br>b) Ethyl mercaptan<",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5780,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agrochemicals and food preservation compounds to their precise functions:<br><div class='match-container'><div class='match-col-left'>a) Diphenclorolin and Atra",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5781,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following specialized agricultural and biological inputs:<br><div class='match-container'><div class='match-col-left'>a) Glomus and Gigaspora<br>b) Diphenclorolin and Atr",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5782,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural inputs, chemical compounds, and pest management agents with their correct descriptions:<br><div class='match-container'><div class='match-col-left'",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5783,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural and industrial chemical entities with their precise definitions and roles:<br><div class='match-container'><div class='match-col-left'>a) Bio-ferti",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5786,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural nutrients, pest organisms, and chemical protectants with their precise functions:<br><div class='match-container'><div class='match-col-left'>a) Na",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5787,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following organic waste sources, fertilizer additives, and chemical crop protectants with their specific applications:<br><div class='match-container'><div class='match-c",
+      "opts": [
+        [
+          "A",
+          "a-2, b-3, c-4, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5792,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural inputs and soil amendments with their precise classifications and uses:<br><div class='match-container'><div class='match-col-left'>a) Bacillus cir",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5794,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural pests, fertilizers, and petroleum products with their precise characteristics:<br><div class='match-container'><div class='match-col-left'>a) Helio",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5795,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural entities and chemical agents to their characteristics:<br><div class='match-container'><div class='match-col-left'>a) Glomus and Gigaspora<br>b) Po",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5798,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following agricultural and chemical inputs to their accurate functional categories:<br><div class='match-container'><div class='match-col-left'>a) Diphenclorolin and Atra",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    },
+    {
+      "id": 5801,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "match_missing_lists",
+      "detail": "match_stem=True pair_opts=True",
+      "stem": "Match the following petroleum fractions, fertilizer compounds, and agricultural agents with their exact descriptions:<br><div class='match-container'><div class='match-col-left'>a)",
+      "opts": [
+        [
+          "A",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "B",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "C",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ]
+    }
+  ]
+}

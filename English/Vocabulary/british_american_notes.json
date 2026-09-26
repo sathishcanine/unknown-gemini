@@ -1,0 +1,2523 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "british_american",
+  "sources": [
+    "Vetrii Vocabulary pp.[171, 172, 173, 174, 175, 176, 177, 178, 179] (primary, vision)",
+    "Grammer.pdf pp.[318, 319, 322] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Compound words are formed when two or more words are put together to form a new word with a new meaning.",
+      "ba_tag": "definition",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "rule_en": "Compound word formed by combining Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "rule_en": "Compound word formed by combining Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "rule_en": "Compound word formed by combining Adjective + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "rule_en": "British and American English differ in vocabulary choice for common objects and daily items.",
+      "ba_tag": "overview",
+      "source": "grammer",
+      "source_page": 318
+    },
+    {
+      "rule_en": "British English often retains the original spelling derived from French or Latin, while American English tends to simplify spelling based on phonetic sound.",
+      "ba_tag": "overview",
+      "source": "grammer",
+      "source_page": 319
+    },
+    {
+      "rule_en": "American English often simplifies spellings, such as removing 'u' in words like 'odour' and using 'z' instead of 's' in 'apologise'.",
+      "ba_tag": "overview",
+      "source": "grammer",
+      "source_page": 322
+    }
+  ],
+  "examples": [
+    {
+      "british_en": "Torch",
+      "american_en": "Flashlight",
+      "note_en": "British English uses Torch while American English uses Flashlight",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Mobile Phones",
+      "american_en": "Cell Phone",
+      "note_en": "British English uses Mobile Phones while American English uses Cell Phone",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Bin",
+      "american_en": "Trash Can",
+      "note_en": "British English uses Bin while American English uses Trash Can",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Anticlockwise",
+      "american_en": "Counter clockwise",
+      "note_en": "British English uses Anticlockwise while American English uses Counter clockwise",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Postbox",
+      "american_en": "Mailbox",
+      "note_en": "British English uses Postbox while American English uses Mailbox",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Car park",
+      "american_en": "Parking lot",
+      "note_en": "British English uses Car park while American English uses Parking lot",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Lorry",
+      "american_en": "Truck",
+      "note_en": "British English uses Lorry while American English uses Truck",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Flat",
+      "american_en": "Apartment",
+      "note_en": "British English uses Flat while American English uses Apartment",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Timetable",
+      "american_en": "Schedule",
+      "note_en": "British English uses Timetable while American English uses Schedule",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Pavement",
+      "american_en": "Side Walk",
+      "note_en": "British English uses Pavement while American English uses Side Walk",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Pullover",
+      "american_en": "Sweater",
+      "note_en": "British English uses Pullover while American English uses Sweater",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Waistcoat",
+      "american_en": "Vest",
+      "note_en": "British English uses Waistcoat while American English uses Vest",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Chips",
+      "american_en": "French Fries",
+      "note_en": "British English uses Chips while American English uses French Fries",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Biscuit",
+      "american_en": "Cookie\\Cracker",
+      "note_en": "British English uses Biscuit while American English uses Cookie or Cracker",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Bookshop",
+      "american_en": "Bookstore",
+      "note_en": "British English uses Bookshop while American English uses Bookstore",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Calling Card",
+      "american_en": "Visiting Card",
+      "note_en": "British English uses Calling Card while American English uses Visiting Card",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Car",
+      "american_en": "Automobile",
+      "note_en": "British English uses Car while American English uses Automobile",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Chairman",
+      "american_en": "President",
+      "note_en": "British English uses Chairman while American English uses President",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Cinema/Film",
+      "american_en": "Movie",
+      "note_en": "British English uses Cinema/Film while American English uses Movie",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Cooker",
+      "american_en": "Stove",
+      "note_en": "British English uses Cooker while American English uses Stove",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Cotton",
+      "american_en": "Thread",
+      "note_en": "British English uses Cotton while American English uses Thread",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Cot",
+      "american_en": "Crib",
+      "note_en": "British English uses Cot while American English uses Crib",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Cupboard",
+      "american_en": "Closet",
+      "note_en": "British English uses Cupboard while American English uses Closet",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Currency Note",
+      "american_en": "Bill",
+      "note_en": "British English uses Currency Note while American English uses Bill",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Curtain",
+      "american_en": "Drapes",
+      "note_en": "British English uses Curtain while American English uses Drapes",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Cutlery",
+      "american_en": "Silver Ware",
+      "note_en": "British English uses Cutlery while American English uses Silver Ware",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Diary",
+      "american_en": "Data Book",
+      "note_en": "British English uses Diary while American English uses Data Book",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Digit",
+      "american_en": "Figure",
+      "note_en": "British English uses Digit while American English uses Figure",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Petrol",
+      "american_en": "Gasoline",
+      "note_en": "British English uses Petrol while American English uses Gasoline",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Fully",
+      "american_en": "Totally",
+      "note_en": "British English uses Fully while American English uses Totally",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Autumn",
+      "american_en": "Fall",
+      "note_en": "British English uses Autumn while American English uses Fall",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Holiday",
+      "american_en": "Vacation",
+      "note_en": "British English uses Holiday while American English uses Vacation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Post",
+      "american_en": "Mail",
+      "note_en": "British English uses Post while American English uses Mail",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Indicator",
+      "american_en": "Turn Signal",
+      "note_en": "British English uses Indicator while American English uses Turn Signal",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Letter Box",
+      "american_en": "Mail Box",
+      "note_en": "British English uses Letter Box while American English uses Mail Box",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Lift",
+      "american_en": "Elevator",
+      "note_en": "British English uses Lift while American English uses Elevator",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Living Room",
+      "american_en": "Sitting Room",
+      "note_en": "British English uses Living Room while American English uses Sitting Room",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Luggage",
+      "american_en": "Baggage",
+      "note_en": "British English uses Luggage while American English uses Baggage",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Maize",
+      "american_en": "Corn",
+      "note_en": "British English uses Maize while American English uses Corn",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Manager",
+      "american_en": "Director",
+      "note_en": "British English uses Manager while American English uses Director",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Match",
+      "american_en": "Game",
+      "note_en": "British English uses Match while American English uses Game",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Notice Board",
+      "american_en": "Bulletin Board",
+      "note_en": "British English uses Notice Board while American English uses Bulletin Board",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Nursing Home",
+      "american_en": "Private Hospital",
+      "note_en": "British English uses Nursing Home while American English uses Private Hospital",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Presenter",
+      "american_en": "Announcer",
+      "note_en": "British English uses Presenter while American English uses Announcer",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Queue",
+      "american_en": "Line",
+      "note_en": "British English uses Queue while American English uses Line",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Railway",
+      "american_en": "Rail Road",
+      "note_en": "British English uses Railway while American English uses Rail Road",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Resume",
+      "american_en": "Curriculum Vitae",
+      "note_en": "British English uses Resume while American English uses Curriculum Vitae",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Rubber",
+      "american_en": "Eraser",
+      "note_en": "British English uses Rubber while American English uses Eraser",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Rubber Band",
+      "american_en": "Elastic Band",
+      "note_en": "British English uses Rubber Band while American English uses Elastic Band",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "State School",
+      "american_en": "Public School",
+      "note_en": "British English uses State School while American English uses Public School",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Stupid",
+      "american_en": "Dumb",
+      "note_en": "British English uses Stupid while American English uses Dumb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Sweet",
+      "american_en": "Candy",
+      "note_en": "British English uses Sweet while American English uses Candy",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Tap",
+      "american_en": "Faucet",
+      "note_en": "British English uses Tap while American English uses Faucet",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Taxi",
+      "american_en": "Cab",
+      "note_en": "British English uses Taxi while American English uses Cab",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Terminus",
+      "american_en": "Depot/Bus Stop",
+      "note_en": "British English uses Terminus while American English uses Depot or Bus Stop",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Tin",
+      "american_en": "Can",
+      "note_en": "British English uses Tin while American English uses Can",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Toilet",
+      "american_en": "Rest Room",
+      "note_en": "British English uses Toilet while American English uses Rest Room",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 171
+    },
+    {
+      "british_en": "Trousers",
+      "american_en": "Pants",
+      "note_en": "Clothing item",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Wire",
+      "american_en": "Telephone",
+      "note_en": "Communication",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Aerial",
+      "american_en": "Antenna",
+      "note_en": "Technical",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Mean",
+      "american_en": "Stingy",
+      "note_en": "Adjective",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Brakelight",
+      "american_en": "Stoplight",
+      "note_en": "Automotive",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Cash Card",
+      "american_en": "Plastic Card",
+      "note_en": "Financial",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Chemist",
+      "american_en": "Druggist",
+      "note_en": "Profession",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Corridor",
+      "american_en": "Hallway",
+      "note_en": "Architectural",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Coffin",
+      "american_en": "Casket",
+      "note_en": "Object",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Cross Roads",
+      "american_en": "Intersection",
+      "note_en": "Roadway",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Care Taker",
+      "american_en": "Janitor",
+      "note_en": "Profession",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Dish Towel",
+      "american_en": "Tea Towel",
+      "note_en": "Household",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Dressing Table",
+      "american_en": "Dresser",
+      "note_en": "Furniture",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Draught",
+      "american_en": "Draft",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Football",
+      "american_en": "Soccer",
+      "note_en": "Sport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Freight Car",
+      "american_en": "Wagon",
+      "note_en": "Transport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Goods Train",
+      "american_en": "Freight Train",
+      "note_en": "Transport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Jug",
+      "american_en": "Pitcher",
+      "note_en": "Container",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Long Jump",
+      "american_en": "Broad Jump",
+      "note_en": "Sport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Milk Tooth",
+      "american_en": "Baby Tooth",
+      "note_en": "Anatomy",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Mineral",
+      "american_en": "Soda",
+      "note_en": "Drink",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Mummy",
+      "american_en": "Mommy",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Nappy",
+      "american_en": "Diaper",
+      "note_en": "Baby item",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Plate",
+      "american_en": "Licence Plate",
+      "note_en": "Automotive",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Paraffin",
+      "american_en": "Kerosene",
+      "note_en": "Substance",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Plug Hole",
+      "american_en": "Drain",
+      "note_en": "Fixture",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Boot",
+      "american_en": "Trunk",
+      "note_en": "Automotive",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Polling Booth",
+      "american_en": "Voting Booth",
+      "note_en": "Political",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Post Code",
+      "american_en": "Zip Code",
+      "note_en": "Administrative",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Porridge",
+      "american_en": "Oat Meal",
+      "note_en": "Food",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Puncture",
+      "american_en": "Blow Out",
+      "note_en": "Automotive",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Press Conference",
+      "american_en": "News Conference",
+      "note_en": "Journalism",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Pyjamas",
+      "american_en": "Pajamas",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Push Chair",
+      "american_en": "Stroller",
+      "note_en": "Baby item",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Purse",
+      "american_en": "Wallet",
+      "note_en": "Accessory",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Rental",
+      "american_en": "Rent",
+      "note_en": "Term",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Ring Road",
+      "american_en": "Outer Left",
+      "note_en": "Roadway",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Roll of Honour",
+      "american_en": "Honour Roll",
+      "note_en": "Term",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Sceptic",
+      "american_en": "Skeptic",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Set Square",
+      "american_en": "Triangle",
+      "note_en": "Instrument",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Skin",
+      "american_en": "Peel",
+      "note_en": "Fruit",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Slip Road",
+      "american_en": "Ramp",
+      "note_en": "Roadway",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Spanner",
+      "american_en": "Wrench",
+      "note_en": "Tool",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Stenography",
+      "american_en": "Short Hand",
+      "note_en": "Writing method",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Underground",
+      "american_en": "Subway",
+      "note_en": "Transport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Tie",
+      "american_en": "Neck Tie",
+      "note_en": "Clothing",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Tie Pin",
+      "american_en": "Tie Tag",
+      "note_en": "Clothing accessory",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Tram",
+      "american_en": "Street Car",
+      "note_en": "Transport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Trolley",
+      "american_en": "Cart",
+      "note_en": "Transport",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Vest",
+      "american_en": "Undershirt",
+      "note_en": "Clothing",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Zip",
+      "american_en": "Zipper",
+      "note_en": "Clothing part",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Dustbin",
+      "american_en": "Garbage Can/Trash Can",
+      "note_en": "Household",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Ground floor",
+      "american_en": "First floor",
+      "note_en": "Architectural",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Wind screen",
+      "american_en": "Wind shield",
+      "note_en": "Automotive",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Full stop",
+      "american_en": "Period",
+      "note_en": "Punctuation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Loo",
+      "american_en": "Rest room",
+      "note_en": "Facility",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Skilful",
+      "american_en": "Skillful",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Dialogue",
+      "american_en": "Dialog",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Dreamt",
+      "american_en": "Dreamed",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Odour",
+      "american_en": "Odor",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Parlour",
+      "american_en": "Parlor",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Theatre",
+      "american_en": "Theater",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Behaviour",
+      "american_en": "Behavior",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Labour",
+      "american_en": "Labor",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Plough",
+      "american_en": "Plow",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Apologise",
+      "american_en": "Apologize",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Judgement",
+      "american_en": "Judgment",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Neighbour",
+      "american_en": "Neighbor",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Colour",
+      "american_en": "Color",
+      "note_en": "Spelling variant",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 172
+    },
+    {
+      "british_en": "Grey",
+      "american_en": "Gray",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Humour",
+      "american_en": "Humor",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Defence",
+      "american_en": "Defense",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Licence",
+      "american_en": "License",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Civilise",
+      "american_en": "Civilize",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Memorise",
+      "american_en": "Memorize",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Organise",
+      "american_en": "Organize",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Paralyse",
+      "american_en": "Paralyze",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Realise",
+      "american_en": "Realize",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Recognise",
+      "american_en": "Recognize",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Favourite",
+      "american_en": "Favorite",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Metre",
+      "american_en": "Meter",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Cancelled",
+      "american_en": "Canceled",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Aeroplane",
+      "american_en": "Airplane",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Tonne",
+      "american_en": "Ton",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Cosy",
+      "american_en": "Cozy",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Motorway",
+      "american_en": "Highway",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Rubbish",
+      "american_en": "Garbage",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Dungarees",
+      "american_en": "Overalls",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Trainers",
+      "american_en": "Sneakers",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Fire Brigade",
+      "american_en": "Fire Department",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Washbasin",
+      "american_en": "Sink",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Witness Box",
+      "american_en": "Witness Stand",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Zed",
+      "american_en": "Zee",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Although",
+      "american_en": "Altho",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Anaemia",
+      "american_en": "Anemia",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Tyre",
+      "american_en": "Tire",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Favour",
+      "american_en": "Favor",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Honour",
+      "american_en": "Honor",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Visualise",
+      "american_en": "Visualize",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Offence",
+      "american_en": "Offense",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Dialling",
+      "american_en": "Dialing",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Marvellous",
+      "american_en": "Marvelous",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Medallist",
+      "american_en": "Medalist",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Signalled",
+      "american_en": "Signaled",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Travelled",
+      "american_en": "Traveled",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Enrol",
+      "american_en": "Enroll",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Fulfil",
+      "american_en": "Fulfill",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Instalment",
+      "american_en": "Installment",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Instil",
+      "american_en": "Instill",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Catalogue",
+      "american_en": "Catalog",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Travelogue",
+      "american_en": "Travelog",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Haemoglobin",
+      "american_en": "Hemoglobin",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Axe",
+      "american_en": "Ax",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Acknowledge",
+      "american_en": "Acknowledged",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Maths",
+      "american_en": "Math",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Afterwards",
+      "american_en": "Afterward",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Towards",
+      "american_en": "Toward",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Focussed",
+      "american_en": "Focused",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Rumour",
+      "american_en": "Rumor",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Vapour",
+      "american_en": "Vapor",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Centre",
+      "american_en": "Center",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Fibre",
+      "american_en": "Fiber",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Litre",
+      "american_en": "Liter",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Harbour",
+      "american_en": "Harbor",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Cheque",
+      "american_en": "Check",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Programme",
+      "american_en": "Program",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Spelt",
+      "american_en": "Spelled",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Storey",
+      "american_en": "Story",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Inquiry",
+      "american_en": "Enquiry",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Jam",
+      "american_en": "Jelly",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Fellow",
+      "american_en": "Guy",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Bonnet",
+      "american_en": "Hood",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Blind",
+      "american_en": "Window Shade",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Cutting",
+      "american_en": "Clipping",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Interval",
+      "american_en": "Intermission",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Shop Assistant",
+      "american_en": "Sales clerk",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Single",
+      "american_en": "One way",
+      "note_en": "Vocabulary variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 529
+    },
+    {
+      "british_en": "Through",
+      "american_en": "Thru",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "british_en": "Tie Break",
+      "american_en": "Tie Breaker",
+      "note_en": "Compound variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "british_en": "Traveller",
+      "american_en": "Traveler",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "british_en": "Pedlar",
+      "american_en": "Peddler",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "british_en": "Rise",
+      "american_en": "Raise",
+      "note_en": "Noun usage variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "british_en": "Mould",
+      "american_en": "Mold",
+      "note_en": "Spelling variation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "british_en": "torch",
+      "american_en": "flash light",
+      "note_en": "British noun corresponding to American counterpart",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "british_en": "health club",
+      "american_en": "gym",
+      "note_en": "British noun corresponding to American counterpart",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "british_en": "pavement",
+      "american_en": "sidewalk",
+      "note_en": "British noun corresponding to American counterpart",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "british_en": "gum",
+      "american_en": "glue",
+      "note_en": "British noun corresponding to American counterpart",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "british_en": "interval (in a cinema)",
+      "american_en": "intermission",
+      "note_en": "Refers to a break during a film",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 176
+    },
+    {
+      "british_en": "rise (in salary)",
+      "american_en": "raise",
+      "note_en": "An increase in pay",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 176
+    },
+    {
+      "british_en": "single (ticket)",
+      "american_en": "one way",
+      "note_en": "Refers to a travel ticket",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 176
+    },
+    {
+      "british_en": "torch (battery operated)",
+      "american_en": "flashlight",
+      "note_en": "A handheld portable light",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 176
+    },
+    {
+      "british_en": "windscreen",
+      "american_en": "windshield",
+      "note_en": "The front glass of a vehicle",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 176
+    },
+    {
+      "british_en": "eye + sight",
+      "american_en": "eyesight",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "home + work",
+      "american_en": "homework",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "moon + light",
+      "american_en": "moonlight",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "note + book",
+      "american_en": "notebook",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "butter + milk",
+      "american_en": "buttermilk",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "heart + beat",
+      "american_en": "heart beat",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "snow + fall",
+      "american_en": "snowfall",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "sweet + heart",
+      "american_en": "sweetheart",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "swimming + pool",
+      "american_en": "swimming pool",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "head + ache",
+      "american_en": "headache",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "hair + cut",
+      "american_en": "haircut",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "bus + stop",
+      "american_en": "bus stop",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "credit + card",
+      "american_en": "credit card",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "hand + writing",
+      "american_en": "handwriting",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "well + known",
+      "american_en": "well known",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "income + tax",
+      "american_en": "income-tax",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "pass + port",
+      "american_en": "passport",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "dark + cell",
+      "american_en": "dark cell",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "thunder + storm",
+      "american_en": "thunderstorm",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "any + one",
+      "american_en": "anyone",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "foot + ball",
+      "american_en": "football",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "boarding + house",
+      "american_en": "boarding house",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "ground + water",
+      "american_en": "ground water",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "booking + clerk",
+      "american_en": "booking clerk",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "ice + cream",
+      "american_en": "icecream",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "back + pack",
+      "american_en": "backpack",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "out + going",
+      "american_en": "outgoing",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "world + famous",
+      "american_en": "world famous",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "shop + keeper",
+      "american_en": "shopkeeper",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "tube + well",
+      "american_en": "tube well",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "world + trip",
+      "american_en": "world trip",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "friend + ship",
+      "american_en": "friendship",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "lip + stick",
+      "american_en": "lipstick",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "break + fast",
+      "american_en": "breakfast",
+      "note_en": "Compound word formation",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 177
+    },
+    {
+      "british_en": "head + master",
+      "american_en": "headmaster",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "milk + man",
+      "american_en": "milkman",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "store + room",
+      "american_en": "storeroom",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "cell + phone",
+      "american_en": "cell phone",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "school + boy",
+      "american_en": "schoolboy",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "office + boy",
+      "american_en": "office boy",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "key + board",
+      "american_en": "keyboard",
+      "note_en": "Noun + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "car + park",
+      "american_en": "car park",
+      "note_en": "Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "book + mark",
+      "american_en": "bookmark",
+      "note_en": "Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "sun + set",
+      "american_en": "sunset",
+      "note_en": "Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "cat + walk",
+      "american_en": "catwalk",
+      "note_en": "Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "rain + fall",
+      "american_en": "rainfall",
+      "note_en": "Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "tooth + ache",
+      "american_en": "toothache",
+      "note_en": "Noun + Verb",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "noble + man",
+      "american_en": "nobleman",
+      "note_en": "Adjective + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "short + hand",
+      "american_en": "shorthand",
+      "note_en": "Adjective + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "black + board",
+      "american_en": "blackboard",
+      "note_en": "Adjective + Noun",
+      "ba_tag": "other",
+      "source": "vetrii",
+      "source_page": 179
+    },
+    {
+      "british_en": "Mobile phone",
+      "american_en": "Cell phone",
+      "note_en": "Portable telephone",
+      "ba_tag": "other",
+      "source": "grammer",
+      "source_page": 318
+    },
+    {
+      "british_en": "Biscuit",
+      "american_en": "Cookie",
+      "note_en": "Small baked treat",
+      "ba_tag": "other",
+      "source": "grammer",
+      "source_page": 318
+    },
+    {
+      "british_en": "Dreamed",
+      "american_en": "Dreamt",
+      "note_en": "Verb tense variation.",
+      "ba_tag": "other",
+      "source": "grammer",
+      "source_page": 319
+    },
+    {
+      "british_en": "check",
+      "american_en": "check",
+      "note_en": "Spelling difference",
+      "ba_tag": "other",
+      "source": "grammer",
+      "source_page": 322
+    },
+    {
+      "british_en": "chips",
+      "american_en": "fries",
+      "note_en": "Food item",
+      "ba_tag": "other",
+      "source": "grammer",
+      "source_page": 322
+    },
+    {
+      "british_en": "wind screen",
+      "american_en": "windshield",
+      "note_en": "Car part",
+      "ba_tag": "other",
+      "source": "grammer",
+      "source_page": 322
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "1. flex",
+      "answer_en": "wire",
+      "options_en": [
+        "string",
+        "rope",
+        "wire",
+        "cord"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "2. friend",
+      "answer_en": "penpal",
+      "options_en": [
+        "pal",
+        "comrade",
+        "companion",
+        "penpal"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "3. match",
+      "answer_en": "game",
+      "options_en": [
+        "sport",
+        "fixture",
+        "game",
+        "be the same"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "4. spanner",
+      "answer_en": "wrench",
+      "options_en": [
+        "screw driver",
+        "wrench",
+        "saw",
+        "hammer"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "5. sweet",
+      "answer_en": "candy",
+      "options_en": [
+        "wafer",
+        "jelly",
+        "lolly pop",
+        "candy"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "6. timber",
+      "answer_en": "lumber",
+      "options_en": [
+        "lumber",
+        "log",
+        "wood",
+        "reaper"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "7. plate",
+      "answer_en": "licence plate",
+      "options_en": [
+        "licence plate",
+        "name plate",
+        "steel plate",
+        "electro plating"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "8. petrol",
+      "answer_en": "gasoline",
+      "options_en": [
+        "diesel",
+        "paraffin",
+        "gasoline",
+        "vaseline"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "9. pavement",
+      "answer_en": "side walk",
+      "options_en": [
+        "foot path",
+        "side walk",
+        "lane",
+        "steady walk"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "10. stupid",
+      "answer_en": "dumb",
+      "options_en": [
+        "foolish",
+        "dumb",
+        "silly",
+        "joker"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "11. puncture",
+      "answer_en": "blow out",
+      "options_en": [
+        "proud",
+        "point",
+        "hole",
+        "blow out"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "12. blind",
+      "answer_en": "window shade",
+      "options_en": [
+        "window shade",
+        "window sill",
+        "curtain",
+        "shutter"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "13. chemist",
+      "answer_en": "druggist",
+      "options_en": [
+        "pharmacist",
+        "medicals",
+        "druggist",
+        "medico"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "14. digit",
+      "answer_en": "figure",
+      "options_en": [
+        "toe",
+        "figure",
+        "finger",
+        "medico"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "15. vest",
+      "answer_en": "under shirt",
+      "options_en": [
+        "dress",
+        "jacket",
+        "coat",
+        "under shirt"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "16. wire",
+      "answer_en": "telephone",
+      "options_en": [
+        "telephone",
+        "hand set",
+        "walky talky",
+        "mobile phone"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "17. plug hole",
+      "answer_en": "drain",
+      "options_en": [
+        "outlet",
+        "sieve",
+        "drain",
+        "head lamp"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 174
+    },
+    {
+      "prompt_en": "She's very mean with her money. Don't ask her for any help.",
+      "answer_en": "Stingy",
+      "options_en": [
+        "Miser",
+        "Stingy",
+        "Wealthy",
+        "Generous"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "prompt_en": "Choose the correct British English word for the American English word FALL.",
+      "answer_en": "Autumn",
+      "options_en": [
+        "Waterfall",
+        "Autumn",
+        "Snowfall",
+        "Rainfall"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "prompt_en": "Identify the American English word for Pavement",
+      "answer_en": "Sidewalk",
+      "options_en": [
+        "Platform",
+        "Stage",
+        "Sidewalk",
+        "Podium"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "prompt_en": "We should use the Bin for the garbage.",
+      "answer_en": "Trash Can",
+      "options_en": [
+        "Dust Bin",
+        "Trash Can",
+        "Garbage Bin",
+        "Trash Box"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 531
+    },
+    {
+      "prompt_en": "Match the words in British English with their equivalents in American English: 1. interval (in a cinema) 2. jug 3. rise (in salary) 4. shop assistant 5. single (ticket) 6. torch (battery operated) 7. washbasin 8. windscreen 9. witness box 10. zed",
+      "answer_en": "1-intermission, 2-pitcher, 3-raise, 4-sales clerk, 5-one way, 6-flashlight, 7-sink, 8-windshield, 9-witness stand, 10-zee",
+      "options_en": [],
+      "ba_tag": "match",
+      "source": "vetrii",
+      "source_page": 176
+    },
+    {
+      "prompt_en": "What is the American English spelling for the British word 'Cheque'?",
+      "answer_en": "Check",
+      "options_en": [
+        "Check",
+        "Chque",
+        "Chek",
+        "Chequer"
+      ],
+      "ba_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 319
+    },
+    {
+      "prompt_en": "The American spelling of 'Neighbour' is __________.",
+      "answer_en": "Neighbor",
+      "options_en": [
+        "Neighbour",
+        "Neighbor",
+        "Nighbor",
+        "Neibour"
+      ],
+      "ba_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 319
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 7,
+      "examples": 265,
+      "worked_exercises": 24
+    },
+    "by_ba_tag": {
+      "definition": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 3,
+        "examples": 265,
+        "worked": 0
+      },
+      "overview": {
+        "rules": 3,
+        "examples": 0,
+        "worked": 0
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 22
+      },
+      "match": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 1
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 1
+      }
+    }
+  }
+}

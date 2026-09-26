@@ -1,0 +1,527 @@
+[
+  {
+    "q_no": 1,
+    "section_ta": "நாலடியார்",
+    "question_ta": "நாலடியாரைத் தொகுத்தவர்",
+    "options_ta": [
+      "கபிலர்",
+      "அணிலாடு முன்றிலார்",
+      "பதுமனார்",
+      "முன்றுறை அரையனார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "நாலடியாரைத் தொகுத்தவர் பதுமனார் ஆவார்."
+  },
+  {
+    "q_no": 2,
+    "section_ta": "நாலடியார்",
+    "question_ta": "\"நாலும் இரண்டும் சொல்லுக்குறுதி\" இதில் 'நாலு' என்பது எதை குறிக்கிறது?",
+    "options_ta": [
+      "நான்மணிக் கடிகை",
+      "நாலடியார்",
+      "களவழி நாற்பது",
+      "கார் நாற்பது"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "'நாலும் இரண்டும்' என்பதில் நாலு என்பது நாலடியாரையும், இரண்டு என்பது திருக்குறளையும் குறிக்கும்."
+  },
+  {
+    "q_no": 3,
+    "section_ta": "நாலடியார்",
+    "question_ta": "'கல்வி அழகே அழகு' என்றும் 'கல்வி கரையில கற்பவர் நாள் சில' என்றும் கூறும் நூல்.",
+    "options_ta": [
+      "திருக்குறள்",
+      "நான்மணிக் கடிகை",
+      "திரிகடுகம்",
+      "நாலடியார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "D",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "இக்கூற்று நாலடியாரில் இடம்பெற்றுள்ளது."
+  },
+  {
+    "q_no": 4,
+    "section_ta": "நாலடியார்",
+    "question_ta": "திருக்குறளுக்கு அடுத்தபடியாக போற்றப்படும் நீதி நூல்",
+    "options_ta": [
+      "நாலடி நானூறு",
+      "நான்மணிக் கடிகை",
+      "இன்னா நாற்பது",
+      "திரிகடுகம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "நாலடியார் (நாலடி நானூறு) திருக்குறளுக்கு அடுத்தபடியாக போற்றப்படுகிறது."
+  },
+  {
+    "q_no": 5,
+    "section_ta": "நான்மணிக்கடிகை",
+    "question_ta": "நான் மணிக்கடிகையைப் பாடியவர் யார்?",
+    "options_ta": [
+      "விளம்பி நாகனார்",
+      "கபிலர்",
+      "முன்றுறை அரையனார்",
+      "கடுவெளி சித்தர்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "நான்மணிக்கடிகையைப் பாடியவர் விளம்பி நாகனார் ஆவார்."
+  },
+  {
+    "q_no": 6,
+    "section_ta": "நான்மணிக்கடிகை",
+    "question_ta": "'கடிகை' என்பதன் பொருள் யாது?",
+    "options_ta": [
+      "அணிகலன்",
+      "கடித்தல்",
+      "கடுகு",
+      "காரம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "கடிகை என்பதற்கு அணிகலன் என்று பொருள்."
+  },
+  {
+    "q_no": 7,
+    "section_ta": "பழமொழி நானூறு",
+    "question_ta": "\"கற்றவருக்கு எல்லா நாடுகளும் தம்முடைய நாடுகளே\" என்ற கருத்து அமைந்த பாடலை பாடிய சங்க புலவர் யார்?",
+    "options_ta": [
+      "கணியன் பூங்குன்றனார்",
+      "முன்றுறை அரையனார்",
+      "கணிமேதையியார்",
+      "திருவள்ளுவர்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "medium",
+    "answer_reason_ta": "பழமொழி நானூறு நூலைப் பாடியவர் முன்றுறை அரையனார் ஆவார். (பழமொழிப் பிரிவில் கேட்கப்பட்ட வினா; சங்கப்புலவர் விடை சரிபார்க்கவும்.)"
+  },
+  {
+    "q_no": 8,
+    "section_ta": "பழமொழி நானூறு",
+    "question_ta": "\"பொன் திறந்து கொண்டு புகாவா நல்கினாள்\" - பழமொழி நானூறு. இதில் புகாவா என்பதன் பொருள்",
+    "options_ta": [
+      "நீர்",
+      "உணவு",
+      "காற்று",
+      "பொருள்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "புகாவா என்பதன் பொருள் உணவு என்பதாகும்."
+  },
+  {
+    "q_no": 9,
+    "section_ta": "முதுமொழிக்காஞ்சி",
+    "question_ta": "'அறவுரைக் கோவை' என வழங்கப்படும் நூலின் பெயரை எழுதுக",
+    "options_ta": [
+      "திருக்குறள்",
+      "முதுமொழிக்காஞ்சி",
+      "ஆசாரக்கோவை",
+      "திருச்சிற்றம்பலக்கோவை"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "முதுமொழிக்காஞ்சி 'அறவுரைக் கோவை' என்றும் அழைக்கப்படுகிறது."
+  },
+  {
+    "q_no": 10,
+    "section_ta": "முதுமொழிக்காஞ்சி",
+    "question_ta": "புறப்பொருள் திணையின் பெயரைத் தாங்கிய நீதிநூல் எது?",
+    "options_ta": [
+      "நாலடியார்",
+      "முதுமொழிக்காஞ்சி",
+      "ஏலாதி",
+      "பழமொழி"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "காஞ்சி என்பது புறப்பொருள் திணைகளில் ஒன்று; எனவே முதுமொழிக்காஞ்சி புறப்பொருள் திணைப் பெயரைக் கொண்டுள்ளது."
+  },
+  {
+    "q_no": 11,
+    "section_ta": "திரிகடுகம்",
+    "question_ta": "\"செருஅடுதோள் நல்லாதன்\" எனப் பாராட்டுவது?",
+    "options_ta": [
+      "தொல்காப்பியம்",
+      "அகத்தியம்",
+      "பாயிரம்",
+      "நன்னூல்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திரிகடுகத்தைப் பாடிய நல்லாதனாரைப் பாயிரம் 'செருஅடுதோள் நல்லாதன்' எனப் பாராட்டுகிறது."
+  },
+  {
+    "q_no": 12,
+    "section_ta": "திரிகடுகம்",
+    "question_ta": "'திரிகடுகம்' எனும் நூலின் வெண்பாக்களின் எண்ணிக்கை",
+    "options_ta": [
+      "100 - வெண்பாக்கள்",
+      "102 - வெண்பாக்கள்",
+      "200 - வெண்பாக்கள்",
+      "90 - வெண்பாக்கள்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_1",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-8b29da0f-9ad7-49db-abe0-745155618c88.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திரிகடுகம் நூலில் 100 வெண்பாக்கள் உள்ளன."
+  },
+  {
+    "q_no": 13,
+    "section_ta": "திரிகடுகம்",
+    "question_ta": "திரிகடுகம் என்ற நூலின் ஆசிரியர்",
+    "options_ta": [
+      "கணிமேதாவியார்",
+      "கம்பர்",
+      "நல்லாதனார்",
+      "இளங்கோவடிகள்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "திரிகடுகம் நூலை இயற்றியவர் நல்லாதனார்."
+  },
+  {
+    "q_no": 14,
+    "section_ta": "இன்னா நாற்பது",
+    "question_ta": "'புலனழுக்கற்ற அந்தணாளன்' - என்று புகழப்படும் சங்கப்புலவர்",
+    "options_ta": [
+      "பரணர்",
+      "கபிலர்",
+      "நக்கீரனார்",
+      "ஔவையார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "கபிலர் 'புலனழுக்கற்ற அந்தணாளன்' எனப் புகழப்படுகிறார்."
+  },
+  {
+    "q_no": 15,
+    "section_ta": "இனியவை நாற்பது",
+    "question_ta": "'இனியவை நாற்பது' பாடலின் ஆசிரியர் யார்?",
+    "options_ta": [
+      "நப்பசலையார்",
+      "பூதஞ்சேந்தனார்",
+      "பூங்குன்றனார்",
+      "குடபுலவியனார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "இனியவை நாற்பது ஆசிரியர் பூதஞ்சேந்தனார்."
+  },
+  {
+    "q_no": 16,
+    "section_ta": "சிறுபஞ்சமூலம்",
+    "question_ta": "சிறுபஞ்சமூலம் என்ற நூலை இயற்றிய ஆசிரியரின் சமயம்",
+    "options_ta": [
+      "இந்து சமயம்",
+      "சமண சமயம்",
+      "கிறிஸ்தவ சமயம்",
+      "பௌத்த சமயம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "சிறுபஞ்சமூல ஆசிரியர் காரியாசான் சமண சமயத்தைச் சார்ந்தவர்."
+  },
+  {
+    "q_no": 17,
+    "section_ta": "சிறுபஞ்சமூலம்",
+    "question_ta": "ஐந்து சிறிய வேர்கள் என்ற பொருள் கொண்ட நூல் எது?",
+    "options_ta": [
+      "ஏலாதி",
+      "திரிகடுகம்",
+      "சிறுபஞ்சமூலம்",
+      "நாலடியார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "C",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "சிறுபஞ்சமூலம் என்பதன் பொருள் ஐந்து சிறிய வேர்கள்."
+  },
+  {
+    "q_no": 18,
+    "section_ta": "ஏலாதி",
+    "question_ta": "ஏலாதி - எந்த நூல் வகையைச் சார்ந்தது?",
+    "options_ta": [
+      "பதினெண் கீழ்க்கணக்கு",
+      "ஐஞ்சிறு காப்பியம்",
+      "ஐம்பெருங்காப்பியம்",
+      "பதினெண்மேற்கணக்கு"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "ஏலாதி பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றாகும்."
+  },
+  {
+    "q_no": 19,
+    "section_ta": "ஏலாதி",
+    "question_ta": "கணிமேதாவியார் எந்த சமயத்தைச் சார்ந்தவர்?",
+    "options_ta": [
+      "சைவம்",
+      "சமணம்",
+      "வைணவம்",
+      "பௌத்தம்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "ஏலாதி மற்றும் திணைமொழி ஐம்பது எழுதிய கணிமேதாவியார் சமண சமயத்தைச் சார்ந்தவர்."
+  },
+  {
+    "q_no": 20,
+    "section_ta": "ஏலாதி",
+    "question_ta": "ஏலாதி ...................... வெண்பாக்களை கொண்டுள்ளது",
+    "options_ta": [
+      "எழுபத்தொன்று",
+      "எண்பத்தொன்று",
+      "ஐம்பத்தொன்று",
+      "முப்பத்தொன்று"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "ஏலாதியில் 81 (எண்பத்தொன்று) வெண்பாக்கள் உள்ளன."
+  },
+  {
+    "q_no": 21,
+    "section_ta": "ஔவையார்",
+    "question_ta": "'மன்னற்கு தன்தேசம் அல்லால் சிறப்பில்லை கற்றோர்க்கு சென்ற இடமெல்லாம் சிறப்பு' - என்ற பாடல் இடம் பெற்ற நூல் எது?",
+    "options_ta": [
+      "மூதுரை",
+      "பழமொழி நானூறு",
+      "திருக்குறள்",
+      "நாலடியார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "இப்பாடல் ஔவையாரின் மூதுரை நூலில் இடம்பெற்றுள்ளது."
+  },
+  {
+    "q_no": 22,
+    "section_ta": "ஔவையார்",
+    "question_ta": "பொருத்துக:\na. மதியாதார் முற்றம் - 1. கூடுவது கோடி பெறும்\nb. உபசரிக்காதார் மனையில் - 2. மிதியாமை கோடி பெறும்\nc. குடியிறந்தார் தம்மோடு - 3. சொன்ன சொல் தவறாமை கோடி பெறும்\nd. கோடானு கோடி கொடுப்பினும் - 4. உண்ணாமை கோடி பெறும்",
+    "options_ta": [
+      "1 2 3 4",
+      "2 4 1 3",
+      "2 1 3 4",
+      "2 1 4 3"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "மதியாதார் முற்றம் மிதியாமை கோடி பெறும் (2), உபசரிக்காதார் மனையில் உண்ணாமை கோடி பெறும் (4), குடியிறந்தார் தம்மோடு கூடுவது கோடி பெறும் (1), கோடானு கோடி கொடுப்பினும் சொன்ன சொல் தவறாமை கோடி பெறும் (3). எனவே 2 4 1 3."
+  },
+  {
+    "q_no": 23,
+    "section_ta": "ஔவையார்",
+    "question_ta": "கீழ்க்கண்டவற்றில் ஔவையார் இயற்றிய நூல்",
+    "options_ta": [
+      "வெற்றி வேற்கை",
+      "அருங்கலச்செப்பு",
+      "நன்னெறி",
+      "ஞானக்குறள்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "A",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "வெற்றி வேற்கை (நறுந்தொகை) ஔவையாரால் இயற்றப்பட்டது."
+  },
+  {
+    "q_no": 24,
+    "section_ta": "ஔவையார்",
+    "question_ta": "\"சிறு எறும்பும் அதன் கையினால் எண் சாண் உடையதே\" என்றவர்",
+    "options_ta": [
+      "பரணர்",
+      "பொய்யில் புலவர்",
+      "செம்புலப்பெயல் நீராr",
+      "ஔவையார்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "D",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "இந்த வரிகள் ஔவையாரால் கூறப்பட்டவை."
+  },
+  {
+    "q_no": 25,
+    "section_ta": "ஔவையார்",
+    "question_ta": "'மீதூண் விரும்பேல்' இவ்வடியின் பொருள்",
+    "options_ta": [
+      "குறைவான உணவு உட்கொள்ளுதல் கூடாது",
+      "வயிறு புடைக்க உண்ணுதல் நோய்க்கு இடம் அளிக்கும்",
+      "மிக அதிகமாக உண்ண வேண்டும்",
+      "காலையிலும் இரவிலும் குறைவாகவும் மதியம் அதிகமாகவும் உண்ண வேண்டும்"
+    ],
+    "examGroup": [
+      "group4"
+    ],
+    "source_page": "pyq_screenshot_2",
+    "source": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "source_image": "image-c353768b-253e-46bf-8a62-76a64412c0b1.png",
+    "correct_option_letter": "B",
+    "answer_source": "gemini_inferred",
+    "answer_confidence": "high",
+    "answer_reason_ta": "மீதூண் விரும்பேல் என்றால் அளவுக்கு அதிகமாக உண்பதைத் தவிர்க்க வேண்டும் என்று பொருள்."
+  }
+]

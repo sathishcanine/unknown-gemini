@@ -1,0 +1,35 @@
+{
+  "subject_id": "Tamil",
+  "subject_en": "Tamil",
+  "subject_ta": "தமிழ்",
+  "unit": {
+    "id": "EliyaMozhiPeyarppu",
+    "name_en": "Simple Translation",
+    "name_ta": "எளிய மொழி பெயர்ப்பு",
+    "exam_questions": 5,
+    "syllabus_note": "TNPSC General Tamil — Unit 6 (எளிய மொழி பெயர்ப்பு)"
+  },
+  "topics": [
+    {
+      "id": "angilam_tamil_sorkal",
+      "name_en": "Tamil equivalents for English words",
+      "name_ta": "ஆங்கிலம் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+      "group": "பெயர்ப்பு",
+      "priority": 1
+    },
+    {
+      "id": "piramozhi_tamil_sorkal",
+      "name_en": "Tamil equivalents for foreign/loan words",
+      "name_ta": "பிறமொழிச் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+      "group": "பெயர்ப்பு",
+      "priority": 2
+    },
+    {
+      "id": "payanpaattil_angilam_peyarppu",
+      "name_en": "Translate English words in common use",
+      "name_ta": "பயன்பாட்டில் உள்ள ஆங்கிலச் சொற்களை மொழிபெயர்த்தல்",
+      "group": "பெயர்ப்பு",
+      "priority": 3
+    }
+  ]
+}

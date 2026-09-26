@@ -1,0 +1,11 @@
+---
+description: Never change Gemini model or API key strategy without explicit user permission
+alwaysApply: true
+---
+
+# Gemini model & API keys — permission required
+
+- **Do not change** the Gemini model name (e.g. `gemini-3.6-flash`, `gemini-3.1-flash-lite`) in any script, guide, or env default unless the user **explicitly** asks for that change in the current chat.
+- **Do not** silently swap models because of 429/503/404 errors. Report the error and wait for the user to choose the next model.
+- When rotating API keys, use **all** keys from `gemini_keys.py` (`gemini_keys()`), not a truncated subset, unless the user specifies otherwise.
+- This applies across **every chat** in this project — prior sessions do not authorize model changes.

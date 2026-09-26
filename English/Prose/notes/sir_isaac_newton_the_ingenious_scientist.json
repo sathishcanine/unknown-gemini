@@ -1,0 +1,96 @@
+{
+  "prose_id": "sir_isaac_newton_the_ingenious_scientist",
+  "prose_title": "Sir Isaac Newton – The Ingenious Scientist",
+  "author": "Nathaniel Hawthorne",
+  "num": 17,
+  "pdf_pages": [
+    385,
+    400
+  ],
+  "prose_text_en": "Sir Isaac Newton was born on Christmas Day, 1642, in Woolsthorpe, England. Raised by his grandmother, he displayed early mechanical ingenuity, creating a water-clock, a sun-dial, and a working model of a windmill. As an adult, he moved from constructing toys to studying the universe, discovering the nature of light and the law of gravitation. Despite his immense intellect and being knighted, he remained humble, famously remarking: 'I seem to myself like a child, playing on the sea-shore, and picking up here and there a curious shell or a pretty pebble, while the boundless ocean of Truth lies undiscovered before me.' He died in 1727 at the age of 85.",
+  "summary_en": "This biographical narrative explores the life of Sir Isaac Newton, tracing his journey from an inventive child creating mechanical models to a world-renowned scientist. It highlights his discovery of universal laws like gravity and light while emphasizing his profound humility despite his vast knowledge. The text portrays him as a lifelong seeker of truth who viewed his own achievements as insignificant compared to the mysteries of the universe.",
+  "characters": [
+    {
+      "name_en": "Sir Isaac Newton",
+      "role_en": "A brilliant scientist and inventor known for his curiosity and humility."
+    },
+    {
+      "name_en": "Newton's Grandmother",
+      "role_en": "Provided care for young Isaac and encouraged his early development."
+    },
+    {
+      "name_en": "Mr. Temple",
+      "role_en": "The narrator who discusses Newton's achievements with young George."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "ingenuity",
+      "meaning_en": "The ability to invent things; creativity."
+    },
+    {
+      "word_en": "contrived",
+      "meaning_en": "Created or invented."
+    },
+    {
+      "word_en": "apprentice",
+      "meaning_en": "Works for someone to learn a skill."
+    },
+    {
+      "word_en": "pried",
+      "meaning_en": "Investigated or looked closely into."
+    },
+    {
+      "word_en": "hopper",
+      "meaning_en": "Funnel-shaped bins for feeding grains into mills."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Nathaniel Hawthorne.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Newton was born on December 25, 1642, in Woolsthorpe.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Newton's humility quote: 'I seem to myself like a child... playing on the sea-shore...'",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "Newton died in 1727 at the age of 85.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Isaac Newton was born at __________.",
+      "answer_en": "Woolsthorpe",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Isaac was chiefly remarkable for his ingenuity. (Choose synonym for ingenuity)",
+      "answer_en": "b. notable (Wait: The text uses 'ingenuity' as creativity; the provided MCQ option B is 'notable', though 'ingenuity' is often 'creativity')",
+      "options_en": [
+        "a. common",
+        "b. notable",
+        "c. neglected",
+        "d. unknown"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "He will make a capital workman. (Choose synonym for capital)",
+      "answer_en": "b. excellent",
+      "options_en": [
+        "a. wealth",
+        "b. excellent",
+        "c. profitable",
+        "d. head"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

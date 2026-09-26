@@ -1,0 +1,57 @@
+{
+  "poem_id": "the_power_of_a_smile",
+  "poem_title": "The Power of a Smile",
+  "author": "Tupac Shakur",
+  "num": 16,
+  "pdf_pages": [
+    57,
+    57
+  ],
+  "poem_text_en": "The power of a sun can kill\nAnd the power of foe can burn \nThe power of wind can chill\nAnd the power of mind can learn\nThe power of anger can rage\nInside until it tears you apart\nBut the power of a smile \nEspecially yours can heal a frozen heart",
+  "summary_en": "The poem highlights the contrasting forces of nature and human emotion, noting how anger can be destructive. It concludes that a genuine smile has the unique transformative power to soothe and heal emotional coldness.",
+  "glossary": [
+    {
+      "word_en": "Foe",
+      "meaning_en": "Enemy"
+    },
+    {
+      "word_en": "Chill",
+      "meaning_en": "Make cold"
+    },
+    {
+      "word_en": "Rage",
+      "meaning_en": "Violent, uncontrollable anger"
+    },
+    {
+      "word_en": "Frozen heart",
+      "meaning_en": "A person who is emotionally distant, hurt, or unfeeling"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Anaphora",
+      "example_en": "The power of... / The power of...",
+      "note_en": "Repetition of the phrase 'The power of' at the beginning of consecutive lines."
+    },
+    {
+      "device_en": "Metaphor",
+      "example_en": "heal a frozen heart",
+      "note_en": "Comparing emotional pain or coldness to being frozen."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Poet: Tupac Shakur",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem contrasts negative natural/emotional forces with the positive impact of a smile.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The poem emphasizes that human connection can mend emotional wounds.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": []
+}

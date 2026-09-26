@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Query, HTTPException, Depends
+from fastapi import FastAPI, Query, HTTPException, Depends, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Optional
@@ -11,6 +11,13 @@ from fastapi.responses import FileResponse
 
 from database import db
 from admin_auth import hash_password, verify_password, create_access_token, require_admin
+from razorpay_payments import (
+    razorpay_configured,
+    razorpay_key_id,
+    create_order as rz_create_order,
+    verify_payment_signature,
+    verify_webhook_signature,
+)
 
 # Resolve project root directory path
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,6 +28,8 @@ app = FastAPI(title="TNPSC Prep API", description="Backend API for TNPSC Practic
 def _startup_ensure_schema():
     try:
         db.ensure_whatsapp_columns()
+        db.ensure_subscription_schema()
+        db.ensure_learn_card_columns()
     except Exception as e:
         print(f"Startup schema ensure failed: {e}")
 
@@ -103,6 +112,10 @@ class QuestionModel(BaseModel):
     correct_option: str
     explanation: Optional[str] = ""
     explanation_ta: Optional[str] = ""
+    learning_tip: Optional[str] = ""
+    learning_tip_ta: Optional[str] = ""
+    exam_trick: Optional[str] = ""
+    exam_trick_ta: Optional[str] = ""
     type: Optional[str] = "practice"
     batch: Optional[str] = ""
     group: Optional[str] = "Practice"
@@ -679,10 +692,20 @@ def admin_users_list(
     sort_by: str = "last_active_at",
     page: int = 1,
     page_size: int = 20,
+    user_filter: Optional[str] = None,
+    filter: Optional[str] = None,
     admin_username: str = Depends(require_admin),
 ):
     start, end = _default_dates(start, end)
-    return db.get_users_list(start, end, search=search, sort_by=sort_by, page=page, page_size=page_size)
+    return db.get_users_list(
+        start,
+        end,
+        search=search,
+        sort_by=sort_by,
+        page=page,
+        page_size=page_size,
+        user_filter=user_filter or filter,
+    )
 
 @app.get("/api/admin/users/{user_id}")
 def admin_user_detail(user_id: str, admin_username: str = Depends(require_admin)):
@@ -699,6 +722,291 @@ def admin_user_timeline(
     admin_username: str = Depends(require_admin),
 ):
     return db.get_user_timeline(user_id, page=page, page_size=page_size)
+
+
+class PlanOverrideItem(BaseModel):
+    plan_id: Optional[int] = None
+    plan_code: Optional[str] = None
+    code: Optional[str] = None
+    price_inr: Optional[int] = None
+    note: Optional[str] = None
+
+
+class PlanOverridesBody(BaseModel):
+    overrides: List[PlanOverrideItem]
+
+
+class AdminPlanCreateBody(BaseModel):
+    code: str
+    name: str
+    name_ta: Optional[str] = None
+    duration_days: int
+    price_inr: int
+    sort_order: Optional[int] = None
+    is_active: Optional[bool] = True
+
+
+class AdminPlanUpdateBody(BaseModel):
+    name: Optional[str] = None
+    name_ta: Optional[str] = None
+    duration_days: Optional[int] = None
+    price_inr: Optional[int] = None
+    sort_order: Optional[int] = None
+    is_active: Optional[bool] = None
+
+
+class AdminPlanReorderBody(BaseModel):
+    ordered_ids: List[int]
+
+
+@app.get("/api/plans")
+def get_subscription_plans(user_id: Optional[str] = None):
+    """Default or user-specific effective plan prices for the app."""
+    return db.get_plans_for_user(user_id)
+
+
+@app.get("/api/admin/plans")
+def admin_list_plans(
+    include_inactive: bool = True,
+    admin_username: str = Depends(require_admin),
+):
+    return db.admin_list_plans(include_inactive=include_inactive)
+
+
+@app.post("/api/admin/plans")
+def admin_create_plan(
+    body: AdminPlanCreateBody,
+    admin_username: str = Depends(require_admin),
+):
+    try:
+        return db.admin_create_plan(body.model_dump())
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.put("/api/admin/plans/reorder")
+def admin_reorder_plans(
+    body: AdminPlanReorderBody,
+    admin_username: str = Depends(require_admin),
+):
+    try:
+        return db.admin_reorder_plans(body.ordered_ids)
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.put("/api/admin/plans/{plan_id}")
+def admin_update_plan(
+    plan_id: int,
+    body: AdminPlanUpdateBody,
+    admin_username: str = Depends(require_admin),
+):
+    try:
+        data = db.admin_update_plan(plan_id, body.model_dump(exclude_unset=True))
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    if not data:
+        raise HTTPException(status_code=404, detail="Plan not found")
+    return data
+
+
+@app.delete("/api/admin/plans/{plan_id}")
+def admin_delete_plan(
+    plan_id: int,
+    force: bool = False,
+    admin_username: str = Depends(require_admin),
+):
+    try:
+        data = db.admin_delete_plan(plan_id, force=force)
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    if not data:
+        raise HTTPException(status_code=404, detail="Plan not found")
+    return data
+
+
+@app.get("/api/admin/users/{user_id}/plan-prices")
+def admin_get_user_plan_prices(user_id: str, admin_username: str = Depends(require_admin)):
+    data = db.get_user_plan_overrides(user_id)
+    if not data:
+        raise HTTPException(status_code=404, detail="User not found")
+    return data
+
+
+@app.put("/api/admin/users/{user_id}/plan-prices")
+def admin_set_user_plan_prices(
+    user_id: str,
+    body: PlanOverridesBody,
+    admin_username: str = Depends(require_admin),
+):
+    try:
+        data = db.set_user_plan_overrides(
+            user_id,
+            [item.model_dump() for item in body.overrides],
+            updated_by=admin_username,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    if not data:
+        raise HTTPException(status_code=404, detail="User not found")
+    return data
+
+
+class CreateOrderBody(BaseModel):
+    user_id: str
+    plan_code: str
+
+
+class VerifyPaymentBody(BaseModel):
+    user_id: str
+    razorpay_order_id: str
+    razorpay_payment_id: str
+    razorpay_signature: str
+
+
+class AdminGrantPremiumBody(BaseModel):
+    plan_code: Optional[str] = "1y"
+    days: Optional[int] = None
+
+
+@app.get("/api/payments/razorpay/config")
+def razorpay_config():
+    return {
+        "enabled": razorpay_configured(),
+        "key_id": razorpay_key_id() if razorpay_configured() else None,
+    }
+
+
+@app.get("/api/users/entitlement")
+def user_entitlement(user_id: str = Query(...)):
+    return db.get_user_entitlement(user_id)
+
+
+@app.post("/api/payments/razorpay/create-order")
+def create_razorpay_order(body: CreateOrderBody):
+    if not razorpay_configured():
+        raise HTTPException(
+            status_code=503,
+            detail="Razorpay not configured. Set RAZORPAY_KEY_ID and RAZORPAY_KEY_SECRET.",
+        )
+    plan = db.get_effective_plan_price(body.user_id, body.plan_code)
+    if not plan:
+        raise HTTPException(status_code=404, detail="Plan not found")
+    amount_inr = int(plan["price_inr"])
+    amount_paise = amount_inr * 100
+    receipt = f"p{plan['code']}-{str(plan['user_id'])[:8]}"
+    try:
+        order = rz_create_order(
+            amount_paise,
+            receipt=receipt,
+            notes={
+                "user_id": str(plan["user_id"]),
+                "plan_code": plan["code"],
+                "email": body.user_id,
+            },
+        )
+    except Exception as e:
+        raise HTTPException(status_code=502, detail=str(e))
+
+    try:
+        db.create_payment_order_record(
+            plan["user_id"],
+            plan,
+            amount_inr,
+            order["id"],
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Could not save payment order: {e}")
+    return {
+        "key_id": razorpay_key_id(),
+        "order_id": order["id"],
+        "amount": order["amount"],
+        "currency": order.get("currency", "INR"),
+        "plan_code": plan["code"],
+        "plan_name": plan["name"],
+        "amount_inr": amount_inr,
+        "prefill": {"email": body.user_id if "@" in body.user_id else ""},
+    }
+
+
+@app.post("/api/payments/razorpay/verify")
+def verify_razorpay_payment(body: VerifyPaymentBody):
+    if not verify_payment_signature(
+        body.razorpay_order_id,
+        body.razorpay_payment_id,
+        body.razorpay_signature,
+    ):
+        raise HTTPException(status_code=400, detail="Invalid payment signature")
+    entitlement = db.mark_order_paid_and_grant_premium(
+        body.razorpay_order_id,
+        razorpay_payment_id=body.razorpay_payment_id,
+        source="razorpay",
+    )
+    if not entitlement:
+        raise HTTPException(status_code=404, detail="Order not found")
+    return {"ok": True, "entitlement": entitlement}
+
+
+@app.post("/api/payments/razorpay/webhook")
+async def razorpay_webhook(request: Request):
+    body = await request.body()
+    signature = request.headers.get("X-Razorpay-Signature", "")
+    if not verify_webhook_signature(body, signature):
+        raise HTTPException(status_code=400, detail="Invalid webhook signature")
+    try:
+        payload = json.loads(body.decode("utf-8"))
+    except Exception:
+        raise HTTPException(status_code=400, detail="Invalid JSON")
+
+    event = payload.get("event")
+    if event in ("payment.captured", "order.paid"):
+        payment = (payload.get("payload") or {}).get("payment", {}).get("entity") or {}
+        order_id = payment.get("order_id")
+        payment_id = payment.get("id")
+        if not order_id and event == "order.paid":
+            order = (payload.get("payload") or {}).get("order", {}).get("entity") or {}
+            order_id = order.get("id")
+        if order_id:
+            db.mark_order_paid_and_grant_premium(
+                order_id,
+                razorpay_payment_id=payment_id,
+                source="razorpay_webhook",
+            )
+    return {"ok": True}
+
+
+@app.get("/api/admin/users/{user_id}/entitlement")
+def admin_user_entitlement(user_id: str, admin_username: str = Depends(require_admin)):
+    return db.get_user_entitlement(user_id)
+
+
+@app.post("/api/admin/users/{user_id}/grant-premium")
+def admin_grant_premium(
+    user_id: str,
+    body: AdminGrantPremiumBody,
+    admin_username: str = Depends(require_admin),
+):
+    try:
+        data = db.admin_grant_premium(
+            user_id,
+            plan_code=body.plan_code or "1y",
+            days=body.days,
+            updated_by=admin_username,
+        )
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    if not data:
+        raise HTTPException(status_code=404, detail="User not found")
+    return data
+
+
+@app.post("/api/admin/users/{user_id}/revoke-premium")
+def admin_revoke_premium(user_id: str, admin_username: str = Depends(require_admin)):
+    data = db.admin_revoke_premium(user_id)
+    if not data:
+        raise HTTPException(status_code=404, detail="User not found")
+    return data
+
 
 @app.get("/api/admin/topics")
 def admin_topic_analytics(

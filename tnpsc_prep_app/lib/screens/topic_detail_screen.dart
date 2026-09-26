@@ -39,6 +39,12 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
         topic: appState.activeTopic,
       );
       await _loadCompletedBatches(appState);
+      final practiceKeys = <String>{};
+      for (final q in qs) {
+        if (q.type.toLowerCase() == 'pyq') continue;
+        practiceKeys.add(q.batch.trim().isEmpty ? '1' : q.batch);
+      }
+      appState.setActiveTopicPracticeBatches(appState.sortPracticeBatchKeys(practiceKeys));
       setState(() {
         _allQuestions = qs;
         _loading = false;
@@ -322,6 +328,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                           _buildBatchPanel(
                             appState: appState,
                             batchKeys: availableBatchKeys,
+                            allSortedBatchKeys: sortedBatchKeys,
                             batchesMap: batchesMap,
                             textColor: textColor,
                             mutedColor: mutedColor,
@@ -344,6 +351,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
                           _buildBatchPanel(
                             appState: appState,
                             batchKeys: completedBatchKeys,
+                            allSortedBatchKeys: sortedBatchKeys,
                             batchesMap: batchesMap,
                             textColor: textColor,
                             mutedColor: mutedColor,
@@ -362,6 +370,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
   Widget _buildBatchPanel({
     required AppState appState,
     required List<String> batchKeys,
+    required List<String> allSortedBatchKeys,
     required Map<String, List<Question>> batchesMap,
     required Color textColor,
     required Color mutedColor,
@@ -390,6 +399,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
               appState: appState,
               index: index,
               batchKey: batchKeys[index],
+              allSortedBatchKeys: allSortedBatchKeys,
               questions: batchesMap[batchKeys[index]]!,
               textColor: textColor,
               mutedColor: mutedColor,
@@ -406,6 +416,7 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
     required AppState appState,
     required int index,
     required String batchKey,
+    required List<String> allSortedBatchKeys,
     required List<Question> questions,
     required Color textColor,
     required Color mutedColor,
@@ -416,89 +427,228 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
       final m = RegExp(r'(\d+)').firstMatch(batchKey);
       return (m?.group(1) ?? '${index + 1}').padLeft(2, '0');
     })();
-    final accent = completed ? const Color(0xFF3B82F6) : const Color(0xFF10B981);
+    final unlocked = appState.isPracticeBatchUnlocked(batchKey, allSortedBatchKeys);
+    final accent = !unlocked
+        ? const Color(0xFFD97706)
+        : (completed ? const Color(0xFF3B82F6) : const Color(0xFF10B981));
     final norm = appState.normalizeBatchKey(batchKey);
     final stats = _completedByBatch[norm];
-    final scoreText = (completed && stats != null)
-        ? '${stats['correct_count'] ?? 0}/${stats['total_count'] ?? questions.length} · ${appState.hubLabel('Completed')}'
-        : appState.questionsAvailableLabel(questions.length);
+    final scoreText = !unlocked
+        ? 'Premium Aspirant'
+        : (completed && stats != null)
+            ? '${stats['correct_count'] ?? 0}/${stats['total_count'] ?? questions.length} · ${appState.hubLabel('Completed')}'
+            : appState.questionsAvailableLabel(questions.length);
 
     return InkWell(
-      onTap: () => _showStartDialog(questions),
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 14),
-        child: Row(
-          children: [
-            Container(
-              width: 42,
-              height: 42,
-              alignment: Alignment.center,
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(12),
-                color: accent.withOpacity(0.12),
+      onTap: () {
+        if (!unlocked) {
+          _showPremiumLockSheet();
+          return;
+        }
+        _showStartDialog(questions);
+      },
+      child: Opacity(
+        opacity: unlocked ? 1 : 0.92,
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 14),
+          child: Row(
+            children: [
+              Container(
+                width: 42,
+                height: 42,
+                alignment: Alignment.center,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(12),
+                  color: accent.withOpacity(0.12),
+                ),
+                child: !unlocked
+                    ? Icon(Icons.lock_rounded, color: accent, size: 20)
+                    : completed
+                        ? Icon(Icons.check_rounded, color: accent, size: 22)
+                        : Text(
+                            number,
+                            style: TextStyle(
+                              fontFamily: 'Outfit',
+                              fontSize: 15,
+                              fontWeight: FontWeight.w800,
+                              color: accent,
+                            ),
+                          ),
               ),
-              child: completed
-                  ? Icon(Icons.check_rounded, color: accent, size: 22)
-                  : Text(
-                      number,
+              const SizedBox(width: 14),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      appState.practiceBatchLabel(batchKey),
                       style: TextStyle(
                         fontFamily: 'Outfit',
                         fontSize: 15,
-                        fontWeight: FontWeight.w800,
-                        color: accent,
+                        fontWeight: FontWeight.bold,
+                        color: textColor,
                       ),
                     ),
-            ),
-            const SizedBox(width: 14),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    appState.practiceBatchLabel(batchKey),
-                    style: TextStyle(
-                      fontFamily: 'Outfit',
-                      fontSize: 15,
-                      fontWeight: FontWeight.bold,
-                      color: textColor,
+                    const SizedBox(height: 3),
+                    Text(
+                      scoreText,
+                      style: TextStyle(
+                        fontFamily: 'Inter',
+                        fontSize: 12,
+                        color: unlocked ? mutedColor : accent,
+                        fontWeight: unlocked ? FontWeight.w400 : FontWeight.w600,
+                      ),
                     ),
-                  ),
-                  const SizedBox(height: 3),
-                  Text(
-                    scoreText,
-                    style: TextStyle(
-                      fontFamily: 'Inter',
-                      fontSize: 12,
-                      color: mutedColor,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-              decoration: BoxDecoration(
-                color: accent,
-                borderRadius: BorderRadius.circular(10),
-              ),
-              child: Text(
-                appState.hubLabel(completed ? 'Retake' : 'Start'),
-                style: const TextStyle(
-                  fontFamily: 'Inter',
-                  fontWeight: FontWeight.bold,
-                  fontSize: 12,
-                  color: Colors.white,
+                  ],
                 ),
               ),
-            ),
-          ],
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                decoration: BoxDecoration(
+                  color: unlocked ? accent : accent.withOpacity(0.15),
+                  borderRadius: BorderRadius.circular(10),
+                  border: unlocked
+                      ? null
+                      : Border.all(color: accent.withOpacity(0.45)),
+                ),
+                child: Text(
+                  unlocked
+                      ? appState.hubLabel(completed ? 'Retake' : 'Start')
+                      : 'Unlock',
+                  style: TextStyle(
+                    fontFamily: 'Inter',
+                    fontWeight: FontWeight.bold,
+                    fontSize: 12,
+                    color: unlocked ? Colors.white : accent,
+                  ),
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );
   }
 
+  void _showPremiumLockSheet() {
+    final appState = Provider.of<AppState>(context, listen: false);
+    final isDark = appState.isDarkMode;
+    final bSheetBg = isDark ? const Color(0xFF0F172A) : Colors.white;
+    final textColor = isDark ? Colors.white : const Color(0xFF0F172A);
+    final mutedColor = isDark ? Colors.grey : const Color(0xFF64748B);
+
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: bSheetBg,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
+      ),
+      builder: (context) {
+        return Padding(
+          padding: const EdgeInsets.fromLTRB(24, 16, 24, 28),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Container(
+                width: 40,
+                height: 4,
+                decoration: BoxDecoration(
+                  color: mutedColor.withOpacity(0.35),
+                  borderRadius: BorderRadius.circular(999),
+                ),
+              ),
+              const SizedBox(height: 20),
+              Container(
+                width: 64,
+                height: 64,
+                decoration: BoxDecoration(
+                  shape: BoxShape.circle,
+                  color: const Color(0xFFD97706).withOpacity(0.14),
+                ),
+                child: const Icon(
+                  Icons.workspace_premium_rounded,
+                  color: Color(0xFFD97706),
+                  size: 32,
+                ),
+              ),
+              const SizedBox(height: 16),
+              Text(
+                'Premium Aspirant',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontFamily: 'Outfit',
+                  fontSize: 22,
+                  fontWeight: FontWeight.w800,
+                  color: textColor,
+                ),
+              ),
+              const SizedBox(height: 10),
+              Text(
+                'Only the first practice batch is free in each topic. Unlock all remaining batches as a Premium Aspirant.',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontFamily: 'Inter',
+                  fontSize: 14,
+                  height: 1.45,
+                  color: mutedColor,
+                ),
+              ),
+              const SizedBox(height: 22),
+              SizedBox(
+                width: double.infinity,
+                height: 50,
+                child: ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: const Color(0xFFD97706),
+                    foregroundColor: Colors.white,
+                    elevation: 0,
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                  ),
+                  onPressed: () {
+                    Navigator.pop(context);
+                    appState.navigateToPremium();
+                  },
+                  child: const Text(
+                    'Become Premium Aspirant',
+                    style: TextStyle(
+                      fontFamily: 'Outfit',
+                      fontWeight: FontWeight.w800,
+                      fontSize: 15,
+                    ),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 8),
+              TextButton(
+                onPressed: () => Navigator.pop(context),
+                child: Text(
+                  'Not now',
+                  style: TextStyle(
+                    fontFamily: 'Inter',
+                    fontWeight: FontWeight.w600,
+                    color: mutedColor,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
   void _showStartDialog(List<Question> questions) {
     final appState = Provider.of<AppState>(context, listen: false);
+    final practice = questions.where((q) => q.type.toLowerCase() != 'pyq').toList();
+    if (practice.isNotEmpty) {
+      final raw = practice.first.batch.trim().isEmpty ? '1' : practice.first.batch;
+      if (!appState.isPracticeBatchUnlocked(raw)) {
+        _showPremiumLockSheet();
+        return;
+      }
+    }
     final isDark = appState.isDarkMode;
     final bSheetBg = isDark ? const Color(0xFF0F172A) : Colors.white;
     final textColor = isDark ? Colors.white : const Color(0xFF0F172A);

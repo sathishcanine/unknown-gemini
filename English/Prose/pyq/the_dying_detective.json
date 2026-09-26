@@ -1,0 +1,102 @@
+{
+  "prose_id": "the_dying_detective",
+  "prose_title": "The Dying Detective",
+  "questions": [
+    {
+      "prose_title": "The Dying Detective",
+      "prose_id": "the_dying_detective",
+      "question_en": "30. The author of “The Dying Detective” is -----",
+      "options_en": [
+        "Sir Arthur Conan Doyle",
+        "Mr. Holmes",
+        "Mrs. Hudson",
+        "Mr. Watson"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b006",
+      "band": "prose_pyq_b006"
+    },
+    {
+      "prose_title": "The Dying Detective",
+      "prose_id": "the_dying_detective",
+      "question_en": "34. Sherlock Holmes was famous -----",
+      "options_en": [
+        "Soldier",
+        "Doctor",
+        "Sports person",
+        "Detective"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b006",
+      "band": "prose_pyq_b006"
+    },
+    {
+      "prose_title": "The Dying Detective",
+      "prose_id": "the_dying_detective",
+      "question_en": "55. Sherlock Holmes is a detective who features in the fiction of",
+      "options_en": [
+        "Nathaniel Hawthorne",
+        "Arthur Conan Doyle",
+        "Ruskin Bond",
+        "Mark Twain"
+      ],
+      "answer_en": "Arthur Conan Doyle",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b006",
+      "band": "prose_pyq_b006"
+    },
+    {
+      "prose_title": "The Dying Detective",
+      "prose_id": "the_dying_detective",
+      "question_en": "74. When Watson returns with Mrs. Hudson to Holmes appartment, he sees",
+      "options_en": [
+        "Holmes had died",
+        "Savage had escaped",
+        "Holmes was sitting up in bed",
+        "Smith was already there"
+      ],
+      "answer_en": "Holmes was sitting up in bed",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b006",
+      "band": "prose_pyq_b006"
+    },
+    {
+      "prose_title": "The Dying Detective",
+      "prose_id": "the_dying_detective",
+      "question_en": "50. What pieces of the set were vital to the plot development of the play?",
+      "options_en": [
+        "The box, the lamp, the bed",
+        "The curtains, the box, the closet",
+        "The box, the lamp, the curtains",
+        "Holme's pipe, the box, the tea set"
+      ],
+      "answer_en": "The box, the lamp, the bed",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b006",
+      "band": "prose_pyq_b006"
+    },
+    {
+      "prose_title": "The Dying Detective",
+      "prose_id": "the_dying_detective",
+      "question_en": "Who is Sherlock Holmes?",
+      "options_en": [
+        "Novelist",
+        "Poet",
+        "Detective",
+        "Fiction writer"
+      ],
+      "answer_en": "Detective",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "top",
+      "band": "prose_pyq_b007"
+    }
+  ]
+}

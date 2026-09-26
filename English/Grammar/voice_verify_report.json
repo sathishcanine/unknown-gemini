@@ -1,0 +1,184 @@
+{
+  "batches": {
+    "active_to_passive|Batch 1": {
+      "done": true,
+      "topic_en": "Active → Passive",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "active_to_passive|Batch 2": {
+      "done": true,
+      "topic_en": "Active → Passive",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "passive_to_active|Batch 1": {
+      "done": true,
+      "topic_en": "Passive → Active",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "passive_to_active|Batch 2": {
+      "done": true,
+      "topic_en": "Passive → Active",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "voice_different_tenses|Batch 1": {
+      "done": true,
+      "topic_en": "Voice with Different Tenses",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "voice_different_tenses|Batch 2": {
+      "done": true,
+      "topic_en": "Voice with Different Tenses",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "voice_modals|Batch 1": {
+      "done": true,
+      "topic_en": "Voice with Modals",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "voice_modals|Batch 2": {
+      "done": true,
+      "topic_en": "Voice with Modals",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "imperative_sentences|Batch 1": {
+      "done": true,
+      "topic_en": "Imperative Sentences",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "imperative_sentences|Batch 2": {
+      "done": true,
+      "topic_en": "Imperative Sentences",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    }
+  },
+  "totals": {
+    "flagged": 0,
+    "dropped": 0,
+    "fixed": 0,
+    "final_db": 350,
+    "topic_q_verified": 250,
+    "short_batches": [],
+    "pass_batches": 10,
+    "needs_fix_batches": 0
+  }
+}

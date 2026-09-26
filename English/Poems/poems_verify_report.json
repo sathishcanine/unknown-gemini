@@ -1,0 +1,14 @@
+{
+  "poems": {
+    "the_crocodile": {
+      "summary": {
+        "total": 25,
+        "flagged": 2,
+        "verdict": "NEEDS_FIX"
+      },
+      "fixed": 1,
+      "dropped": 1,
+      "kept": 24
+    }
+  }
+}

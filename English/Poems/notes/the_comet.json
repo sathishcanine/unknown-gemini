@@ -1,0 +1,73 @@
+{
+  "poem_id": "the_comet",
+  "poem_title": "The Comet",
+  "author": "Norman Littleford",
+  "num": 23,
+  "pdf_pages": [
+    77,
+    81
+  ],
+  "poem_text_en": "Rampaging through the heavens\nNever stopping day or night,\nA spectacle of a lifetime\nA comet in full flight.\nFaster than a cheetah\nWith a tail that’s miles long,\nBigger than a mountain\nSo powerful and strong.\nThe outer ice is melting\nCausing vapor from the force,\nAnd leaves a trail behind it\nAs it travels on its course.\nIf one should come too close to earth\nThe atmosphere will shake,\nWith shockwave reaching to the ground\nCausing the land to quake.\nScientists say the chemicals\nIn the dust they leave behind,\nCould have started life on the earth\nWhich resulted in mankind.\nI cannot say if this is true\nI do not have the right,\nBut I know no better spectacle\nThan a comet in full flight.",
+  "summary_en": "The poem describes a comet's rapid journey through the heavens, emphasizing its immense size, speed, and powerful presence. The poet reflects on scientific theories suggesting comets may have brought the elements that sparked life on Earth. Ultimately, the poet concludes that witnessing a comet in full flight remains the most magnificent spectacle of a lifetime.",
+  "glossary": [
+    {
+      "word_en": "rampaging",
+      "meaning_en": "going through an area making a lot of noise and causing damage"
+    },
+    {
+      "word_en": "spectacle",
+      "meaning_en": "an unusual or unexpected event or situation that attracts attention, interest"
+    },
+    {
+      "word_en": "comet",
+      "meaning_en": "an icy small Solar body, which when passing close to the Sun, warms and begins to release gases"
+    },
+    {
+      "word_en": "trail",
+      "meaning_en": "a path often made or used for a particular purpose"
+    },
+    {
+      "word_en": "quake",
+      "meaning_en": "a sudden violent movement of the earth's surface"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "simile",
+      "example_en": "Faster than a cheetah",
+      "note_en": "The speed of the comet is compared to a cheetah using the word 'than'."
+    },
+    {
+      "device_en": "metaphor",
+      "example_en": "Bigger than a mountain",
+      "note_en": "The size of the comet is compared to a mountain to emphasize its magnitude."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Norman Littleford (1889–1947) was an American poet.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The comet is described as a 'spectacle of a lifetime'.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Scientists speculate that chemicals in the dust left by comets could have started life on Earth.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Which word could you replace 'rampaging' with?",
+      "answer_en": "c. speeding",
+      "options_en": [
+        "a. charging",
+        "b. rolling",
+        "c. speeding",
+        "d. flying"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

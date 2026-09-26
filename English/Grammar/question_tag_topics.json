@@ -1,0 +1,41 @@
+{
+  "subject_id": "English",
+  "menu": "question_tags",
+  "topics": [
+    {
+      "id": "basic_tags",
+      "name_en": "Basic Tags (Affirmative / Negative)",
+      "name_ta": "அடிப்படை வினாத் தடல்கள் (நேர்மறை / எதிர்மறை)",
+      "batches": 2,
+      "focus": "Positive statement → negative tag; negative statement → positive tag; same auxiliary/modal; contracted n't; punctuation comma + small letter."
+    },
+    {
+      "id": "no_auxiliary_modals",
+      "name_en": "No Auxiliary & Modals",
+      "name_ta": "துணை வினை இல்லா & Modal வினாத் தடல்கள்",
+      "batches": 2,
+      "focus": "Simple present → do/does; simple past → did; modals can/must/should/shall/will/would/need/ought; semi-negative hardly/seldom/never/rarely."
+    },
+    {
+      "id": "special_subjects",
+      "name_en": "Special Subjects (I am, There, Nobody, It)",
+      "name_ta": "சிறப்பு Subject-கள் (I am, There, Nobody, It)",
+      "batches": 2,
+      "focus": "I am → aren't I? / am I?; there is/are; nobody/everybody/somebody → they; something/nothing/everything → it; this/that; exclamatory tags."
+    },
+    {
+      "id": "imperatives_lets",
+      "name_en": "Imperatives & Let's",
+      "name_ta": "கட்டளை & Let's வினாத் தடல்கள்",
+      "batches": 2,
+      "focus": "Affirmative imperative → will you/won't you; negative imperative → will you; Let's → shall we; let him/her → will you."
+    },
+    {
+      "id": "spot_wrong_tag",
+      "name_en": "Spot the Wrong Tag",
+      "name_ta": "தவறான வினாத் தடலைக் கண்டறி",
+      "batches": 2,
+      "focus": "Identify incorrect tag; choose correct replacement; error in pronoun, auxiliary, polarity, or contraction."
+    }
+  ]
+}

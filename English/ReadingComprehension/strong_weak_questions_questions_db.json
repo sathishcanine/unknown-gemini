@@ -1,0 +1,3452 @@
+[
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Based on the distinction between strong and weak questions, what does a strong question primarily test in reading comprehension?",
+    "question_ta": "Based on the distinction between strong and weak questions, what does a strong question primarily test in reading comprehension?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Retrieval of explicitly stated facts",
+        "text_ta": "Retrieval of explicitly stated facts"
+      },
+      {
+        "key": "B",
+        "text_en": "Verification of direct textual details",
+        "text_ta": "Verification of direct textual details"
+      },
+      {
+        "key": "C",
+        "text_en": "Inferential skills and critical thinking",
+        "text_ta": "Inferential skills and critical thinking"
+      },
+      {
+        "key": "D",
+        "text_en": "Literal word-for-word recall",
+        "text_ta": "Literal word-for-word recall"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Strong questions test deeper analysis, interpretation, and drawing conclusions rather than simple fact retrieval.",
+    "explanation_ta": "Strong questions test deeper analysis, interpretation, and drawing conclusions rather than simple fact retrieval.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "p15"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How do weak questions differ from strong questions in reading comprehension exercises?",
+    "question_ta": "How do weak questions differ from strong questions in reading comprehension exercises?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They involve locating information directly stated in the text.",
+        "text_ta": "They involve locating information directly stated in the text."
+      },
+      {
+        "key": "B",
+        "text_en": "They test complex logical inferences.",
+        "text_ta": "They test complex logical inferences."
+      },
+      {
+        "key": "C",
+        "text_en": "They focus entirely on metaphorical interpretations.",
+        "text_ta": "They focus entirely on metaphorical interpretations."
+      },
+      {
+        "key": "D",
+        "text_en": "They require deep critical thinking.",
+        "text_ta": "They require deep critical thinking."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Weak questions are straightforward, factual, and involve confirming details explicitly mentioned in the passage.",
+    "explanation_ta": "Weak questions are straightforward, factual, and involve confirming details explicitly mentioned in the passage.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "p19"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the motivations of Ilavazhagi's father regarding his own unfulfilled carrom career?",
+    "question_ta": "What can be inferred about the motivations of Ilavazhagi's father regarding his own unfulfilled carrom career?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He only wanted her to play casually as an evening hobby.",
+        "text_ta": "He only wanted her to play casually as an evening hobby."
+      },
+      {
+        "key": "B",
+        "text_en": "He wanted to discourage anyone from playing carrom.",
+        "text_ta": "He wanted to discourage anyone from playing carrom."
+      },
+      {
+        "key": "C",
+        "text_en": "He channeled his own shattered dreams into training his daughter from an early age.",
+        "text_ta": "He channeled his own shattered dreams into training his daughter from an early age."
+      },
+      {
+        "key": "D",
+        "text_en": "He planned to open a commercial sports academy for others.",
+        "text_ta": "He planned to open a commercial sports academy for others."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Since his career was hindered by a lack of support, he poured his aspirations into training his daughter early.",
+    "explanation_ta": "Since his career was hindered by a lack of support, he poured his aspirations into training his daughter early.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following represents a classic weak question style based on Ilavazhagi's background?",
+    "question_ta": "Which of the following represents a classic weak question style based on Ilavazhagi's background?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Why might international travel pose a constant financial hurdle?",
+        "text_ta": "Why might international travel pose a constant financial hurdle?"
+      },
+      {
+        "key": "B",
+        "text_en": "What underlying message does her career convey?",
+        "text_ta": "What underlying message does her career convey?"
+      },
+      {
+        "key": "C",
+        "text_en": "How does her family's hardship reflect societal structures?",
+        "text_ta": "How does her family's hardship reflect societal structures?"
+      },
+      {
+        "key": "D",
+        "text_en": "What was her father's primary profession mentioned in the text?",
+        "text_ta": "What was her father's primary profession mentioned in the text?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Weak questions focus on simple identification of facts and confirmation of details like professions directly stated.",
+    "explanation_ta": "Weak questions focus on simple identification of facts and confirmation of details like professions directly stated.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the grandfather's preference in the Dehradun garden based on his background as a retired Indian Forest Service officer?",
+    "question_ta": "What can be inferred about the grandfather's preference in the Dehradun garden based on his background as a retired Indian Forest Service officer?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He preferred cultivating delicate ornamental flowers exclusively like his wife.",
+        "text_ta": "He preferred cultivating delicate ornamental flowers exclusively like his wife."
+      },
+      {
+        "key": "B",
+        "text_en": "He showed zero interest in gardening after his retirement.",
+        "text_ta": "He showed zero interest in gardening after his retirement."
+      },
+      {
+        "key": "C",
+        "text_en": "He cultivated trees and plants that connected with nature and attracted wildlife like butterflies.",
+        "text_ta": "He cultivated trees and plants that connected with nature and attracted wildlife like butterflies."
+      },
+      {
+        "key": "D",
+        "text_en": "He wanted to clear all vegetation to build a concrete patio.",
+        "text_ta": "He wanted to clear all vegetation to build a concrete patio."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "His background and actions show he believed in maintaining a connection with nature to welcome creatures like butterflies.",
+    "explanation_ta": "His background and actions show he believed in maintaining a connection with nature to welcome creatures like butterflies.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following is a direct factual detail (weak question target) regarding Ajay Kumar Garg's early life?",
+    "question_ta": "Which of the following is a direct factual detail (weak question target) regarding Ajay Kumar Garg's early life?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "What specific event caused him to become hearing impaired",
+        "text_ta": "What specific event caused him to become hearing impaired"
+      },
+      {
+        "key": "B",
+        "text_en": "How his artistic talent symbolizes overcoming psychological trauma",
+        "text_ta": "How his artistic talent symbolizes overcoming psychological trauma"
+      },
+      {
+        "key": "C",
+        "text_en": "The underlying philosophical meaning of painting on rice grains",
+        "text_ta": "The underlying philosophical meaning of painting on rice grains"
+      },
+      {
+        "key": "D",
+        "text_en": "Why traditional miniature art became popular in Jaipur",
+        "text_ta": "Why traditional miniature art became popular in Jaipur"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Finding out that a childhood injury caused his hearing impairment is a direct fact retrieval question.",
+    "explanation_ta": "Finding out that a childhood injury caused his hearing impairment is a direct fact retrieval question.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What procedural detail does the 129th Constitutional Amendment Bill introduce regarding elections?",
+    "question_ta": "What procedural detail does the 129th Constitutional Amendment Bill introduce regarding elections?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Handing over union territory administration directly to foreign entities",
+        "text_ta": "Handing over union territory administration directly to foreign entities"
+      },
+      {
+        "key": "B",
+        "text_en": "Canceling all state legislative assembly terms permanently",
+        "text_ta": "Canceling all state legislative assembly terms permanently"
+      },
+      {
+        "key": "C",
+        "text_en": "Banning general elections after the year 2029",
+        "text_ta": "Banning general elections after the year 2029"
+      },
+      {
+        "key": "D",
+        "text_en": "Holding simultaneous elections for the Lok Sabha and State Legislative Assemblies via Article 82(A)",
+        "text_ta": "Holding simultaneous elections for the Lok Sabha and State Legislative Assemblies via Article 82(A)"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage states the 129th Constitutional Amendment Bill proposes holding simultaneous elections and introduces Article 82(A).",
+    "explanation_ta": "The passage states the 129th Constitutional Amendment Bill proposes holding simultaneous elections and introduces Article 82(A).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary rationale behind the Tamil Nadu government's morning breakfast scheme according to research findings?",
+    "question_ta": "What is the primary rationale behind the Tamil Nadu government's morning breakfast scheme according to research findings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To replace mid-day meal programs entirely across all districts",
+        "text_ta": "To replace mid-day meal programs entirely across all districts"
+      },
+      {
+        "key": "B",
+        "text_en": "To reduce the overall budget allocated for public education",
+        "text_ta": "To reduce the overall budget allocated for public education"
+      },
+      {
+        "key": "C",
+        "text_en": "To improve human resource capital by correlating breakfast with better academic grades and attendance",
+        "text_ta": "To improve human resource capital by correlating breakfast with better academic grades and attendance"
+      },
+      {
+        "key": "D",
+        "text_en": "To fulfill international trade mandates set by foreign organizations",
+        "text_ta": "To fulfill international trade mandates set by foreign organizations"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Research indicates regular breakfast intake correlates with better academic performance and school attendance, improving human resource capital.",
+    "explanation_ta": "Research indicates regular breakfast intake correlates with better academic performance and school attendance, improving human resource capital.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does Tamil Nadu's Chief Minister view education in the context of state welfare schemes?",
+    "question_ta": "How does Tamil Nadu's Chief Minister view education in the context of state welfare schemes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As an optional luxury for urban families",
+        "text_ta": "As an optional luxury for urban families"
+      },
+      {
+        "key": "B",
+        "text_en": "As a temporary measure to boost short-term employment",
+        "text_ta": "As a temporary measure to boost short-term employment"
+      },
+      {
+        "key": "C",
+        "text_en": "As a private commodity best managed by corporate entities",
+        "text_ta": "As a private commodity best managed by corporate entities"
+      },
+      {
+        "key": "D",
+        "text_en": "As invaluable wealth that cannot be stolen, requiring prioritized nutrition and learning",
+        "text_ta": "As invaluable wealth that cannot be stolen, requiring prioritized nutrition and learning"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage notes that the Chief Minister views education as invaluable wealth that cannot be stolen.",
+    "explanation_ta": "The passage notes that the Chief Minister views education as invaluable wealth that cannot be stolen.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS7"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why did the Tamil Nadu government launch the Vidiyal Payanam Scheme in 2021?",
+    "question_ta": "Why did the Tamil Nadu government launch the Vidiyal Payanam Scheme in 2021?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To modernize the state railway infrastructure",
+        "text_ta": "To modernize the state railway infrastructure"
+      },
+      {
+        "key": "B",
+        "text_en": "To mitigate economic vulnerabilities for women worsened by the COVID-19 pandemic",
+        "text_ta": "To mitigate economic vulnerabilities for women worsened by the COVID-19 pandemic"
+      },
+      {
+        "key": "C",
+        "text_en": "To restrict female mobility during lockdown periods",
+        "text_ta": "To restrict female mobility during lockdown periods"
+      },
+      {
+        "key": "D",
+        "text_en": "To encourage private vehicle ownership among urban citizens",
+        "text_ta": "To encourage private vehicle ownership among urban citizens"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The pandemic worsened economic vulnerabilities for women, prompting the state to launch the Vidiyal Payanam Scheme providing free bus travel.",
+    "explanation_ta": "The pandemic worsened economic vulnerabilities for women, prompting the state to launch the Vidiyal Payanam Scheme providing free bus travel.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS8"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which urban centers were specifically targeted by the State Planning Commission study on female travelers?",
+    "question_ta": "Which urban centers were specifically targeted by the State Planning Commission study on female travelers?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Trichy, Thanjavur, Erode, and Dindigul",
+        "text_ta": "Trichy, Thanjavur, Erode, and Dindigul"
+      },
+      {
+        "key": "B",
+        "text_en": "Chennai, Nagapattinam, Madurai, and Tiruppur",
+        "text_ta": "Chennai, Nagapattinam, Madurai, and Tiruppur"
+      },
+      {
+        "key": "C",
+        "text_en": "Chennai, Coimbatore, Salem, and Vellore",
+        "text_ta": "Chennai, Coimbatore, Salem, and Vellore"
+      },
+      {
+        "key": "D",
+        "text_en": "Kanchipuram, Cuddalore, Tirunelveli, and Karur",
+        "text_ta": "Kanchipuram, Cuddalore, Tirunelveli, and Karur"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text explicitly names Chennai and three other urban centers: Nagapattinam, Madurai, and Tiruppur.",
+    "explanation_ta": "The text explicitly names Chennai and three other urban centers: Nagapattinam, Madurai, and Tiruppur.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What growth rate did India's GDP record in the December quarter of FY25?",
+    "question_ta": "What growth rate did India's GDP record in the December quarter of FY25?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "7.0 percent",
+        "text_ta": "7.0 percent"
+      },
+      {
+        "key": "B",
+        "text_en": "4.8 percent",
+        "text_ta": "4.8 percent"
+      },
+      {
+        "key": "C",
+        "text_en": "5.4 percent",
+        "text_ta": "5.4 percent"
+      },
+      {
+        "key": "D",
+        "text_en": "6.2 percent",
+        "text_ta": "6.2 percent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage states that India's GDP grew by 6.2% in the December quarter of FY25.",
+    "explanation_ta": "The passage states that India's GDP grew by 6.2% in the December quarter of FY25.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'Rationale' mean in a formal context?",
+    "question_ta": "What does the glossary term 'Rationale' mean in a formal context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A physical barrier preventing movement",
+        "text_ta": "A physical barrier preventing movement"
+      },
+      {
+        "key": "B",
+        "text_en": "A set of reasons or a logical basis for a course of action",
+        "text_ta": "A set of reasons or a logical basis for a course of action"
+      },
+      {
+        "key": "C",
+        "text_en": "An unexpected delay in processing paperwork",
+        "text_ta": "An unexpected delay in processing paperwork"
+      },
+      {
+        "key": "D",
+        "text_en": "A sudden rise in financial investments",
+        "text_ta": "A sudden rise in financial investments"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rationale is defined as a set of reasons or a logical basis for a course of action.",
+    "explanation_ta": "Rationale is defined as a set of reasons or a logical basis for a course of action.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'Vigorous' as provided in the vocabulary glossary?",
+    "question_ta": "What is the meaning of the word 'Vigorous' as provided in the vocabulary glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fragile and delicate",
+        "text_ta": "Fragile and delicate"
+      },
+      {
+        "key": "B",
+        "text_en": "Energetic and powerful",
+        "text_ta": "Energetic and powerful"
+      },
+      {
+        "key": "C",
+        "text_en": "Tired and sluggish",
+        "text_ta": "Tired and sluggish"
+      },
+      {
+        "key": "D",
+        "text_en": "Silent and hidden",
+        "text_ta": "Silent and hidden"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Vigorous means energetic and powerful.",
+    "explanation_ta": "Vigorous means energetic and powerful.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Based on strong question principles, what does analyzing a character's relationship in a passage require?",
+    "question_ta": "Based on strong question principles, what does analyzing a character's relationship in a passage require?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Counting how many times names appear in sentences",
+        "text_ta": "Counting how many times names appear in sentences"
+      },
+      {
+        "key": "B",
+        "text_en": "Guessing external historical facts not mentioned anywhere",
+        "text_ta": "Guessing external historical facts not mentioned anywhere"
+      },
+      {
+        "key": "C",
+        "text_en": "Looking beyond literal text to understand underlying emotional and contextual ties",
+        "text_ta": "Looking beyond literal text to understand underlying emotional and contextual ties"
+      },
+      {
+        "key": "D",
+        "text_en": "Memorizing every dialogue word for word",
+        "text_ta": "Memorizing every dialogue word for word"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Strong questions require inferencing, understanding context, and analyzing character relationships rather than simple recall.",
+    "explanation_ta": "Strong questions require inferencing, understanding context, and analyzing character relationships rather than simple recall.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does a weak question typically focus on regarding passage details?",
+    "question_ta": "What does a weak question typically focus on regarding passage details?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simple identification of facts and confirmation of details",
+        "text_ta": "Simple identification of facts and confirmation of details"
+      },
+      {
+        "key": "B",
+        "text_en": "Evaluating the author's hidden political bias",
+        "text_ta": "Evaluating the author's hidden political bias"
+      },
+      {
+        "key": "C",
+        "text_en": "Predicting future outcomes based on incomplete data",
+        "text_ta": "Predicting future outcomes based on incomplete data"
+      },
+      {
+        "key": "D",
+        "text_en": "Interpreting complex symbolic metaphors",
+        "text_ta": "Interpreting complex symbolic metaphors"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Weak questions focus on simple identification of facts and confirmation of details.",
+    "explanation_ta": "Weak questions focus on simple identification of facts and confirmation of details.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When handling legislative or amendment passages in reading comprehension, what specific elements should you look for to answer fact-based weak questions?",
+    "question_ta": "When handling legislative or amendment passages in reading comprehension, what specific elements should you look for to answer fact-based weak questions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Poetic devices and rhyming schemes",
+        "text_ta": "Poetic devices and rhyming schemes"
+      },
+      {
+        "key": "B",
+        "text_en": "Emotional expressions of fictional characters",
+        "text_ta": "Emotional expressions of fictional characters"
+      },
+      {
+        "key": "C",
+        "text_en": "Botanical names of garden trees",
+        "text_ta": "Botanical names of garden trees"
+      },
+      {
+        "key": "D",
+        "text_en": "Specific article references like 82A and timelines like 2034 or 2029",
+        "text_ta": "Specific article references like 82A and timelines like 2034 or 2029"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R9 highlights looking for specific article references and timelines to answer fact-based questions.",
+    "explanation_ta": "Rule R9 highlights looking for specific article references and timelines to answer fact-based questions.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why are strong questions considered more demanding than weak questions in reading assessments?",
+    "question_ta": "Why are strong questions considered more demanding than weak questions in reading assessments?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They require outside encyclopedic research.",
+        "text_ta": "They require outside encyclopedic research."
+      },
+      {
+        "key": "B",
+        "text_en": "They have multiple correct options.",
+        "text_ta": "They have multiple correct options."
+      },
+      {
+        "key": "C",
+        "text_en": "They require logical inference based on the passage text rather than literal word-for-word recall.",
+        "text_ta": "They require logical inference based on the passage text rather than literal word-for-word recall."
+      },
+      {
+        "key": "D",
+        "text_en": "They only use archaic dictionary words.",
+        "text_ta": "They only use archaic dictionary words."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Strong questions require inference based on passage text rather than literal recall.",
+    "explanation_ta": "Strong questions require inference based on passage text rather than literal recall.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the phrasal verb 'Push to' signify according to the vocabulary notes?",
+    "question_ta": "What does the phrasal verb 'Push to' signify according to the vocabulary notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To push someone physically backward",
+        "text_ta": "To push someone physically backward"
+      },
+      {
+        "key": "B",
+        "text_en": "To abandon a project due to pressure",
+        "text_ta": "To abandon a project due to pressure"
+      },
+      {
+        "key": "C",
+        "text_en": "To delay an event until further notice",
+        "text_ta": "To delay an event until further notice"
+      },
+      {
+        "key": "D",
+        "text_en": "To make an effort to improve or promote progress",
+        "text_ta": "To make an effort to improve or promote progress"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Push to means to make an effort to improve or promote progress.",
+    "explanation_ta": "Push to means to make an effort to improve or promote progress.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does an 'uptick' refer to in economic or general contexts?",
+    "question_ta": "What does an 'uptick' refer to in economic or general contexts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A fixed governmental tax rate",
+        "text_ta": "A fixed governmental tax rate"
+      },
+      {
+        "key": "B",
+        "text_en": "A small increase",
+        "text_ta": "A small increase"
+      },
+      {
+        "key": "C",
+        "text_en": "A complete market collapse",
+        "text_ta": "A complete market collapse"
+      },
+      {
+        "key": "D",
+        "text_en": "A steady downward trend",
+        "text_ta": "A steady downward trend"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Uptick is defined as a small increase.",
+    "explanation_ta": "Uptick is defined as a small increase.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "G4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'propelled' mean in terms of movement or progress?",
+    "question_ta": "What does 'propelled' mean in terms of movement or progress?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Halted completely",
+        "text_ta": "Halted completely"
+      },
+      {
+        "key": "B",
+        "text_en": "Rotated in a circle",
+        "text_ta": "Rotated in a circle"
+      },
+      {
+        "key": "C",
+        "text_en": "Driven or pushed forward",
+        "text_ta": "Driven or pushed forward"
+      },
+      {
+        "key": "D",
+        "text_en": "Pulled backward into storage",
+        "text_ta": "Pulled backward into storage"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Propelled means driven or pushed forward.",
+    "explanation_ta": "Propelled means driven or pushed forward.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What skill is tested when a comprehension question examines the cause-effect relationship in a text?",
+    "question_ta": "What skill is tested when a comprehension question examines the cause-effect relationship in a text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Identifying how one event or policy directly triggers a specific outcome",
+        "text_ta": "Identifying how one event or policy directly triggers a specific outcome"
+      },
+      {
+        "key": "B",
+        "text_en": "Recognizing punctuation marks",
+        "text_ta": "Recognizing punctuation marks"
+      },
+      {
+        "key": "C",
+        "text_en": "Memorizing numerical statistics without context",
+        "text_ta": "Memorizing numerical statistics without context"
+      },
+      {
+        "key": "D",
+        "text_en": "Translating idioms into regional languages",
+        "text_ta": "Translating idioms into regional languages"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Comprehension questions require identifying the cause-effect relationship described in the text.",
+    "explanation_ta": "Comprehension questions require identifying the cause-effect relationship described in the text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R18"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How do inference-based strong questions treat the literal wording of a passage?",
+    "question_ta": "How do inference-based strong questions treat the literal wording of a passage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They rely solely on exact word matches.",
+        "text_ta": "They rely solely on exact word matches."
+      },
+      {
+        "key": "B",
+        "text_en": "They assume the text is factually incorrect.",
+        "text_ta": "They assume the text is factually incorrect."
+      },
+      {
+        "key": "C",
+        "text_en": "They ignore the passage entirely.",
+        "text_ta": "They ignore the passage entirely."
+      },
+      {
+        "key": "D",
+        "text_en": "They require understanding the underlying meaning rather than literal text.",
+        "text_ta": "They require understanding the underlying meaning rather than literal text."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Inference questions require understanding the underlying meaning rather than literal text.",
+    "explanation_ta": "Inference questions require understanding the underlying meaning rather than literal text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R13"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is a key characteristic of weak questions regarding contextual comprehension?",
+    "question_ta": "What is a key characteristic of weak questions regarding contextual comprehension?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They often require understanding the context of the story rather than just literal sentence meaning.",
+        "text_ta": "They often require understanding the context of the story rather than just literal sentence meaning."
+      },
+      {
+        "key": "B",
+        "text_en": "They replace vocabulary synonyms.",
+        "text_ta": "They replace vocabulary synonyms."
+      },
+      {
+        "key": "C",
+        "text_en": "They never appear in reading tests.",
+        "text_ta": "They never appear in reading tests."
+      },
+      {
+        "key": "D",
+        "text_en": "They always demand advanced philosophical critique.",
+        "text_ta": "They always demand advanced philosophical critique."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Weak questions often require understanding the context of the story rather than just literal sentence meaning.",
+    "explanation_ta": "Weak questions often require understanding the context of the story rather than just literal sentence meaning.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why are questions incorporating data limitations or ambiguous information used in test designs?",
+    "question_ta": "Why are questions incorporating data limitations or ambiguous information used in test designs?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To test awareness of data limitations or ambiguous information scenarios",
+        "text_ta": "To test awareness of data limitations or ambiguous information scenarios"
+      },
+      {
+        "key": "B",
+        "text_en": "To confuse students intentionally",
+        "text_ta": "To confuse students intentionally"
+      },
+      {
+        "key": "C",
+        "text_en": "To test mathematical calculus skills",
+        "text_ta": "To test mathematical calculus skills"
+      },
+      {
+        "key": "D",
+        "text_en": "To eliminate the need for reading passages",
+        "text_ta": "To eliminate the need for reading passages"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Questions with an 'Answer not known' or similar constraint test awareness of data limitations or ambiguous information scenarios.",
+    "explanation_ta": "Questions with an 'Answer not known' or similar constraint test awareness of data limitations or ambiguous information scenarios.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Strong & Weak Questions",
+    "source_note": "R16"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Based on strong question principles regarding character motivation, what can be inferred about Mr. A. Irudayaraj's decision to intensively train his daughter in carrom?",
+    "question_ta": "Based on strong question principles regarding character motivation, what can be inferred about Mr. A. Irudayaraj's decision to intensively train his daughter in carrom?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He was determined to achieve his own unfulfilled carrom ambitions through her after facing obstacles.",
+        "text_ta": "He was determined to achieve his own unfulfilled carrom ambitions through her after facing obstacles."
+      },
+      {
+        "key": "B",
+        "text_en": "He viewed carrom purely as a temporary hobby to pass the time.",
+        "text_ta": "He viewed carrom purely as a temporary hobby to pass the time."
+      },
+      {
+        "key": "C",
+        "text_en": "He wanted to become a professional coach for external students.",
+        "text_ta": "He wanted to become a professional coach for external students."
+      },
+      {
+        "key": "D",
+        "text_en": "He wanted her to pursue a different sport entirely.",
+        "text_ta": "He wanted her to pursue a different sport entirely."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Strong questions require inferential reasoning; the passage notes his career was hindered, leading him to channel his aspirations into training her.",
+    "explanation_ta": "Strong questions require inferential reasoning; the passage notes his career was hindered, leading him to channel his aspirations into training her.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What direct factual detail (weak question target) is stated regarding the profession of Ilavazhagi's father?",
+    "question_ta": "What direct factual detail (weak question target) is stated regarding the profession of Ilavazhagi's father?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He was a professional traditional miniature artist.",
+        "text_ta": "He was a professional traditional miniature artist."
+      },
+      {
+        "key": "B",
+        "text_en": "He worked in the manufacturing sector.",
+        "text_ta": "He worked in the manufacturing sector."
+      },
+      {
+        "key": "C",
+        "text_en": "He was a retired Indian Forest Service officer.",
+        "text_ta": "He was a retired Indian Forest Service officer."
+      },
+      {
+        "key": "D",
+        "text_en": "He worked as a fish-cart driver.",
+        "text_ta": "He worked as a fish-cart driver."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Weak questions test retrieval of explicitly stated information; the passage directly mentions he was a fish-cart driver.",
+    "explanation_ta": "Weak questions test retrieval of explicitly stated information; the passage directly mentions he was a fish-cart driver.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the grandfather's professional background based on his affinity for maintaining a thriving garden with various trees?",
+    "question_ta": "What can be inferred about the grandfather's professional background based on his affinity for maintaining a thriving garden with various trees?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He spent his entire career in urban transport administration.",
+        "text_ta": "He spent his entire career in urban transport administration."
+      },
+      {
+        "key": "B",
+        "text_en": "He was a retired Indian Forest Service officer.",
+        "text_ta": "He was a retired Indian Forest Service officer."
+      },
+      {
+        "key": "C",
+        "text_en": "He worked previously as a professional artist.",
+        "text_ta": "He worked previously as a professional artist."
+      },
+      {
+        "key": "D",
+        "text_en": "He was a retired businessman with no prior plant knowledge.",
+        "text_ta": "He was a retired businessman with no prior plant knowledge."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Strong questions connect background context and behavior; the text notes his career as an Indian Forest Service officer explains his connection to nature.",
+    "explanation_ta": "Strong questions connect background context and behavior; the text notes his career as an Indian Forest Service officer explains his connection to nature.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the weak question style targeting literal facts, what childhood incident caused Ajay Kumar Garg to become hearing impaired?",
+    "question_ta": "According to the weak question style targeting literal facts, what childhood incident caused Ajay Kumar Garg to become hearing impaired?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A severe sports accident",
+        "text_ta": "A severe sports accident"
+      },
+      {
+        "key": "B",
+        "text_en": "Exposure to loud industrial noise",
+        "text_ta": "Exposure to loud industrial noise"
+      },
+      {
+        "key": "C",
+        "text_en": "An illness contracted during school",
+        "text_ta": "An illness contracted during school"
+      },
+      {
+        "key": "D",
+        "text_en": "A childhood injury",
+        "text_ta": "A childhood injury"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Weak questions focus on direct factual recall; the text explicitly mentions a childhood injury.",
+    "explanation_ta": "Weak questions focus on direct factual recall; the text explicitly mentions a childhood injury.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What specific legislative mechanism does the 129th Constitutional Amendment Bill propose to synchronize elections?",
+    "question_ta": "What specific legislative mechanism does the 129th Constitutional Amendment Bill propose to synchronize elections?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Establishing Article 101(B)",
+        "text_ta": "Establishing Article 101(B)"
+      },
+      {
+        "key": "B",
+        "text_en": "Introducing Article 82(A)",
+        "text_ta": "Introducing Article 82(A)"
+      },
+      {
+        "key": "C",
+        "text_en": "Amending Article 21",
+        "text_ta": "Amending Article 21"
+      },
+      {
+        "key": "D",
+        "text_en": "Repealing Article 370",
+        "text_ta": "Repealing Article 370"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Strong/legislative questions require precise knowledge of specific article references mentioned in the passage.",
+    "explanation_ta": "Strong/legislative questions require precise knowledge of specific article references mentioned in the passage.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How does Tamil Nadu's Chief Minister view education in the context of state welfare and development?",
+    "question_ta": "How does Tamil Nadu's Chief Minister view education in the context of state welfare and development?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As invaluable wealth that cannot be stolen",
+        "text_ta": "As invaluable wealth that cannot be stolen"
+      },
+      {
+        "key": "B",
+        "text_en": "As an optional service for urban centers",
+        "text_ta": "As an optional service for urban centers"
+      },
+      {
+        "key": "C",
+        "text_en": "As a secondary priority compared to industrial output",
+        "text_ta": "As a secondary priority compared to industrial output"
+      },
+      {
+        "key": "D",
+        "text_en": "As a temporary economic burden",
+        "text_ta": "As a temporary economic burden"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "This is a direct factual detail retrieved from the Chief Minister's perspective in the passage.",
+    "explanation_ta": "This is a direct factual detail retrieved from the Chief Minister's perspective in the passage.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS7"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which urban centers were specifically targeted alongside Chennai by the State Planning Commission study on female travelers?",
+    "question_ta": "Which urban centers were specifically targeted alongside Chennai by the State Planning Commission study on female travelers?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Vyasarpadi, Jaipur, and Dehradun",
+        "text_ta": "Vyasarpadi, Jaipur, and Dehradun"
+      },
+      {
+        "key": "B",
+        "text_en": "Vellore, Erode, and Thanjavur",
+        "text_ta": "Vellore, Erode, and Thanjavur"
+      },
+      {
+        "key": "C",
+        "text_en": "Nagapattinam, Madurai, and Tiruppur",
+        "text_ta": "Nagapattinam, Madurai, and Tiruppur"
+      },
+      {
+        "key": "D",
+        "text_en": "Coimbatore, Salem, and Trichy",
+        "text_ta": "Coimbatore, Salem, and Trichy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Weak questions test specific data retrieval; the passage explicitly names these three urban centers alongside Chennai.",
+    "explanation_ta": "Weak questions test specific data retrieval; the passage explicitly names these three urban centers alongside Chennai.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What skill is tested when a comprehension question examines the cause-effect relationship described in a text?",
+    "question_ta": "What skill is tested when a comprehension question examines the cause-effect relationship described in a text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Comprehension and analytical reasoning regarding events and consequences",
+        "text_ta": "Comprehension and analytical reasoning regarding events and consequences"
+      },
+      {
+        "key": "B",
+        "text_en": "Memorization of page numbers",
+        "text_ta": "Memorization of page numbers"
+      },
+      {
+        "key": "C",
+        "text_en": "Literal word spelling",
+        "text_ta": "Literal word spelling"
+      },
+      {
+        "key": "D",
+        "text_en": "Translation accuracy into Tamil",
+        "text_ta": "Translation accuracy into Tamil"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R18 highlights that comprehension questions require identifying cause-effect dynamics described in text.",
+    "explanation_ta": "Rule R18 highlights that comprehension questions require identifying cause-effect dynamics described in text.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the family's living conditions from the mention of cramped spaces and financial hardship in Ilavazhagi's early life?",
+    "question_ta": "What can be inferred about the family's living conditions from the mention of cramped spaces and financial hardship in Ilavazhagi's early life?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They lived in extreme luxury with vast recreational facilities.",
+        "text_ta": "They lived in extreme luxury with vast recreational facilities."
+      },
+      {
+        "key": "B",
+        "text_en": "They had no interest in competitive sports.",
+        "text_ta": "They had no interest in competitive sports."
+      },
+      {
+        "key": "C",
+        "text_en": "They received continuous corporate sponsorships from birth.",
+        "text_ta": "They received continuous corporate sponsorships from birth."
+      },
+      {
+        "key": "D",
+        "text_en": "They managed to pursue international sporting dreams despite significant socioeconomic constraints.",
+        "text_ta": "They managed to pursue international sporting dreams despite significant socioeconomic constraints."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Strong inference connecting financial struggles (small apartment, fish-cart driver father) with her ultimate achievement as an international champion.",
+    "explanation_ta": "Strong inference connecting financial struggles (small apartment, fish-cart driver father) with her ultimate achievement as an international champion.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the grandfather's preference for attracting butterflies versus his wife's preference for flowers suggest about their garden environment?",
+    "question_ta": "What does the grandfather's preference for attracting butterflies versus his wife's preference for flowers suggest about their garden environment?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The garden was exclusively used for agricultural food production.",
+        "text_ta": "The garden was exclusively used for agricultural food production."
+      },
+      {
+        "key": "B",
+        "text_en": "There were no plants allowed near the house.",
+        "text_ta": "There were no plants allowed near the house."
+      },
+      {
+        "key": "C",
+        "text_en": "The garden featured a diverse ecosystem blending wildlife-friendly trees with cultivated flora.",
+        "text_ta": "The garden featured a diverse ecosystem blending wildlife-friendly trees with cultivated flora."
+      },
+      {
+        "key": "D",
+        "text_en": "The garden was a sterile, concrete-paved urban area.",
+        "text_ta": "The garden was a sterile, concrete-paved urban area."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Inference drawn from PASS3 describing the grandfather's trees attracting wildlife alongside his wife's flower cultivation.",
+    "explanation_ta": "Inference drawn from PASS3 describing the grandfather's trees attracting wildlife alongside his wife's flower cultivation.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about Ajay Kumar Garg's dedication to his craft despite losing his hearing?",
+    "question_ta": "What can be inferred about Ajay Kumar Garg's dedication to his craft despite losing his hearing?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He gave up painting immediately after his injury.",
+        "text_ta": "He gave up painting immediately after his injury."
+      },
+      {
+        "key": "B",
+        "text_en": "He mastered intricate traditional miniature art, demonstrating extraordinary resilience and skill.",
+        "text_ta": "He mastered intricate traditional miniature art, demonstrating extraordinary resilience and skill."
+      },
+      {
+        "key": "C",
+        "text_en": "He refused to study under any traditional masters.",
+        "text_ta": "He refused to study under any traditional masters."
+      },
+      {
+        "key": "D",
+        "text_en": "He only painted large-scale murals that required no close focus.",
+        "text_ta": "He only painted large-scale murals that required no close focus."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Inferential conclusion from PASS4 highlighting his mastery of miniature painting on rice grains despite his childhood impairment.",
+    "explanation_ta": "Inferential conclusion from PASS4 highlighting his mastery of miniature painting on rice grains despite his childhood impairment.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What procedural implication follows the introduction of Article 82(A) by the 2024 Constitutional Amendment Bill?",
+    "question_ta": "What procedural implication follows the introduction of Article 82(A) by the 2024 Constitutional Amendment Bill?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Transfer of election oversight to international bodies",
+        "text_ta": "Transfer of election oversight to international bodies"
+      },
+      {
+        "key": "B",
+        "text_en": "Immediate dissolution of all state assemblies by next week",
+        "text_ta": "Immediate dissolution of all state assemblies by next week"
+      },
+      {
+        "key": "C",
+        "text_en": "Permanent suspension of voting rights in Union Territories",
+        "text_ta": "Permanent suspension of voting rights in Union Territories"
+      },
+      {
+        "key": "D",
+        "text_en": "Alignment of election schedules and term lengths taking effect after the 2029 general elections",
+        "text_ta": "Alignment of election schedules and term lengths taking effect after the 2029 general elections"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Fact-based weak/strong retrieval from PASS5 specifying the timeline and Article 82(A) implementation.",
+    "explanation_ta": "Fact-based weak/strong retrieval from PASS5 specifying the timeline and Article 82(A) implementation.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Based on the State Planning Commission study evaluation, what was the primary focus of analyzing demographic data in cities like Chennai and Madurai?",
+    "question_ta": "Based on the State Planning Commission study evaluation, what was the primary focus of analyzing demographic data in cities like Chennai and Madurai?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To assess how the government free bus travel scheme affected female commuters",
+        "text_ta": "To assess how the government free bus travel scheme affected female commuters"
+      },
+      {
+        "key": "B",
+        "text_en": "To calculate municipal corporation tax revenues",
+        "text_ta": "To calculate municipal corporation tax revenues"
+      },
+      {
+        "key": "C",
+        "text_en": "To track international trade import volumes",
+        "text_ta": "To track international trade import volumes"
+      },
+      {
+        "key": "D",
+        "text_en": "To measure daily rainfall patterns during monsoon seasons",
+        "text_ta": "To measure daily rainfall patterns during monsoon seasons"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Directly retrieved from PASS9 detailing the study's evaluation purpose regarding female travelers.",
+    "explanation_ta": "Directly retrieved from PASS9 detailing the study's evaluation purpose regarding female travelers.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What macroeconomic factor poses a challenge to India's future GDP growth targets despite strong performance in the December quarter of FY25?",
+    "question_ta": "What macroeconomic factor poses a challenge to India's future GDP growth targets despite strong performance in the December quarter of FY25?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Global trade uncertainties and potential US tariffs",
+        "text_ta": "Global trade uncertainties and potential US tariffs"
+      },
+      {
+        "key": "B",
+        "text_en": "Excessive domestic rainfall",
+        "text_ta": "Excessive domestic rainfall"
+      },
+      {
+        "key": "C",
+        "text_en": "Complete absence of primary sector activities",
+        "text_ta": "Complete absence of primary sector activities"
+      },
+      {
+        "key": "D",
+        "text_en": "Surplus manufacturing employment",
+        "text_ta": "Surplus manufacturing employment"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Direct factual retrieval from PASS10 regarding challenges to future economic targets.",
+    "explanation_ta": "Direct factual retrieval from PASS10 regarding challenges to future economic targets.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How should vocabulary questions involving words like 'push to' or 'rationale' be approached in reading comprehension?",
+    "question_ta": "How should vocabulary questions involving words like 'push to' or 'rationale' be approached in reading comprehension?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "By translating them into completely unrelated technical jargon",
+        "text_ta": "By translating them into completely unrelated technical jargon"
+      },
+      {
+        "key": "B",
+        "text_en": "By ignoring the surrounding sentences entirely",
+        "text_ta": "By ignoring the surrounding sentences entirely"
+      },
+      {
+        "key": "C",
+        "text_en": "By considering the thematic flow and contextual meaning within the passage",
+        "text_ta": "By considering the thematic flow and contextual meaning within the passage"
+      },
+      {
+        "key": "D",
+        "text_en": "By always selecting the shortest option available",
+        "text_ta": "By always selecting the shortest option available"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Strategy rule R14 dictates that contextual meaning depends on the thematic flow of the passage.",
+    "explanation_ta": "Strategy rule R14 dictates that contextual meaning depends on the thematic flow of the passage.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Based on strong question principles regarding character analysis, what does the transfer of aspirations from Ilavazhagi's father to his daughter signify about their relationship and his unfulfilled career?",
+    "question_ta": "Based on strong question principles regarding character analysis, what does the transfer of aspirations from Ilavazhagi's father to his daughter signify about their relationship and his unfulfilled career?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He channeled his own thwarted ambitions and passion into coaching her from early childhood to overcome his lack of support.",
+        "text_ta": "He channeled his own thwarted ambitions and passion into coaching her from early childhood to overcome his lack of support."
+      },
+      {
+        "key": "B",
+        "text_en": "He expected her to pursue a different sport while he managed her schedule.",
+        "text_ta": "He expected her to pursue a different sport while he managed her schedule."
+      },
+      {
+        "key": "C",
+        "text_en": "He viewed carrom strictly as a casual pastime with no professional future.",
+        "text_ta": "He viewed carrom strictly as a casual pastime with no professional future."
+      },
+      {
+        "key": "D",
+        "text_en": "He wanted to distance himself from carrom entirely after failing.",
+        "text_ta": "He wanted to distance himself from carrom entirely after failing."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Strong questions test inferences and motivations; the passage notes his own career was hindered, leading him to channel his aspirations into training her.",
+    "explanation_ta": "Strong questions test inferences and motivations; the passage notes his own career was hindered, leading him to channel his aspirations into training her.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following represents a straightforward factual detail (weak question target) regarding Ilavazhagi's family background and living environment?",
+    "question_ta": "Which of the following represents a straightforward factual detail (weak question target) regarding Ilavazhagi's family background and living environment?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Her family owned a spacious estate near the city center.",
+        "text_ta": "Her family owned a spacious estate near the city center."
+      },
+      {
+        "key": "B",
+        "text_en": "Her father worked as a fish-cart driver and they faced financial struggles in cramped living conditions.",
+        "text_ta": "Her father worked as a fish-cart driver and they faced financial struggles in cramped living conditions."
+      },
+      {
+        "key": "C",
+        "text_en": "She grew up in a wealthy household with unrestricted access to premium sports equipment.",
+        "text_ta": "She grew up in a wealthy household with unrestricted access to premium sports equipment."
+      },
+      {
+        "key": "D",
+        "text_en": "Her father was a corporate executive who funded international training camps.",
+        "text_ta": "Her father was a corporate executive who funded international training camps."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Weak questions test retrieval of explicitly stated information, such as her father's profession as a fish-cart driver and their financial struggles.",
+    "explanation_ta": "Weak questions test retrieval of explicitly stated information, such as her father's profession as a fish-cart driver and their financial struggles.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the grandfather's professional background and his affinity for nature based on the Dehradun garden description?",
+    "question_ta": "What can be inferred about the grandfather's professional background and his affinity for nature based on the Dehradun garden description?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He disliked outdoor work and only maintained the garden because of his wife's insistence.",
+        "text_ta": "He disliked outdoor work and only maintained the garden because of his wife's insistence."
+      },
+      {
+        "key": "B",
+        "text_en": "He was a corporate businessman who planted exotic flowers for commercial profit.",
+        "text_ta": "He was a corporate businessman who planted exotic flowers for commercial profit."
+      },
+      {
+        "key": "C",
+        "text_en": "He was a retired Indian Forest Service officer whose career nurtured a deep, lifelong connection with trees and wildlife.",
+        "text_ta": "He was a retired Indian Forest Service officer whose career nurtured a deep, lifelong connection with trees and wildlife."
+      },
+      {
+        "key": "D",
+        "text_en": "He was an agricultural researcher studying urban crop yields.",
+        "text_ta": "He was an agricultural researcher studying urban crop yields."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Strong analytical questions require drawing conclusions from character background details like his Indian Forest Service officer status.",
+    "explanation_ta": "Strong analytical questions require drawing conclusions from character background details like his Indian Forest Service officer status.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the direct text (weak question target), what caused Ajay Kumar Garg to become hearing impaired?",
+    "question_ta": "According to the direct text (weak question target), what caused Ajay Kumar Garg to become hearing impaired?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A genetic condition present since birth",
+        "text_ta": "A genetic condition present since birth"
+      },
+      {
+        "key": "B",
+        "text_en": "A childhood injury and subsequent medical treatment",
+        "text_ta": "A childhood injury and subsequent medical treatment"
+      },
+      {
+        "key": "C",
+        "text_en": "An accident while working in an agricultural field",
+        "text_ta": "An accident while working in an agricultural field"
+      },
+      {
+        "key": "D",
+        "text_en": "A prolonged illness contracted during his art studies in Jaipur",
+        "text_ta": "A prolonged illness contracted during his art studies in Jaipur"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Weak questions focus on the direct recall of facts explicitly stated in the passage, such as the childhood injury.",
+    "explanation_ta": "Weak questions focus on the direct recall of facts explicitly stated in the passage, such as the childhood injury.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about Ajay Kumar Garg's perseverance despite his physical impairment?",
+    "question_ta": "What can be inferred about Ajay Kumar Garg's perseverance despite his physical impairment?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He only painted large-scale murals because miniatures were too difficult.",
+        "text_ta": "He only painted large-scale murals because miniatures were too difficult."
+      },
+      {
+        "key": "B",
+        "text_en": "He overcame his disability by discovering a talent for painting and mastering traditional Indian miniature art under expert mentors.",
+        "text_ta": "He overcame his disability by discovering a talent for painting and mastering traditional Indian miniature art under expert mentors."
+      },
+      {
+        "key": "C",
+        "text_en": "He relied solely on digital art tools to compensate for his hearing loss.",
+        "text_ta": "He relied solely on digital art tools to compensate for his hearing loss."
+      },
+      {
+        "key": "D",
+        "text_en": "He abandoned painting entirely and pursued manual labor.",
+        "text_ta": "He abandoned painting entirely and pursued manual labor."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Strong questions require synthesizing information about an individual's resilience and artistic achievements from the text.",
+    "explanation_ta": "Strong questions require synthesizing information about an individual's resilience and artistic achievements from the text.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What specific procedural mechanism does the 129th Constitutional Amendment Bill propose to synchronize elections?",
+    "question_ta": "What specific procedural mechanism does the 129th Constitutional Amendment Bill propose to synchronize elections?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dissolving all state assemblies immediately without legislative review",
+        "text_ta": "Dissolving all state assemblies immediately without legislative review"
+      },
+      {
+        "key": "B",
+        "text_en": "Abolishing the upper house of parliament across all states",
+        "text_ta": "Abolishing the upper house of parliament across all states"
+      },
+      {
+        "key": "C",
+        "text_en": "Empowering the judiciary to appoint local municipal heads directly",
+        "text_ta": "Empowering the judiciary to appoint local municipal heads directly"
+      },
+      {
+        "key": "D",
+        "text_en": "Introducing Article 82(A) to align election schedules and term lengths for Lok Sabha and State Assemblies",
+        "text_ta": "Introducing Article 82(A) to align election schedules and term lengths for Lok Sabha and State Assemblies"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Legislative comprehension weak/strong questions require identifying specific statutory mechanisms like Article 82(A).",
+    "explanation_ta": "Legislative comprehension weak/strong questions require identifying specific statutory mechanisms like Article 82(A).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "When do the specific structural changes introduced by the 2024 Constitutional Amendment Bill regarding simultaneous elections take effect?",
+    "question_ta": "When do the specific structural changes introduced by the 2024 Constitutional Amendment Bill regarding simultaneous elections take effect?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Retroactively from the 2019 general elections",
+        "text_ta": "Retroactively from the 2019 general elections"
+      },
+      {
+        "key": "B",
+        "text_en": "Immediately upon introduction in the cabinet",
+        "text_ta": "Immediately upon introduction in the cabinet"
+      },
+      {
+        "key": "C",
+        "text_en": "At the end of the current fiscal year",
+        "text_ta": "At the end of the current fiscal year"
+      },
+      {
+        "key": "D",
+        "text_en": "After the 2029 general elections",
+        "text_ta": "After the 2029 general elections"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "This is a direct factual detail test regarding the implementation timeline specified in the constitutional amendment passage.",
+    "explanation_ta": "This is a direct factual detail test regarding the implementation timeline specified in the constitutional amendment passage.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the primary rationale behind the Tamil Nadu government's morning breakfast scheme according to research and policy notes?",
+    "question_ta": "What is the primary rationale behind the Tamil Nadu government's morning breakfast scheme according to research and policy notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To subsidize local agricultural grain distributors",
+        "text_ta": "To subsidize local agricultural grain distributors"
+      },
+      {
+        "key": "B",
+        "text_en": "To replace existing midday meal programs entirely",
+        "text_ta": "To replace existing midday meal programs entirely"
+      },
+      {
+        "key": "C",
+        "text_en": "To improve human resource capital by correlating regular breakfast intake with better academic grades, happiness indices, and school attendance",
+        "text_ta": "To improve human resource capital by correlating regular breakfast intake with better academic grades, happiness indices, and school attendance"
+      },
+      {
+        "key": "D",
+        "text_en": "To reduce municipal waste management costs",
+        "text_ta": "To reduce municipal waste management costs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage outlines that the scheme targets human resource capital enhancement through improved attendance, grades, and happiness.",
+    "explanation_ta": "The passage outlines that the scheme targets human resource capital enhancement through improved attendance, grades, and happiness.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How does Tamil Nadu's Chief Minister view education in the broader context of state welfare and development?",
+    "question_ta": "How does Tamil Nadu's Chief Minister view education in the broader context of state welfare and development?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As invaluable wealth that cannot be stolen, serving as the foundation for equal opportunities and economic prosperity",
+        "text_ta": "As invaluable wealth that cannot be stolen, serving as the foundation for equal opportunities and economic prosperity"
+      },
+      {
+        "key": "B",
+        "text_en": "As a commercial commodity subject to market fluctuations",
+        "text_ta": "As a commercial commodity subject to market fluctuations"
+      },
+      {
+        "key": "C",
+        "text_en": "As secondary to industrial infrastructure projects",
+        "text_ta": "As secondary to industrial infrastructure projects"
+      },
+      {
+        "key": "D",
+        "text_en": "As an optional service best left to private institutions",
+        "text_ta": "As an optional service best left to private institutions"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Strong inferential reading of the Chief Minister's perspective highlights education as invaluable wealth providing equal opportunities.",
+    "explanation_ta": "Strong inferential reading of the Chief Minister's perspective highlights education as invaluable wealth providing equal opportunities.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS7"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which urban centers were specifically evaluated alongside Chennai by the State Planning Commission study on female travelers?",
+    "question_ta": "Which urban centers were specifically evaluated alongside Chennai by the State Planning Commission study on female travelers?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Coimbatore, Salem, and Erode",
+        "text_ta": "Coimbatore, Salem, and Erode"
+      },
+      {
+        "key": "B",
+        "text_en": "Vellore, Tirunelveli, and Thanjavur",
+        "text_ta": "Vellore, Tirunelveli, and Thanjavur"
+      },
+      {
+        "key": "C",
+        "text_en": "Trichy, Dindigul, and Cuddalore",
+        "text_ta": "Trichy, Dindigul, and Cuddalore"
+      },
+      {
+        "key": "D",
+        "text_en": "Nagapattinam, Madurai, and Tiruppur",
+        "text_ta": "Nagapattinam, Madurai, and Tiruppur"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A weak factual retrieval question targeting the specific cities evaluated in the State Planning Commission study.",
+    "explanation_ta": "A weak factual retrieval question targeting the specific cities evaluated in the State Planning Commission study.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Based on strong question principles, what does the transfer of aspirations from Ilavazhagi's father to his daughter signify about their relationship and his unfulfilled career?",
+    "question_ta": "Based on strong question principles, what does the transfer of aspirations from Ilavazhagi's father to his daughter signify about their relationship and his unfulfilled career?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It shows he wanted to live vicariously through her after facing obstacles himself.",
+        "text_ta": "It shows he wanted to live vicariously through her after facing obstacles himself."
+      },
+      {
+        "key": "B",
+        "text_en": "It indicates he was forcing her into a sport she disliked.",
+        "text_ta": "It indicates he was forcing her into a sport she disliked."
+      },
+      {
+        "key": "C",
+        "text_en": "It reveals he wanted to become a professional coach for external students.",
+        "text_ta": "It reveals he wanted to become a professional coach for external students."
+      },
+      {
+        "key": "D",
+        "text_en": "It proves he lost interest in carrom completely.",
+        "text_ta": "It proves he lost interest in carrom completely."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Strong questions require analyzing character motivations and relationships; her father channeled his own hindered ambitions into training her from a very early age.",
+    "explanation_ta": "Strong questions require analyzing character motivations and relationships; her father channeled his own hindered ambitions into training her from a very early age.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What macroeconomic factor primarily supported India's GDP growth in the December quarter of FY25?",
+    "question_ta": "What macroeconomic factor primarily supported India's GDP growth in the December quarter of FY25?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Foreign direct investments exclusively",
+        "text_ta": "Foreign direct investments exclusively"
+      },
+      {
+        "key": "B",
+        "text_en": "The primary sector",
+        "text_ta": "The primary sector"
+      },
+      {
+        "key": "C",
+        "text_en": "The tech startup sector",
+        "text_ta": "The tech startup sector"
+      },
+      {
+        "key": "D",
+        "text_en": "Retail real estate development",
+        "text_ta": "Retail real estate development"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Weak questions test specific data points mentioned in economic performance passages.",
+    "explanation_ta": "Weak questions test specific data points mentioned in economic performance passages.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What challenges still pose risks to India's future GDP growth targets despite strong performance in Q3 FY25?",
+    "question_ta": "What challenges still pose risks to India's future GDP growth targets despite strong performance in Q3 FY25?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A complete lack of primary sector activity",
+        "text_ta": "A complete lack of primary sector activity"
+      },
+      {
+        "key": "B",
+        "text_en": "Excessive deflation in the manufacturing sector",
+        "text_ta": "Excessive deflation in the manufacturing sector"
+      },
+      {
+        "key": "C",
+        "text_en": "Global trade uncertainties and potential US tariffs",
+        "text_ta": "Global trade uncertainties and potential US tariffs"
+      },
+      {
+        "key": "D",
+        "text_en": "Domestic agricultural overproduction",
+        "text_ta": "Domestic agricultural overproduction"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Inferential and factual reading comprehension checks identify external risk factors mentioned in the text.",
+    "explanation_ta": "Inferential and factual reading comprehension checks identify external risk factors mentioned in the text.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'Rationale' mean in a formal policy or analytical context?",
+    "question_ta": "What does the glossary term 'Rationale' mean in a formal policy or analytical context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A set of reasons or a logical basis for a course of action",
+        "text_ta": "A set of reasons or a logical basis for a course of action"
+      },
+      {
+        "key": "B",
+        "text_en": "A sudden emotional outburst",
+        "text_ta": "A sudden emotional outburst"
+      },
+      {
+        "key": "C",
+        "text_en": "A financial penalty for breaking rules",
+        "text_ta": "A financial penalty for breaking rules"
+      },
+      {
+        "key": "D",
+        "text_en": "An unexpected increase in data metrics",
+        "text_ta": "An unexpected increase in data metrics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Vocabulary items test exact glossary definitions provided in the study notes.",
+    "explanation_ta": "Vocabulary items test exact glossary definitions provided in the study notes.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the phrasal verb 'Push to' signify according to the vocabulary glossary?",
+    "question_ta": "What does the phrasal verb 'Push to' signify according to the vocabulary glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To delay a scheduled event indefinitely",
+        "text_ta": "To delay a scheduled event indefinitely"
+      },
+      {
+        "key": "B",
+        "text_en": "To make an effort to improve or promote progress",
+        "text_ta": "To make an effort to improve or promote progress"
+      },
+      {
+        "key": "C",
+        "text_en": "To physically move heavy objects backward",
+        "text_ta": "To physically move heavy objects backward"
+      },
+      {
+        "key": "D",
+        "text_en": "To reject an ongoing proposal",
+        "text_ta": "To reject an ongoing proposal"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tests the precise meaning of phrasal verbs defined in the syllabus notes.",
+    "explanation_ta": "Tests the precise meaning of phrasal verbs defined in the syllabus notes.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the economic term 'Uptick' refer to in general or financial contexts?",
+    "question_ta": "What does the economic term 'Uptick' refer to in general or financial contexts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A sudden change in government leadership",
+        "text_ta": "A sudden change in government leadership"
+      },
+      {
+        "key": "B",
+        "text_en": "A small increase",
+        "text_ta": "A small increase"
+      },
+      {
+        "key": "C",
+        "text_en": "A steep financial collapse",
+        "text_ta": "A steep financial collapse"
+      },
+      {
+        "key": "D",
+        "text_en": "A prolonged period of stagnation",
+        "text_ta": "A prolonged period of stagnation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Vocabulary check based directly on the provided glossary entry.",
+    "explanation_ta": "Vocabulary check based directly on the provided glossary entry.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation equivalent for the word 'Vigorous' as listed in the glossary?",
+    "question_ta": "What is the Tamil translation equivalent for the word 'Vigorous' as listed in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ஊக்கமுள்ள (Energetic and powerful)",
+        "text_ta": "ஊக்கமுள்ள (Energetic and powerful)"
+      },
+      {
+        "key": "B",
+        "text_en": "சோர்வு (Tired)",
+        "text_ta": "சோர்வு (Tired)"
+      },
+      {
+        "key": "C",
+        "text_en": "தாமதம் (Delayed)",
+        "text_ta": "தாமதம் (Delayed)"
+      },
+      {
+        "key": "D",
+        "text_en": "நிதானம் (Calm)",
+        "text_ta": "நிதானம் (Calm)"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Bilingual glossary test combining English vocabulary with its Tamil equivalent.",
+    "explanation_ta": "Bilingual glossary test combining English vocabulary with its Tamil equivalent.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the contrasting preferences of the grandfather and grandmother in the Dehradun garden?",
+    "question_ta": "What can be inferred about the contrasting preferences of the grandfather and grandmother in the Dehradun garden?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Their different tastes in planting trees versus flowers created a balanced ecosystem that attracted both wildlife and butterflies.",
+        "text_ta": "Their different tastes in planting trees versus flowers created a balanced ecosystem that attracted both wildlife and butterflies."
+      },
+      {
+        "key": "B",
+        "text_en": "The grandmother hated all living plants.",
+        "text_ta": "The grandmother hated all living plants."
+      },
+      {
+        "key": "C",
+        "text_en": "They completely neglected the garden after retiring.",
+        "text_ta": "They completely neglected the garden after retiring."
+      },
+      {
+        "key": "D",
+        "text_en": "They had constant arguments about landscape design.",
+        "text_ta": "They had constant arguments about landscape design."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Strong questions require synthesizing details about different characters' preferences to understand the overall environmental harmony of the setting.",
+    "explanation_ta": "Strong questions require synthesizing details about different characters' preferences to understand the overall environmental harmony of the setting.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What skill is primarily tested when a reading comprehension question asks for the author's implied message or underlying tone rather than a stated fact?",
+    "question_ta": "What skill is primarily tested when a reading comprehension question asks for the author's implied message or underlying tone rather than a stated fact?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Grammatical error detection skill",
+        "text_ta": "Grammatical error detection skill"
+      },
+      {
+        "key": "B",
+        "text_en": "Inferential and critical thinking skill (Strong question)",
+        "text_ta": "Inferential and critical thinking skill (Strong question)"
+      },
+      {
+        "key": "C",
+        "text_en": "Literal word-for-word scanning skill (Weak question)",
+        "text_ta": "Literal word-for-word scanning skill (Weak question)"
+      },
+      {
+        "key": "D",
+        "text_en": "Mathematical calculation skill",
+        "text_ta": "Mathematical calculation skill"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Core methodological concept distinguishing strong inferential questions from weak literal recall questions.",
+    "explanation_ta": "Core methodological concept distinguishing strong inferential questions from weak literal recall questions.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "How do weak questions typically operate in reading comprehension exercises?",
+    "question_ta": "How do weak questions typically operate in reading comprehension exercises?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "By demanding deep philosophical analysis of abstract themes",
+        "text_ta": "By demanding deep philosophical analysis of abstract themes"
+      },
+      {
+        "key": "B",
+        "text_en": "By requiring the reader to rewrite the passage in another language",
+        "text_ta": "By requiring the reader to rewrite the passage in another language"
+      },
+      {
+        "key": "C",
+        "text_en": "By evaluating psychological profiles of the characters",
+        "text_ta": "By evaluating psychological profiles of the characters"
+      },
+      {
+        "key": "D",
+        "text_en": "By testing straightforward factual retrieval and confirmation of explicitly stated details",
+        "text_ta": "By testing straightforward factual retrieval and confirmation of explicitly stated details"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Defines the fundamental nature of weak questions according to the study notes.",
+    "explanation_ta": "Defines the fundamental nature of weak questions according to the study notes.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What did Ilavazhagi's father do to nurture her early interest in carrom despite financial hardships?",
+    "question_ta": "What did Ilavazhagi's father do to nurture her early interest in carrom despite financial hardships?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He hired private international instructors for her.",
+        "text_ta": "He hired private international instructors for her."
+      },
+      {
+        "key": "B",
+        "text_en": "He coached her from a very early age and placed her on the carrom board.",
+        "text_ta": "He coached her from a very early age and placed her on the carrom board."
+      },
+      {
+        "key": "C",
+        "text_en": "He sent her to a boarding school in another city.",
+        "text_ta": "He sent her to a boarding school in another city."
+      },
+      {
+        "key": "D",
+        "text_en": "He bought her an expensive professional carrom board immediately.",
+        "text_ta": "He bought her an expensive professional carrom board immediately."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Combines factual retrieval with contextual background regarding her early training.",
+    "explanation_ta": "Combines factual retrieval with contextual background regarding her early training.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What artistic specialty did Ajay Kumar Garg develop under the guidance of Suo Lal and Asha Devi?",
+    "question_ta": "What artistic specialty did Ajay Kumar Garg develop under the guidance of Suo Lal and Asha Devi?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Large-scale oil painting on canvas",
+        "text_ta": "Large-scale oil painting on canvas"
+      },
+      {
+        "key": "B",
+        "text_en": "Traditional Indian miniature art, including painting on grains of rice",
+        "text_ta": "Traditional Indian miniature art, including painting on grains of rice"
+      },
+      {
+        "key": "C",
+        "text_en": "Digital graphic design and animation",
+        "text_ta": "Digital graphic design and animation"
+      },
+      {
+        "key": "D",
+        "text_en": "Abstract sculpture using metallic fragments",
+        "text_ta": "Abstract sculpture using metallic fragments"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Fact-locating weak question targeting Ajay Kumar Garg's specific artistic domain.",
+    "explanation_ta": "Fact-locating weak question targeting Ajay Kumar Garg's specific artistic domain.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What broader historical priority has shaped Tamil Nadu's public policy for decades, leading to high female workforce participation?",
+    "question_ta": "What broader historical priority has shaped Tamil Nadu's public policy for decades, leading to high female workforce participation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Heavy industrialization without welfare",
+        "text_ta": "Heavy industrialization without welfare"
+      },
+      {
+        "key": "B",
+        "text_en": "Agricultural export restrictions",
+        "text_ta": "Agricultural export restrictions"
+      },
+      {
+        "key": "C",
+        "text_en": "Gender justice and social welfare",
+        "text_ta": "Gender justice and social welfare"
+      },
+      {
+        "key": "D",
+        "text_en": "Reduction of public transport options",
+        "text_ta": "Reduction of public transport options"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tests understanding of the socio-political context preceding the Vidiyal Payanam Scheme.",
+    "explanation_ta": "Tests understanding of the socio-political context preceding the Vidiyal Payanam Scheme.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS8"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "In the context of the State Planning Commission study, what was the purpose of evaluating demographic and economic data in cities like Chennai and Madurai?",
+    "question_ta": "In the context of the State Planning Commission study, what was the purpose of evaluating demographic and economic data in cities like Chennai and Madurai?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To calculate municipal water consumption",
+        "text_ta": "To calculate municipal water consumption"
+      },
+      {
+        "key": "B",
+        "text_en": "To plan new highway construction projects for freight trucks",
+        "text_ta": "To plan new highway construction projects for freight trucks"
+      },
+      {
+        "key": "C",
+        "text_en": "To determine property tax rates for commercial buildings",
+        "text_ta": "To determine property tax rates for commercial buildings"
+      },
+      {
+        "key": "D",
+        "text_en": "To assess how the government free bus travel scheme affected female travelers",
+        "text_ta": "To assess how the government free bus travel scheme affected female travelers"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Strong reading comprehension connects study evaluations directly to their governing policy initiatives.",
+    "explanation_ta": "Strong reading comprehension connects study evaluations directly to their governing policy initiatives.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Why does the morning breakfast scheme correlate with positive educational indicators according to research notes?",
+    "question_ta": "Why does the morning breakfast scheme correlate with positive educational indicators according to research notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Because schools remain open 24 hours a day",
+        "text_ta": "Because schools remain open 24 hours a day"
+      },
+      {
+        "key": "B",
+        "text_en": "Because students receive financial cash prizes instead of food",
+        "text_ta": "Because students receive financial cash prizes instead of food"
+      },
+      {
+        "key": "C",
+        "text_en": "Because regular nutrition improves academic grades, attendance, and student happiness indices",
+        "text_ta": "Because regular nutrition improves academic grades, attendance, and student happiness indices"
+      },
+      {
+        "key": "D",
+        "text_en": "Because it eliminates homework requirements",
+        "text_ta": "Because it eliminates homework requirements"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Evaluates cause-and-effect relationships explicitly detailed in the breakfast scheme research findings.",
+    "explanation_ta": "Evaluates cause-and-effect relationships explicitly detailed in the breakfast scheme research findings.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the phrasal verb 'put on' imply when a coach places a young child on a sports board or surface?",
+    "question_ta": "What does the phrasal verb 'put on' imply when a coach places a young child on a sports board or surface?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To dress someone in winter clothing",
+        "text_ta": "To dress someone in winter clothing"
+      },
+      {
+        "key": "B",
+        "text_en": "To conceal something from view",
+        "text_ta": "To conceal something from view"
+      },
+      {
+        "key": "C",
+        "text_en": "To place something or someone onto a surface",
+        "text_ta": "To place something or someone onto a surface"
+      },
+      {
+        "key": "D",
+        "text_en": "To discard an item permanently",
+        "text_ta": "To discard an item permanently"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tests contextual understanding of phrasal verbs derived from PYQ patterns.",
+    "explanation_ta": "Tests contextual understanding of phrasal verbs derived from PYQ patterns.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PYQ"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the narrator's emotional connection to the grandfather in the Dehradun garden passage?",
+    "question_ta": "What can be inferred about the narrator's emotional connection to the grandfather in the Dehradun garden passage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The garden was only pleasant when the grandfather was absent.",
+        "text_ta": "The garden was only pleasant when the grandfather was absent."
+      },
+      {
+        "key": "B",
+        "text_en": "The narrator felt intimidated by the grandfather's forestry background.",
+        "text_ta": "The narrator felt intimidated by the grandfather's forestry background."
+      },
+      {
+        "key": "C",
+        "text_en": "The narrator disliked being outside near the trees.",
+        "text_ta": "The narrator disliked being outside near the trees."
+      },
+      {
+        "key": "D",
+        "text_en": "The grandfather's presence transformed the garden into a warm, happy place, reflecting a comforting bond.",
+        "text_ta": "The grandfather's presence transformed the garden into a warm, happy place, reflecting a comforting bond."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Inferential strong question examining character relationship dynamics within a narrative passage.",
+    "explanation_ta": "Inferential strong question examining character relationship dynamics within a narrative passage.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What administrative objective underlies the provisions of the Union Territories Laws (Amendment) Bill, 2024 alongside constitutional updates?",
+    "question_ta": "What administrative objective underlies the provisions of the Union Territories Laws (Amendment) Bill, 2024 alongside constitutional updates?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Abolishing all local municipal corporations",
+        "text_ta": "Abolishing all local municipal corporations"
+      },
+      {
+        "key": "B",
+        "text_en": "Eliminating judicial review entirely",
+        "text_ta": "Eliminating judicial review entirely"
+      },
+      {
+        "key": "C",
+        "text_en": "Refining legislative alignment and administrative procedures in Union Territories",
+        "text_ta": "Refining legislative alignment and administrative procedures in Union Territories"
+      },
+      {
+        "key": "D",
+        "text_en": "Transferring all territory governance to foreign entities",
+        "text_ta": "Transferring all territory governance to foreign entities"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Fact-retrieval question concerning companion legislative bills mentioned in the constitutional amendment context.",
+    "explanation_ta": "Fact-retrieval question concerning companion legislative bills mentioned in the constitutional amendment context.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "How do inference-based strong questions fundamentally differ from fact-locate weak questions in reading assessments?",
+    "question_ta": "How do inference-based strong questions fundamentally differ from fact-locate weak questions in reading assessments?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Weak questions require complex essay responses, while strong questions are purely numerical.",
+        "text_ta": "Weak questions require complex essay responses, while strong questions are purely numerical."
+      },
+      {
+        "key": "B",
+        "text_en": "Strong questions only use multiple-choice formats with true/false answers.",
+        "text_ta": "Strong questions only use multiple-choice formats with true/false answers."
+      },
+      {
+        "key": "C",
+        "text_en": "Strong questions demand logical deduction beyond literal word-for-word recall, whereas weak questions verify explicitly stated data.",
+        "text_ta": "Strong questions demand logical deduction beyond literal word-for-word recall, whereas weak questions verify explicitly stated data."
+      },
+      {
+        "key": "D",
+        "text_en": "There is no difference in methodology between the two question styles.",
+        "text_ta": "There is no difference in methodology between the two question styles."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Summarizes the foundational principle governing the distinction between strong and weak questions in TNPSC General English syllabi.",
+    "explanation_ta": "Summarizes the foundational principle governing the distinction between strong and weak questions in TNPSC General English syllabi.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Based on the distinction between strong and weak question types, what capability does a strong question fundamentally evaluate in reading comprehension?",
+    "question_ta": "Based on the distinction between strong and weak question types, what capability does a strong question fundamentally evaluate in reading comprehension?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Literal word-for-word memorization",
+        "text_ta": "Literal word-for-word memorization"
+      },
+      {
+        "key": "B",
+        "text_en": "Inferential skills and critical thinking",
+        "text_ta": "Inferential skills and critical thinking"
+      },
+      {
+        "key": "C",
+        "text_en": "The exact recall of dates and numbers",
+        "text_ta": "The exact recall of dates and numbers"
+      },
+      {
+        "key": "D",
+        "text_en": "Direct extraction of stated facts",
+        "text_ta": "Direct extraction of stated facts"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Strong questions assess deeper analysis, interpretation, and drawing logical conclusions rather than mere factual retrieval.",
+    "explanation_ta": "Strong questions assess deeper analysis, interpretation, and drawing logical conclusions rather than mere factual retrieval.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "How do weak questions typically function in reading comprehension assessments?",
+    "question_ta": "How do weak questions typically function in reading comprehension assessments?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They focus on the direct retrieval of explicitly stated information.",
+        "text_ta": "They focus on the direct retrieval of explicitly stated information."
+      },
+      {
+        "key": "B",
+        "text_en": "They involve intricate logical deductions from the text.",
+        "text_ta": "They involve intricate logical deductions from the text."
+      },
+      {
+        "key": "C",
+        "text_en": "They test complex psychological motivations of characters.",
+        "text_ta": "They test complex psychological motivations of characters."
+      },
+      {
+        "key": "D",
+        "text_en": "They require the evaluation of unstated authorial tones.",
+        "text_ta": "They require the evaluation of unstated authorial tones."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Weak questions are straightforward and involve finding information explicitly mentioned in the passage.",
+    "explanation_ta": "Weak questions are straightforward and involve finding information explicitly mentioned in the passage.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the primary motivation behind Ilavazhagi's father training her from a very early age?",
+    "question_ta": "What can be inferred about the primary motivation behind Ilavazhagi's father training her from a very early age?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He intended to secure a permanent government coaching job.",
+        "text_ta": "He intended to secure a permanent government coaching job."
+      },
+      {
+        "key": "B",
+        "text_en": "He was compelled by local authorities to promote carrom.",
+        "text_ta": "He was compelled by local authorities to promote carrom."
+      },
+      {
+        "key": "C",
+        "text_en": "He sought to channel his own unfulfilled career aspirations into his daughter.",
+        "text_ta": "He sought to channel his own unfulfilled career aspirations into his daughter."
+      },
+      {
+        "key": "D",
+        "text_en": "He wanted to achieve commercial success through sports branding.",
+        "text_ta": "He wanted to achieve commercial success through sports branding."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage indicates his own career was hindered by a lack of support, leading him to channel his aspirations into his daughter.",
+    "explanation_ta": "The passage indicates his own career was hindered by a lack of support, leading him to channel his aspirations into his daughter.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which of the following represents a classic weak question target regarding Ilavazhagi's background?",
+    "question_ta": "Which of the following represents a classic weak question target regarding Ilavazhagi's background?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "What was the specific occupation of Ilavazhagi's father?",
+        "text_ta": "What was the specific occupation of Ilavazhagi's father?"
+      },
+      {
+        "key": "B",
+        "text_en": "What underlying emotional pressure did her father face during his youth?",
+        "text_ta": "What underlying emotional pressure did her father face during his youth?"
+      },
+      {
+        "key": "C",
+        "text_en": "How did the family's financial struggles affect her psychological outlook?",
+        "text_ta": "How did the family's financial struggles affect her psychological outlook?"
+      },
+      {
+        "key": "D",
+        "text_en": "Why did international competitors feel intimidated by her presence?",
+        "text_ta": "Why did international competitors feel intimidated by her presence?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Weak questions test direct factual details, such as the father working as a fish-cart driver.",
+    "explanation_ta": "Weak questions test direct factual details, such as the father working as a fish-cart driver.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What can be inferred about the grandfather's professional background based on his affinity for maintaining a thriving garden with various trees near Dehradun?",
+    "question_ta": "What can be inferred about the grandfather's professional background based on his affinity for maintaining a thriving garden with various trees near Dehradun?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He previously worked in corporate agricultural business.",
+        "text_ta": "He previously worked in corporate agricultural business."
+      },
+      {
+        "key": "B",
+        "text_en": "He was a botany professor at a local university.",
+        "text_ta": "He was a botany professor at a local university."
+      },
+      {
+        "key": "C",
+        "text_en": "He had a background as a retired Indian Forest Service officer.",
+        "text_ta": "He had a background as a retired Indian Forest Service officer."
+      },
+      {
+        "key": "D",
+        "text_en": "He spent his entire life working as a commercial florist.",
+        "text_ta": "He spent his entire life working as a commercial florist."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage directly establishes his identity as a retired Indian Forest Service officer living near Dehradun.",
+    "explanation_ta": "The passage directly establishes his identity as a retired Indian Forest Service officer living near Dehradun.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Strong & Weak Questions",
+    "topic": "Strong & Weak Questions",
+    "topic_id": "strong_and_weak_questions",
+    "topic_ta": "Strong & Weak Questions",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "When do the specific structural changes introduced by the 129th Constitutional Amendment Bill regarding simultaneous elections take effect?",
+    "question_ta": "When do the specific structural changes introduced by the 129th Constitutional Amendment Bill regarding simultaneous elections take effect?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "At the discretion of the state governors",
+        "text_ta": "At the discretion of the state governors"
+      },
+      {
+        "key": "B",
+        "text_en": "After the 2029 general elections",
+        "text_ta": "After the 2029 general elections"
+      },
+      {
+        "key": "C",
+        "text_en": "Immediately upon introduction in the cabinet",
+        "text_ta": "Immediately upon introduction in the cabinet"
+      },
+      {
+        "key": "D",
+        "text_en": "Before the 2024 general elections",
+        "text_ta": "Before the 2024 general elections"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The passage notes that the specific changes take effect after the 2029 general elections.",
+    "explanation_ta": "The passage notes that the specific changes take effect after the 2029 general elections.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Strong & Weak Questions",
+    "source_note": "PASS5"
+  }
+]

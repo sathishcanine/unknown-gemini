@@ -1,0 +1,84 @@
+{
+  "poem_id": "the_stick_together_families",
+  "poem_title": "The Stick-Together Families",
+  "author": "Edgar Albert Guest",
+  "num": 25,
+  "pdf_pages": [
+    83,
+    87
+  ],
+  "poem_text_en": "The stick-together families are happier by far\nThan the brothers and the sisters who take separate highways are.\nThe gladdest people living are the wholesome folks who make\nA circle at the fireside that no power but death can break.\nAnd the finest of conventions ever held beneath the sun\nAre the little family gatherings when the busy day is done.\nThere are rich folk, there are poor folk, who imagine they are wise,\nAnd they're very quick to shatter all the little family ties.\nEach goes searching after pleasure in his own selected way,\nEach with strangers likes to wander, and with strangers likes to play.\nBut it's bitterness they harvest, and it's empty joy they find,\nFor the children that are wisest are the stick-together kind.\nThere are some who seem to fancy that for gladness they must roam,\nThat for smiles that are the brightest they must wander far from home.\nThat the strange friend is the true friend, and they travel far astray\nThey waste their lives in striving for a joy that's far away,\nBut the gladdest sort of people, when the busy day is done,\nAre the brothers and the sisters who together share their fun.\nIt's the stick-together family that wins the joys of earth,\nThat hears the sweetest music and that finds the finest mirth;\nIt's the old home roof that shelters all the charm that life can give;\nThere you find the gladdest play-ground, there the happiest spot to live.\nAnd, O weary, wandering brother, if contentment you would win,\nCome you back unto the fireside and be comrade with your kin.",
+  "summary_en": "The poem highlights the significance of family unity and bonds over the hollow pursuit of individual pleasure. Edgar Albert Guest argues that the happiest people are those who stay together and support each other rather than those who wander in search of external joy. It serves as an invitation to return to the family circle to find true contentment.",
+  "glossary": [
+    {
+      "word_en": "conventions",
+      "meaning_en": "a large formal meeting of people who have a similar interest"
+    },
+    {
+      "word_en": "shatter",
+      "meaning_en": "to break suddenly into very small pieces"
+    },
+    {
+      "word_en": "astray",
+      "meaning_en": "away from the correct path or correct way of doing something"
+    },
+    {
+      "word_en": "mirth",
+      "meaning_en": "laughter, humour or happiness"
+    },
+    {
+      "word_en": "comrade",
+      "meaning_en": "a friend"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Personification",
+      "example_en": "It's the stick-together family that wins the joys of earth",
+      "note_en": "The family is attributed with the human quality of 'winning'."
+    },
+    {
+      "device_en": "Imagery",
+      "example_en": "That hears the sweetest music",
+      "note_en": "Appeals to the sense of hearing."
+    },
+    {
+      "device_en": "Metaphor",
+      "example_en": "It's the old home roof that shelters all the charm that life can give",
+      "note_en": "The home is implied as a sanctuary or shelter for happiness."
+    },
+    {
+      "device_en": "Metaphor",
+      "example_en": "There you find the gladdest play-ground",
+      "note_en": "The home environment is compared to a playground of happiness."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Edgar Albert Guest",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Rhyme scheme is AABB",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Rich folk/poor folk example of alliteration",
+      "tag": "fos"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Who are the gladdest people living?",
+      "answer_en": "The wholesome folks who make a circle at the fireside.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What can break the unity of stick-together families?",
+      "answer_en": "No power but death can break their unity.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

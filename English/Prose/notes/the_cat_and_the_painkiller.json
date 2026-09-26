@@ -1,0 +1,101 @@
+{
+  "prose_id": "the_cat_and_the_painkiller",
+  "prose_title": "The Cat and the Painkiller",
+  "author": "Mark Twain",
+  "num": 29,
+  "pdf_pages": [
+    551,
+    559
+  ],
+  "prose_text_en": "Tom Sawyer is depressed because Becky Thatcher stopped attending school. Aunt Polly, an 'incurable experimenter' of patent medicines, subjects Tom to rigorous water treatments and diets. Tom pretends to like the 'pain-killer' to escape the treatments, but instead pours the medicine into a floor crack. When Peter the cat begs for a taste, Tom gives it to him, resulting in the cat jumping in a frenzy of 'enjoyment' and causing chaos. Aunt Polly, witnessing this, learns that the medicine is harsh, leading her to realize that 'what was cruelty to a cat might be cruelty to a boy too.' She eventually allows Tom to stop the medicine.",
+  "summary_en": "The story follows Tom Sawyer, who acts out to avoid his Aunt Polly’s overbearing medical treatments after becoming depressed over his friend Becky Thatcher. Tom decides to trick his cat, Peter, with his 'pain-killer' medicine, leading to a humorous, chaotic scene that reveals the cat's bizarre reaction. Aunt Polly witnesses this incident and gains a new perspective on her own treatment of Tom. Ultimately, the experience results in Aunt Polly softening her approach and stopping the unwanted medical regimens.",
+  "characters": [
+    {
+      "name_en": "Tom Sawyer",
+      "role_en": "A mischievous boy who finds clever ways to escape his aunt's medical experiments."
+    },
+    {
+      "name_en": "Aunt Polly",
+      "role_en": "Tom's guardian who is obsessed with trying new health remedies and medicines."
+    },
+    {
+      "name_en": "Peter",
+      "role_en": "Aunt Polly’s cat who becomes the victim of Tom's prank involving the pain-killer."
+    },
+    {
+      "name_en": "Becky Thatcher",
+      "role_en": "Tom's friend whose absence from school triggers his initial depression."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "infatuated",
+      "meaning_en": "inspired with an intense but short-lived passion or admiration."
+    },
+    {
+      "word_en": "plunges",
+      "meaning_en": "act of casting or thrusting forcibly or suddenly into something liquid."
+    },
+    {
+      "word_en": "quack",
+      "meaning_en": "a fraudulent or ignorant pretender to medical skill."
+    },
+    {
+      "word_en": "petrified",
+      "meaning_en": "extremely frightened."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The author of 'The Adventures of Tom Sawyer' is Mark Twain (Samuel Langhorne Clemens).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "The setting for the novel is St. Petersburg along the Mississippi River.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Aunt Polly's obsession with patent medicines is a central theme of the episode.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Tom justifies giving the cat the medicine by claiming it was out of 'pity' because the cat had no aunt to dose him.",
+      "tag": "quote"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Tom was disturbed because _____________",
+      "answer_en": "c) his friend Becky Thatcher had stopped coming to school.",
+      "options_en": [
+        "a) he didn’t sleep well.",
+        "b) his scores were low at school.",
+        "c) his friend Becky Thatcher had stopped coming to school.",
+        "d) he had picked up a fight with Becky Thatcher."
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Aunt was an experimenter in _______________",
+      "answer_en": "d) trying out new medicines.",
+      "options_en": [
+        "a) trying new recipes.",
+        "b) designing fashionable frocks.",
+        "c) modern gardening techniques.",
+        "d) trying out new medicines."
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Tom used the pain-killer to ___________________",
+      "answer_en": "b) mend the crack on the sitting room floor.",
+      "options_en": [
+        "a) take care of his health.",
+        "b) mend the crack on the sitting room floor.",
+        "c) cure Becky Thatcher.",
+        "d) help his aunt."
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

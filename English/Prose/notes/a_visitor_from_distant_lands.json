@@ -1,0 +1,79 @@
+{
+  "prose_id": "a_visitor_from_distant_lands",
+  "prose_title": "A Visitor from Distant Lands",
+  "author": null,
+  "num": 21,
+  "pdf_pages": [
+    446,
+    459
+  ],
+  "prose_text_en": "The story follows Mani, a young boy from a village near Gingee, who is reluctant to eat potatoes because he believes they are 'foreign' vegetables, influenced by his teacher's advice to consume local produce. His parents explain that many common ingredients like corn, tomatoes, potatoes, and even green chillies were brought to India by foreign merchants and explorers. Notably, Vasco da Gama sailed to Kerala in search of spices, particularly black pepper, facilitating the exchange of goods between distant lands.",
+  "summary_en": "The story explores the global origins of everyday food items, dispelling the misconception that all our vegetables are indigenous to India. Through a conversation between a curious boy named Mani and his parents, it reveals how historical maritime trade, specifically the search for spices like black pepper by explorers like Vasco da Gama, introduced foreign crops to the country. The narrative encourages an understanding of historical interconnectedness and global cultural exchange.",
+  "characters": [
+    {
+      "name_en": "Mani",
+      "role_en": "A young boy who is initially hesitant to eat 'foreign' vegetables."
+    },
+    {
+      "name_en": "Selvi",
+      "role_en": "Mani's sister who participates in the conversation about food origins."
+    },
+    {
+      "name_en": "Amma and Appa",
+      "role_en": "Mani's parents who explain the history of food items."
+    },
+    {
+      "name_en": "Vasco da Gama",
+      "role_en": "A Portuguese explorer who sailed to Kerala seeking black pepper."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Foreign",
+      "meaning_en": "Belonging to a country other than one's own."
+    },
+    {
+      "word_en": "Merchant",
+      "meaning_en": "A person involved in wholesale trade, especially with foreign countries."
+    },
+    {
+      "word_en": "Spice",
+      "meaning_en": "A seed, fruit, root, bark, or vegetative substance used for flavoring food."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Vasco da Gama, a Portuguese explorer, sailed to Kerala in search of spices like black pepper.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Common crops like potatoes, tomatoes, and chillies were introduced to India by foreign merchants.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Distinction between 'House' and 'Home': A house is a building; a home is where someone lives.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Distinction between 'Centre' and 'Middle': Centre is equidistant from the edge of a circle; Middle is equidistant from two sides.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "A 'journey' is a single instance of travel; 'travel' is the general act of moving.",
+      "tag": "vocab"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The Portuguese explorer who came to India in search of black pepper was:",
+      "answer_en": "Vasco da Gama",
+      "options_en": [
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Marco Polo",
+        "James Cook"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

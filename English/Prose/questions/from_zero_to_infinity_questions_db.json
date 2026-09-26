@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where was Srinivasa Ramanujan born?",
+    "question_ta": "Where was Srinivasa Ramanujan born?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Chennai",
+        "text_ta": "Chennai"
+      },
+      {
+        "key": "B",
+        "text_en": "Erode",
+        "text_ta": "Erode"
+      },
+      {
+        "key": "C",
+        "text_en": "Trichy",
+        "text_ta": "Trichy"
+      },
+      {
+        "key": "D",
+        "text_en": "Madurai",
+        "text_ta": "Madurai"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Srinivasa Ramanujan was born in Erode, Tamil Nadu, on December 22, 1887.",
+    "explanation_ta": "Srinivasa Ramanujan was born in Erode, Tamil Nadu, on December 22, 1887.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "On what date was Srinivasa Ramanujan born?",
+    "question_ta": "On what date was Srinivasa Ramanujan born?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "November 12, 1887",
+        "text_ta": "November 12, 1887"
+      },
+      {
+        "key": "B",
+        "text_en": "January 15, 1888",
+        "text_ta": "January 15, 1888"
+      },
+      {
+        "key": "C",
+        "text_en": "December 22, 1890",
+        "text_ta": "December 22, 1890"
+      },
+      {
+        "key": "D",
+        "text_en": "December 22, 1887",
+        "text_ta": "December 22, 1887"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ramanujan's birth date is recorded as December 22, 1887.",
+    "explanation_ta": "Ramanujan's birth date is recorded as December 22, 1887.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In the classroom anecdote mentioned in the prose, what did young Ramanujan propose as the answer to any number divided by itself?",
+    "question_ta": "In the classroom anecdote mentioned in the prose, what did young Ramanujan propose as the answer to any number divided by itself?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Undefined",
+        "text_ta": "Undefined"
+      },
+      {
+        "key": "B",
+        "text_en": "Infinity",
+        "text_ta": "Infinity"
+      },
+      {
+        "key": "C",
+        "text_en": "One",
+        "text_ta": "One"
+      },
+      {
+        "key": "D",
+        "text_en": "Zero",
+        "text_ta": "Zero"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ramanujan questioned division by zero and proposed that any number divided by zero is infinity.",
+    "explanation_ta": "Ramanujan questioned division by zero and proposed that any number divided by zero is infinity.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which ancient Indian mathematician had also previously identified zero divided by zero as infinity?",
+    "question_ta": "Which ancient Indian mathematician had also previously identified zero divided by zero as infinity?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Brahmagupta",
+        "text_ta": "Brahmagupta"
+      },
+      {
+        "key": "B",
+        "text_en": "Aryabhata",
+        "text_ta": "Aryabhata"
+      },
+      {
+        "key": "C",
+        "text_en": "Varahamihira",
+        "text_ta": "Varahamihira"
+      },
+      {
+        "key": "D",
+        "text_en": "Bhaskara",
+        "text_ta": "Bhaskara"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Bhaskara was the ancient Indian mathematician who identified zero divided by zero as infinity, a concept also explored by Ramanujan.",
+    "explanation_ta": "Bhaskara was the ancient Indian mathematician who identified zero divided by zero as infinity, a concept also explored by Ramanujan.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "C3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the famous name given to Ramanujan's personal mathematical notebooks?",
+    "question_ta": "What is the famous name given to Ramanujan's personal mathematical notebooks?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Lost Equations",
+        "text_ta": "The Lost Equations"
+      },
+      {
+        "key": "B",
+        "text_en": "Pure and Applied Notes",
+        "text_ta": "Pure and Applied Notes"
+      },
+      {
+        "key": "C",
+        "text_en": "Ramanujan's Frayed Notebooks",
+        "text_ta": "Ramanujan's Frayed Notebooks"
+      },
+      {
+        "key": "D",
+        "text_en": "Cambridge Mathematical Journals",
+        "text_ta": "Cambridge Mathematical Journals"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ramanujan recorded his mathematical theorems in what are famously known as 'Ramanujan’s Frayed Notebooks'.",
+    "explanation_ta": "Ramanujan recorded his mathematical theorems in what are famously known as 'Ramanujan’s Frayed Notebooks'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who was the British mathematician at Cambridge that recognized Ramanujan's genius after receiving his breakthrough letter?",
+    "question_ta": "Who was the British mathematician at Cambridge that recognized Ramanujan's genius after receiving his breakthrough letter?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "G.H. Hardy",
+        "text_ta": "G.H. Hardy"
+      },
+      {
+        "key": "B",
+        "text_en": "S.L. Loney",
+        "text_ta": "S.L. Loney"
+      },
+      {
+        "key": "C",
+        "text_en": "Francis Spring",
+        "text_ta": "Francis Spring"
+      },
+      {
+        "key": "D",
+        "text_en": "John Shepherd-Barron",
+        "text_ta": "John Shepherd-Barron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "G.H. Hardy invited Ramanujan to Cambridge after receiving his path-breaking letter containing complex mathematical theorems.",
+    "explanation_ta": "G.H. Hardy invited Ramanujan to Cambridge after receiving his path-breaking letter containing complex mathematical theorems.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "C2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What distinction did Ramanujan achieve at Trinity College, Cambridge?",
+    "question_ta": "What distinction did Ramanujan achieve at Trinity College, Cambridge?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Principal of Cambridge University",
+        "text_ta": "Principal of Cambridge University"
+      },
+      {
+        "key": "B",
+        "text_en": "Gold Medalist in Number Theory",
+        "text_ta": "Gold Medalist in Number Theory"
+      },
+      {
+        "key": "C",
+        "text_en": "First Indian Fellow of Trinity College",
+        "text_ta": "First Indian Fellow of Trinity College"
+      },
+      {
+        "key": "D",
+        "text_en": "First Indian Professor of Mathematics",
+        "text_ta": "First Indian Professor of Mathematics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ramanujan became the first Indian to be elected a Fellow of Trinity College, Cambridge.",
+    "explanation_ta": "Ramanujan became the first Indian to be elected a Fellow of Trinity College, Cambridge.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which modern technology utilizes Ramanujan's Partition Theory in its functioning?",
+    "question_ta": "Which modern technology utilizes Ramanujan's Partition Theory in its functioning?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Digital cameras",
+        "text_ta": "Digital cameras"
+      },
+      {
+        "key": "B",
+        "text_en": "GPS navigation",
+        "text_ta": "GPS navigation"
+      },
+      {
+        "key": "C",
+        "text_en": "ATM cash dispensers",
+        "text_ta": "ATM cash dispensers"
+      },
+      {
+        "key": "D",
+        "text_en": "Smartphones",
+        "text_ta": "Smartphones"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "ATM cash dispensers use Ramanujan's Partition Theory to calculate coin and cash combinations.",
+    "explanation_ta": "ATM cash dispensers use Ramanujan's Partition Theory to calculate coin and cash combinations.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who helped Ramanujan secure a clerk position at the Madras Port Trust?",
+    "question_ta": "Who helped Ramanujan secure a clerk position at the Madras Port Trust?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "G.H. Hardy",
+        "text_ta": "G.H. Hardy"
+      },
+      {
+        "key": "B",
+        "text_en": "S.L. Loney",
+        "text_ta": "S.L. Loney"
+      },
+      {
+        "key": "C",
+        "text_en": "John Shepherd-Barron",
+        "text_ta": "John Shepherd-Barron"
+      },
+      {
+        "key": "D",
+        "text_en": "Francis Spring",
+        "text_ta": "Francis Spring"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Francis Spring, the Director of Madras Port Trust, helped Ramanujan secure a clerk position.",
+    "explanation_ta": "Francis Spring, the Director of Madras Port Trust, helped Ramanujan secure a clerk position.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "C4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What illness caused the untimely death of Srinivasa Ramanujan?",
+    "question_ta": "What illness caused the untimely death of Srinivasa Ramanujan?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Cholera",
+        "text_ta": "Cholera"
+      },
+      {
+        "key": "B",
+        "text_en": "Typhoid",
+        "text_ta": "Typhoid"
+      },
+      {
+        "key": "C",
+        "text_en": "Malaria",
+        "text_ta": "Malaria"
+      },
+      {
+        "key": "D",
+        "text_en": "Tuberculosis",
+        "text_ta": "Tuberculosis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ramanujan passed away at a young age after a prolonged battle with Tuberculosis.",
+    "explanation_ta": "Ramanujan passed away at a young age after a prolonged battle with Tuberculosis.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct meaning of the glossary word 'Prodigy'.",
+    "question_ta": "Choose the correct meaning of the glossary word 'Prodigy'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A person who travels extensively",
+        "text_ta": "A person who travels extensively"
+      },
+      {
+        "key": "B",
+        "text_en": "A student who fails formal exams",
+        "text_ta": "A student who fails formal exams"
+      },
+      {
+        "key": "C",
+        "text_en": "A child who shows a great ability at a young age",
+        "text_ta": "A child who shows a great ability at a young age"
+      },
+      {
+        "key": "D",
+        "text_en": "An adult expert in mathematics",
+        "text_ta": "An adult expert in mathematics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "As per glossary G1, a prodigy is a child who shows a great ability at a young age.",
+    "explanation_ta": "As per glossary G1, a prodigy is a child who shows a great ability at a young age.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary word 'Conjecture' mean?",
+    "question_ta": "What does the glossary word 'Conjecture' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A legal agreement between two parties",
+        "text_ta": "A legal agreement between two parties"
+      },
+      {
+        "key": "B",
+        "text_en": "A detailed mathematical equation",
+        "text_ta": "A detailed mathematical equation"
+      },
+      {
+        "key": "C",
+        "text_en": "An opinion or conclusion formed on the basis of incomplete information",
+        "text_ta": "An opinion or conclusion formed on the basis of incomplete information"
+      },
+      {
+        "key": "D",
+        "text_en": "A proven scientific fact",
+        "text_ta": "A proven scientific fact"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "As per glossary G2, a conjecture is an opinion or conclusion formed on the basis of incomplete information.",
+    "explanation_ta": "As per glossary G2, a conjecture is an opinion or conclusion formed on the basis of incomplete information.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the meaning of the word 'Emaciated' from the glossary.",
+    "question_ta": "Identify the meaning of the word 'Emaciated' from the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Very thin and weak due to illness or hunger",
+        "text_ta": "Very thin and weak due to illness or hunger"
+      },
+      {
+        "key": "B",
+        "text_en": "Dressed in formal attire",
+        "text_ta": "Dressed in formal attire"
+      },
+      {
+        "key": "C",
+        "text_en": "Energetic and full of life",
+        "text_ta": "Energetic and full of life"
+      },
+      {
+        "key": "D",
+        "text_en": "Extremely wealthy and prosperous",
+        "text_ta": "Extremely wealthy and prosperous"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per glossary G3, emaciated means very thin and weak due to illness or hunger.",
+    "explanation_ta": "As per glossary G3, emaciated means very thin and weak due to illness or hunger.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the glossary term 'Dingy'?",
+    "question_ta": "What is the meaning of the glossary term 'Dingy'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A dark and dirty place",
+        "text_ta": "A dark and dirty place"
+      },
+      {
+        "key": "B",
+        "text_en": "Quiet and peaceful",
+        "text_ta": "Quiet and peaceful"
+      },
+      {
+        "key": "C",
+        "text_en": "Spacious and luxurious",
+        "text_ta": "Spacious and luxurious"
+      },
+      {
+        "key": "D",
+        "text_en": "Bright and colorful",
+        "text_ta": "Bright and colorful"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per glossary G4, dingy means a dark and dirty place.",
+    "explanation_ta": "As per glossary G4, dingy means a dark and dirty place.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct passive voice form of the sentence: 'She will not recognize us.'",
+    "question_ta": "Choose the correct passive voice form of the sentence: 'She will not recognize us.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We would not be recognized by her.",
+        "text_ta": "We would not be recognized by her."
+      },
+      {
+        "key": "B",
+        "text_en": "We will not be recognized by her.",
+        "text_ta": "We will not be recognized by her."
+      },
+      {
+        "key": "C",
+        "text_en": "Us will not be recognized by she.",
+        "text_ta": "Us will not be recognized by she."
+      },
+      {
+        "key": "D",
+        "text_en": "We are not recognized by her.",
+        "text_ta": "We are not recognized by her."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Based on textbook worked exercise W1, 'She will not recognize us.' transforms in passive voice to 'We will not be recognized by her.'",
+    "explanation_ta": "Based on textbook worked exercise W1, 'She will not recognize us.' transforms in passive voice to 'We will not be recognized by her.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Convert the following sentence into passive voice: 'They didn’t invite me, but I went anyway.'",
+    "question_ta": "Convert the following sentence into passive voice: 'They didn’t invite me, but I went anyway.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "I wasn't invited but I went anyway.",
+        "text_ta": "I wasn't invited but I went anyway."
+      },
+      {
+        "key": "B",
+        "text_en": "I haven't been invited but I went anyway.",
+        "text_ta": "I haven't been invited but I went anyway."
+      },
+      {
+        "key": "C",
+        "text_en": "I was not being invited but I went anyway.",
+        "text_ta": "I was not being invited but I went anyway."
+      },
+      {
+        "key": "D",
+        "text_en": "I am not invited but I went anyway.",
+        "text_ta": "I am not invited but I went anyway."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on textbook worked exercise W2, 'They didn’t invite me, but I went anyway.' changes to 'I wasn't invited but I went anyway.'",
+    "explanation_ta": "Based on textbook worked exercise W2, 'They didn’t invite me, but I went anyway.' changes to 'I wasn't invited but I went anyway.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct passive form for: 'They broke up the table for firewood.'",
+    "question_ta": "Select the correct passive form for: 'They broke up the table for firewood.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The table is broken up for firewood.",
+        "text_ta": "The table is broken up for firewood."
+      },
+      {
+        "key": "B",
+        "text_en": "The table has been broken up for firewood.",
+        "text_ta": "The table has been broken up for firewood."
+      },
+      {
+        "key": "C",
+        "text_en": "The table had been broken up for firewood.",
+        "text_ta": "The table had been broken up for firewood."
+      },
+      {
+        "key": "D",
+        "text_en": "The table was broken up for firewood.",
+        "text_ta": "The table was broken up for firewood."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Based on textbook worked exercise W3, 'They broke up the table for firewood.' becomes 'The table was broken up for firewood.'",
+    "explanation_ta": "Based on textbook worked exercise W3, 'They broke up the table for firewood.' becomes 'The table was broken up for firewood.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which two mathematical books heavily influenced Ramanujan during his early self-study?",
+    "question_ta": "Which two mathematical books heavily influenced Ramanujan during his early self-study?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Euclid's Elements and Newton's Principia",
+        "text_ta": "Euclid's Elements and Newton's Principia"
+      },
+      {
+        "key": "B",
+        "text_en": "S.L. Loney’s advanced trigonometry and G.S. Carr’s 'A Synopsis of Elementary Results in Pure Applied Mathematics'",
+        "text_ta": "S.L. Loney’s advanced trigonometry and G.S. Carr’s 'A Synopsis of Elementary Results in Pure Applied Mathematics'"
+      },
+      {
+        "key": "C",
+        "text_en": "Pure Mathematics by Hardy and Analytical Geometry by Loney",
+        "text_ta": "Pure Mathematics by Hardy and Analytical Geometry by Loney"
+      },
+      {
+        "key": "D",
+        "text_en": "Calculus by Thomas and Finney and Algebra by Hall and Knight",
+        "text_ta": "Calculus by Thomas and Finney and Algebra by Hall and Knight"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ramanujan mastered S.L. Loney’s advanced trigonometry and G.S. Carr’s 'A Synopsis of Elementary Results in Pure Applied Mathematics'.",
+    "explanation_ta": "Ramanujan mastered S.L. Loney’s advanced trigonometry and G.S. Carr’s 'A Synopsis of Elementary Results in Pure Applied Mathematics'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why did Ramanujan struggle with formal college education in his early years?",
+    "question_ta": "Why did Ramanujan struggle with formal college education in his early years?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He lacked basic proficiency in the English language",
+        "text_ta": "He lacked basic proficiency in the English language"
+      },
+      {
+        "key": "B",
+        "text_en": "He refused to attend classes in Cambridge",
+        "text_ta": "He refused to attend classes in Cambridge"
+      },
+      {
+        "key": "C",
+        "text_en": "He spent all his time working at the Madras Port Trust",
+        "text_ta": "He spent all his time working at the Madras Port Trust"
+      },
+      {
+        "key": "D",
+        "text_en": "He neglected non-mathematical subjects and failed college exams",
+        "text_ta": "He neglected non-mathematical subjects and failed college exams"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ramanujan struggled with formal education because he was so obsessed with mathematics that he neglected other subjects, leading to college exam failures.",
+    "explanation_ta": "Ramanujan struggled with formal education because he was so obsessed with mathematics that he neglected other subjects, leading to college exam failures.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the primary mathematical field to which Ramanujan made significant contributions alongside Partition Theory?",
+    "question_ta": "What was the primary mathematical field to which Ramanujan made significant contributions alongside Partition Theory?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fluid dynamics",
+        "text_ta": "Fluid dynamics"
+      },
+      {
+        "key": "B",
+        "text_en": "Organic chemistry",
+        "text_ta": "Organic chemistry"
+      },
+      {
+        "key": "C",
+        "text_en": "Number theory",
+        "text_ta": "Number theory"
+      },
+      {
+        "key": "D",
+        "text_en": "Quantum mechanics",
+        "text_ta": "Quantum mechanics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ramanujan contributed significantly to number theory, including Partition Theory, modular equations, and the Hardy-Ramanujan-Littlewood circle method.",
+    "explanation_ta": "Ramanujan contributed significantly to number theory, including Partition Theory, modular equations, and the Hardy-Ramanujan-Littlewood circle method.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is credited with inventing the ATM, utilizing principles from Ramanujan's mathematical work?",
+    "question_ta": "Who is credited with inventing the ATM, utilizing principles from Ramanujan's mathematical work?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "John Shepherd-Barron",
+        "text_ta": "John Shepherd-Barron"
+      },
+      {
+        "key": "B",
+        "text_en": "Francis Spring",
+        "text_ta": "Francis Spring"
+      },
+      {
+        "key": "C",
+        "text_en": "G.H. Hardy",
+        "text_ta": "G.H. Hardy"
+      },
+      {
+        "key": "D",
+        "text_en": "Srinivasa Ramanujan",
+        "text_ta": "Srinivasa Ramanujan"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "John Shepherd-Barron, inventor of the ATM, utilized Ramanujan's Partition Theory in structuring cash dispensations.",
+    "explanation_ta": "John Shepherd-Barron, inventor of the ATM, utilized Ramanujan's Partition Theory in structuring cash dispensations.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "C5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What best describes Ramanujan's journey as highlighted in the prose?",
+    "question_ta": "What best describes Ramanujan's journey as highlighted in the prose?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "From a successful corporate executive to a mathematician",
+        "text_ta": "From a successful corporate executive to a mathematician"
+      },
+      {
+        "key": "B",
+        "text_en": "From humble beginnings to international acclaim without formal training",
+        "text_ta": "From humble beginnings to international acclaim without formal training"
+      },
+      {
+        "key": "C",
+        "text_en": "From a Cambridge professor to an Indian village clerk",
+        "text_ta": "From a Cambridge professor to an Indian village clerk"
+      },
+      {
+        "key": "D",
+        "text_en": "From royal heritage to political leadership in Britain",
+        "text_ta": "From royal heritage to political leadership in Britain"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ramanujan rose from humble beginnings to international acclaim despite a lack of formal training in mathematics.",
+    "explanation_ta": "Ramanujan rose from humble beginnings to international acclaim despite a lack of formal training in mathematics.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did G.H. Hardy react to Ramanujan's initial letter from India?",
+    "question_ta": "How did G.H. Hardy react to Ramanujan's initial letter from India?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He ignored it due to lack of academic credentials",
+        "text_ta": "He ignored it due to lack of academic credentials"
+      },
+      {
+        "key": "B",
+        "text_en": "He recognized his extraordinary genius and invited him to Cambridge",
+        "text_ta": "He recognized his extraordinary genius and invited him to Cambridge"
+      },
+      {
+        "key": "C",
+        "text_en": "He rejected it as a prank by a British student",
+        "text_ta": "He rejected it as a prank by a British student"
+      },
+      {
+        "key": "D",
+        "text_en": "He forwarded it to the Madras Port Trust authorities",
+        "text_ta": "He forwarded it to the Madras Port Trust authorities"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hardy recognized the brilliance in Ramanujan's path-breaking letter and arranged for his fellowship at Trinity College.",
+    "explanation_ta": "Hardy recognized the brilliance in Ramanujan's path-breaking letter and arranged for his fellowship at Trinity College.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Francis Spring's professional role when he interacted with Ramanujan?",
+    "question_ta": "What was Francis Spring's professional role when he interacted with Ramanujan?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Secretary of the British Mathematical Society",
+        "text_ta": "Secretary of the British Mathematical Society"
+      },
+      {
+        "key": "B",
+        "text_en": "Director of Madras Port Trust",
+        "text_ta": "Director of Madras Port Trust"
+      },
+      {
+        "key": "C",
+        "text_en": "Professor of Trinity College, Cambridge",
+        "text_ta": "Professor of Trinity College, Cambridge"
+      },
+      {
+        "key": "D",
+        "text_en": "Principal of Erode High School",
+        "text_ta": "Principal of Erode High School"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Francis Spring served as the Director of Madras Port Trust, where he provided employment to Ramanujan.",
+    "explanation_ta": "Francis Spring served as the Director of Madras Port Trust, where he provided employment to Ramanujan.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "C4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "From Zero to Infinity",
+    "topic": "From Zero to Infinity",
+    "topic_id": "from_zero_to_infinity",
+    "topic_ta": "From Zero to Infinity",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which mathematical method is associated with Ramanujan, Hardy, and Littlewood?",
+    "question_ta": "Which mathematical method is associated with Ramanujan, Hardy, and Littlewood?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The circle method",
+        "text_ta": "The circle method"
+      },
+      {
+        "key": "B",
+        "text_en": "The binomial expansion theorem",
+        "text_ta": "The binomial expansion theorem"
+      },
+      {
+        "key": "C",
+        "text_en": "The calculus of variations",
+        "text_ta": "The calculus of variations"
+      },
+      {
+        "key": "D",
+        "text_en": "Matrix inversion technique",
+        "text_ta": "Matrix inversion technique"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ramanujan contributed to number theory via the Hardy-Ramanujan-Littlewood circle method.",
+    "explanation_ta": "Ramanujan contributed to number theory via the Hardy-Ramanujan-Littlewood circle method.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "from_zero_to_infinity",
+    "source_note": "Summary"
+  }
+]

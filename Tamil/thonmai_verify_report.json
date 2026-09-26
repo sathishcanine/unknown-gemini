@@ -1,0 +1,108 @@
+{
+  "batches": {
+    "தமிழின் சிறப்பு|Batch 1": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "தமிழின் சிறப்பு|Batch 2": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "தமிழின் சிறப்பு|Batch 3": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "தமிழின் தொன்மை|Batch 1": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "தமிழின் தொன்மை|Batch 2": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "தமிழின் தொன்மை|Batch 3": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "திராவிட மொழிகள்|Batch 1": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    },
+    "திராவிட மொழிகள்|Batch 2": {
+      "done": true,
+      "summary": {
+        "total": 30,
+        "passed": 30,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 30
+    }
+  }
+}

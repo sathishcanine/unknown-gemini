@@ -1,0 +1,713 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "collocations",
+  "sources": [
+    "Vetrii Vocabulary pp.[83, 84, 85, 86] (primary, vision)"
+  ],
+  "rules": [
+    {
+      "rule_en": "A collocation is a term where two or more words often go well together.",
+      "col_tag": "definition",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "rule_en": "These combinations sound right to native speakers; unnatural combinations sound wrong.",
+      "col_tag": "overview",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "rule_en": "Verb collocations are those types of collocations that are used extensively and tend to involve a verb + noun phrase in the day to day situations.",
+      "col_tag": "definition",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "rule_en": "When you add adjectives with nouns and adverbs, it forms adjective collocations.",
+      "col_tag": "definition",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "rule_en": "Collocations are natural word partnerships that frequently go together in English.",
+      "col_tag": "definition",
+      "source": "vetrii",
+      "source_page": 441
+    }
+  ],
+  "examples": [
+    {
+      "head_en": "completely",
+      "collocate_en": "satisfied",
+      "phrase_en": "completely satisfied",
+      "meaning_en": "",
+      "note_en": "adverb + adjective",
+      "col_tag": "adverb_adj",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "excruciating",
+      "collocate_en": "pain",
+      "phrase_en": "excruciating pain",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "a surge of",
+      "collocate_en": "anger",
+      "phrase_en": "a surge of anger",
+      "meaning_en": "",
+      "note_en": "noun + noun",
+      "col_tag": "other",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "lions",
+      "collocate_en": "roar",
+      "phrase_en": "lions roar",
+      "meaning_en": "",
+      "note_en": "noun + verb",
+      "col_tag": "other",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "commit",
+      "collocate_en": "suicide",
+      "phrase_en": "commit suicide",
+      "meaning_en": "",
+      "note_en": "verb + noun",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "burst into",
+      "collocate_en": "tears",
+      "phrase_en": "burst into tears",
+      "meaning_en": "",
+      "note_en": "verb + expression with a preposition",
+      "col_tag": "other",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "wave",
+      "collocate_en": "frantically",
+      "phrase_en": "wave frantically",
+      "meaning_en": "",
+      "note_en": "verb + adverb",
+      "col_tag": "other",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "strong",
+      "collocate_en": "coffee",
+      "phrase_en": "strong coffee",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "fast",
+      "collocate_en": "food",
+      "phrase_en": "fast food",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "bright",
+      "collocate_en": "future",
+      "phrase_en": "bright future",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "close",
+      "collocate_en": "friend",
+      "phrase_en": "close friend",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "heavy",
+      "collocate_en": "rain",
+      "phrase_en": "heavy rain",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "high",
+      "collocate_en": "speed",
+      "phrase_en": "high speed",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "deep",
+      "collocate_en": "breath",
+      "phrase_en": "deep breath",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "rich",
+      "collocate_en": "history",
+      "phrase_en": "rich history",
+      "meaning_en": "",
+      "note_en": "adjective + noun",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 83
+    },
+    {
+      "head_en": "Deep",
+      "collocate_en": "feeling, holes, trouble, sleep",
+      "phrase_en": "deep feeling, deep holes, deep trouble, deep sleep",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Heavy",
+      "collocate_en": "rainfall, drinker, snow, traffic",
+      "phrase_en": "heavy rainfall, heavy drinker, heavy snow, heavy traffic",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Strong",
+      "collocate_en": "smell, body, sense, denial",
+      "phrase_en": "strong smell, strong body, strong sense, strong denial",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Big",
+      "collocate_en": "disappointment, failure, mistake, surprise",
+      "phrase_en": "big disappointment, big failure, big mistake, big surprise",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Make",
+      "collocate_en": "a decision, an effort, a mistake, a profit, a promise, an excuse, a suggestion",
+      "phrase_en": "make a decision, make an effort, make a mistake, make a profit, make a promise, make an excuse, make a suggestion",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Do",
+      "collocate_en": "your homework, a favor, business, the dishes, well, an exam, nothing",
+      "phrase_en": "do your homework, do a favor, do business, do the dishes, do well, do an exam, do nothing",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Have",
+      "collocate_en": "breakfast, a good time, an argument, a party, a headache, a dream, patience",
+      "phrase_en": "have breakfast, have a good time, have an argument, have a party, have a headache, have a dream, have patience",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Take",
+      "collocate_en": "a shower, a nap, a break, a chance, responsibility, care, an exam",
+      "phrase_en": "take a shower, take a nap, take a break, take a chance, take responsibility, take care, take an exam",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Break",
+      "collocate_en": "the news, a habit, the ice, the law, the silence, a record, someone's heart",
+      "phrase_en": "break the news, break a habit, break the ice, break the law, break the silence, break a record, break someone's heart",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "Catch",
+      "collocate_en": "a cold, a glimpse, the bus, a break, the attention, the mood, fire",
+      "phrase_en": "catch a cold, catch a glimpse, catch the bus, catch a break, catch the attention, catch the mood, catch fire",
+      "meaning_en": "null",
+      "note_en": "null",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 84
+    },
+    {
+      "head_en": "give",
+      "collocate_en": "permission",
+      "phrase_en": "give permission",
+      "meaning_en": "to allow",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "give",
+      "collocate_en": "advice",
+      "phrase_en": "give advice",
+      "meaning_en": "to offer guidance",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "give",
+      "collocate_en": "a speech",
+      "phrase_en": "give a speech",
+      "meaning_en": "to speak formally",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "give",
+      "collocate_en": "a hand",
+      "phrase_en": "give a hand",
+      "meaning_en": "to help",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "give",
+      "collocate_en": "a warning",
+      "phrase_en": "give a warning",
+      "meaning_en": "to caution",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "give",
+      "collocate_en": "an example",
+      "phrase_en": "give an example",
+      "meaning_en": "to illustrate",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "keep",
+      "collocate_en": "to the rules",
+      "phrase_en": "keep to the rules",
+      "meaning_en": "to follow regulations",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "keep",
+      "collocate_en": "in touch",
+      "phrase_en": "keep in touch",
+      "meaning_en": "to maintain contact",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "keep",
+      "collocate_en": "a promise",
+      "phrase_en": "keep a promise",
+      "meaning_en": "to fulfill a commitment",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "keep",
+      "collocate_en": "calm",
+      "phrase_en": "keep calm",
+      "meaning_en": "to remain composed",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "keep",
+      "collocate_en": "a secret",
+      "phrase_en": "keep a secret",
+      "meaning_en": "to not reveal information",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "keep",
+      "collocate_en": "your distance",
+      "phrase_en": "keep your distance",
+      "meaning_en": "to stay away",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "run",
+      "collocate_en": "late",
+      "phrase_en": "run late",
+      "meaning_en": "to be delayed",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "run",
+      "collocate_en": "errands",
+      "phrase_en": "run errands",
+      "meaning_en": "to do short trips for tasks",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "run",
+      "collocate_en": "the risk",
+      "phrase_en": "run the risk",
+      "meaning_en": "to face danger",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "run",
+      "collocate_en": "smoothly",
+      "phrase_en": "run smoothly",
+      "meaning_en": "to work well",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "run",
+      "collocate_en": "a campaign",
+      "phrase_en": "run a campaign",
+      "meaning_en": "to manage an organized effort",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "run",
+      "collocate_en": "a business",
+      "phrase_en": "run a business",
+      "meaning_en": "to manage a company",
+      "note_en": "",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "head_en": "close",
+      "collocate_en": "friends",
+      "phrase_en": "close friends",
+      "meaning_en": "People who know each other very well",
+      "note_en": "Adjective + Noun collocation",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "head_en": "do",
+      "collocate_en": "it",
+      "phrase_en": "do it",
+      "meaning_en": "Perform an action or task",
+      "note_en": "Verb + Pronoun/Object collocation",
+      "col_tag": "verb_noun",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "head_en": "runs",
+      "collocate_en": "fast",
+      "phrase_en": "runs fast",
+      "meaning_en": "Moves with great speed",
+      "note_en": "Verb + Adverb collocation",
+      "col_tag": "other",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "head_en": "big",
+      "collocate_en": "mistake",
+      "phrase_en": "big mistake",
+      "meaning_en": "A significant error",
+      "note_en": "Adjective + Noun collocation",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "head_en": "warm",
+      "collocate_en": "weather",
+      "phrase_en": "warm weather",
+      "meaning_en": "Temperatures that are pleasantly hot",
+      "note_en": "Adjective + Noun collocation",
+      "col_tag": "adjective_noun",
+      "source": "vetrii",
+      "source_page": 86
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "I need to _____ an appointment with the doctor.",
+      "answer_en": "make",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "She always tries to _____ her promises.",
+      "answer_en": "keep",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "We should _____ some research before the meeting.",
+      "answer_en": "do",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "I can't believe you _____ such a big mistake!",
+      "answer_en": "made",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "Don't forget to _____ your homework before you leave.",
+      "answer_en": "do",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "We need to _____ a decision about the project by tomorrow.",
+      "answer_en": "make",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "It's important to _____ a good relationship with your colleagues.",
+      "answer_en": "keep",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "He was so tired, but he managed to _____ a great effort during the game.",
+      "answer_en": "put in",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "I always try to _____ the house clean, but it's difficult with two kids!",
+      "answer_en": "keep",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "Can you please _____ the dishes after dinner?",
+      "answer_en": "do",
+      "options_en": [],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 441
+    },
+    {
+      "prompt_en": "They are really ________ friends. They tell each other everything.",
+      "answer_en": "close",
+      "options_en": [
+        "helping",
+        "make",
+        "clear",
+        "close"
+      ],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "prompt_en": "He could ________ it in a very short time, thanks to his experience.",
+      "answer_en": "do",
+      "options_en": [
+        "helping",
+        "make",
+        "do",
+        "fast"
+      ],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "prompt_en": "I can't believe she runs so ________. She must be in great shape.",
+      "answer_en": "fast",
+      "options_en": [
+        "close",
+        "do",
+        "fast",
+        "big"
+      ],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "prompt_en": "That was a ________ mistake, and it caused a lot of trouble.",
+      "answer_en": "big",
+      "options_en": [
+        "clear",
+        "great sense",
+        "big",
+        "warm"
+      ],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 86
+    },
+    {
+      "prompt_en": "The weather is so ________ today, it feels like summer.",
+      "answer_en": "warm",
+      "options_en": [
+        "warm",
+        "big",
+        "fast",
+        "clear"
+      ],
+      "col_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 86
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 5,
+      "examples": 48,
+      "worked_exercises": 15
+    },
+    "by_col_tag": {
+      "definition": {
+        "rules": 4,
+        "examples": 0,
+        "worked": 0
+      },
+      "overview": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "adverb_adj": {
+        "rules": 0,
+        "examples": 1,
+        "worked": 0
+      },
+      "adjective_noun": {
+        "rules": 0,
+        "examples": 16,
+        "worked": 0
+      },
+      "other": {
+        "rules": 0,
+        "examples": 5,
+        "worked": 0
+      },
+      "verb_noun": {
+        "rules": 0,
+        "examples": 26,
+        "worked": 0
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 15
+      }
+    }
+  }
+}

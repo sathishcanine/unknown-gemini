@@ -1,0 +1,92 @@
+{
+  "prose_id": "hobby_turns_a_successful_career",
+  "prose_title": "Hobby – Turns A Successful Career",
+  "author": null,
+  "num": 16,
+  "pdf_pages": [
+    367,
+    384
+  ],
+  "prose_text_en": "The prose features three success stories: Mani, a boy who transformed his struggles with reading into a passion for writing; Ajay Kumar Garg, a hearing-impaired artist who became a master of Traditional Indian Miniature Painting; and Ilavazhagi, a world champion carrom player from a humble background in Chennai. Key quotes: 'Whatever you like to do, make it a hobby' - Warren Buffet; 'Writing is easy. All you have to do is cross out the wrong words' - Mark Twain.",
+  "summary_en": "This unit explores how personal hobbies can be developed into successful careers through dedication, passion, and skill-building. It highlights three individuals who overcame personal challenges, such as physical disabilities or poverty, to excel in their chosen fields of writing, painting, and sports. The narrative emphasizes the importance of learning, consistency, and persistence in turning a spare-time interest into a professional achievement.",
+  "characters": [
+    {
+      "name_en": "Mani",
+      "role_en": "A student who developed a hobby of writing into a skill for storytelling and essays."
+    },
+    {
+      "name_en": "Ajay Kumar Garg",
+      "role_en": "A hearing-impaired artist from Jaipur, skilled in Traditional Indian Miniature Painting."
+    },
+    {
+      "name_en": "Ilavazhagi",
+      "role_en": "A world-champion carrom player from Chennai mentored by her father, A. Irudayaraj."
+    },
+    {
+      "name_en": "Asha Devi",
+      "role_en": "Ajay Kumar Garg's mentor in the technique of traditional miniature painting."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "unique",
+      "meaning_en": "distinctive or uncommon"
+    },
+    {
+      "word_en": "miniature",
+      "meaning_en": "very small of its kind"
+    },
+    {
+      "word_en": "impairment",
+      "meaning_en": "disability"
+    },
+    {
+      "word_en": "passionate",
+      "meaning_en": "intense or heartfelt"
+    },
+    {
+      "word_en": "fiction",
+      "meaning_en": "imaginative writing"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Ajay Kumar Garg was awarded a national award of accomplishment in 2004 by Dr. A.P.J. Abdul Kalam.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Ilavazhagi won 260 medals in total: 106 gold in national competitions and 111 gold in international tournaments.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Mr. C.N. Annadurai (former CM of TN) had hobbies of reading and writing.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "One-syllable adjectives usually take '-er' for comparative and '-est' for superlative.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Mani imagined a world with ________.",
+      "answer_en": "magic and magicians",
+      "options_en": [
+        "music and musicians",
+        "building and sculptures",
+        "magic and magicians"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Mani feels writing is like _________.",
+      "answer_en": "painting the voice",
+      "options_en": [
+        "painting the voice",
+        "engraving the voice",
+        "designing the voice"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

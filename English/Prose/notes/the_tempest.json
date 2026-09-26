@@ -1,0 +1,140 @@
+{
+  "prose_id": "the_tempest",
+  "prose_title": "The Tempest",
+  "author": "Tales From Shakespeare",
+  "num": 27,
+  "pdf_pages": [
+    538,
+    545
+  ],
+  "prose_text_en": "Prospero and his daughter Miranda live on a deserted island. Prospero, once the Duke of Milan, was overthrown by his brother Antonio and the King of Naples. Using his magical arts and control over spirits, led by Ariel, Prospero raises a storm to bring his enemies to the island. He captures Ferdinand, the King's son, and forces him into labor to test his love for Miranda. After the enemies express true repentance, Prospero forgives them, reconciles with the King, restores his dukedom, and grants Miranda's hand to Ferdinand.",
+  "summary_en": "Prospero, the rightful Duke of Milan, lives in exile on an island with his daughter Miranda after being betrayed by his brother. He uses his magic to bring his betrayers to the island, eventually teaching them a lesson in repentance. Through tests of character and magic, he orchestrates a happy reunion and secures his daughter's future. Ultimately, he chooses forgiveness over vengeance, reuniting his family and reclaiming his status.",
+  "characters": [
+    {
+      "name_en": "Prospero",
+      "role_en": "Rightful Duke of Milan and a master of magic."
+    },
+    {
+      "name_en": "Miranda",
+      "role_en": "Prospero's beautiful and innocent daughter."
+    },
+    {
+      "name_en": "Ariel",
+      "role_en": "Chief of the spirits who serves Prospero."
+    },
+    {
+      "name_en": "Caliban",
+      "role_en": "An ugly monster and son of the witch Sycorax, used as a slave."
+    },
+    {
+      "name_en": "Ferdinand",
+      "role_en": "Prince of Naples who falls in love with Miranda."
+    },
+    {
+      "name_en": "Antonio",
+      "role_en": "Prospero's brother who betrayed him."
+    },
+    {
+      "name_en": "Gonzalo",
+      "role_en": "A kind lord who provided supplies to Prospero during his exile."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Tormenting",
+      "meaning_en": "Making someone suffer or worry a lot"
+    },
+    {
+      "word_en": "Dreadful",
+      "meaning_en": "Extremely bad or unpleasant"
+    },
+    {
+      "word_en": "Deprive",
+      "meaning_en": "To take something important away from someone"
+    },
+    {
+      "word_en": "Fatigue",
+      "meaning_en": "Extreme tiredness"
+    },
+    {
+      "word_en": "Vexation",
+      "meaning_en": "Worry or anger"
+    },
+    {
+      "word_en": "Repent",
+      "meaning_en": "To be very sorry for something bad you have done"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Charles Lamb (Tales From Shakespeare).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Original Author: William Shakespeare (1564–1616).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "The play 'The Tempest' was written between 1610 and 1611.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "It is believed that the play is based on the actual wreck of a ship called 'Sea Venture' off Bermuda.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Prospero's books were the source of his magic and his greatest prize.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Miranda was not even three years old when they arrived on the island.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Who was the chief of all spirits?",
+      "answer_en": "Ariel",
+      "options_en": [
+        "Sycorax",
+        "Caliban",
+        "Ariel",
+        "Prospero"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Miranda was brought to the island ______ years ago.",
+      "answer_en": "twelve",
+      "options_en": [
+        "fourteen",
+        "ten",
+        "twelve",
+        "five"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Prospero ordered Ariel to bring ______ to his place.",
+      "answer_en": "Ferdinand",
+      "options_en": [
+        "Gonzalo",
+        "Ferdinand",
+        "King of Naples",
+        "Antonio"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Who had provided Prospero formerly with books and provisions?",
+      "answer_en": "Gonzalo",
+      "options_en": [
+        "Antonio",
+        "Ferdinand",
+        "Gonzalo",
+        "King of Naples"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

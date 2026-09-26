@@ -1,0 +1,273 @@
+{
+  "unit": "Unit VII — Poems",
+  "questions_per_poem": 25,
+  "pyq_based": true,
+  "store_pyq": true,
+  "pdf_page_offset": 3,
+  "source_original": "Data/General-English/Unit-7/TNPSC_Poem_Prose.pdf",
+  "source_pyq_1_10": "Data/General-English/Unit-7/Poem PYQ Topicwise (1-10) (1).pdf",
+  "source_pyq_11_25": "Data/General-English/Unit-7/Poem PYQ Topicwise (11-25) (1).pdf",
+  "poems": [
+    {
+      "num": 1,
+      "id": "dream_of_spices",
+      "title": "Dream of Spices",
+      "author": "Raj Arumugam",
+      "index_page": 1,
+      "pdf_start": 4,
+      "pdf_end": 6
+    },
+    {
+      "num": 2,
+      "id": "the_crocodile",
+      "title": "The Crocodile",
+      "author": "Lewis Carroll",
+      "index_page": 4,
+      "pdf_start": 7,
+      "pdf_end": 8
+    },
+    {
+      "num": 3,
+      "id": "teamwork",
+      "title": "Teamwork",
+      "author": "Edgar Albert Guest",
+      "index_page": 6,
+      "pdf_start": 9,
+      "pdf_end": 11
+    },
+    {
+      "num": 4,
+      "id": "from_a_railway_carriage",
+      "title": "From a Railway Carriage",
+      "author": "Robert Louis Stevenson",
+      "index_page": 9,
+      "pdf_start": 12,
+      "pdf_end": 15
+    },
+    {
+      "num": 5,
+      "id": "a_tragic_story",
+      "title": "A Tragic Story",
+      "author": "William Makepeace Thackeray",
+      "index_page": 13,
+      "pdf_start": 16,
+      "pdf_end": 18
+    },
+    {
+      "num": 6,
+      "id": "sea_fever",
+      "title": "Sea Fever",
+      "author": "John Masefield",
+      "index_page": 16,
+      "pdf_start": 19,
+      "pdf_end": 22
+    },
+    {
+      "num": 7,
+      "id": "courage",
+      "title": "Courage",
+      "author": "Edgar Albert Guest",
+      "index_page": 20,
+      "pdf_start": 23,
+      "pdf_end": 26
+    },
+    {
+      "num": 8,
+      "id": "the_age_of_chivalry",
+      "title": "The Age of Chivalry",
+      "author": "George Krokos",
+      "index_page": 24,
+      "pdf_start": 27,
+      "pdf_end": 30
+    },
+    {
+      "num": 9,
+      "id": "wandering_singers",
+      "title": "Wandering Singers",
+      "author": "Sarojini Naidu",
+      "index_page": 28,
+      "pdf_start": 31,
+      "pdf_end": 34
+    },
+    {
+      "num": 10,
+      "id": "the_listeners",
+      "title": "The Listeners",
+      "author": "Walter de la Mare",
+      "index_page": 32,
+      "pdf_start": 35,
+      "pdf_end": 37
+    },
+    {
+      "num": 11,
+      "id": "your_space",
+      "title": "Your Space",
+      "author": "David Bates",
+      "index_page": 35,
+      "pdf_start": 38,
+      "pdf_end": 42
+    },
+    {
+      "num": 12,
+      "id": "special_hero",
+      "title": "Special Hero",
+      "author": "Christine M. Kerschan",
+      "index_page": 40,
+      "pdf_start": 43,
+      "pdf_end": 46
+    },
+    {
+      "num": 13,
+      "id": "stopping_by_woods_on_a_snowy_evening",
+      "title": "Stopping by Woods on a Snowy Evening",
+      "author": "Robert Frost",
+      "index_page": 44,
+      "pdf_start": 47,
+      "pdf_end": 50
+    },
+    {
+      "num": 14,
+      "id": "leisure",
+      "title": "Leisure",
+      "author": "William Henry Davies",
+      "index_page": 48,
+      "pdf_start": 51,
+      "pdf_end": 51
+    },
+    {
+      "num": 15,
+      "id": "a_poison_tree",
+      "title": "A Poison Tree",
+      "author": "William Blake",
+      "index_page": 49,
+      "pdf_start": 52,
+      "pdf_end": 56
+    },
+    {
+      "num": 16,
+      "id": "the_power_of_a_smile",
+      "title": "The Power of a Smile",
+      "author": "Tupac Shakur",
+      "index_page": 54,
+      "pdf_start": 57,
+      "pdf_end": 57
+    },
+    {
+      "num": 17,
+      "id": "on_killing_a_tree",
+      "title": "On Killing a Tree",
+      "author": "Gieve Patel",
+      "index_page": 55,
+      "pdf_start": 58,
+      "pdf_end": 64
+    },
+    {
+      "num": 18,
+      "id": "advice_from_a_tree",
+      "title": "Advice from a Tree",
+      "author": "Ilan Shamir",
+      "index_page": 62,
+      "pdf_start": 65,
+      "pdf_end": 65
+    },
+    {
+      "num": 19,
+      "id": "the_spider_and_the_fly",
+      "title": "The Spider and The Fly",
+      "author": "Mary Howitt",
+      "index_page": 63,
+      "pdf_start": 66,
+      "pdf_end": 70
+    },
+    {
+      "num": 20,
+      "id": "never_trust_a_mirror",
+      "title": "Never Trust a Mirror",
+      "author": "Erin Hanson",
+      "index_page": 68,
+      "pdf_start": 71,
+      "pdf_end": 71
+    },
+    {
+      "num": 21,
+      "id": "the_river",
+      "title": "The River",
+      "author": "Caroline Ann Bowles",
+      "index_page": 69,
+      "pdf_start": 72,
+      "pdf_end": 75
+    },
+    {
+      "num": 22,
+      "id": "nature_the_gentlest_mother",
+      "title": "Nature the Gentlest Mother",
+      "author": "Emily Dickinson",
+      "index_page": 73,
+      "pdf_start": 76,
+      "pdf_end": 76
+    },
+    {
+      "num": 23,
+      "id": "the_comet",
+      "title": "The Comet",
+      "author": "Norman Littleford",
+      "index_page": 74,
+      "pdf_start": 77,
+      "pdf_end": 81
+    },
+    {
+      "num": 24,
+      "id": "the_star",
+      "title": "The Star",
+      "author": "Jane Taylor",
+      "index_page": 79,
+      "pdf_start": 82,
+      "pdf_end": 82
+    },
+    {
+      "num": 25,
+      "id": "the_stick_together_families",
+      "title": "The Stick-Together Families",
+      "author": "Edgar Albert Guest",
+      "index_page": 80,
+      "pdf_start": 83,
+      "pdf_end": 87
+    },
+    {
+      "num": 26,
+      "id": "memories_of_my_dad",
+      "title": "Memories of My Dad",
+      "author": "Rebecca D. Cook",
+      "index_page": 85,
+      "pdf_start": 88,
+      "pdf_end": 88
+    },
+    {
+      "num": 27,
+      "id": "life",
+      "title": "Life",
+      "author": "Henry Van Dyke",
+      "index_page": 86,
+      "pdf_start": 89,
+      "pdf_end": 91
+    },
+    {
+      "num": 28,
+      "id": "the_grumble_family",
+      "title": "The Grumble Family",
+      "author": "L.M. Montgomery",
+      "index_page": 89,
+      "pdf_start": 92,
+      "pdf_end": 96
+    },
+    {
+      "num": 29,
+      "id": "the_secret_of_the_machines",
+      "title": "The Secret of the Machines",
+      "author": "Rudyard Kipling",
+      "index_page": 94,
+      "pdf_start": 97,
+      "pdf_end": 101
+    }
+  ]
+}

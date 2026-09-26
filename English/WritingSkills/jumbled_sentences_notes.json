@@ -1,0 +1,642 @@
+{
+  "subject_id": "English",
+  "unit": "Writing Skills",
+  "menu": "jumbled_sentences",
+  "topic": "Jumbled Sentences",
+  "sources": [
+    "Asan Unit3 pp.[12, 13, 14, 15, 16] (primary, vision)",
+    "Grammer.pdf pp.[299, 302, 303, 304, 305, 307, 308] (secondary, text)"
+  ],
+  "rules": [
+    {
+      "rule_en": "The subject usually comes before the verb (e.g., The dog bit the horse).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "The object usually comes after the verb (e.g., The horse bit the dog).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "When there is an indirect object and a direct object, the indirect precedes the direct (e.g., Lend me your ears).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "When the adjective is used attributively it comes before the noun which it qualifies (e.g., Few cats like cold water).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "When the adjective is used predicatively it comes after the noun (e.g., The child is asleep).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "The adjective phrase comes immediately after the noun (e.g., The tops of the mountains were covered with snow).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "The adverb is generally placed close to the word which it modifies (e.g., Nothing ever happens by chance).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "When an adverb is intended to modify the sentence as a whole, it is placed at the beginning of a sentence (e.g., Certainly he made a fool of himself).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "All qualifying clauses are placed as close as possible to the words which they qualify (e.g., He died in the village where he was born).",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Arrange the given segments (P, Q, R, S) or numbered items in a logical order to form a coherent sentence or process.",
+      "js_tag": "coherence",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "rule_en": "Rearrange words to make a meaningful sentence by identifying subject, verb, and object components.",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "rule_en": "Arrange sentences in a logical, coherent sequence based on narrative order or cause-and-effect.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "rule_en": "Identify the subject, verb, and object or complement to structure the sentence logically.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "rule_en": "Read the sentences carefully to identify the logical flow of the process: creation, material preparation, and finishing.",
+      "js_tag": "process",
+      "source": "grammer",
+      "source_page": 304
+    },
+    {
+      "rule_en": "Rearrange the parts labelled P, Q, R, and S to produce a grammatically correct and meaningful sentence.",
+      "js_tag": "sentence_order",
+      "source": "grammer",
+      "source_page": 305
+    }
+  ],
+  "examples": [
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "1. Payal's house was a home for abandoned animals. 2. It was a small ball of brown and grey. 3. She found an owlet in one corner. 4. Payal's mother picked her up gently. 5. Payal's mother opened the carton. 6. One day they got a carton.",
+      "answer_en": "6, 1, 3, 2, 5, 4",
+      "note_en": "Rearrange sentences into a logical narrative sequence.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "1. He did not listen to their cries. 2. The farmer continued cutting the tree. 3. His childhood memories made him realize his mistake. 4. He decided to cut the tree thinking that it was useless. 5. The taste of the apple brought back his childhood memories. 6. The farmer had an old apple tree in his garden. 7. All the little animals in the tree pleaded with him. 8. He spent all his childhood playing under the apple tree.",
+      "answer_en": "6, 8, 4, 7, 1, 2, 5, 3",
+      "note_en": "Rearrange sentences into a logical narrative sequence.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "1. cinnamon, betel leaves 2. and ginger and garlic 3. Go to Muthu's 4. My mother would say: 5. and get some 6. Little boy Raj... 7. And so I go to the shops 8. singing all the way 9. tomatoes and pickles 10. Sesame seeds, onions 11. I rattle off a list: 12. what I'd want 13. and when Muthu asks me 14. Mother twists my ears 15. and back home 16. ouch!",
+      "answer_en": "6, 4, 3, 5, 1, 10, 2, 9, 11, 12, 13, 7, 8, 14, 16, 15",
+      "note_en": "Rearrange poem lines into correct order.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "1. The dry leaves that had collected around the pond swirled upwards. 2. Branches shook and the seat of the swing fell down from the ilanji tree. 3. The wind tore through the coconut palms in the southern compound. 4. Meenakshi Edathi was a dark-skinned and middle aged woman. 5. Without Meenakshi Edathi Ambazhathel family could not have existed happily for a single day.",
+      "answer_en": "4, 5, 3, 1, 2",
+      "note_en": "Rearrange sentences into a logical narrative sequence.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "kind_en": "process_sequence",
+      "prompt_en": "The process of making a Patta (8 steps listed)",
+      "answer_en": "7, 8, 4, 1, 3, 5, 2, 6 (based on logical construction)",
+      "note_en": "Requires sequencing a manufacturing process.",
+      "js_tag": "process_sequence",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "When he (P: did not know, Q: he was nervous and, R: heard the hue and cry at midnight, S: what to do)",
+      "answer_en": "RQPS",
+      "note_en": "Sentence part rearrangement.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "They felt safer (P: to watch the mountain, Q: of more than five miles, R: as they settled down, S: from a distance)",
+      "answer_en": "RSPQ",
+      "note_en": "Sentence part rearrangement.",
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "a personal / liberty is not / but a social contract / affair only",
+      "answer_en": "Liberty is not a personal affair but a social contract.",
+      "note_en": "Ordering based on meaningful grammar structure.",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "ennobles you / suffering / a better person / and makes you",
+      "answer_en": "Suffering ennobles you and makes you a better person.",
+      "note_en": "Subject 'Suffering' followed by verbs and objects.",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "a pound / prevention / of cure / an ounce of / is better than",
+      "answer_en": "Prevention is better than a pound of cure.",
+      "note_en": "Idiomatic structure.",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "brain / is the / workshop / An idle / devil's",
+      "answer_en": "An idle brain is the devil's workshop.",
+      "note_en": "Proverbial structure.",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "who help / themselves / God / those / helps",
+      "answer_en": "God helps those who help themselves.",
+      "note_en": "Proverbial structure.",
+      "js_tag": "word_order",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "kind_en": "process_sequence",
+      "prompt_en": "8. First, open the box and take out the computer parts. Then, set the computer on a table or a flat surface. Once you connect the CPU, connect the keyboard and mouse. After that, plug both the computer and the monitor with a power cord. Before turning on the power, check that all parts are connected to the CPU. Finally, turn on the power.",
+      "answer_en": "Order: 1. b, 5, 2, 1, 3, 4",
+      "note_en": "This is a process sequence example.",
+      "js_tag": "process",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "order/a yummy, round and big cake/her parents",
+      "answer_en": "Her parents order a yummy, round and big cake.",
+      "note_en": "Basic Subject-Verb-Object arrangement.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "her/a wonderful doll/present/Madhu’s friends/with",
+      "answer_en": "Madhu’s friends present her with a wonderful doll.",
+      "note_en": "Subject-Verb-Indirect Object-Direct Object.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "which falls on Sunday/for her birthday celebration/Madhu/her close friends/invites",
+      "answer_en": "Madhu invites her close friends for her birthday celebration which falls on Sunday.",
+      "note_en": "Complex sentence structure with a relative clause.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "welcome/she and her parents/with a broad smile/their/guests",
+      "answer_en": "She and her parents welcome their guests with a broad smile.",
+      "note_en": "Subject-Verb-Object-Prepositional phrase.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "enjoyed the day/felt/happy and/Madhu and her parents",
+      "answer_en": "Madhu and her parents felt happy and enjoyed the day.",
+      "note_en": "Compound predicate structure.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "the house with colourful balloons/her parents/decorate/and attractive cartoon",
+      "answer_en": "Her parents decorate the house with colourful balloons and attractive cartoon.",
+      "note_en": "Subject-Verb-Object-Prepositional phrase.",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "word_jumble",
+      "prompt_en": "pink/Madhu/frock/wears/on her/birthday/a long.",
+      "answer_en": "Madhu wears a long pink frock on her birthday.",
+      "note_en": "Adjective ordering (long pink) before noun (frock).",
+      "js_tag": "word_order",
+      "source": "grammer",
+      "source_page": 302
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "But Hamid bought a pair of tongs. / Granny Ameena felt proud of her grandson. / Hamid’s friends bought different toys of their choice. / Hamid proudly compared his tongs with a brave tiger. / Hamid had less money than his friends. / Granny Ameena was worried as he had to go to the Eidgah alone.",
+      "answer_en": "1. Granny Ameena was worried as he had to go to the Eidgah alone. 2. Hamid had less money than his friends. 3. Hamid’s friends bought different toys of their choice. 4. But Hamid bought a pair of tongs. 5. Hamid proudly compared his tongs with a brave tiger. 6. Granny Ameena felt proud of her grandson.",
+      "note_en": "Order based on the narrative sequence of the story.",
+      "js_tag": "sentence_order",
+      "source": "grammer",
+      "source_page": 303
+    },
+    {
+      "kind_en": "process_sequence",
+      "prompt_en": "Arrange the following steps for making a Patta: 1. The sap of the wood apple tree acts as a glue. 2. It is made by stitching multiple sheets of poster paper together. 3. Finally they are stored in rolled up bundles. 4. Plant-based colours and lamp black are mixed in coconut shells. 5. A Patta is created by painting on a canvas. 6. The completed scrolls are dried in the sun. 7. Jute fibre canvas was used in olden days. 8. A thin cotton cloth is glued to the back of the painting for long life.",
+      "answer_en": "1. Jute fibre canvas was used in olden days. 2. It is made by stitching multiple sheets of poster paper together. 3. A thin cotton cloth is glued to the back of the painting for long life. 4. A Patta is created by painting on a canvas. 5. Plant-based colours and lamp black are mixed in coconut shells. 6. The sap of the wood apple tree acts as a glue. 7. The completed scrolls are dried in the sun. 8. Finally they are stored in rolled up bundles.",
+      "note_en": "The sequence follows the chronological steps of crafting the scroll.",
+      "js_tag": "process",
+      "source": "grammer",
+      "source_page": 304
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "Arrange the spatial clues to find the location of the bird: 1. The snake is next to the owl. 2. The owl is not next to the bird. 3. The kite is on the right. 4. The owl is between the snake and the kite.",
+      "answer_en": "Order: Bird, Snake, Owl, Kite.",
+      "note_en": "Logical deduction based on positional clues.",
+      "js_tag": "sentence_order",
+      "source": "grammer",
+      "source_page": 304
+    },
+    {
+      "kind_en": "sentence_jumble",
+      "prompt_en": "Jane Eyre is an orphan. She lives with her aunt Mrs. Reed. Mrs. Reed does not like Jane because Jane is not her daughter. Jane’s uncle Mr. Reed likes Jane, but he dies. He makes Mrs. Reed promise to take care of Jane, but instead she sends Jane away. Jane is ten years old, she is sent to Lowood school. Jane graduates and stays there to teach. She leaves for Thornfield, where she is a governess. She is very happy there.",
+      "answer_en": "Jane Eyre is an orphan who lives with her aunt Mrs. Reed. Although Mrs. Reed does not like Jane because she is not her daughter, Jane’s uncle Mr. Reed likes Jane. He makes Mrs. Reed promise to take care of Jane before he dies, but instead, she sends Jane away. When Jane is ten years old, she is sent to Lowood school. Later, Jane graduates and stays there to teach, then leaves for Thornfield to work as a governess where she is very happy.",
+      "note_en": "Arrange the jumbled sentences into a logical paragraph using appropriate conjunctions.",
+      "js_tag": "sentence_order",
+      "source": "grammer",
+      "source_page": 307
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What is the logical sequence for these words? 1. Drive 2. Get in 3. Arrive 4. Park 5. Open door",
+      "answer_en": "b. 5,2,1,3,4",
+      "options_en": [
+        "a. 2,1,3,5,4",
+        "b. 5,2,1,3,4",
+        "c. 3,4,5,1,2",
+        "d. 3,5,1,2,4"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "What is the logical sequence for these words? 1. Travel 2. Book 3. Plan 4. Confirm 5. Enjoy",
+      "answer_en": "b. 4,5,3,2,1",
+      "options_en": [
+        "a. 3,2,4,1,5",
+        "b. 4,5,3,2,1",
+        "c. 1,2,3,4,5",
+        "d. 5,4,2,3,1"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "What is the logical sequence for these words? 1. Rest 2. Return 3. Supper 4. Go out 5. Visit",
+      "answer_en": "d. 5,4,3,2,1",
+      "options_en": [
+        "a. 1,2,3,4,5",
+        "b. 4,5,1,2,3",
+        "c. 4,5,2,3,1",
+        "d. 5,4,3,2,1"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "(O) as it was the last one of the evening (p) the city bus was overcrowded (Q) and this gave an opportunity (R) to the pickpockets (S) to try their skill",
+      "answer_en": "(b) PSORQ",
+      "options_en": [
+        "(a) SRPOQ",
+        "(b) PSORQ",
+        "(c) POQRS",
+        "(d) SROPQ"
+      ],
+      "js_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "P. having the opportunity of observing people's Q. we respect and appreciate their point of views R. the advantage of travelling different places and S. culture, custom and lifestyle, is that",
+      "answer_en": "(c) RPSQ",
+      "options_en": [
+        "(a) RQPS",
+        "(b) PSQR",
+        "(c) RPSQ",
+        "(d) SQPR"
+      ],
+      "js_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "O: its first constitution P: and soon got himself elected Q: the administration of the country R: general Ayub khan took over S: after Pakistan framed",
+      "answer_en": "(a) SORQP",
+      "options_en": [
+        "(a) SORQP",
+        "(b) SPORQ",
+        "(c) POSRQ",
+        "(d) ROPQS"
+      ],
+      "js_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "(P) technology has revolutionised (Q) and it has transformed the way (O) every aspect of our lives (R) we communicate and connect",
+      "answer_en": "(a) SORQP",
+      "options_en": [
+        "(a) SORQP",
+        "(b) SPORQ",
+        "(c) POSRQ",
+        "(d) ROPQS"
+      ],
+      "js_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "P: the next 50 years; Q: among the world's poorest countries; R: population shrinkage in that period; S: whereas many rich countries will see",
+      "answer_en": "(a) POSQR",
+      "options_en": [
+        "(a) POSQR",
+        "(b) RSOPQ",
+        "(c) SPORQ",
+        "(d) QOPSR"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "prompt_en": "A. Mobile phones or smartphones are becoming popular all over the world; B. But at the same time, it also harms us in many ways; C. It is the most widely used means of communication today; D. Today, it is very affordable and available to everyone.",
+      "answer_en": "(c) CABD",
+      "options_en": [
+        "(a) ABCD",
+        "(b) DACB",
+        "(c) CABD",
+        "(d) ACDB"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "prompt_en": "A. The upper part of the river; B. Continuous rain on; C. Week, there had been; D. During the previous",
+      "answer_en": "(b) DCBA",
+      "options_en": [
+        "(a) DBAC",
+        "(b) DCBA",
+        "(c) ADCB",
+        "(d) ABCD"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "prompt_en": "(a) false news websites; (b) spreading propaganda about politics; (c) thrive because the advertisements and politicians; (d) and social networking sites; (e) make a lot of money",
+      "answer_en": "(b) adcbe",
+      "options_en": [
+        "(a) aecbd",
+        "(b) adcbe",
+        "(c) adecb",
+        "(d) aedcb"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "prompt_en": "A. all the plants and animals of today; B. it is written that Brahma is the God of creation; C. and it is He who has de; D. in the book of Hindu mythology",
+      "answer_en": "(a) DACB",
+      "options_en": [
+        "(a) DACB",
+        "(b) DBCA",
+        "(c) DCBA",
+        "(d) CABD"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "prompt_en": "A. only for themselves; B. Is full of; C. People who live; D. The world",
+      "answer_en": "(c) DBAC",
+      "options_en": [
+        "(a) BCAD",
+        "(b) ABCD",
+        "(c) DBAC",
+        "(d) DBCA"
+      ],
+      "js_tag": "rearrange",
+      "source": "asan",
+      "source_page": 15
+    },
+    {
+      "prompt_en": "1. Jumbled sentence sequence PQRS",
+      "answer_en": "(c) PQRS",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "2. Jumbled sentence sequence RPSQ",
+      "answer_en": "(c) RPSQ",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "3. Jumbled sentence sequence SORQP",
+      "answer_en": "(a) SORQP",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "4. Jumbled sentence sequence POQR",
+      "answer_en": "(c) POQR",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "5. Jumbled sentence sequence QOPSR",
+      "answer_en": "(d) QOPSR",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "6. Jumbled sentence sequence ACDB",
+      "answer_en": "(d) ACDB",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "7. Jumbled sentence sequence DCBA",
+      "answer_en": "(b) DCBA",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "8. Jumbled sentence sequence adcbe",
+      "answer_en": "(b) adcbe",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "9. Jumbled sentence sequence DBCA",
+      "answer_en": "(b) DBCA",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "10. Jumbled sentence sequence DBCA",
+      "answer_en": "(d) DBCA",
+      "options_en": [],
+      "js_tag": "sentence_order",
+      "source": "asan",
+      "source_page": 16
+    },
+    {
+      "prompt_en": "When he\nP : did not know\nQ : he was nervous and\nR : heard the hue and cry at midnight\nS : what to do",
+      "answer_en": "RQPS",
+      "options_en": [
+        "a. RQPS",
+        "b. QSPR",
+        "c. SQPR",
+        "d. PQRS"
+      ],
+      "js_tag": "rearrange",
+      "source": "grammer",
+      "source_page": 305
+    },
+    {
+      "prompt_en": "A. Miss Sullivan arrived at the Keller home when Helen was seven. B. The hearing impaired and visually challenged Helen learned to communicate verbally. C. But, eventually, Miss Sullivan's effort was rewarded. D. Before Helen Keller was two years old, she lost her sight and her hearing. E. Miss Sullivan worked closely with Helen, her new student. F. At times the teacher became frustrated.",
+      "answer_en": "DAEFCB",
+      "options_en": [
+        "1. DEFACB",
+        "2. DAEFCB",
+        "3. ACFDEB",
+        "4. CFDABE",
+        "5. FDACEB"
+      ],
+      "js_tag": "rearrange",
+      "source": "grammer",
+      "source_page": 308
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 15,
+      "examples": 24,
+      "worked_exercises": 25
+    },
+    "by_js_tag": {
+      "word_order": {
+        "rules": 11,
+        "examples": 12,
+        "worked": 0
+      },
+      "coherence": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "sentence_order": {
+        "rules": 2,
+        "examples": 9,
+        "worked": 10
+      },
+      "process": {
+        "rules": 1,
+        "examples": 2,
+        "worked": 0
+      },
+      "process_sequence": {
+        "rules": 0,
+        "examples": 1,
+        "worked": 0
+      },
+      "rearrange": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 11
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 4
+      }
+    }
+  }
+}

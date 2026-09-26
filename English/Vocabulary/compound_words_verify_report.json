@@ -1,0 +1,75 @@
+{
+  "batches": {
+    "Batch 1": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Batch 2": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Batch 3": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Batch 4": {
+      "summary": {
+        "total": 25,
+        "passed": 23,
+        "flagged": 2,
+        "verdict": "NEEDS_FIX"
+      },
+      "fixed": 2,
+      "dropped": 0,
+      "kept": 25,
+      "details": [
+        {
+          "q_index": 7,
+          "issue_type": "wrong_answer",
+          "severity": "medium",
+          "description": "The option A ('park') results in 'car park', but the marked answer 'A' correctly corresponds to the option, wait, let's check options: A) park | B) stand | C) space | D) lot. 'car park' uses 'park', b",
+          "old_answer": "A",
+          "question_en": "Which word can be placed after 'car' to form a compound word denoting a parking area?",
+          "new_answer": ""
+        },
+        {
+          "q_index": 8,
+          "issue_type": "wrong_answer",
+          "severity": "high",
+          "description": "Options A) housekeeping and D) housekeeping are duplicates, and 'housekeeping' is not in the reference compound word list E1-E100.",
+          "old_answer": "A",
+          "question_en": "What is the compound word formed by combining 'house' and 'keeping'?",
+          "new_answer": ""
+        }
+      ]
+    }
+  },
+  "totals": {
+    "fixed": 2,
+    "dropped": 0
+  }
+}

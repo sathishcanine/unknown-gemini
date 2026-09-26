@@ -1,0 +1,48 @@
+{
+  "subject_id": "English",
+  "menu": "sentence_transformation",
+  "topics": [
+    {
+      "id": "statement_to_imperative",
+      "name_en": "Statement → Imperative",
+      "name_ta": "அறிக்கை → கட்டளை வாக்கியம்",
+      "batches": 2,
+      "focus": "Convert assertive/statement to command or request; drop subject; use base verb; Please for polite requests."
+    },
+    {
+      "id": "interrogative_to_statement",
+      "name_en": "Interrogative → Statement",
+      "name_ta": "வினா → அறிக்கை வாக்கியம்",
+      "batches": 2,
+      "focus": "Change questions to assertive statements; adjust word order and auxiliaries; remove question mark."
+    },
+    {
+      "id": "assertive_to_negative",
+      "name_en": "Assertive → Negative",
+      "name_ta": "நேர்மறை → எதிர்மறை வாக்கியம்",
+      "batches": 2,
+      "focus": "Add not/doesn't/didn't/no/never; never double negative wrongly; keep same tense."
+    },
+    {
+      "id": "exclamatory_to_statement",
+      "name_en": "Exclamatory → Statement",
+      "name_ta": "உணர்ச்சி → அறிக்கை வாக்கியம்",
+      "batches": 2,
+      "focus": "What/How exclamatory to plain assertive; remove ! ; It is/was… ; very/so + adjective patterns."
+    },
+    {
+      "id": "imperative_to_interrogative",
+      "name_en": "Imperative → Interrogative",
+      "name_ta": "கட்டளை → வினா வாக்கியம்",
+      "batches": 2,
+      "focus": "Commands/requests to Will you/Could you/Can you/Do you… ; inquisitive polite questions."
+    },
+    {
+      "id": "imperative_to_appreciative",
+      "name_en": "Imperative → Appreciative Statement",
+      "name_ta": "கட்டளை → பாராட்டு அறிக்கை",
+      "batches": 2,
+      "focus": "Imperative to appreciative assertive: It is kind of you to… / You are kind to… / I appreciate your…"
+    }
+  ]
+}

@@ -1,0 +1,1804 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "one_word_substitution",
+  "sources": [
+    "Vetrii Vocabulary pp.[124, 125, 126, 127, 128, 129, 130, 131, 132] (primary, vision)",
+    "Grammer.pdf pp.[214] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "One-word substitution is a concept where a single word replaces a phrase or sentence to make communication more concise and clear.",
+      "ow_tag": "definition",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "rule_en": "Affixes are the building blocks of English. A prefix is a small unit placed at the beginning of a word to modify or qualify its meaning.",
+      "ow_tag": "definition",
+      "source": "vetrii",
+      "source_page": 132
+    },
+    {
+      "rule_en": "A suffix is a small unit placed at the end of a word to form a derivative.",
+      "ow_tag": "definition",
+      "source": "vetrii",
+      "source_page": 132
+    },
+    {
+      "rule_en": "An infix is placed within a word (rare in English).",
+      "ow_tag": "definition",
+      "source": "vetrii",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Acronym is a type of abbreviation where a new word is formed from the first letters of a series of words; it is pronounced as a separate word.",
+      "ow_tag": "definition",
+      "source": "vetrii",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Compound words are formed when two or more words are put together to form a new word with a new meaning.",
+      "ow_tag": "definition",
+      "source": "vetrii",
+      "source_page": 132
+    }
+  ],
+  "examples": [
+    {
+      "phrase_en": "A person who loves mankind",
+      "word_en": "Philanthropist",
+      "note_en": "A person who seeks to promote the welfare of others.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who hates mankind",
+      "word_en": "Misanthrope",
+      "note_en": "A person who dislikes humankind and avoids human society.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A handwriting that cannot be read",
+      "word_en": "Illegible",
+      "note_en": "Not clear enough to be read.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who does not believe in God",
+      "word_en": "Atheist",
+      "note_en": "Disbelieving or lacking belief in the existence of God.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who believes in God",
+      "word_en": "Theist",
+      "note_en": "Believing in the existence of a god or gods.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who speaks many languages",
+      "word_en": "Polyglot",
+      "note_en": "Knowing or using several languages.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who knows everything",
+      "word_en": "Omniscient",
+      "note_en": "Knowing everything.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who eats human flesh",
+      "word_en": "Cannibal",
+      "note_en": "A person who eats the flesh of other human beings.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is unable to pay debts",
+      "word_en": "Insolvent",
+      "note_en": "Unable to pay one's debts.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is new to a profession",
+      "word_en": "Novice",
+      "note_en": "A person new to or inexperienced in a field or situation.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is indifferent to pleasure or pain",
+      "word_en": "Stoic",
+      "note_en": "Able to endure pain or hardship without showing their feelings or complaining.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who loves books",
+      "word_en": "Bibliophile",
+      "note_en": "A person who collects or has a great love of books.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who looks on the bright side of things",
+      "word_en": "Optimist",
+      "note_en": "A person who tends to be hopeful and confident about the future.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who looks on the dark side of things",
+      "word_en": "Pessimist",
+      "note_en": "A person who tends to see the worst aspect of things or believe that the worst will happen.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who lives alone",
+      "word_en": "Recluse",
+      "note_en": "A person who lives a solitary life and tends to avoid other people.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is easily deceived",
+      "word_en": "Gullible",
+      "note_en": "Easily persuaded to believe something.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is fond of fighting",
+      "word_en": "Belligerent",
+      "note_en": "Hostile and aggressive.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is excessively talkative",
+      "word_en": "Garrulous",
+      "note_en": "Excessively talkative, especially on trivial matters.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is reserved and shy",
+      "word_en": "Introvert",
+      "note_en": "A shy, reticent person.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is outgoing and social",
+      "word_en": "Extrovert",
+      "note_en": "An outgoing, overtly expressive person.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 124
+    },
+    {
+      "phrase_en": "A person who is skilled in telling stories",
+      "word_en": "Raconteur",
+      "note_en": "A skilled storyteller.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is always dissatisfied",
+      "word_en": "Malcontent",
+      "note_en": "Someone who is chronically unhappy.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is excessively concerned with them",
+      "word_en": "Narcissist",
+      "note_en": "Characterized by vanity or self-admiration.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in heart diseases",
+      "word_en": "Cardiologist",
+      "note_en": "Medical specialist for the heart.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats skin diseases",
+      "word_en": "Dermatologist",
+      "note_en": "Medical specialist for the skin.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in the female reproductive system",
+      "word_en": "Gynaecologist",
+      "note_en": "Medical specialist for female health.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats mental health issues",
+      "word_en": "Psychiatrist",
+      "note_en": "Medical doctor specializing in mental health.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who studies and treats cancer",
+      "word_en": "Oncologist",
+      "note_en": "Specialist in cancer treatment.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats children",
+      "word_en": "Paediatrician",
+      "note_en": "Medical specialist for children.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in the nervous system",
+      "word_en": "Neurologist",
+      "note_en": "Specialist in disorders of the nervous system.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who studies the urinary system",
+      "word_en": "Urologist",
+      "note_en": "Specialist in the urinary tract.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in pregnancy and childbirth",
+      "word_en": "Obstetrician",
+      "note_en": "Specialist in pregnancy and delivery.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats eye diseases",
+      "word_en": "Ophthalmologist",
+      "note_en": "Eye medical specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats ear, nose, and throat diseases",
+      "word_en": "Otolaryngologist",
+      "note_en": "ENT specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats bone and joint disorders",
+      "word_en": "Orthopaedist",
+      "note_en": "Specialist in musculoskeletal system.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in lungs and respiratory diseases",
+      "word_en": "Pulmonologist",
+      "note_en": "Respiratory system specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who analyses X-rays and scans",
+      "word_en": "Radiologist",
+      "note_en": "Medical imaging specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in digestive system diseases",
+      "word_en": "Gastroenterologist",
+      "note_en": "Digestive health specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in the immune system",
+      "word_en": "Immunologist",
+      "note_en": "Immune system specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who studies and treats blood disorders",
+      "word_en": "Haematologist",
+      "note_en": "Blood specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in kidney diseases",
+      "word_en": "Nephrologist",
+      "note_en": "Kidney specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who studies the causes of diseases",
+      "word_en": "Pathologist",
+      "note_en": "Specialist in disease analysis.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who treats endocrine system disorders",
+      "word_en": "Endocrinologist",
+      "note_en": "Hormone specialist.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A doctor who specializes in elderly care",
+      "word_en": "Geriatrician",
+      "note_en": "Specialist in elderly health.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A professional who aids physical recovery through exercises",
+      "word_en": "Physiotherapist",
+      "note_en": "Rehabilitation professional.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who study of ancient things",
+      "word_en": "Archaeologist",
+      "note_en": "Studies history/prehistory via remains.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is fond of collecting coins",
+      "word_en": "Numismatist",
+      "note_en": "Collector of coins.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is fond of collecting stamps",
+      "word_en": "Philatelist",
+      "note_en": "Collector of stamps.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who loves to travel",
+      "word_en": "Cosmopolitan",
+      "note_en": "Someone at home all over the world.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is fond of collecting antiques",
+      "word_en": "Antiquarian",
+      "note_en": "Collector or student of antiques.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is fond of collecting rare objects",
+      "word_en": "Curio",
+      "note_en": "Collector of rare/unusual objects.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A person who is fond of collecting paintings",
+      "word_en": "Iconophile",
+      "note_en": "Lover of icons or paintings.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "The study of ancient societies",
+      "word_en": "Archaeology",
+      "note_en": "Science of ancient human history.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 125
+    },
+    {
+      "phrase_en": "A government by the people",
+      "word_en": "Democracy",
+      "note_en": "Government of the people",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Something that is no longer in use",
+      "word_en": "Obsolete",
+      "note_en": "Outdated or no longer used",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A person who hates women",
+      "word_en": "Misogynist",
+      "note_en": "One who dislikes women",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "The killing of one's brother",
+      "word_en": "Fratricide",
+      "note_en": "Act of killing a brother",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A place where birds are kept",
+      "word_en": "Aviary",
+      "note_en": "Enclosure for birds",
+      "ow_tag": "place",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A speech delivered without previous preparation",
+      "word_en": "Extempore",
+      "note_en": "Spoken without planning",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Impossible to believe",
+      "word_en": "Incredible",
+      "note_en": "Unbelievable",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A cure for all diseases",
+      "word_en": "Panacea",
+      "note_en": "Universal remedy",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "One who is all-powerful",
+      "word_en": "Omnipotent",
+      "note_en": "Having infinite power",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "The study of stars and planets",
+      "word_en": "Astronomy",
+      "note_en": "Scientific study of celestial bodies",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A person who cannot read or write",
+      "word_en": "Illiterate",
+      "note_en": "Lacking ability to read/write",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Liable to make mistakes",
+      "word_en": "Fallible",
+      "note_en": "Capable of erring",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A story with a moral lesson",
+      "word_en": "Fable",
+      "note_en": "Story conveying moral",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "The killing of a king or queen",
+      "word_en": "Regicide",
+      "note_en": "Act of killing a monarch",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "The killing of one's father",
+      "word_en": "Patricide",
+      "note_en": "Act of killing a father",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "The killing of one's mother",
+      "word_en": "Matricide",
+      "note_en": "Act of killing a mother",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "The killing of a large number of people",
+      "word_en": "Genocide",
+      "note_en": "Mass killing of a group",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Fear of heights",
+      "word_en": "Acrophobia",
+      "note_en": "Phobia of high places",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Fear of water",
+      "word_en": "Hydrophobia",
+      "note_en": "Phobia of water",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Fear of closed spaces",
+      "word_en": "Claustrophobia",
+      "note_en": "Phobia of enclosed areas",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "Fear of strangers",
+      "word_en": "Xenophobia",
+      "note_en": "Phobia of outsiders",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A strong feeling of dislike",
+      "word_en": "Antipathy",
+      "note_en": "Deep-seated dislike",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A strong feeling of love",
+      "word_en": "Affection",
+      "note_en": "Fondness or attachment",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A violent windstorm",
+      "word_en": "Hurricane",
+      "note_en": "Tropical cyclone",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A violent rotating column of air",
+      "word_en": "Tornado",
+      "note_en": "Column of air from storm to ground",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A sudden violent shaking of the ground",
+      "word_en": "Earthquake",
+      "note_en": "Seismic activity",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A large fire that spreads rapidly",
+      "word_en": "Conflagration",
+      "note_en": "Great uncontrolled fire",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A continuous period of dry weather",
+      "word_en": "Famine",
+      "note_en": "Extreme scarcity of food",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A widespread occurrence of an infectious disease",
+      "word_en": "Epidemic",
+      "note_en": "Regional disease outbreak",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A disease prevalent over a whole country or world",
+      "word_en": "Pandemic",
+      "note_en": "Global disease outbreak",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A state of armed conflict",
+      "word_en": "War",
+      "note_en": "State of hostility",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 126
+    },
+    {
+      "phrase_en": "A state of peace agreed to between opponents so they can discuss peace terms",
+      "word_en": "Armistice",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A formal agreement between two or more states for mutual support in case of war",
+      "word_en": "Alliance",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A policy of extending a country's power and influence through diplomacy or military force",
+      "word_en": "Expansionism",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "The belief in and worship of only one God",
+      "word_en": "Monotheism",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "The belief in or worship of more than one God",
+      "word_en": "Polytheism",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "The practice of having more than one wife at a time",
+      "word_en": "Polygamy",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "The practice of having more than one husband at a time",
+      "word_en": "Polyandry",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A marriage between people of different races, castes, or social classes",
+      "word_en": "Exogamy",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Marriage within a specific tribe or social unit",
+      "word_en": "Endogamy",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A person who dies for their beliefs",
+      "word_en": "Martyr",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A person who betrays their country or a cause",
+      "word_en": "Traitor",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A person who helps someone to commit a crime",
+      "word_en": "Accomplice",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A person who is blamed for the wrongdoings of others",
+      "word_en": "Scapegoat",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A list of items to be discussed at a meeting",
+      "word_en": "Agenda",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A formal expression of opinion or intention agreed on by a vote",
+      "word_en": "Resolution",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A legal agreement by which a person borrows money from another usually for a definite period and at a fixed interest rate",
+      "word_en": "Mortgage",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that causes death",
+      "word_en": "Fatal",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that cannot be avoided",
+      "word_en": "Inevitable",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is essential or crucial",
+      "word_en": "Indispensable",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is open to more than one interpretation",
+      "word_en": "Ambiguous",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is very unusual or remarkable",
+      "word_en": "Extraordinary",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is done secretly",
+      "word_en": "Surreptitious",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is based on chance rather than being planned",
+      "word_en": "Fortuitous",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is very pleasing to taste or smell",
+      "word_en": "Delicious",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "Something that is extremely unpleasant",
+      "word_en": "Repugnant",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A place where animals are slaughtered for food",
+      "word_en": "Abattoir",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A place where government records are kept",
+      "word_en": "Archives",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A place where coins, medals, or tokens are kept",
+      "word_en": "Cabinet",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A place where artistic, cultural, historical, or scientific items are exhibited",
+      "word_en": "Museum",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A place offering shelter or protection",
+      "word_en": "Asylum",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A style in which a writer makes a display of their knowledge",
+      "word_en": "Pedantic",
+      "note_en": "N/A",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 127
+    },
+    {
+      "phrase_en": "A statement or expression of strong disapproval",
+      "word_en": "Censure",
+      "note_en": "Expressing severe criticism or blame.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A feeling of great happiness or triumph",
+      "word_en": "Exultation",
+      "note_en": "A state of joyousness or extreme happiness.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A feeling of deep regret or sorrow for wrongdoing",
+      "word_en": "Remorse",
+      "note_en": "Deep moral guilt for past actions.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A general pardon for offenders, especially for political offenses",
+      "word_en": "Amnesty",
+      "note_en": "An official act of forgiveness for a large group of people.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A temporary stay",
+      "word_en": "Sojourn",
+      "note_en": "Staying somewhere for a short period of time.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A strong desire or craving",
+      "word_en": "Covetousness",
+      "note_en": "Having a desire to possess something belonging to someone else.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A lack of interest or enthusiasm",
+      "word_en": "Apathy",
+      "note_en": "Indifference or lack of concern.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The action of deceiving someone by making false statements",
+      "word_en": "Deception",
+      "note_en": "The act of causing someone to believe something that is not true.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of freeing someone from captivity or oppression",
+      "word_en": "Liberation",
+      "note_en": "Setting someone free from confinement.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of intentionally setting fire to property",
+      "word_en": "Arson",
+      "note_en": "The criminal act of deliberately setting fire to property.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of making defamatory statements about someone",
+      "word_en": "Libel",
+      "note_en": "A published false statement that is damaging to a person's reputation.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of killing a human being",
+      "word_en": "Homicide",
+      "note_en": "The killing of one human by another.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of killing oneself intentionally",
+      "word_en": "Suicide",
+      "note_en": "The act of intentionally ending one's own life.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of stealing something of little value",
+      "word_en": "Pilferage",
+      "note_en": "The act of stealing small items.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The act of speaking disrespectfully of sacred things",
+      "word_en": "Blasphemy",
+      "note_en": "Offensive language against God or sacred things.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The practice of spying or of using spies",
+      "word_en": "Espionage",
+      "note_en": "The use of secret agents to gather information.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The policy of racial segregation and discrimination",
+      "word_en": "Apartheid",
+      "note_en": "A system of institutionalized racial segregation.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "Excessive admiration or flattery",
+      "word_en": "Adulation",
+      "note_en": "Excessive devotion or praise.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "Extreme old age when there is a decline in mental and physical faculties",
+      "word_en": "Senility",
+      "note_en": "The condition of being senile.",
+      "ow_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The study of the origin and history of words",
+      "word_en": "Etymology",
+      "note_en": "The investigation of word histories.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The branch of philosophy that deals with the first principles of things",
+      "word_en": "Metaphysics",
+      "note_en": "The study of the nature of reality.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The branch of science concerned with the nature, properties, and relations of matter and energy",
+      "word_en": "Physics",
+      "note_en": "The study of matter and energy interaction.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The branch of science that deals with substances and their properties and how they interact",
+      "word_en": "Chemistry",
+      "note_en": "The science of substances and their reactions.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The branch of biology that deals with the normal functions of living organisms and their parts",
+      "word_en": "Physiology",
+      "note_en": "The study of how living organisms function.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "The branch of medicine that deals with the incidence, distribution, and possible control of diseases",
+      "word_en": "Epidemiology",
+      "note_en": "The study of the spread of diseases.",
+      "ow_tag": "science",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A person who makes maps",
+      "word_en": "Cartographer",
+      "note_en": "A professional map maker.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A person who compiles dictionaries",
+      "word_en": "Lexicographer",
+      "note_en": "An editor or compiler of dictionaries.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A person who studies the evolution of mankind",
+      "word_en": "Anthropologist",
+      "note_en": "One who studies human societies and cultures.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A person who studies the sky and celestial bodies",
+      "word_en": "Astronomer",
+      "note_en": "One who studies space and stars.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A person who studies the past through excavation and examination of artifacts",
+      "word_en": "Archaeologist",
+      "note_en": "One who examines human history through material remains.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 128
+    },
+    {
+      "phrase_en": "A person who is skilled at public speaking",
+      "word_en": "Orator",
+      "note_en": "One who is an expert in public speaking.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "phrase_en": "A person who is excessively fond of one's wife",
+      "word_en": "Uxorious",
+      "note_en": "A man who is overly submissive or devoted to his wife.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "phrase_en": "A person who is unmarried (for a man)",
+      "word_en": "Bachelor",
+      "note_en": "An unmarried man.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "phrase_en": "A young unmarried woman",
+      "word_en": "Maiden",
+      "note_en": "Often refers to a young, unmarried girl or woman (also Spinster is listed).",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "phrase_en": "A speech of praise",
+      "word_en": "Eulogy",
+      "note_en": "A speech or piece of writing that praises someone or something highly.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "phrase_en": "a person who carries the golf clubs for the golfer on the green",
+      "word_en": "caddie",
+      "note_en": "Common term used in golf sports.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "a person who narrates on TV or radio the action taking place during a game",
+      "word_en": "sports commentator",
+      "note_en": "Professional commentator for sports events.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "a person who leaps over a horizontal pole with the help of a vertical pole",
+      "word_en": "pole-vaulter",
+      "note_en": "An athlete specialized in pole vaulting.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "a race across approximately forty two kilometres",
+      "word_en": "marathon",
+      "note_en": "Long distance running race.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "the player who is due to strike the ball first in a rally in Table Tennis, Tennis, Badminton, etc.",
+      "word_en": "server",
+      "note_en": "The player who initiates the play.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "a stage in a game of boxing, wrestling, golf, cards, etc.",
+      "word_en": "round",
+      "note_en": "A discrete period of play.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "one whose performance is the best ever reached, especially in Sports",
+      "word_en": "record breaker",
+      "note_en": "A person who establishes a new record.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "phrase_en": "Looks after the passengers and stores on ship or plane",
+      "word_en": "Purser",
+      "note_en": "A professional responsible for managing finances or service on ships or aircraft.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who practices massage as a profession",
+      "word_en": "Masseur",
+      "note_en": "A person skilled in therapeutic massage.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who does loading or unloading on a ship",
+      "word_en": "Stevedore",
+      "note_en": "A person employed in the loading and unloading of ships.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who makes and mends footwear",
+      "word_en": "Cobbler",
+      "note_en": "A person whose job is to repair shoes.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "Retail dealer of needles, pins, etc. (Brit); retail dealer of men's clothing",
+      "word_en": "Haberdasher",
+      "note_en": "A dealer in notions or men's accessories.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "Specialist in the treatment of mental illnesses",
+      "word_en": "Psychiatrist",
+      "note_en": "A medical practitioner specializing in the diagnosis and treatment of mental illness.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who is skilled in the treatment of animal diseases and injuries",
+      "word_en": "Veterinarian",
+      "note_en": "A person qualified to treat diseased or injured animals.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "In charge of the preparation for large orders at a restaurant or hotel",
+      "word_en": "Chef de partie",
+      "note_en": "A chef in charge of a particular section of the kitchen.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who operates upon a person to correct bone deformities",
+      "word_en": "Surgeon",
+      "note_en": "A medical practitioner qualified to practice surgery.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who creates and promotes awareness of a website and directs viewers to it",
+      "word_en": "Web Traffic Manager",
+      "note_en": "Professional responsible for online site visibility.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "Expert in the study of the earth",
+      "word_en": "Geologist",
+      "note_en": "A scientist who studies the solid Earth.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "One who gives expert advice for a specific professional need",
+      "word_en": "Consultant",
+      "note_en": "A person who provides expert advice in a particular field.",
+      "ow_tag": "profession",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "phrase_en": "Central Bureau of Investigation",
+      "word_en": "CBI",
+      "note_en": "Acronym formed from the first letters of a series of words.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 132
+    },
+    {
+      "phrase_en": "Intelligence Bureau",
+      "word_en": "IB",
+      "note_en": "Acronym formed from the first letters of a series of words.",
+      "ow_tag": "other",
+      "source": "vetrii",
+      "source_page": 132
+    },
+    {
+      "phrase_en": "slightly salty",
+      "word_en": "brackish",
+      "note_en": "Starts with b",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "a hot, smoldering fragment of wood left from a fire",
+      "word_en": "ember",
+      "note_en": "Starts with e",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "about to occur",
+      "word_en": "imminent",
+      "note_en": "Starts with i",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "technical terminology",
+      "word_en": "jargon",
+      "note_en": "Starts with j",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "a small rounded hill",
+      "word_en": "knoll",
+      "note_en": "Starts with k",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "bright or radiant",
+      "word_en": "luminous",
+      "note_en": "Starts with l",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "a large number",
+      "word_en": "myriad",
+      "note_en": "Starts with m",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "gather or bring together",
+      "word_en": "marshal",
+      "note_en": "Starts with m",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "pure, free from contamination",
+      "word_en": "pristine",
+      "note_en": "Starts with p",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "one who lives in solitude",
+      "word_en": "recluse",
+      "note_en": "Starts with r",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "phrase_en": "capable of being wounded or hurt",
+      "word_en": "vulnerable",
+      "note_en": "Starts with v",
+      "ow_tag": "meaning",
+      "source": "grammer",
+      "source_page": 214
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "A person who is unmarried (for a woman)",
+      "answer_en": "Spinster",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Slightly salty",
+      "answer_en": "Briny",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "A hot, smouldering fragment of wood left from a fire",
+      "answer_en": "Ember",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "About to occur",
+      "answer_en": "Imminent",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Technical terminology",
+      "answer_en": "Jargon",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "A small rounded hill",
+      "answer_en": "Knoll",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Bright or radiant",
+      "answer_en": "Luminous",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "A large number",
+      "answer_en": "Multitude",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Gather or bring together",
+      "answer_en": "Mobilise",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Pure, free from contamination",
+      "answer_en": "Pristine",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "One who lives in solitude",
+      "answer_en": "Recluse",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Capable of being wounded or hurt",
+      "answer_en": "Vulnerable",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 129
+    },
+    {
+      "prompt_en": "Match Column A with their meaning in Column B: 1. Purser, 2. Masseur, 3. Stevedore, 4. Cobbler, 5. Haberdasher, 6. Psychiatrist, 7. Veterinarian, 8. Chef de partie, 9. Orthopaedic Surgeon, 10. Web Traffic Manager, 11. Geologist, 12. Consultant",
+      "answer_en": "1-Looks after the passengers and stores on ship or plane, 2-One who practices massage as a profession, 3-One who does loading or unloading on a ship, 4-One who makes and mends footwear, 5-Retail dealer of needles, pins, etc. (Brit); retail dealer of men's clothing, 6-One who gives expert advice for a specific professional need, 7-One who is skilled in the treatment of animal diseases and injuries, 8-In charge of the preparation for large orders at a restaurant or hotel, 9-One who operates upon a person to correct bone deformities, 10-One who creates and promotes awareness of a web site and directs viewers to it, 11-Expert in the study of the earth, 12-One who gives expert advice for a specific professional need",
+      "options_en": [],
+      "ow_tag": "match",
+      "source": "vetrii",
+      "source_page": 130
+    },
+    {
+      "prompt_en": "To fall down because of illness or weakness",
+      "answer_en": "Collapse",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "prompt_en": "To hurt or cause physical harm",
+      "answer_en": "Injure",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "prompt_en": "To have an uncomfortable feeling on the skin",
+      "answer_en": "Itch",
+      "options_en": [],
+      "ow_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 131
+    },
+    {
+      "prompt_en": "They went for a walk in the _______, clean November air.",
+      "answer_en": "crisp",
+      "options_en": [
+        "clear",
+        "crisp",
+        "cheerful"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "He ______ her that she would pass.",
+      "answer_en": "assured",
+      "options_en": [
+        "ensured",
+        "insured",
+        "assured"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "After the sports day, the competitors felt completely _________.",
+      "answer_en": "done in",
+      "options_en": [
+        "done out",
+        "run out",
+        "done in"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "We owe a deep debt of _______ of the freedom fighters.",
+      "answer_en": "gratitude",
+      "options_en": [
+        "patriotism",
+        "remembrance",
+        "gratitude"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "His shabby clothes and uncombed hair gave him a _________ appearance.",
+      "answer_en": "disreputable",
+      "options_en": [
+        "disreputable",
+        "disrespect",
+        "discontented"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "One word for ‘a following of one thing after another’ is _________.",
+      "answer_en": "sequence",
+      "options_en": [
+        "sequence",
+        "consequence",
+        "similar"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "An agreement to protect another country is an ________.",
+      "answer_en": "alliance",
+      "options_en": [
+        "treaty",
+        "assurance",
+        "alliance"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "_______ is a speech by an actor speaking to himself.",
+      "answer_en": "soliloquy",
+      "options_en": [
+        "comic relief",
+        "monologue",
+        "soliloquy"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "A maze is also known as a _______. ",
+      "answer_en": "labyrinth",
+      "options_en": [
+        "paradox",
+        "legacy",
+        "labyrinth"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    },
+    {
+      "prompt_en": "Although Veera was very critical, his family hoped that he would _______. ",
+      "answer_en": "pull through",
+      "options_en": [
+        "pull out",
+        "pull off",
+        "pull through"
+      ],
+      "ow_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 214
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 6,
+      "examples": 182,
+      "worked_exercises": 26
+    },
+    "by_ow_tag": {
+      "definition": {
+        "rules": 6,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 0,
+        "examples": 100,
+        "worked": 0
+      },
+      "profession": {
+        "rules": 0,
+        "examples": 43,
+        "worked": 0
+      },
+      "science": {
+        "rules": 0,
+        "examples": 8,
+        "worked": 0
+      },
+      "place": {
+        "rules": 0,
+        "examples": 1,
+        "worked": 0
+      },
+      "meaning": {
+        "rules": 0,
+        "examples": 30,
+        "worked": 0
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 25
+      },
+      "match": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 1
+      }
+    }
+  }
+}

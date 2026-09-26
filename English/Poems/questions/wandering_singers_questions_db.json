@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the poem?",
+    "question_ta": "Who is the author of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sarojini Naidu",
+        "text_ta": "Sarojini Naidu"
+      },
+      {
+        "key": "B",
+        "text_en": "Toru Dutt",
+        "text_ta": "Toru Dutt"
+      },
+      {
+        "key": "C",
+        "text_en": "Rabindranath Tagore",
+        "text_ta": "Rabindranath Tagore"
+      },
+      {
+        "key": "D",
+        "text_en": "Kamala Das",
+        "text_ta": "Kamala Das"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem is written by Sarojini Naidu, who is known as Bharat Kokila.",
+    "explanation_ta": "The poem is written by Sarojini Naidu, who is known as Bharat Kokila.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is Sarojini Naidu popularly known as?",
+    "question_ta": "What is Sarojini Naidu popularly known as?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Nightangle of the East",
+        "text_ta": "Nightangle of the East"
+      },
+      {
+        "key": "B",
+        "text_en": "Bharat Kokila",
+        "text_ta": "Bharat Kokila"
+      },
+      {
+        "key": "C",
+        "text_en": "Voice of India",
+        "text_ta": "Voice of India"
+      },
+      {
+        "key": "D",
+        "text_en": "The Golden Voice",
+        "text_ta": "The Golden Voice"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sarojini Naidu is known as Bharat Kokila (The Nightingale of India).",
+    "explanation_ta": "Sarojini Naidu is known as Bharat Kokila (The Nightingale of India).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What do the wandering singers carry in their hands as they roam?",
+    "question_ta": "What do the wandering singers carry in their hands as they roam?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Harps",
+        "text_ta": "Harps"
+      },
+      {
+        "key": "B",
+        "text_en": "Lutes",
+        "text_ta": "Lutes"
+      },
+      {
+        "key": "C",
+        "text_en": "Flutes",
+        "text_ta": "Flutes"
+      },
+      {
+        "key": "D",
+        "text_en": "Drums",
+        "text_ta": "Drums"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem states: 'With lutes in our hands ever-singing we roam'.",
+    "explanation_ta": "The poem states: 'With lutes in our hands ever-singing we roam'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'lute' mean according to the glossary?",
+    "question_ta": "What does the word 'lute' mean according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A wind instrument made of wood",
+        "text_ta": "A wind instrument made of wood"
+      },
+      {
+        "key": "B",
+        "text_en": "A traditional bell",
+        "text_ta": "A traditional bell"
+      },
+      {
+        "key": "C",
+        "text_en": "A type of ancient drum",
+        "text_ta": "A type of ancient drum"
+      },
+      {
+        "key": "D",
+        "text_en": "A kind of stringed musical instrument",
+        "text_ta": "A kind of stringed musical instrument"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G1 defines 'lute' as a kind of stringed musical instrument.",
+    "explanation_ta": "Glossary G1 defines 'lute' as a kind of stringed musical instrument.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the singers, who are considered their kindred?",
+    "question_ta": "According to the singers, who are considered their kindred?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fellow musicians",
+        "text_ta": "Fellow musicians"
+      },
+      {
+        "key": "B",
+        "text_en": "Kings and queens",
+        "text_ta": "Kings and queens"
+      },
+      {
+        "key": "C",
+        "text_en": "Only their family members",
+        "text_ta": "Only their family members"
+      },
+      {
+        "key": "D",
+        "text_en": "All men",
+        "text_ta": "All men"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The singers proclaim, 'All men are our kindred, the world is our home.'",
+    "explanation_ta": "The singers proclaim, 'All men are our kindred, the world is our home.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'kindred'?",
+    "question_ta": "What is the meaning of the word 'kindred'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Relations",
+        "text_ta": "Relations"
+      },
+      {
+        "key": "B",
+        "text_en": "Enemies",
+        "text_ta": "Enemies"
+      },
+      {
+        "key": "C",
+        "text_en": "Followers",
+        "text_ta": "Followers"
+      },
+      {
+        "key": "D",
+        "text_en": "Strangers",
+        "text_ta": "Strangers"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary G3 defines 'kindred' as relations.",
+    "explanation_ta": "Glossary G3 defines 'kindred' as relations.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What do the singers consider as their home?",
+    "question_ta": "What do the singers consider as their home?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The entire world",
+        "text_ta": "The entire world"
+      },
+      {
+        "key": "B",
+        "text_en": "A forest cottage",
+        "text_ta": "A forest cottage"
+      },
+      {
+        "key": "C",
+        "text_en": "An echoing street",
+        "text_ta": "An echoing street"
+      },
+      {
+        "key": "D",
+        "text_en": "A royal palace",
+        "text_ta": "A royal palace"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem states that 'the world is our home.'",
+    "explanation_ta": "The poem states that 'the world is our home.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'roam' mean in the context of the poem?",
+    "question_ta": "What does the word 'roam' mean in the context of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rest, sleep",
+        "text_ta": "Rest, sleep"
+      },
+      {
+        "key": "B",
+        "text_en": "Hide, seek",
+        "text_ta": "Hide, seek"
+      },
+      {
+        "key": "C",
+        "text_en": "Work, toil",
+        "text_ta": "Work, toil"
+      },
+      {
+        "key": "D",
+        "text_en": "Wander, travel",
+        "text_ta": "Wander, travel"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G2 explains 'roam' as wander or travel.",
+    "explanation_ta": "Glossary G2 explains 'roam' as wander or travel.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What are the 'lays' of the wandering singers about?",
+    "question_ta": "What are the 'lays' of the wandering singers about?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Modern political movements",
+        "text_ta": "Modern political movements"
+      },
+      {
+        "key": "B",
+        "text_en": "Cities whose lustre is shed and past glories",
+        "text_ta": "Cities whose lustre is shed and past glories"
+      },
+      {
+        "key": "C",
+        "text_en": "Future technological advancements",
+        "text_ta": "Future technological advancements"
+      },
+      {
+        "key": "D",
+        "text_en": "Farming and agriculture",
+        "text_ta": "Farming and agriculture"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The singers sing about cities whose lustre is shed, old battles, and old kings.",
+    "explanation_ta": "The singers sing about cities whose lustre is shed, old battles, and old kings.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In the line 'Our lays are of cities whose lustre is shed', what does the word 'lays' mean?",
+    "question_ta": "In the line 'Our lays are of cities whose lustre is shed', what does the word 'lays' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Stories, songs",
+        "text_ta": "Stories, songs"
+      },
+      {
+        "key": "B",
+        "text_en": "Pains, aches",
+        "text_ta": "Pains, aches"
+      },
+      {
+        "key": "C",
+        "text_en": "Rules, laws",
+        "text_ta": "Rules, laws"
+      },
+      {
+        "key": "D",
+        "text_en": "Gifts, rewards",
+        "text_ta": "Gifts, rewards"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Textbook worked note W1 states that 'Lays' means stories or songs.",
+    "explanation_ta": "Textbook worked note W1 states that 'Lays' means stories or songs.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What specific aspect of the past do the singers' songs mention regarding women?",
+    "question_ta": "What specific aspect of the past do the singers' songs mention regarding women?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The wisdom of ancient female scholars",
+        "text_ta": "The wisdom of ancient female scholars"
+      },
+      {
+        "key": "B",
+        "text_en": "The daily chores of village women",
+        "text_ta": "The daily chores of village women"
+      },
+      {
+        "key": "C",
+        "text_en": "The laughter and beauty of women long dead",
+        "text_ta": "The laughter and beauty of women long dead"
+      },
+      {
+        "key": "D",
+        "text_en": "The clothes worn by queens",
+        "text_ta": "The clothes worn by queens"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem mentions 'The laughter and beauty of women long dead'.",
+    "explanation_ta": "The poem mentions 'The laughter and beauty of women long dead'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which weapons and royal symbols are featured in the singers' songs?",
+    "question_ta": "Which weapons and royal symbols are featured in the singers' songs?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The spear of tribal chiefs, the scepter of judges",
+        "text_ta": "The spear of tribal chiefs, the scepter of judges"
+      },
+      {
+        "key": "B",
+        "text_en": "The sword of old battles, the crown of old kings",
+        "text_ta": "The sword of old battles, the crown of old kings"
+      },
+      {
+        "key": "C",
+        "text_en": "The shield of ancient warriors, the throne of emperors",
+        "text_ta": "The shield of ancient warriors, the throne of emperors"
+      },
+      {
+        "key": "D",
+        "text_en": "The armor of knights, the jewels of princes",
+        "text_ta": "The armor of knights, the jewels of princes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem references 'The sword of old battles, the crown of old kings'.",
+    "explanation_ta": "The poem references 'The sword of old battles, the crown of old kings'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What types of human experiences and emotions do their songs cover?",
+    "question_ta": "What types of human experiences and emotions do their songs cover?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Confused and fearful moments",
+        "text_ta": "Confused and fearful moments"
+      },
+      {
+        "key": "B",
+        "text_en": "Angry and revengeful actions",
+        "text_ta": "Angry and revengeful actions"
+      },
+      {
+        "key": "C",
+        "text_en": "Happy and simple and sorrowful things",
+        "text_ta": "Happy and simple and sorrowful things"
+      },
+      {
+        "key": "D",
+        "text_en": "Envious and greedy thoughts",
+        "text_ta": "Envious and greedy thoughts"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem notes that they sing of 'happy and simple and sorrowful things.'",
+    "explanation_ta": "The poem notes that they sing of 'happy and simple and sorrowful things.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What do the singers ask in the rhetorical lines 'What hope shall we gather, what dreams shall we sow?'",
+    "question_ta": "What do the singers ask in the rhetorical lines 'What hope shall we gather, what dreams shall we sow?'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They question the purpose of permanent earthly ambitions",
+        "text_ta": "They question the purpose of permanent earthly ambitions"
+      },
+      {
+        "key": "B",
+        "text_en": "They are planning to farm the land",
+        "text_ta": "They are planning to farm the land"
+      },
+      {
+        "key": "C",
+        "text_en": "They wish to settle down in a city",
+        "text_ta": "They wish to settle down in a city"
+      },
+      {
+        "key": "D",
+        "text_en": "They want to build a large empire",
+        "text_ta": "They want to build a large empire"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The rhetorical questions highlight their detachment from worldly desires and fixed goals.",
+    "explanation_ta": "The rhetorical questions highlight their detachment from worldly desires and fixed goals.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What guides the wandering footsteps of the singers?",
+    "question_ta": "What guides the wandering footsteps of the singers?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Instructions from village elders",
+        "text_ta": "Instructions from village elders"
+      },
+      {
+        "key": "B",
+        "text_en": "A map of the kingdom",
+        "text_ta": "A map of the kingdom"
+      },
+      {
+        "key": "C",
+        "text_en": "The light of the stars",
+        "text_ta": "The light of the stars"
+      },
+      {
+        "key": "D",
+        "text_en": "The voice of the wind",
+        "text_ta": "The voice of the wind"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem repeats that they go 'Where the wind calls our wandering footsteps'.",
+    "explanation_ta": "The poem repeats that they go 'Where the wind calls our wandering footsteps'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is employed in the line 'Where the voice of the wind calls our wandering feet'?",
+    "question_ta": "What figure of speech is employed in the line 'Where the voice of the wind calls our wandering feet'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The wind is personified as having a voice that calls out to the singers, making it personification.",
+    "explanation_ta": "The wind is personified as having a voice that calls out to the singers, making it personification.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "F1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In the phrase 'Where the voice of the wind calls our wandering feet', why is personification used?",
+    "question_ta": "In the phrase 'Where the voice of the wind calls our wandering feet', why is personification used?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Non-living objects are given the ability to walk",
+        "text_ta": "Non-living objects are given the ability to walk"
+      },
+      {
+        "key": "B",
+        "text_en": "An exaggerated statement is made about the wind",
+        "text_ta": "An exaggerated statement is made about the wind"
+      },
+      {
+        "key": "C",
+        "text_en": "The wind is given the human quality of having a voice and calling out",
+        "text_ta": "The wind is given the human quality of having a voice and calling out"
+      },
+      {
+        "key": "D",
+        "text_en": "The feet are compared directly to the wind",
+        "text_ta": "The feet are compared directly to the wind"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to F1, the wind is personified as having a voice that calls out to the singers.",
+    "explanation_ta": "According to F1, the wind is personified as having a voice that calls out to the singers.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "F1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why do the singers not stop or settle down anywhere?",
+    "question_ta": "Why do the singers not stop or settle down anywhere?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "No love bids them tarry, no joy bids them wait",
+        "text_ta": "No love bids them tarry, no joy bids them wait"
+      },
+      {
+        "key": "B",
+        "text_en": "They are searching for hidden treasure",
+        "text_ta": "They are searching for hidden treasure"
+      },
+      {
+        "key": "C",
+        "text_en": "They are chased away by kings and guards",
+        "text_ta": "They are chased away by kings and guards"
+      },
+      {
+        "key": "D",
+        "text_en": "They are afraid of wild animals in the forest",
+        "text_ta": "They are afraid of wild animals in the forest"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem explicitly states: 'No love bids us tarry, no joy bids us wait'.",
+    "explanation_ta": "The poem explicitly states: 'No love bids us tarry, no joy bids us wait'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'tarry'?",
+    "question_ta": "What is the meaning of the word 'tarry'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fight, struggle",
+        "text_ta": "Fight, struggle"
+      },
+      {
+        "key": "B",
+        "text_en": "Sing, dance",
+        "text_ta": "Sing, dance"
+      },
+      {
+        "key": "C",
+        "text_en": "Wait, delay",
+        "text_ta": "Wait, delay"
+      },
+      {
+        "key": "D",
+        "text_en": "Hurry, rush",
+        "text_ta": "Hurry, rush"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G5 defines 'tarry' as wait or delay.",
+    "explanation_ta": "Glossary G5 defines 'tarry' as wait or delay.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the final line, what is equated to the voice of the wind?",
+    "question_ta": "According to the final line, what is equated to the voice of the wind?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The song of the earth",
+        "text_ta": "The song of the earth"
+      },
+      {
+        "key": "B",
+        "text_en": "The command of the king",
+        "text_ta": "The command of the king"
+      },
+      {
+        "key": "C",
+        "text_en": "The voice of our fate",
+        "text_ta": "The voice of our fate"
+      },
+      {
+        "key": "D",
+        "text_en": "The call of our family",
+        "text_ta": "The call of our family"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem concludes with the line: 'The voice of the wind is the voice of our fate.'",
+    "explanation_ta": "The poem concludes with the line: 'The voice of the wind is the voice of our fate.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'fate' mean in the glossary?",
+    "question_ta": "What does the word 'fate' mean in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Journey, travel",
+        "text_ta": "Journey, travel"
+      },
+      {
+        "key": "B",
+        "text_en": "Music, rhythm",
+        "text_ta": "Music, rhythm"
+      },
+      {
+        "key": "C",
+        "text_en": "Choice, freedom",
+        "text_ta": "Choice, freedom"
+      },
+      {
+        "key": "D",
+        "text_en": "Destiny, luck",
+        "text_ta": "Destiny, luck"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G6 defines 'fate' as destiny or luck.",
+    "explanation_ta": "Glossary G6 defines 'fate' as destiny or luck.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "G6"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the central theme regarding the singers' lifestyle?",
+    "question_ta": "What is the central theme regarding the singers' lifestyle?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They isolate themselves from the rest of mankind",
+        "text_ta": "They isolate themselves from the rest of mankind"
+      },
+      {
+        "key": "B",
+        "text_en": "They build permanent homes in echoing forests",
+        "text_ta": "They build permanent homes in echoing forests"
+      },
+      {
+        "key": "C",
+        "text_en": "They seek wealth and royal crowns for themselves",
+        "text_ta": "They seek wealth and royal crowns for themselves"
+      },
+      {
+        "key": "D",
+        "text_en": "They travel continuously, guided by destiny rather than worldly desires",
+        "text_ta": "They travel continuously, guided by destiny rather than worldly desires"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Summary notes indicate they travel continuously, viewing the world as home and being guided by fate.",
+    "explanation_ta": "Summary notes indicate they travel continuously, viewing the world as home and being guided by fate.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How do the wandering singers view mankind?",
+    "question_ta": "How do the wandering singers view mankind?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Only people of their hometown are friends",
+        "text_ta": "Only people of their hometown are friends"
+      },
+      {
+        "key": "B",
+        "text_en": "Strangers who should be avoided",
+        "text_ta": "Strangers who should be avoided"
+      },
+      {
+        "key": "C",
+        "text_en": "All men are their kindred",
+        "text_ta": "All men are their kindred"
+      },
+      {
+        "key": "D",
+        "text_en": "Rivals in musical competitions",
+        "text_ta": "Rivals in musical competitions"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem states 'All men are our kindred, the world is our home.'",
+    "explanation_ta": "The poem states 'All men are our kindred, the world is our home.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Through which places do the wandering singers' feet travel?",
+    "question_ta": "Through which places do the wandering singers' feet travel?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Quiet rivers and lonely caves",
+        "text_ta": "Quiet rivers and lonely caves"
+      },
+      {
+        "key": "B",
+        "text_en": "Royal courts and royal gardens",
+        "text_ta": "Royal courts and royal gardens"
+      },
+      {
+        "key": "C",
+        "text_en": "Mountain peaks and desert valleys",
+        "text_ta": "Mountain peaks and desert valleys"
+      },
+      {
+        "key": "D",
+        "text_en": "Echoing forest and echoing street",
+        "text_ta": "Echoing forest and echoing street"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem mentions travelling 'Through echoing forest and echoing street'.",
+    "explanation_ta": "The poem mentions travelling 'Through echoing forest and echoing street'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Wandering Singers",
+    "topic": "Wandering Singers",
+    "topic_id": "wandering_singers",
+    "topic_ta": "Wandering Singers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What tone is reflected in the singers' attitude towards their journey?",
+    "question_ta": "What tone is reflected in the singers' attitude towards their journey?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Frightened and anxious",
+        "text_ta": "Frightened and anxious"
+      },
+      {
+        "key": "B",
+        "text_en": "Regretful and bitter",
+        "text_ta": "Regretful and bitter"
+      },
+      {
+        "key": "C",
+        "text_en": "Accepting and free-spirited",
+        "text_ta": "Accepting and free-spirited"
+      },
+      {
+        "key": "D",
+        "text_en": "Arrogant and boastful",
+        "text_ta": "Arrogant and boastful"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The singers embrace their lifestyle happily, accepting fate without personal attachments or regret.",
+    "explanation_ta": "The singers embrace their lifestyle happily, accepting fate without personal attachments or regret.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "wandering_singers",
+    "source_note": "Summary"
+  }
+]

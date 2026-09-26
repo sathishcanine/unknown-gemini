@@ -1,0 +1,34 @@
+{
+  "subject_id": "English",
+  "menu": "types_of_sentences",
+  "topics": [
+    {
+      "id": "statement_assertive",
+      "name_en": "Statement / Assertive",
+      "name_ta": "அறிக்கை / செய்தித் தொடர்",
+      "batches": 2,
+      "focus": "Declarative/assertive sentences state facts; end with full stop; subject + predicate; identify vs other types."
+    },
+    {
+      "id": "interrogative",
+      "name_en": "Interrogative",
+      "name_ta": "வினா வாக்கியம்",
+      "batches": 2,
+      "focus": "Questions ask something; end with ?; yes/no vs wh-questions; auxiliary inversion; identify interrogative sentences."
+    },
+    {
+      "id": "imperative",
+      "name_en": "Imperative",
+      "name_ta": "கட்டளை / வேண்டுகோள் வாக்கியம்",
+      "batches": 2,
+      "focus": "Commands, requests, advice; base verb / please / don't; subject you understood; ends with full stop or !."
+    },
+    {
+      "id": "exclamatory",
+      "name_en": "Exclamatory",
+      "name_ta": "உணர்ச்சி வாக்கியம்",
+      "batches": 2,
+      "focus": "Strong emotion; What/How exclamations; ends with !; distinguish from interrogative and assertive."
+    }
+  ]
+}

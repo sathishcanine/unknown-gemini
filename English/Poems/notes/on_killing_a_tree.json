@@ -1,0 +1,88 @@
+{
+  "poem_id": "on_killing_a_tree",
+  "poem_title": "On Killing a Tree",
+  "author": "Gieve Patel",
+  "num": 17,
+  "pdf_pages": [
+    58,
+    64
+  ],
+  "poem_text_en": "It takes much time to kill a tree,\nNot a simple jab of the knife\nWill do it. It has grown\nSlowly consuming the earth,\nRising out of it, feeding\nUpon its crust, absorbing\nYears of sunlight, air, water,\nAnd out of its leperous hide\nSprouting leaves.\n\nSo hack and chop\nBut this alone wont do it.\nNot so much pain will do it.\nThe bleeding bark will heal\nAnd from close to the ground\nWill rise curled green twigs,\nMiniature boughs\nWhich if unchecked will expand again\nTo former size.\n\nNo,\nThe root is to be pulled out – \nOut of the anchoring earth;\nIt is to be roped, tied,\nAnd pulled out – snapped out\nOr pulled out entirely,\nOut from the earth-cave,\nAnd the strength of the tree exposed\nThe source, white and wet,\nThe most sensitive, hidden\nFor years inside the earth.\n\nThen the matter\nOf scorching and choking\nIn sun and air,\nBrowning, hardening,\nTwisting, withering,\nAnd then it is done.",
+  "summary_en": "The poem illustrates the resilience of a tree and explains that a simple physical attack like hacking or chopping cannot destroy it. It argues that to truly kill a tree, one must extract its roots from the earth, effectively exposing its core to the elements until it withers and dies. The poem serves as a critique of human cruelty toward nature and highlights the enduring strength of the natural world.",
+  "glossary": [
+    {
+      "word_en": "jab",
+      "meaning_en": "to poke, or thrust abruptly or sharply with a short, quick blow"
+    },
+    {
+      "word_en": "crust",
+      "meaning_en": "the brown, hard outer portion or surface"
+    },
+    {
+      "word_en": "leprous",
+      "meaning_en": "covered with scales"
+    },
+    {
+      "word_en": "hide",
+      "meaning_en": "the strong thick outer skin"
+    },
+    {
+      "word_en": "miniature",
+      "meaning_en": "very small"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Metaphor",
+      "example_en": "bleeding bark",
+      "note_en": "The sap flowing from a cut is compared to blood."
+    },
+    {
+      "device_en": "Metaphor",
+      "example_en": "leprous hide",
+      "note_en": "The rough, discolored bark of the tree is compared to the skin of a person with leprosy."
+    },
+    {
+      "device_en": "Personification",
+      "example_en": "The bleeding bark will heal",
+      "note_en": "The tree is given human characteristics of feeling pain and healing."
+    },
+    {
+      "device_en": "Metaphor",
+      "example_en": "anchoring earth",
+      "note_en": "The earth acts as an anchor holding the tree firmly in place."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poet of 'On Killing a Tree' is Dr. Gieve Patel.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem was published in his 1966 collection titled 'Poems'.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The 'bleeding bark' refers to the sap that flows from the tree when it is wounded.",
+      "tag": "line_meaning"
+    },
+    {
+      "rule_en": "The main theme is the resilience of nature and the cruelty involved in destroying it.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Can a 'simple jab of the knife' kill a tree?",
+      "answer_en": "No, a simple jab of the knife cannot kill a tree because it has deep roots and the ability to heal its wounds.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What does the phrase 'leprous hide' mean?",
+      "answer_en": "It refers to the rough, uneven, and discolored bark of the tree, which resembles the skin of a person suffering from leprosy.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

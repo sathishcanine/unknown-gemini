@@ -1,0 +1,86 @@
+{
+  "prose_id": "a_birthday_letter",
+  "prose_title": "A Birthday Letter",
+  "author": "Jawaharlal Nehru",
+  "num": 14,
+  "pdf_pages": [
+    333,
+    345
+  ],
+  "prose_text_en": "Writing from Naini Prison on October 26, 1930, Jawaharlal Nehru addresses his daughter, Indira, on her birthday. Unable to provide material gifts, he offers 'presents of the mind and spirit.' He advises against sermonizing, preferring open discussion. Nehru emphasizes the power of collective action, noting how ordinary people become heroes when they commit to a great cause. He highlights Bapuji's (Mahatma Gandhi) role in inspiring the nation and mandates honesty as a guiding principle: 'Never do anything in secret or anything that you would wish to hide.' He concludes by urging her to be a 'brave soldier' in India’s service.",
+  "summary_en": "In this letter to his daughter Indira, Jawaharlal Nehru explains that while he is imprisoned, he can only send gifts of the mind and spirit. He encourages her to live a life of transparency, courage, and service to the nation. He stresses that true heroism arises when ordinary people unite for a noble cause, as seen in the Indian freedom movement led by Bapuji.",
+  "characters": [
+    {
+      "name_en": "Jawaharlal Nehru",
+      "role_en": "Author, freedom fighter, and father of Indira."
+    },
+    {
+      "name_en": "Indira",
+      "role_en": "Nehru's daughter and the recipient of the letter."
+    },
+    {
+      "name_en": "Bapuji (Mahatma Gandhi)",
+      "role_en": "Leader of the Indian Freedom Movement and mentor to Nehru."
+    },
+    {
+      "name_en": "Joan of Arc",
+      "role_en": "Historical figure who inspired young Indira."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Sermon",
+      "meaning_en": "Ceremony in which a priest gives a talk on a religious or moral subject."
+    },
+    {
+      "word_en": "Fascinated",
+      "meaning_en": "Extremely attracted."
+    },
+    {
+      "word_en": "Serene",
+      "meaning_en": "Peaceful and calm."
+    },
+    {
+      "word_en": "Unruffled",
+      "meaning_en": "Not nervous or worried, usually despite a difficult situation."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The letters were published in 1942 as 'Glimpses of World History'.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "The letter was written from Naini Central Prison on October 26, 1930.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Nehru defined a 'one-sided affair' as a letter, as it lacks a dialogue.",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "Nehru's rule for Indira: Never do anything in secret.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Why could not Nehru send any presents to Indira?",
+      "answer_en": "Nehru could not send physical presents because he was in Naini Prison.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What cannot be stopped even by the high walls of prisons?",
+      "answer_en": "The presents of the mind and spirit.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Which historical character inspired young Indira?",
+      "answer_en": "Joan of Arc.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

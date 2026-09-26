@@ -1,0 +1,4602 @@
+[
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the sentence: 'The boat danced in the puddle.'",
+    "question_ta": "Identify the figure of speech used in the sentence: 'The boat danced in the puddle.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human action 'danced' is given to an inanimate object (the boat), which makes it Personification.",
+    "explanation_ta": "Human action 'danced' is given to an inanimate object (the boat), which makes it Personification.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in the line: 'They fought like cats and dogs.'?",
+    "question_ta": "Which figure of speech is present in the line: 'They fought like cats and dogs.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The comparison uses the word 'like' to compare two unlike things.",
+    "explanation_ta": "The comparison uses the word 'like' to compare two unlike things.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is identified in: 'She's a lioness.'?",
+    "question_ta": "What figure of speech is identified in: 'She's a lioness.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The woman is directly compared to a lioness without using 'like' or 'as'.",
+    "explanation_ta": "The woman is directly compared to a lioness without using 'like' or 'as'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'The moan of doves in immemorial elms and murmur of innumerable bees.'",
+    "question_ta": "Identify the figure of speech in: 'The moan of doves in immemorial elms and murmur of innumerable bees.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The words 'moan' and 'murmur' echo the natural sounds described.",
+    "explanation_ta": "The words 'moan' and 'murmur' echo the natural sounds described.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'Her hair is always a rat's nest in the morning.'?",
+    "question_ta": "Which figure of speech is used in: 'Her hair is always a rat's nest in the morning.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It makes a direct comparison between hair and a rat's nest without using 'like' or 'as'.",
+    "explanation_ta": "It makes a direct comparison between hair and a rat's nest without using 'like' or 'as'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'Sea that line hath never sounded, Sea that sail hath never rounded'",
+    "question_ta": "Identify the figure of speech: 'Sea that line hath never sounded, Sea that sail hath never rounded'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Repetition",
+        "text_ta": "Repetition"
+      },
+      {
+        "key": "D",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Anaphora is the repetition of 'Sea that' at the beginning of successive lines.",
+    "explanation_ta": "Anaphora is the repetition of 'Sea that' at the beginning of successive lines.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Find the figure of speech in: 'I have a million things to do.'",
+    "question_ta": "Find the figure of speech in: 'I have a million things to do.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "B",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It is an overstatement used for emphasis.",
+    "explanation_ta": "It is an overstatement used for emphasis.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'My heart aches......... for things that might have been'",
+    "question_ta": "Identify the figure of speech: 'My heart aches......... for things that might have been'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ellipsis",
+        "text_ta": "Ellipsis"
+      },
+      {
+        "key": "B",
+        "text_en": "Epigram",
+        "text_ta": "Epigram"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Climax",
+        "text_ta": "Climax"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It uses dots to indicate omitted text or words.",
+    "explanation_ta": "It uses dots to indicate omitted text or words.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'To err is human, to forgive divine.'?",
+    "question_ta": "Which figure of speech is used in: 'To err is human, to forgive divine.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "There is a clear opposition between human error and divine forgiveness.",
+    "explanation_ta": "There is a clear opposition between human error and divine forgiveness.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the sentence: 'The stars danced playfully in the moonlit sky.'",
+    "question_ta": "Identify the figure of speech in the sentence: 'The stars danced playfully in the moonlit sky.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Inanimate objects (stars) are given human-like qualities (dancing).",
+    "explanation_ta": "Inanimate objects (stars) are given human-like qualities (dancing).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is found in: 'You were as brave as a lion.'?",
+    "question_ta": "What figure of speech is found in: 'You were as brave as a lion.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It compares bravery to a lion using 'as...as'.",
+    "explanation_ta": "It compares bravery to a lion using 'as...as'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'Plop, plop, fizz, fizz, oh what a relief it is.'",
+    "question_ta": "Identify the figure of speech: 'Plop, plop, fizz, fizz, oh what a relief it is.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "D",
+        "text_en": "Repetition",
+        "text_ta": "Repetition"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Words phonetically imitate the sound they describe.",
+    "explanation_ta": "Words phonetically imitate the sound they describe.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E28"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in: 'Make haste slowly'?",
+    "question_ta": "Which figure of speech is present in: 'Make haste slowly'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It combines two contradictory terms ('haste' and 'slowly').",
+    "explanation_ta": "It combines two contradictory terms ('haste' and 'slowly').",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E30"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'Your brain is a computer.'",
+    "question_ta": "Identify the figure of speech: 'Your brain is a computer.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It implies that your brain is smart and quick by comparing it to a computer without 'like' or 'as'.",
+    "explanation_ta": "It implies that your brain is smart and quick by comparing it to a computer without 'like' or 'as'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E34"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in: 'The lightning danced all over the sky.'?",
+    "question_ta": "What figure of speech is used in: 'The lightning danced all over the sky.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human action 'danced' is given to lightning.",
+    "explanation_ta": "Human action 'danced' is given to lightning.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E37"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'The given task was a breeze.'",
+    "question_ta": "Identify the figure of speech: 'The given task was a breeze.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "D",
+        "text_en": "Transferred Epithets",
+        "text_ta": "Transferred Epithets"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It implies that the task was not difficult by directly comparing it to a breeze.",
+    "explanation_ta": "It implies that the task was not difficult by directly comparing it to a breeze.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E38"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'He is no dullard.'?",
+    "question_ta": "Which figure of speech is used in: 'He is no dullard.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Euphemism",
+        "text_ta": "Euphemism"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It affirms intelligence by negating 'dullard'.",
+    "explanation_ta": "It affirms intelligence by negating 'dullard'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E41"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'It was a free gift for all the customers.'",
+    "question_ta": "Identify the figure of speech: 'It was a free gift for all the customers.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tautology",
+        "text_ta": "Tautology"
+      },
+      {
+        "key": "B",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It repeats the same idea as 'free' and 'gift' imply the same thing.",
+    "explanation_ta": "It repeats the same idea as 'free' and 'gift' imply the same thing.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'She opened Pandora's box by asking that question.'?",
+    "question_ta": "What figure of speech is present in: 'She opened Pandora's box by asking that question.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Allusion",
+        "text_ta": "Allusion"
+      },
+      {
+        "key": "B",
+        "text_en": "Illusion",
+        "text_ta": "Illusion"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It makes an indirect reference to a well-known Greek myth (Pandora's box).",
+    "explanation_ta": "It makes an indirect reference to a well-known Greek myth (Pandora's box).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E48"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'The thunder grumbled.'",
+    "question_ta": "Identify the figure of speech: 'The thunder grumbled.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human action 'grumbled' is given to thunder.",
+    "explanation_ta": "Human action 'grumbled' is given to thunder.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E49"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'My father was boiling mad.'?",
+    "question_ta": "Which figure of speech is used in: 'My father was boiling mad.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It implies that he was very angry through an implied comparison.",
+    "explanation_ta": "It implies that he was very angry through an implied comparison.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'Cruel kindness'",
+    "question_ta": "Identify the figure of speech: 'Cruel kindness'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It combines two contradictory terms ('cruel' and 'kindness').",
+    "explanation_ta": "It combines two contradictory terms ('cruel' and 'kindness').",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E54"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in: 'She is like a fairy'?",
+    "question_ta": "What figure of speech is used in: 'She is like a fairy'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It compares her to a fairy using the word 'like'.",
+    "explanation_ta": "It compares her to a fairy using the word 'like'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E56"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'Pen is mightier than the sword'",
+    "question_ta": "Identify the figure of speech: 'Pen is mightier than the sword'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metonymy",
+        "text_ta": "Metonymy"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It uses substitute names for the things meant (pen for writers/words, sword for military force).",
+    "explanation_ta": "It uses substitute names for the things meant (pen for writers/words, sword for military force).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "E58"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the figure of speech that gives an indirect reference to something external, like a myth or historical event.",
+    "question_ta": "Choose the figure of speech that gives an indirect reference to something external, like a myth or historical event.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Allusion",
+        "text_ta": "Allusion"
+      },
+      {
+        "key": "B",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "C",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "D",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An allusion is a figure of speech where a writer makes an indirect reference to something external to the text.",
+    "explanation_ta": "An allusion is a figure of speech where a writer makes an indirect reference to something external to the text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "figures_of_speech",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used when overstatement is applied for emphasis, such as saying 'If I can't buy that new game, I will die'?",
+    "question_ta": "Which figure of speech is used when overstatement is applied for emphasis, such as saying 'If I can't buy that new game, I will die'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hyperbole is a statement made emphatic by overstatement.",
+    "explanation_ta": "Hyperbole is a statement made emphatic by overstatement.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the line: 'The moon played hide and seek with the clouds.'",
+    "question_ta": "Identify the figure of speech in the line: 'The moon played hide and seek with the clouds.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "C",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "D",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Personification is an attribution of personal nature, intelligence or character to inanimate objects or abstract notions.",
+    "explanation_ta": "Personification is an attribution of personal nature, intelligence or character to inanimate objects or abstract notions.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present when an indirect reference is made to something external, such as Napoleon's defeat in 'He met his Waterloo'?",
+    "question_ta": "What figure of speech is present when an indirect reference is made to something external, such as Napoleon's defeat in 'He met his Waterloo'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Allusion",
+        "text_ta": "Allusion"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "D",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An allusion is a figure of speech where a writer makes an indirect reference to something external to the text, such as a historical event, a literary work, a person, or a myth.",
+    "explanation_ta": "An allusion is a figure of speech where a writer makes an indirect reference to something external to the text, such as a historical event, a literary work, a person, or a myth.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Find the figure of speech used in the phrase: 'Make haste slowly'.",
+    "question_ta": "Find the figure of speech used in the phrase: 'Make haste slowly'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Epigram",
+        "text_ta": "Epigram"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Tautology",
+        "text_ta": "Tautology"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Oxymoron combines contradictory terms, as seen in 'Make haste slowly'.",
+    "explanation_ta": "Oxymoron combines contradictory terms, as seen in 'Make haste slowly'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E42"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is exemplified by 'He is no dullard' to convey intelligence through negation?",
+    "question_ta": "Which figure of speech is exemplified by 'He is no dullard' to convey intelligence through negation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Litotes is the opposite of hyperbole, where an affirmative is conveyed by negation of the opposite.",
+    "explanation_ta": "Litotes is the opposite of hyperbole, where an affirmative is conveyed by negation of the opposite.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'You'll never put a better bit of butter on your knife.'",
+    "question_ta": "Identify the figure of speech: 'You'll never put a better bit of butter on your knife.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "B",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "C",
+        "text_en": "Consonance",
+        "text_ta": "Consonance"
+      },
+      {
+        "key": "D",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Alliteration is the repetition of consonant sounds at the beginning of words, such as the 'b' sound here.",
+    "explanation_ta": "Alliteration is the repetition of consonant sounds at the beginning of words, such as the 'b' sound here.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'To err is human, to forgive divine.'?",
+    "question_ta": "What figure of speech is present in: 'To err is human, to forgive divine.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "B",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "C",
+        "text_en": "Epigram",
+        "text_ta": "Epigram"
+      },
+      {
+        "key": "D",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Antithesis involves an opposition or contrast of ideas, putting two opposite ideas together to achieve a contrasting effect.",
+    "explanation_ta": "Antithesis involves an opposition or contrast of ideas, putting two opposite ideas together to achieve a contrasting effect.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in: 'Sea that line hath never sounded, Sea that sail hath never rounded'",
+    "question_ta": "Identify the figure of speech used in: 'Sea that line hath never sounded, Sea that sail hath never rounded'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "B",
+        "text_en": "Epistrophe",
+        "text_ta": "Epistrophe"
+      },
+      {
+        "key": "C",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "D",
+        "text_en": "Repetition",
+        "text_ta": "Repetition"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Anaphora is the repetition of a word or a phrase at the beginning of a sequence of sentences, paragraphs, or lines.",
+    "explanation_ta": "Anaphora is the repetition of a word or a phrase at the beginning of a sequence of sentences, paragraphs, or lines.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is seen in the sentence: 'A pilot with a fear of heights.'?",
+    "question_ta": "Which figure of speech is seen in the sentence: 'A pilot with a fear of heights.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Irony occurs when the real meaning of words is different from the intended meaning, or in situational irony, the result is opposite of what is expected.",
+    "explanation_ta": "Irony occurs when the real meaning of words is different from the intended meaning, or in situational irony, the result is opposite of what is expected.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used when a writer or speaker deliberately makes a situation seem less important or serious than it is, such as calling a brain tumor a tiny little tumor?",
+    "question_ta": "What figure of speech is used when a writer or speaker deliberately makes a situation seem less important or serious than it is, such as calling a brain tumor a tiny little tumor?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Understatement",
+        "text_ta": "Understatement"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "C",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "D",
+        "text_en": "Euphemism",
+        "text_ta": "Euphemism"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Understatement is a figure of speech in which a writer or a speaker deliberately makes a situation seem less important or serious than it is.",
+    "explanation_ta": "Understatement is a figure of speech in which a writer or a speaker deliberately makes a situation seem less important or serious than it is.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the line: 'The moan of doves in immemorial elms and murmur of innumerable bees.'",
+    "question_ta": "Identify the figure of speech used in the line: 'The moan of doves in immemorial elms and murmur of innumerable bees.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Imagery",
+        "text_ta": "Imagery"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Words like 'moan' and 'murmur' echo the natural sounds described, representing Onomatopoeia.",
+    "explanation_ta": "Words like 'moan' and 'murmur' echo the natural sounds described, representing Onomatopoeia.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E51"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in: 'Her hair is always a rat's nest in the morning.'?",
+    "question_ta": "Which figure of speech is present in: 'Her hair is always a rat's nest in the morning.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Metaphor is a direct comparison between two things without using 'like' or 'as', such as comparing hair to a rat's nest.",
+    "explanation_ta": "Metaphor is a direct comparison between two things without using 'like' or 'as', such as comparing hair to a rat's nest.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is identified in: 'He has fallen asleep' used as a polite way of saying someone is dead?",
+    "question_ta": "What figure of speech is identified in: 'He has fallen asleep' used as a polite way of saying someone is dead?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Euphemism",
+        "text_ta": "Euphemism"
+      },
+      {
+        "key": "B",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "C",
+        "text_en": "Understatement",
+        "text_ta": "Understatement"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Euphemism is a polite way of expressing an unpleasant or harsh reality, such as saying someone has fallen asleep instead of dead.",
+    "explanation_ta": "Euphemism is a polite way of expressing an unpleasant or harsh reality, such as saying someone has fallen asleep instead of dead.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct figure of speech for: 'Pen is mightier than the sword', where 'pen' and 'sword' represent writing and military force.",
+    "question_ta": "Choose the correct figure of speech for: 'Pen is mightier than the sword', where 'pen' and 'sword' represent writing and military force.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metonymy",
+        "text_ta": "Metonymy"
+      },
+      {
+        "key": "B",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Metonymy involves substituting substitute names for the things meant, like using pen for written words.",
+    "explanation_ta": "Metonymy involves substituting substitute names for the things meant, like using pen for written words.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in: 'Take your face out' or using 'wheels' to refer to a car.",
+    "question_ta": "Identify the figure of speech used in: 'Take your face out' or using 'wheels' to refer to a car.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "B",
+        "text_en": "Metonymy",
+        "text_ta": "Metonymy"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Synecdoche is a figure of speech in which a part is used to designate the whole or vice versa.",
+    "explanation_ta": "Synecdoche is a figure of speech in which a part is used to designate the whole or vice versa.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'A horse is a very stable animal' creating a play on words?",
+    "question_ta": "Which figure of speech is used in: 'A horse is a very stable animal' creating a play on words?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A pun is a play on words, such as 'stable' meaning both the residing place of horses and steady.",
+    "explanation_ta": "A pun is a play on words, such as 'stable' meaning both the residing place of horses and steady.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E33"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'Sleepless night', where the quality of a person is transferred to time?",
+    "question_ta": "What figure of speech is present in: 'Sleepless night', where the quality of a person is transferred to time?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Transferred Epithets",
+        "text_ta": "Transferred Epithets"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Epithet",
+        "text_ta": "Epithet"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Transferred Epithets occurs when the quality or attribute of a person or animate object is transferred to an inanimate time or place.",
+    "explanation_ta": "Transferred Epithets occurs when the quality or attribute of a person or animate object is transferred to an inanimate time or place.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E32"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'What a piece of work man! How noble in reason, how infinite in faculties! In action, how like an angel!'",
+    "question_ta": "Identify the figure of speech: 'What a piece of work man! How noble in reason, how infinite in faculties! In action, how like an angel!'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Climax",
+        "text_ta": "Climax"
+      },
+      {
+        "key": "B",
+        "text_en": "Anti-climax",
+        "text_ta": "Anti-climax"
+      },
+      {
+        "key": "C",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "D",
+        "text_en": "Interrogation",
+        "text_ta": "Interrogation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Climax is the arrangement of words, clauses, or sentences in the order of increasing importance.",
+    "explanation_ta": "Climax is the arrangement of words, clauses, or sentences in the order of increasing importance.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E55"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'Who is here so base that would be a bondman?'?",
+    "question_ta": "Which figure of speech is used in: 'Who is here so base that would be a bondman?'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Interrogation",
+        "text_ta": "Interrogation"
+      },
+      {
+        "key": "B",
+        "text_en": "Exclamation",
+        "text_ta": "Exclamation"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Interrogation uses a rhetorical question for effect rather than to get an answer.",
+    "explanation_ta": "Interrogation uses a rhetorical question for effect rather than to get an answer.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E56"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is found in: 'Little river', where an adjective describes an essential attribute of the noun?",
+    "question_ta": "What figure of speech is found in: 'Little river', where an adjective describes an essential attribute of the noun?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Epithet",
+        "text_ta": "Epithet"
+      },
+      {
+        "key": "B",
+        "text_en": "Transferred Epithets",
+        "text_ta": "Transferred Epithets"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An epithet is an adjective or descriptive phrase expressing a quality or characteristic characteristic of the person or thing mentioned.",
+    "explanation_ta": "An epithet is an adjective or descriptive phrase expressing a quality or characteristic characteristic of the person or thing mentioned.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E60"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech: 'Boy's mother loved him very much', featuring a direct address.",
+    "question_ta": "Identify the figure of speech: 'Boy's mother loved him very much', featuring a direct address.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Apostrophe",
+        "text_ta": "Apostrophe"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Interrogation",
+        "text_ta": "Interrogation"
+      },
+      {
+        "key": "D",
+        "text_en": "Exclamation",
+        "text_ta": "Exclamation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Apostrophe is a direct address to an absent, dead, or imaginary person, or to an inanimate object or abstract concept.",
+    "explanation_ta": "Apostrophe is a direct address to an absent, dead, or imaginary person, or to an inanimate object or abstract concept.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "E37"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is defined as 'Meant for repeating the same fact or idea in different words'?",
+    "question_ta": "Which figure of speech is defined as 'Meant for repeating the same fact or idea in different words'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tautology",
+        "text_ta": "Tautology"
+      },
+      {
+        "key": "B",
+        "text_en": "Repetition",
+        "text_ta": "Repetition"
+      },
+      {
+        "key": "C",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "D",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tautology is meant for repeating the same fact or idea in different words.",
+    "explanation_ta": "Tautology is meant for repeating the same fact or idea in different words.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the definition of 'Repetition' as a figure of speech in poetry?",
+    "question_ta": "What is the definition of 'Repetition' as a figure of speech in poetry?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The repetition of words or phrases to form rhythm or to emphasize an idea",
+        "text_ta": "The repetition of words or phrases to form rhythm or to emphasize an idea"
+      },
+      {
+        "key": "B",
+        "text_en": "The repetition of consonant sounds at the beginning of words",
+        "text_ta": "The repetition of consonant sounds at the beginning of words"
+      },
+      {
+        "key": "C",
+        "text_en": "An opposition or contrast of ideas",
+        "text_ta": "An opposition or contrast of ideas"
+      },
+      {
+        "key": "D",
+        "text_en": "A brief pointed saying that couples words which apparently contradict each other",
+        "text_ta": "A brief pointed saying that couples words which apparently contradict each other"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Repetition is defined as the repetition of words or phrases to form rhythm or to emphasize an idea.",
+    "explanation_ta": "Repetition is defined as the repetition of words or phrases to form rhythm or to emphasize an idea.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech that refers to a brief pointed saying that couples words which apparently contradict each other.",
+    "question_ta": "Identify the figure of speech that refers to a brief pointed saying that couples words which apparently contradict each other.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Epigram",
+        "text_ta": "Epigram"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Epigram is a brief pointed saying that couples words which apparently contradict each other.",
+    "explanation_ta": "Epigram is a brief pointed saying that couples words which apparently contradict each other.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is described as a statement that appears to be self-contradictory but may actually reveal a deeper truth?",
+    "question_ta": "Which figure of speech is described as a statement that appears to be self-contradictory but may actually reveal a deeper truth?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Epigram",
+        "text_ta": "Epigram"
+      },
+      {
+        "key": "D",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Paradox is contrary to expectations, existing belief, or perceived opinion; it is a statement that appears to be self-contradictory.",
+    "explanation_ta": "Paradox is contrary to expectations, existing belief, or perceived opinion; it is a statement that appears to be self-contradictory.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "figures_of_speech",
+    "source_note": "R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the line: 'Her voice is music to his ears.'",
+    "question_ta": "Identify the figure of speech used in the line: 'Her voice is music to his ears.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A Metaphor is a direct comparison between two unlike things without using 'like' or 'as'. Here, her voice is directly compared to music.",
+    "explanation_ta": "A Metaphor is a direct comparison between two unlike things without using 'like' or 'as'. Here, her voice is directly compared to music.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in the phrase: 'He is no dullard.'?",
+    "question_ta": "Which figure of speech is present in the phrase: 'He is no dullard.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Litotes",
+        "text_ta": "Litotes"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "D",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Litotes is a figure of speech that affirms something by negating its contrary (e.g., affirming intelligence by negating 'dullard').",
+    "explanation_ta": "Litotes is a figure of speech that affirms something by negating its contrary (e.g., affirming intelligence by negating 'dullard').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E41"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "The line 'Make haste slowly' is an example of which figure of speech?",
+    "question_ta": "The line 'Make haste slowly' is an example of which figure of speech?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An oxymoron combines two contradictory terms, such as 'haste' (fast) and 'slowly'.",
+    "explanation_ta": "An oxymoron combines two contradictory terms, such as 'haste' (fast) and 'slowly'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the phrase: 'My heart aches......... for things that might have been'",
+    "question_ta": "Identify the figure of speech in the phrase: 'My heart aches......... for things that might have been'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ellipsis",
+        "text_ta": "Ellipsis"
+      },
+      {
+        "key": "B",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "C",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "D",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ellipsis uses a series of dots to indicate an intentional omission of words.",
+    "explanation_ta": "Ellipsis uses a series of dots to indicate an intentional omission of words.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E35"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in the expression: 'I have a million things to do'?",
+    "question_ta": "Which figure of speech is used in the expression: 'I have a million things to do'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hyperbole is an overstatement used for emphasis, such as saying you have a million things to do.",
+    "explanation_ta": "Hyperbole is an overstatement used for emphasis, such as saying you have a million things to do.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E52"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct figure of speech for: 'The Sun smiled down upon them.'",
+    "question_ta": "Choose the correct figure of speech for: 'The Sun smiled down upon them.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Personification is a figure of speech in which a non-human thing is given a human attribute, such as the sun 'smiling'.",
+    "explanation_ta": "Personification is a figure of speech in which a non-human thing is given a human attribute, such as the sun 'smiling'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E50"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'Sea that line hath never sounded, Sea that sail hath never rounded'",
+    "question_ta": "Identify the figure of speech in: 'Sea that line hath never sounded, Sea that sail hath never rounded'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Anaphora is the repetition of a word or a phrase at the beginning of a sequence of lines (e.g., 'Sea that').",
+    "explanation_ta": "Anaphora is the repetition of a word or a phrase at the beginning of a sequence of lines (e.g., 'Sea that').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E43"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is exemplified in: 'Speech is silver, but silence is gold'?",
+    "question_ta": "Which figure of speech is exemplified in: 'Speech is silver, but silence is gold'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Antithesis highlights a clear contrast between two opposing ideas, such as speech and silence.",
+    "explanation_ta": "Antithesis highlights a clear contrast between two opposing ideas, such as speech and silence.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the line: 'Sleepless night'",
+    "question_ta": "Identify the figure of speech used in the line: 'Sleepless night'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Transferred Epithets",
+        "text_ta": "Transferred Epithets"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In transferred epithets, the qualifying adjective (sleepless) is transferred from a person to a thing (night).",
+    "explanation_ta": "In transferred epithets, the qualifying adjective (sleepless) is transferred from a person to a thing (night).",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is found in: 'Boy's mother loved him very much'?",
+    "question_ta": "What figure of speech is found in: 'Boy's mother loved him very much'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Apostrophe",
+        "text_ta": "Apostrophe"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Apostrophe is a direct address to an absent person or an abstract concept.",
+    "explanation_ta": "Apostrophe is a direct address to an absent person or an abstract concept.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'He met his Waterloo in the final match.'",
+    "question_ta": "Identify the figure of speech in: 'He met his Waterloo in the final match.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Allusion",
+        "text_ta": "Allusion"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Allusion refers to an indirect reference to a historical event or person, such as Napoleon's defeat at Waterloo.",
+    "explanation_ta": "Allusion refers to an indirect reference to a historical event or person, such as Napoleon's defeat at Waterloo.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in: 'Is life worth living? It depends upon the liver.'?",
+    "question_ta": "Which figure of speech is present in: 'Is life worth living? It depends upon the liver.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A Pun is a play on words, utilizing the double meaning of 'liver' (the organ or one who lives).",
+    "explanation_ta": "A Pun is a play on words, utilizing the double meaning of 'liver' (the organ or one who lives).",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'A pilot with a fear of heights.'",
+    "question_ta": "Identify the figure of speech in: 'A pilot with a fear of heights.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Situational irony occurs when the result is the opposite of what is expected, such as a pilot fearing heights.",
+    "explanation_ta": "Situational irony occurs when the result is the opposite of what is expected, such as a pilot fearing heights.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E45"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in the phrase: 'Let me give you a hand'?",
+    "question_ta": "What figure of speech is used in the phrase: 'Let me give you a hand'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metonymy",
+        "text_ta": "Metonymy"
+      },
+      {
+        "key": "B",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Metonymy is used when an attribute represents a concept, such as 'a hand' representing help.",
+    "explanation_ta": "Metonymy is used when an attribute represents a concept, such as 'a hand' representing help.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E59"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'Take your face out'",
+    "question_ta": "Identify the figure of speech in: 'Take your face out'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "B",
+        "text_en": "Metonymy",
+        "text_ta": "Metonymy"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Synecdoche uses a part to designate the whole, such as 'face' or 'wheels' representing a person or car.",
+    "explanation_ta": "Synecdoche uses a part to designate the whole, such as 'face' or 'wheels' representing a person or car.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E37"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'He is skinny like a toothpick.'?",
+    "question_ta": "Which figure of speech is used in: 'He is skinny like a toothpick.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A Simile compares two things using words like 'like' or 'as'.",
+    "explanation_ta": "A Simile compares two things using words like 'like' or 'as'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'The wind howled in the night.'",
+    "question_ta": "Identify the figure of speech in: 'The wind howled in the night.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Personification attributes human actions (howling) to non-human things (the wind).",
+    "explanation_ta": "Personification attributes human actions (howling) to non-human things (the wind).",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E40"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'They fought like cats and dogs.'?",
+    "question_ta": "What figure of speech is present in: 'They fought like cats and dogs.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A Simile explicitly compares two things using the word 'like'.",
+    "explanation_ta": "A Simile explicitly compares two things using the word 'like'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'The autumn leaves formed a blanket on the grass.'",
+    "question_ta": "Identify the figure of speech in: 'The autumn leaves formed a blanket on the grass.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Imagery",
+        "text_ta": "Imagery"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Imagery helps readers visualize or see in their minds what is being described through vivid descriptions.",
+    "explanation_ta": "Imagery helps readers visualize or see in their minds what is being described through vivid descriptions.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in: 'What a piece of work man! How noble in reason, how infinite in faculties!'?",
+    "question_ta": "Which figure of speech is used in: 'What a piece of work man! How noble in reason, how infinite in faculties!'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Climax",
+        "text_ta": "Climax"
+      },
+      {
+        "key": "B",
+        "text_en": "Anti-climax",
+        "text_ta": "Anti-climax"
+      },
+      {
+        "key": "C",
+        "text_en": "Bathos",
+        "text_ta": "Bathos"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Climax is the arrangement of a series of ideas in the order of increasing importance.",
+    "explanation_ta": "Climax is the arrangement of a series of ideas in the order of increasing importance.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the phrase: 'The viewless couriers of the air (the wind)'",
+    "question_ta": "Identify the figure of speech in the phrase: 'The viewless couriers of the air (the wind)'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Circumlocution",
+        "text_ta": "Circumlocution"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Circumlocution consists of expressing some fact or idea in a roundabout way instead of stating it directly.",
+    "explanation_ta": "Circumlocution consists of expressing some fact or idea in a roundabout way instead of stating it directly.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E32"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in: 'Who is here so base that would be a bondman?'?",
+    "question_ta": "Which figure of speech is present in: 'Who is here so base that would be a bondman?'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Interrogation",
+        "text_ta": "Interrogation"
+      },
+      {
+        "key": "B",
+        "text_en": "Exclamation",
+        "text_ta": "Exclamation"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Interrogation is the use of a rhetorical question for effect rather than to get an answer.",
+    "explanation_ta": "Interrogation is the use of a rhetorical question for effect rather than to get an answer.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'To err is human, to forgive divine.'",
+    "question_ta": "Identify the figure of speech in: 'To err is human, to forgive divine.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Antithesis shows opposition between human error and divine forgiveness.",
+    "explanation_ta": "Antithesis shows opposition between human error and divine forgiveness.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E36"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'Justice is blind.'?",
+    "question_ta": "What figure of speech is present in: 'Justice is blind.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Synecdoche",
+        "text_ta": "Synecdoche"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Personification gives human attributes, such as being 'blind', to abstract concepts like Justice.",
+    "explanation_ta": "Personification gives human attributes, such as being 'blind', to abstract concepts like Justice.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in: 'He is a lion'",
+    "question_ta": "Identify the figure of speech used in: 'He is a lion'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A Metaphor is an implied comparison without using 'like' or 'as', comparing a person directly to a lion.",
+    "explanation_ta": "A Metaphor is an implied comparison without using 'like' or 'as', comparing a person directly to a lion.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "figures_of_speech",
+    "source_note": "E55"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the phrase: 'They fought like cats and dogs.'",
+    "question_ta": "Identify the figure of speech used in the phrase: 'They fought like cats and dogs.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A Simile is a figure of speech, in which two unlike things are compared, using the words, 'like' or 'as'.",
+    "explanation_ta": "A Simile is a figure of speech, in which two unlike things are compared, using the words, 'like' or 'as'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in the expression: 'Cruel kindness'?",
+    "question_ta": "Which figure of speech is present in the expression: 'Cruel kindness'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Oxymoron combines two seemingly contradictory or incongruous words for sharp emphasis or effect.",
+    "explanation_ta": "Oxymoron combines two seemingly contradictory or incongruous words for sharp emphasis or effect.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the figure of speech exemplified by: 'Speech is silver, but silence is gold'",
+    "question_ta": "Choose the figure of speech exemplified by: 'Speech is silver, but silence is gold'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase demonstrates a contrast between speech and silence.",
+    "explanation_ta": "The phrase demonstrates a contrast between speech and silence.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'The boat danced in the puddle.'",
+    "question_ta": "Identify the figure of speech in: 'The boat danced in the puddle.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human action 'danced' is given to the boat, which is an inanimate object.",
+    "explanation_ta": "Human action 'danced' is given to the boat, which is an inanimate object.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is used in the line: 'Make haste slowly'?",
+    "question_ta": "Which figure of speech is used in the line: 'Make haste slowly'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It combines two seemingly contradictory words 'haste' and 'slowly'.",
+    "explanation_ta": "It combines two seemingly contradictory words 'haste' and 'slowly'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E24"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'If I can't buy that new game, I will die'?",
+    "question_ta": "What figure of speech is present in: 'If I can't buy that new game, I will die'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "B",
+        "text_en": "Understatement",
+        "text_ta": "Understatement"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Hyperbole is a statement made emphatic by overstatement.",
+    "explanation_ta": "Hyperbole is a statement made emphatic by overstatement.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'She opened Pandora's box by asking that question.'",
+    "question_ta": "Identify the figure of speech in: 'She opened Pandora's box by asking that question.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Allusion",
+        "text_ta": "Allusion"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An Allusion is an indirect reference to something external to the text, such as a myth.",
+    "explanation_ta": "An Allusion is an indirect reference to something external to the text, such as a myth.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is exemplified by: 'My father was boiling mad.'?",
+    "question_ta": "Which figure of speech is exemplified by: 'My father was boiling mad.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It implies that he was very angry by directly stating a comparison.",
+    "explanation_ta": "It implies that he was very angry by directly stating a comparison.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E40"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the line: 'Sleepless night'",
+    "question_ta": "Identify the figure of speech in the line: 'Sleepless night'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Transferred Epithets",
+        "text_ta": "Transferred Epithets"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The quality of the person (sleeplessness) is transferred to the time (night).",
+    "explanation_ta": "The quality of the person (sleeplessness) is transferred to the time (night).",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E58"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'Is life worth living? It depends upon the liver.'?",
+    "question_ta": "What figure of speech is present in: 'Is life worth living? It depends upon the liver.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A Pun is a play on the various meanings of a word; here, 'liver' means the organ or one who lives.",
+    "explanation_ta": "A Pun is a play on the various meanings of a word; here, 'liver' means the organ or one who lives.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'Plop, plop, fizz, fizz, oh what a relief it is.'",
+    "question_ta": "Identify the figure of speech in: 'Plop, plop, fizz, fizz, oh what a relief it is.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Onomatopoeia is the formation of a word whose sound is made to suggest or echo the sense.",
+    "explanation_ta": "Onomatopoeia is the formation of a word whose sound is made to suggest or echo the sense.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'It was a free gift for all the customers.'",
+    "question_ta": "Identify the figure of speech in: 'It was a free gift for all the customers.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tautology",
+        "text_ta": "Tautology"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "D",
+        "text_en": "Pun",
+        "text_ta": "Pun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It repeats the same idea since 'free' and 'gift' imply the same meaning.",
+    "explanation_ta": "It repeats the same idea since 'free' and 'gift' imply the same meaning.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in the line: 'How handsome are your gauzy wings, how brilliant are your eyes!'?",
+    "question_ta": "What figure of speech is present in the line: 'How handsome are your gauzy wings, how brilliant are your eyes!'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anaphora",
+        "text_ta": "Anaphora"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Anaphora is the repetition of a certain word or phrase at the beginning of successive lines or phrases.",
+    "explanation_ta": "Anaphora is the repetition of a certain word or phrase at the beginning of successive lines or phrases.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E43"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the line: 'My heart aches......... for things that might have been'",
+    "question_ta": "Identify the figure of speech in the line: 'My heart aches......... for things that might have been'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ellipsis",
+        "text_ta": "Ellipsis"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ellipsis uses dots to indicate an intentional omission of words.",
+    "explanation_ta": "Ellipsis uses dots to indicate an intentional omission of words.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is found in: 'Boy's mother loved him very much'?",
+    "question_ta": "Which figure of speech is found in: 'Boy's mother loved him very much'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Apostrophe",
+        "text_ta": "Apostrophe"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Apostrophe is a direct address to an absent or abstract concept.",
+    "explanation_ta": "Apostrophe is a direct address to an absent or abstract concept.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'You'll never put a better bit of butter on your knife.'",
+    "question_ta": "Identify the figure of speech in: 'You'll never put a better bit of butter on your knife.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "B",
+        "text_en": "Assonance",
+        "text_ta": "Assonance"
+      },
+      {
+        "key": "C",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Alliteration is the repetition of two or more consonant sounds (here, the 'b' sound).",
+    "explanation_ta": "Alliteration is the repetition of two or more consonant sounds (here, the 'b' sound).",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in the phrase: 'I have a million things to do'?",
+    "question_ta": "What figure of speech is used in the phrase: 'I have a million things to do'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "B",
+        "text_en": "Understatement",
+        "text_ta": "Understatement"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It is an overstatement used for emphasis to mean having many things to do.",
+    "explanation_ta": "It is an overstatement used for emphasis to mean having many things to do.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is present in: 'The wind howled in the night.'?",
+    "question_ta": "Which figure of speech is present in: 'The wind howled in the night.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human action 'howled' is given to the wind.",
+    "explanation_ta": "Human action 'howled' is given to the wind.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E29"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'He is skinny like a toothpick.'",
+    "question_ta": "Identify the figure of speech in: 'He is skinny like a toothpick.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It uses the word 'like' to compare someone's skinniness to a toothpick.",
+    "explanation_ta": "It uses the word 'like' to compare someone's skinniness to a toothpick.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in: 'To err is human, to forgive divine.'?",
+    "question_ta": "What figure of speech is used in: 'To err is human, to forgive divine.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Antithesis",
+        "text_ta": "Antithesis"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Paradox",
+        "text_ta": "Paradox"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It shows an opposition between human error and divine forgiveness.",
+    "explanation_ta": "It shows an opposition between human error and divine forgiveness.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E49"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is found in: 'The moan of doves in immemorial elms and murmur of innumerable bees.'?",
+    "question_ta": "What figure of speech is found in: 'The moan of doves in immemorial elms and murmur of innumerable bees.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Words suggest the actual sounds made by the doves and bees ('moan', 'murmur').",
+    "explanation_ta": "Words suggest the actual sounds made by the doves and bees ('moan', 'murmur').",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "R6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in: 'You were as brave as a lion.'",
+    "question_ta": "Identify the figure of speech used in: 'You were as brave as a lion.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It uses 'as...as' to compare someone's bravery to a lion.",
+    "explanation_ta": "It uses 'as...as' to compare someone's bravery to a lion.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is exemplified by: 'I know a little about running a company.'?",
+    "question_ta": "Which figure of speech is exemplified by: 'I know a little about running a company.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Understatement",
+        "text_ta": "Understatement"
+      },
+      {
+        "key": "B",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "C",
+        "text_en": "Irony",
+        "text_ta": "Irony"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It is a statement where a speaker deliberately makes a situation seem less important or serious.",
+    "explanation_ta": "It is a statement where a speaker deliberately makes a situation seem less important or serious.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in: 'The thunder grumbled.'?",
+    "question_ta": "What figure of speech is present in: 'The thunder grumbled.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Human action 'grumbled' is given to the thunder.",
+    "explanation_ta": "Human action 'grumbled' is given to the thunder.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Figures of Speech",
+    "topic": "Figures of Speech",
+    "topic_id": "figures_of_speech",
+    "topic_ta": "Figures of Speech",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in: 'The given task was a breeze.'",
+    "question_ta": "Identify the figure of speech in: 'The given task was a breeze.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyperbole",
+        "text_ta": "Hyperbole"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "It implies that the task was not difficult by comparing it directly to a breeze.",
+    "explanation_ta": "It implies that the task was not difficult by comparing it directly to a breeze.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "figures_of_speech",
+    "source_note": "E20"
+  }
+]

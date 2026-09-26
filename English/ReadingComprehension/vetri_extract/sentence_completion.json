@@ -1,0 +1,1014 @@
+{
+  "topic_id": "sentence_completion",
+  "topic_title": "Sentence Completion",
+  "unit": 5,
+  "batches_target": 3,
+  "pages": [
+    39,
+    50
+  ],
+  "rules": [
+    {
+      "rule_en": "Read the complete sentence first, identify hints or keywords, consider positive/negative implications, analyze connecting words, and visualize the meaning.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "In sentence completion, identify keywords in the context that contrast or define the blank (e.g., 'unlike fossil fuels' signals a contrast with 'replenish').",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Sentence completion exercises test context-based vocabulary and logical flow of ideas within a paragraph.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify key context clues within the passage to determine the most logical word to complete the sentence.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "In sentence completion, identify context clues in the surrounding text to select the word that best fits the logical flow and intended meaning of the passage.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "In sentence completion, identify context clues (like 'ominous' or 'threaten') to choose words that align with the tone of the sentence.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Sentence completion relies on identifying context clues within the paragraph to choose the most logically appropriate term.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Sentence completion requires identifying context clues that logically fit the missing word within the passage's overall theme.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Sentence completion relies on understanding the context clues within the paragraph to choose the most logically appropriate word.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Durable",
+      "meaning_en": "Able to withstand wear or pressure over time.",
+      "meaning_ta": "நீடித்த"
+    },
+    {
+      "term_en": "Sustainable",
+      "meaning_en": "Able to be maintained at a certain rate or level.",
+      "meaning_ta": "நிலையான"
+    },
+    {
+      "term_en": "Interconnectedness",
+      "meaning_en": "The state of being connected with each other.",
+      "meaning_ta": "ஒன்றோடொன்று இணைந்திருத்தல்"
+    },
+    {
+      "term_en": "Articulate",
+      "meaning_en": "To express an idea or feeling fluently and coherently.",
+      "meaning_ta": "தெளிவாக வெளிப்படுத்துதல்"
+    }
+  ],
+  "examples": [],
+  "passages": [
+    {
+      "title": "Passage 1: The Himalayas",
+      "text_en": "The Himalayan mountain range spans 2,400 km and acts as a barrier between India and the Tibetan Plateau. These mountains are vital for climate and hydrology, feeding major rivers like the Ganges and Indus, while also hosting diverse ecosystems and high peaks formed by ongoing tectonic plate collisions."
+    },
+    {
+      "title": "The Amazon Rainforest",
+      "text_en": "The Amazon rainforest is a massive South American biome essential for regulating the Earth's climate through gas exchange. It harbors vast biodiversity and has been home to indigenous communities for thousands of years, but it currently faces severe destruction from logging, mining, and agriculture."
+    },
+    {
+      "title": "Passage 3",
+      "text_en": "The Indian monsoon is a vital weather event defined by seasonal wind shifts. These shifts bring essential moisture from the Indian Ocean, directly impacting agriculture and regional water availability."
+    },
+    {
+      "title": "Passage 4",
+      "text_en": "Renewable energy is becoming more important as we face climate change. Sources like solar, wind, hydro, and geothermal are being developed to create a sustainable future, despite integration challenges."
+    },
+    {
+      "title": "The Story of Humans",
+      "text_en": "Human history is defined by a constant evolution from basic primitive tools to advanced modern technology. Each historical era has introduced new ideas and materials, such as the transition through the Stone, Bronze, Copper, and Iron Ages, which fundamentally reshaped human existence and capability."
+    },
+    {
+      "title": "Passage 6",
+      "text_en": "Lucknow College implements a creative teaching method by linking English letters with Indian historical and mythological narratives. This approach aims to deepen student engagement and heritage appreciation while simultaneously improving English literacy skills."
+    },
+    {
+      "title": "Passage 7: Dallol Geothermal Ponds",
+      "text_en": "Scientific investigation of the Dallol Geothermal Ponds in Ethiopia reveals a stark, sterile environment characterized by extreme acidity, salinity, and heat. This site serves as a notable exception to the general resilience of life observed in other extreme global locations."
+    },
+    {
+      "title": "Passage 8: Neanderthal DNA Discovery",
+      "text_en": "Researchers have analyzed 50,000-year-old DNA extracted from a Siberian cave to reconstruct the familial structure of a Neanderthal group. This discovery provides significant insights into their social organization and kinship bonds, transcending previous purely biological classifications."
+    },
+    {
+      "title": "Wind Power Analysis",
+      "text_en": "Wind energy is presented as a sustainable and renewable power source that contrasts with finite fossil fuels. Despite its benefits, the technology faces challenges related to wind consistency and its impact on the surrounding environment, requiring further innovation."
+    },
+    {
+      "title": "Passage 10",
+      "text_en": "In Sydney, a highly anticipated cricket match faces uncertainty due to looming rain clouds. Rain introduces unpredictable factors, such as revised targets or match abandonment, which can drastically shift the outcome regardless of a team's initial dominance."
+    },
+    {
+      "title": "Passage - 11",
+      "text_en": "Artificial intelligence has moved from fiction to reality, simulating human cognitive functions like problem-solving. While it drives productivity across industries, it also introduces ethical concerns regarding privacy and employment that require careful management."
+    },
+    {
+      "title": "Historical Analysis",
+      "text_en": "Studying history helps us understand how various past factors shaped our current social and economic systems. By evaluating historical decisions, we cultivate critical thinking and gain a deeper understanding of human progress."
+    },
+    {
+      "title": "Effective Communication",
+      "text_en": "Communication is essential for sharing ideas and emotions in human interaction. It requires both clear expression and empathetic listening to build mutual respect and cooperation in today's diverse, globalized world."
+    },
+    {
+      "title": "Passage 14: Oceans",
+      "text_en": "Oceans are vital global systems that regulate climate and sustain immense biodiversity. Despite their importance, human-induced threats like pollution and overfishing endanger their ecological balance, necessitating urgent conservation and sustainable management."
+    },
+    {
+      "title": "Passage - 15",
+      "text_en": "Technological growth has fundamentally changed global living and interaction patterns. While these advancements provide efficiency and better communication, they simultaneously introduce risks like digital inequality and privacy threats, requiring a balanced approach to ensure positive human outcomes."
+    }
+  ],
+  "translations": [],
+  "pyq": [
+    {
+      "question_en": "The Himalayas, known as the 'abode of snow,' ________ across Asia, separating the Indian subcontinent from the Tibetan Plateau.",
+      "options_en": [
+        "originate",
+        "expand",
+        "stretch",
+        "diminish"
+      ],
+      "answer_en": "c) stretch",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Passage 1: The Himalayas"
+    },
+    {
+      "question_en": "Originating from the glaciers of the Himalayas, major rivers like the Ganges and Indus play a ________ role in sustaining billions of lives downstream.",
+      "options_en": [
+        "minor",
+        "limited",
+        "crucial",
+        "negligible"
+      ],
+      "answer_en": "c) crucial",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Passage 1: The Himalayas"
+    },
+    {
+      "question_en": "Home to diverse ecosystems, the Himalayas support a rich variety of flora and fauna, many of which are ________ to the region.",
+      "options_en": [
+        "common",
+        "widespread",
+        "endemic",
+        "migratory"
+      ],
+      "answer_en": "endemic",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "null"
+    },
+    {
+      "question_en": "The on-going collision of the Indian and Eurasian tectonic plates is the primary ________ behind the formation of the Himalayas.",
+      "options_en": [
+        "consequence",
+        "result",
+        "factor",
+        "stability"
+      ],
+      "answer_en": "result",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "null"
+    },
+    {
+      "question_en": "Spanning nine countries in South America, the Amazon rainforest plays a critical role in regulating global climate by ________ massive amounts of carbon dioxide.",
+      "options_en": [
+        "emitting",
+        "releasing",
+        "absorbing",
+        "converting"
+      ],
+      "answer_en": "absorbing",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "The Amazon Rainforest"
+    },
+    {
+      "question_en": "The Amazon River, with its large discharge volume, ________ the incredible biodiversity of the rainforest.",
+      "options_en": [
+        "hinders",
+        "supports",
+        "depletes",
+        "contaminates"
+      ],
+      "answer_en": "supports",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "The Amazon Rainforest"
+    },
+    {
+      "question_en": "Deforestation, driven by activities like agriculture and logging, poses a significant ________ to the Amazon rainforest and its inhabitants.",
+      "options_en": [
+        "benefit",
+        "advantage",
+        "threat",
+        "conservation"
+      ],
+      "answer_en": "threat",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "The Amazon Rainforest"
+    },
+    {
+      "question_en": "The Indian monsoon is characterized by seasonal ______ in wind direction, leading to distinct wet and dry periods.",
+      "options_en": [
+        "consistency",
+        "shifts",
+        "stability",
+        "uniformity"
+      ],
+      "answer_en": "shifts",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 3"
+    },
+    {
+      "question_en": "The summer monsoon, with its warm, moist winds from the southwest Indian Ocean, brings ______ rainfall across much of the Indian subcontinent.",
+      "options_en": [
+        "scarce",
+        "heavy",
+        "intermittent",
+        "unpredictable"
+      ],
+      "answer_en": "heavy",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 3"
+    },
+    {
+      "question_en": "The onset, intensity, and duration of the monsoon are ______ factors affecting crop yields and water availability in the region.",
+      "options_en": [
+        "insignificant",
+        "minor",
+        "critical",
+        "secondary"
+      ],
+      "answer_en": "critical",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 3"
+    },
+    {
+      "question_en": "Renewable energy sources, unlike fossil fuels, ______ themselves naturally, offering a sustainable alternative.",
+      "options_en": [
+        "deplete",
+        "exhaust",
+        "replenish",
+        "conserve"
+      ],
+      "answer_en": "replenish",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Passage 4"
+    },
+    {
+      "question_en": "Solar energy, harnessed from sunlight, has vast ________ in sun-rich regions for energy generation.",
+      "options_en": [
+        "a) limitation",
+        "b) potential",
+        "c) disadvantage",
+        "d) scarcity"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "The transition to renewable energy is driven by environmental concerns and the increasing ________ of these sources due to technological advancements.",
+      "options_en": [
+        "a) (Not provided)",
+        "b) (Not provided)",
+        "c) availability",
+        "d) (Not provided)"
+      ],
+      "answer_en": "c",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "The narrative of humankind, as presented in the passage, is essentially a chronicle of continuous ________ evident in the transformation from basic Stone Age implements to the intricate wonders of contemporary ________.",
+      "options_en": [
+        "a) stagnation, science",
+        "b) development, artistry",
+        "c) change, technology",
+        "d) regression, innovation"
+      ],
+      "answer_en": "c) change, technology",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "The Story of Humans"
+    },
+    {
+      "question_en": "Each historical period has introduced novel ________ that have fundamentally altered our way of life, igniting subsequent ________.",
+      "options_en": [
+        "a) challenges, setbacks",
+        "b) concepts, creations",
+        "c) traditions, adaptations",
+        "d) limitations, discoveries"
+      ],
+      "answer_en": "b) concepts, creations",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "The Story of Humans"
+    },
+    {
+      "question_en": "The passage illustrates historical advancement through humanity's increasing expertise with ________, progressing sequentially from the Stone Age through the Bronze, Copper and finally the ________ Age.",
+      "options_en": [
+        "a) resources, industrial",
+        "b) elements, atomic",
+        "c) materials, Iron",
+        "d) minerals, digital"
+      ],
+      "answer_en": "c) materials, Iron",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "The Story of Humans"
+    },
+    {
+      "question_en": "Driven by shifting demands and human ________, the evolution of new ________ frequently denoted crucial junctures in the human story.",
+      "options_en": [
+        "a) necessity, conflicts",
+        "b) imagination, tools",
+        "c) understanding, philosophies",
+        "d) ingenuity, weaponry"
+      ],
+      "answer_en": "d) ingenuity, weaponry",
+      "answer_letter": "D",
+      "has_marked_answer": false,
+      "passage_ref": "The Story of Humans"
+    },
+    {
+      "question_en": "Currently situated in the era of _____ and _____ humanity witnesses the landscape of new ideas at an unprecedented speed, constantly _____ the global.",
+      "options_en": [
+        "industry, manufacturing, stabilizing",
+        "exploration, discovery, mapping",
+        "science, technology, reshaping",
+        "philosophy, enlightenment, preserving"
+      ],
+      "answer_en": "science, technology, reshaping",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "1. This unique pedagogical strategy at Lucknow College primarily seeks to _____ the learning experience for students.",
+      "options_en": [
+        "simplify",
+        "standardize",
+        "revolutionize",
+        "enrich"
+      ],
+      "answer_en": "enrich",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "2. The curriculum connects the English alphabet with historical and mythological elements to make the content more _____.",
+      "options_en": [
+        "abstract",
+        "relatable",
+        "obscure",
+        "theoretical"
+      ],
+      "answer_en": "relatable",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "3. By associating letters with specific historical figures and concepts, the method intends to enhance knowledge _____.",
+      "options_en": [
+        "retention",
+        "dissemination",
+        "acquisition",
+        "evaluation"
+      ],
+      "answer_en": "retention",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "4. The passage suggests that this approach aims to cultivate a stronger sense of _____ among the students towards their cultural background.",
+      "options_en": [
+        "detachment",
+        "indifference",
+        "belonging",
+        "criticism"
+      ],
+      "answer_en": "belonging",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "5. The overarching goal is to improve both historical understanding and students' _____ in the English language.",
+      "options_en": [
+        "fluency",
+        "vocabulary",
+        "grammar",
+        "comprehension"
+      ],
+      "answer_en": "comprehension",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "The extreme conditions in the Dallol Geothermal Ponds challenge our understanding of environments that can _____ life.",
+      "options_en": [
+        "a) sustain",
+        "b) generate",
+        "c) inhibit",
+        "d) transform"
+      ],
+      "answer_en": "a) sustain",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 7"
+    },
+    {
+      "question_en": "The combination of high salinity, acidity, and temperature in Dallol creates a uniquely _____ environment.",
+      "options_en": [
+        "a) stable",
+        "b) diverse",
+        "c) hostile",
+        "d) dynamic"
+      ],
+      "answer_en": "c) hostile",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 7"
+    },
+    {
+      "question_en": "The discovery of the absence of life in Dallol contrasts with findings in other _____ environments where organisms have adapted.",
+      "options_en": [
+        "a) artificial",
+        "b) temperate",
+        "c) extreme",
+        "d) terrestrial"
+      ],
+      "answer_en": "c) extreme",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 7"
+    },
+    {
+      "question_en": "The passage implies that the stressors in Dallol are not just extreme individually but also _____ in their impact on potential life.",
+      "options_en": [
+        "a) negligible",
+        "b) cumulative",
+        "c) isolated",
+        "d) temporary"
+      ],
+      "answer_en": "b) cumulative",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 7"
+    },
+    {
+      "question_en": "The barrenness of the Dallol ponds emphasizes the _____ of life and the specific conditions required for its existence.",
+      "options_en": [
+        "a) ubiquity",
+        "b) fragility",
+        "c) robustness",
+        "d) simplicity"
+      ],
+      "answer_en": "b) fragility",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 7"
+    },
+    {
+      "question_en": "The analysis of ancient DNA allowed scientists to determine the familial ____ among the Neanderthal individuals.",
+      "options_en": [
+        "a) appearance",
+        "b) relationships",
+        "c) movements",
+        "d) tools"
+      ],
+      "answer_en": "b) relationships",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "This genetic evidence provides insights into the Neanderthals' social structures and ____ bonds.",
+      "options_en": [
+        "a) territorial",
+        "b) economic",
+        "c) kinship",
+        "d) religious"
+      ],
+      "answer_en": "c) kinship",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The discovery helps us move beyond a purely physical understanding of Neanderthals to comprehend their social ____.",
+      "options_en": [
+        "a) isolation",
+        "b) complexity",
+        "c) simplicity",
+        "d) decline"
+      ],
+      "answer_en": "b) complexity",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The passage describes this finding as an 'unprecedented insight,' highlighting its ____ in our understanding of Neanderthals.",
+      "options_en": [
+        "a) insignificance",
+        "b) novelty",
+        "c) ambiguity",
+        "d) subjectivity"
+      ],
+      "answer_en": "b) novelty",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The Neanderthals are referred to as a 'long-lost ____ of our human family tree,' emphasizing their evolutionary connection to modern humans.",
+      "options_en": [
+        "a) species",
+        "b) ancestor",
+        "c) cousin",
+        "d) predecessor"
+      ],
+      "answer_en": "c) cousin",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "As a renewable resource, wind power offers a sustainable ____ to traditional energy sources.",
+      "options_en": [
+        "a) supplement",
+        "b) alternative",
+        "c) depletion",
+        "d) constraint"
+      ],
+      "answer_en": "Not provided",
+      "answer_letter": null,
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "The effectiveness of wind turbines is largely determined by the ____ of wind available in a given location.",
+      "options_en": [
+        "a) scarcity",
+        "b) intensity",
+        "c) predictability",
+        "d) absence"
+      ],
+      "answer_en": "Not provided",
+      "answer_letter": null,
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "Despite its benefits, the ____ impact of wind turbines on the environment and scenery is a point of discussion.",
+      "options_en": [
+        "a) negligible",
+        "b) positive",
+        "c) visual",
+        "d) functional"
+      ],
+      "answer_en": "Not provided",
+      "answer_letter": null,
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "Technological advancements are crucial for addressing the ____ inherent in current wind power technology.",
+      "options_en": [
+        "a) potential",
+        "b) durability",
+        "c) limitations",
+        "d) abundance"
+      ],
+      "answer_en": "c) limitations",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Strategic placement of wind farms is necessary to optimize their energy ____ and minimize negative impacts.",
+      "options_en": [
+        "a) consumption",
+        "b) output",
+        "c) maintenance",
+        "d) cost"
+      ],
+      "answer_en": "b) output",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "The approaching rain clouds threaten to play ____ with the highly anticipated cricket match in Sydney.",
+      "options_en": [
+        "a) a crucial role",
+        "b) a supportive part",
+        "c) spoilsport",
+        "d) a decisive factor"
+      ],
+      "answer_en": "c) spoilsport",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 10"
+    },
+    {
+      "question_en": "The central question revolves around who will win if the weather significantly ____ the match.",
+      "options_en": [
+        "a) enhances",
+        "b) delays",
+        "c) ignores",
+        "d) dominates"
+      ],
+      "answer_en": "b) delays",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 10"
+    },
+    {
+      "question_en": "Rain in cricket often introduces an element of chance that can dramatically ____ the predicted outcome of the game.",
+      "options_en": [
+        "a) confirm",
+        "b) solidify",
+        "c) subvert",
+        "d) maintain"
+      ],
+      "answer_en": "c) subvert",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 10"
+    },
+    {
+      "question_en": "A rain-affected match has the potential to ____ the advantage held by a dominant team.",
+      "options_en": [
+        "a) amplify",
+        "b) negate",
+        "c) solidify",
+        "d) highlight"
+      ],
+      "answer_en": "b) negate",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 10"
+    },
+    {
+      "question_en": "Ultimately, the weather conditions will ____ the final result and the narrative of the cricket match in Sydney.",
+      "options_en": [
+        "a) disregard",
+        "b) influence",
+        "c) stabilize",
+        "d) predict"
+      ],
+      "answer_en": "b) influence",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 10"
+    },
+    {
+      "question_en": "Artificial intelligence involves the __________ of human intelligence in machines.",
+      "options_en": [
+        "replacement",
+        "imitation",
+        "enhancement",
+        "deterioration"
+      ],
+      "answer_en": "imitation",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 11"
+    },
+    {
+      "question_en": "AI is being applied in numerous __________ leading to advancements and increased automation.",
+      "options_en": [
+        "academic fields",
+        "industrial sectors",
+        "artistic expressions",
+        "political movements"
+      ],
+      "answer_en": "industrial sectors",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 11"
+    },
+    {
+      "question_en": "Alongside its potential benefits, AI also presents __________ related to job displacement and data security.",
+      "options_en": [
+        "opportunities",
+        "dilemmas",
+        "advantages",
+        "conveniences"
+      ],
+      "answer_en": "dilemmas",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 11"
+    },
+    {
+      "question_en": "The key to maximizing the positive impact of AI lies in its __________ and ethical deployment.",
+      "options_en": [
+        "widespread use",
+        "uncontrolled growth",
+        "careful development",
+        "limited accessibility"
+      ],
+      "answer_en": "careful development",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 11"
+    },
+    {
+      "question_en": "Effectively addressing the __________ associated with AI is essential for its successful integration into society.",
+      "options_en": [
+        "costs",
+        "challenges",
+        "rewards",
+        "regulations"
+      ],
+      "answer_en": "challenges",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 11"
+    },
+    {
+      "question_en": "History allows us to study the __________ of human civilization.",
+      "options_en": [
+        "stagnation",
+        "regression",
+        "progression",
+        "uniformity"
+      ],
+      "answer_en": "progression",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Historical Analysis"
+    },
+    {
+      "question_en": "Analysing history helps us comprehend the __________ that have influenced our current world.",
+      "options_en": [
+        "forces",
+        "illusions",
+        "predictions",
+        "coincidences"
+      ],
+      "answer_en": "forces",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Historical Analysis"
+    },
+    {
+      "question_en": "A key benefit of studying history is the development of __________ abilities.",
+      "options_en": [
+        "artistic",
+        "athletic",
+        "critical thinking",
+        "musical"
+      ],
+      "answer_en": "critical thinking",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Historical Analysis"
+    },
+    {
+      "question_en": "Examining historical events reveals the __________ of human experience.",
+      "options_en": [
+        "isolation",
+        "interconnectedness",
+        "simplicity",
+        "predictability"
+      ],
+      "answer_en": "interconnectedness",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Historical Analysis"
+    },
+    {
+      "question_en": "History empowers us to form __________ and well-founded conclusions about the past.",
+      "options_en": [
+        "biased",
+        "subjective",
+        "objective",
+        "uninformed"
+      ],
+      "answer_en": "objective",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Historical Analysis"
+    },
+    {
+      "question_en": "Communication involves the __________ of information between individuals.",
+      "options_en": [
+        "retention",
+        "exchange",
+        "concealment",
+        "distortion"
+      ],
+      "answer_en": "exchange",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Effective Communication"
+    },
+    {
+      "question_en": "Apart from clear articulation, effective communication requires __________ listening.",
+      "options_en": [
+        "passive",
+        "active",
+        "selective",
+        "judgemental"
+      ],
+      "answer_en": "active",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Effective Communication"
+    },
+    {
+      "question_en": "In a globalized world, communication frequently occurs across different __________ contexts.",
+      "options_en": [
+        "historical",
+        "cultural",
+        "economic",
+        "political"
+      ],
+      "answer_en": "cultural",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Effective Communication"
+    },
+    {
+      "question_en": "Proficient communication skills promote ________ and cooperation among people.",
+      "options_en": [
+        "conflict",
+        "misunderstanding",
+        "agreement",
+        "separation"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "The capacity to communicate well cultivates ________ and consideration for others.",
+      "options_en": [
+        "intolerance",
+        "empathy",
+        "apathy",
+        "disregard"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Oceans are essential for regulating global ________ patterns.",
+      "options_en": [
+        "geological",
+        "atmospheric",
+        "biological",
+        "chemical"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 14"
+    },
+    {
+      "question_en": "The oceans are characterized by their immense ________ and diverse marine life.",
+      "options_en": [
+        "emptiness",
+        "uniformity",
+        "vastness",
+        "shallowness"
+      ],
+      "answer_en": "c",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 14"
+    },
+    {
+      "question_en": "Human activities, such as pollution and overfishing, pose serious ________ to ocean ecosystems.",
+      "options_en": [
+        "benefits",
+        "dangers",
+        "improvements",
+        "enhancements"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 14"
+    },
+    {
+      "question_en": "Protecting the oceans requires ________ and responsible stewardship.",
+      "options_en": [
+        "exploitation",
+        "neglect",
+        "conservation",
+        "degradation"
+      ],
+      "answer_en": "c",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 14"
+    },
+    {
+      "question_en": "Ensuring the ________ of marine environments is crucial for the well-being of the planet and its inhabitants.",
+      "options_en": [
+        "destruction",
+        "sustainability",
+        "deterioration",
+        "depletion"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 14"
+    },
+    {
+      "question_en": "Technological progress has led to the _________ of societies worldwide.",
+      "options_en": [
+        "a) stagnation",
+        "b) transformation",
+        "c) fragmentation",
+        "d) simplification"
+      ],
+      "answer_en": "transformation",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 15"
+    },
+    {
+      "question_en": "The internet has _________ global connectivity and communication.",
+      "options_en": [
+        "a) hindered",
+        "b) diminished",
+        "c) enhanced",
+        "d) restricted"
+      ],
+      "answer_en": "enhanced",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 15"
+    },
+    {
+      "question_en": "Alongside its advantages, technology raises _________ about data security and equitable access.",
+      "options_en": [
+        "a) questions",
+        "b) certainties",
+        "c) reassurances",
+        "d) agreements"
+      ],
+      "answer_en": "questions",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 15"
+    },
+    {
+      "question_en": "Finding a _________ between technological advancement and its potential drawbacks is essential.",
+      "options_en": [
+        "a) conflict",
+        "b) separation",
+        "c) balance",
+        "d) disparity"
+      ],
+      "answer_en": "balance",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 15"
+    },
+    {
+      "question_en": "The ultimate goal is to ensure that technology serves to _________ humankind.",
+      "options_en": [
+        "a) exploit",
+        "b) benefit",
+        "c) control",
+        "d) isolate"
+      ],
+      "answer_en": "benefit",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 15"
+    }
+  ],
+  "notes_en": "p39: This page introduces the 'Sentence Completion' question type for TNPSC exams. It defines the task of filling blanks within a text to maintain grammatical and contextual accuracy and provides a five-step strategic approach followed by a reading passage and practice questions.\np40: This page provides practice exercises for sentence completion, focusing on vocabulary usage within the context of environmental science and geography. It features two reading comprehension passages—one about the Himalayas and one about the Amazon rainforest—with multiple-choice questions testing context-based word selection.\np41: This page focuses on sentence completion exercises based on reading comprehension, specifically covering topics on the Indian monsoon and renewable energy sources.\np42: This page focuses on sentence completion techniques using contextual clues within passages about historical human development and modern technological energy transitions.\np43: This page provides exercises on sentence completion, focusing on context-based vocabulary and logical sentence structure within both general thematic and specific educational narratives.\np44: This page provides practice in sentence completion using two specific scientific passages. Students must analyze the context of the provided text to select the most appropriate word that fits the logical flow of the sentence.\np45: This page focuses on sentence completion exercises, requiring students to fill in blanks based on scientific context (Neanderthals) and environmental topics (Wind Power).\np46: This page provides practice exercises for sentence completion using contextual clues, including standalone technical sentences about wind power and a passage regarding the impact of weather on a cricket match.\np47: This page provides practice exercises for Sentence Completion, focusing on comprehension and logical vocabulary selection within the context of technology and Artificial Intelligence.\np48: This page provides practice in sentence completion using two distinct thematic passages regarding history and communication. It focuses on identifying contextual keywords to select the correct term.\np49: This page provides practice exercises for sentence completion, focusing on context-based vocabulary usage within general communication and environmental science topics.\np50: This page provides a reading comprehension practice exercise centered on technological progress, followed by five sentence completion questions that test vocabulary and contextual understanding based on the provided passage.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

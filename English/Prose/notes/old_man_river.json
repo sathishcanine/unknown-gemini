@@ -1,0 +1,94 @@
+{
+  "prose_id": "old_man_river",
+  "prose_title": "Old Man River",
+  "author": "Dorothy Deming",
+  "num": 10,
+  "pdf_pages": [
+    259,
+    282
+  ],
+  "prose_text_en": "The story follows Amy, Betty, and Rose in a house threatened by rising floodwaters. Jim Hall arrives to warn them that the Burnett Dam has given way, cutting them off from town. As the water creeps up, they organize supplies (water, food, blankets, lights). Jim saves Sara, Rose's younger sister, who was stranded on a porch. The electricity fails, and they move into the house with candles, anxious about the rising river and the threat to their safety.",
+  "summary_en": "Set during a severe storm, the drama depicts a group of teenagers—Amy, Betty, Rose, and Jim—facing a natural disaster when a dam breaks. They work together to gather resources and prepare for a potential rescue while staying calm despite the rising water. It highlights themes of courage, organized emergency response, and teamwork during a crisis.",
+  "characters": [
+    {
+      "name_en": "Amy Marshall",
+      "role_en": "17-year-old resident, elder sister of Betty"
+    },
+    {
+      "name_en": "Betty Marshall",
+      "role_en": "Younger sister of Amy"
+    },
+    {
+      "name_en": "Rose Field",
+      "role_en": "16-year-old neighbor"
+    },
+    {
+      "name_en": "Sara Field",
+      "role_en": "9-year-old sister of Rose"
+    },
+    {
+      "name_en": "Jim Hall",
+      "role_en": "17-year-old neighbor, experienced in emergency response"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Cloudburst",
+      "meaning_en": "A sudden, heavy rainfall"
+    },
+    {
+      "word_en": "Pickaback",
+      "meaning_en": "Carried on the back"
+    },
+    {
+      "word_en": "Commission",
+      "meaning_en": "An order or task (out of commission = not functioning)"
+    },
+    {
+      "word_en": "Scrubbed",
+      "meaning_en": "Cancelled (in mission context)"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Dorothy Deming",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Genre: Drama",
+      "tag": "title"
+    },
+    {
+      "rule_en": "Emergency contact number in India is 108",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The Red Cross was established in 1863 in Geneva by Jean Henry Dunant",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Who went to get Sara?",
+      "answer_en": "Jim Hall went to get Sara.",
+      "options_en": [
+        "Amy",
+        "Jim Hall",
+        "Rose",
+        "Betty"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Where was Sara found?",
+      "answer_en": "On the playhouse porch.",
+      "options_en": [
+        "In the kitchen",
+        "On the playhouse porch",
+        "In the garden",
+        "At the school"
+      ],
+      "tag": "short_answer"
+    }
+  ]
+}

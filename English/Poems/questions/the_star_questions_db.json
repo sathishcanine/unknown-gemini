@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the poem 'The Star'?",
+    "question_ta": "Who is the author of the poem 'The Star'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Robert Frost",
+        "text_ta": "Robert Frost"
+      },
+      {
+        "key": "B",
+        "text_en": "Jane Taylor",
+        "text_ta": "Jane Taylor"
+      },
+      {
+        "key": "C",
+        "text_en": "William Wordsworth",
+        "text_ta": "William Wordsworth"
+      },
+      {
+        "key": "D",
+        "text_en": "John Keats",
+        "text_ta": "John Keats"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem 'The Star' is written by Jane Taylor as per the textbook notes.",
+    "explanation_ta": "The poem 'The Star' is written by Jane Taylor as per the textbook notes.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "R1: The poem 'The Star' is written by Jane Taylor."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "To what object is the star compared in the poem?",
+    "question_ta": "To what object is the star compared in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A diamond",
+        "text_ta": "A diamond"
+      },
+      {
+        "key": "B",
+        "text_en": "A glowing lamp",
+        "text_ta": "A glowing lamp"
+      },
+      {
+        "key": "C",
+        "text_en": "A silver pearl",
+        "text_ta": "A silver pearl"
+      },
+      {
+        "key": "D",
+        "text_en": "A golden coin",
+        "text_ta": "A golden coin"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem states the star is 'Like a diamond in the sky'.",
+    "explanation_ta": "The poem states the star is 'Like a diamond in the sky'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "R2: The star is compared to a diamond."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who thanks the star for its tiny spark in the dark?",
+    "question_ta": "Who thanks the star for its tiny spark in the dark?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The shepherd",
+        "text_ta": "The shepherd"
+      },
+      {
+        "key": "B",
+        "text_en": "The poet",
+        "text_ta": "The poet"
+      },
+      {
+        "key": "C",
+        "text_en": "The sailor",
+        "text_ta": "The sailor"
+      },
+      {
+        "key": "D",
+        "text_en": "The traveller",
+        "text_ta": "The traveller"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The traveller in the dark thanks the star for its tiny spark.",
+    "explanation_ta": "The traveller in the dark thanks the star for its tiny spark.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "R3: The star serves as a guide for the traveller in the dark."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the line: 'Like a diamond in the sky.'",
+    "question_ta": "Identify the figure of speech in the line: 'Like a diamond in the sky.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The star is compared to a diamond using the word 'like', making it a simile.",
+    "explanation_ta": "The star is compared to a diamond using the word 'like', making it a simile.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "F1: Simile — Like a diamond in the sky."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in the line: 'And often through my curtains peep'?",
+    "question_ta": "What figure of speech is used in the line: 'And often through my curtains peep'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The star is given the human attribute of peeping, which is Personification.",
+    "explanation_ta": "The star is given the human attribute of peeping, which is Personification.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "F2: Personification — And often through my curtains peep"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is evident in the expression: 'For you never shut your eye'?",
+    "question_ta": "Which figure of speech is evident in the expression: 'For you never shut your eye'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Transfer Epithet",
+        "text_ta": "Transfer Epithet"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The star is described as having an eye, which is a human feature, representing personification.",
+    "explanation_ta": "The star is described as having an eye, which is a human feature, representing personification.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "F3: Personification — For you never shut your eye"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'blazing' according to the glossary?",
+    "question_ta": "What is the meaning of the word 'blazing' according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Shining softly",
+        "text_ta": "Shining softly"
+      },
+      {
+        "key": "B",
+        "text_en": "Burning brightly",
+        "text_ta": "Burning brightly"
+      },
+      {
+        "key": "C",
+        "text_en": "Fading away",
+        "text_ta": "Fading away"
+      },
+      {
+        "key": "D",
+        "text_en": "Moving quickly",
+        "text_ta": "Moving quickly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the glossary, blazing means burning brightly.",
+    "explanation_ta": "According to the glossary, blazing means burning brightly.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "G1: Blazing = Burning brightly."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the glossary, what does 'traveller' mean?",
+    "question_ta": "According to the glossary, what does 'traveller' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A person who is sleeping",
+        "text_ta": "A person who is sleeping"
+      },
+      {
+        "key": "B",
+        "text_en": "A person who is working",
+        "text_ta": "A person who is working"
+      },
+      {
+        "key": "C",
+        "text_en": "A person who is sailing",
+        "text_ta": "A person who is sailing"
+      },
+      {
+        "key": "D",
+        "text_en": "A person who is travelling",
+        "text_ta": "A person who is travelling"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The glossary defines a traveller as a person who is travelling.",
+    "explanation_ta": "The glossary defines a traveller as a person who is travelling.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "G2: Traveller = A person who is travelling."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'spark' as given in the glossary?",
+    "question_ta": "What is the meaning of the word 'spark' as given in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A sudden sound",
+        "text_ta": "A sudden sound"
+      },
+      {
+        "key": "B",
+        "text_en": "A moving light beam",
+        "text_ta": "A moving light beam"
+      },
+      {
+        "key": "C",
+        "text_en": "A large bright flame",
+        "text_ta": "A large bright flame"
+      },
+      {
+        "key": "D",
+        "text_en": "A small fiery particle",
+        "text_ta": "A small fiery particle"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary notes define spark as a small fiery particle.",
+    "explanation_ta": "Glossary notes define spark as a small fiery particle.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "G3: Spark = A small fiery particle."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'peep' mean based on the glossary?",
+    "question_ta": "What does the word 'peep' mean based on the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Shine brightly",
+        "text_ta": "Shine brightly"
+      },
+      {
+        "key": "B",
+        "text_en": "Look quickly and secretly",
+        "text_ta": "Look quickly and secretly"
+      },
+      {
+        "key": "C",
+        "text_en": "Stare continuously",
+        "text_ta": "Stare continuously"
+      },
+      {
+        "key": "D",
+        "text_en": "Hide completely",
+        "text_ta": "Hide completely"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Peep means to look quickly and secretly according to the glossary.",
+    "explanation_ta": "Peep means to look quickly and secretly according to the glossary.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "G4: Peep = Look quickly and secretly."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When does the star show its little light?",
+    "question_ta": "When does the star show its little light?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "When the morning arrives",
+        "text_ta": "When the morning arrives"
+      },
+      {
+        "key": "B",
+        "text_en": "When the moon is shining",
+        "text_ta": "When the moon is shining"
+      },
+      {
+        "key": "C",
+        "text_en": "When the blazing sun is gone",
+        "text_ta": "When the blazing sun is gone"
+      },
+      {
+        "key": "D",
+        "text_en": "When the traveller sleeps",
+        "text_ta": "When the traveller sleeps"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem indicates that when the blazing sun is gone and shines upon nothing, the star shows its little light.",
+    "explanation_ta": "The poem indicates that when the blazing sun is gone and shines upon nothing, the star shows its little light.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Summary: describes how the star provides light to travelers in the dark night and remains visible until the sun rises."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Until what time does the star keep shining in the dark blue sky?",
+    "question_ta": "Until what time does the star keep shining in the dark blue sky?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Till the curtains close",
+        "text_ta": "Till the curtains close"
+      },
+      {
+        "key": "B",
+        "text_en": "Till the midnight hour",
+        "text_ta": "Till the midnight hour"
+      },
+      {
+        "key": "C",
+        "text_en": "Till the traveller reaches home",
+        "text_ta": "Till the traveller reaches home"
+      },
+      {
+        "key": "D",
+        "text_en": "Till the sun is in the sky",
+        "text_ta": "Till the sun is in the sky"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem mentions that the star never shuts its eye till the sun is in the sky.",
+    "explanation_ta": "The poem mentions that the star never shuts its eye till the sun is in the sky.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Summary: remains visible until the sun rises."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What emotion does the speaker express about the star?",
+    "question_ta": "What emotion does the speaker express about the star?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anger and frustration",
+        "text_ta": "Anger and frustration"
+      },
+      {
+        "key": "B",
+        "text_en": "Indifference and boredom",
+        "text_ta": "Indifference and boredom"
+      },
+      {
+        "key": "C",
+        "text_en": "Fear and anxiety",
+        "text_ta": "Fear and anxiety"
+      },
+      {
+        "key": "D",
+        "text_en": "Curiosity and wonder",
+        "text_ta": "Curiosity and wonder"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem expresses the speaker's curiosity and wonder about the nature of a star.",
+    "explanation_ta": "The poem expresses the speaker's curiosity and wonder about the nature of a star.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Summary: The poem expresses the speaker's curiosity and wonder about the nature of a star high above in the sky."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why would the traveller not know which way to go?",
+    "question_ta": "Why would the traveller not know which way to go?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "If the curtains were closed",
+        "text_ta": "If the curtains were closed"
+      },
+      {
+        "key": "B",
+        "text_en": "If the star did not twinkle",
+        "text_ta": "If the star did not twinkle"
+      },
+      {
+        "key": "C",
+        "text_en": "If the sun was blazing",
+        "text_ta": "If the sun was blazing"
+      },
+      {
+        "key": "D",
+        "text_en": "If the diamond was hidden",
+        "text_ta": "If the diamond was hidden"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text states the traveller could not see which way to go if the star did not twinkle so.",
+    "explanation_ta": "The text states the traveller could not see which way to go if the star did not twinkle so.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: He could not see which way to go, If you did not twinkle so."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where does the star keep watch according to the poem?",
+    "question_ta": "Where does the star keep watch according to the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Underneath the curtains",
+        "text_ta": "Underneath the curtains"
+      },
+      {
+        "key": "B",
+        "text_en": "On the traveller's path",
+        "text_ta": "On the traveller's path"
+      },
+      {
+        "key": "C",
+        "text_en": "In the dark blue sky",
+        "text_ta": "In the dark blue sky"
+      },
+      {
+        "key": "D",
+        "text_en": "Behind the blazing sun",
+        "text_ta": "Behind the blazing sun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem mentions: 'In the dark blue sky you keep'.",
+    "explanation_ta": "The poem mentions: 'In the dark blue sky you keep'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: In the dark blue sky you keep"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the line: 'Up above the world so high, / Like a ...'",
+    "question_ta": "Complete the line: 'Up above the world so high, / Like a ...'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "spark in the dark",
+        "text_ta": "spark in the dark"
+      },
+      {
+        "key": "B",
+        "text_en": "light in the blue",
+        "text_ta": "light in the blue"
+      },
+      {
+        "key": "C",
+        "text_en": "diamond in the sky",
+        "text_ta": "diamond in the sky"
+      },
+      {
+        "key": "D",
+        "text_en": "beacon in the night",
+        "text_ta": "beacon in the night"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The line is followed by 'Like a diamond in the sky.'",
+    "explanation_ta": "The line is followed by 'Like a diamond in the sky.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: Up above the world so high, / Like a diamond in the sky."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What action does the star perform through the speaker's curtains?",
+    "question_ta": "What action does the star perform through the speaker's curtains?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It speaks",
+        "text_ta": "It speaks"
+      },
+      {
+        "key": "B",
+        "text_en": "It peeps",
+        "text_ta": "It peeps"
+      },
+      {
+        "key": "C",
+        "text_en": "It twinkles",
+        "text_ta": "It twinkles"
+      },
+      {
+        "key": "D",
+        "text_en": "It shines",
+        "text_ta": "It shines"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem states that the star often peeps through the curtains.",
+    "explanation_ta": "The poem states that the star often peeps through the curtains.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: And often through my curtains peep"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the star's bright and tiny spark do for the traveller?",
+    "question_ta": "What does the star's bright and tiny spark do for the traveller?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Guides the traveller to sleep",
+        "text_ta": "Guides the traveller to sleep"
+      },
+      {
+        "key": "B",
+        "text_en": "Shows the traveller the sun",
+        "text_ta": "Shows the traveller the sun"
+      },
+      {
+        "key": "C",
+        "text_en": "Warms the traveller in the cold",
+        "text_ta": "Warms the traveller in the cold"
+      },
+      {
+        "key": "D",
+        "text_en": "Lights the traveller in the dark",
+        "text_ta": "Lights the traveller in the dark"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text states: 'As your bright and tiny spark, / Lights the traveller in the dark.'",
+    "explanation_ta": "The text states: 'As your bright and tiny spark, / Lights the traveller in the dark.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: As your bright and tiny spark, / Lights the traveller in the dark"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which recurring question does the speaker ask the star throughout the poem?",
+    "question_ta": "Which recurring question does the speaker ask the star throughout the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Where do you keep your light?",
+        "text_ta": "Where do you keep your light?"
+      },
+      {
+        "key": "B",
+        "text_en": "Who thanks you in the dark?",
+        "text_ta": "Who thanks you in the dark?"
+      },
+      {
+        "key": "C",
+        "text_en": "How I wonder what you are!",
+        "text_ta": "How I wonder what you are!"
+      },
+      {
+        "key": "D",
+        "text_en": "Why do you shine so bright?",
+        "text_ta": "Why do you shine so bright?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The repetitive refrain in the poem is 'How I wonder what you are!'.",
+    "explanation_ta": "The repetitive refrain in the poem is 'How I wonder what you are!'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: How I wonder what you are!"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What highlights the beauty and guiding presence of the star?",
+    "question_ta": "What highlights the beauty and guiding presence of the star?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Its role in the night sky",
+        "text_ta": "Its role in the night sky"
+      },
+      {
+        "key": "B",
+        "text_en": "Its reflection in the curtains",
+        "text_ta": "Its reflection in the curtains"
+      },
+      {
+        "key": "C",
+        "text_en": "Its heat during the day",
+        "text_ta": "Its heat during the day"
+      },
+      {
+        "key": "D",
+        "text_en": "Its disappearance at dawn",
+        "text_ta": "Its disappearance at dawn"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem highlights the beauty and guiding presence of the star in the night sky.",
+    "explanation_ta": "The poem highlights the beauty and guiding presence of the star in the night sky.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Summary: The poem highlights the beauty and guiding presence of the star in the night sky."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the couplet: 'Twinkle, twinkle, little star, / ...'",
+    "question_ta": "Complete the couplet: 'Twinkle, twinkle, little star, / ...'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "How I wonder what you are!",
+        "text_ta": "How I wonder what you are!"
+      },
+      {
+        "key": "B",
+        "text_en": "Up above the world so high",
+        "text_ta": "Up above the world so high"
+      },
+      {
+        "key": "C",
+        "text_en": "Like a diamond in the sky",
+        "text_ta": "Like a diamond in the sky"
+      },
+      {
+        "key": "D",
+        "text_en": "Then the traveller in the dark",
+        "text_ta": "Then the traveller in the dark"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The opening lines pair 'Twinkle, twinkle, little star,' with 'How I wonder what you are!'.",
+    "explanation_ta": "The opening lines pair 'Twinkle, twinkle, little star,' with 'How I wonder what you are!'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: Twinkle, twinkle, little star, / How I wonder what you are!"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When does the sun shine upon nothing, according to the poem?",
+    "question_ta": "When does the sun shine upon nothing, according to the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "When the blazing sun is gone",
+        "text_ta": "When the blazing sun is gone"
+      },
+      {
+        "key": "B",
+        "text_en": "When the star is peeping",
+        "text_ta": "When the star is peeping"
+      },
+      {
+        "key": "C",
+        "text_en": "When the morning begins",
+        "text_ta": "When the morning begins"
+      },
+      {
+        "key": "D",
+        "text_en": "When the traveller is walking",
+        "text_ta": "When the traveller is walking"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem states: 'When the blazing sun is gone, / When he nothing shines upon'.",
+    "explanation_ta": "The poem states: 'When the blazing sun is gone, / When he nothing shines upon'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: When the blazing sun is gone, / When he nothing shines upon"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the star do all the night?",
+    "question_ta": "What does the star do all the night?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Guide the sun away",
+        "text_ta": "Guide the sun away"
+      },
+      {
+        "key": "B",
+        "text_en": "Sleep in the sky",
+        "text_ta": "Sleep in the sky"
+      },
+      {
+        "key": "C",
+        "text_en": "Show its little light",
+        "text_ta": "Show its little light"
+      },
+      {
+        "key": "D",
+        "text_en": "Hide behind the curtains",
+        "text_ta": "Hide behind the curtains"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem says: 'Then you show your little light, / Twinkle, twinkle, all the night.'",
+    "explanation_ta": "The poem says: 'Then you show your little light, / Twinkle, twinkle, all the night.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: Then you show your little light, / Twinkle, twinkle, all the night."
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does the traveller feel towards the star?",
+    "question_ta": "How does the traveller feel towards the star?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indifferent",
+        "text_ta": "Indifferent"
+      },
+      {
+        "key": "B",
+        "text_en": "Fearful",
+        "text_ta": "Fearful"
+      },
+      {
+        "key": "C",
+        "text_en": "Thankful",
+        "text_ta": "Thankful"
+      },
+      {
+        "key": "D",
+        "text_en": "Angry",
+        "text_ta": "Angry"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The traveller thanks the star for its tiny spark in the dark.",
+    "explanation_ta": "The traveller thanks the star for its tiny spark in the dark.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: Then the traveller in the dark, / Thanks you for your tiny spark"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "The Star",
+    "topic": "The Star",
+    "topic_id": "the_star",
+    "topic_ta": "The Star",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the physical description given to the star's light in relation to the traveller?",
+    "question_ta": "What is the physical description given to the star's light in relation to the traveller?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Blazing and large flame",
+        "text_ta": "Blazing and large flame"
+      },
+      {
+        "key": "B",
+        "text_en": "Soft and hidden glow",
+        "text_ta": "Soft and hidden glow"
+      },
+      {
+        "key": "C",
+        "text_en": "Bright and tiny spark",
+        "text_ta": "Bright and tiny spark"
+      },
+      {
+        "key": "D",
+        "text_en": "Fading and dull ray",
+        "text_ta": "Fading and dull ray"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem describes it as 'bright and tiny spark'.",
+    "explanation_ta": "The poem describes it as 'bright and tiny spark'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_star",
+    "source_note": "Poem text: As your bright and tiny spark"
+  }
+]

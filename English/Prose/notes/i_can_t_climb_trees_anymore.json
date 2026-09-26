@@ -1,0 +1,105 @@
+{
+  "prose_id": "i_can_t_climb_trees_anymore",
+  "prose_title": "I Can't Climb Trees Anymore",
+  "author": "Ruskin Bond",
+  "num": 9,
+  "pdf_pages": [
+    249,
+    258
+  ],
+  "prose_text_en": "A middle-aged man visits his childhood ancestral house after 25 years. He meets a young girl whose father is a colonel. He recounts how he used to climb the jackfruit tree to hide his treasures, including a German Iron Cross his grandfather won in WWI. Realizing he can no longer climb trees, the girl retrieves the medal for him. He gives it to her, concluding, 'It wasn’t the Cross I came for. It was my youth.' He leaves feeling revitalized, momentarily forgetting his age.",
+  "summary_en": "The story follows a middle-aged man who visits his childhood home and reflects on the passage of time. Through a chance meeting with a young girl living there, he revisits his past and retrieves a forgotten childhood treasure from a jackfruit tree. The narrative explores themes of nostalgia, the inevitability of aging, and the connection between generations. It concludes with the man finding peace by accepting his past and moving forward with a renewed spirit.",
+  "characters": [
+    {
+      "name_en": "The Visitor",
+      "role_en": "A middle-aged man reminiscing about his childhood home."
+    },
+    {
+      "name_en": "The Girl",
+      "role_en": "A 12-13 year old resident of the old house who helps the visitor."
+    },
+    {
+      "name_en": "Grandmother",
+      "role_en": "The visitor's late grandmother who cherished the tree-shaded house."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Turnstile",
+      "meaning_en": "A mechanical gate with revolving arms."
+    },
+    {
+      "word_en": "Hollyhocks",
+      "meaning_en": "A tall plant with large showy flowers."
+    },
+    {
+      "word_en": "Pruning",
+      "meaning_en": "The act of trimming a plant."
+    },
+    {
+      "word_en": "Sprightliness",
+      "meaning_en": "Lively and full of energy."
+    },
+    {
+      "word_en": "Slithered",
+      "meaning_en": "To slide or slip unsteadily."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Ruskin Bond (Born 1934, Indian author of British descent).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Theme: Nostalgia, Aging, and the persistence of childhood memory.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The house was built with solid blocks of granite.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Quote: 'A blessing rests on the house where the shadow of a tree falls.'",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "Quote: 'It wasn’t the Cross I came for. It was my youth.'",
+      "tag": "quote"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The story I Can’t Climb Trees Anymore highlights the importance of ________",
+      "answer_en": "b) youth.",
+      "options_en": [
+        "a) old age.",
+        "b) youth.",
+        "c) adulthood.",
+        "d) middle age."
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The visitor came back to the house because he ________________",
+      "answer_en": "b) was looking for his lost youth.",
+      "options_en": [
+        "a) wanted to see the jackfruit tree.",
+        "b) was looking for his lost youth.",
+        "c) wanted to look again at his old house",
+        "d) wanted to buy the house."
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Who said, “A blessing rests on the house where the shadow of a tree falls”?",
+      "answer_en": "a) Grand mother",
+      "options_en": [
+        "a) Grand mother",
+        "b) Uncle",
+        "c) Grand father",
+        "d) The visitor"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

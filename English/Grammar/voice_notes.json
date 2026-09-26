@@ -1,0 +1,1793 @@
+{
+  "subject_id": "English",
+  "menu": "active_passive_voice",
+  "sources": [
+    "asan tense , active and passive voice.pdf pp.18–23 (primary)",
+    "Grammer.pdf pp.68–78 (secondary)",
+    "Govt VOICE pp.62–66 (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "In the active voice, the subject performs the action. In the passive voice, the subject receives the action.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "rule_en": "Let + object + be + past participle (for positive imperatives). Let + object + not + be + past participle (for negative imperatives).",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "rule_en": "When changing requests from Active to Passive, begin the sentence with 'You are requested to' in place of 'Please'. If negative, begin with 'You are requested not to'.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "rule_en": "When changing advice to passive, start with 'You are advised to'. For negative advice, start with 'You are advised not to'.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "Omit the agent (subject) in passive voice when the subject is 'somebody', 'no one', 'none', or 'nobody'. Add 'not' to the verb for negative agents.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "The object of the Active Verb is made the Subject of the Passive Verb.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "The Subject of the Active Verb is made the object of some Preposition (generally 'by').",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "The Verb of the Active Voice must have the Past Participle form of the Finite Verb.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "Only Transitive verbs can be changed into Passive Voice.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "When verbs express command, order, advice or request, use: Let + Subject + be + Verb in third form.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "For Present Infinitive in passive: use 'to + be + verb in third form'.",
+      "voice_topic": "other",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "rule_en": "Some vague and indefinite subjects like 'everyone', 'they', 'people', 'someone', 'somebody', 'everybody', 'anybody', etc., are dropped when the sentence is changed into Passive Voice.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "rule_en": "The use of 'by' is considered superfluous when the special interest of the speaker is not in the active subject but in the predicate.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "rule_en": "'They say' can be changed into 'It is said'.",
+      "voice_topic": "other",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "rule_en": "Sentences with Present Perfect Continuous, Past Perfect Continuous, Future Continuous, and Future Perfect Continuous tenses cannot be transformed into Passive Voice.",
+      "voice_topic": "voice_different_tenses",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "rule_en": "In the second sentence, the object has been shifted to the place of subject. It remains passive and allows the work to be done by the noun.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "The subject is shifted to the place of object.",
+      "voice_topic": "overview",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Use passive voice when the focus is on the action rather than the doer of the action.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "rule_en": "Use passive voice when the doer of the action is unknown.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "rule_en": "Use passive voice when talking about a system or a process.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "rule_en": "Use passive voice for newspaper headlines and notices; the 'be' verb is often omitted.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "rule_en": "Use passive voice to describe changes that have taken place.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "rule_en": "Let + object + be + past participle.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "rule_en": "Let + object + not + be + past participle.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "rule_en": "Imperative sentences in passive can be formed by using 'You are requested to...' or 'You are warned not to...'.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "rule_en": "When we give importance to what people and things do, we use active verb forms. When we give importance to what happens to people and things, we use passive verb forms.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "rule_en": "Transitive verbs are followed by objects, while intransitive verbs do not take objects.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "rule_en": "When changing a request from Active to Passive, replace 'Please' with 'You are requested to'. For negative requests, use 'You are requested not to'.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "rule_en": "When changing advice from active to passive, begin with 'You are advised to' (positive) or 'You are advised not to' (negative).",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 72
+    },
+    {
+      "rule_en": "In sentences beginning with someone/no one, omit the agent (subject) in the passive voice.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 72
+    },
+    {
+      "rule_en": "For 'nobody', 'none', 'no one', add 'not' to the verb in the passive voice.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 72
+    },
+    {
+      "rule_en": "Passive interrogatives begin with a verb (Yes/No questions) or a question word followed by the verb (Wh- questions).",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 72
+    },
+    {
+      "rule_en": "In sentences with two objects (Direct and Indirect), change into passive voice by making either the direct object or the indirect object the subject of the passive sentence.",
+      "voice_topic": "other",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "rule_en": "In the active form, the subject completes the action. It starts with a subject, followed by a verb and object.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "rule_en": "In the passive form, the object of the active sentence becomes the subject. The verb is changed to a 'be' verb + past participle.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "rule_en": "The subject of the active sentence follows 'by' in the passive form, or it may be omitted if the doer is unknown or unimportant.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "rule_en": "A passive construction is used when the doer is obvious.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "rule_en": "A passive construction is used when the action is more important than the doer.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "rule_en": "The tense of the Verb does not change.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "For command, order, advice or request: Let + Subject + be + Verb (3rd form).",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "Present Infinitive passive form: to + be + verb in third form.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "Vague subjects like 'everyone', 'they', 'people', etc., are dropped in passive voice.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "The use of 'by' is superfluous when interest is in the predicate, not the subject.",
+      "voice_topic": "overview",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "'They say' is changed to 'It is said'.",
+      "voice_topic": "other",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "The following tenses cannot be transformed: Present Perfect Continuous, Past Perfect Continuous, Future Continuous, Future Perfect Continuous.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "rule_en": "Interchange the subject and object.",
+      "voice_topic": "active_to_passive",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "rule_en": "Convert the verb into its past participle form.",
+      "voice_topic": "active_to_passive",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "rule_en": "Add the corresponding helping verb.",
+      "voice_topic": "active_to_passive",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "rule_en": "If the doer of the action is mentioned it is called Personal Passive Voice.",
+      "voice_topic": "overview",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "rule_en": "If the doer of the action is not mentioned it is called an impersonal passive voice.",
+      "voice_topic": "overview",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "rule_en": "In passive voice, the object becomes the subject, the verb is converted into the past participle form (V3), and the subject becomes the agent preceded by 'by'.",
+      "voice_topic": "overview",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "rule_en": "Future Perfect: Object + will have been + past participle + by + Subject",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Interrogative (Who): By whom + auxiliary + object + verb + past participle?",
+      "voice_topic": "overview",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Imperative: Let + Object + be + past participle",
+      "voice_topic": "imperative_sentences",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Simple Present: am/is/are + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Present Continuous: am being/is being/are being + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Present Perfect: has been/have been + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Simple Past: was/were + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Past continuous: was/were + being + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "rule_en": "Past perfect: had + been + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "rule_en": "Simple Future: will + be + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "rule_en": "Future Perfect: will + have + been + past participle",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "rule_en": "Auxiliary verbs (May/can/might/could/should/would/must/ought to/have to) + be + past participle",
+      "voice_topic": "voice_modals",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "rule_en": "The following tenses do not take Passive Voice: Present Perfect Continuous, Past Perfect Continuous, Future Continuous, and Future Perfect Continuous.",
+      "voice_topic": "voice_different_tenses",
+      "source": "govt",
+      "source_page": 66
+    },
+    {
+      "rule_en": "Intransitive verbs do not take Passive Voice.",
+      "voice_topic": "overview",
+      "source": "govt",
+      "source_page": 66
+    }
+  ],
+  "examples": [
+    {
+      "input": "The dog chews the shoe",
+      "output": "The shoe is chewed by the dog",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Simple Present tense transformation",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "input": "My mom has made a cake",
+      "output": "A cake has been made by my mom",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Present Perfect tense transformation",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "input": "The cat is chasing the rat",
+      "output": "The rat is being chased by the cat",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Present Continuous tense transformation",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "input": "Open the window (Active)",
+      "output": "Let the window be opened (Passive)",
+      "kind": "example",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Positive imperative structure",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "input": "Do not pluck the flowers (Active)",
+      "output": "Let the flowers not be plucked (Passive)",
+      "kind": "example",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Negative imperative structure",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "input": "Please assemble in the ground (Active)",
+      "output": "You are requested to assemble in the ground (Passive)",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Request transformation",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "input": "Work hard",
+      "output": "You are advised to work hard.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Advice conversion.",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "input": "Somebody has taken away my book.",
+      "output": "My book has been taken away.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Omitting the agent.",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "input": "Did he write a letter?",
+      "output": "Was a letter written by him?",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Interrogative with auxiliary verb.",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "input": "Who will accept this?",
+      "output": "By whom will this be accepted?",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Interrogative with 'wh' words.",
+      "source": "asan",
+      "source_page": 19
+    },
+    {
+      "input": "Prizes were distributed at the end of the function.",
+      "output": "Prizes were distributed.",
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Example showing agent dropping.",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "input": "French is spoken in many parts of the world.",
+      "output": "French is spoken.",
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Example showing 'by' is superfluous.",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "input": "I will never forget this experience.",
+      "output": "This experience will never be forgotten by me.",
+      "kind": "transform",
+      "voice_topic": "voice_modals",
+      "note_en": "Future tense with 'will' becomes 'will be' + past participle.",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "input": "Mother made a cake yesterday.",
+      "output": "A cake was made by mother yesterday.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple past tense uses 'was' + past participle.",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "input": "Have you finished the report?",
+      "output": "Has the report been finished by you?",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present perfect interrogative conversion.",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "input": "The tiger was chasing the deer.",
+      "output": "The deer was being chased by the tiger.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past continuous uses 'was being' + past participle.",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "input": "She has written a novel.",
+      "output": "A novel has been written by her.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present perfect uses 'has been' + past participle.",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "input": "Mohammed follows the rules.",
+      "output": "The rules are followed by Mohammed.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Present simple active to passive",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input": "Mohan has completed the course.",
+      "output": "The course has been completed by Mohan.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Present perfect active to passive",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input": "May God bless you with happiness!",
+      "output": "May you be blessed by God with happiness!",
+      "kind": "transform",
+      "voice_topic": "voice_modals",
+      "note_en": "Modal 'May' passive transformation",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input": "Let the door not be slammed.",
+      "output": "Do not slam the door.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Passive to active conversion for imperative",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input": "The airplane was flown to Bengaluru by the pilot.",
+      "output": "The pilot flew the airplane to Bengaluru.",
+      "kind": "transform",
+      "voice_topic": "passive_to_active",
+      "note_en": "Example showing object shift to subject position.",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input": "The monkey ate the bananas.",
+      "output": "The bananas were eaten by the monkey.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Example showing subject shift to object position.",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input": "He makes coffee.",
+      "output": "Coffee is made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Present",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He is making coffee.",
+      "output": "Coffee is being made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present Continuous",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He has made coffee.",
+      "output": "Coffee has been made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present Perfect",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He made coffee.",
+      "output": "Coffee was made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Past",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He was making coffee.",
+      "output": "Coffee was being made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past Continuous",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He had made coffee.",
+      "output": "Coffee had been made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past Perfect",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He will make coffee.",
+      "output": "Coffee will be made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Future",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "He will have made coffee.",
+      "output": "Coffee will have been made by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Future Perfect",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "input": "Open the window.",
+      "output": "Let the window be opened.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Positive imperative",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "input": "Do not pluck the flowers.",
+      "output": "Let the flowers not be plucked.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Negative imperative",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "input": "Help me.",
+      "output": "You are requested to help me.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "We can begin the passive sentence with you if we want to put emphasis on the person addressed to.",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "input": "Don’t touch it.",
+      "output": "You are warned not to touch it.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Use of negative imperative passive construction.",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "input": "Please assemble in the ground.",
+      "output": "You are requested to assemble in the ground.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Change of request to passive voice",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "input": "Please do not use mobile phones here.",
+      "output": "You are requested not to use mobile phones here.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Imperative request structure.",
+      "source": "grammer",
+      "source_page": 72
+    },
+    {
+      "input": "John gave a bar of chocolate to Jill.",
+      "output": "Jill was given a bar of chocolate by John. / A bar of chocolate was given to Jill by John.",
+      "kind": "transform",
+      "voice_topic": "other",
+      "note_en": "Demonstration of two-object passive construction.",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "input": "Alexander cut the Gordian knot.",
+      "output": "The Gordian knot was cut by Alexander.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Demonstrates shifting focus from the doer to the object.",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "input": "The bridge is broken.",
+      "output": "N/A",
+      "kind": "example",
+      "voice_topic": "active_to_passive",
+      "note_en": "Used when the doer of the action is unknown or unimportant.",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "input": "The Chief Minister wrote a letter to the Prime Minister for immediate release of funds.",
+      "output": "A letter was written to the Prime Minister by the Chief Minister for immediate release of funds.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Conversion of active sentence to passive voice.",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "input": "The Corporation built a new bridge.",
+      "output": "A new bridge was built by the Corporation.",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Conversion of active sentence to passive voice.",
+      "source": "grammer",
+      "source_page": 74
+    },
+    {
+      "input": "The family of five was overpowered.",
+      "output": "The family of five was overpowered.",
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Used when the doer is obvious.",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "input": "Fingerprints were collected.",
+      "output": "Fingerprints were collected.",
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Used when the action is more important than the doer.",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "input": "Set the centre stand of the cycle.",
+      "output": "The centre stand of the bicycle is set.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Process description using passive form.",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "input": "infinitive form",
+      "output": "A letter has to be posted by me.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present infinitive to passive conversion",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "input": "People distribute prizes.",
+      "output": "Prizes were distributed at the end of the function.",
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Dropping vague subjects",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "input": "Active subject not focus",
+      "output": "French is spoken in many parts of the world.",
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Omission of 'by' agent",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "input": "Anita has been playing squash since childhood.",
+      "output": "No Passive transformation possible.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present Perfect Continuous",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "input": "John kicked the ball",
+      "output": "The ball was kicked by John",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Active voice subject is the doer; Passive voice subject is the receiver.",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "input": "The letter was written by me",
+      "output": null,
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Example of Personal Passive Voice.",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "input": "The letter was written",
+      "output": null,
+      "kind": "example",
+      "voice_topic": "overview",
+      "note_en": "Example of Impersonal Passive Voice.",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "input": "My mother writes an email",
+      "output": "An email is written by my mother",
+      "kind": "transform",
+      "voice_topic": "active_to_passive",
+      "note_en": "Step-by-step conversion: Interchange S/O, use past participle 'written', add helping verb 'is'.",
+      "source": "govt",
+      "source_page": 62
+    },
+    {
+      "input": "The boys play cricket.",
+      "output": "Cricket is played by the boys.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Present",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "They are playing cricket.",
+      "output": "Cricket is being played by them.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present Continuous",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "Why does your brother sing such songs?",
+      "output": "Why are such songs sung by your brother?",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Interrogative Simple Present",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "Who is doing the dishes?",
+      "output": "By whom are the dishes being done?",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Interrogative Present Continuous",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "Why have you called me here?",
+      "output": "Why have I been called here by you?",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present Perfect",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "The man cut down the tree.",
+      "output": "The tree was cut down by the man.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Past",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "The boys were helping the wounded man.",
+      "output": "The wounded man was being helped by the boys.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past Continuous",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "He had given me a bouquet.",
+      "output": "I had been given a bouquet by him.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past Perfect",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "Who broke the jar?",
+      "output": "By whom was the jar broken?",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Interrogative Simple Past",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "Why were you doing the work?",
+      "output": "Why was the work being done by you?",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Interrogative Past Continuous",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "Why had the work been done by you?",
+      "output": "Why had you done the work?",
+      "kind": "transform",
+      "voice_topic": "passive_to_active",
+      "note_en": "Interrogative Past Perfect",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "She will teach the lesson.",
+      "output": "The lesson will be taught by her.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Future",
+      "source": "govt",
+      "source_page": 63
+    },
+    {
+      "input": "She will have won gold medal",
+      "output": "Gold medal will have been won by her.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Future perfect tense",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "input": "Who will call him?",
+      "output": "By whom will he be called?",
+      "kind": "transform",
+      "voice_topic": "overview",
+      "note_en": "Interrogative sentence",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "input": "Keep it there",
+      "output": "Let it be kept there.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Imperative structure",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "input": "Do not touch it",
+      "output": "Let it not be touched.",
+      "kind": "transform",
+      "voice_topic": "imperative_sentences",
+      "note_en": "Negative imperative",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "input": "He sings a song",
+      "output": "A song is sung by him",
+      "kind": "example",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple present tense",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "input": "I am writing a letter",
+      "output": "A letter is being written by me",
+      "kind": "example",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Present continuous tense",
+      "source": "govt",
+      "source_page": 64
+    },
+    {
+      "input": "He was drinking a car",
+      "output": "A car was being driven by him",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past continuous conversion",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "input": "They had completed the assignment",
+      "output": "The assignment had been completed by them.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Past perfect conversion",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "input": "She will buy a car",
+      "output": "A car will be bought by her.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Simple Future conversion",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "input": "You will have started the job",
+      "output": "The job will have been started by you.",
+      "kind": "transform",
+      "voice_topic": "voice_different_tenses",
+      "note_en": "Future Perfect conversion",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "input": "My parents may invite them.",
+      "output": "They may be invited by my parents.",
+      "kind": "transform",
+      "voice_topic": "voice_modals",
+      "note_en": "Modal auxiliary conversion",
+      "source": "govt",
+      "source_page": 65
+    },
+    {
+      "input": "My parents ought to invite them.",
+      "output": "They ought to be invited.",
+      "kind": "transform",
+      "voice_topic": "voice_modals",
+      "note_en": "Modal auxiliary conversion",
+      "source": "govt",
+      "source_page": 65
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Please do not use mobile phones here (Active)",
+      "answer_en": "You are requested not to use mobile phones here (Passive)",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 18
+    },
+    {
+      "prompt_en": "IV.1: The hammer and chisel (flung) to the ground by the young man.",
+      "answer_en": "were flung",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "prompt_en": "IV.2: He cried that he (leave).",
+      "answer_en": "would be left",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "prompt_en": "IV.3: His arms (spread) out.",
+      "answer_en": "were spread",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "prompt_en": "IV.4: The congested workroom (glanced) indifferently by him.",
+      "answer_en": "was glanced at",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "prompt_en": "IV.5: The white washed walls (stain) by monsoons.",
+      "answer_en": "were stained",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 20
+    },
+    {
+      "prompt_en": "A. The pilot flew the airplane to Bengaluru. B. The airplane was flown to Bengaluru by the pilot.",
+      "answer_en": "Identified as Active (A) and Passive (B) pair.",
+      "voice_topic": "other",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "prompt_en": "A. The bananas were eaten by the monkey. B. The monkeys ate the bananas.",
+      "answer_en": "Identified as Passive (A) and Active (B) pair.",
+      "voice_topic": "other",
+      "source": "asan",
+      "source_page": 21
+    },
+    {
+      "prompt_en": "Who wrote this complaint?",
+      "answer_en": "By whom was this complaint written?",
+      "voice_topic": "active_to_passive",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "The smuggler had been nabbed by the police.",
+      "answer_en": "The police had nabbed the smuggler.",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Do not tell a lie.",
+      "answer_en": "Let a lie not be told.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Please open the door.",
+      "answer_en": "You are requested to open the door.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "The team was trained by the coach.",
+      "answer_en": "The coach trained the team.",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Many office assistants were appointed by the manager.",
+      "answer_en": "The manager appointed many office assistants.",
+      "voice_topic": "passive_to_active",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "A cake is being made by you now.",
+      "answer_en": "You are making a cake now.",
+      "voice_topic": "voice_different_tenses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "My grandmother painted that portrait.",
+      "answer_en": "That portrait was painted by my grandmother.",
+      "voice_topic": "active_to_passive",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "The rules should not be violated.",
+      "answer_en": "One should not violate the rules.",
+      "voice_topic": "voice_modals",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Don't slam the door.",
+      "answer_en": "You are advised/ordered not to slam the door / Let the door not be slammed.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Help the poor and needy.",
+      "answer_en": "You are requested/advised to help the poor and needy.",
+      "voice_topic": "imperative_sentences",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "May you be blessed with happiness by God.",
+      "answer_en": "May God bless you with happiness.",
+      "voice_topic": "other",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "She will not recognize us. / We ____________ by her.",
+      "answer_en": "will not be recognized",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "prompt_en": "They didn’t invite me, but I went anyway. / I ________________ but I went anyway.",
+      "answer_en": "wasn't invited",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "prompt_en": "They broke up the table for firewood. / The table ____________ up for firewood.",
+      "answer_en": "was broken",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "prompt_en": "She has won the first prize. / The first prize ______________ by her.",
+      "answer_en": "has been won",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 68
+    },
+    {
+      "prompt_en": "A friend of mine is repairing the car. / The car _______________ by a friend of mine.",
+      "answer_en": "is being repaired",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Begin the work tomorrow. / Let the work ____________ tomorrow.",
+      "answer_en": "be begun",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "They speak English in New Zealand. / English _______________ in New Zealand.",
+      "answer_en": "is spoken",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "His attitude shocked me. / I _______________ by his attitude.",
+      "answer_en": "was shocked",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "She had already sent the parcel. / The parcel _______________ by her.",
+      "answer_en": "had already been sent",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Her silence worries me. / I _______________ her silence.",
+      "answer_en": "am worried by",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "I will never forget this experience",
+      "answer_en": "This experience will never be forgotten by me.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Mother made a cake yesterday.",
+      "answer_en": "A cake was made by mother yesterday.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Have you finished the report?",
+      "answer_en": "Has the report been finished by you?",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "The tiger was chasing the deer.",
+      "answer_en": "The deer was being chased by the tiger.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "She has written a novel.",
+      "answer_en": "A novel has been written by her.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Stanley will inform you later.",
+      "answer_en": "You will be informed by Stanley later.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "People speak Portuguese in Brazil.",
+      "answer_en": "Portuguese is spoken by people in Brazil.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "My grandfather built this house in 1943.",
+      "answer_en": "This house was built by my grandfather in 1943.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "Do not hurt the animals.",
+      "answer_en": "The animals should not be hurt.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "You must not drop litter in the streets.",
+      "answer_en": "Litter must not be dropped by you in the streets.",
+      "voice_topic": "voice_modals",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "Carry it home.",
+      "answer_en": "Let it be carried home.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "They are decorating the wall.",
+      "answer_en": "The wall is being decorated by them.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "He has already mended the TV set.",
+      "answer_en": "The TV set has already been mended by him.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "The manager appointed many office assistants.",
+      "answer_en": "Many office assistants were appointed by the manager.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "You are making a cake now.",
+      "answer_en": "A cake is being made by you now.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "That portrait was painted by my grandmother.",
+      "answer_en": "My grandmother painted that portrait.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "Malini had bought a colourful hat for her daughter.",
+      "answer_en": "A colourful hat had been bought by Malini for her daughter.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "They have asked me to pay the fine.",
+      "answer_en": "I have been asked by them to pay the fine.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "The militants were being taken to prison by the police.",
+      "answer_en": "The police were taking the militants to prison.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "His behaviour vexes me.",
+      "answer_en": "I am vexed by his behaviour.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "Rosy will solve the problem.",
+      "answer_en": "The problem will be solved by Rosy.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "Our army has defeated the enemy.",
+      "answer_en": "The enemy has been defeated by our army.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "The salesman answered all the questions patiently.",
+      "answer_en": "All the questions were answered patiently by the salesman.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 71
+    },
+    {
+      "prompt_en": "Please call him at once.",
+      "answer_en": "You are requested to call him at once.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "How did you cross the river?",
+      "answer_en": "How was the river crossed by you?",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "No one is borrowing the novels from the library.",
+      "answer_en": "The novels are not being borrowed from the library by anyone.",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Will you help me?",
+      "answer_en": "Will I be helped by you?",
+      "voice_topic": "voice_modals",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Go for a jog early in the morning.",
+      "answer_en": "You are advised to go for a jog early in the morning.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Why have you left your brother at home?",
+      "answer_en": "Why has your brother been left at home by you?",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Nobody should violate the rules.",
+      "answer_en": "The rules should not be violated by anybody.",
+      "voice_topic": "voice_modals",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Someone has to initiate it immediately.",
+      "answer_en": "It has to be initiated immediately by someone.",
+      "voice_topic": "voice_modals",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Have you invited Raman to the party?",
+      "answer_en": "Has Raman been invited to the party by you?",
+      "voice_topic": "voice_different_tenses",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Please do not walk on the grass.",
+      "answer_en": "You are requested not to walk on the grass.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Cross the busy roads carefully.",
+      "answer_en": "Let the busy roads be crossed carefully.",
+      "voice_topic": "imperative_sentences",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "When will you book the tickets to Bengaluru?",
+      "answer_en": "When will the tickets to Bengaluru be booked by you?",
+      "voice_topic": "voice_modals",
+      "source": "grammer",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "The Shompen sacrificed animals.",
+      "answer_en": "Animals were sacrificed by the Shompen.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "They shot arrows at helicopters.",
+      "answer_en": "Arrows were shot at helicopters by them.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The Shompen boy was picking my pocket.",
+      "answer_en": "My pocket was being picked by the Shompen boy.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "He reads the jungle like an open book.",
+      "answer_en": "The jungle is read like an open book by him.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The Governor inaugurated the exhibition at ten o’ clock.",
+      "answer_en": "The exhibition was inaugurated by the Governor at ten o’ clock.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The crowd expected their leader to arrive early in the morning.",
+      "answer_en": "Their leader was expected to arrive early in the morning by the crowd.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "Who taught her Computer Science?",
+      "answer_en": "By whom was she taught Computer Science?",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "They unanimously named Ravi the captain of team.",
+      "answer_en": "Ravi was unanimously named the captain of team (by them).",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The President gave the commander an award.",
+      "answer_en": "The commander was given an award by the President.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "It is time to stop the work.",
+      "answer_en": "It is time for the work to be stopped.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "They say he is a spy.",
+      "answer_en": "It is said that he is a spy.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "One should keep one’s promise.",
+      "answer_en": "One’s promise should be kept.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "People burn a great deal of wood in winter.",
+      "answer_en": "A great deal of wood is burnt in winter.",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "Where had you kept the book?",
+      "answer_en": "Where had the book been kept by you?",
+      "voice_topic": "active_to_passive",
+      "source": "grammer",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The smuggler has been nabbed by the police.",
+      "answer_en": "The police have nabbed the smuggler.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "By whom were you interviewed?",
+      "answer_en": "Who interviewed you?",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Why were you scolded by your parents?",
+      "answer_en": "Why did your parents scold you?",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Not a word was spoken by the convict in self–defence.",
+      "answer_en": "The convict did not speak a word in self-defence.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Good news is expected shortly.",
+      "answer_en": "We expect good news shortly.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "The mail has just been received.",
+      "answer_en": "We have just received the mail.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Sundari has been taken to hospital by her husband.",
+      "answer_en": "Sundari's husband has taken her to hospital.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Our television is being repaired now.",
+      "answer_en": "They are repairing our television now.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Sweets have not been distributed to children by the organisers.",
+      "answer_en": "The organisers have not distributed sweets to children.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Prizes were being given by the chief guest.",
+      "answer_en": "The chief guest was giving prizes.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Nobody has been seen in the library this week.",
+      "answer_en": "Nobody has seen anybody in the library this week.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Nobody would have known the truth if you had not disclosed it.",
+      "answer_en": "Nobody would have known the truth if you had not disclosed it.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "You are advised to help the poor and needy.",
+      "answer_en": "Help the poor and needy.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "You are requested to make a cup of tea for the guest.",
+      "answer_en": "Please make a cup of tea for the guest.",
+      "voice_topic": "passive_to_active",
+      "source": "grammer",
+      "source_page": 78
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 65,
+      "examples": 77,
+      "worked_exercises": 93
+    },
+    "by_voice_topic": {
+      "overview": {
+        "rules": 27,
+        "examples": 9,
+        "worked": 0
+      },
+      "imperative_sentences": {
+        "rules": 11,
+        "examples": 14,
+        "worked": 12
+      },
+      "other": {
+        "rules": 4,
+        "examples": 1,
+        "worked": 3
+      },
+      "voice_different_tenses": {
+        "rules": 14,
+        "examples": 32,
+        "worked": 15
+      },
+      "active_to_passive": {
+        "rules": 8,
+        "examples": 15,
+        "worked": 33
+      },
+      "voice_modals": {
+        "rules": 1,
+        "examples": 4,
+        "worked": 6
+      },
+      "passive_to_active": {
+        "rules": 0,
+        "examples": 2,
+        "worked": 24
+      }
+    }
+  }
+}

@@ -1,0 +1,1161 @@
+{
+  "topic_id": "strong_weak_questions",
+  "topic_title": "Strong & Weak Questions",
+  "unit": 5,
+  "batches_target": 3,
+  "pages": [
+    15,
+    32
+  ],
+  "rules": [
+    {
+      "rule_en": "Strong questions require deeper analysis, interpretation, and drawing conclusions from the passage.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Weak questions are straightforward, factual, and involve locating information directly stated in the text.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Strong questions require inference based on the passage text rather than literal word-for-word recall.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Weak questions often require understanding the context of the story rather than just literal sentence meaning.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Strong questions require inferencing, understanding context, and analyzing character relationships.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Weak questions focus on simple identification of facts and confirmation of details.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Strong questions require logical inference based on the passage text, while Weak questions verify direct factual details.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Weak questions usually require external information or specific details not directly explicitly stated in a primary passage, unlike strong questions that test direct comprehension.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "When reading comprehension passages, look for specific article references (like 82A) and timelines (2034) to answer fact-based questions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Strong questions typically require precise knowledge of legislative bills and constitutional amendments.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Weak questions often require reading comprehension to identify the primary objective or specific provisions within a legislative bill.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Strong questions require logical inference based on the passage, rather than just simple fact retrieval.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Inference questions require understanding the underlying meaning rather than literal text.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Contextual meaning of phrases like 'push to' and words like 'rationale' depend on the thematic flow of the passage.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify specific data points mentioned in the text for reading comprehension.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Questions with an 'Answer not known' option test awareness of data limitations or ambiguous information scenarios.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Vocabulary questions like synonyms require context awareness as well as precise word meanings.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Comprehension questions require identifying the cause-effect relationship described in the text.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Vigorous",
+      "meaning_en": "Energetic and powerful",
+      "meaning_ta": "ஊக்கமுள்ள"
+    },
+    {
+      "term_en": "Rationale",
+      "meaning_en": "A set of reasons or a logical basis for a course of action.",
+      "meaning_ta": "அடிப்படை காரணம் / நியாயம்"
+    },
+    {
+      "term_en": "Push to",
+      "meaning_en": "To make effort to improve or promote progress.",
+      "meaning_ta": "முன்னேற்றுவதற்கான முயற்சி"
+    },
+    {
+      "term_en": "Uptick",
+      "meaning_en": "A small increase",
+      "meaning_ta": "சிறிய அதிகரிப்பு"
+    },
+    {
+      "term_en": "Propelled",
+      "meaning_en": "Driven or pushed forward",
+      "meaning_ta": "முன்னேற்றுதல்"
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Strong question examples: 'What is the author's implied message?', 'How does the word choice contribute to the tone?', 'What is the main idea?'",
+      "tag": "strategy"
+    },
+    {
+      "note_en": "Weak question examples: 'What is the main character's name?', 'What date did the event occur?'",
+      "tag": "strategy"
+    },
+    {
+      "note_en": "The passage details the life of Ajay Kumar Garg, an artist who lost his hearing as a child but overcame adversity to master Traditional Indian Miniature Painting.",
+      "tag": "passage_summary"
+    },
+    {
+      "note_en": "The page provides a set of questions (2-5) followed by their answers (C, C, B, C, B) and a secondary section titled 'Weak questions' for further practice.",
+      "tag": "strategy"
+    },
+    {
+      "note_en": "Example-4 provides a political/legal passage about the 2024 Constitutional Amendment Bill regarding simultaneous elections.",
+      "tag": "reading comprehension"
+    },
+    {
+      "note_en": "This example focuses on social justice and the impact of the pandemic on women's employment, leading to the Vidiyal Payanam Scheme.",
+      "tag": "reading_comprehension"
+    },
+    {
+      "note_en": "Synonyms are tested by identifying the option that retains the original word's meaning in a specific context.",
+      "tag": "vocabulary"
+    }
+  ],
+  "passages": [
+    {
+      "title": "Ilavazhagi's Background",
+      "text_en": "Ilavazhagi pursued her dreams despite facing various difficulties. Her father, a former carrom player whose own career was hindered by a lack of support, channeled his aspirations into his daughter by training her from a very early age."
+    },
+    {
+      "title": "Ilavazhagi's Background",
+      "text_en": "Ilavazhagi is a carrom champion who represents India in international competitions. Her father, a fish-cart driver, coached her from a young age despite the family's financial struggles and cramped living conditions."
+    },
+    {
+      "title": "Grandfather's Garden",
+      "text_en": "The narrator recalls watching a vine slowly reach toward their grandfather, who was a retired Indian Forest Service officer residing near Dehradun. The grandfather's garden thrived with various trees and plants, and he believed in maintaining a connection with nature to attract wildlife like butterflies, while his wife preferred cultivating flowers."
+    },
+    {
+      "title": "Ajay Kumar Garg",
+      "text_en": "Ajay Kumar Garg is a skilled artist from Jaipur who became hearing impaired after a childhood injury. Despite this, he discovered a talent for painting, eventually studying under Suo Lal and Asha Devi to become an expert in traditional Indian miniature art, even painting on grains of rice."
+    },
+    {
+      "title": "Constitutional Amendment Bill 2024",
+      "text_en": "The 129th Constitutional Amendment Bill proposes holding simultaneous elections for both the Lok Sabha and State Legislative Assemblies. It introduces Article 82(A) to align election schedules and term lengths, with specific changes taking effect after the 2029 general elections."
+    },
+    {
+      "title": "TN Morning Breakfast Scheme",
+      "text_en": "The Tamil Nadu government launched a major morning breakfast scheme to improve human resource capital. Research indicates that regular breakfast intake correlates with better academic grades, higher happiness indices, and improved school attendance."
+    },
+    {
+      "title": "Breakfast Scheme Context",
+      "text_en": "Tamil Nadu's Chief Minister views education as invaluable wealth that cannot be stolen. The government's breakfast scheme aims to provide equal opportunities for all children. By prioritizing education and nutrition, the state seeks to enhance human resource capital and boost economic prosperity."
+    },
+    {
+      "title": "Gender Justice and Public Transport",
+      "text_en": "For decades, Tamil Nadu has prioritized gender justice, leading to high female workforce participation. The COVID-19 pandemic worsened economic vulnerabilities for women, prompting the state to launch the Vidiyal Payanam Scheme in 2021, which provides free bus travel for female commuters."
+    },
+    {
+      "title": "State Planning Commission Study",
+      "text_en": "To assess how a government scheme affected female travelers, the State Planning Commission conducted a two-stage evaluation. This study targeted Chennai and three other urban centers, specifically Nagapattinam, Madurai, and Tiruppur, to analyze demographic and economic data of women commuters."
+    },
+    {
+      "title": "India's Q3 FY25 Economic Performance",
+      "text_en": "India's GDP grew by 6.2% in the December quarter of FY25, supported largely by the primary sector. Despite this, manufacturing and services sectors showed slower growth, and future targets remain challenging due to global trade uncertainties and potential US tariffs."
+    }
+  ],
+  "translations": [],
+  "pyq": [
+    {
+      "question_en": "What can be inferred about Mr. A. Irudayaraj’s commitment to carrom?",
+      "options_en": [
+        "He was only interested in playing carrom as a hobby.",
+        "He was determined to achieve his dream through his daughter after his own dreams were shattered.",
+        "He wanted to become a coach for others, not just for his daughter.",
+        "He didn't want to pursue carrom after facing discouragement.",
+        "Answer not known"
+      ],
+      "answer_en": "Answer not known",
+      "answer_letter": "E",
+      "has_marked_answer": false,
+      "passage_ref": "Ilavazhagi's Background"
+    },
+    {
+      "question_en": "Why did Ilavazhagi’s father carry her to tournaments when she was two years old?",
+      "options_en": [
+        "To show her the world outside their home.",
+        "To train her for other sports.",
+        "To introduce her to carrom at a very young age.",
+        "To spend time with her while he played.",
+        "Answer not known"
+      ],
+      "answer_en": "Answer not known",
+      "answer_letter": "E",
+      "has_marked_answer": false,
+      "passage_ref": "Ilavazhagi's Background"
+    },
+    {
+      "question_en": "What does it mention of about a small one-room apartment in Vyasarpadi Ilavazhagi's family situation?",
+      "options_en": [
+        "They are financially well-off but have little space.",
+        "They face financial difficulties and lack space.",
+        "They live in a large house with many rooms.",
+        "They enjoy a luxurious lifestyle.",
+        "Answer not known"
+      ],
+      "answer_en": "They face financial difficulties and lack space.",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Ilavazhagi's Background"
+    },
+    {
+      "question_en": "What can be inferred about the financial challenges Ilavazhagi and her family face?",
+      "options_en": [
+        "Financing her trips has always been a struggle, despite her long career.",
+        "They have sufficient funds to support her trips.",
+        "They receive sponsorship for her travels.",
+        "They don't face any financial issues.",
+        "Answer not known"
+      ],
+      "answer_en": "Financing her trips has always been a struggle, despite her long career.",
+      "answer_letter": "A",
+      "has_marked_answer": false,
+      "passage_ref": "Ilavazhagi's Background"
+    },
+    {
+      "question_en": "The small one-room apartment is not enough to accommodate the family? Find the synonym of accommodate",
+      "options_en": [
+        "Reject",
+        "Isolate",
+        "Limit",
+        "Contain",
+        "Answer not known"
+      ],
+      "answer_en": "Contain",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "He used to put his daughter on the carrom board, what does the phrasal verb 'put on' mean?",
+      "options_en": [
+        "To place something on top of",
+        "To make someone wear something",
+        "To place something onto a surface",
+        "To prepare someone for a task",
+        "Answer not known"
+      ],
+      "answer_en": "To place something onto a surface",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What does the phrasal verb 'follow me' Still she says 'Victories follow me' mean?",
+      "options_en": [
+        "To chase or pursue",
+        "To repeat something after",
+        "To succeed or come after",
+        "To imitate someone's actions",
+        "Answer not known"
+      ],
+      "answer_en": "To succeed or come after",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Was Mr. A. Irudayaraj's dream that was shattered?",
+      "options_en": [
+        "To become a carrom champion",
+        "To travel the world",
+        "To open a carrom club",
+        "To teach carrom to others",
+        "Answer not known"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Weak questions"
+    },
+    {
+      "question_en": "Ilavazhagi's father was involved in carrom, wasn't he?",
+      "options_en": [
+        "Yes, he played a little bit.",
+        "Yes, he was a district-level champion.",
+        "Maybe, the story doesn't really say.",
+        "No, he liked a different sport."
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Weak questions"
+    },
+    {
+      "question_en": "Did Ilavazhagi win some important carrom competitions?",
+      "options_en": [
+        "Perhaps a few small ones.",
+        "Yes, including the Asia Cup.",
+        "It's not really mentioned.",
+        "Only local tournaments."
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Weak questions"
+    },
+    {
+      "question_en": "Her family's home was quite spacious, wouldn't you say?",
+      "options_en": [
+        "Yes, they had a big house.",
+        "No, it was a small one-room apartment.",
+        "It was an average-sized home.",
+        "The story doesn't describe their home."
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Weak questions"
+    },
+    {
+      "question_en": "Traveling to play carrom was always easy for her, right?",
+      "options_en": [
+        "Yes, she had two wheeler.",
+        "No, it was often a big trouble.",
+        "It was sometimes easy, sometimes hard.",
+        "She didn't have to travel much."
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Weak questions"
+    },
+    {
+      "question_en": "Ilavazhagi is associated with a carrom organization, isn't she?",
+      "options_en": [
+        "Yes, a local club.",
+        "Yes, the Thiruvallur District Carrom Association.",
+        "Maybe, she played independently.",
+        "The story doesn't mention any organization."
+      ],
+      "answer_en": "Yes, the Thiruvallur District Carrom Association.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What can be inferred about Grandfather's attitude towards nature and trees?",
+      "options_en": [
+        "He disliked trees and wanted to remove them.",
+        "He had a deep appreciation for nature, particularly trees, which is why he planted so many.",
+        "He only cared about the aesthetic beauty of flowers.",
+        "He wasn't interested in the environment after retiring."
+      ],
+      "answer_en": "He had a deep appreciation for nature, particularly trees, which is why he planted so many.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What does the phrase 'knocking the bricks down' in the passage most likely mean?",
+      "options_en": [
+        "Gently pushing the bricks over",
+        "Making a noise with the bricks",
+        "Causing the bricks to fall down",
+        "Placing the bricks in another spot"
+      ],
+      "answer_en": "Causing the bricks to fall down",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What could the narrator's description of the garden turning into a 'happy place' when Grandfather joined reflect about their relationship?",
+      "options_en": [
+        "It suggests that Grandfather's presence brought warmth and joy to the narrator, making the environment more pleasant.",
+        "The garden was only peaceful when the plants were blooming.",
+        "The garden was only a source of happiness when there were no trees.",
+        "The narrator enjoyed being alone in the garden and did not need company."
+      ],
+      "answer_en": "It suggests that Grandfather's presence brought warmth and joy to the narrator, making the environment more pleasant.",
+      "answer_letter": "A",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What is the synonym of 'Vigorous'?",
+      "options_en": [
+        "Weak",
+        "Energetic",
+        "Quiet",
+        "Slow"
+      ],
+      "answer_en": "Energetic",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The phrase 'forced its way' is used to describe the peepul tree's growth. What does 'forced its way' mean?",
+      "options_en": [
+        "Gently moved aside",
+        "Struggled to pass through",
+        "Happened by chance",
+        "Slowly crept forward"
+      ],
+      "answer_en": "Struggled to pass through",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The narrator and Grandfather were sitting somewhere outside, weren't they?",
+      "options_en": [
+        "Yes, inside the house.",
+        "Yes, on the veranda steps.",
+        "Maybe, it doesn't really say",
+        "No, they were by a river."
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "The vine seemed to move towards Grandfather, didn't it?",
+      "options_en": [
+        "Yes, very quickly.",
+        "Yes, slowly towards his feet.",
+        "Maybe it moved the other way.",
+        "No, it didn't move at all."
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "Grandfather used to work with trees, right?",
+      "options_en": [
+        "Yes, in a factory.",
+        "Yes, in the Indian Forest Service.",
+        "Not really, he was a teacher.",
+        "The story doesn't mention his job."
+      ],
+      "answer_en": "Yes, in the Indian Forest Service.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Grandmother liked having lots of trees around the house, didn't she?",
+      "options_en": [
+        "Yes, she loved all kinds of trees.",
+        "No, she preferred growing flowers.",
+        "She didn't care much about plants.",
+        "The story doesn't say what she liked."
+      ],
+      "answer_en": "No, she preferred growing flowers.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Grandfather helped with the gardening because he liked flowers a lot, didn't he?",
+      "options_en": [
+        "Yes, flowers were his passion.",
+        "No, he liked watching butterflies.",
+        "He didn't help with the gardening.",
+        "He liked growing vegetables."
+      ],
+      "answer_en": "No, he liked watching butterflies.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is implied by the phrase 'the treatment left him permanently hearing impaired'?",
+      "options_en": [
+        "Ajay was completely cured after treatment.",
+        "The injury caused no long-term effects.",
+        "The treatment did not restore his hearing.",
+        "Ajay could hear but only faintly after the treatment.",
+        "Answer not known"
+      ],
+      "answer_en": "The treatment did not restore his hearing.",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Ajay Kumar Garg"
+    },
+    {
+      "question_en": "What can be inferred about Ajay's father's perspective on his son's talent?",
+      "options_en": [
+        "His father was indifferent to Ajay's interest in painting.",
+        "Ajay's father believed painting was a waste of time.",
+        "His father recognized Ajay's talent and encouraged it.",
+        "Ajay's father preferred his son to learn something more practical.",
+        "Answer not known"
+      ],
+      "answer_en": "C",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What does the phrase 'traditional Indian miniature painting' suggest about the art form?",
+      "options_en": [
+        "It is a contemporary and widely used technique.",
+        "It is an ancient and less common art form.",
+        "It is a form of painting mostly done on large canvases.",
+        "It is a popular technique in modern painting exhibitions.",
+        "Answer not known"
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Why did Ajay go back to painting after trying tailoring?",
+      "options_en": [
+        "He realized that tailoring was not a practical profession.",
+        "He became successful in tailoring and decided to continue it.",
+        "He was not happy with tailoring and returned to his passion for painting.",
+        "He was forced to quit tailoring by his parents.",
+        "Answer not known"
+      ],
+      "answer_en": "C",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What does the phrase 'Ajay is gifted in the practice of creating images on a grain of rice' imply about his skills?",
+      "options_en": [
+        "He is highly skilled in traditional Indian architecture.",
+        "He can create intricate and detailed artwork in a very small space.",
+        "He only works with large paintings.",
+        "He prefers to work with large objects rather than tiny ones.",
+        "Answer not known"
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Was Ajay's initial reaction when he received the paint set?",
+      "options_en": [
+        "He disliked it.",
+        "He used it to paint happily.",
+        "He gave it away.",
+        "He was confused about how to use it.",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Was the court artist of Dholpur who took Ajay under his guidance?",
+      "options_en": [
+        "Asha Devi",
+        "Shri Sua Lal",
+        "Ajay's father",
+        "A famous painter from Jaipur",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Did Ajay do after completing his education?",
+      "options_en": [
+        "He started working as a tailor.",
+        "He became a painter immediately.",
+        "He worked with Asha Devi to learn miniature painting.",
+        "He started teaching painting to others.",
+        "Answer not known"
+      ],
+      "answer_en": "He started working as a tailor.",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Does Ajay possess unique skill as an artist?",
+      "options_en": [
+        "Painting portraits",
+        "Using a magnifying glass and a single-haired brush for miniature paintings",
+        "Creating large murals",
+        "Working with oil paints",
+        "Answer not known"
+      ],
+      "answer_en": "Using a magnifying glass and a single-haired brush for miniature paintings",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What does the Peepul tree symbolize in the passage?",
+      "options_en": [
+        "A symbol of destruction and chaos.",
+        "A symbol of stubbornness and persistence.",
+        "A symbol of beauty and order.",
+        "A symbol of change and transformation.",
+        "Answer not known"
+      ],
+      "answer_en": "A symbol of stubbornness and persistence.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is the long-term aim of The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024?",
+      "options_en": [
+        "To allow mid-term elections for the Lok Sabha only",
+        "To ensure the synchronisation of elections for the Lok Sabha and State/Union Territory Legislative Assemblies",
+        "To extend the tenure of the Lok Sabha",
+        "To eliminate elections for Union Territories",
+        "Answer not known"
+      ],
+      "answer_en": "To ensure the synchronisation of elections for the Lok Sabha and State/Union Territory Legislative Assemblies",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "How will the Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, affect mid-term elections if the Lok Sabha or a State Assembly is dissolved early?",
+      "options_en": [
+        "The elections will be held at the normal scheduled time",
+        "Mid-term elections will only cover the remainder of the original tenure",
+        "The term of the Lok Sabha or State Assembly will be extended",
+        "There will be no elections until the next general election cycle",
+        "Answer not known"
+      ],
+      "answer_en": "Mid-term elections will only cover the remainder of the original tenure",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "When will the amendments proposed in the Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, take effect?",
+      "options_en": [
+        "Immediately after the passage of the Bill",
+        "In 2029",
+        "After the 2029 general elections",
+        "In 2024",
+        "Answer not known"
+      ],
+      "answer_en": "After the 2029 general elections",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What does the Union Territories Laws (Amendment) Bill, 2024 aim to achieve?",
+      "options_en": [
+        "To grant more autonomy to Union Territories",
+        "To align the tenure of Union Territories’ legislative Assemblies with the Lok Sabha and State Assemblies",
+        "To dissolve the legislative Assemblies of Union Territories",
+        "To set a fixed term for all Union Territories",
+        "Answer not known"
+      ],
+      "answer_en": "To align the tenure of Union Territories’ legislative Assemblies with the Lok Sabha and State Assemblies",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What specific article is proposed to be inserted through The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024?",
+      "options_en": [
+        "Article 82(A)",
+        "Article 83(A)",
+        "Article 85(B)",
+        "Article 85(A)",
+        "Answer not known"
+      ],
+      "answer_en": "Article 82(A)",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Does this Bill aim to synchronize elections for the Lok Sabha and State Assemblies?",
+      "options_en": [
+        "No, it deals with judicial appointments.",
+        "It primarily focuses on economic reforms.",
+        "It addresses changes in citizenship laws.",
+        "Yes, it proposes simultaneous elections."
+      ],
+      "answer_en": "Yes, it proposes simultaneous elections.",
+      "answer_letter": "D",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The Bill introduces Article 82(A). What is its main purpose?",
+      "options_en": [
+        "To define the powers of the President.",
+        "To synchronize elections for the Lok Sabha and State/UT Assemblies.",
+        "To outline the fundamental duties of citizens.",
+        "To establish guidelines for interstate commerce."
+      ],
+      "answer_en": "To synchronize elections for the Lok Sabha and State/UT Assemblies.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "According to the Bill, what happens if a State Assembly is dissolved before its full term?",
+      "options_en": [
+        "A full five-year election cycle begins immediately.",
+        "The state comes under President's rule indefinitely.",
+        "Mid-term elections will cover the remainder of the original tenure.",
+        "The elections are postponed until the next Lok Sabha election."
+      ],
+      "answer_en": "Mid-term elections will cover the remainder of the original tenure.",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following articles is not explicitly mentioned as being amended by the Bill?",
+      "options_en": [
+        "Article 83",
+        "Article 172",
+        "Article 79",
+        "Article 327"
+      ],
+      "answer_en": "Article 79",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What is the purpose of the Union Territories Laws (Amendment) Bill, 2024?",
+      "options_en": [
+        "To grant statehood to certain Union Territories.",
+        "To change the administrative structure of Union Territories.",
+        "To align the tenure of UT legislative Assemblies with the Lok Sabha and State Assemblies.",
+        "To dissolve the legislative Assemblies of all Union Territories."
+      ],
+      "answer_en": "To align the tenure of UT legislative Assemblies with the Lok Sabha and State Assemblies.",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Based on the studies mentioned, what can be inferred about the importance of breakfast for students?",
+      "options_en": [
+        "A) Breakfast is only necessary for physical growth",
+        "B) Regular breakfast consumption is associated with higher academic performance and happiness",
+        "C) Skipping breakfast leads to poor attendance in schools",
+        "D) Breakfast only impacts concentration, not academic grades",
+        "E) Answer not known"
+      ],
+      "answer_en": "B) Regular breakfast consumption is associated with higher academic performance and happiness",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Breakfast Scheme Context"
+    },
+    {
+      "question_en": "What can be inferred about the impact of the morning breakfast scheme on attendance in Tamil Nadu schools?",
+      "options_en": [
+        "A) The scheme has no impact on student attendance",
+        "B) The scheme caused a decrease in attendance in schools",
+        "C) The scheme significantly improved attendance, by at least 20% in 90% of schools",
+        "D) Attendance increased mainly in urban areas, not rural areas",
+        "E) Answer not known"
+      ],
+      "answer_en": "C) The scheme significantly improved attendance, by at least 20% in 90% of schools",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Breakfast Scheme Context"
+    },
+    {
+      "question_en": "What is the likely reason the Tamil Nadu government introduced the breakfast scheme based on the study findings?",
+      "options_en": [
+        "A) To improve the state's food supply",
+        "B) To address the widespread issue of children skipping breakfast, particularly in low-income families",
+        "C) To provide children with a free meal every day",
+        "D) To reduce the number of school dropouts",
+        "E) Answer not known"
+      ],
+      "answer_en": "B) To address the widespread issue of children skipping breakfast, particularly in low-income families",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Breakfast Scheme Context"
+    },
+    {
+      "question_en": "What can be inferred about the Tamil Nadu Chief Minister's breakfast scheme?",
+      "options_en": [
+        "A) The scheme is a temporary initiative to increase government popularity",
+        "B) It is part of a larger long-term plan to improve the state's human resource capital",
+        "C) It primarily focuses on providing food to children in rural areas",
+        "D) The scheme will only help children in government schools",
+        "E) Answer not known"
+      ],
+      "answer_en": "B) It is part of a larger long-term plan to improve the state's human resource capital",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Breakfast Scheme Context"
+    },
+    {
+      "question_en": "What can be inferred about the breakfast schemes in other countries like Canada and the UK?",
+      "options_en": [
+        "They are responding to similar issues of breakfast skipping and its effects on education",
+        "They aim to compete with Tamil Nadu's scheme",
+        "They are only focused on improving physical health of children",
+        "These countries are not yet implementing such schemes",
+        "Answer not known"
+      ],
+      "answer_en": "They are responding to similar issues of breakfast skipping and its effects on education",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Breakfast Scheme Context"
+    },
+    {
+      "question_en": "What does the phrase 'push to' mean in the context of the education sector?",
+      "options_en": [
+        "To resist or oppose",
+        "To make progress or improve",
+        "To delay or postpone",
+        "To ignore or neglect",
+        "Answer not known"
+      ],
+      "answer_en": "To make progress or improve",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Education Sector Context"
+    },
+    {
+      "question_en": "What is the synonym of the word 'rationale' as used in the passage?",
+      "options_en": [
+        "Reason",
+        "Result",
+        "Problem",
+        "Effect",
+        "Answer not known"
+      ],
+      "answer_en": "Reason",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Rationale Context"
+    },
+    {
+      "question_en": "What is the main focus of the Tamil Nadu Human Development Report (2017) mentioned in the passage?",
+      "options_en": [
+        "Poverty reduction",
+        "Gender justice",
+        "Environmental protection",
+        "Economic growth",
+        "Answer not known"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "State Planning Commission Study"
+    },
+    {
+      "question_en": "What was the impact of the COVID-19 pandemic on women, according to the passage?",
+      "options_en": [
+        "It led to more job opportunities for women",
+        "It disproportionately affected women, especially in the informal economy",
+        "It improved women's health and well-being",
+        "It had no impact on women",
+        "Answer not known"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "State Planning Commission Study"
+    },
+    {
+      "question_en": "What is the name of the scheme announced by the Tamil Nadu Government in May 2021?",
+      "options_en": [
+        "Vidiyal Payanam Scheme",
+        "Women Empowerment Scheme",
+        "State Travel Subsidy",
+        "Women's Health Initiative",
+        "Answer not known"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "State Planning Commission Study"
+    },
+    {
+      "question_en": "Which group of people benefits from the Vidiyal Payanam Scheme?",
+      "options_en": [
+        "Children",
+        "Senior citizens",
+        "Women commuters",
+        "Government employees",
+        "Answer not known"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "State Planning Commission Study"
+    },
+    {
+      "question_en": "What did the study conducted by the State Planning Commission cover?",
+      "options_en": [
+        "The economic growth of the state",
+        "The health conditions of women in Tamil Nadu",
+        "The age, social category, educational profile, income, and average savings of women commuters",
+        "The environmental impact of public transport",
+        "Answer not known"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "State Planning Commission Study"
+    },
+    {
+      "question_en": "What was the primary aim of the Vidiyal Payanam Scheme announced in May 2021?",
+      "options_en": [
+        "To improve women's health",
+        "To waive charges for women commuters in state-owned buses",
+        "To provide financial aid to women workers",
+        "To encourage women to use private transport"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "State Planning Commission Study"
+    },
+    {
+      "question_en": "Which of the following issues were compounded by the COVID-19 pandemic for women?",
+      "options_en": [
+        "Health problems",
+        "Economic instability, especially in the informal economy",
+        "Education gaps",
+        "Lack of access to technology",
+        "Answer not known"
+      ],
+      "answer_en": "Economic instability, especially in the informal economy",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "In which areas did the State Planning Commission study the impact of the Vidiyal Payanam Scheme?",
+      "options_en": [
+        "Chennai, Coimbatore, and Salem",
+        "Chennai, Nagapattinam, Madurai, and Tiruppur",
+        "Chennai, Madurai, and Tirunelveli",
+        "Madurai, Tiruppur, and Vellore",
+        "Answer not known"
+      ],
+      "answer_en": "Chennai, Nagapattinam, Madurai, and Tiruppur",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Which group is specifically mentioned as being affected by livelihood loss in the informal economy due to COVID-19?",
+      "options_en": [
+        "Men in rural areas",
+        "Women",
+        "Children from low-income families",
+        "Elderly people",
+        "Answer not known"
+      ],
+      "answer_en": "Women",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Which aspect of women commuters did the State Planning Commission study in its two-phase research?",
+      "options_en": [
+        "Their job opportunities in government sectors",
+        "The impact of COVID-19 on women's health",
+        "The age profile, social category, educational profile, income profile, and average savings of women commuters",
+        "The environmental impact of public transportation",
+        "Answer not known"
+      ],
+      "answer_en": "The age profile, social category, educational profile, income profile, and average savings of women commuters",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What was India's GDP growth rate in the December quarter of FY25 (Q3)?",
+      "options_en": [
+        "5.6%",
+        "6.2%",
+        "7.4%",
+        "5.4%"
+      ],
+      "answer_en": "6.2%",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "India's Q3 FY25 Economic Performance"
+    },
+    {
+      "question_en": "Which sector contributed the most to the GDP growth in Q3 FY25?",
+      "options_en": [
+        "Manufacturing",
+        "Services",
+        "Primary sector",
+        "Secondary sector",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is the government's full-year growth target for FY25?",
+      "options_en": [
+        "6.5%",
+        "7.6%",
+        "6.2%",
+        "5.6%",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is the RBI's inflation projection for FY25?",
+      "options_en": [
+        "4.2%",
+        "4.8%",
+        "5.6%",
+        "7.4%",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What did the National Statistical Office (NSO) mention regarding its methodology revision?",
+      "options_en": [
+        "The NSO clarified the exact impact of the revisions",
+        "The NSO didn't update its methodology",
+        "The NSO has tweaked its methodology without clearly explaining the influence on data quality",
+        "The NSO stopped collecting updated data",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is the primary reason the government's full-year growth target of 6.5% for FY25 is considered virtually unattainable?",
+      "options_en": [
+        "Slow growth in the primary sector",
+        "Global trade uncertainties and tariffs",
+        "Lack of government spending",
+        "Moderate inflation rates",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Which sector contributed the most to India's GDP growth in Q3 FY25?",
+      "options_en": [
+        "Secondary sector",
+        "Tertiary sector",
+        "Primary sector",
+        "Services sector",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is the projected inflation rate for FY25 according to the RBI?",
+      "options_en": [
+        "4.2%",
+        "4.8%",
+        "5.0%",
+        "5.7%"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Which global trade uncertainty is particularly affecting India's manufacturing and services sectors?",
+      "options_en": [
+        "U.S.'s proposed import tariff on steel and pharmaceuticals",
+        "EU's trade restrictions on pharmaceuticals",
+        "China's export bans on raw materials",
+        "Increased import duties from Australia",
+        "Answer not known"
+      ],
+      "answer_en": "null",
+      "answer_letter": "null",
+      "has_marked_answer": false,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Why is the revision in the National Statistical Office (NSO) methodology a concern?",
+      "options_en": [
+        "The revision has made the data collection process more transparent",
+        "It lacks a clear explanation of how the changes impact data quality and quantity",
+        "The methodology change was deemed irrelevant to the data analysis",
+        "It significantly improved the accuracy of inflation estimates",
+        "Answer not known"
+      ],
+      "answer_en": "(B) It lacks a clear explanation of how the changes impact data quality and quantity",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Which of the following is the closest synonym for uptick?",
+      "options_en": [
+        "Decline",
+        "Increase",
+        "Stabilization",
+        "Disruption",
+        "Answer not known"
+      ],
+      "answer_en": "(B) Increase",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "The phrase 'propelled a consumption spike' in the passage most closely means:",
+      "options_en": [
+        "Prevented a drop in consumption",
+        "Led to a sudden increase in consumption",
+        "Stopped the growth of consumption",
+        "Reduced consumption to a lower level",
+        "Answer not known"
+      ],
+      "answer_en": "(B) Led to a sudden increase in consumption",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    }
+  ],
+  "notes_en": "p15: This page introduces the distinction between 'Strong' and 'Weak' question types in reading comprehension. Strong questions test inferential skills and critical thinking, while Weak questions test retrieval of explicitly stated information.\np16: This page provides a reading comprehension exercise based on the life of carrom player Ilavazhagi, specifically focusing on 'Strong Questions' which require identifying inferences about the family's financial hardships and dedication.\np17: This page focuses on vocabulary synonyms and phrasal verb interpretation through MCQs. It also introduces 'Weak questions' based on the life story of carrom player Ilavazhagi, testing reading comprehension regarding her career and personal background.\np18: The page includes a sample reading comprehension passage about a grandfather's love for trees and gardening, alongside a single practice question regarding the athlete Ilavazhagi's professional affiliation.\np19: This page distinguishes between 'Strong Questions' which test comprehension and inference based on a passage, and 'Weak Questions' which test recall or direct confirmation of facts.\np20: This page focuses on reading comprehension and question types, including tag questions and inferential 'Strong' questions based on the provided biography of artist Ajay Kumar Garg.\np21: This page provides a series of practice questions focusing on comprehension and inference, labeled as 'Question Types', and introduces a section for 'Weak questions' for practice in assessing information not directly defined.\np22: This page provides practice questions related to a narrative (likely about an artist named Ajay) and introduces a new reading comprehension passage regarding the 2024 Constitutional Amendment for simultaneous elections.\np23: This page provides practice 'Strong' category questions focused on specific legislative details of the Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, and the Union Territories Laws (Amendment) Bill, 2024, including their objectives and procedural implications.\np24: This page focuses on 'Weak questions' related to legislative bills, specifically testing comprehension regarding election synchronization, constitutional amendments, and administrative procedures in Union Territories.\np25: This page provides a reading comprehension passage detailing the rationale and positive outcomes of the Tamil Nadu government's morning breakfast scheme, supported by various international and local research studies.\np26: This page focuses on 'Strong questions' for the TNPSC General English exam. These questions test the ability to make logical inferences based on provided text about Tamil Nadu's breakfast scheme and its positive impact on education and human resource development.\np27: This page provides reading comprehension practice focused on vocabulary, contextual inference, and summarizing social policy passages relevant to TNPSC exam patterns.\np28: This page provides a reading comprehension passage followed by six practice MCQs focused on the Tamil Nadu Government's 'Vidiyal Payanam' scheme and the associated State Planning Commission study.\np29: This page provides practice multiple-choice questions focusing on socio-economic research findings by the State Planning Commission, specifically regarding the impact of COVID-19 on women and the assessment of the Vidiyal Payanam Scheme in Tamil Nadu.\np30: This page provides a reading comprehension exercise centered on an economic passage regarding India's GDP growth in FY25, evaluating data analysis skills.\np31: This page provides a set of multiple-choice questions focusing on current economic indicators, GDP growth contributors, government targets, RBI inflation projections, and global trade impacts on India's sectors for FY25.\np32: This page focuses on General English reading comprehension and vocabulary, featuring practice questions regarding NSO methodology concerns and synonym identification.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

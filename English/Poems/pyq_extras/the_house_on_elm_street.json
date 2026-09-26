@@ -1,0 +1,42 @@
+{
+  "poem_id": "the_house_on_elm_street",
+  "count": 2,
+  "questions": [
+    {
+      "poem_title": "The House on Elm Street",
+      "poem_id": "the_house_on_elm_street",
+      "question_en": "25. Choose the right option : \"Beside the house sits a tree It never grows leaves\"..... These lines appear in the poem _________",
+      "options_en": [
+        "No Men are Foreign",
+        "A Poison Tree",
+        "The House on Elm Street",
+        "On Killing a Tree"
+      ],
+      "answer_en": "C The House on Elm Street",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "The House on Elm Street",
+      "poem_id": "the_house_on_elm_street",
+      "question_en": "26. I drive past the house almost every day. The house seems to be a bit brighter. Who does 'I' refer to?",
+      "options_en": [
+        "The House",
+        "The Tree",
+        "The Poet",
+        "The Ghost"
+      ],
+      "answer_en": "C The Poet",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    }
+  ]
+}

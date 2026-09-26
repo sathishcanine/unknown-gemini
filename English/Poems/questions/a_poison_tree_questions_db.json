@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of 'A Poison Tree'?",
+    "question_ta": "Who is the author of 'A Poison Tree'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "George Krokos",
+        "text_ta": "George Krokos"
+      },
+      {
+        "key": "B",
+        "text_en": "William Blake",
+        "text_ta": "William Blake"
+      },
+      {
+        "key": "C",
+        "text_en": "Sarojini Naidu",
+        "text_ta": "Sarojini Naidu"
+      },
+      {
+        "key": "D",
+        "text_en": "Gieve Patel",
+        "text_ta": "Gieve Patel"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem 'A Poison Tree' was written by William Blake (1757–1827).",
+    "explanation_ta": "The poem 'A Poison Tree' was written by William Blake (1757–1827).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What happened when the speaker was angry with their friend?",
+    "question_ta": "What happened when the speaker was angry with their friend?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It bore an apple bright",
+        "text_ta": "It bore an apple bright"
+      },
+      {
+        "key": "B",
+        "text_en": "The wrath did end",
+        "text_ta": "The wrath did end"
+      },
+      {
+        "key": "C",
+        "text_en": "The friend stole into the garden",
+        "text_ta": "The friend stole into the garden"
+      },
+      {
+        "key": "D",
+        "text_en": "The wrath did grow",
+        "text_ta": "The wrath did grow"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When the speaker told their friend about their wrath, the wrath ended.",
+    "explanation_ta": "When the speaker told their friend about their wrath, the wrath ended.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What happened when the speaker kept their anger toward their foe a secret?",
+    "question_ta": "What happened when the speaker kept their anger toward their foe a secret?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It disappeared overnight",
+        "text_ta": "It disappeared overnight"
+      },
+      {
+        "key": "B",
+        "text_en": "The wrath did grow",
+        "text_ta": "The wrath did grow"
+      },
+      {
+        "key": "C",
+        "text_en": "It turned into a friend",
+        "text_ta": "It turned into a friend"
+      },
+      {
+        "key": "D",
+        "text_en": "The wrath did end",
+        "text_ta": "The wrath did end"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The speaker states: 'I was angry with my foe: I told it not, my wrath did grow.'",
+    "explanation_ta": "The speaker states: 'I was angry with my foe: I told it not, my wrath did grow.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did the speaker water their growing tree of anger?",
+    "question_ta": "How did the speaker water their growing tree of anger?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "With soft deceitful words",
+        "text_ta": "With soft deceitful words"
+      },
+      {
+        "key": "B",
+        "text_en": "With smiles and wiles",
+        "text_ta": "With smiles and wiles"
+      },
+      {
+        "key": "C",
+        "text_en": "With water and sunlight",
+        "text_ta": "With water and sunlight"
+      },
+      {
+        "key": "D",
+        "text_en": "With fears and tears",
+        "text_ta": "With fears and tears"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The speaker watered it 'in fears, Night and morning with my tears'.",
+    "explanation_ta": "The speaker watered it 'in fears, Night and morning with my tears'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the speaker use to sun the growing tree?",
+    "question_ta": "What did the speaker use to sun the growing tree?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fears and tears",
+        "text_ta": "Fears and tears"
+      },
+      {
+        "key": "B",
+        "text_en": "Bright golden sunlight",
+        "text_ta": "Bright golden sunlight"
+      },
+      {
+        "key": "C",
+        "text_en": "An apple bright",
+        "text_ta": "An apple bright"
+      },
+      {
+        "key": "D",
+        "text_en": "Smiles and soft deceitful wiles",
+        "text_ta": "Smiles and soft deceitful wiles"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The speaker sunned the tree 'with smiles, And with soft deceitful wiles.'",
+    "explanation_ta": "The speaker sunned the tree 'with smiles, And with soft deceitful wiles.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What grew both day and night until it produced fruit?",
+    "question_ta": "What grew both day and night until it produced fruit?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anger",
+        "text_ta": "Anger"
+      },
+      {
+        "key": "B",
+        "text_en": "A friend",
+        "text_ta": "A friend"
+      },
+      {
+        "key": "C",
+        "text_en": "An apple",
+        "text_ta": "An apple"
+      },
+      {
+        "key": "D",
+        "text_en": "The garden",
+        "text_ta": "The garden"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The metaphoric tree of wrath grew both day and night until it bore an apple bright.",
+    "explanation_ta": "The metaphoric tree of wrath grew both day and night until it bore an apple bright.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "P4"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the tree eventually bear?",
+    "question_ta": "What did the tree eventually bear?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A poisoned flower",
+        "text_ta": "A poisoned flower"
+      },
+      {
+        "key": "B",
+        "text_en": "Sweet berries",
+        "text_ta": "Sweet berries"
+      },
+      {
+        "key": "C",
+        "text_en": "An apple bright",
+        "text_ta": "An apple bright"
+      },
+      {
+        "key": "D",
+        "text_en": "Golden leaves",
+        "text_ta": "Golden leaves"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem states: 'Till it bore an apple bright.'",
+    "explanation_ta": "The poem states: 'Till it bore an apple bright.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who beheld the apple shine and knew it belonged to the speaker?",
+    "question_ta": "Who beheld the apple shine and knew it belonged to the speaker?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The poet",
+        "text_ta": "The poet"
+      },
+      {
+        "key": "B",
+        "text_en": "The friend",
+        "text_ta": "The friend"
+      },
+      {
+        "key": "C",
+        "text_en": "A stranger",
+        "text_ta": "A stranger"
+      },
+      {
+        "key": "D",
+        "text_en": "The foe",
+        "text_ta": "The foe"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem notes: 'And my foe beheld it shine, And he knew that it was mine.'",
+    "explanation_ta": "The poem notes: 'And my foe beheld it shine, And he knew that it was mine.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When did the foe steal into the speaker's garden?",
+    "question_ta": "When did the foe steal into the speaker's garden?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "At the break of dawn",
+        "text_ta": "At the break of dawn"
+      },
+      {
+        "key": "B",
+        "text_en": "When the sun was shining",
+        "text_ta": "When the sun was shining"
+      },
+      {
+        "key": "C",
+        "text_en": "When the night had veiled the pole",
+        "text_ta": "When the night had veiled the pole"
+      },
+      {
+        "key": "D",
+        "text_en": "In the bright morning",
+        "text_ta": "In the bright morning"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The foe stole into the garden 'When the night had veiled the pole'.",
+    "explanation_ta": "The foe stole into the garden 'When the night had veiled the pole'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did the poet feel in the morning upon seeing the foe?",
+    "question_ta": "How did the poet feel in the morning upon seeing the foe?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Remorseful",
+        "text_ta": "Remorseful"
+      },
+      {
+        "key": "B",
+        "text_en": "Angry",
+        "text_ta": "Angry"
+      },
+      {
+        "key": "C",
+        "text_en": "Glad",
+        "text_ta": "Glad"
+      },
+      {
+        "key": "D",
+        "text_en": "Sad",
+        "text_ta": "Sad"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem states: 'In the morning glad I see, My foe outstretched beneath the tree.'",
+    "explanation_ta": "The poem states: 'In the morning glad I see, My foe outstretched beneath the tree.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "P5"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where was the foe found outstretched in the morning?",
+    "question_ta": "Where was the foe found outstretched in the morning?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Beneath the tree",
+        "text_ta": "Beneath the tree"
+      },
+      {
+        "key": "B",
+        "text_en": "Inside the house",
+        "text_ta": "Inside the house"
+      },
+      {
+        "key": "C",
+        "text_en": "By the river",
+        "text_ta": "By the river"
+      },
+      {
+        "key": "D",
+        "text_en": "At the front gate",
+        "text_ta": "At the front gate"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The foe was found outstretched beneath the tree.",
+    "explanation_ta": "The foe was found outstretched beneath the tree.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "Poem text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the rhyme scheme of the poem?",
+    "question_ta": "What is the rhyme scheme of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "AABB",
+        "text_ta": "AABB"
+      },
+      {
+        "key": "B",
+        "text_en": "ABAB",
+        "text_ta": "ABAB"
+      },
+      {
+        "key": "C",
+        "text_en": "ABCB",
+        "text_ta": "ABCB"
+      },
+      {
+        "key": "D",
+        "text_en": "ABBA",
+        "text_ta": "ABBA"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The rhyme scheme of the poem consists of rhyming couplets (AABB).",
+    "explanation_ta": "The rhyme scheme of the poem consists of rhyming couplets (AABB).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'wrath' mean in the context of the poem?",
+    "question_ta": "What does the word 'wrath' mean in the context of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sorrow",
+        "text_ta": "Sorrow"
+      },
+      {
+        "key": "B",
+        "text_en": "Fear",
+        "text_ta": "Fear"
+      },
+      {
+        "key": "C",
+        "text_en": "Anger",
+        "text_ta": "Anger"
+      },
+      {
+        "key": "D",
+        "text_en": "Joy",
+        "text_ta": "Joy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to the glossary, 'wrath' means anger.",
+    "explanation_ta": "According to the glossary, 'wrath' means anger.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'foe'?",
+    "question_ta": "What is the meaning of the word 'foe'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Friend",
+        "text_ta": "Friend"
+      },
+      {
+        "key": "B",
+        "text_en": "Stranger",
+        "text_ta": "Stranger"
+      },
+      {
+        "key": "C",
+        "text_en": "Enemy",
+        "text_ta": "Enemy"
+      },
+      {
+        "key": "D",
+        "text_en": "Neighbor",
+        "text_ta": "Neighbor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to the glossary, 'foe' means enemy.",
+    "explanation_ta": "According to the glossary, 'foe' means enemy.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'deceitful' mean according to the glossary?",
+    "question_ta": "What does 'deceitful' mean according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Honest, truthful",
+        "text_ta": "Honest, truthful"
+      },
+      {
+        "key": "B",
+        "text_en": "Soft, gentle",
+        "text_ta": "Soft, gentle"
+      },
+      {
+        "key": "C",
+        "text_en": "Bright, shining",
+        "text_ta": "Bright, shining"
+      },
+      {
+        "key": "D",
+        "text_en": "Cunning, treacherous",
+        "text_ta": "Cunning, treacherous"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The glossary defines 'deceitful' as cunning, treacherous.",
+    "explanation_ta": "The glossary defines 'deceitful' as cunning, treacherous.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'wiles'?",
+    "question_ta": "What is the meaning of the word 'wiles'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fears",
+        "text_ta": "Fears"
+      },
+      {
+        "key": "B",
+        "text_en": "Smiles",
+        "text_ta": "Smiles"
+      },
+      {
+        "key": "C",
+        "text_en": "Tricks",
+        "text_ta": "Tricks"
+      },
+      {
+        "key": "D",
+        "text_en": "Tears",
+        "text_ta": "Tears"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to the glossary, 'wiles' means tricks.",
+    "explanation_ta": "According to the glossary, 'wiles' means tricks.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'veiled' mean in the poem?",
+    "question_ta": "What does the word 'veiled' mean in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Opened",
+        "text_ta": "Opened"
+      },
+      {
+        "key": "B",
+        "text_en": "Shined",
+        "text_ta": "Shined"
+      },
+      {
+        "key": "C",
+        "text_en": "Brightened",
+        "text_ta": "Brightened"
+      },
+      {
+        "key": "D",
+        "text_en": "Covered",
+        "text_ta": "Covered"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the glossary, 'veiled' means covered.",
+    "explanation_ta": "According to the glossary, 'veiled' means covered.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the summary: He _________ his foe with false smiles and cunning tricks.",
+    "question_ta": "Complete the summary: He _________ his foe with false smiles and cunning tricks.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "watered",
+        "text_ta": "watered"
+      },
+      {
+        "key": "B",
+        "text_en": "sunned",
+        "text_ta": "sunned"
+      },
+      {
+        "key": "C",
+        "text_en": "told",
+        "text_ta": "told"
+      },
+      {
+        "key": "D",
+        "text_en": "fears",
+        "text_ta": "fears"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Textbook worked exercise states: He sunned his foe with false smiles and cunning tricks.",
+    "explanation_ta": "Textbook worked exercise states: He sunned his foe with false smiles and cunning tricks.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whom does ‘I’ refer to in the opening line of the poem?",
+    "question_ta": "Whom does ‘I’ refer to in the opening line of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The friend",
+        "text_ta": "The friend"
+      },
+      {
+        "key": "B",
+        "text_en": "The tree",
+        "text_ta": "The tree"
+      },
+      {
+        "key": "C",
+        "text_en": "The foe",
+        "text_ta": "The foe"
+      },
+      {
+        "key": "D",
+        "text_en": "The poet",
+        "text_ta": "The poet"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "In the poem, 'I' refers to the speaker or the poet.",
+    "explanation_ta": "In the poem, 'I' refers to the speaker or the poet.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is present in the line 'And I sunned it with smiles'?",
+    "question_ta": "What figure of speech is present in the line 'And I sunned it with smiles'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "C",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The line features alliteration as the sound /s/ is repeated in 'sunned' and 'smiles'.",
+    "explanation_ta": "The line features alliteration as the sound /s/ is repeated in 'sunned' and 'smiles'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "F1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What figure of speech is used in the main concept of the poem comparing anger to a growing plant?",
+    "question_ta": "What figure of speech is used in the main concept of the poem comparing anger to a growing plant?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "B",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "C",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Anger is compared directly to a growing tree, which is a metaphor.",
+    "explanation_ta": "Anger is compared directly to a growing tree, which is a metaphor.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "F2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the central theme or message conveyed in the poem?",
+    "question_ta": "What is the central theme or message conveyed in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Gardening brings peace of mind",
+        "text_ta": "Gardening brings peace of mind"
+      },
+      {
+        "key": "B",
+        "text_en": "Suppressed anger grows and becomes a destructive force",
+        "text_ta": "Suppressed anger grows and becomes a destructive force"
+      },
+      {
+        "key": "C",
+        "text_en": "Enemies can always be converted into friends",
+        "text_ta": "Enemies can always be converted into friends"
+      },
+      {
+        "key": "D",
+        "text_en": "Expressing anger destroys friendships",
+        "text_ta": "Expressing anger destroys friendships"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem illustrates how suppressed anger grows and turns into a deadly force, whereas expressed anger dissipates.",
+    "explanation_ta": "The poem illustrates how suppressed anger grows and turns into a deadly force, whereas expressed anger dissipates.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does expressed anger differ from suppressed anger according to the poem?",
+    "question_ta": "How does expressed anger differ from suppressed anger according to the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Neither type of anger affects the speaker",
+        "text_ta": "Neither type of anger affects the speaker"
+      },
+      {
+        "key": "B",
+        "text_en": "Both types of anger grow equally",
+        "text_ta": "Both types of anger grow equally"
+      },
+      {
+        "key": "C",
+        "text_en": "Expressed anger ends, while suppressed anger grows",
+        "text_ta": "Expressed anger ends, while suppressed anger grows"
+      },
+      {
+        "key": "D",
+        "text_en": "Expressed anger grows, while suppressed anger ends",
+        "text_ta": "Expressed anger grows, while suppressed anger ends"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When the speaker told their friend, the wrath ended; when they did not tell their foe, the wrath grew.",
+    "explanation_ta": "When the speaker told their friend, the wrath ended; when they did not tell their foe, the wrath grew.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What happens when the speaker nourishes their hatred toward their enemy?",
+    "question_ta": "What happens when the speaker nourishes their hatred toward their enemy?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It turns into a beautiful flower garden",
+        "text_ta": "It turns into a beautiful flower garden"
+      },
+      {
+        "key": "B",
+        "text_en": "It manifests as a poisonous tree with a deceptive fruit",
+        "text_ta": "It manifests as a poisonous tree with a deceptive fruit"
+      },
+      {
+        "key": "C",
+        "text_en": "It brings joy to both parties",
+        "text_ta": "It brings joy to both parties"
+      },
+      {
+        "key": "D",
+        "text_en": "It makes the enemy apologize",
+        "text_ta": "It makes the enemy apologize"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The speaker nourishes their wrath until it manifests as a poisonous tree with an apple bright.",
+    "explanation_ta": "The speaker nourishes their wrath until it manifests as a poisonous tree with an apple bright.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "SUMMARY"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "A Poison Tree",
+    "topic": "A Poison Tree",
+    "topic_id": "a_poison_tree",
+    "topic_ta": "A Poison Tree",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the ultimate outcome of the hatred depicted in the poem?",
+    "question_ta": "What is the ultimate outcome of the hatred depicted in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The physical downfall of the enemy",
+        "text_ta": "The physical downfall of the enemy"
+      },
+      {
+        "key": "B",
+        "text_en": "A peaceful resolution between friends",
+        "text_ta": "A peaceful resolution between friends"
+      },
+      {
+        "key": "C",
+        "text_en": "The destruction of the speaker's garden",
+        "text_ta": "The destruction of the speaker's garden"
+      },
+      {
+        "key": "D",
+        "text_en": "The forgiveness of the enemy",
+        "text_ta": "The forgiveness of the enemy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ultimately, this hatred leads to the physical downfall (death) of the enemy beneath the tree.",
+    "explanation_ta": "Ultimately, this hatred leads to the physical downfall (death) of the enemy beneath the tree.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_poison_tree",
+    "source_note": "SUMMARY"
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of 'The Adventures of Tom Sawyer'?",
+    "question_ta": "Who is the author of 'The Adventures of Tom Sawyer'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oscar Wilde",
+        "text_ta": "Oscar Wilde"
+      },
+      {
+        "key": "B",
+        "text_en": "Mark Twain",
+        "text_ta": "Mark Twain"
+      },
+      {
+        "key": "C",
+        "text_en": "R. K. Narayan",
+        "text_ta": "R. K. Narayan"
+      },
+      {
+        "key": "D",
+        "text_en": "Charles Dickens",
+        "text_ta": "Charles Dickens"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The novel 'The Adventures of Tom Sawyer' was written by Mark Twain (Samuel Langhorne Clemens).",
+    "explanation_ta": "The novel 'The Adventures of Tom Sawyer' was written by Mark Twain (Samuel Langhorne Clemens).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Rule R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the primary reason for Tom Sawyer's deep depression at the beginning of the story?",
+    "question_ta": "What was the primary reason for Tom Sawyer's deep depression at the beginning of the story?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "His friend Becky Thatcher stopped attending school",
+        "text_ta": "His friend Becky Thatcher stopped attending school"
+      },
+      {
+        "key": "B",
+        "text_en": "He was forced to paint the fence on a holiday",
+        "text_ta": "He was forced to paint the fence on a holiday"
+      },
+      {
+        "key": "C",
+        "text_en": "Aunt Polly confiscated his marbles",
+        "text_ta": "Aunt Polly confiscated his marbles"
+      },
+      {
+        "key": "D",
+        "text_en": "He failed his grammar examination",
+        "text_ta": "He failed his grammar examination"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tom became depressed because Becky Thatcher stopped coming to school, triggering his emotional distress.",
+    "explanation_ta": "Tom became depressed because Becky Thatcher stopped coming to school, triggering his emotional distress.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary / W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How is Aunt Polly characterized regarding her medical practices?",
+    "question_ta": "How is Aunt Polly characterized regarding her medical practices?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A strict opponent of all modern drugs",
+        "text_ta": "A strict opponent of all modern drugs"
+      },
+      {
+        "key": "B",
+        "text_en": "An incurable experimenter of patent medicines",
+        "text_ta": "An incurable experimenter of patent medicines"
+      },
+      {
+        "key": "C",
+        "text_en": "A careless guardian who ignored health",
+        "text_ta": "A careless guardian who ignored health"
+      },
+      {
+        "key": "D",
+        "text_en": "A professionally trained surgeon",
+        "text_ta": "A professionally trained surgeon"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aunt Polly is described as an 'incurable experimenter' who loved trying out new patent medicines and health treatments on Tom.",
+    "explanation_ta": "Aunt Polly is described as an 'incurable experimenter' who loved trying out new patent medicines and health treatments on Tom.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary / W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did Tom actually do with the pain-killer medicine given to him by his aunt?",
+    "question_ta": "What did Tom actually do with the pain-killer medicine given to him by his aunt?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He poured it into a crack on the floor",
+        "text_ta": "He poured it into a crack on the floor"
+      },
+      {
+        "key": "B",
+        "text_en": "He gave it entirely to Becky Thatcher",
+        "text_ta": "He gave it entirely to Becky Thatcher"
+      },
+      {
+        "key": "C",
+        "text_en": "He drank it all at once to please her",
+        "text_ta": "He drank it all at once to please her"
+      },
+      {
+        "key": "D",
+        "text_en": "He threw the bottle out of the window",
+        "text_ta": "He threw the bottle out of the window"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "To escape the harsh treatments, Tom pretended to like the pain-killer but instead used it to mend a crack in the sitting room floor.",
+    "explanation_ta": "To escape the harsh treatments, Tom pretended to like the pain-killer but instead used it to mend a crack in the sitting room floor.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary / W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who was Peter in relation to the household?",
+    "question_ta": "Who was Peter in relation to the household?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Aunt Polly's cat",
+        "text_ta": "Aunt Polly's cat"
+      },
+      {
+        "key": "B",
+        "text_en": "Tom's school classmate",
+        "text_ta": "Tom's school classmate"
+      },
+      {
+        "key": "C",
+        "text_en": "The family watchdog",
+        "text_ta": "The family watchdog"
+      },
+      {
+        "key": "D",
+        "text_en": "The neighborhood doctor",
+        "text_ta": "The neighborhood doctor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Peter is Aunt Polly's cat who eagerly begs for a taste of the medicine from Tom's teaspoon.",
+    "explanation_ta": "Peter is Aunt Polly's cat who eagerly begs for a taste of the medicine from Tom's teaspoon.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Characters C3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Peter's immediate reaction after consuming a teaspoon of the pain-killer?",
+    "question_ta": "What was Peter's immediate reaction after consuming a teaspoon of the pain-killer?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He sprang in the air and danced in a frenzy of excitement",
+        "text_ta": "He sprang in the air and danced in a frenzy of excitement"
+      },
+      {
+        "key": "B",
+        "text_en": "He ran out of the house and never returned",
+        "text_ta": "He ran out of the house and never returned"
+      },
+      {
+        "key": "C",
+        "text_en": "He fell into a deep and peaceful sleep",
+        "text_ta": "He fell into a deep and peaceful sleep"
+      },
+      {
+        "key": "D",
+        "text_en": "He calmly cleaned his paws and ignored everyone",
+        "text_ta": "He calmly cleaned his paws and ignored everyone"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "After tasting the pain-killer, the cat sprang a couple of yards in the air and whirled around in a chaotic frenzy.",
+    "explanation_ta": "After tasting the pain-killer, the cat sprang a couple of yards in the air and whirled around in a chaotic frenzy.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "PYQ P4, P6"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What realization did Aunt Polly come to after witnessing the cat's reaction to the medicine?",
+    "question_ta": "What realization did Aunt Polly come to after witnessing the cat's reaction to the medicine?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The cat needed a stronger dose of medicine",
+        "text_ta": "The cat needed a stronger dose of medicine"
+      },
+      {
+        "key": "B",
+        "text_en": "What was cruelty to a cat must be cruelty to a boy too",
+        "text_ta": "What was cruelty to a cat must be cruelty to a boy too"
+      },
+      {
+        "key": "C",
+        "text_en": "Tom should take a double dose of the remedy",
+        "text_ta": "Tom should take a double dose of the remedy"
+      },
+      {
+        "key": "D",
+        "text_en": "Patent medicines are extremely beneficial for pets",
+        "text_ta": "Patent medicines are extremely beneficial for pets"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Witnessing Peter's chaotic behavior made Aunt Polly realize how harsh the medicine was, leading her to stop dosing Tom.",
+    "explanation_ta": "Witnessing Peter's chaotic behavior made Aunt Polly realize how harsh the medicine was, leading her to stop dosing Tom.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary / Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the glossary word 'quack'?",
+    "question_ta": "What is the meaning of the glossary word 'quack'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A loud noise made by a duck",
+        "text_ta": "A loud noise made by a duck"
+      },
+      {
+        "key": "B",
+        "text_en": "A harmless domestic animal",
+        "text_ta": "A harmless domestic animal"
+      },
+      {
+        "key": "C",
+        "text_en": "A certified and experienced physician",
+        "text_ta": "A certified and experienced physician"
+      },
+      {
+        "key": "D",
+        "text_en": "A fraudulent or ignorant pretender to medical skill",
+        "text_ta": "A fraudulent or ignorant pretender to medical skill"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G3 defines 'quack' as a fraudulent or ignorant pretender to medical skill.",
+    "explanation_ta": "Glossary G3 defines 'quack' as a fraudulent or ignorant pretender to medical skill.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Glossary G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'petrified' mean in literary context?",
+    "question_ta": "What does the word 'petrified' mean in literary context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Deeply relaxed and calm",
+        "text_ta": "Deeply relaxed and calm"
+      },
+      {
+        "key": "B",
+        "text_en": "Turned completely into solid stone",
+        "text_ta": "Turned completely into solid stone"
+      },
+      {
+        "key": "C",
+        "text_en": "Extremely frightened",
+        "text_ta": "Extremely frightened"
+      },
+      {
+        "key": "D",
+        "text_en": "Filled with intense joy",
+        "text_ta": "Filled with intense joy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G4 defines 'petrified' as being extremely frightened.",
+    "explanation_ta": "Glossary G4 defines 'petrified' as being extremely frightened.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Glossary G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the geographical setting of the novel featuring Tom Sawyer.",
+    "question_ta": "Identify the geographical setting of the novel featuring Tom Sawyer.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A bustling industrial city in New York",
+        "text_ta": "A bustling industrial city in New York"
+      },
+      {
+        "key": "B",
+        "text_en": "A quiet village in the English countryside",
+        "text_ta": "A quiet village in the English countryside"
+      },
+      {
+        "key": "C",
+        "text_en": "St. Petersburg along the Mississippi River",
+        "text_ta": "St. Petersburg along the Mississippi River"
+      },
+      {
+        "key": "D",
+        "text_en": "A coastal town in colonial Virginia",
+        "text_ta": "A coastal town in colonial Virginia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R2 establishes that the setting for the novel is St. Petersburg along the Mississippi River.",
+    "explanation_ta": "Rule R2 establishes that the setting for the novel is St. Petersburg along the Mississippi River.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Rule R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What excuse or justification did Tom give for offering the pain-killer to Peter the cat?",
+    "question_ta": "What excuse or justification did Tom give for offering the pain-killer to Peter the cat?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He wanted to cure the cat's persistent cough",
+        "text_ta": "He wanted to cure the cat's persistent cough"
+      },
+      {
+        "key": "B",
+        "text_en": "The cat begged for it as a daily nutritional supplement",
+        "text_ta": "The cat begged for it as a daily nutritional supplement"
+      },
+      {
+        "key": "C",
+        "text_en": "He claimed it was out of pity because the cat had no aunt to dose him",
+        "text_ta": "He claimed it was out of pity because the cat had no aunt to dose him"
+      },
+      {
+        "key": "D",
+        "text_en": "Aunt Polly explicitly ordered him to test it on the pet",
+        "text_ta": "Aunt Polly explicitly ordered him to test it on the pet"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R4 highlights Tom's humorous justification that he gave the cat medicine out of pity since it lacked an aunt.",
+    "explanation_ta": "Rule R4 highlights Tom's humorous justification that he gave the cat medicine out of pity since it lacked an aunt.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Rule R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the glossary word 'infatuated'?",
+    "question_ta": "What is the meaning of the glossary word 'infatuated'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Filled with deep hatred and resentment",
+        "text_ta": "Filled with deep hatred and resentment"
+      },
+      {
+        "key": "B",
+        "text_en": "Inspired with an intense but short-lived passion or admiration",
+        "text_ta": "Inspired with an intense but short-lived passion or admiration"
+      },
+      {
+        "key": "C",
+        "text_en": "Possessing vast scholarly knowledge",
+        "text_ta": "Possessing vast scholarly knowledge"
+      },
+      {
+        "key": "D",
+        "text_en": "Suffering from a long-term chronic illness",
+        "text_ta": "Suffering from a long-term chronic illness"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary G1 defines 'infatuated' as being inspired with an intense but short-lived passion or admiration.",
+    "explanation_ta": "Glossary G1 defines 'infatuated' as being inspired with an intense but short-lived passion or admiration.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Glossary G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'plunges' mean?",
+    "question_ta": "What does the glossary term 'plunges' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Slowly floating on the surface of calm water",
+        "text_ta": "Slowly floating on the surface of calm water"
+      },
+      {
+        "key": "B",
+        "text_en": "Act of casting or thrusting forcibly or suddenly into something liquid",
+        "text_ta": "Act of casting or thrusting forcibly or suddenly into something liquid"
+      },
+      {
+        "key": "C",
+        "text_en": "Climbing up a steep mountain slope with ropes",
+        "text_ta": "Climbing up a steep mountain slope with ropes"
+      },
+      {
+        "key": "D",
+        "text_en": "Carefully measuring the depth of a well",
+        "text_ta": "Carefully measuring the depth of a well"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary G2 defines 'plunges' as the act of casting or thrusting forcibly or suddenly into something liquid.",
+    "explanation_ta": "Glossary G2 defines 'plunges' as the act of casting or thrusting forcibly or suddenly into something liquid.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Glossary G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is Aunt Polly to Tom Sawyer?",
+    "question_ta": "Who is Aunt Polly to Tom Sawyer?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sister",
+        "text_ta": "Sister"
+      },
+      {
+        "key": "B",
+        "text_en": "Guardian",
+        "text_ta": "Guardian"
+      },
+      {
+        "key": "C",
+        "text_en": "School teacher",
+        "text_ta": "School teacher"
+      },
+      {
+        "key": "D",
+        "text_en": "Neighbor",
+        "text_ta": "Neighbor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aunt Polly acts as Tom's guardian, looking after him and administering various health remedies.",
+    "explanation_ta": "Aunt Polly acts as Tom's guardian, looking after him and administering various health remedies.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Characters C2 / PYQ P5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which character is described as 'eyeing the teaspoon greedily' in the story context?",
+    "question_ta": "Which character is described as 'eyeing the teaspoon greedily' in the story context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tom",
+        "text_ta": "Tom"
+      },
+      {
+        "key": "B",
+        "text_en": "Becky",
+        "text_ta": "Becky"
+      },
+      {
+        "key": "C",
+        "text_en": "Sid",
+        "text_ta": "Sid"
+      },
+      {
+        "key": "D",
+        "text_en": "Peter",
+        "text_ta": "Peter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Peter the cat watches the teaspoon of pain-killer with eager curiosity, leading to the famous prank.",
+    "explanation_ta": "Peter the cat watches the teaspoon of pain-killer with eager curiosity, leading to the famous prank.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "PYQ P3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of treatments did Aunt Polly subject Tom to besides medicine?",
+    "question_ta": "What type of treatments did Aunt Polly subject Tom to besides medicine?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Herbal tea fasting for a week",
+        "text_ta": "Herbal tea fasting for a week"
+      },
+      {
+        "key": "B",
+        "text_en": "Complete isolation in a dark room",
+        "text_ta": "Complete isolation in a dark room"
+      },
+      {
+        "key": "C",
+        "text_en": "Rigorous water treatments and diets",
+        "text_ta": "Rigorous water treatments and diets"
+      },
+      {
+        "key": "D",
+        "text_en": "Strenuous physical exercises at dawn",
+        "text_ta": "Strenuous physical exercises at dawn"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Aunt Polly subjected Tom to rigorous water treatments and diets as part of her health experiments.",
+    "explanation_ta": "Aunt Polly subjected Tom to rigorous water treatments and diets as part of her health experiments.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Prose Excerpts / PYQ P3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Tom mend the crack on the sitting room floor?",
+    "question_ta": "How did Tom mend the crack on the sitting room floor?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "By pouring the pain-killer medicine into it",
+        "text_ta": "By pouring the pain-killer medicine into it"
+      },
+      {
+        "key": "B",
+        "text_en": "By filling it with wood glue and sawdust",
+        "text_ta": "By filling it with wood glue and sawdust"
+      },
+      {
+        "key": "C",
+        "text_en": "By hammering a wooden wedge into the gap",
+        "text_ta": "By hammering a wooden wedge into the gap"
+      },
+      {
+        "key": "D",
+        "text_en": "By covering it with a decorative rug",
+        "text_ta": "By covering it with a decorative rug"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tom humorously used the pain-killer to mend the floor crack instead of drinking it.",
+    "explanation_ta": "Tom humorously used the pain-killer to mend the floor crack instead of drinking it.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Textbook Worked W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the ultimate outcome for Tom regarding his medical treatments after the cat incident?",
+    "question_ta": "What was the ultimate outcome for Tom regarding his medical treatments after the cat incident?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He had to take a different brand of medicine",
+        "text_ta": "He had to take a different brand of medicine"
+      },
+      {
+        "key": "B",
+        "text_en": "He was forced to take a double dose daily",
+        "text_ta": "He was forced to take a double dose daily"
+      },
+      {
+        "key": "C",
+        "text_en": "Aunt Polly allowed him to stop the medicine",
+        "text_ta": "Aunt Polly allowed him to stop the medicine"
+      },
+      {
+        "key": "D",
+        "text_en": "Aunt Polly increased his water treatments",
+        "text_ta": "Aunt Polly increased his water treatments"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Realizing the harshness of the medicine, Aunt Polly softened her approach and let Tom stop taking it.",
+    "explanation_ta": "Realizing the harshness of the medicine, Aunt Polly softened her approach and let Tom stop taking it.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which thematic element is most prominent throughout this prose episode?",
+    "question_ta": "Which thematic element is most prominent throughout this prose episode?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The importance of strict school discipline",
+        "text_ta": "The importance of strict school discipline"
+      },
+      {
+        "key": "B",
+        "text_en": "The dangers of river navigation",
+        "text_ta": "The dangers of river navigation"
+      },
+      {
+        "key": "C",
+        "text_en": "The value of hard work and farming",
+        "text_ta": "The value of hard work and farming"
+      },
+      {
+        "key": "D",
+        "text_en": "Aunt Polly's obsession with patent medicines",
+        "text_ta": "Aunt Polly's obsession with patent medicines"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R3 establishes that Aunt Polly's obsession with patent medicines is a central theme of the episode.",
+    "explanation_ta": "Rule R3 establishes that Aunt Polly's obsession with patent medicines is a central theme of the episode.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Rule R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What character trait is prominently displayed by Tom Sawyer in dealing with his aunt?",
+    "question_ta": "What character trait is prominently displayed by Tom Sawyer in dealing with his aunt?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Total indifference",
+        "text_ta": "Total indifference"
+      },
+      {
+        "key": "B",
+        "text_en": "Severe depression",
+        "text_ta": "Severe depression"
+      },
+      {
+        "key": "C",
+        "text_en": "Blind obedience",
+        "text_ta": "Blind obedience"
+      },
+      {
+        "key": "D",
+        "text_en": "Mischief and cleverness",
+        "text_ta": "Mischief and cleverness"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Tom is characterized as a mischievous boy who finds clever ways to escape unwanted medical routines.",
+    "explanation_ta": "Tom is characterized as a mischievous boy who finds clever ways to escape unwanted medical routines.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Characters C1 / PYQ P1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did Peter do after his initial leap into the air?",
+    "question_ta": "What did Peter do after his initial leap into the air?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Went tearing around the house spreading chaos and destruction",
+        "text_ta": "Went tearing around the house spreading chaos and destruction"
+      },
+      {
+        "key": "B",
+        "text_en": "Curl up quietly by the fireplace to sleep",
+        "text_ta": "Curl up quietly by the fireplace to sleep"
+      },
+      {
+        "key": "C",
+        "text_en": "Meowed softly for more food and attention",
+        "text_ta": "Meowed softly for more food and attention"
+      },
+      {
+        "key": "D",
+        "text_en": "Sat motionless on the windowsill staring outside",
+        "text_ta": "Sat motionless on the windowsill staring outside"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The prose excerpt describes Peter tearing around the house and spreading chaos and destruction after tasting the pain-killer.",
+    "explanation_ta": "The prose excerpt describes Peter tearing around the house and spreading chaos and destruction after tasting the pain-killer.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "PYQ P4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why was Tom particularly vulnerable to Aunt Polly's medical experiments at this point?",
+    "question_ta": "Why was Tom particularly vulnerable to Aunt Polly's medical experiments at this point?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He wanted to impress the school master",
+        "text_ta": "He wanted to impress the school master"
+      },
+      {
+        "key": "B",
+        "text_en": "He had promised his mother to obey all health rules",
+        "text_ta": "He had promised his mother to obey all health rules"
+      },
+      {
+        "key": "C",
+        "text_en": "He was recovering from a severe physical injury",
+        "text_ta": "He was recovering from a severe physical injury"
+      },
+      {
+        "key": "D",
+        "text_en": "He was already feeling low and depressed over Becky Thatcher",
+        "text_ta": "He was already feeling low and depressed over Becky Thatcher"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Tom's vulnerable, depressed state over Becky made him an easy target for Aunt Polly's overbearing health treatments.",
+    "explanation_ta": "Tom's vulnerable, depressed state over Becky made him an easy target for Aunt Polly's overbearing health treatments.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did Aunt Polly witness that finally changed her viewpoint on her medical regimen?",
+    "question_ta": "What did Aunt Polly witness that finally changed her viewpoint on her medical regimen?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tom pouring the medicine into the floor crack",
+        "text_ta": "Tom pouring the medicine into the floor crack"
+      },
+      {
+        "key": "B",
+        "text_en": "The medicine bottle shattering into pieces on the floor",
+        "text_ta": "The medicine bottle shattering into pieces on the floor"
+      },
+      {
+        "key": "C",
+        "text_en": "Becky Thatcher returning unexpectedly to school",
+        "text_ta": "Becky Thatcher returning unexpectedly to school"
+      },
+      {
+        "key": "D",
+        "text_en": "The cat's frantic and chaotic reaction to the pain-killer",
+        "text_ta": "The cat's frantic and chaotic reaction to the pain-killer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Aunt Polly witnessed the cat's wild frenzy, which made her realize how severe and painful the medicine truly was.",
+    "explanation_ta": "Aunt Polly witnessed the cat's wild frenzy, which made her realize how severe and painful the medicine truly was.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Tom react outwardly when Aunt Polly administered the pain-killer to him?",
+    "question_ta": "How did Tom react outwardly when Aunt Polly administered the pain-killer to him?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He screamed and refused to open his mouth",
+        "text_ta": "He screamed and refused to open his mouth"
+      },
+      {
+        "key": "B",
+        "text_en": "He immediately spat it out in front of her",
+        "text_ta": "He immediately spat it out in front of her"
+      },
+      {
+        "key": "C",
+        "text_en": "He begged her to give him water instead",
+        "text_ta": "He begged her to give him water instead"
+      },
+      {
+        "key": "D",
+        "text_en": "He pretended to like it and swallowed it quietly",
+        "text_ta": "He pretended to like it and swallowed it quietly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "To avoid further trouble, Tom pretended to enjoy the pain-killer before secretly disposing of it.",
+    "explanation_ta": "To avoid further trouble, Tom pretended to enjoy the pain-killer before secretly disposing of it.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Cat and the Painkiller",
+    "topic": "The Cat and the Painkiller",
+    "topic_id": "the_cat_and_the_painkiller",
+    "topic_ta": "The Cat and the Painkiller",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What aspect of Aunt Polly's personality drives the main conflict of the story?",
+    "question_ta": "What aspect of Aunt Polly's personality drives the main conflict of the story?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Her strict disciplinary rules at dinner time",
+        "text_ta": "Her strict disciplinary rules at dinner time"
+      },
+      {
+        "key": "B",
+        "text_en": "Her obsession with trying out new health remedies",
+        "text_ta": "Her obsession with trying out new health remedies"
+      },
+      {
+        "key": "C",
+        "text_en": "Her anger over Tom's poor school grades",
+        "text_ta": "Her anger over Tom's poor school grades"
+      },
+      {
+        "key": "D",
+        "text_en": "Her constant worry about household finances",
+        "text_ta": "Her constant worry about household finances"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aunt Polly's constant experimentation with patent medicines creates the central conflict between her treatments and Tom's desire to escape them.",
+    "explanation_ta": "Aunt Polly's constant experimentation with patent medicines creates the central conflict between her treatments and Tom's desire to escape them.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_cat_and_the_painkiller",
+    "source_note": "Summary / R3"
+  }
+]

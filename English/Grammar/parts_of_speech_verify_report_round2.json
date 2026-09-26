@@ -1,0 +1,111 @@
+{
+  "batches": {
+    "noun|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "noun|Batch 2": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "pronoun|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "pronoun|Batch 2": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "adjective|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "adjective|Batch 2": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "verb|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "adverb|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "adverb|Batch 2": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "preposition|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "preposition|Batch 2": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "preposition|Batch 3": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "conjunction|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "conjunction|Batch 2": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    },
+    "interjection|Batch 1": {
+      "verdict": "PASS",
+      "flagged": [],
+      "passed": 25,
+      "applied_fixes": 0,
+      "applied_drops": 0
+    }
+  },
+  "all_flags": [],
+  "flag_count": 0
+}

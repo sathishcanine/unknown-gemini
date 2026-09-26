@@ -1,0 +1,472 @@
+{
+  "batches": {
+    "future_continuous|Batch 1": {
+      "done": true,
+      "topic_en": "Future Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "future_perfect|Batch 1": {
+      "done": true,
+      "topic_en": "Future Perfect",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "future_perfect|Batch 2": {
+      "done": true,
+      "topic_en": "Future Perfect",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "future_perfect_continuous|Batch 1": {
+      "done": true,
+      "topic_en": "Future Perfect Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "past_continuous|Batch 1": {
+      "done": true,
+      "topic_en": "Past Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "past_continuous|Batch 2": {
+      "done": true,
+      "topic_en": "Past Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "past_perfect|Batch 1": {
+      "done": true,
+      "topic_en": "Past Perfect",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "past_perfect|Batch 2": {
+      "done": true,
+      "topic_en": "Past Perfect",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "past_perfect_continuous|Batch 1": {
+      "done": true,
+      "topic_en": "Past Perfect Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "past_perfect_continuous|Batch 2": {
+      "done": true,
+      "topic_en": "Past Perfect Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "present_continuous|Batch 1": {
+      "done": true,
+      "topic_en": "Present Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "present_continuous|Batch 2": {
+      "done": true,
+      "topic_en": "Present Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "present_perfect|Batch 1": {
+      "done": true,
+      "topic_en": "Present Perfect",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "present_perfect|Batch 2": {
+      "done": true,
+      "topic_en": "Present Perfect",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "present_perfect_continuous|Batch 1": {
+      "done": true,
+      "topic_en": "Present Perfect Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "present_perfect_continuous|Batch 2": {
+      "done": true,
+      "topic_en": "Present Perfect Continuous",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "simple_future|Batch 1": {
+      "done": true,
+      "topic_en": "Simple Future",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "simple_future|Batch 2": {
+      "done": true,
+      "topic_en": "Simple Future",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "simple_past|Batch 1": {
+      "done": true,
+      "topic_en": "Simple Past",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "simple_past|Batch 2": {
+      "done": true,
+      "topic_en": "Simple Past",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "simple_present|Batch 1": {
+      "done": true,
+      "topic_en": "Simple Present",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "simple_present|Batch 2": {
+      "done": true,
+      "topic_en": "Simple Present",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "mixed_tense_questions|Batch 1": {
+      "done": true,
+      "topic_en": "Mixed Tense Questions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "mixed_tense_questions|Batch 2": {
+      "done": true,
+      "topic_en": "Mixed Tense Questions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "mixed_tense_questions|Batch 3": {
+      "done": true,
+      "topic_en": "Mixed Tense Questions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "mixed_tense_questions|Batch 4": {
+      "done": true,
+      "topic_en": "Mixed Tense Questions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "mixed_tense_questions|Batch 5": {
+      "done": true,
+      "topic_en": "Mixed Tense Questions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    }
+  },
+  "totals": {
+    "flagged": 0,
+    "dropped": 0,
+    "fixed": 0,
+    "final_db": 675,
+    "short_batches": [],
+    "pass_batches": 27,
+    "needs_fix_batches": 0
+  }
+}

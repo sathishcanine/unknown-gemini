@@ -1,0 +1,404 @@
+{
+  "topic_id": "letter_writing",
+  "topic_title": "Types of Letters (Formal & Informal)",
+  "unit": 3,
+  "batches_target": 3,
+  "pages": [
+    1,
+    14
+  ],
+  "rules": [
+    {
+      "rule_en": "Letters are broadly classified into two types: Formal letter and Informal letter.",
+      "tag": "type"
+    },
+    {
+      "rule_en": "A formal letter should be logical, accurate, and presented in an organised manner.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal letters are addressed to officials or business entities, requiring a specific structure including subject, formal salutation, and subscription.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Standard subscription for formal letters includes 'Yours sincerely', 'faithfully', or 'truly'.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "A formal letter should include Sender's address, Date, Receiver's address, Subject, Salutation, Body, Closure, and Sender's signature/designation.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The body of a formal letter should follow the structure: Introduce yourself, mention details of the enquiry, and conclude.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal letters require a specific subject line, clear address of both sender and recipient, and a formal salutation and subscription.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A formal letter of enquiry should clearly state the purpose of the inquiry in the opening lines.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal letters (like complaint letters) require specific sender address, receiver address, subject line, and formal salutations like 'Sir' or 'Madam'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Closing formal letters usually ends with 'Yours faithfully' followed by the sender's name.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal letters include specific sections: Sender address, Date, Recipient address, Salutation, Subject line, Body, and Closing with signature.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A Letter of Apology should state the reason for the lapse and offer a solution or compensation.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "A Letter Placing an Order must clearly specify the sender's identity, the purpose, and details regarding items ordered.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "In a formal letter, use 'Yours faithfully' when addressing an official or business contact (like a supplier).",
+      "tag": "format"
+    },
+    {
+      "rule_en": "In a formal letter, use 'Yours sincerely' when addressing a specific professional individual (like a doctor).",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal letters require a specific 'Sub:' (Subject) line summarizing the purpose of the communication.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal letters typically conclude with the complimentary close 'Yours sincerely' when addressing specific individuals by title or name.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Business/Formal letters must include complete sender and recipient contact details at the top.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A job application consists of two main components: a covering letter and a Resume/Bio-data/Curriculum Vitae.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "The covering letter for a job application must follow the same format as an official letter.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "After the signature in a job application, documents must be listed under the title 'Encl.'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A formal application letter includes Receiver's designation, Subject, Opening statement, Suitability (qualifications/experience), and Conclusion.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Formal application letters require a professional closing such as 'Yours sincerely'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Informal letters are written to friends and family members to share joy and experiences.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Informal letters are also known as friendly letters or personal letters.",
+      "tag": "type"
+    },
+    {
+      "rule_en": "The salutations and postscripts in informal letters are friendly and casual in language.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "An informal letter contains: Sender's address, Date, Salutation, Body of the letter, Closing Paragraph, Complimentary close, Subscription, and Sender's Name.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Informal letters use casual openings like 'Hi', 'Hello', or 'It's been ages'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Offering advice in letters often uses phrases like 'If I were you' or 'I suggest that you'.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Closing phrases for informal letters include 'All the best', 'Lots of love', or 'Love'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Letters to the editor follow the sequence: Sender's address, Receiver's address, Subject, Salutation, Body of letter, Subscription, Date.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "When marital status of a woman is unknown, address her as 'Ms.'.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Use 'Yours truly' for ending a formal letter.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The correct format for writing a date in formal letters is '30 June, 2023', not '30/06/2023'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Informal letters typically do not require a sender's signature, pin code, or formal structure, but usually include a salutation.",
+      "tag": "format"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Subscription",
+      "meaning_en": "The closing phrase or sign-off used in a letter before the sender's name."
+    },
+    {
+      "term_en": "Salutation",
+      "meaning_en": "A formal greeting at the beginning of a letter, such as 'Dear Sir/Madam'."
+    },
+    {
+      "term_en": "Subscription (in letter writing)",
+      "meaning_en": "The closing phrase of a letter, such as 'Yours faithfully' or 'Yours sincerely'."
+    },
+    {
+      "term_en": "Complaint Letter",
+      "meaning_en": "A formal letter written to express dissatisfaction regarding a product or service."
+    },
+    {
+      "term_en": "Job Application",
+      "meaning_en": "A document sent with a resume to provide details about an applicant's personal information, qualifications, skills, and experience for a specific post."
+    },
+    {
+      "term_en": "Encl.",
+      "meaning_en": "Short for Enclosure; used to list documents attached to a letter."
+    },
+    {
+      "term_en": "Bio-data",
+      "meaning_en": "A document containing personal details, educational qualifications, and professional experience."
+    },
+    {
+      "term_en": "Informal Letter",
+      "meaning_en": "A letter written to friends and family, characterized by friendly and casual language."
+    },
+    {
+      "term_en": "Superscription/Salutation",
+      "meaning_en": "The greeting used at the start of a letter (e.g., 'Dear')."
+    },
+    {
+      "term_en": "Take a rain check",
+      "meaning_en": "To decline an invitation now but offer to do it another time."
+    },
+    {
+      "term_en": "Per annum",
+      "meaning_en": "Per year"
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Components of a formal letter: Sender's address, Date, Name/designation and address of the receiver, Subject, Salutation, Body of the letter, Closing Paragraph, Complimentary close, Subscription, Sender's Name, Designation (if applicable).",
+      "tag": "format"
+    },
+    {
+      "note_en": "The letter structure follows: Sender's address, Date, Receiver's designation/address, Subject, Salutation, Body, Closing, Complimentary close, Subscription, and Sender's Name.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Model letter of permission addressed to the Director of Port Trust for a school visit.",
+      "tag": "formal"
+    },
+    {
+      "note_en": "Formal letter requesting permission to visit a factory.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Formal letter of enquiry regarding computer courses.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Example of a complaint letter regarding a faulty 21 inch colour TV including sender details, date, receiver details, subject, and body content describing the issues.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Example of an inquiry letter regarding short term courses after Class X board exams.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Letter of Apology example shows usage of formal register: 'I sincerely regret the inconvenience caused to you.'",
+      "tag": "vocab"
+    },
+    {
+      "note_en": "Letter Placing an Order example shows usage of sender role identifier: 'C.Sathish, Cultural Secretary of a school'.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Letter for ordering books: Uses 'Yours faithfully' for business correspondence.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Letter of Cancellation of Appointment: Uses 'Dear Dr. Chari' and 'Yours sincerely' for a specific professional.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Example of a Formal Complaint Letter: Cancelling an order due to poor quality and requesting a refund.",
+      "tag": "formal"
+    },
+    {
+      "note_en": "Example of a Formal Invitation Letter: Inviting a Chief Guest to preside over a school function.",
+      "tag": "formal"
+    },
+    {
+      "note_en": "Components required in a Bio-data: Name, Date of Birth, Address, Contact/Phone, mail ID, Educational qualification, Work experience, Professional skills, Hobbies and interests, and at least 2 References.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Sample structure provided for an application for the post of an accountant including sender reference and bio-data fields.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Structure of an informal letter: 1st para = enquiry about well-being; 2nd para = reason for writing; 3rd para = conclusion.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Opening: Hi Vijay / Hello Mani / Hey Prashanth.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Expressing Thanks: Thanks a million for / Thanks a lot for / Cheers for.",
+      "tag": "vocab"
+    },
+    {
+      "note_en": "Closing: Well, that's all for now / I'd better get back to work.",
+      "tag": "format"
+    },
+    {
+      "note_en": "The letter at the top of the page is an informal letter addressed to family members (Amma and Appa).",
+      "tag": "informal"
+    }
+  ],
+  "pyq": [
+    {
+      "question_en": "Which of the following letter doesn't come under the formal letter?",
+      "options_en": [
+        "Complaint letter",
+        "Business letter",
+        "Invitation letter",
+        "Apology letter"
+      ],
+      "answer_en": "Invitation letter",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Choose the right option showing the order / sequence the different parts in a letter from the choices given below. 1. Writer's name 2. The subscription 3. The writer's address and date 4. The body of the letter 5. The superscription 6. The salutation",
+      "options_en": [
+        "1, 3, 2, 4, 6, 5",
+        "6, 5, 3, 4, 1, 2",
+        "3, 6, 4, 2, 1, 5",
+        "4, 3, 2, 1, 5, 6"
+      ],
+      "answer_en": "3, 6, 4, 2, 1, 5",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What is the best practice for addressing a woman when the marital status is unknown in a formal letter?",
+      "options_en": [
+        "Miss",
+        "Mrs.",
+        "Ms.",
+        "Madam"
+      ],
+      "answer_en": "Ms.",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The phrase \"per annum\" in a formal letter typically refers to what?",
+      "options_en": [
+        "Per hour",
+        "Per assignment",
+        "Annually",
+        "As necessary"
+      ],
+      "answer_en": "Annually",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "A/an ________ is written to seek information from other organizations.",
+      "options_en": [
+        "Informal letter",
+        "Enquiry letter",
+        "Complaint letter",
+        "Adjustment letter"
+      ],
+      "answer_en": "Enquiry letter",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "All letters generally ends with",
+      "options_en": [
+        "Subscription",
+        "Heading",
+        "Salutation",
+        "Signature"
+      ],
+      "answer_en": "Subscription",
+      "answer_letter": "A",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following is/ are the correct statement/s regarding letter writing?",
+      "options_en": [
+        "'Yours faithfully' is used for ending a formal letter.",
+        "The right sequence of writing a letter to the editor is - Sender's address, Receiver's address, Subject, Salutation, Body of letter, Subscription, Date.",
+        "The right format of writing a date in all formal letters is '30 June, 2023' instead of '30/06/2023'.",
+        "'Yours truly' is used for ending a formal letter."
+      ],
+      "answer_en": "All the above (implied by content structure)",
+      "answer_letter": null,
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "8. Which of the following doesn't comes under informal letter?",
+      "options_en": [
+        "a) Letters to family and friends",
+        "b) Congratulation letters",
+        "c) Well-being checks letter",
+        "d) Resignation letter"
+      ],
+      "answer_en": "d) Resignation letter",
+      "answer_letter": "D",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "9. Which of the following is not an complimentary close in letters?",
+      "options_en": [
+        "a) Yours cordially",
+        "b) Yours truly",
+        "c) Yours faithfully",
+        "d) None of the above"
+      ],
+      "answer_en": "d) None of the above",
+      "answer_letter": "D",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "10. Which of the following doesn't comes under informal letter? i. Informal letter doesn't need any signature of the sender. ii. Need not to mention pin code. iii. Compulsory it should contain salutation.",
+      "options_en": [
+        "a) i and iii",
+        "b) I and ii",
+        "c) ii and iii",
+        "d) None of the above"
+      ],
+      "answer_en": "d) None of the above",
+      "answer_letter": "D",
+      "has_marked_answer": true
+    }
+  ],
+  "notes_en": "p1: This page introduces the concept of letter writing as a means of communication, categorized into formal and informal types. It specifically outlines the structural components required for a formal letter, emphasizing the need for an organized, logical, and accurate presentation.\np2: This page outlines the standard structural components of a formal letter. It provides a sample template addressing a public official regarding a municipal issue (water wastage), highlighting the essential sections from the sender's address to the final signature.\np3: This page outlines the standard format for a formal letter, emphasizing the inclusion of contact details, dates, professional salutations, and a structured body (introduction, enquiry details, and conclusion). It provides a practical example of a request letter from a school student to the Director of a Port Trust seeking permission for an educational tour.\np4: This page provides model templates for formal letters, specifically focusing on a 'Letter of Permission' to visit a factory and a 'Letter of Enquiry' regarding computer courses. It illustrates the standard structure required for formal correspondence.\np5: This page focuses on formal letter writing, providing samples for an inquiry about short-term courses and a formal complaint letter addressed to a manager regarding a faulty television set.\np6: This page from Vetrii IAS provides practical examples of formal letter writing. It includes a template for a 'Letter of Apology' regarding a lost library book and a 'Letter Placing an Order' written by a school Cultural Secretary to a publisher.\np7: The page provides templates for formal letters including an order request for books and a professional letter for cancelling a dental appointment. It demonstrates correct salutations and closing formats for formal correspondence.\np8: This page provides two specific examples of formal letter writing. The first is a business correspondence regarding the cancellation of an order and a request for a refund due to unsatisfactory product quality. The second is an official invitation sent by a School Pupil Leader to a college professor, requesting them to preside over a school event. Both letters follow a standard formal structure including sender/recipient addresses, a clear subject line, and a formal closing.\np9: This page outlines the components and content requirements for a professional job application. It specifies that a job application includes a covering letter, which follows an official letter format, and a resume/bio-data. It provides a detailed checklist of the information that should be included in a bio-data and guidelines for writing an effective covering letter.\np10: This page provides a template for a formal job application letter. It details the essential sections including the receiver's address, the subject line, opening statement referencing an advertisement, suitability statement mentioning experience and enclosures, and a professional closing. Additionally, it lists the standard fields required in a bio-data or resume section.\np11: This page defines informal letters, which are personal correspondences sent to friends and family. It outlines the specific components required in the structure of an informal letter and provides a breakdown of the typical three-paragraph content flow: introduction/enquiry, main content/reason, and conclusion.\np12: This page provides a structure for informal letters (writing to a friend). It breaks down components like Opening, Giving News, Responding to News, Offering/Declining Invitations, Offering Advice, and Closing with specific conversational phrases. It concludes with a model prompt for an informal letter regarding a school trip.\np13: This page focuses on formal and informal letter writing conventions, including the specific sequence of parts, proper addressing protocols (like using 'Ms.' for unknown marital status), correct date formatting, and appropriate sign-offs like 'Yours truly' for formal correspondence.\np14: This page covers the characteristics and classification of letters, focusing on the differences between formal and informal letter writing conventions, including salutations, closures, and structural requirements like signatures and addresses.",
+  "source": "Data/General-English/Unit3,4/vetrii english unit 3 and unit 4 (1).pdf"
+}

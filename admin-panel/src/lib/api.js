@@ -60,6 +60,60 @@ export async function fetchUserTimeline(userId, params) {
   return res.data;
 }
 
+export async function fetchUserPlanPrices(userId) {
+  const res = await api.get(`/api/admin/users/${userId}/plan-prices`);
+  return res.data;
+}
+
+export async function saveUserPlanPrices(userId, overrides) {
+  const res = await api.put(`/api/admin/users/${userId}/plan-prices`, { overrides });
+  return res.data;
+}
+
+export async function fetchUserEntitlement(userId) {
+  const res = await api.get(`/api/admin/users/${userId}/entitlement`);
+  return res.data;
+}
+
+export async function grantUserPremium(userId, body = { plan_code: '1y' }) {
+  const res = await api.post(`/api/admin/users/${userId}/grant-premium`, body);
+  return res.data;
+}
+
+export async function revokeUserPremium(userId) {
+  const res = await api.post(`/api/admin/users/${userId}/revoke-premium`);
+  return res.data;
+}
+
+export async function fetchAdminPlans(includeInactive = true) {
+  const res = await api.get('/api/admin/plans', {
+    params: { include_inactive: includeInactive },
+  });
+  return res.data;
+}
+
+export async function createAdminPlan(body) {
+  const res = await api.post('/api/admin/plans', body);
+  return res.data;
+}
+
+export async function updateAdminPlan(planId, body) {
+  const res = await api.put(`/api/admin/plans/${planId}`, body);
+  return res.data;
+}
+
+export async function deleteAdminPlan(planId, { force = false } = {}) {
+  const res = await api.delete(`/api/admin/plans/${planId}`, {
+    params: { force },
+  });
+  return res.data;
+}
+
+export async function reorderAdminPlans(orderedIds) {
+  const res = await api.put('/api/admin/plans/reorder', { ordered_ids: orderedIds });
+  return res.data;
+}
+
 export async function fetchTopicAnalytics(params) {
   const res = await api.get('/api/admin/topics', { params });
   return res.data;

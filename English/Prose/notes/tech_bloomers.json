@@ -1,0 +1,98 @@
+{
+  "prose_id": "tech_bloomers",
+  "prose_title": "Tech Bloomers",
+  "author": null,
+  "num": 5,
+  "pdf_pages": [
+    180,
+    201
+  ],
+  "prose_text_en": "Technology empowers both common people and the differently-abled. Examples include self-ordering appliances and smart home systems. For individuals with disabilities like Alisha (who has cerebral palsy) and David, technology provides independence. Alisha uses 'Dragon Dictate' to convert speech to text, while David uses the 'ECO2' with 'ECOpoint' (Eye Gaze) to communicate and access the curriculum. Other Indian innovations include 'Lechal Shoes' for navigation, 'Blee Watch' for the hearing impaired, and 'IGEST' for the speech-impaired.",
+  "summary_en": "The prose 'Tech Bloomers' highlights how technology acts as a tool for empowerment rather than just a convenience. It features real-life experiences of individuals with disabilities, such as Alisha and David, who use assistive technology to overcome physical barriers and gain independence. The narrative underscores that the impact of technology—whether positive or negative—depends on how society chooses to implement and utilize it. Ultimately, it advocates for an inclusive world where assistive tools allow everyone to learn and contribute fruitfully.",
+  "characters": [
+    {
+      "name_en": "Alisha",
+      "role_en": "Student with cerebral palsy who uses Dragon Dictate to achieve academic goals."
+    },
+    {
+      "name_en": "David",
+      "role_en": "Student with cerebral palsy who uses AAC devices and ECO2 Eye Gaze to communicate and learn."
+    },
+    {
+      "name_en": "Kim",
+      "role_en": "Assistive Technologist who helps students learn to use technological tools."
+    },
+    {
+      "name_en": "A.P.J. Abdul Kalam",
+      "role_en": "Former President who developed lightweight prosthetics for disabled children."
+    },
+    {
+      "name_en": "Stephen Hawking",
+      "role_en": "World-renowned physicist cited as an example of overcoming impairment through assistive technology."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Grapple",
+      "meaning_en": "To fight, especially in order to win something."
+    },
+    {
+      "word_en": "Cerebral palsy",
+      "meaning_en": "Permanent tightening of the muscles caused by damage to the brain."
+    },
+    {
+      "word_en": "Dragon Dictate",
+      "meaning_en": "Software which recognizes speech and converts it to text."
+    },
+    {
+      "word_en": "Assistive technologist",
+      "meaning_en": "A person who assists with technological gadgets to overcome disability."
+    },
+    {
+      "word_en": "Cloister",
+      "meaning_en": "Enclosed by."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Lechal Shoes (GPS/Bluetooth) by Krispian Lawrence help the disabled navigate.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Blee Watch (vibration/color codes) by Nupura Kirloskar & Janhavi Joshi helps hearing impaired.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "IGEST (gesture tracking) by Anil Prabhakar (IIT-M) helps speech-impaired people.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "According to 2011 Census, 2.21 percent of India’s population is disabled.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Acronyms form new words (e.g., radar), while abbreviations are shortened letters (e.g., Dr.).",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Which software helps Alisha to overcome her difficulty in typing?",
+      "answer_en": "Dragon Dictate",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Name the instrument which David controls with his eye movements.",
+      "answer_en": "Liberator Communication Device / ECO2 with ECOpoint",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What is the difference between an abbreviation and an acronym?",
+      "answer_en": "An abbreviation is a series of letters representing words, while an acronym forms a new word.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

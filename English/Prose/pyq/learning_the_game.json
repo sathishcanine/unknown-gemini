@@ -1,0 +1,102 @@
+{
+  "prose_id": "learning_the_game",
+  "prose_title": "Learning the Game",
+  "questions": [
+    {
+      "prose_title": "Learning the Game",
+      "prose_id": "learning_the_game",
+      "question_en": "'Don't waste your time playing is same games with these kids, cricket is waiting for you at the nets, practice hard and see what magic can transpire' - who gave this advise to Sachin.",
+      "options_en": [
+        "His coach",
+        "His father",
+        "His brother",
+        "His friends"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "Learning the Game",
+      "band": "prose_pyq_b007"
+    },
+    {
+      "prose_title": "Learning the Game",
+      "prose_id": "learning_the_game",
+      "question_en": "The common link between Ramkant Achrekar and Sachin Tendulkar was both started playing cricket at the age of",
+      "options_en": [
+        "12",
+        "17",
+        "11",
+        "10"
+      ],
+      "answer_en": "11",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "Learning the Game",
+      "band": "prose_pyq_b007"
+    },
+    {
+      "prose_title": "Learning the Game",
+      "prose_id": "learning_the_game",
+      "question_en": "The cricket coach of Sachin Tendulkar was",
+      "options_en": [
+        "Sanjay Manchrekar",
+        "Ramakant Achrekar",
+        "Sunil Kavaskar",
+        "Kapil Dev"
+      ],
+      "answer_en": "Ramakant Achrekar",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "Learning the Game",
+      "band": "prose_pyq_b007"
+    },
+    {
+      "prose_title": "Learning the Game",
+      "prose_id": "learning_the_game",
+      "question_en": "Sachin Tendulkar's autobiography was ________. Fill up the blank with suitable answer.",
+      "options_en": [
+        "My experiment with truth",
+        "I dare",
+        "Playing it my way",
+        "Autobiography of unknown Indian"
+      ],
+      "answer_en": "Playing it my way",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b008",
+      "band": "prose_pyq_b008"
+    },
+    {
+      "prose_title": "Learning the Game",
+      "prose_id": "learning_the_game",
+      "question_en": "In Lesson, \"Learning the Game\" which school gave importance to Cricket?",
+      "options_en": [
+        "Shardhasram Vidhya Mandir",
+        "Sharadhambal Vidhya Mandir",
+        "Shakthi Sharadha Vidyalaya",
+        "Sri Vidyalaya"
+      ],
+      "answer_en": "Shardhasram Vidhya Mandir",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b008",
+      "band": "prose_pyq_b008"
+    },
+    {
+      "prose_title": "Learning the Game",
+      "prose_id": "learning_the_game",
+      "question_en": "Which game is mentioned in this lesson \"Learning the Game\"?",
+      "options_en": [
+        "Foot ball",
+        "Basket ball",
+        "Kabbadi",
+        "Cricket"
+      ],
+      "answer_en": "Cricket",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b008",
+      "band": "prose_pyq_b008"
+    }
+  ]
+}

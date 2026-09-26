@@ -1,0 +1,141 @@
+{
+  "subject_id": "English",
+  "unit": {"id": "Grammar", "name_en": "Unit I — Grammar"},
+  "menu": {
+    "id": "tenses",
+    "name_en": "Tenses",
+    "name_ta": "காலங்கள்",
+    "priority": 3
+  },
+  "sources": {
+    "asan": {
+      "file": "Data/General-English/asan - concord,tense, sentence pattern, question tag.pdf",
+      "pdf_pages": [7, 39],
+      "note": "Sentence Pattern starts ~p.40"
+    },
+    "grammer": {
+      "file": "Data/General-English/Grammer.pdf",
+      "index_label": "Tenses",
+      "index_page_ref": 1,
+      "pdf_pages_approx": [11, 60],
+      "note": "Refine end page vs Transformation chapter"
+    },
+    "govt": {
+      "file": "Data/General-English/General_English_Part_A_Grammar_Group_2_Govt_Notes_for_TNPSC_Group.pdf",
+      "pdf_pages": [50, 59]
+    }
+  },
+  "groups": [
+    {
+      "id": "present_tense",
+      "name_en": "Present Tense",
+      "name_ta": "நிகழ்காலம்",
+      "order": 1,
+      "topics": [
+        {
+          "id": "simple_present",
+          "name_en": "Simple Present",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "present_continuous",
+          "name_en": "Present Continuous",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "present_perfect",
+          "name_en": "Present Perfect",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "present_perfect_continuous",
+          "name_en": "Present Perfect Continuous",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        }
+      ]
+    },
+    {
+      "id": "past_tense",
+      "name_en": "Past Tense",
+      "name_ta": "இறந்தகாலம்",
+      "order": 2,
+      "topics": [
+        {
+          "id": "simple_past",
+          "name_en": "Simple Past",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "past_continuous",
+          "name_en": "Past Continuous",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "past_perfect",
+          "name_en": "Past Perfect",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "past_perfect_continuous",
+          "name_en": "Past Perfect Continuous",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        }
+      ]
+    },
+    {
+      "id": "future_tense",
+      "name_en": "Future Tense",
+      "name_ta": "எதிர்காலம்",
+      "order": 3,
+      "topics": [
+        {
+          "id": "simple_future",
+          "name_en": "Simple Future",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "future_continuous",
+          "name_en": "Future Continuous",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "future_perfect",
+          "name_en": "Future Perfect",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        },
+        {
+          "id": "future_perfect_continuous",
+          "name_en": "Future Perfect Continuous",
+          "batches_planned": 1,
+          "questions_per_batch": 25
+        }
+      ]
+    },
+    {
+      "id": "mixed_tense_questions",
+      "name_en": "Mixed Tense Questions",
+      "name_ta": "கலப்பு கால வினாக்கள்",
+      "order": 4,
+      "topics": [
+        {
+          "id": "mixed_tense_questions",
+          "name_en": "Mixed Tense Questions",
+          "batches_planned": 2,
+          "questions_per_batch": 25,
+          "note": "Reuse pool from the 12 form batches (like Mixed POS)"
+        }
+      ]
+    }
+  ]
+}

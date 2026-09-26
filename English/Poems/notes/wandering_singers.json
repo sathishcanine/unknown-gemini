@@ -1,0 +1,71 @@
+{
+  "poem_id": "wandering_singers",
+  "poem_title": "Wandering Singers",
+  "author": "Sarojini Naidu",
+  "num": 9,
+  "pdf_pages": [
+    31,
+    34
+  ],
+  "poem_text_en": "Where the voice of the wind calls our wandering feet, \nThrough echoing forest and echoing street, \nWith lutes in our hands ever-singing we roam, \nAll men are our kindred, the world is our home. \nOur lays are of cities whose lustre is shed, \nThe laughter and beauty of women long dead; \nThe sword of old battles, the crown of old kings, \nAnd happy and simple and sorrowful things. \nWhat hope shall we gather, what dreams shall we sow? \nWhere the wind calls our wandering footsteps we go. \nNo love bids us tarry, no joy bids us wait: \nThe voice of the wind is the voice of our fate.",
+  "summary_en": "The poem explores the life of wandering singers who travel continuously, guided only by the voice of the wind. They view the entire world as their home and all mankind as their kin, sharing stories of the past, including lost glories and human emotions. Their journey is dictated by destiny rather than personal attachments or worldly desires.",
+  "glossary": [
+    {
+      "word_en": "lute",
+      "meaning_en": "a kind of stringed musical instrument"
+    },
+    {
+      "word_en": "roam",
+      "meaning_en": "wander, travel"
+    },
+    {
+      "word_en": "kindred",
+      "meaning_en": "relations"
+    },
+    {
+      "word_en": "lays",
+      "meaning_en": "songs, stories"
+    },
+    {
+      "word_en": "tarry",
+      "meaning_en": "wait, delay"
+    },
+    {
+      "word_en": "fate",
+      "meaning_en": "destiny, luck"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "personification",
+      "example_en": "Where the voice of the wind calls our wandering feet",
+      "note_en": "The wind is personified as having a voice that calls out to the singers."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Sarojini Naidu is known as Bharat Kokila (The Nightingale of India).",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The singers sing about the past, including the beauty of women, the sword of old battles, and the crowns of old kings.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The singers have no desire to settle down because they are guided by fate.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Our lays are of cities whose lustre is shed, Here 'Lays' means",
+      "answer_en": "stories",
+      "options_en": [
+        "a. lying down",
+        "b. stories",
+        "c. to keep"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

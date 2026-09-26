@@ -1,0 +1,1778 @@
+{
+  "subject_id": "English",
+  "menu": "degrees_of_comparison",
+  "sources": [
+    "asan-remaining-grammar.pdf pp.[9, 10, 11, 12, 13, 14] (primary, vision)",
+    "Grammer.pdf pp.[85, 86, 87, 88, 89, 90, 91, 92, 94] (primary)",
+    "Govt pp.[104, 105, 106, 107, 108, 109] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "The Positive Degree is used to express or describe a characteristic of a noun.",
+      "degree_topic": "overview",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "The Comparative Degree is used when two things are compared.",
+      "degree_topic": "overview",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "The Superlative Degree is used when more than two things are compared and singles out one from the rest.",
+      "degree_topic": "overview",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Adjectives often form comparative by adding -er and superlative by adding -est.",
+      "degree_topic": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Adjectives ending in 'y' change to 'ier' and 'iest'.",
+      "degree_topic": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "One-syllable adjectives ending in a consonant often double the final consonant before adding -er/-est.",
+      "degree_topic": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Longer adjectives use 'more' for comparative and 'most' for superlative.",
+      "degree_topic": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "When the positive degree ends in e, only r is added to make it comparative and only st is added to make it superlative.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Ends in y changed into i before adding er and est.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Ends in a single consonant, preceded by a short vowel, this consonant doubles before adding er and est.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Adjectives of more than two syllables, and many of those with two, form the comparative by using 'more' with the positive, and the superlative by using 'most' with the positive.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Elder and eldest are used only of persons, not of animal or things; and are confined to members of the same family. Elder is not used with 'than'. Older and oldest are used for both persons and things.",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Adjectives ending in -or are followed by the preposition 'to'.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "A great many adjectives and a few adverbs form their comparatives and superlatives by adding -er and -est respectively.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Some adjectives and adverbs take 'more' and 'most' to form their comparatives and superlatives.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Some adjectives and adverbs take either the former or the latter (e.g. more gentle - most gentle).",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "A few adjectives and adverbs form their comparatives and superlatives in an irregular way (e.g. good - better - best).",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Comparatives ending in -or are followed by 'to' instead of 'than'.",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Adjectives in superlative degree are preceded by the definite article 'the'.",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "The definite article 'the' is often omitted before superlative adverbs.",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "The definite article 'the' is not used before superlatives that follow a noun in possessive case.",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Comparison of equals is expressed by 'as + adjective + as'.",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "In negative comparison, 'so + adjective + as' is often used instead of 'as + adjective + as'.",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Sentences with adjectives and adverbs can be interchanged into different degrees of comparison without changing their meaning.",
+      "degree_topic": "overview",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Type 1: Positive (No other... as noble as) -> Comparative (nobler than any other) -> Superlative (the noblest of all).",
+      "degree_topic": "transformation_degrees",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Type 2: Positive (Very few... as noble as) -> Comparative (nobler than many other) -> Superlative (one of the noblest).",
+      "degree_topic": "transformation_degrees",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Standard suffixes -er/-est are added to monosyllabic words like tall (taller/tallest), smart (smarter/smartest), large (larger/largest), big (bigger/biggest), late (later/latest).",
+      "degree_topic": "overview",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "rule_en": "There are three ways to compare: positive, comparative, and superlative, known as degrees of comparison.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 85
+    },
+    {
+      "rule_en": "Adjectives change their form to show how one entity compares to another in terms of a specific quality.",
+      "degree_topic": "transformation_degrees",
+      "source": "grammer",
+      "source_page": 85
+    },
+    {
+      "rule_en": "For most one syllable adjectives, add -er to make the comparative form and -est for the superlative form.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "rule_en": "If the adjective already ends in e, add only -r for comparative and -st for superlative.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "rule_en": "For adjectives with a consonant-vowel-consonant pattern at the end, double the last letter before adding -er or -est.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "rule_en": "One syllable adjectives ending in a consonant after a vowel need a double letter before adding -er or -est.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "rule_en": "For adjectives ending in y, change the y to an i, then add -er for comparative and -est for superlative.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "rule_en": "For words with two syllables or more, add 'more' for comparative and 'most' for superlative.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "rule_en": "Positive degree describes one item, Comparative degree compares two items, Superlative degree compares three or more items.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "rule_en": "The Positive Degree is used to express or describe a quality or state the characteristic of the noun.",
+      "degree_topic": "positive_degree",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "rule_en": "The Comparative Degree is used when two things (or two sets of things) are compared.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "rule_en": "The Superlative Degree is used when more than two things are compared.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "rule_en": "Use the positive degree when not making a comparison.",
+      "degree_topic": "positive_degree",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "rule_en": "Use the comparative degree when comparing two objects or two people.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "rule_en": "Use the superlative degree when comparing more than two objects or two people.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "rule_en": "Many adjectives and a few adverbs form comparatives and superlatives by adding ‘-er’ and ‘-est’.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "rule_en": "A few adjectives and many adverbs take ‘more’ and ‘most’ to form comparatives and superlatives.",
+      "degree_topic": "overview",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "rule_en": "Comparative degree adjectives ending in '-or' are followed by 'to' instead of 'than' (e.g., superior to, junior to).",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "rule_en": "Superlative degree adjectives are generally preceded by the definite article 'the'.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "rule_en": "The article 'the' is omitted before superlative adverbs and when the superlative follows a noun in the possessive case.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "rule_en": "Comparison of equals uses 'as + adjective + as'; negative comparisons often use 'so + adjective + as'.",
+      "degree_topic": "positive_degree",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "rule_en": "Comparative degree adjectives are followed by 'than' for comparison, or 'of' when denoting selection between two.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "rule_en": "Use 'the' with comparative degrees to show interdependence between two things.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "rule_en": "Positive degree: as adjective as",
+      "degree_topic": "positive_degree",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "rule_en": "Comparative degree: adjective than",
+      "degree_topic": "comparative_degree",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "rule_en": "Superlative degree: the adjective",
+      "degree_topic": "superlative_degree",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "rule_en": "If the positive ends in two consonants, or in a single consonant preceded by two vowels, er and est are added.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "rule_en": "Adverbs of more than one syllable take more and most.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "rule_en": "When the Positive ends in e, only r and st are added.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "rule_en": "When the Positive ends in y, preceded by a consonant, the y is changed into i before adding er and est.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "rule_en": "If the y is preceded by a vowel, the y is not changed to i.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "rule_en": "When the Positive is a word of one syllable and ends in a single consonant, preceded by a short vowel, this consonant is doubled before adding er and est.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "rule_en": "In all Adjectives of more than two syllables, and in most Adjectives of two syllables, the Comparative is formed by adding ‘more’ and the Superlative is formed by adding ‘most’.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "rule_en": "Adjectives ending in ed, ing, re, ful, ous and those with the stress on the first syllable usually take more and the most.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "rule_en": "Irregular Adjectives: Comparative and Superlative forms are not formed from the Positive degree.",
+      "degree_topic": "overview",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "rule_en": "Type I: Comparison between two people or objects. Only positive and comparative degrees are used. 1. Interchange positions. 2. Swap positive and comparative forms. 3. Change affirmative verbs to negative and vice versa.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "rule_en": "Comparison is in a group and we select one person as having the quality in the highest degree.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "rule_en": "Comparison is in a group but there are a few who are the best and we select one of them.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "rule_en": "Superlative: Australia is the largest island in the world. Comparative: Australia is larger than any other island in the world. Positive: No other island in the world is as large as Australia.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "rule_en": "Superlative: New York is one of the most crowded cities in America. Comparative: New York is more crowded than most cities in America. Positive: Very few cities in America are as crowded as New York.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    }
+  ],
+  "examples": [
+    {
+      "input_en": "Ramya is as tall as Ramya.",
+      "output_en": "Ramya is taller than any other girl in the class.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Positive to Comparative transformation example.",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "input_en": "Ramya is taller than any other girl in the class.",
+      "output_en": "Ramya is the tallest girl in the class.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Comparative to Superlative transformation example.",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "input_en": "Very few girls in the class are as tall as Ramya.",
+      "output_en": "Ramya is one of the tallest girls in the class.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Positive to Superlative transformation example.",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "input_en": "Good",
+      "output_en": "better, best",
+      "degree_topic": "other",
+      "note_en": "Irregular comparison.",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "input_en": "Brave (Positive)",
+      "output_en": "Braver (Comparative), Bravest (Superlative)",
+      "degree_topic": "other",
+      "note_en": "Ends in e rule",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "input_en": "Happy (Positive)",
+      "output_en": "Happier (Comparative), Happiest (Superlative)",
+      "degree_topic": "other",
+      "note_en": "Ends in y rule",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "input_en": "Red (Positive)",
+      "output_en": "Redder (Comparative), Reddest (Superlative)",
+      "degree_topic": "other",
+      "note_en": "Double consonant rule",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "input_en": "Beautiful (Positive)",
+      "output_en": "More beautiful (Comparative), Most beautiful (Superlative)",
+      "degree_topic": "comparative_degree",
+      "note_en": "More than two syllables rule",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "input_en": "Inferior, superior, prior, anterior, posterior, senior, junior",
+      "output_en": "Raghu's intelligence is superior to Hari's. He is junior to all his colleagues.",
+      "degree_topic": "comparative_degree",
+      "note_en": "Examples of adjectives ending in -or requiring 'to'.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "short",
+      "output_en": "shorter - shortest",
+      "degree_topic": "comparative_degree",
+      "note_en": "Example of -er/-est formation.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "wonderful",
+      "output_en": "more wonderful - most wonderful",
+      "degree_topic": "comparative_degree",
+      "note_en": "Example of more/most formation.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "good",
+      "output_en": "better - best",
+      "degree_topic": "comparative_degree",
+      "note_en": "Example of irregular comparatives/superlatives.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "Marble flooring is superior to mosaic flooring.",
+      "output_en": "Ravi is junior to me.",
+      "degree_topic": "comparative_degree",
+      "note_en": "Examples of -or ending adjectives.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "The Nobel prize is the highest award given to scientists.",
+      "output_en": "The Japanese are the most industrious people.",
+      "degree_topic": "superlative_degree",
+      "note_en": "Examples of 'the' before superlative degree.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "That should be Robert's worst experience in all of his childhood days.",
+      "output_en": "N/A",
+      "degree_topic": "superlative_degree",
+      "note_en": "Example showing omission of 'the' before superlative with possessive noun.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "Ooty is as cool as Kodaikanal.",
+      "output_en": "Bangalore isn't so cool as Yercaud.",
+      "degree_topic": "positive_degree",
+      "note_en": "Comparison of equals (positive) and negative comparison.",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "input_en": "Teaching is nobler than any other profession.",
+      "output_en": "Teaching is the noblest of all professions.",
+      "degree_topic": "comparative_to_superlative",
+      "note_en": "Transformation of Type 1.",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "input_en": "Apples are not so costly as apples in the summer season.",
+      "output_en": "Apples are costlier than mangoes in the summer season.",
+      "degree_topic": "positive_to_comparative",
+      "note_en": "Type 4 transformation.",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "input_en": "tall",
+      "output_en": "taller (comparative), tallest (superlative)",
+      "degree_topic": "overview",
+      "note_en": "Standard adjective inflection table.",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "input_en": "smart",
+      "output_en": "smarter (comparative), smartest (superlative)",
+      "degree_topic": "overview",
+      "note_en": "Standard adjective inflection table.",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "input_en": "large",
+      "output_en": "larger (comparative), largest (superlative)",
+      "degree_topic": "overview",
+      "note_en": "Standard adjective inflection table.",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "input_en": "The ostrich runs fast.",
+      "output_en": "The deer runs faster than the ostrich.",
+      "degree_topic": "comparative_degree",
+      "note_en": "Comparison between two entities.",
+      "source": "grammer",
+      "source_page": 85
+    },
+    {
+      "input_en": "The cheetah is the fastest of all.",
+      "output_en": null,
+      "degree_topic": "superlative_degree",
+      "note_en": "Comparison of one entity against all others.",
+      "source": "grammer",
+      "source_page": 85
+    },
+    {
+      "input_en": "The ostrich runs fast.",
+      "output_en": null,
+      "degree_topic": "positive_degree",
+      "note_en": "Basic form of the adjective.",
+      "source": "grammer",
+      "source_page": 85
+    },
+    {
+      "input_en": "fast",
+      "output_en": "faster, fastest",
+      "degree_topic": "positive_degree",
+      "note_en": "Standard one-syllable addition",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "input_en": "tall",
+      "output_en": "taller, tallest",
+      "degree_topic": "positive_degree",
+      "note_en": "Standard one-syllable addition",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "input_en": "large",
+      "output_en": "larger, largest",
+      "degree_topic": "positive_degree",
+      "note_en": "Ends in e, add -r and -st",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "input_en": "wide",
+      "output_en": "wider, widest",
+      "degree_topic": "positive_degree",
+      "note_en": "Ends in e, add -r and -st",
+      "source": "grammer",
+      "source_page": 86
+    },
+    {
+      "input_en": "big",
+      "output_en": "bigger, biggest",
+      "degree_topic": "positive_degree",
+      "note_en": "Double letter rule",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "input_en": "happy",
+      "output_en": "happier, happiest",
+      "degree_topic": "positive_degree",
+      "note_en": "Y to i rule",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "input_en": "beautiful",
+      "output_en": "more beautiful, most beautiful",
+      "degree_topic": "positive_degree",
+      "note_en": "Disyllabic/Multisyllabic rule",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "input_en": "bad",
+      "output_en": "worse, worst",
+      "degree_topic": "positive_degree",
+      "note_en": "Exceptional case",
+      "source": "grammer",
+      "source_page": 87
+    },
+    {
+      "input_en": "tall (Positive)",
+      "output_en": "taller (Comparative) - tallest (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "note_en": "General base form provided in table",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "input_en": "smart (Positive)",
+      "output_en": "smarter (Comparative) - smartest (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Derived from provided table",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "input_en": "large (Positive)",
+      "output_en": "larger (Comparative) - largest (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Derived from provided table",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "input_en": "big (Positive)",
+      "output_en": "bigger (Comparative) - biggest (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Derived from provided table",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "input_en": "late (Positive)",
+      "output_en": "later/latter (Comparative) - latest/last (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Derived from provided table",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "input_en": "A donkey is strong. A horse is stronger than a donkey. An elephant is the strongest.",
+      "output_en": "Comparison of three things using the adjective strong.",
+      "degree_topic": "overview",
+      "note_en": "Example set using Positive, Comparative, and Superlative degrees.",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "input_en": "No other girl in the class is as tall as Ramya.",
+      "output_en": "Ramya is taller than any other girl in the class; Ramya is the tallest girl in the class.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Transformation from Positive to Comparative and Superlative.",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "input_en": "Very few girls in the class are as tall as Ramya.",
+      "output_en": "Ramya is taller than most other girls in the class; Ramya is one of the tallest girls in the class.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Transformation from Positive to Comparative and Superlative.",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "input_en": "Prabhu is young.",
+      "output_en": "Prabhu is younger than Amirtha; Prabhu is the youngest of all.",
+      "degree_topic": "overview",
+      "note_en": "Comparison across three degrees for the same subject.",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "input_en": "short",
+      "output_en": "short – shorter – shortest",
+      "degree_topic": "overview",
+      "note_en": "Example of adding -er and -est.",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "input_en": "wonderful",
+      "output_en": "wonderful – more wonderful – most wonderful",
+      "degree_topic": "overview",
+      "note_en": "Example of using more and most.",
+      "source": "grammer",
+      "source_page": 90
+    },
+    {
+      "input_en": "Marble flooring is superior to mosaic flooring.",
+      "output_en": "N/A",
+      "degree_topic": "comparative_degree",
+      "note_en": "Use of 'to' instead of 'than'.",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "input_en": "Ooty is as cool as Kodaikanal.",
+      "output_en": "Bangalore isn’t so cool as Yercaud.",
+      "degree_topic": "positive_degree",
+      "note_en": "Comparison of equals vs negative comparison.",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "input_en": "Radha is the taller of the two.",
+      "output_en": "N/A",
+      "degree_topic": "comparative_degree",
+      "note_en": "Use of 'of' for selection.",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "input_en": "The deeper you breathe, the calmer you become.",
+      "output_en": "N/A",
+      "degree_topic": "comparative_degree",
+      "note_en": "Interdependence comparison.",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "input_en": "We have not watched such a thrilling movie as this.",
+      "output_en": "This movie is more thrilling than any other movie, we have ever watched.",
+      "degree_topic": "positive_to_comparative",
+      "note_en": "Transformation from positive to comparative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "input_en": "This movie is more thrilling than any other movie, we have ever watched.",
+      "output_en": "This is the most thrilling movie, we have ever watched.",
+      "degree_topic": "comparative_to_superlative",
+      "note_en": "Transformation from comparative to superlative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "input_en": "My brother can climb a tree as fast as a monkey.",
+      "output_en": "A monkey cannot climb a tree faster than my brother.",
+      "degree_topic": "positive_to_comparative",
+      "note_en": "Transformation from positive to comparative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "input_en": "Sam is as tall as Pam.",
+      "output_en": "Positive Degree",
+      "degree_topic": "positive_degree",
+      "note_en": "Denotes equality",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "input_en": "Raj is taller than Joy.",
+      "output_en": "Comparative Degree",
+      "degree_topic": "comparative_degree",
+      "note_en": "Shows comparison between two",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "input_en": "Toby is the tallest boy in the class",
+      "output_en": "Superlative Degree",
+      "degree_topic": "superlative_degree",
+      "note_en": "Highest degree of quality",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "input_en": "Bold / Clever / Great",
+      "output_en": "Bolder/Boldest, Cleverer/Cleverest, Greater/Greatest",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Standard addition of er/est",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "input_en": "just, right, real, wrong",
+      "output_en": "more just than / the most just, etc.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Exceptions using more/most",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "input_en": "quickly, slowly, seldom",
+      "output_en": "more quickly than / the most quickly, etc.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Adverbs of more than one syllable",
+      "source": "govt",
+      "source_page": 104
+    },
+    {
+      "input_en": "Able",
+      "output_en": "abler, ablest",
+      "degree_topic": "overview",
+      "note_en": "Ends in e",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Brave",
+      "output_en": "braver, bravest",
+      "degree_topic": "overview",
+      "note_en": "Ends in e",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Fine",
+      "output_en": "finer, finest",
+      "degree_topic": "overview",
+      "note_en": "Ends in e",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Dry",
+      "output_en": "drier, driest",
+      "degree_topic": "overview",
+      "note_en": "y preceded by consonant",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Easy",
+      "output_en": "easier, easiest",
+      "degree_topic": "overview",
+      "note_en": "y preceded by consonant",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Gay",
+      "output_en": "gayer, gayest",
+      "degree_topic": "overview",
+      "note_en": "y preceded by vowel",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Gray",
+      "output_en": "grayer, grayest",
+      "degree_topic": "overview",
+      "note_en": "y preceded by vowel",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Fat",
+      "output_en": "fatter, fattest",
+      "degree_topic": "overview",
+      "note_en": "One syllable ending in consonant",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Hot",
+      "output_en": "hotter, hottest",
+      "degree_topic": "overview",
+      "note_en": "One syllable ending in consonant",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Charming",
+      "output_en": "more charming than, the most charming",
+      "degree_topic": "overview",
+      "note_en": "Ending in -ing",
+      "source": "govt",
+      "source_page": 105
+    },
+    {
+      "input_en": "Bad, evil, ill",
+      "output_en": "worse / worst",
+      "degree_topic": "positive_degree",
+      "note_en": "Irregular comparison",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "input_en": "Far (distance)",
+      "output_en": "farther / farthest",
+      "degree_topic": "positive_degree",
+      "note_en": "Irregular comparison",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "input_en": "Good, well",
+      "output_en": "better / best",
+      "degree_topic": "positive_degree",
+      "note_en": "Irregular comparison",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "input_en": "Little",
+      "output_en": "less / least",
+      "degree_topic": "positive_degree",
+      "note_en": "Irregular comparison",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "input_en": "Much (quantity) / Many (number)",
+      "output_en": "more / most",
+      "degree_topic": "positive_degree",
+      "note_en": "Irregular comparison",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "input_en": "Old",
+      "output_en": "older, elder / oldest, eldest",
+      "degree_topic": "positive_degree",
+      "note_en": "Irregular comparison",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "input_en": "Sushmita is as beautiful as Aishwarya.",
+      "output_en": "Aishwarya is not more beautiful than Sushmita.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Positive to Comparative",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "input_en": "Sameer is stronger.",
+      "output_en": "Sameer was not as strong before as he is now.",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Comparative to Positive",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "input_en": "Ramesh is the best batsman in the team.",
+      "output_en": "Ramesh is better than any other batsman in the team. (Comparative); No other batsman in the team is as good as Ramesh. (Positive)",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Type II A conversion",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "input_en": "Dhoni is the best batsman.",
+      "output_en": "Dhoni is better than any other batsman.",
+      "degree_topic": "comparative_degree",
+      "note_en": "Type II A transformation",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "input_en": "Dhoni is one of the best batsmen.",
+      "output_en": "Dhoni is better than many other batsmen.",
+      "degree_topic": "comparative_degree",
+      "note_en": "Type II B transformation",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "input_en": "No other man was as strong as Bhim.",
+      "output_en": "Bhim was the strongest man (S); Bhim was stronger than any other man (C).",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Type II A transformation",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "input_en": "Very few books I have read are as good as this one.",
+      "output_en": "This book is better than many other books I have read (C); This is one of the best books I have read (S).",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Type II B transformation",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "input_en": "Akbar was greater than most other emperors in the world.",
+      "output_en": "Akbar was one of the greatest emperors in the world (S); Very few emperors in the world were as great as Akbar (P).",
+      "degree_topic": "transformation_degrees",
+      "note_en": "Type II B transformation",
+      "source": "govt",
+      "source_page": 108
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Ranbi is one of the tallest girls.",
+      "answer_en": "Superlative",
+      "degree_topic": "transformation_degrees",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Arun is taller than any other boy in the class.",
+      "answer_en": "Comparative",
+      "degree_topic": "transformation_degrees",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "No other boy in the class is so tall as Arun.",
+      "answer_en": "Positive",
+      "degree_topic": "transformation_degrees",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "He is the ___ musician.",
+      "answer_en": "best",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Ravi's handwriting is ___ than that of Muthu.",
+      "answer_en": "better",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Your answer is the ___ relevant.",
+      "answer_en": "most",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "The Ganges is the ___ river of India.",
+      "answer_en": "longest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Rajasthan is the India's ___ state by area.",
+      "answer_en": "largest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Goa is the ___ state of India by area.",
+      "answer_en": "smallest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Ganesh is the ___ boy in the class.",
+      "answer_en": "tallest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "He is the ___ player in the team.",
+      "answer_en": "best",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Jupiter is the ___ of all planets.",
+      "answer_en": "biggest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Very few boys in the school are ____ Gopi. (a) as tall as (b) good (c) tallest as",
+      "answer_en": "(a) as tall as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Shakespeare is one of the ____ dramatists in the world. (a) Better (b) swiftest as (c) best",
+      "answer_en": "(c) best",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Veena is ____ most other students in her class. (a) as hard-working as (b) more hard-working than (c) most hard-working as",
+      "answer_en": "(b) more hard-working than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "He is ____ of the two (a) the tallest (b) taller than (c) the taller",
+      "answer_en": "(c) the taller",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Iron is ____ any other metal. (a) As useful as (b) more useful than (c) most useful as",
+      "answer_en": "(b) more useful than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Calcutta is ____ any other city. (a) most crowded as (b) most crowded than (c) more crowded than",
+      "answer_en": "(c) more crowded than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Very few actors are ____ Kiran. (a) more popular as (b) most popular than (c) as popular as",
+      "answer_en": "(c) as popular as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "This lesson is ____ any other lesson. (a) as interesting as (b) most interesting than (c) more interesting than",
+      "answer_en": "(c) more interesting than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Tiger is ____ animals in the world. (a) the responsible (b) the most responsible (c) more responsible",
+      "answer_en": "(b) the most responsible",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Very few countries are ____ India. (a) more populated as (b) more populated than (c) as populated as",
+      "answer_en": "(c) as populated as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "No other teacher is ____ the maths teacher. (a) more kind-hearted than (b) most kind-hearted as (c) as kind-hearted as",
+      "answer_en": "(c) as kind-hearted as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Rose is ____ any other flower. (a) as pretty as (b) prettier than (c) prettiest as",
+      "answer_en": "(b) prettier than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "It was ____ moment of my life, when I won the prize. (a) a happier (b) the happier (c) the happiest",
+      "answer_en": "(c) the happiest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Tagore is ____ many other writers. (a) is as great as (b) greater than (c) greatest than",
+      "answer_en": "(b) greater than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "No other flower is ____ the lotus. (a) as majestic as (b) more majestic as (c) most majestic as",
+      "answer_en": "(a) as majestic as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "I experienced ____ disappointment ever in life yesterday. (a) a terrible (b) the most terrible (c) a more terrible",
+      "answer_en": "(b) the most terrible",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "No other freedom fighter was ____ Gandhi. (a) so simple as (b) simpler than (c) simplest as",
+      "answer_en": "(a) so simple as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Some frogs in South America are ____ any other animal in the world. (a) As poisonous (b) more poisonous than (c) most poisonous",
+      "answer_en": "(b) more poisonous than",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "No other train is ____ the Rajdhani Express. (a) faster than (b) fastest as (c) as fast as",
+      "answer_en": "(c) as fast as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Very few boys in the school are ____ Gopi (a) taller than (b) as tall as (c) tallest as",
+      "answer_en": "(b) as tall as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "No other girl in the class is ____ Kamala. (a) most clever as (b) more clever as (c) as clever as",
+      "answer_en": "(c) as clever as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Very few boys in the school are ____ Shyam. (a) intelligent than (b) as intelligent as (c) more intelligent than",
+      "answer_en": "(b) as intelligent as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "The Nile is ____ rivers in the world. (a) the longest (b) one of the longest (c) longer than any other",
+      "answer_en": "(b) one of the longest",
+      "degree_topic": "superlative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Ravi is more capable ____ boy. (a) than any other (b) as the other (c) than most other",
+      "answer_en": "(a) than any other",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "No other metal is ____ platinum.",
+      "answer_en": "as useful as",
+      "degree_topic": "positive_degree",
+      "source": "asan",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "A plane is faster than a train.",
+      "answer_en": "Comparative degree (faster...than)",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "Silver is cheaper than gold.",
+      "answer_en": "Comparative degree (cheaper...than)",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "City is larger than village.",
+      "answer_en": "Comparative degree (larger...than)",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "Ocean is bigger than sea.",
+      "answer_en": "Comparative degree (bigger...than)",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "A giraffe is taller than camel.",
+      "answer_en": "Comparative degree (taller...than)",
+      "degree_topic": "comparative_degree",
+      "source": "asan",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "Compare two things: Which is faster? A train or a plane?",
+      "answer_en": "A plane is faster than a train.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "prompt_en": "Compare two things: Which is cheaper? Gold or Silver?",
+      "answer_en": "Silver is cheaper than Gold.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "prompt_en": "Compare two things: Which is larger? City or village?",
+      "answer_en": "A city is larger than a village.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "prompt_en": "Compare two things: Which is bigger? A sea or an ocean?",
+      "answer_en": "An ocean is bigger than a sea.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "prompt_en": "Compare two things: Which is taller? A giraffe or a camel?",
+      "answer_en": "A giraffe is taller than a camel.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "prompt_en": "No other profession is as noble as teaching.",
+      "answer_en": "Teaching is nobler than any other profession. (Comparative) / Teaching is the noblest of all professions. (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "prompt_en": "Very few professions are as noble as teaching.",
+      "answer_en": "Teaching is nobler than many/most other professions. (Comparative) / Teaching is one of the noblest professions. (Superlative)",
+      "degree_topic": "transformation_degrees",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "prompt_en": "Apples are costlier than mangoes in the summer season.",
+      "answer_en": "Mangoes are not so costly as apples in the summer season.",
+      "degree_topic": "transformation_degrees",
+      "source": "grammer",
+      "source_page": 91
+    },
+    {
+      "prompt_en": "Very few boys in the class are as tall as Ravi.",
+      "answer_en": "Ravi is taller than most other boys in the class.",
+      "degree_topic": "positive_to_comparative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Hurricanes are as dangerous as tornadoes.",
+      "answer_en": "Tornadoes are not more dangerous than hurricanes.",
+      "degree_topic": "positive_to_comparative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "This is the most challenging task I have ever undertaken.",
+      "answer_en": "This is more challenging than any other task I have ever undertaken.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "E-mail is the fastest means of communication.",
+      "answer_en": "E-mail is faster than any other means of communication.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Compulsive gambling is the worst habit a man can develop.",
+      "answer_en": "Compulsive gambling is worse than any other habit a man can develop.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Shakespeare is greater than many other dramatists of the world.",
+      "answer_en": "Shakespeare is one of the greatest dramatists of the world.",
+      "degree_topic": "comparative_to_superlative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Some people think that nothing is as important as money in life.",
+      "answer_en": "Some people think that money is the most important thing in life.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "The peacock is more colourful than any other bird found in India.",
+      "answer_en": "The peacock is the most colourful bird found in India.",
+      "degree_topic": "comparative_to_superlative",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Very few people in this town are as generous as Mr. Mohan.",
+      "answer_en": "Mr. Mohan is one of the most generous people in this town.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "No other planet in our solar system is as cold as Neptune.",
+      "answer_en": "Neptune is the coldest planet in our solar system.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Rural life is certainly more peaceful than urban life.",
+      "answer_en": "Urban life is not as peaceful as rural life.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "The pen is mightier than the sword.",
+      "answer_en": "The sword is not as mighty as the pen.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Train journey is more comfortable than bus journey.",
+      "answer_en": "Bus journey is not as comfortable as train journey.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Gold is not more useful than iron.",
+      "answer_en": "Iron is as useful as gold.",
+      "degree_topic": "other",
+      "source": "grammer",
+      "source_page": 92
+    },
+    {
+      "prompt_en": "Oxygen is more heavier than hydrogen.",
+      "answer_en": "Oxygen is heavier than hydrogen.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Very few indoor games are more interesting than chess.",
+      "answer_en": "Very few indoor games are as interesting as chess.",
+      "degree_topic": "positive_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Henry is the most strongest of all the players in the team.",
+      "answer_en": "Henry is the strongest of all the players in the team.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Faster you run, sooner you get tired.",
+      "answer_en": "The faster you run, the sooner you get tired.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Diamond is more precious than any gem.",
+      "answer_en": "Diamond is more precious than any other gem.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Mr. Sridhar is wiser than all men in our family.",
+      "answer_en": "Mr. Sridhar is wiser than all other men in our family.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "The Biology lab in our school is spacious than the Chemistry lab.",
+      "answer_en": "The Biology lab in our school is more spacious than the Chemistry lab.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "This is one of the busier streets in our town.",
+      "answer_en": "This is one of the busiest streets in our town.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "The sparrow is the most unique bird.",
+      "answer_en": "The sparrow is a unique bird.",
+      "degree_topic": "positive_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Beema is stronger among the five Pandava brothers.",
+      "answer_en": "Beema is the strongest among the five Pandava brothers.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "An ounce is lesser than a gallon.",
+      "answer_en": "An ounce is less than a gallon.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Let me introduce my oldest daughter to you all.",
+      "answer_en": "Let me introduce my eldest daughter to you all.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "Of the two sisters, Helen is the prettiest.",
+      "answer_en": "Of the two sisters, Helen is the prettier.",
+      "degree_topic": "comparative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "This is the most least mark I have ever scored.",
+      "answer_en": "This is the lowest mark I have ever scored.",
+      "degree_topic": "superlative_degree",
+      "source": "grammer",
+      "source_page": 94
+    },
+    {
+      "prompt_en": "John is more intelligent than Joseph",
+      "answer_en": "Joseph is not as intelligent as John.",
+      "degree_topic": "other",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "prompt_en": "Sudha sings better than she dances.",
+      "answer_en": "Sudha doesn’t dance as well as she sings.",
+      "degree_topic": "other",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "prompt_en": "Rahul is a better writer than a singer.",
+      "answer_en": "Rahul is not as good a singer as a writer.",
+      "degree_topic": "other",
+      "source": "govt",
+      "source_page": 106
+    },
+    {
+      "prompt_en": "Some people have more money than brains.",
+      "answer_en": "Some people do not have as much brains as money.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "I know him as well as you do.",
+      "answer_en": "You do not know him better than I do.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "It is easier to preach than to practise.",
+      "answer_en": "It is not as easy to practise as to preach.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "A wise enemy is better than a foolish friend.",
+      "answer_en": "A foolish friend is not as good as a wise enemy.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "The pen is mightier than the sword.",
+      "answer_en": "The sword is not as mighty as the pen is.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 107
+    },
+    {
+      "prompt_en": "Radha is the smartest girl in the class.",
+      "answer_en": "Radha is smarter than any other girl in the class (C); No other girl in the class is as smart as Radha (P).",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "prompt_en": "Nothing in the world is as important as being honest.",
+      "answer_en": "Being honest is the most important thing in the world (S); Being honest is more important than any other thing in the world (C).",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "prompt_en": "The Taj Mahal is more magnificent than any other monument in India.",
+      "answer_en": "The Taj Mahal is the most magnificent monument in India (S); No other monument in India is as magnificent as the Taj Mahal (P).",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "prompt_en": "Helen of Troy was the most beautiful woman in the world.",
+      "answer_en": "Helen of Troy was more beautiful than any other woman in the world (C); No other woman in the world was as beautiful as Helen of Troy (P).",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "prompt_en": "No flower is as sweet smelling as the rose.",
+      "answer_en": "The rose is the sweetest smelling flower of all (S); The rose smells sweeter than any other flower (C).",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 108
+    },
+    {
+      "prompt_en": "Sachin Tendulkar is one of the greatest cricketers in the world.",
+      "answer_en": "Sachin Tendulkar is greater than most cricketers in the world. Very few cricketers in the world are as great as Sachin Tendulkar.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 109
+    },
+    {
+      "prompt_en": "Very few animals are as useful as the cow.",
+      "answer_en": "The cow is more useful than many other animals. The cow is one of the most useful animals.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 109
+    },
+    {
+      "prompt_en": "Suresh is more industrious than many other boys of his age.",
+      "answer_en": "Suresh is one of the most industrious boys of his age. Very few boys of his age are as industrious as Suresh.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 109
+    },
+    {
+      "prompt_en": "Tilak was one of the most prominent leaders of India.",
+      "answer_en": "Tilak was more prominent than most other leaders. Very few leaders were as prominent as Tilak.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 109
+    },
+    {
+      "prompt_en": "Kolkata is more thickly populated than most other cities of India.",
+      "answer_en": "Kolkata is one of the most thickly populated cities of India. Very few cities of India are as populated as Kolkatta.",
+      "degree_topic": "transformation_degrees",
+      "source": "govt",
+      "source_page": 109
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 67,
+      "examples": 80,
+      "worked_exercises": 96
+    },
+    "by_degree_topic": {
+      "overview": {
+        "rules": 22,
+        "examples": 17,
+        "worked": 0
+      },
+      "other": {
+        "rules": 4,
+        "examples": 4,
+        "worked": 13
+      },
+      "comparative_degree": {
+        "rules": 16,
+        "examples": 13,
+        "worked": 27
+      },
+      "superlative_degree": {
+        "rules": 9,
+        "examples": 4,
+        "worked": 18
+      },
+      "positive_degree": {
+        "rules": 6,
+        "examples": 18,
+        "worked": 13
+      },
+      "transformation_degrees": {
+        "rules": 10,
+        "examples": 19,
+        "worked": 21
+      },
+      "comparative_to_superlative": {
+        "rules": 0,
+        "examples": 2,
+        "worked": 2
+      },
+      "positive_to_comparative": {
+        "rules": 0,
+        "examples": 3,
+        "worked": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "subject_id": "English",
+  "menu": "sentence_transformation",
+  "sources": [
+    "asan types of sentences, transformation of sentences.pdf pp.1–8 (primary)",
+    "Grammer.pdf pp.[70, 71] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "There are four types of sentences based on function: Assertive or Declarative, Interrogative, Imperative, and Exclamatory.",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Assertive/Declarative sentences make a statement or assertion and end with a full stop.",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Interrogative sentences are used to ask questions, interrogate, or make inquiries and end with a question mark.",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Imperative sentences express a request, command, or instruction, usually ending with a period but occasionally an exclamation point.",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Exclamatory sentences express strong feelings like surprise, wonder, or emotion and end with an exclamation mark.",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Identify sentence types: Statement (Declarative), Interrogative, Imperative (Command/Request), and Exclamatory.",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Transforming an assertive sentence into an imperative sentence involves restructuring the sentence to give a command, request, advice, or instruction.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "General Rule: Remove the subject 'you' and begin with the verb. If the assertive sentence has 'should' or 'ought to', drop them and use the main verb directly.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If the assertive sentence expresses a duty or necessity, remove 'must' and begin directly with the verb.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If the assertive sentence contains 'never', keep 'never' at the beginning and remove 'should'.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If the assertive sentence contains 'It is necessary to', remove 'It is necessary to' and begin with the verb.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If the assertive sentence has 'Let us', it can be rewritten as 'Let's' for a suggestion.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If the subject is anything but except 'You', write 'Let' + objective form of that subject.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If the sentence is negative interrogative, change it to affirmative. If it is bare interrogative, change it to negative.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "If there is no auxiliary verb in the sentence, change it by using do / does / did or don't / doesn't / didn't.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "'Ever' in the interrogative sentence is replaced by 'never' in assertive sentences.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "'Who' + 'don't/doesn't/didn't' in interrogative sentences is replaced by someone/somebody/everybody/everyone/no one/nobody/anybody/anyone in assertive sentences.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "'Though/does it matter' is replaced by 'it doesn't matter'.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "'Anything' in interrogative sentences is replaced by 'nothing' in assertive sentences.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Use 'not' before opposite words to change Assertive to Negative.",
+      "transform_topic": "assertive_to_negative",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "If the sentence of Comparative degree is Assertive then use 'not' in positive degree to make negative sentence.",
+      "transform_topic": "assertive_to_negative",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "If the sentence of positive degree is Affirmative then use 'not' in comparative degree to make negative sentence.",
+      "transform_topic": "assertive_to_negative",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Replace 'alone' or 'only' with 'None but' at the start of the sentence.",
+      "transform_topic": "assertive_to_negative",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "'Always' in assertive changes to 'never fails to be, does not fail to' in negative.",
+      "transform_topic": "assertive_to_negative",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Remove words like very, extremely and add 'what', 'how'. Remove (.) and add (!) in exclamatory sentence.",
+      "transform_topic": "exclamatory_to_statement",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Add words like very, extremely, certainly; Remove (!) and add (.) in Assertive sentences. Exclamatory: What a surprise to see you here. Statement: It is indeed a surprise to see you here.",
+      "transform_topic": "exclamatory_to_statement",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Use 'Will you' or 'Would you' for Politeness (Requests & Commands)",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Can you' or 'Could you' for Asking Ability-based Requests",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Shall I / Shall we' for Suggestions",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Why don't you' for Advice or Suggestions",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Do you mind' for Polite Requests",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Is it possible to' for Formal Requests",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Would you mind' for Extra Politeness",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'It is good/nice/great that...' to express admiration or approval",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'You are so kind/generous/wonderful to...' to express admiration or approval",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'I appreciate your...' to express admiration or approval",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'It is admirable that...' to express admiration or approval",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Use 'Well done for...' to express admiration or approval",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "To change an imperative sentence to passive voice, use 'You are requested to' (for polite requests) or 'You are warned/ordered to' (for warnings/commands).",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "rule_en": "To change a request from Active to Passive voice, replace 'Please' with 'You are requested to'. If the request is negative, use 'You are requested not to'.",
+      "transform_topic": "other",
+      "source": "grammer",
+      "source_page": 71
+    }
+  ],
+  "examples": [
+    {
+      "input": "Rahim is sitting under a tree",
+      "output": "Rahim is sitting under a tree",
+      "kind": "example",
+      "transform_topic": "overview",
+      "note_en": "Example of Assertive sentence.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Where is your new bag?",
+      "output": "Where is your new bag?",
+      "kind": "example",
+      "transform_topic": "overview",
+      "note_en": "Example of Open-ended Interrogative question.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Be quite.",
+      "output": "Be quite.",
+      "kind": "example",
+      "transform_topic": "overview",
+      "note_en": "Example of Imperative sentence.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Look how tall the tree is!",
+      "output": "Look how tall the tree is!",
+      "kind": "example",
+      "transform_topic": "overview",
+      "note_en": "Example of Exclamatory sentence.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "You should be careful while crossing the road.",
+      "output": "Be careful while crossing the road.",
+      "kind": "transform",
+      "transform_topic": "statement_to_imperative",
+      "note_en": "Applying the rule of dropping 'should'.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "You must follow the rules.",
+      "output": "Follow the rules.",
+      "kind": "transform",
+      "transform_topic": "statement_to_imperative",
+      "note_en": "Applying the rule of removing 'must'.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "You should never tell lies.",
+      "output": "Never tell lies.",
+      "kind": "transform",
+      "transform_topic": "statement_to_imperative",
+      "note_en": "Applying the rule for sentences containing 'never'.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "It is necessary to submit the form before Monday.",
+      "output": "Submit the form before Monday.",
+      "kind": "transform",
+      "transform_topic": "statement_to_imperative",
+      "note_en": "Removing 'It is necessary to'.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Let us go for a walk.",
+      "output": "Let's go for a walk.",
+      "kind": "transform",
+      "transform_topic": "statement_to_imperative",
+      "note_en": "Using 'Let's' for a suggestion.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "They want to go for a movie tonight.",
+      "output": "Let them go for a movie tonight.",
+      "kind": "transform",
+      "transform_topic": "statement_to_imperative",
+      "note_en": "Subject is 'They', so use 'Let' + objective form 'them'.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Didn't he complete his homework?",
+      "output": "He completed his homework.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Negative interrogative to affirmative statement.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Is this not the right way?",
+      "output": "This is the right way.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Negative interrogative to affirmative statement.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "He plays Football.",
+      "output": "Does he play football?",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Using 'does' for auxiliary.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "They visited the museum.",
+      "output": "Didn't they visit the museum?",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Using 'didn't' for past tense.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Have you ever seen a ghost?",
+      "output": "I have never seen a ghost.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Ever to never.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Does she ever help the poor?",
+      "output": "She never helps the poor.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Ever to never.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Who doesn't like chocolate?",
+      "output": "Everybody likes chocolate.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Who + doesn't to everybody.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Who didn't attend the meeting?",
+      "output": "No one attended the meeting.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Who + didn't to no one.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Who doesn't want to succeed?",
+      "output": "Everyone wants to succeed.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Who + doesn't to everyone.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Does it matter if I am late?",
+      "output": "It doesn't matter if you are late.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "Does it matter to it doesn't matter.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "What though if you fail in an interview?",
+      "output": "It doesn't matter if you fail in an interview.",
+      "kind": "transform",
+      "transform_topic": "interrogative_to_statement",
+      "note_en": "What though to it doesn't matter.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "This girl is witty.",
+      "output": "This girl is not dull.",
+      "kind": "transform",
+      "transform_topic": "assertive_to_negative",
+      "note_en": "Using not before opposite words.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "Ravi is not so great as you.",
+      "output": "You are greater than Ravi.",
+      "kind": "transform",
+      "transform_topic": "assertive_to_negative",
+      "note_en": "Transformation between comparative and positive degrees.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "He is as honest as his father.",
+      "output": "He is not more honest than your father.",
+      "kind": "transform",
+      "transform_topic": "assertive_to_negative",
+      "note_en": "Positive to comparative for negative sentence.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "Ravi alone scored well in the Maths test.",
+      "output": "None but Ravi scored well in the Maths test.",
+      "kind": "transform",
+      "transform_topic": "assertive_to_negative",
+      "note_en": "Replace alone with None but.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "South Indian movies always entertain.",
+      "output": "South Indian movies never fails to entertain.",
+      "kind": "transform",
+      "transform_topic": "assertive_to_negative",
+      "note_en": "Always changes to never fails to.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "Close the door.",
+      "output": "Will you close the door?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Politeness",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Speak louder.",
+      "output": "Can you speak louder?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Asking ability",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Let us go for a walk.",
+      "output": "Shall we go for a walk?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Suggestions",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Visit the doctor.",
+      "output": "Why don't you visit the doctor?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Advice",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Open the window.",
+      "output": "Do you mind opening the window?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Polite request",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Send me the report.",
+      "output": "Is it possible to send me the report?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Formal request",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Lend me your pen.",
+      "output": "Would you mind lending me your pen?",
+      "kind": "example",
+      "transform_topic": "imperative_to_interrogative",
+      "note_en": "Extra politeness",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Help the poor.",
+      "output": "It is good that you help the poor.",
+      "kind": "example",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Admiration",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Donate to charity.",
+      "output": "You are so generous to donate to charity.",
+      "kind": "example",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Admiration",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Support your team.",
+      "output": "I appreciate your support for your team.",
+      "kind": "example",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Admiration",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Always tell the truth.",
+      "output": "It is admirable that you always tell the truth.",
+      "kind": "example",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Admiration",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Complete your work on time.",
+      "output": "Well done for completing your work on time.",
+      "kind": "example",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Admiration",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "input": "Help me.",
+      "output": "You are requested to help me.",
+      "kind": "transform",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Used for polite requests.",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "input": "Don’t touch it.",
+      "output": "You are warned not to touch it.",
+      "kind": "transform",
+      "transform_topic": "imperative_to_appreciative",
+      "note_en": "Used for warnings or prohibitions.",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "input": "Please assemble in the ground.",
+      "output": "You are requested to assemble in the ground.",
+      "kind": "transform",
+      "transform_topic": "other",
+      "note_en": "Changing an imperative request to passive voice structure.",
+      "source": "grammer",
+      "source_page": 71
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "1. This is a banyan tree.",
+      "answer_en": "Statement",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "2. Is this a banyan tree?",
+      "answer_en": "Interrogative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "3. What a beautiful banyan tree!",
+      "answer_en": "Exclamatory",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "4. Look at this banyan tree.",
+      "answer_en": "Imperative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "5. The little kitten feel so soft and warm.",
+      "answer_en": "Affirmative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "6. Wow! That was cool.",
+      "answer_en": "Exclamatory",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "7. Stop hitting me.",
+      "answer_en": "Imperative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "8. Quit crying.",
+      "answer_en": "Imperative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "9. Can you see the bottom of the pond?",
+      "answer_en": "Interrogative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "14. Show mom your report card.",
+      "answer_en": "Imperative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "16. Belinda has a blue dress today.",
+      "answer_en": "Affirmative",
+      "transform_topic": "overview",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 1. He plays hockey.",
+      "answer_en": "Play hockey.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 2. She wants to go out.",
+      "answer_en": "Go out.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 3. We do not hate the poor.",
+      "answer_en": "Do not hate the poor.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 4. We should have the courage to say the right things.",
+      "answer_en": "Have the courage to say the right things.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 5. We should take care of our health.",
+      "answer_en": "Take care of your health.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 6. You should not kill your time.",
+      "answer_en": "Do not kill your time.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 7. You should think before you leap.",
+      "answer_en": "Think before you leap.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 8. He helps the poor.",
+      "answer_en": "Help the poor.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 9. Would you post the letter for me, please?",
+      "answer_en": "Please post the letter for me.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 10. Who does not like to be praised?",
+      "answer_en": "Let everyone like to be praised.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 11. You should do the work.",
+      "answer_en": "Do the work.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 12. He should do the work.",
+      "answer_en": "Let him do the work.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 13. You should always tell the truth.",
+      "answer_en": "Always tell the truth.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 14. You are asked to help me.",
+      "answer_en": "Help me.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "I. Interchange Statement to Imperatives - 1: 15. We should not break the rules of the college.",
+      "answer_en": "Do not break the rules of the college.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 1. You should complete your homework.",
+      "answer_en": "Complete your homework.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 2. We must respect our elders.",
+      "answer_en": "Respect our elders.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 3. He should wait outside.",
+      "answer_en": "Let him wait outside.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 4. You must not waste your time.",
+      "answer_en": "Do not waste your time.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 5. It is necessary to follow the instructions.",
+      "answer_en": "Follow the instructions.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 6. You must obey traffic rules.",
+      "answer_en": "Obey traffic rules.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 7. You are advised to be punctual.",
+      "answer_en": "Be punctual.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 8. We should obey traffic rules.",
+      "answer_en": "Obey traffic rules.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 9. You ought to be kind to others.",
+      "answer_en": "Be kind to others.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "II. Interchange Statement to Imperatives - 2: 10. It is important to keep your surroundings clean.",
+      "answer_en": "Keep your surroundings clean.",
+      "transform_topic": "statement_to_imperative",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 1. What though we happen to be late?",
+      "answer_en": "It does not matter though we happen to be late.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 2. Why waste time in reading trash?",
+      "answer_en": "It is useless to waste time in reading trash.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 3. Were we sent into the world simply to make money?",
+      "answer_en": "We were not sent into the world simply to make money.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 4. How can man die better than facing fearful odds?",
+      "answer_en": "Man cannot die better than facing fearful odds.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 5. When can their glory fade?",
+      "answer_en": "Their glory can never fade.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 6. Was he not a villain to do such a deed?",
+      "answer_en": "He was indeed a villain to do such a deed.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 7. Who can touch pitch without being defiled?",
+      "answer_en": "No one can touch pitch without being defiled.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 8. Can any man by taking thought add a cubit to his stature?",
+      "answer_en": "No man can by taking thought add a cubit to his stature.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 9. What though the field be lost?",
+      "answer_en": "It does not matter though the field be lost.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 10. Is that the way a gentleman should behave?",
+      "answer_en": "That is not the way a gentleman should behave.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 11. Who does not know the owl?",
+      "answer_en": "Everyone knows the owl.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 12. Shall I ever forget those happy days?",
+      "answer_en": "I shall never forget those happy days.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "III. Interchange Interrogative to Statements - 1: 13. Who is so wicked as to amuse himself with the infirmities of extreme old age?",
+      "answer_en": "No one is so wicked as to amuse himself with the infirmities of extreme old age.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "1. How sweet the moonlight sleeps upon this bank!",
+      "answer_en": "The moonlight sleeps very sweetly upon this bank.",
+      "transform_topic": "exclamatory_to_statement",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "2. If only I were young again!",
+      "answer_en": "I wish that I were young again.",
+      "transform_topic": "exclamatory_to_statement",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "3. Alas that youth should pass away!",
+      "answer_en": "It is sad that youth should pass away.",
+      "transform_topic": "exclamatory_to_statement",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "1. Pass me the salt.",
+      "answer_en": "Will you pass me the salt?",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "2. Turn off the lights.",
+      "answer_en": "Will you turn off the lights?",
+      "transform_topic": "imperative_to_interrogative",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "1. Be kind to animals.",
+      "answer_en": "How kind it is to be kind to animals!",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "2. Always help those in need.",
+      "answer_en": "How noble it is to always help those in need!",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "prompt_en": "Transform 'Do you mind waiting for a moment?' to imperative.",
+      "answer_en": "Wait for a moment.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'Could you write neatly?' to imperative.",
+      "answer_en": "Write neatly.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'Will you take your seat?' to imperative.",
+      "answer_en": "Take your seat.",
+      "transform_topic": "interrogative_to_statement",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'It is great that you work hard.' to appreciative.",
+      "answer_en": "You work hard; that is great.",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'I appreciate your willingness to share your knowledge.' to statement.",
+      "answer_en": "You are willing to share your knowledge.",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'Well done for following the rules.' to statement.",
+      "answer_en": "You followed the rules well.",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'I admire your respect for other people's opinions.' to statement.",
+      "answer_en": "You show respect for other people's opinions.",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "prompt_en": "Transform 'It is important that you take care of your health.' to imperative.",
+      "answer_en": "Take care of your health.",
+      "transform_topic": "imperative_to_appreciative",
+      "source": "asan",
+      "source_page": 8
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 40,
+      "examples": 41,
+      "worked_exercises": 64
+    },
+    "by_transform_topic": {
+      "overview": {
+        "rules": 6,
+        "examples": 4,
+        "worked": 11
+      },
+      "statement_to_imperative": {
+        "rules": 7,
+        "examples": 6,
+        "worked": 25
+      },
+      "interrogative_to_statement": {
+        "rules": 6,
+        "examples": 11,
+        "worked": 16
+      },
+      "assertive_to_negative": {
+        "rules": 5,
+        "examples": 5,
+        "worked": 0
+      },
+      "exclamatory_to_statement": {
+        "rules": 2,
+        "examples": 0,
+        "worked": 3
+      },
+      "imperative_to_interrogative": {
+        "rules": 7,
+        "examples": 7,
+        "worked": 2
+      },
+      "imperative_to_appreciative": {
+        "rules": 6,
+        "examples": 7,
+        "worked": 7
+      },
+      "other": {
+        "rules": 1,
+        "examples": 1,
+        "worked": 0
+      }
+    }
+  }
+}

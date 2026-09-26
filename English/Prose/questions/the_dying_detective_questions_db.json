@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of 'The Dying Detective'?",
+    "question_ta": "Who is the author of 'The Dying Detective'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rudyard Kipling",
+        "text_ta": "Rudyard Kipling"
+      },
+      {
+        "key": "B",
+        "text_en": "George Bernard Shaw",
+        "text_ta": "George Bernard Shaw"
+      },
+      {
+        "key": "C",
+        "text_en": "Sir Arthur Conan Doyle",
+        "text_ta": "Sir Arthur Conan Doyle"
+      },
+      {
+        "key": "D",
+        "text_en": "Charles Dickens",
+        "text_ta": "Charles Dickens"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The story 'The Dying Detective' was written by Sir Arthur Conan Doyle (1859-1930).",
+    "explanation_ta": "The story 'The Dying Detective' was written by Sir Arthur Conan Doyle (1859-1930).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "R1: Author: Sir Arthur Ignatius Conan Doyle (1859-1930)."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who narrates the events in 'The Dying Detective'?",
+    "question_ta": "Who narrates the events in 'The Dying Detective'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dr. Watson",
+        "text_ta": "Dr. Watson"
+      },
+      {
+        "key": "B",
+        "text_en": "Inspector Morton",
+        "text_ta": "Inspector Morton"
+      },
+      {
+        "key": "C",
+        "text_en": "Sherlock Holmes",
+        "text_ta": "Sherlock Holmes"
+      },
+      {
+        "key": "D",
+        "text_en": "Mrs. Hudson",
+        "text_ta": "Mrs. Hudson"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The story is narrated by Holmes's loyal friend and assistant, Dr. Watson.",
+    "explanation_ta": "The story is narrated by Holmes's loyal friend and assistant, Dr. Watson.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "R5: The story was narrated by the character Dr. Watson."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Mrs. Hudson's relation to Sherlock Holmes?",
+    "question_ta": "What was Mrs. Hudson's relation to Sherlock Holmes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "His relative",
+        "text_ta": "His relative"
+      },
+      {
+        "key": "B",
+        "text_en": "His nurse",
+        "text_ta": "His nurse"
+      },
+      {
+        "key": "C",
+        "text_en": "His landlady",
+        "text_ta": "His landlady"
+      },
+      {
+        "key": "D",
+        "text_en": "His sister",
+        "text_ta": "His sister"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mrs. Hudson was the concerned landlady of Sherlock Holmes who summoned Dr. Watson.",
+    "explanation_ta": "Mrs. Hudson was the concerned landlady of Sherlock Holmes who summoned Dr. Watson.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "C4 & W1: Mrs. Hudson was the landlady of Sherlock Holmes."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why was Mrs. Hudson extremely worried about Holmes?",
+    "question_ta": "Why was Mrs. Hudson extremely worried about Holmes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He was arrested by Inspector Morton",
+        "text_ta": "He was arrested by Inspector Morton"
+      },
+      {
+        "key": "B",
+        "text_en": "He had been sick for three days and was dying",
+        "text_ta": "He had been sick for three days and was dying"
+      },
+      {
+        "key": "C",
+        "text_en": "He refused to pay his rent",
+        "text_ta": "He refused to pay his rent"
+      },
+      {
+        "key": "D",
+        "text_en": "He had left for Sumatra without informing her",
+        "text_ta": "He had left for Sumatra without informing her"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mrs. Hudson was worried because Holmes had been sick for three days and appeared to be dying.",
+    "explanation_ta": "Mrs. Hudson was worried because Holmes had been sick for three days and appeared to be dying.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "W1: She was worried because Holmes had been sick for three days and was dying."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to Holmes, what deadly disease was he suffering from?",
+    "question_ta": "According to Holmes, what deadly disease was he suffering from?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A rare form of malaria from London",
+        "text_ta": "A rare form of malaria from London"
+      },
+      {
+        "key": "B",
+        "text_en": "A mysterious plague from Tibet",
+        "text_ta": "A mysterious plague from Tibet"
+      },
+      {
+        "key": "C",
+        "text_en": "An infection from Baker Street",
+        "text_ta": "An infection from Baker Street"
+      },
+      {
+        "key": "D",
+        "text_en": "A contagious disease from Sumatra",
+        "text_ta": "A contagious disease from Sumatra"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Holmes claimed he was suffering from a deadly and contagious disease originating from Sumatra.",
+    "explanation_ta": "Holmes claimed he was suffering from a deadly and contagious disease originating from Sumatra.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "W2: Holmes claimed he was suffering from a deadly and contagious disease from Sumatra."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did Holmes strictly forbid Dr. Watson from doing when he first arrived?",
+    "question_ta": "What did Holmes strictly forbid Dr. Watson from doing when he first arrived?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Touching his belongings",
+        "text_ta": "Touching his belongings"
+      },
+      {
+        "key": "B",
+        "text_en": "Opening the window",
+        "text_ta": "Opening the window"
+      },
+      {
+        "key": "C",
+        "text_en": "Writing a letter",
+        "text_ta": "Writing a letter"
+      },
+      {
+        "key": "D",
+        "text_en": "Calling a police inspector",
+        "text_ta": "Calling a police inspector"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Holmes forbade Watson from touching his belongings due to the supposed highly contagious nature of his illness.",
+    "explanation_ta": "Holmes forbade Watson from touching his belongings due to the supposed highly contagious nature of his illness.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Prose Excerpts: He asks his landlady... but forbids him from touching his belongings."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who did Holmes force Dr. Watson to fetch to treat him?",
+    "question_ta": "Who did Holmes force Dr. Watson to fetch to treat him?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Culverton Smith",
+        "text_ta": "Culverton Smith"
+      },
+      {
+        "key": "B",
+        "text_en": "Dr. Joseph Bell",
+        "text_ta": "Dr. Joseph Bell"
+      },
+      {
+        "key": "C",
+        "text_en": "Victor Savage",
+        "text_ta": "Victor Savage"
+      },
+      {
+        "key": "D",
+        "text_en": "Inspector Morton",
+        "text_ta": "Inspector Morton"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Holmes forced Watson to fetch Culverton Smith, a planter from Sumatra with specialized knowledge of the illness.",
+    "explanation_ta": "Holmes forced Watson to fetch Culverton Smith, a planter from Sumatra with specialized knowledge of the illness.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Prose Excerpts: Holmes forces Watson to fetch Culverton Smith, a planter from Sumatra..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Culverton Smith's profession and background connection?",
+    "question_ta": "What was Culverton Smith's profession and background connection?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A close relative of Dr. Watson",
+        "text_ta": "A close relative of Dr. Watson"
+      },
+      {
+        "key": "B",
+        "text_en": "A Scotland Yard detective investigating local crimes",
+        "text_ta": "A Scotland Yard detective investigating local crimes"
+      },
+      {
+        "key": "C",
+        "text_en": "A planter from Sumatra with specialized knowledge of Eastern diseases",
+        "text_ta": "A planter from Sumatra with specialized knowledge of Eastern diseases"
+      },
+      {
+        "key": "D",
+        "text_en": "A medical doctor working at St. Bartholomew's Hospital",
+        "text_ta": "A medical doctor working at St. Bartholomew's Hospital"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Culverton Smith was a planter from Sumatra who had specialized knowledge of the deadly Eastern illness.",
+    "explanation_ta": "Culverton Smith was a planter from Sumatra who had specialized knowledge of the deadly Eastern illness.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Prose Excerpts & C3: Culverton Smith, a planter from Sumatra with specialized knowledge of the illness."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What object did Holmes display an intense obsession with during his feigned illness?",
+    "question_ta": "What object did Holmes display an intense obsession with during his feigned illness?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A silver pocket watch",
+        "text_ta": "A silver pocket watch"
+      },
+      {
+        "key": "B",
+        "text_en": "A medical stethoscope",
+        "text_ta": "A medical stethoscope"
+      },
+      {
+        "key": "C",
+        "text_en": "A leather diary",
+        "text_ta": "A leather diary"
+      },
+      {
+        "key": "D",
+        "text_en": "An ivory box",
+        "text_ta": "An ivory box"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Watson observed Holmes's delirious state and his intense obsession with an ivory box.",
+    "explanation_ta": "Watson observed Holmes's delirious state and his intense obsession with an ivory box.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Prose Excerpts: Watson observes Holmes's 'delirious' state and his obsession with an ivory box."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where was Dr. Watson hidden when Culverton Smith arrived at Holmes's room?",
+    "question_ta": "Where was Dr. Watson hidden when Culverton Smith arrived at Holmes's room?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Behind the bedroom door / in the adjoining room",
+        "text_ta": "Behind the bedroom door / in the adjoining room"
+      },
+      {
+        "key": "B",
+        "text_en": "Out on the Baker Street balcony",
+        "text_ta": "Out on the Baker Street balcony"
+      },
+      {
+        "key": "C",
+        "text_en": "Underneath the patient bed",
+        "text_ta": "Underneath the patient bed"
+      },
+      {
+        "key": "D",
+        "text_en": "Inside a large wooden wardrobe",
+        "text_ta": "Inside a large wooden wardrobe"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Upon Smith's arrival, Watson hid so he could overhear Smith's conversation and confession.",
+    "explanation_ta": "Upon Smith's arrival, Watson hid so he could overhear Smith's conversation and confession.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Prose Excerpts: Upon Smith's arrival, Watson hides and overhears Smith confessing..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whose murder did Culverton Smith confess to while talking to Holmes?",
+    "question_ta": "Whose murder did Culverton Smith confess to while talking to Holmes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Inspector Morton",
+        "text_ta": "Inspector Morton"
+      },
+      {
+        "key": "B",
+        "text_en": "Mrs. Hudson",
+        "text_ta": "Mrs. Hudson"
+      },
+      {
+        "key": "C",
+        "text_en": "Dr. Joseph Bell",
+        "text_ta": "Dr. Joseph Bell"
+      },
+      {
+        "key": "D",
+        "text_en": "Victor Savage",
+        "text_ta": "Victor Savage"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Culverton Smith confessed to murdering his own nephew, Victor Savage.",
+    "explanation_ta": "Culverton Smith confessed to murdering his own nephew, Victor Savage.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Summary & Prose Excerpts: ...confessing to murdering his nephew, Victor Savage..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What method did Culverton Smith use in his attempt to kill Sherlock Holmes?",
+    "question_ta": "What method did Culverton Smith use in his attempt to kill Sherlock Holmes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A concealed dagger",
+        "text_ta": "A concealed dagger"
+      },
+      {
+        "key": "B",
+        "text_en": "The same contaminated ivory box",
+        "text_ta": "The same contaminated ivory box"
+      },
+      {
+        "key": "C",
+        "text_en": "A venomous snake from Sumatra",
+        "text_ta": "A venomous snake from Sumatra"
+      },
+      {
+        "key": "D",
+        "text_en": "A poisoned cup of tea",
+        "text_ta": "A poisoned cup of tea"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Smith attempted to kill Holmes using the same contaminated box that had been used against Victor Savage.",
+    "explanation_ta": "Smith attempted to kill Holmes using the same contaminated box that had been used against Victor Savage.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Prose Excerpts: ...attempting to kill Holmes with the same contaminated box."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Sherlock Holmes actually produce his appearance of being terminally ill?",
+    "question_ta": "How did Sherlock Holmes actually produce his appearance of being terminally ill?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "By drinking a real poison from Sumatra",
+        "text_ta": "By drinking a real poison from Sumatra"
+      },
+      {
+        "key": "B",
+        "text_en": "Through acting, fasting, and make-up",
+        "text_ta": "Through acting, fasting, and make-up"
+      },
+      {
+        "key": "C",
+        "text_en": "By catching a genuine contagious fever",
+        "text_ta": "By catching a genuine contagious fever"
+      },
+      {
+        "key": "D",
+        "text_en": "Through the use of special medical drugs",
+        "text_ta": "Through the use of special medical drugs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Holmes revealed his illness was a complete ruse achieved through acting, fasting, and make-up.",
+    "explanation_ta": "Holmes revealed his illness was a complete ruse achieved through acting, fasting, and make-up.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "R3 & Prose Excerpts: Holmes revealed his illness was a ruse (acting, fasting, and make-up) to trap Smith."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who arrested Culverton Smith at the end of the operation?",
+    "question_ta": "Who arrested Culverton Smith at the end of the operation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mrs. Hudson",
+        "text_ta": "Mrs. Hudson"
+      },
+      {
+        "key": "B",
+        "text_en": "Inspector Morton",
+        "text_ta": "Inspector Morton"
+      },
+      {
+        "key": "C",
+        "text_en": "Dr. Watson",
+        "text_ta": "Dr. Watson"
+      },
+      {
+        "key": "D",
+        "text_en": "Sherlock Holmes",
+        "text_ta": "Sherlock Holmes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Inspector Morton from Scotland Yard arrested Smith based on his overheard confession.",
+    "explanation_ta": "Inspector Morton from Scotland Yard arrested Smith based on his overheard confession.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "C5 & Prose Excerpts: ...leading to Smith's arrest by Inspector Morton."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'Gaunt' as given in the glossary?",
+    "question_ta": "What is the meaning of the word 'Gaunt' as given in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Extremely happy and energetic",
+        "text_ta": "Extremely happy and energetic"
+      },
+      {
+        "key": "B",
+        "text_en": "Aggressive and violent",
+        "text_ta": "Aggressive and violent"
+      },
+      {
+        "key": "C",
+        "text_en": "Lean, especially because of suffering, hunger or age",
+        "text_ta": "Lean, especially because of suffering, hunger or age"
+      },
+      {
+        "key": "D",
+        "text_en": "Confused and restless",
+        "text_ta": "Confused and restless"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to the glossary (G1), 'Gaunt' means lean, especially because of suffering, hunger or age.",
+    "explanation_ta": "According to the glossary (G1), 'Gaunt' means lean, especially because of suffering, hunger or age.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "G1: Gaunt = Lean, especially because of suffering, hunger or age."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary define 'Delirious' as?",
+    "question_ta": "What does the glossary define 'Delirious' as?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Affected by a contagious skin rash",
+        "text_ta": "Affected by a contagious skin rash"
+      },
+      {
+        "key": "B",
+        "text_en": "Calm and peaceful mental focus",
+        "text_ta": "Calm and peaceful mental focus"
+      },
+      {
+        "key": "C",
+        "text_en": "Disturbed state of mind characterized by restlessness",
+        "text_ta": "Disturbed state of mind characterized by restlessness"
+      },
+      {
+        "key": "D",
+        "text_en": "A deep state of permanent sleep",
+        "text_ta": "A deep state of permanent sleep"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary (G2) defines 'Delirious' as a disturbed state of mind characterized by restlessness.",
+    "explanation_ta": "The glossary (G2) defines 'Delirious' as a disturbed state of mind characterized by restlessness.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "G2: Delirious = Disturbed state of mind characterized by restlessness."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'Contagious' mean according to the glossary?",
+    "question_ta": "What does the term 'Contagious' mean according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A temporary mental breakdown",
+        "text_ta": "A temporary mental breakdown"
+      },
+      {
+        "key": "B",
+        "text_en": "An inherited genetic condition",
+        "text_ta": "An inherited genetic condition"
+      },
+      {
+        "key": "C",
+        "text_en": "Spreading of a disease by direct contact",
+        "text_ta": "Spreading of a disease by direct contact"
+      },
+      {
+        "key": "D",
+        "text_en": "A disease caused by poor diet",
+        "text_ta": "A disease caused by poor diet"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to glossary G3, 'Contagious' means the spreading of a disease by direct contact.",
+    "explanation_ta": "According to glossary G3, 'Contagious' means the spreading of a disease by direct contact.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "G3: Contagious = Spreading of a disease by direct contact."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How is the word 'Bolted' defined in the text's glossary?",
+    "question_ta": "How is the word 'Bolted' defined in the text's glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Closed the door with a bar that slides into a socket",
+        "text_ta": "Closed the door with a bar that slides into a socket"
+      },
+      {
+        "key": "B",
+        "text_en": "Ran away quickly in fear",
+        "text_ta": "Ran away quickly in fear"
+      },
+      {
+        "key": "C",
+        "text_en": "Locked a padlock with a metal key",
+        "text_ta": "Locked a padlock with a metal key"
+      },
+      {
+        "key": "D",
+        "text_en": "Nailed wooden planks across an entrance",
+        "text_ta": "Nailed wooden planks across an entrance"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary G4 defines 'Bolted' as closed the door with a bar that slides into a socket.",
+    "explanation_ta": "Glossary G4 defines 'Bolted' as closed the door with a bar that slides into a socket.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "G4: Bolted = Closed the door with a bar that slides into a socket."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'Frail'?",
+    "question_ta": "What is the meaning of the word 'Frail'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Weak and delicate",
+        "text_ta": "Weak and delicate"
+      },
+      {
+        "key": "B",
+        "text_en": "Bold and fearless",
+        "text_ta": "Bold and fearless"
+      },
+      {
+        "key": "C",
+        "text_en": "Strong and sturdy",
+        "text_ta": "Strong and sturdy"
+      },
+      {
+        "key": "D",
+        "text_en": "Angry and bitter",
+        "text_ta": "Angry and bitter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the glossary (G5), 'Frail' means weak and delicate.",
+    "explanation_ta": "According to the glossary (G5), 'Frail' means weak and delicate.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "G5: Frail = Weak and delicate."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who inspired the creation of the character Sherlock Holmes through his medical detective approach?",
+    "question_ta": "Who inspired the creation of the character Sherlock Holmes through his medical detective approach?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Culverton Smith",
+        "text_ta": "Culverton Smith"
+      },
+      {
+        "key": "B",
+        "text_en": "Inspector Morton",
+        "text_ta": "Inspector Morton"
+      },
+      {
+        "key": "C",
+        "text_en": "Joseph Bell",
+        "text_ta": "Joseph Bell"
+      },
+      {
+        "key": "D",
+        "text_en": "Victor Savage",
+        "text_ta": "Victor Savage"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Joseph Bell (1837-1911) was a lecturer in medicine whose detective approach inspired Sherlock Holmes.",
+    "explanation_ta": "Joseph Bell (1837-1911) was a lecturer in medicine whose detective approach inspired Sherlock Holmes.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "R2: Joseph Bell (1837-1911) was a lecturer in medicine whose detective approach inspired the character of Sherlock Holmes."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What are the core themes of the prose 'The Dying Detective'?",
+    "question_ta": "What are the core themes of the prose 'The Dying Detective'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Intelligence, deception for justice, and friendship",
+        "text_ta": "Intelligence, deception for justice, and friendship"
+      },
+      {
+        "key": "B",
+        "text_en": "Medical failure and tragic death",
+        "text_ta": "Medical failure and tragic death"
+      },
+      {
+        "key": "C",
+        "text_en": "Greed, betrayal, and revenge",
+        "text_ta": "Greed, betrayal, and revenge"
+      },
+      {
+        "key": "D",
+        "text_en": "Superstition, fear, and cowardice",
+        "text_ta": "Superstition, fear, and cowardice"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The story highlights Holmes's intellectual brilliance, deception used for justice, and trust in friendship.",
+    "explanation_ta": "The story highlights Holmes's intellectual brilliance, deception used for justice, and trust in friendship.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "R4 & Summary: Theme: Intelligence, deception for justice, and friendship."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did Holmes rely heavily upon regarding Dr. Watson in order to successfully trap Culverton Smith?",
+    "question_ta": "What did Holmes rely heavily upon regarding Dr. Watson in order to successfully trap Culverton Smith?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "His physical strength to overpower Smith",
+        "text_ta": "His physical strength to overpower Smith"
+      },
+      {
+        "key": "B",
+        "text_en": "His advanced medical expertise",
+        "text_ta": "His advanced medical expertise"
+      },
+      {
+        "key": "C",
+        "text_en": "His detective skills in solving crimes",
+        "text_ta": "His detective skills in solving crimes"
+      },
+      {
+        "key": "D",
+        "text_en": "His unwavering friendship and obedience",
+        "text_ta": "His unwavering friendship and obedience"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The summary notes Holmes's unwavering trust in Watson's friendship to make his ruse convincing to Smith.",
+    "explanation_ta": "The summary notes Holmes's unwavering trust in Watson's friendship to make his ruse convincing to Smith.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Summary: ...and his unwavering trust in Watson's friendship."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why did Holmes specifically choose to trick Culverton Smith?",
+    "question_ta": "Why did Holmes specifically choose to trick Culverton Smith?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Smith had murdered his nephew Victor Savage and needed to be entrapped by a confession",
+        "text_ta": "Smith had murdered his nephew Victor Savage and needed to be entrapped by a confession"
+      },
+      {
+        "key": "B",
+        "text_en": "Smith challenged Holmes to a duel",
+        "text_ta": "Smith challenged Holmes to a duel"
+      },
+      {
+        "key": "C",
+        "text_en": "Smith owed him a large amount of money",
+        "text_ta": "Smith owed him a large amount of money"
+      },
+      {
+        "key": "D",
+        "text_en": "Smith was the only doctor available in London",
+        "text_ta": "Smith was the only doctor available in London"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Holmes feigned illness to entrap Culverton Smith, who had murdered his nephew Victor Savage.",
+    "explanation_ta": "Holmes feigned illness to entrap Culverton Smith, who had murdered his nephew Victor Savage.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Summary: ...to entrap Culverton Smith, who murdered his own nephew."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the primary function of Dr. Watson in the narrative structure?",
+    "question_ta": "What was the primary function of Dr. Watson in the narrative structure?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He is the medical specialist who cures Holmes's illness",
+        "text_ta": "He is the medical specialist who cures Holmes's illness"
+      },
+      {
+        "key": "B",
+        "text_en": "He acts as the main antagonist who plots against Holmes",
+        "text_ta": "He acts as the main antagonist who plots against Holmes"
+      },
+      {
+        "key": "C",
+        "text_en": "He is the police inspector who arrests Culverton Smith",
+        "text_ta": "He is the police inspector who arrests Culverton Smith"
+      },
+      {
+        "key": "D",
+        "text_en": "He acts as the loyal friend, assistant, and narrator of the events",
+        "text_ta": "He acts as the loyal friend, assistant, and narrator of the events"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Dr. Watson serves as Holmes's loyal friend and assistant, as well as the narrator of the story.",
+    "explanation_ta": "Dr. Watson serves as Holmes's loyal friend and assistant, as well as the narrator of the story.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "C2: Dr. Watson — Holmes's loyal friend and assistant, who acts as the narrator."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Dying Detective",
+    "topic": "The Dying Detective",
+    "topic_id": "the_dying_detective",
+    "topic_ta": "The Dying Detective",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does the story demonstrate Holmes's intellectual brilliance?",
+    "question_ta": "How does the story demonstrate Holmes's intellectual brilliance?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Through his extensive medical publications on Eastern diseases",
+        "text_ta": "Through his extensive medical publications on Eastern diseases"
+      },
+      {
+        "key": "B",
+        "text_en": "Through his financial investments in Sumatra",
+        "text_ta": "Through his financial investments in Sumatra"
+      },
+      {
+        "key": "C",
+        "text_en": "Through his masterful acting and clever strategy to extract a confession",
+        "text_ta": "Through his masterful acting and clever strategy to extract a confession"
+      },
+      {
+        "key": "D",
+        "text_en": "Through his physical combat skills against criminals",
+        "text_ta": "Through his physical combat skills against criminals"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Holmes's intellectual brilliance is shown through his ability to manipulate situations and use acting to trap a criminal.",
+    "explanation_ta": "Holmes's intellectual brilliance is shown through his ability to manipulate situations and use acting to trap a criminal.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_dying_detective",
+    "source_note": "Summary: The story highlights Holmes's intellectual brilliance, his ability to manipulate situations for justice..."
+  }
+]

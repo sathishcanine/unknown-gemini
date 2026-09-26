@@ -1,0 +1,1293 @@
+{
+  "topic_id": "unseen_passages",
+  "topic_title": "Unseen Passages",
+  "unit": 5,
+  "batches_target": 3,
+  "pages": [
+    1,
+    14
+  ],
+  "rules": [
+    {
+      "rule_en": "Read the passage thoroughly to understand the main theme.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Infer the meaning of unknown words from the surrounding text.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Provide brief and direct answers, addressing only what is asked.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Rephrase answers in your own words.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "For vocabulary questions, find a synonym within the passage that fits the context.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Review all answers for spelling, punctuation, and grammar.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Maintain the tense and person of the question in your answer.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Begin answers with the same structure as the question (e.g., \"when\" clauses, \"there\").",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Recognize if the passage is factual, discursive, or literary.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Carefully consider all options in multiple-choice questions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify the main context and supporting details.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Antonyms and synonymous meanings for vocabulary words are common in TNPSC unseen passage questions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify key subject-matter keywords in the passage to answer fill-in-the-blank and synonym-based MCQs.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Contextual clues in Unseen Passages are key to identifying the correct word for fill-in-the-blank questions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Synonyms and Antonyms are frequently tested in TNPSC Unseen Passages.",
+      "tag": "vocabulary"
+    },
+    {
+      "rule_en": "Unseen passages require careful reading to identify specific factual details related to the biography or historical event presented.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Unseen passages test comprehension by requiring readers to identify specific facts or contextual clues within the provided text.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Carefully read the passage to extract factual information like dates, locations, and literary achievements for comprehension-based MCQs.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "In reading comprehension, identify keywords in the stem and scan the passage for synonyms or context clues to find the correct answer.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify specific events or triggers in a passage to answer 'cause and effect' based comprehension questions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify the key subject and supporting details to answer comprehension questions.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Conserve",
+      "meaning_en": "To protect from harm or destruction",
+      "meaning_ta": "பாதுகாக்க"
+    },
+    {
+      "term_en": "Strategies",
+      "meaning_en": "Plans of action",
+      "meaning_ta": "திட்டங்கள்"
+    },
+    {
+      "term_en": "teeming",
+      "meaning_en": "full of or swarming with",
+      "meaning_ta": "நிறைந்த"
+    },
+    {
+      "term_en": "meagre",
+      "meaning_en": "lacking in quantity or quality",
+      "meaning_ta": "குறைவான"
+    },
+    {
+      "term_en": "acute",
+      "meaning_en": "present or experienced to a severe or intense degree",
+      "meaning_ta": "தீவிரமான"
+    },
+    {
+      "term_en": "Distilled water",
+      "meaning_en": "Water that has been purified by boiling and condensation.",
+      "meaning_ta": "காய்ச்சி வடித்த நீர்"
+    },
+    {
+      "term_en": "Archaeologists",
+      "meaning_en": "People who study human history through excavation.",
+      "meaning_ta": "தொல்பொருள் ஆய்வாளர்கள்"
+    },
+    {
+      "term_en": "Volcanologists",
+      "meaning_en": "Scientists who study volcanoes.",
+      "meaning_ta": "எரிமலை ஆய்வாளர்கள்"
+    },
+    {
+      "term_en": "Restraint",
+      "meaning_en": "Self-control; moderation.",
+      "meaning_ta": "கட்டுப்பாடு"
+    }
+  ],
+  "examples": [],
+  "passages": [
+    {
+      "title": "Passage - 1",
+      "text_en": "Water scarcity is a major threat in many parts of the world, including India. In the world, over two billion people are dying because of it. The situation would worsen in the future with increased demand for fresh water. The earth is 70 per cent water, as are our bodies. We can last for about two to three weeks without food, but we would be dead within three days without water. What we do to our water, we do to ourselves. Humans are increasingly putting this essential resource in serious danger. We poison our ground and surface water. We burn fossil fuels that cause acid rain and global warming. We dam our rivers, interrupting the water flow and destroyed delicate ecosystems downstream."
+    },
+    {
+      "title": "Water Resources and Millennium Declaration",
+      "text_en": "In September 2000, the United Nations adopted a Millennium Declaration setting out targets to be reached in the coming years. One target is to reduce by half, 'the proportion of people who are unable to reach or afford safe drinking water' by the year 2015. The Millennium Declaration also aims, 'to stop the unsustainable exploitation of water resources by developing water management strategies at the regional, national and local levels, which promote both equitable access and adequate supplied'. Our planet's system for purification of water, like all its other systems, is delicate and balanced. It is high time that each one of us takes positive decisions to conserve water, the 'green gold' essential for all life on earth."
+    },
+    {
+      "title": "Passage - 2",
+      "text_en": "These Islands of great beauty, home to the finest rainforests, silver beaches, and sparkling oceans teeming with life - the Andaman and Nicobar Islands have been earmarked for large scale tourism promotion and development. The Andaman Islands have the potential to emerge as the world's most exotic and high-end holiday destinations for eco-tourism, and for advent tourism. Tourism creates more jobs than do the agriculture and industries sectors. Keeping in view the ecology and limited carrying capacity of the islands, a balances should be struck between environment and economic development through tourism. Despite their unique natural wealth, the Andaman have been attracting meagre tourist traffic - about 90,000 per year. Chennai and Kolkata are the only gateways to the islands. High spending tourists from Europe and America take four to six days to reach the destination, and non-availability of tickets between foreign destinations and India and from the mainland to Port Blair deters tourists from coming. Therefore, traveling to the Andaman is not an attractive proposition. A major problem in these islands is the acute water shortage. Even though the islands receive an average rainfall of 3000 mm every year, in the dry season, when the tourists start to come, the water problem begins. By the time the tourist season is over, and the tourists have gone, the problem becomes a nightmare. The migration of people from the mainland also continues and the administration refuses to do a anything about this. It is a crisis that grows every passing year."
+    },
+    {
+      "title": "Passage - 3",
+      "text_en": "Tourism has emerged as the world's largest industry. Growing rapidly in the last two decades, today it accounts for six per cent of world output and employs some 100 million people around the globe. Since the end of the Second World War, it has developed immense revenue and development potential and stands today as a unique natural renewable resource industry. Tourism - the travel - based recreation - provides people with a change of place and a break from the monotony of daily life. It brings peoples of different nations together, allowing them to come into close contact with each other's customs and other aspects of life. It reveals the scenic beauty and past heritage of a country to people belonging to other nations. The knowledge and experience gained in the process can lead to greater understanding and tolerance, and can even foster world peace. The contribution of tourism can be nowhere seen more clearly than on the economic front. A study conducted by the United Nations has shown that developing countries, in particular, can reap handsome benefits out of tourism which greatly boosts national income. Tourism generates employment, and adds to the entrepreneurial wealth of a nation. While tourism's advantages are many, its undesirable side - effects have raised fresh problems. Tourism can cause social, cultural or environmental disruption. Of the greatest concern is its damage to the environment. In order to attract more tourists, sprawling resorts are built which take neither the local architectural styles nor the ecology into consideration. Natural system come to be destroyed as a result of indiscriminate construction to provide water and waste disposal facilities and recreational arrangements to tourists. Overuse of environmental wealth disturbs the ecological balance. Damage is most in wildlife parks which remain the foremost sites of tourists attraction. Tourist vans and visitors feet trample the ground vegetation, thus affecting the feeding habits of the animals and the landscape as well. Overcrowding bring about congestion, leading to environmental and health hazards. The Taj Mahal, one of the Seven Wonders of the World, has suffered a lot of wear and tear from trampling feet of tourists. To promote safe tourism while ensuring that it remains a profitable industry, it is imperative to understand the factors that hamper the growth of tourism and check them effectively."
+    },
+    {
+      "title": "Passage - 4",
+      "text_en": "In the 16th century, an age of great marine and terrestrial exploration, Ferdinand Magellan led the first expedition to sail around the world. As a young Portuguese noble, he served the king of Portugal, but he became involved in the quagmire of political intrigue at court and lost the king's favour. After he was dismissed from service by the king of Portugal, he offered to serve the future Emperor Charles V of Spain. A papal decree of 1493 had assigned a land in the New World west of 50 degrees W longitude to Spain and all the land east of that line to Portugal. Magellan offered to prove that the East Indies fell under Spanish authority. On September 20, 1519, Magellan set sail from Spain with five ships. More than a year later, one of these ships was exploring the topography of South America in search of a water route across the continent. This ship sank, but the remaining four ships searched along the southern peninsula of South America. Finally they found the Passage they sought near 50 degrees S latitude. Magellan named this Passage the Strait of All Saints, but today it is known as the Strait of Magellan. One ship deserted while in this Passage and returned to Spain, so fewer sailors were privileged to gaze at that first panorama of the Pacific Ocean. Those who remained crossed the meridian now known as the International Date Line in the early spring of 1521 after 98 days on the Pacific Ocean. During those long days at sea, many of Magellan's men died of starvation and disease."
+    },
+    {
+      "title": "Passage 5",
+      "text_en": "Marie Curie was one of the most accomplished scientists in history. Together with her husband, Pierre, she discovered radium, an element widely used for treating cancer, and studied uranium and other radioactive substances. Pierre and Marie's amicable collaboration later helped to unlock the secrets of the atom. Marie was born in 1867 in Warsaw, Poland, where her father was a professor of physics. At an early age, she displayed a brilliant mind and a blithe personality. Her great exuberance for learning prompted her to continue with her studies after high school. She became disgruntled, however, when she learned that the university in Warsaw was closed to women. Determined to receive a higher education, she defiantly left Poland and in 1891 entered the Sorbonne, a French university, where she earned her master's degree and doctorate in physics. Marie was fortunate to have studied at the Sorbonne with some of the greatest scientists of her day, one of whom was Pierre Curie. Marie and Pierre were married in 1895 and spent many productive years working together in the physics laboratory. A short time after they discovered radium, Pierre was killed by a horse-drawn wagon in 1906. Marie was stunned by this horrible misfortune and endured heart-breaking anguish. Despondently she recalled their close relationship and the joy that they had shared in scientific research. The fact that she had two young daughters to raise by herself greatly increased her distress."
+    },
+    {
+      "title": "Passage 6",
+      "text_en": "When Andrew Carnegie came to America, he started by running errands and ended up as one of the richest men. Someone once asked Mr.Carnegie how he managed people. \"Dealing with people is a lot like digging for gold. When you go digging for gold, you have to move tons of dirt. But when you go looking for the gold, you are not looking for the dirt. You are looking for the gold.\"\nAndrew Carnegie's reply has a very important lesson. Though it may not be apparent, there is something positive in every person. One must look for the positive."
+    },
+    {
+      "title": "Passage 5 (Unnamed)",
+      "text_en": "Curie's feeling of desolation finally began to fade when she was asked to succeed her husband as a physics professor at the Sorbonne. She was the first woman to be given a professorship at the world famous university. In 1911 she received the Nobel Prize in chemistry for isolating radium. Although Marie Curie eventually suffered a fatal illness from her long exposure to radium, she never became disillusioned about her work. Regardless of the consequences, she had dedicated herself to science and to revealing the mysteries of the physical world."
+    },
+    {
+      "title": "Passage 6",
+      "text_en": "When Andrew Carnegie came to America from Scotland, he was just a lad. He started out by running errands and ended up as one of the largest steel manufacturers in the United States. Someone once asked Mr.Carnegie how he dealt with people. Andrew Carnegie replied, 'Dealing with people is a lot like digging for gold. When you go digging for an ounce of gold, you have to move tons of dirt. But when you go digging, you don't go looking for the dirt, you go looking for the gold.' Andrew Carnegie's reply has a very important message. Though sometimes it may not be apparent, there is something positive in every person and every situation. We have to look deep for the positive."
+    },
+    {
+      "title": "Passage - 7",
+      "text_en": "Some people suffer from an inability to sleep, a disease called insomnia and it may be due to different factors. The first factor many be ‘biological imbalance’. Sleep is caused by a sleep system and wakefulness is caused by an arousal system. Both the systems are governed by the brain. In order to have a good sleep, the arousal system must be less and the sleep system must be more. When the arousal system goes up due to tension, insomnia may occur. Drugs are the second factor. People who consume alcohol habitually become prey to insomnia. Drugs like stimulants, sedatives, certain thyroid drugs and heart medicines can cause sleeplessness. Both sleeping pills and alcohol appear to promise better sleep. But habits and disturbing environments are the third factor in making one lose his sleep. If the bedroom is too noisy or too cold it may make one keep awake. If the stomach has too little or too much food, it may cause sleeplessness. Physical exercise too close to bedtime also confuses the sleep mechanism."
+    },
+    {
+      "title": "Passage - 8",
+      "text_en": "Pearl Buck was the first American woman to be awarded the Nobel Prize for Literature in 1938. She was born on June 26, 1892 in West Virginia, USA and as a baby, hardly six months old, was taken to China by her missionary parents. Except for a few College years in her home town, she lived until 1934 in China, where, thanks to her Chinese teacher, she learned in childhood the Chinese language much earlier than English, her mother tongue. Mrs.Buck had the pen of a ready-writer and was so prolific in writing that she produced more than a hundred works of fiction and non-fiction. Her most popular novel, 'The Good Earth', earned for her the American Pulitzer Prize in 1931. This novel, in addition to being translated into 30 languages, was filmed. Many of her works, both non-fiction and fiction are widely appreciated by the general public and rated high on the popularity lists of student readers. It is not surprising therefore that the Nobel committee in 1938 cited her for her 'rich and genuine epic portrayal of Chinese life...'"
+    },
+    {
+      "title": "Passage - 9",
+      "text_en": "In the eighteenth century, two men, a French Professor, Gabriel Venel, and a British chemist Joseph Priestly made a rather pleasant discovery. They found that water charged with carbon-dioxide tasted rather nice. Jacob Schweppe, a Swiss chemist began to manufacture soda water in England. This was marketed under the name Seltz. Soon, soda water became a popular refreshment. By the beginning of the 19th century, many factories and bottling plants were set up in Europe and the United States to make and bottle this artificial 'mineral water'"
+    },
+    {
+      "title": "Soda Water",
+      "text_en": "Later on, it was discovered that soda could be flavoured too. You could have tasted orange flavoured or lime flavoured soda... but the most popular flavoured soda grew to be the cola. This flavor is taken from the cola tree that grows in the tropical parts of Africa, South America and Asia. Coco-cola, which is now one of the most popular carbonated drinks, was first served in 1886 at a medical shop in Atlanta, Georgia, in South America. IT marked a first in the flavouring of carbonated water."
+    },
+    {
+      "title": "Passage - 10",
+      "text_en": "Mount Vesuvius, a volcano located between the ancient Italian cities of Pompeii and Herculaneum, has received much attention because of its frequent and destructive eruptions. The most famous of these eruptions occurred in A.D 79. The volcano had been inactive for centuries. There was little warning of the coming eruption, although one account unearthed by archaeologists says that a hard rain and a strong wind had disturbed the celestial calm during the preceding night. Early the next morning, the volcano poured a huge river of molten rock down upon Herculaneum, completely burying the city and filling the harbour with coagulated lava. Meanwhile, on the other side of the mountain, cinders, stone and ash rained down on Pompeii. Sparks for the burning ash ignited the combustible rooftops quickly. Large portions of the city were destroyed in the conflagration. Fire, however, was not the only cause of destruction. Poisonous sulphuric gases saturated the air. These heavy gases were not buoyant in the atmosphere and therefore sank toward the earth and suffocated people. Over the years, excavations of Pompeii and Herculaneum have revealed a great deal about the behaviour of the volcano. By analysing data, much as a zoologist dissects an animal specimen,"
+    },
+    {
+      "title": "Mount Vesuvius Eruption",
+      "text_en": "The eruption of Mount Vesuvius significantly altered the geography of the surrounding areas and influenced the world's climate. Archaeologists have successfully preserved and studied victims' remains and artifacts from Pompeii and Herculaneum, providing valuable historical data."
+    },
+    {
+      "title": "Operation Sindoor",
+      "text_en": "The Indian Armed Forces conducted a targeted operation against terrorist sites in Pakistan and Pakistan-occupied Kashmir. The mission was executed with high precision and restraint, ensuring only militant locations were addressed without engaging Pakistani military facilities."
+    },
+    {
+      "title": "Operation Sindoor",
+      "text_en": "This passage describes the Indian Armed Forces' response to the tragic Pahalgam terrorist attack that claimed the lives of 25 Indians and one Nepali citizen. The operation was launched to ensure that those responsible for the violence were held accountable for their actions."
+    },
+    {
+      "title": "Tenali Raman",
+      "text_en": "Tenali Raman served as a clever jester in King Krishnadevaraya's court. His wit and humor made him a favorite of the king, which caused jealousy among other courtiers."
+    },
+    {
+      "title": "Children's Day",
+      "text_en": "Jawaharlal Nehru is affectionately known as 'Chacha Nehru' by children across India. To honor him, his birthday on November 14th is celebrated as Children's Day."
+    },
+    {
+      "title": "Cataract",
+      "text_en": "Cataract is a condition often affecting the elderly where the eye lens loses its transparency and becomes dense. This clouding prevents light from reaching the retina, leading to vision loss."
+    },
+    {
+      "title": "Pollution",
+      "text_en": "Increased industrial activity contributes significantly to environmental pollution. When industrial waste and sewage mix with drinking water sources, it causes severe water pollution."
+    },
+    {
+      "title": "Taj Mahal",
+      "text_en": "The Taj Mahal, one of the world's wonders, is located in North India. Built by Shah Jahan for his wife, it stands beautifully on the banks of the Yamuna River."
+    },
+    {
+      "title": "The Accident",
+      "text_en": "A speeding car struck an elderly man, and the driver stopped to help him. The wounded man eventually revealed that he himself was a doctor."
+    },
+    {
+      "title": "Ostrich",
+      "text_en": "The ostrich is recognized as the world's largest living bird. Despite its massive size and weight, this bird is incapable of flight."
+    },
+    {
+      "title": "History of Kashmir",
+      "text_en": "During the 12th century, a poet named Kalhana authored the Rajtarangini in Sanskrit. The title translates to 'River of Kings' and documents the historical records of Kashmir."
+    },
+    {
+      "title": "Astrophysics Research",
+      "text_en": "Researchers at the Indian Institute of Astrophysics are analyzing the composition of the Comet Yakutake. They are conducting comparative studies between this comet and other celestial objects."
+    }
+  ],
+  "translations": [],
+  "pyq": [
+    {
+      "question_en": "is the major threat in many parts of the world",
+      "options_en": [
+        "Resources in danger",
+        "water scarcity",
+        "flood and soil erosion",
+        "global warming"
+      ],
+      "answer_en": "water scarcity",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "What does the burning of fossil fuel cause?",
+      "options_en": [
+        "heavy rain",
+        "floods",
+        "water scarcity",
+        "acid rain"
+      ],
+      "answer_en": "acid rain",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "How is the eco system destroyed?",
+      "options_en": [
+        "By poisoning the ground water",
+        "burning fossil fuels",
+        "by constructing dams",
+        "by not constructing dams"
+      ],
+      "answer_en": "by constructing dams",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "The United Nations adopted a Millennium Declaration in",
+      "options_en": [
+        "Sep 2002",
+        "Sep 2000",
+        "Sep 2001",
+        "Sep 2003"
+      ],
+      "answer_en": "Sep 2000",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "One target is to ______ by half the proportion of people unable to reach of afford safe drinking water.",
+      "options_en": [
+        "increase",
+        "decrease",
+        "double",
+        "reduce"
+      ],
+      "answer_en": "reduce",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "Our planet's system for ______ of water is delicate and balanced.",
+      "options_en": [
+        "Exploitation",
+        "Management",
+        "Supply",
+        "Purification"
+      ],
+      "answer_en": "Purification",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "One way to protect is by preventing water ______",
+      "options_en": [
+        "pollution",
+        "usage",
+        "wastage",
+        "exploitation"
+      ],
+      "answer_en": "wastage",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "'Green gold' refers to ______",
+      "options_en": [
+        "Ecology",
+        "Environment",
+        "Water",
+        "Life"
+      ],
+      "answer_en": "Water",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Unseen Passage"
+    },
+    {
+      "question_en": "The word 'strategies' means ______",
+      "options_en": [
+        "plans",
+        "resources",
+        "dangers",
+        "decisions"
+      ],
+      "answer_en": "plans",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "What is the antonym of 'conserve'",
+      "options_en": [
+        "danger",
+        "destroy",
+        "decrease",
+        "interrupt"
+      ],
+      "answer_en": "destroy",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "_________ creates more jobs than do the agriculture and industries sector",
+      "options_en": [
+        "a) Business",
+        "b) Technology",
+        "c) Tourism",
+        "d) Shipping"
+      ],
+      "answer_en": "c) Tourism",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 2"
+    },
+    {
+      "question_en": "Despite their natural wealth these islands have been attracting _________ tourist",
+      "options_en": [
+        "a) immense",
+        "b) large scale",
+        "c) limited",
+        "d) meagre"
+      ],
+      "answer_en": "d) meagre",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 2"
+    },
+    {
+      "question_en": "Chennai and Kolkata are the only _________ to these islands",
+      "options_en": [
+        "a) links",
+        "b) gateways",
+        "c) tourist spots",
+        "d) foreign destinations"
+      ],
+      "answer_en": "b) gateways",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 2"
+    },
+    {
+      "question_en": "A major problem in these islands is the _________",
+      "options_en": [
+        "a) unique natural wealth",
+        "b) acute water shortage",
+        "c) tourist traffic",
+        "d) non- availability of tickets"
+      ],
+      "answer_en": "b) acute water shortage",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 2"
+    },
+    {
+      "question_en": "Choose an appropriate synonym for the word 'teeming'",
+      "options_en": [
+        "a) full of",
+        "b) feebly",
+        "c) unique",
+        "d) emerging"
+      ],
+      "answer_en": "a) full of",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 2"
+    },
+    {
+      "question_en": "Tourism has grown rapidly in the last____",
+      "options_en": [
+        "a) Century",
+        "b) five decades",
+        "c) two decades",
+        "d) few years"
+      ],
+      "answer_en": "c) two decades",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 3"
+    },
+    {
+      "question_en": "Tourism accounts for ____ of world output",
+      "options_en": [
+        "a) 6%",
+        "b) 7%",
+        "c) 5%",
+        "d) 4%"
+      ],
+      "answer_en": "a) 6%",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 3"
+    },
+    {
+      "question_en": "It stands today as a unique natural ____ resource industry.",
+      "options_en": [
+        "a) Largest",
+        "b) national",
+        "c) socio-cultural",
+        "d) renewable"
+      ],
+      "answer_en": "d) renewable",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 3"
+    },
+    {
+      "question_en": "Tourism also means ____ based recreation",
+      "options_en": [
+        "a) Environment",
+        "b) travel",
+        "c) culture",
+        "d) economy"
+      ],
+      "answer_en": "b) travel",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 3"
+    },
+    {
+      "question_en": "Tourism can also foster ________",
+      "options_en": [
+        "a) Income",
+        "b) recreation",
+        "c) world peace",
+        "d) employment"
+      ],
+      "answer_en": "c) world peace",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "The contribution of business can be more clearly seen on the ________ front",
+      "options_en": [
+        "a) Economic",
+        "b) employment",
+        "c) income",
+        "d) ecological"
+      ],
+      "answer_en": "a) Economic",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Overcrowding bring about congestion, leading to ________",
+      "options_en": [
+        "a) National income",
+        "b) fresh problems",
+        "c) health hazards",
+        "d) doubts"
+      ],
+      "answer_en": "c) health hazards",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Overuse of environmental wealth disturbs the ________",
+      "options_en": [
+        "a) ecological balance",
+        "b) Natural systems",
+        "c) damage to wild life"
+      ],
+      "answer_en": "a) ecological balance",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Choose a synonym for 'imperative'",
+      "options_en": [
+        "a) Necessary",
+        "b) rapidly",
+        "c) immense",
+        "d) contribute"
+      ],
+      "answer_en": "a) Necessary",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Choose an antonym for 'generate'",
+      "options_en": [
+        "a) hamper",
+        "b) hinder",
+        "c) terminate",
+        "d) distract"
+      ],
+      "answer_en": "c) terminate",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "1. The 16th century was an age of great ____ exploration.",
+      "options_en": [
+        "a) Cosmic",
+        "b) land",
+        "c) mental",
+        "d) None of the above"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Magellan text"
+    },
+    {
+      "question_en": "2. Magellan set sail to prove that the East Indies fell under ____",
+      "options_en": [
+        "a) French territory",
+        "b) Spanish territory",
+        "c) English territory",
+        "d) African territory"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Magellan text"
+    },
+    {
+      "question_en": "3. The meridian is now known as the ____",
+      "options_en": [
+        "a) International Date Lime",
+        "b) International Time zone",
+        "c) Equator",
+        "d) Latitude"
+      ],
+      "answer_en": "a",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Magellan text"
+    },
+    {
+      "question_en": "4. Only ____ survived to complete the westward journey to spain",
+      "options_en": [
+        "a) Two ships and fifteen sailors",
+        "b) Three ships and seventeen sailors",
+        "c) One ship and ten sailors",
+        "d) One ship and seventeen sailors"
+      ],
+      "answer_en": "d",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Magellan text"
+    },
+    {
+      "question_en": "5. This journey proved that the ____",
+      "options_en": [
+        "a) World is round",
+        "b) World is round with no precipice at the edge",
+        "c) World is round with precipices",
+        "d) World is round with edge"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Magellan text"
+    },
+    {
+      "question_en": "1. The Curies' ____ collaboration helped to unlock the secrets of the atom",
+      "options_en": [
+        "a) Friendly",
+        "b) Competitive",
+        "c) indifferent"
+      ],
+      "answer_en": "a",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "2. Marie had a bright mind and a ____ personality",
+      "options_en": [
+        "a) Strong",
+        "b) Humorous",
+        "c) blithe"
+      ],
+      "answer_en": "c",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "3. Marie left Poland and travelled to France to enter ____",
+      "options_en": [
+        "a) University in Warsaw",
+        "b) the Sorbonne"
+      ],
+      "answer_en": "c",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "4. She received the Nobel Prize in ____",
+      "options_en": [
+        "a) Physics",
+        "b) Chemistry"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "1. Andrew Carnegie came from ____",
+      "options_en": [
+        "a) England",
+        "b) Scotland"
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "2. When he came to America, he was ____",
+      "options_en": [
+        "a) An old man",
+        "b) A young boy"
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "3. He started out by doing ____",
+      "options_en": [
+        "a) Manuel work",
+        "b) Clerical work"
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "4. Dealing with people is a lot like digging for ____",
+      "options_en": [
+        "a) Dirt",
+        "b) Gold"
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "The Curies' _________ collaboration helped to unlock the secrets of the atom",
+      "options_en": [
+        "Friendly",
+        "Competitive",
+        "industrious",
+        "courteous"
+      ],
+      "answer_en": "Friendly",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "Marie had a bright mind and a _________ personality",
+      "options_en": [
+        "Strong",
+        "Humorous",
+        "blithe",
+        "strange"
+      ],
+      "answer_en": "blithe",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "Marie left Poland and travelled to France to enter the _________",
+      "options_en": [
+        "University in Warsaw",
+        "University in Poland",
+        "Sorbonne",
+        "University in Austria"
+      ],
+      "answer_en": "Sorbonne",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "She received the Nobel Prize in _________",
+      "options_en": [
+        "Physics",
+        "Chemistry",
+        "Astronomy",
+        "Astro Physics"
+      ],
+      "answer_en": "Chemistry",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "Andrew Carnegie came from _________",
+      "options_en": [
+        "England",
+        "Scotland",
+        "Ireland",
+        "Finland"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "When he came to America, he was _________",
+      "options_en": [
+        "An old man",
+        "A young boy",
+        "a rich man",
+        "a poor man"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "He started out by doing _________",
+      "options_en": [
+        "Manuel work",
+        "Clerical work",
+        "odd jobs",
+        "white collar jobs"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "Dealing with people is a lot like digging for _________",
+      "options_en": [
+        "Dirt",
+        "Gold",
+        "silver",
+        "ore"
+      ],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "We have to dig ____ to look for the positive",
+      "options_en": [
+        "Gently",
+        "Fast",
+        "around",
+        "deep"
+      ],
+      "answer_en": "deep",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "An inability to sleep is called",
+      "options_en": [
+        "somnia",
+        "insomnia",
+        "shallow sleep",
+        "sleep mechanism"
+      ],
+      "answer_en": "insomnia",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 7"
+    },
+    {
+      "question_en": "The sleep and arousal system are governed by the ________",
+      "options_en": [
+        "sleep mechanism",
+        "drugs",
+        "heart",
+        "brain"
+      ],
+      "answer_en": "brain",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 7"
+    },
+    {
+      "question_en": "The second factor resulting in sleeplessness is ________",
+      "options_en": [
+        "exercise",
+        "biological imbalance",
+        "drugs",
+        "bad habits"
+      ],
+      "answer_en": "drugs",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 7"
+    },
+    {
+      "question_en": "Physical exercise too close to bed time ________",
+      "options_en": [
+        "improves good memory",
+        "gives a good sleep",
+        "disturbs the sleep mechanism",
+        "increases blood circulation"
+      ],
+      "answer_en": "disturbs the sleep mechanism",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 7"
+    },
+    {
+      "question_en": "This Passage is about the ________",
+      "options_en": [
+        "different factors",
+        "bad habits",
+        "wakefulness & arousal system",
+        "people suffering from"
+      ],
+      "answer_en": "different factors",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 7"
+    },
+    {
+      "question_en": "Pearl Buck got her Nobel prize at the age of",
+      "options_en": [
+        "46",
+        "56",
+        "66",
+        "76"
+      ],
+      "answer_en": "46",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 8"
+    },
+    {
+      "question_en": "She spent most of her life in",
+      "options_en": [
+        "America",
+        "England",
+        "Australia",
+        "China"
+      ],
+      "answer_en": "China",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 8"
+    },
+    {
+      "question_en": "Buck's mother tongue was",
+      "options_en": [
+        "Chinese",
+        "French",
+        "German",
+        "English"
+      ],
+      "answer_en": "English",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 8"
+    },
+    {
+      "question_en": "The most famous novel of Buck is",
+      "options_en": [
+        "Letter from Peking",
+        "The Good Earth",
+        "East Wind, West Wind",
+        "Death in the castle"
+      ],
+      "answer_en": "The Good Earth",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 8"
+    },
+    {
+      "question_en": "She produced more than _______ works of fiction and non-fiction",
+      "options_en": [
+        "Two hundred",
+        "three hundred",
+        "a hundred",
+        "four hundred"
+      ],
+      "answer_en": "a hundred",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 8"
+    },
+    {
+      "question_en": "The pleasant taste of water with carbon-di-oxide was discovered in the _____ century.",
+      "options_en": [
+        "seventeenth",
+        "eighteenth",
+        "nineteenth",
+        "twentieth"
+      ],
+      "answer_en": "eighteenth",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Soda Water"
+    },
+    {
+      "question_en": "Soda water was manufactured for the first time in _____.",
+      "options_en": [
+        "Sweden",
+        "France",
+        "England",
+        "The United States"
+      ],
+      "answer_en": "England",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Soda Water"
+    },
+    {
+      "question_en": "The most well-known flavoured soda is _____.",
+      "options_en": [
+        "orange",
+        "lemon",
+        "mango",
+        "cola"
+      ],
+      "answer_en": "cola",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Soda Water"
+    },
+    {
+      "question_en": "Coco-cola was first served in a _____.",
+      "options_en": [
+        "restaurant",
+        "party",
+        "medical shop",
+        "departmental store"
+      ],
+      "answer_en": "medical shop",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Soda Water"
+    },
+    {
+      "question_en": "Soda water became a popular refreshment under the name _____.",
+      "options_en": [
+        "Schweppe",
+        "Venel",
+        "Priestly",
+        "Seltz"
+      ],
+      "answer_en": "Seltz",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Soda Water"
+    },
+    {
+      "question_en": "Herculaneum and its harbour were buried under ____ lava.",
+      "options_en": [
+        "liquid",
+        "solid",
+        "flowing",
+        "coagulated"
+      ],
+      "answer_en": "coagulated",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Mount Vesuvius Eruption"
+    },
+    {
+      "question_en": "The poisonous gases were not ____ in the air",
+      "options_en": [
+        "able to float",
+        "visible",
+        "able to evaporate",
+        "invisible"
+      ],
+      "answer_en": "able to float",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Mount Vesuvius Eruption"
+    },
+    {
+      "question_en": "Scientists analysed data about Vesuvius in the same way that a zoologist ____ a specimen",
+      "options_en": [
+        "describes in detail",
+        "studies by cutting apart",
+        "photographs",
+        "chart"
+      ],
+      "answer_en": "studies by cutting apart",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Mount Vesuvius Eruption"
+    },
+    {
+      "question_en": "____ have concluded that the volcanic eruption caused a tidal wave.",
+      "options_en": [
+        "Scientists",
+        "Scientist who study atmosphere conditions",
+        "Scientists who study ash",
+        "Scientists who study animal behaviour"
+      ],
+      "answer_en": "Scientist who study atmosphere conditions",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Mount Vesuvius Eruption"
+    },
+    {
+      "question_en": "Scientists have used ____ water to wash away volcanic ash from the skeletons of victims.",
+      "options_en": [
+        "bottled",
+        "volcanic",
+        "purified",
+        "sea"
+      ],
+      "answer_en": "purified",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Mount Vesuvius Eruption"
+    },
+    {
+      "question_en": "What was the primary justification given by the Indian Armed Forces for launching 'OPERATION SINDOOR'?",
+      "options_en": [
+        "To retaliate against Pakistani military facilities.",
+        "In response to attacks planned and directed from Pakistan and Pakistan-occupied Jammu and Kashmir.",
+        "To demonstrate India's considerable restraint in the selection of targets.",
+        "Following the commitment to hold those responsible for terrorist attacks accountable."
+      ],
+      "answer_en": "In response to attacks planned and directed from Pakistan and Pakistan-occupied Jammu and Kashmir.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Operation Sindoor"
+    },
+    {
+      "question_en": "According to the passage, how many locations were targeted during 'OPERATION SINDOOR,' and where were these locations situated?",
+      "options_en": [
+        "Nine locations in Pakistan.",
+        "One location in Pahalgam.",
+        "Nine locations in Pakistan and Pakistan-occupied Jammu and Kashmir.",
+        "Twenty-six locations along the Indian border."
+      ],
+      "answer_en": "Nine locations in Pakistan.",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Operation Sindoor"
+    },
+    {
+      "question_en": "In what ways does the provided text describe the nature of the actions taken by the Indian Armed Forces during 'OPERATION SINDOOR'?",
+      "options_en": [
+        "Barbaric and escalatory.",
+        "Focused, measured, and non-escalatory",
+        "Restrained in target selection but aggressive in execution.",
+        "Primarily targeting Pakistani military facilities."
+      ],
+      "answer_en": "Focused, measured, and non-escalatory",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Operation Sindoor"
+    },
+    {
+      "question_en": "What specific event is mentioned in the text as the immediate trigger for 'OPERATION SINDOOR,' and what was the human cost of this event?",
+      "options_en": [
+        "An attack on Indian military facilities resulting in nine casualties.",
+        "'OPERATION SINDOOR' itself, targeting nine terrorist sites.",
+        "The Pahalgam terrorist attack, resulting in the murder of 25 Indians and one Nepali citizen.",
+        "Cross-border firing that led to considerable restraint from the Indian side."
+      ],
+      "answer_en": "The Pahalgam terrorist attack, resulting in the murder of 25 Indians and one Nepali citizen.",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Operation Sindoor"
+    },
+    {
+      "question_en": "Based on the information given, what commitment did India emphasize in relation to the perpetrators of the Pahalgam terrorist attack?",
+      "options_en": [
+        "To engage in non-escalatory actions.",
+        "To demonstrate considerable restraint in target selection.",
+        "That those responsible for the attack will be held accountable.",
+        "To avoid targeting Pakistani military facilities."
+      ],
+      "answer_en": "That those responsible for the attack will be held accountable.",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Operation Sindoor"
+    },
+    {
+      "question_en": "Why were the other courtiers jealous of Tenali Raman?",
+      "options_en": [
+        "Slow in thinking",
+        "Quick in wit",
+        "Quick in wit and sense of humour",
+        "Quick in action and sense of humour"
+      ],
+      "answer_en": "Quick in wit and sense of humour",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Tenali Raman"
+    },
+    {
+      "question_en": "Children's day is celebrated on",
+      "options_en": [
+        "14th November",
+        "4th November",
+        "1st November",
+        "5th November"
+      ],
+      "answer_en": "14th November",
+      "answer_letter": "A",
+      "has_marked_answer": false,
+      "passage_ref": "Children's Day"
+    },
+    {
+      "question_en": "What happens to elderly people in cataract?",
+      "options_en": [
+        "The lens becomes thick",
+        "The lens becomes infected",
+        "The lens loses transparency",
+        "The lens becomes weak and thin"
+      ],
+      "answer_en": "The lens loses transparency",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Cataract"
+    },
+    {
+      "question_en": "Domestic sewage mixes with drinking water causing",
+      "options_en": [
+        "soil pollution",
+        "water pollution",
+        "noise pollution",
+        "air pollution"
+      ],
+      "answer_en": "water pollution",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Pollution"
+    },
+    {
+      "question_en": "Where is Taj Mahal situated?",
+      "options_en": [
+        "On the bank of river Kaveri",
+        "On the bank of river Brahmaputra",
+        "On the bank of river Krishna",
+        "On the bank of river Yamuna"
+      ],
+      "answer_en": "On the bank of river Yamuna",
+      "answer_letter": "D",
+      "has_marked_answer": false,
+      "passage_ref": "Taj Mahal"
+    },
+    {
+      "question_en": "Who is hit by a speeding car?",
+      "options_en": [
+        "Young gentleman",
+        "Driver",
+        "Doctor",
+        "Passer-by"
+      ],
+      "answer_en": "Doctor",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "The Accident"
+    },
+    {
+      "question_en": "Ostrich is",
+      "options_en": [
+        "weightless",
+        "heightless",
+        "flightless",
+        "lifeless"
+      ],
+      "answer_en": "flightless",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Ostrich"
+    },
+    {
+      "question_en": "Who started writing the History of Kashmir?",
+      "options_en": [
+        "A) Rajtarangini",
+        "B) Jonaraja",
+        "C) Kalhana",
+        "D) Shri Vara"
+      ],
+      "answer_en": "C) Kalhana",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "History of Kashmir"
+    },
+    {
+      "question_en": "Scientists are studying the contents of",
+      "options_en": [
+        "A) a star",
+        "B) a comet",
+        "C) a planet",
+        "D) a meteor"
+      ],
+      "answer_en": "B) a comet",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Astrophysics Research"
+    }
+  ],
+  "notes_en": "p1: This page introduces Reading Comprehension (Unseen Passages) for TNPSC English. It defines the purpose of these passages, lists 11 strategic steps for answering questions effectively, and presents the first part of a practice passage focused on the theme of water scarcity.\np2: This page provides practice on unseen passages regarding water conservation and United Nations declarations, followed by a set of objective questions testing reading comprehension and vocabulary (synonyms/antonyms).\np3: This page provides a reading comprehension practice focused on the Andaman and Nicobar Islands, testing vocabulary (synonyms) and factual recall from the provided text.\np4: This page features an unseen passage focused on the growth, benefits, and negative environmental impacts of the global tourism industry, followed by four multiple-choice questions for reading comprehension practice.\np5: This page contains practice questions on general reading comprehension and vocabulary, along with a historical passage about Ferdinand Magellan's expedition.\np6: This page provides practice material for unseen passages, focusing on comprehension questions based on biographical snippets of figures like Magellan, Marie Curie, and Andrew Carnegie.\np7: This page provides practice with unseen reading passages for TNPSC preparation, focusing on biographical texts and moral anecdotes followed by multiple-choice questions for comprehension assessment.\np8: This page provides an unseen passage exercise regarding the causes of insomnia, along with comprehension questions and a separate isolated sentence completion question.\np9: This page provides practice on Unseen Passages for TNPSC General English, focusing on reading comprehension, factual extraction, and historical/biographical information retrieval.\np10: This page provides practice material for unseen passages, covering the history of carbonated drinks and a descriptive passage about the volcanic eruption of Mount Vesuvius.\np11: This page focuses on Unseen Passage comprehension, providing a text about the historic volcanic eruption of Mount Vesuvius followed by multiple-choice practice questions and their solutions. It also introduces a secondary passage regarding military operations.\np12: This page focuses on reading comprehension practice through an unseen passage regarding 'Operation Sindoor', followed by five multiple-choice questions to test the reader's ability to extract specific details from the text.\np13: This page provides a series of practice Unseen Passage exercises followed by multiple-choice questions to test comprehension skills for TNPSC aspirants.\np14: This page provides practice questions for Unseen Passages, covering historical figures like Kalhana and modern scientific research on comets, followed by an answer key.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

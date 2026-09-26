@@ -1,0 +1,109 @@
+{
+  "prose_id": "when_the_trees_walked",
+  "prose_title": "When the Trees Walked",
+  "author": "Ruskin Bond",
+  "num": 20,
+  "pdf_pages": [
+    430,
+    445
+  ],
+  "prose_text_en": "The story follows a young boy and his grandfather, a retired Indian Forest Service officer, who lives in Dehradun. Grandfather believes trees can move, albeit slowly, and once did so freely until a spell was cast on them. Together, they plant trees in the jungle and on a dry river-bed island to protect the environment. Grandfather quotes George Morris’s poem, 'Woodman, spare that tree!', emphasizing that trees are essential to keep the desert away, prevent erosion, and provide shelter for wildlife. The story highlights the bond between nature and humans.",
+  "summary_en": "Ruskin Bond’s story illustrates the profound connection between a grandfather and his grandson through their shared passion for planting trees. The narrative underscores the importance of environmental conservation and the idea that trees are living entities that contribute significantly to the earth's survival. By planting saplings in barren areas, they aim to create a greener future and combat the threat of desertification.",
+  "characters": [
+    {
+      "name_en": "Grandfather",
+      "role_en": "Retired Indian Forest Service officer who advocates for tree planting and environmental protection."
+    },
+    {
+      "name_en": "The Narrator (Grandson)",
+      "role_en": "A young boy who learns the value of nature and conservation from his grandfather."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "fertile",
+      "meaning_en": "able to produce a lot of plants or crops"
+    },
+    {
+      "word_en": "abandoned",
+      "meaning_en": "left without care"
+    },
+    {
+      "word_en": "vigorous",
+      "meaning_en": "healthy and strong"
+    },
+    {
+      "word_en": "protested",
+      "meaning_en": "opposed or disagreed"
+    },
+    {
+      "word_en": "nightmare",
+      "meaning_en": "a frightening dream"
+    },
+    {
+      "word_en": "interfering",
+      "meaning_en": "stopping"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The story 'When the Trees Walked' is written by Ruskin Bond.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Grandfather served in the Indian Forest Service.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Grandfather believes trees used to walk before a spell was cast on them.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Grandfather quotes the poem 'Woodman, spare that tree!' by George Morris.",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "India has more than 17,000 species of flowering plants; Tamil Nadu has over 5,000.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Trees are needed to keep the desert away, attract rain, prevent soil erosion, and provide food/shelter.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "______ a beautiful flower!",
+      "answer_en": "c. What",
+      "options_en": [
+        "a. How",
+        "b. Wow",
+        "c. What",
+        "d. Hurrah"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "______ play football?",
+      "answer_en": "b. Can you",
+      "options_en": [
+        "a. You can",
+        "b. Can you",
+        "c. Have you",
+        "d. You could"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "______ did you go yesterday?",
+      "answer_en": "b. Where",
+      "options_en": [
+        "a. Which",
+        "b. Where",
+        "c. What",
+        "d. Who"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { Search, Smartphone, Globe } from 'lucide-react';
+import { useNavigate, useSearchParams } from 'react-router-dom';
+import { Search, Smartphone, Globe, X } from 'lucide-react';
 import Layout from '../components/Layout';
 import FilterBar from '../components/FilterBar';
 import Loading from '../components/Loading';
@@ -16,27 +16,71 @@ const SORT_OPTIONS = [
   { id: 'total_points', label: 'Points' },
 ];
 
+const FILTER_LABELS = {
+  premium: 'Premium users',
+  free: 'Free users',
+  new: 'New users (period)',
+  active: 'Active users (period)',
+  guest: 'Guest users',
+  dau: 'DAU (last 24h)',
+  wau: 'WAU (last 7d)',
+  mau: 'MAU (last 30d)',
+  expiring: 'Premium expiring in 7d',
+  checkout: 'Checkout abandoned',
+  high_intent: 'High-intent free (3+ tests)',
+  inactive: 'New but never returned',
+};
+
 export default function Users() {
   const { range } = useFilter();
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState('');
   const [sortBy, setSortBy] = useState('last_active_at');
   const [page, setPage] = useState(1);
+  const userFilter = searchParams.get('filter') || '';
+
+  useEffect(() => {
+    setPage(1);
+  }, [userFilter, range.start, range.end]);
 
   useEffect(() => {
     setLoading(true);
-    fetchUsers({ start: range.start, end: range.end, search: search || undefined, sort_by: sortBy, page, page_size: 20 })
+    fetchUsers({
+      start: range.start,
+      end: range.end,
+      search: search || undefined,
+      sort_by: sortBy,
+      page,
+      page_size: 20,
+      filter: userFilter || undefined,
+    })
       .then(setData)
       .finally(() => setLoading(false));
-  }, [range.start, range.end, search, sortBy, page]);
+  }, [range.start, range.end, search, sortBy, page, userFilter]);
 
   const totalPages = data ? Math.max(1, Math.ceil(data.total / data.page_size)) : 1;
+
+  function clearFilter() {
+    const next = new URLSearchParams(searchParams);
+    next.delete('filter');
+    setSearchParams(next);
+  }
 
   return (
     <Layout title="Users" subtitle="Every student. Search, sort, and drill into individual activity.">
       <FilterBar />
+
+      {userFilter && FILTER_LABELS[userFilter] && (
+        <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-indigo-50 text-indigo-700 text-xs font-semibold px-3 py-1.5">
+          Filter: {FILTER_LABELS[userFilter]}
+          <button type="button" onClick={clearFilter} className="hover:text-indigo-900" aria-label="Clear filter">
+            <X size={14} />
+          </button>
+        </div>
+      )}
 
       <div className="flex items-center gap-3 mb-4">
         <div className="relative flex-1 max-w-sm">
@@ -51,6 +95,24 @@ export default function Users() {
             className="w-full bg-white border border-slate-200 rounded-xl pl-9 pr-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
           />
         </div>
+        <select
+          value={userFilter}
+          onChange={(e) => {
+            const next = new URLSearchParams(searchParams);
+            if (e.target.value) next.set('filter', e.target.value);
+            else next.delete('filter');
+            setSearchParams(next);
+            setPage(1);
+          }}
+          className="bg-white border border-slate-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+        >
+          <option value="">All users</option>
+          {Object.entries(FILTER_LABELS).map(([id, label]) => (
+            <option key={id} value={id}>
+              {label}
+            </option>
+          ))}
+        </select>
         <select
           value={sortBy}
           onChange={(e) => setSortBy(e.target.value)}
@@ -72,6 +134,7 @@ export default function Users() {
             <thead>
               <tr className="border-b border-slate-100 text-slate-400 text-xs uppercase tracking-wide">
                 <th className="text-left font-semibold px-5 py-3">Student</th>
+                <th className="text-left font-semibold px-5 py-3">Premium</th>
                 <th className="text-left font-semibold px-5 py-3">Joined</th>
                 <th className="text-left font-semibold px-5 py-3">Last Active</th>
                 <th className="text-left font-semibold px-5 py-3">Device</th>
@@ -97,6 +160,15 @@ export default function Users() {
                         </span>
                       )}
                     </div>
+                  </td>
+                  <td className="px-5 py-3">
+                    {u.premium_active ? (
+                      <span className="inline-flex rounded-full bg-amber-50 text-amber-700 text-[10px] font-bold px-2 py-0.5 uppercase tracking-wide">
+                        Premium
+                      </span>
+                    ) : (
+                      <span className="text-xs text-slate-300">—</span>
+                    )}
                   </td>
                   <td className="px-5 py-3 text-slate-500">
                     {formatISTDate(u.created_at)}

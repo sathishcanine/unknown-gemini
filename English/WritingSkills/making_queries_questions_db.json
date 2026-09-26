@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of question begins with auxiliary verbs like Have, Do, or Can?",
+    "question_ta": "What type of question begins with auxiliary verbs like Have, Do, or Can?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "WH-question",
+        "text_ta": "WH-question"
+      },
+      {
+        "key": "B",
+        "text_en": "Rhetorical question",
+        "text_ta": "Rhetorical question"
+      },
+      {
+        "key": "C",
+        "text_en": "Yes/No question",
+        "text_ta": "Yes/No question"
+      },
+      {
+        "key": "D",
+        "text_en": "Indirect question",
+        "text_ta": "Indirect question"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to rule R1, Yes/No questions begin with auxiliary verbs.",
+    "explanation_ta": "According to rule R1, Yes/No questions begin with auxiliary verbs.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "Rule R1"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How should the direct question 'Are they coming?' be correctly converted into indirect speech?",
+    "question_ta": "How should the direct question 'Are they coming?' be correctly converted into indirect speech?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He asked were they coming.",
+        "text_ta": "He asked were they coming."
+      },
+      {
+        "key": "B",
+        "text_en": "He asked if were they coming.",
+        "text_ta": "He asked if were they coming."
+      },
+      {
+        "key": "C",
+        "text_en": "He asked if they were coming.",
+        "text_ta": "He asked if they were coming."
+      },
+      {
+        "key": "D",
+        "text_en": "He asked if are they coming.",
+        "text_ta": "He asked if are they coming."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R2 states that 'Are they coming?' becomes 'He asked if they were coming' in indirect speech.",
+    "explanation_ta": "Rule R2 states that 'Are they coming?' becomes 'He asked if they were coming' in indirect speech.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "Rule R2"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does page 22 primarily focus on regarding query construction?",
+    "question_ta": "What does page 22 primarily focus on regarding query construction?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Describing environmental changes in descriptive sentences",
+        "text_ta": "Describing environmental changes in descriptive sentences"
+      },
+      {
+        "key": "B",
+        "text_en": "Analyzing character development using contextual clues",
+        "text_ta": "Analyzing character development using contextual clues"
+      },
+      {
+        "key": "C",
+        "text_en": "Drawing emotional inferences from physical actions",
+        "text_ta": "Drawing emotional inferences from physical actions"
+      },
+      {
+        "key": "D",
+        "text_en": "Constructing WH-questions, identifying Yes/No questions, and reporting direct questions",
+        "text_ta": "Constructing WH-questions, identifying Yes/No questions, and reporting direct questions"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Page 22 provides practice on constructing WH-questions, identifying Yes/No questions, and reporting direct questions into indirect speech.",
+    "explanation_ta": "Page 22 provides practice on constructing WH-questions, identifying Yes/No questions, and reporting direct questions into indirect speech.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "p22"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary definition of 'Inference' as described in the notes?",
+    "question_ta": "What is the primary definition of 'Inference' as described in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The process of explicitly stating facts.",
+        "text_ta": "The process of explicitly stating facts."
+      },
+      {
+        "key": "B",
+        "text_en": "The process of drawing logical conclusions from evidence that is not explicitly stated.",
+        "text_ta": "The process of drawing logical conclusions from evidence that is not explicitly stated."
+      },
+      {
+        "key": "C",
+        "text_en": "The act of summarizing a text's main idea.",
+        "text_ta": "The act of summarizing a text's main idea."
+      },
+      {
+        "key": "D",
+        "text_en": "The skill of identifying direct quotes.",
+        "text_ta": "The skill of identifying direct quotes."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "R3 and G1 both define inference as drawing logical conclusions from evidence not explicitly stated.",
+    "explanation_ta": "R3 and G1 both define inference as drawing logical conclusions from evidence not explicitly stated.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R3, G1"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the notes, an inference is best described as an educated guess based on what factors?",
+    "question_ta": "According to the notes, an inference is best described as an educated guess based on what factors?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Explicit statements and author's opinions.",
+        "text_ta": "Explicit statements and author's opinions."
+      },
+      {
+        "key": "B",
+        "text_en": "Personal feelings and assumptions.",
+        "text_ta": "Personal feelings and assumptions."
+      },
+      {
+        "key": "C",
+        "text_en": "Existing information, observation, background knowledge, and critical thinking.",
+        "text_ta": "Existing information, observation, background knowledge, and critical thinking."
+      },
+      {
+        "key": "D",
+        "text_en": "Direct quotes and factual data only.",
+        "text_ta": "Direct quotes and factual data only."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R4 states that inference is an educated guess based on what you already know, observation, background knowledge, and critical thinking.",
+    "explanation_ta": "R4 states that inference is an educated guess based on what you already know, observation, background knowledge, and critical thinking.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is an inference considered to be, based on the provided definition?",
+    "question_ta": "What is an inference considered to be, based on the provided definition?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A direct quotation from the text.",
+        "text_ta": "A direct quotation from the text."
+      },
+      {
+        "key": "B",
+        "text_en": "A conclusion reached on the basis of evidence and reasoning provided in the text or context.",
+        "text_ta": "A conclusion reached on the basis of evidence and reasoning provided in the text or context."
+      },
+      {
+        "key": "C",
+        "text_en": "A summary of the main points.",
+        "text_ta": "A summary of the main points."
+      },
+      {
+        "key": "D",
+        "text_en": "A statement of explicit facts.",
+        "text_ta": "A statement of explicit facts."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "R7 defines an inference as a conclusion reached on the basis of evidence and reasoning provided in the text or context.",
+    "explanation_ta": "R7 defines an inference as a conclusion reached on the basis of evidence and reasoning provided in the text or context.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R7"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does page 23 distinguish inference from explicit conclusions?",
+    "question_ta": "How does page 23 distinguish inference from explicit conclusions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Inference relies on direct statements, while explicit conclusions use implicit information.",
+        "text_ta": "Inference relies on direct statements, while explicit conclusions use implicit information."
+      },
+      {
+        "key": "B",
+        "text_en": "Inference relies on implicit information, background knowledge, and critical thinking, unlike explicit conclusions.",
+        "text_ta": "Inference relies on implicit information, background knowledge, and critical thinking, unlike explicit conclusions."
+      },
+      {
+        "key": "C",
+        "text_en": "Inference is a simple summary, while explicit conclusions require deep analysis.",
+        "text_ta": "Inference is a simple summary, while explicit conclusions require deep analysis."
+      },
+      {
+        "key": "D",
+        "text_en": "Inference is only for character development, explicit conclusions are for plot.",
+        "text_ta": "Inference is only for character development, explicit conclusions are for plot."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The p23 summary states that inference relies on implicit information, background knowledge, and critical thinking, distinguishing it from explicit conclusions.",
+    "explanation_ta": "The p23 summary states that inference relies on implicit information, background knowledge, and critical thinking, distinguishing it from explicit conclusions.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "p23 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following is NOT listed as a way to make inferences on page 23?",
+    "question_ta": "Which of the following is NOT listed as a way to make inferences on page 23?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Understanding implicit meaning.",
+        "text_ta": "Understanding implicit meaning."
+      },
+      {
+        "key": "B",
+        "text_en": "Using contextual clues.",
+        "text_ta": "Using contextual clues."
+      },
+      {
+        "key": "C",
+        "text_en": "Analyzing character development.",
+        "text_ta": "Analyzing character development."
+      },
+      {
+        "key": "D",
+        "text_en": "Directly quoting the text.",
+        "text_ta": "Directly quoting the text."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The p23 summary lists understanding implicit meaning, using contextual clues, and analyzing character development as ways to make inferences. Directly quoting the text is not inference.",
+    "explanation_ta": "The p23 summary lists understanding implicit meaning, using contextual clues, and analyzing character development as ways to make inferences. Directly quoting the text is not inference.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "p23 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How do writers often convey ideas indirectly, requiring the reader to infer underlying meanings?",
+    "question_ta": "How do writers often convey ideas indirectly, requiring the reader to infer underlying meanings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Through explicit statements and direct commands.",
+        "text_ta": "Through explicit statements and direct commands."
+      },
+      {
+        "key": "B",
+        "text_en": "By providing a glossary of terms at the end of the text.",
+        "text_ta": "By providing a glossary of terms at the end of the text."
+      },
+      {
+        "key": "C",
+        "text_en": "Through nuance, context, tone, or setting.",
+        "text_ta": "Through nuance, context, tone, or setting."
+      },
+      {
+        "key": "D",
+        "text_en": "By using only simple, declarative sentences.",
+        "text_ta": "By using only simple, declarative sentences."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R5 states that writers convey ideas indirectly through nuance, context, tone, or setting, requiring the reader to infer underlying meanings.",
+    "explanation_ta": "R5 states that writers convey ideas indirectly through nuance, context, tone, or setting, requiring the reader to infer underlying meanings.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of clues are mentioned as helpful for readers to make logical inferences?",
+    "question_ta": "What type of clues are mentioned as helpful for readers to make logical inferences?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Grammatical rules and punctuation marks.",
+        "text_ta": "Grammatical rules and punctuation marks."
+      },
+      {
+        "key": "B",
+        "text_en": "Contextual clues like setting, past actions, or dialogue.",
+        "text_ta": "Contextual clues like setting, past actions, or dialogue."
+      },
+      {
+        "key": "C",
+        "text_en": "Author's biography and publication date.",
+        "text_ta": "Author's biography and publication date."
+      },
+      {
+        "key": "D",
+        "text_en": "Table of contents and index.",
+        "text_ta": "Table of contents and index."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "R6 states that contextual clues like setting, past actions, or dialogue help readers make logical inferences.",
+    "explanation_ta": "R6 states that contextual clues like setting, past actions, or dialogue help readers make logical inferences.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R6"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does page 24 primarily focus on regarding inference?",
+    "question_ta": "What does page 24 primarily focus on regarding inference?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The history of inference in literature.",
+        "text_ta": "The history of inference in literature."
+      },
+      {
+        "key": "B",
+        "text_en": "Exercises on making inferences from descriptive sentences.",
+        "text_ta": "Exercises on making inferences from descriptive sentences."
+      },
+      {
+        "key": "C",
+        "text_en": "Debating the philosophical aspects of inference.",
+        "text_ta": "Debating the philosophical aspects of inference."
+      },
+      {
+        "key": "D",
+        "text_en": "Comparing inference with deduction.",
+        "text_ta": "Comparing inference with deduction."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The p24 summary states that this page provides exercises on making inferences from descriptive sentences.",
+    "explanation_ta": "The p24 summary states that this page provides exercises on making inferences from descriptive sentences.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "p24 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When making an inference from a descriptive statement, what details should one observe to deduce the underlying situation or feeling?",
+    "question_ta": "When making an inference from a descriptive statement, what details should one observe to deduce the underlying situation or feeling?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Only the explicit facts presented.",
+        "text_ta": "Only the explicit facts presented."
+      },
+      {
+        "key": "B",
+        "text_en": "Physical actions, emotional cues, or environmental changes.",
+        "text_ta": "Physical actions, emotional cues, or environmental changes."
+      },
+      {
+        "key": "C",
+        "text_en": "The author's personal opinions.",
+        "text_ta": "The author's personal opinions."
+      },
+      {
+        "key": "D",
+        "text_en": "The length of the sentence.",
+        "text_ta": "The length of the sentence."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The p24 summary mentions observing details such as physical actions, emotional cues, or environmental changes to deduce the underlying situation or feeling.",
+    "explanation_ta": "The p24 summary mentions observing details such as physical actions, emotional cues, or environmental changes to deduce the underlying situation or feeling.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "p24 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which characteristic defines Yes/No questions according to the notes?",
+    "question_ta": "Which characteristic defines Yes/No questions according to the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They always begin with 'Why' or 'How'.",
+        "text_ta": "They always begin with 'Why' or 'How'."
+      },
+      {
+        "key": "B",
+        "text_en": "They begin with auxiliary verbs like Have, Do, or Can.",
+        "text_ta": "They begin with auxiliary verbs like Have, Do, or Can."
+      },
+      {
+        "key": "C",
+        "text_en": "They require a detailed explanation as an answer.",
+        "text_ta": "They require a detailed explanation as an answer."
+      },
+      {
+        "key": "D",
+        "text_en": "They are used only in indirect speech.",
+        "text_ta": "They are used only in indirect speech."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "R1 states that Yes/No questions begin with auxiliary verbs (e.g., Have, Do, Can).",
+    "explanation_ta": "R1 states that Yes/No questions begin with auxiliary verbs (e.g., Have, Do, Can).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following is an example of a Yes/No question?",
+    "question_ta": "Which of the following is an example of a Yes/No question?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "What is your name?",
+        "text_ta": "What is your name?"
+      },
+      {
+        "key": "B",
+        "text_en": "Where did you go yesterday?",
+        "text_ta": "Where did you go yesterday?"
+      },
+      {
+        "key": "C",
+        "text_en": "Can you help me with this task?",
+        "text_ta": "Can you help me with this task?"
+      },
+      {
+        "key": "D",
+        "text_en": "How was your day?",
+        "text_ta": "How was your day?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R1 states that Yes/No questions begin with auxiliary verbs like Have, Do, or Can. 'Can you help me with this task?' starts with 'Can'.",
+    "explanation_ta": "R1 states that Yes/No questions begin with auxiliary verbs like Have, Do, or Can. 'Can you help me with this task?' starts with 'Can'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R1, p22 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of questions are illustrated by transforming statements into 'How, Where, When' questions?",
+    "question_ta": "What type of questions are illustrated by transforming statements into 'How, Where, When' questions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Yes/No questions.",
+        "text_ta": "Yes/No questions."
+      },
+      {
+        "key": "B",
+        "text_en": "Tag questions.",
+        "text_ta": "Tag questions."
+      },
+      {
+        "key": "C",
+        "text_en": "WH-questions.",
+        "text_ta": "WH-questions."
+      },
+      {
+        "key": "D",
+        "text_en": "Rhetorical questions.",
+        "text_ta": "Rhetorical questions."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "E1 states that Example 2 illustrates transforming statements into WH-questions (How, Where, When).",
+    "explanation_ta": "E1 states that Example 2 illustrates transforming statements into WH-questions (How, Where, When).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E1, p22 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How should the direct question 'Will she arrive on time?' be correctly converted into indirect speech, assuming the reporting verb is 'He asked'?",
+    "question_ta": "How should the direct question 'Will she arrive on time?' be correctly converted into indirect speech, assuming the reporting verb is 'He asked'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He asked if she will arrive on time.",
+        "text_ta": "He asked if she will arrive on time."
+      },
+      {
+        "key": "B",
+        "text_en": "He asked if she would arrive on time.",
+        "text_ta": "He asked if she would arrive on time."
+      },
+      {
+        "key": "C",
+        "text_en": "He asked if would she arrive on time.",
+        "text_ta": "He asked if would she arrive on time."
+      },
+      {
+        "key": "D",
+        "text_en": "He asked if she arrives on time.",
+        "text_ta": "He asked if she arrives on time."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When converting to indirect speech, the tense usually shifts. 'Will' becomes 'would'. The structure also changes to a statement form after 'if'. This follows the pattern shown in R2.",
+    "explanation_ta": "When converting to indirect speech, the tense usually shifts. 'Will' becomes 'would'. The structure also changes to a statement form after 'if'. This follows the pattern shown in R2.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "R2, p22 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is a key focus when reporting direct questions into indirect speech, according to page 22?",
+    "question_ta": "What is a key focus when reporting direct questions into indirect speech, according to page 22?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Maintaining the original punctuation.",
+        "text_ta": "Maintaining the original punctuation."
+      },
+      {
+        "key": "B",
+        "text_en": "Correct auxiliary verb usage and tense agreement.",
+        "text_ta": "Correct auxiliary verb usage and tense agreement."
+      },
+      {
+        "key": "C",
+        "text_en": "Changing all nouns to pronouns.",
+        "text_ta": "Changing all nouns to pronouns."
+      },
+      {
+        "key": "D",
+        "text_en": "Adding exclamation marks.",
+        "text_ta": "Adding exclamation marks."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The p22 summary mentions focusing on correct auxiliary verb usage and tense agreement when reporting direct questions into indirect speech.",
+    "explanation_ta": "The p22 summary mentions focusing on correct auxiliary verb usage and tense agreement when reporting direct questions into indirect speech.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "p22 summary"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Action: She slammed the door and crossed her arms tightly across her chest. What is the most likely inference?",
+    "question_ta": "Action: She slammed the door and crossed her arms tightly across her chest. What is the most likely inference?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She is happy and excited.",
+        "text_ta": "She is happy and excited."
+      },
+      {
+        "key": "B",
+        "text_en": "She is likely upset or angry.",
+        "text_ta": "She is likely upset or angry."
+      },
+      {
+        "key": "C",
+        "text_en": "She is feeling cold.",
+        "text_ta": "She is feeling cold."
+      },
+      {
+        "key": "D",
+        "text_en": "She is preparing to leave.",
+        "text_ta": "She is preparing to leave."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E2 directly states this action leads to the inference that the character is likely upset or angry.",
+    "explanation_ta": "E2 directly states this action leads to the inference that the character is likely upset or angry.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E2"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "John looked down at his watch, then out the window, tapping his foot impatiently. What can be inferred about John?",
+    "question_ta": "John looked down at his watch, then out the window, tapping his foot impatiently. What can be inferred about John?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "John is admiring the view.",
+        "text_ta": "John is admiring the view."
+      },
+      {
+        "key": "B",
+        "text_en": "John is likely waiting for someone or something.",
+        "text_ta": "John is likely waiting for someone or something."
+      },
+      {
+        "key": "C",
+        "text_en": "John is checking the time for fun.",
+        "text_ta": "John is checking the time for fun."
+      },
+      {
+        "key": "D",
+        "text_en": "John is exercising his foot.",
+        "text_ta": "John is exercising his foot."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E3 directly states this action leads to the inference that John is likely waiting for someone or something.",
+    "explanation_ta": "E3 directly states this action leads to the inference that John is likely waiting for someone or something.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Lucy always sat at the back of the room, never spoke up, and avoided eye contact. What is a reasonable inference about Lucy?",
+    "question_ta": "Lucy always sat at the back of the room, never spoke up, and avoided eye contact. What is a reasonable inference about Lucy?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Lucy is very confident and outgoing.",
+        "text_ta": "Lucy is very confident and outgoing."
+      },
+      {
+        "key": "B",
+        "text_en": "Lucy may be shy or socially anxious.",
+        "text_ta": "Lucy may be shy or socially anxious."
+      },
+      {
+        "key": "C",
+        "text_en": "Lucy prefers to observe others.",
+        "text_ta": "Lucy prefers to observe others."
+      },
+      {
+        "key": "D",
+        "text_en": "Lucy is bored with the class.",
+        "text_ta": "Lucy is bored with the class."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E4 directly states this action leads to the inference that Lucy may be shy or socially anxious.",
+    "explanation_ta": "E4 directly states this action leads to the inference that Lucy may be shy or socially anxious.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "She clutched her phone tightly, her knuckles white. What does this action most strongly infer?",
+    "question_ta": "She clutched her phone tightly, her knuckles white. What does this action most strongly infer?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She is relaxed and calm.",
+        "text_ta": "She is relaxed and calm."
+      },
+      {
+        "key": "B",
+        "text_en": "She is anxious or nervous.",
+        "text_ta": "She is anxious or nervous."
+      },
+      {
+        "key": "C",
+        "text_en": "She is showing off her phone.",
+        "text_ta": "She is showing off her phone."
+      },
+      {
+        "key": "D",
+        "text_en": "She is about to drop her phone.",
+        "text_ta": "She is about to drop her phone."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E5 directly states this action leads to the inference that she is anxious or nervous.",
+    "explanation_ta": "E5 directly states this action leads to the inference that she is anxious or nervous.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "He walked into the room, his shoes still covered in mud. What can be inferred about him?",
+    "question_ta": "He walked into the room, his shoes still covered in mud. What can be inferred about him?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He has just cleaned his shoes.",
+        "text_ta": "He has just cleaned his shoes."
+      },
+      {
+        "key": "B",
+        "text_en": "He has just been outside in the rain or mud.",
+        "text_ta": "He has just been outside in the rain or mud."
+      },
+      {
+        "key": "C",
+        "text_en": "He is a messy person.",
+        "text_ta": "He is a messy person."
+      },
+      {
+        "key": "D",
+        "text_en": "He is wearing new shoes.",
+        "text_ta": "He is wearing new shoes."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E6 directly states this action leads to the inference that he has just been outside in the rain or mud.",
+    "explanation_ta": "E6 directly states this action leads to the inference that he has just been outside in the rain or mud.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The dog wagged its tail and jumped up to greet her. What is the most logical inference about the dog's state?",
+    "question_ta": "The dog wagged its tail and jumped up to greet her. What is the most logical inference about the dog's state?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The dog is hungry.",
+        "text_ta": "The dog is hungry."
+      },
+      {
+        "key": "B",
+        "text_en": "The dog is tired.",
+        "text_ta": "The dog is tired."
+      },
+      {
+        "key": "C",
+        "text_en": "The dog is excited and happy to see her.",
+        "text_ta": "The dog is excited and happy to see her."
+      },
+      {
+        "key": "D",
+        "text_en": "The dog is aggressive.",
+        "text_ta": "The dog is aggressive."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "E7 directly states this action leads to the inference that the dog is excited and happy to see her.",
+    "explanation_ta": "E7 directly states this action leads to the inference that the dog is excited and happy to see her.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "John didn't respond to the question, staring at his shoes. What can be inferred about John's reaction?",
+    "question_ta": "John didn't respond to the question, staring at his shoes. What can be inferred about John's reaction?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "John is thinking deeply about the answer.",
+        "text_ta": "John is thinking deeply about the answer."
+      },
+      {
+        "key": "B",
+        "text_en": "John is embarrassed or avoiding the question.",
+        "text_ta": "John is embarrassed or avoiding the question."
+      },
+      {
+        "key": "C",
+        "text_en": "John is admiring his shoes.",
+        "text_ta": "John is admiring his shoes."
+      },
+      {
+        "key": "D",
+        "text_en": "John didn't hear the question.",
+        "text_ta": "John didn't hear the question."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E8 directly states this action leads to the inference that John is embarrassed or avoiding the question.",
+    "explanation_ta": "E8 directly states this action leads to the inference that John is embarrassed or avoiding the question.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Making Queries",
+    "topic": "Making Queries",
+    "topic_id": "making_queries",
+    "topic_ta": "Making Queries",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "The car screeched to a halt, and the engine sputtered out. What is a plausible inference?",
+    "question_ta": "The car screeched to a halt, and the engine sputtered out. What is a plausible inference?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The car is working perfectly.",
+        "text_ta": "The car is working perfectly."
+      },
+      {
+        "key": "B",
+        "text_en": "The car might have broken down suddenly.",
+        "text_ta": "The car might have broken down suddenly."
+      },
+      {
+        "key": "C",
+        "text_en": "The driver is practicing emergency stops.",
+        "text_ta": "The driver is practicing emergency stops."
+      },
+      {
+        "key": "D",
+        "text_en": "The car is out of fuel.",
+        "text_ta": "The car is out of fuel."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E9 directly states this action leads to the inference that the car might have broken down suddenly.",
+    "explanation_ta": "E9 directly states this action leads to the inference that the car might have broken down suddenly.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Making Queries",
+    "source_note": "E9"
+  }
+]

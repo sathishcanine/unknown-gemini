@@ -1,0 +1,49 @@
+{
+  "dropped_ids": [
+    5844,
+    6162,
+    6187,
+    6345,
+    6042,
+    6052,
+    5831,
+    5839,
+    5944,
+    6050,
+    6218,
+    6307,
+    6381,
+    6094,
+    6413,
+    6265
+  ],
+  "count": 16,
+  "reasons": {
+    "statements_or_sets_missing": [
+      5844
+    ],
+    "match_columns_missing": [
+      6162,
+      6187,
+      6345
+    ],
+    "placeholder_options": [
+      6042,
+      6052
+    ],
+    "duplicate_options": [
+      5831,
+      5839,
+      5944,
+      6050,
+      6218,
+      6307,
+      6381
+    ],
+    "missing_figure_or_structure": [
+      6094,
+      6413,
+      6265
+    ]
+  }
+}

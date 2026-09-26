@@ -1,0 +1,35 @@
+{
+  "note": "Concord uses three books (Asan + Grammer.pdf + Govt notes), same pattern as Parts of Speech.",
+  "sources": [
+    {
+      "id": "asan",
+      "priority": 1,
+      "file": "Data/General-English/asan - concord,tense, sentence pattern, question tag.pdf",
+      "role": "primary",
+      "pdf_pages": [1, 2, 3, 4, 5, 6],
+      "note": "Tense starts at PDF page 7 — exclude from Concord"
+    },
+    {
+      "id": "grammer",
+      "priority": 2,
+      "file": "Data/General-English/Grammer.pdf",
+      "role": "secondary",
+      "index_label": "Concord",
+      "index_page_ref": 324,
+      "pdf_pages": [326, 327, 328, 329, 330],
+      "note": "Subject and Verb Agreement (Concord) block"
+    },
+    {
+      "id": "govt",
+      "priority": 3,
+      "file": "Data/General-English/General_English_Part_A_Grammar_Group_2_Govt_Notes_for_TNPSC_Group.pdf",
+      "role": "secondary",
+      "dedicated_chapter": false,
+      "pdf_pages": [77, 78, 79, 80],
+      "note": "No standalone Concord chapter. Concord named in Find-out-the-Error tested areas (p.77); harvest SVA/number errors from that chapter only."
+    }
+  ],
+  "out_of_scope": [
+    "Data/General-English/asan parts of speech (1).pdf"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "batches": {
+    "Batch 1": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Batch 2": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Batch 3": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Batch 4": {
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    }
+  },
+  "totals": {
+    "fixed": 0,
+    "dropped": 0
+  }
+}

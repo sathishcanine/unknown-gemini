@@ -1,0 +1,4602 @@
+[
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of ISRO?",
+    "question_ta": "What is the full form of ISRO?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian Science Research Organisation",
+        "text_ta": "Indian Science Research Organisation"
+      },
+      {
+        "key": "B",
+        "text_en": "Indian Space Research Organisation",
+        "text_ta": "Indian Space Research Organisation"
+      },
+      {
+        "key": "C",
+        "text_en": "International Space Research Office",
+        "text_ta": "International Space Research Office"
+      },
+      {
+        "key": "D",
+        "text_en": "Indian Satellite Research Organization",
+        "text_ta": "Indian Satellite Research Organization"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the notes, ISRO stands for Indian Space Research Organisation.",
+    "explanation_ta": "According to the notes, ISRO stands for Indian Space Research Organisation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Expand the abbreviation: UNESCO",
+    "question_ta": "Expand the abbreviation: UNESCO",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "United Nations Educational Scientific and Cultural Organization",
+        "text_ta": "United Nations Educational Scientific and Cultural Organization"
+      },
+      {
+        "key": "B",
+        "text_en": "United Nations Environmental Scientific Cultural Office",
+        "text_ta": "United Nations Environmental Scientific Cultural Office"
+      },
+      {
+        "key": "C",
+        "text_en": "Universal Network of Educational Scientific and Cultural Organizations",
+        "text_ta": "Universal Network of Educational Scientific and Cultural Organizations"
+      },
+      {
+        "key": "D",
+        "text_en": "United Nations Economic Social and Cultural Organization",
+        "text_ta": "United Nations Economic Social and Cultural Organization"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "UNESCO expands to United Nations Educational Scientific and Cultural Organization.",
+    "explanation_ta": "UNESCO expands to United Nations Educational Scientific and Cultural Organization.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does PAN stand for in common usage?",
+    "question_ta": "What does PAN stand for in common usage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Primary Account Number",
+        "text_ta": "Primary Account Number"
+      },
+      {
+        "key": "B",
+        "text_en": "Permanent Access Number",
+        "text_ta": "Permanent Access Number"
+      },
+      {
+        "key": "C",
+        "text_en": "Permanent Account Number",
+        "text_ta": "Permanent Account Number"
+      },
+      {
+        "key": "D",
+        "text_en": "Personalized Account Name",
+        "text_ta": "Personalized Account Name"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "As per the notes, PAN stands for Permanent Account Number.",
+    "explanation_ta": "As per the notes, PAN stands for Permanent Account Number.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct full form of WHO.",
+    "question_ta": "Choose the correct full form of WHO.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "World Health Organization",
+        "text_ta": "World Health Organization"
+      },
+      {
+        "key": "B",
+        "text_en": "World Health Organisation",
+        "text_ta": "World Health Organisation"
+      },
+      {
+        "key": "C",
+        "text_en": "World Human Organization",
+        "text_ta": "World Human Organization"
+      },
+      {
+        "key": "D",
+        "text_en": "World Healthcare Organisation",
+        "text_ta": "World Healthcare Organisation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The notes state that WHO stands for World Health Organisation.",
+    "explanation_ta": "The notes state that WHO stands for World Health Organisation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the expansion of TNPSC?",
+    "question_ta": "What is the expansion of TNPSC?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tamil Nadu Public Service Commission",
+        "text_ta": "Tamil Nadu Public Service Commission"
+      },
+      {
+        "key": "B",
+        "text_en": "Tamil Nadu Police Service Corporation",
+        "text_ta": "Tamil Nadu Police Service Corporation"
+      },
+      {
+        "key": "C",
+        "text_en": "Tamil Nadu Postal Selection Commission",
+        "text_ta": "Tamil Nadu Postal Selection Commission"
+      },
+      {
+        "key": "D",
+        "text_en": "Tamil Nadu Public Sector Committee",
+        "text_ta": "Tamil Nadu Public Sector Committee"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "TNPSC stands for Tamil Nadu Public Service Commission.",
+    "explanation_ta": "TNPSC stands for Tamil Nadu Public Service Commission.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E34"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Full form of NEET in the notes is:",
+    "question_ta": "Full form of NEET in the notes is:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "National Education and Entrance Test",
+        "text_ta": "National Education and Entrance Test"
+      },
+      {
+        "key": "B",
+        "text_en": "National Eligibility cum Entrance Test",
+        "text_ta": "National Eligibility cum Entrance Test"
+      },
+      {
+        "key": "C",
+        "text_en": "National Entrance Examination for Test",
+        "text_ta": "National Entrance Examination for Test"
+      },
+      {
+        "key": "D",
+        "text_en": "National Educational Evaluation Test",
+        "text_ta": "National Educational Evaluation Test"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "NEET refers to National Eligibility cum Entrance Test.",
+    "explanation_ta": "NEET refers to National Eligibility cum Entrance Test.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does SIM stand for?",
+    "question_ta": "What does SIM stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Subscriber Identity Module",
+        "text_ta": "Subscriber Identity Module"
+      },
+      {
+        "key": "B",
+        "text_en": "System Information Module",
+        "text_ta": "System Information Module"
+      },
+      {
+        "key": "C",
+        "text_en": "Subscriber Internet Mobile",
+        "text_ta": "Subscriber Internet Mobile"
+      },
+      {
+        "key": "D",
+        "text_en": "Subscriber Integrated Mechanism",
+        "text_ta": "Subscriber Integrated Mechanism"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "SIM stands for Subscriber Identity Module.",
+    "explanation_ta": "SIM stands for Subscriber Identity Module.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for NASA.",
+    "question_ta": "Choose the correct expansion for NASA.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "National Aeronautics and Space Administration",
+        "text_ta": "National Aeronautics and Space Administration"
+      },
+      {
+        "key": "B",
+        "text_en": "North American Space Association",
+        "text_ta": "North American Space Association"
+      },
+      {
+        "key": "C",
+        "text_en": "National Aviation and Space Administration",
+        "text_ta": "National Aviation and Space Administration"
+      },
+      {
+        "key": "D",
+        "text_en": "National Aeronautics and Satellite Agency",
+        "text_ta": "National Aeronautics and Satellite Agency"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "NASA stands for National Aeronautics and Space Administration.",
+    "explanation_ta": "NASA stands for National Aeronautics and Space Administration.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E30"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does GST stand for?",
+    "question_ta": "What does GST stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Goods and Service Tax",
+        "text_ta": "Goods and Service Tax"
+      },
+      {
+        "key": "B",
+        "text_en": "General Sales Tax",
+        "text_ta": "General Sales Tax"
+      },
+      {
+        "key": "C",
+        "text_en": "Government Service Tariff",
+        "text_ta": "Government Service Tariff"
+      },
+      {
+        "key": "D",
+        "text_en": "Global Supply Tax",
+        "text_ta": "Global Supply Tax"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "GST refers to Goods and Service Tax.",
+    "explanation_ta": "GST refers to Goods and Service Tax.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Expand the abbreviation: AIDS",
+    "question_ta": "Expand the abbreviation: AIDS",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Acquired Immune Deficiency System",
+        "text_ta": "Acquired Immune Deficiency System"
+      },
+      {
+        "key": "B",
+        "text_en": "Acquired Immuno-deficiency Syndrome",
+        "text_ta": "Acquired Immuno-deficiency Syndrome"
+      },
+      {
+        "key": "C",
+        "text_en": "Acute Immune Deficiency Syndrome",
+        "text_ta": "Acute Immune Deficiency Syndrome"
+      },
+      {
+        "key": "D",
+        "text_en": "Assisted Immune Deficiency Syndrome",
+        "text_ta": "Assisted Immune Deficiency Syndrome"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "AIDS stands for Acquired Immuno-deficiency Syndrome.",
+    "explanation_ta": "AIDS stands for Acquired Immuno-deficiency Syndrome.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E23"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of STD?",
+    "question_ta": "What is the full form of STD?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Standard Trunk Dialing",
+        "text_ta": "Standard Trunk Dialing"
+      },
+      {
+        "key": "B",
+        "text_en": "Subscriber Trunk Dialing",
+        "text_ta": "Subscriber Trunk Dialing"
+      },
+      {
+        "key": "C",
+        "text_en": "Subscriber Telephone Directory",
+        "text_ta": "Subscriber Telephone Directory"
+      },
+      {
+        "key": "D",
+        "text_en": "Standard Telecom Division",
+        "text_ta": "Standard Telecom Division"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "STD stands for Subscriber Trunk Dialing.",
+    "explanation_ta": "STD stands for Subscriber Trunk Dialing.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does IFSC stand for?",
+    "question_ta": "What does IFSC stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian Financial System Code",
+        "text_ta": "Indian Financial System Code"
+      },
+      {
+        "key": "B",
+        "text_en": "International Fund Transfer Code",
+        "text_ta": "International Fund Transfer Code"
+      },
+      {
+        "key": "C",
+        "text_en": "Indian Fund Security Code",
+        "text_ta": "Indian Fund Security Code"
+      },
+      {
+        "key": "D",
+        "text_en": "International Financial Standard Code",
+        "text_ta": "International Financial Standard Code"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "IFSC stands for Indian Financial System Code.",
+    "explanation_ta": "IFSC stands for Indian Financial System Code.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E55"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Expand: SCUBA",
+    "question_ta": "Expand: SCUBA",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Self-Contained Underwater Breathing Apparatus",
+        "text_ta": "Self-Contained Underwater Breathing Apparatus"
+      },
+      {
+        "key": "B",
+        "text_en": "Submerged Craft Under Breathing Aid",
+        "text_ta": "Submerged Craft Under Breathing Aid"
+      },
+      {
+        "key": "C",
+        "text_en": "Self-Controlled Under-water Body Apparatus",
+        "text_ta": "Self-Controlled Under-water Body Apparatus"
+      },
+      {
+        "key": "D",
+        "text_en": "Specialized Controlled Underwater Breathing Agency",
+        "text_ta": "Specialized Controlled Underwater Breathing Agency"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "SCUBA stands for Self-Contained Underwater Breathing Apparatus.",
+    "explanation_ta": "SCUBA stands for Self-Contained Underwater Breathing Apparatus.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does UPS stand for in power hardware?",
+    "question_ta": "What does UPS stand for in power hardware?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Universal Power Supply",
+        "text_ta": "Universal Power Supply"
+      },
+      {
+        "key": "B",
+        "text_en": "Uninterruptible Power Supply",
+        "text_ta": "Uninterruptible Power Supply"
+      },
+      {
+        "key": "C",
+        "text_en": "Unified Power System",
+        "text_ta": "Unified Power System"
+      },
+      {
+        "key": "D",
+        "text_en": "Unregulated Power Source",
+        "text_ta": "Unregulated Power Source"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "UPS stands for Uninterruptible Power Supply.",
+    "explanation_ta": "UPS stands for Uninterruptible Power Supply.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Full form of CBI is:",
+    "question_ta": "Full form of CBI is:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Central Bureau of Investigation",
+        "text_ta": "Central Bureau of Investigation"
+      },
+      {
+        "key": "B",
+        "text_en": "Crime Branch of India",
+        "text_ta": "Crime Branch of India"
+      },
+      {
+        "key": "C",
+        "text_en": "Central Board of Investigation",
+        "text_ta": "Central Board of Investigation"
+      },
+      {
+        "key": "D",
+        "text_en": "Criminal Bureau of Investigation",
+        "text_ta": "Criminal Bureau of Investigation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CBI stands for Central Bureau of Investigation.",
+    "explanation_ta": "CBI stands for Central Bureau of Investigation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E41"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does IAS stand for?",
+    "question_ta": "What does IAS stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian Administrative Service",
+        "text_ta": "Indian Administrative Service"
+      },
+      {
+        "key": "B",
+        "text_en": "Indian Audit Service",
+        "text_ta": "Indian Audit Service"
+      },
+      {
+        "key": "C",
+        "text_en": "Indian Agricultural Service",
+        "text_ta": "Indian Agricultural Service"
+      },
+      {
+        "key": "D",
+        "text_en": "All India Service",
+        "text_ta": "All India Service"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "IAS stands for Indian Administrative Service.",
+    "explanation_ta": "IAS stands for Indian Administrative Service.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E43"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Expand the abbreviation: TOEFL",
+    "question_ta": "Expand the abbreviation: TOEFL",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Test of English as a Foreign Language",
+        "text_ta": "Test of English as a Foreign Language"
+      },
+      {
+        "key": "B",
+        "text_en": "Testing of English Fluency Level",
+        "text_ta": "Testing of English Fluency Level"
+      },
+      {
+        "key": "C",
+        "text_en": "Test of Educational Foreign Language",
+        "text_ta": "Test of Educational Foreign Language"
+      },
+      {
+        "key": "D",
+        "text_en": "Terms of English Foreign Literature",
+        "text_ta": "Terms of English Foreign Literature"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "TOEFL stands for Test of English as a Foreign Language.",
+    "explanation_ta": "TOEFL stands for Test of English as a Foreign Language.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does SSC stand for?",
+    "question_ta": "What does SSC stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Secondary School Certificate",
+        "text_ta": "Secondary School Certificate"
+      },
+      {
+        "key": "B",
+        "text_en": "Staff Selection Commission",
+        "text_ta": "Staff Selection Commission"
+      },
+      {
+        "key": "C",
+        "text_en": "State Selection Committee",
+        "text_ta": "State Selection Committee"
+      },
+      {
+        "key": "D",
+        "text_en": "Standard Staff Council",
+        "text_ta": "Standard Staff Council"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "SSC stands for Staff Selection Commission.",
+    "explanation_ta": "SSC stands for Staff Selection Commission.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for IMD.",
+    "question_ta": "Choose the correct expansion for IMD.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "India Meteorological Department",
+        "text_ta": "India Meteorological Department"
+      },
+      {
+        "key": "B",
+        "text_en": "Indian Medical Directorate",
+        "text_ta": "Indian Medical Directorate"
+      },
+      {
+        "key": "C",
+        "text_en": "International Meteorological Division",
+        "text_ta": "International Meteorological Division"
+      },
+      {
+        "key": "D",
+        "text_en": "Indian Manufacturing Department",
+        "text_ta": "Indian Manufacturing Department"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "IMD stands for India Meteorological Department.",
+    "explanation_ta": "IMD stands for India Meteorological Department.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the expansion of AVADI?",
+    "question_ta": "What is the expansion of AVADI?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Armoured Vehicles and Ammunition Depot of India",
+        "text_ta": "Armoured Vehicles and Ammunition Depot of India"
+      },
+      {
+        "key": "B",
+        "text_en": "Army Vehicles and Arms Development Institute",
+        "text_ta": "Army Vehicles and Arms Development Institute"
+      },
+      {
+        "key": "C",
+        "text_en": "Armoured Vehicle Ammunition Department of Industries",
+        "text_ta": "Armoured Vehicle Ammunition Department of Industries"
+      },
+      {
+        "key": "D",
+        "text_en": "Associated Vehicles and Ammunition Depot of India",
+        "text_ta": "Associated Vehicles and Ammunition Depot of India"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "AVADI stands for Armoured Vehicles and Ammunition Depot of India.",
+    "explanation_ta": "AVADI stands for Armoured Vehicles and Ammunition Depot of India.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Full form of DARE in the notes:",
+    "question_ta": "Full form of DARE in the notes:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Drug Abuse Resistance Education",
+        "text_ta": "Drug Abuse Resistance Education"
+      },
+      {
+        "key": "B",
+        "text_en": "Direct Action and Research Endeavour",
+        "text_ta": "Direct Action and Research Endeavour"
+      },
+      {
+        "key": "C",
+        "text_en": "Department of Atomic Research and Education",
+        "text_ta": "Department of Atomic Research and Education"
+      },
+      {
+        "key": "D",
+        "text_en": "Digital Awareness and Resource Exchange",
+        "text_ta": "Digital Awareness and Resource Exchange"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "DARE stands for Drug Abuse Resistance Education.",
+    "explanation_ta": "DARE stands for Drug Abuse Resistance Education.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does INSAT stand for?",
+    "question_ta": "What does INSAT stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian National Satellite",
+        "text_ta": "Indian National Satellite"
+      },
+      {
+        "key": "B",
+        "text_en": "International Navigation and Satellite",
+        "text_ta": "International Navigation and Satellite"
+      },
+      {
+        "key": "C",
+        "text_en": "Indian Network for Science and Technology",
+        "text_ta": "Indian Network for Science and Technology"
+      },
+      {
+        "key": "D",
+        "text_en": "Integrated National Science and Technology",
+        "text_ta": "Integrated National Science and Technology"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "INSAT stands for Indian National Satellite.",
+    "explanation_ta": "INSAT stands for Indian National Satellite.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E2, R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for VAT.",
+    "question_ta": "Choose the correct expansion for VAT.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Value Added Tax",
+        "text_ta": "Value Added Tax"
+      },
+      {
+        "key": "B",
+        "text_en": "Variable Assessment Tax",
+        "text_ta": "Variable Assessment Tax"
+      },
+      {
+        "key": "C",
+        "text_en": "Verified Account Tariff",
+        "text_ta": "Verified Account Tariff"
+      },
+      {
+        "key": "D",
+        "text_en": "Value Assessment Tariff",
+        "text_ta": "Value Assessment Tariff"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "VAT stands for Value Added Tax.",
+    "explanation_ta": "VAT stands for Value Added Tax.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E31"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does SAT stand for?",
+    "question_ta": "What does SAT stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Scholastic Assessment Test",
+        "text_ta": "Scholastic Assessment Test"
+      },
+      {
+        "key": "B",
+        "text_en": "Standardized Aptitude Test",
+        "text_ta": "Standardized Aptitude Test"
+      },
+      {
+        "key": "C",
+        "text_en": "Student Academic Test",
+        "text_ta": "Student Academic Test"
+      },
+      {
+        "key": "D",
+        "text_en": "School Achievement Trial",
+        "text_ta": "School Achievement Trial"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "SAT stands for Scholastic Assessment Test.",
+    "explanation_ta": "SAT stands for Scholastic Assessment Test.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E39"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Full form of UDISE is:",
+    "question_ta": "Full form of UDISE is:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Unified District Information System for Education",
+        "text_ta": "Unified District Information System for Education"
+      },
+      {
+        "key": "B",
+        "text_en": "Universal Data Intelligence System for Economics",
+        "text_ta": "Universal Data Intelligence System for Economics"
+      },
+      {
+        "key": "C",
+        "text_en": "United District Institute of Secondary Education",
+        "text_ta": "United District Institute of Secondary Education"
+      },
+      {
+        "key": "D",
+        "text_en": "Unified Directorate of Information and School Education",
+        "text_ta": "Unified Directorate of Information and School Education"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "UDISE stands for Unified District Information System for Education.",
+    "explanation_ta": "UDISE stands for Unified District Information System for Education.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "abbreviations",
+    "source_note": "E47"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the proper expansion for the acronym TANSI from the given options.",
+    "question_ta": "Select the proper expansion for the acronym TANSI from the given options.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tamil Nadu Small Scale Industries",
+        "text_ta": "Tamil Nadu Small Scale Industries"
+      },
+      {
+        "key": "B",
+        "text_en": "Tamil Nadu Science and Industries",
+        "text_ta": "Tamil Nadu Science and Industries"
+      },
+      {
+        "key": "C",
+        "text_en": "Tamil Nadu State Industries",
+        "text_ta": "Tamil Nadu State Industries"
+      },
+      {
+        "key": "D",
+        "text_en": "Tamil Nadu Social Service Institution",
+        "text_ta": "Tamil Nadu Social Service Institution"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, TANSI stands for Tamil Nadu Small Scale Industries.",
+    "explanation_ta": "According to the notes, TANSI stands for Tamil Nadu Small Scale Industries.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the full form of the acronym FAQ.",
+    "question_ta": "Identify the full form of the acronym FAQ.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Frequently Asked Questions",
+        "text_ta": "Frequently Asked Questions"
+      },
+      {
+        "key": "B",
+        "text_en": "Frequently Answered Queries",
+        "text_ta": "Frequently Answered Queries"
+      },
+      {
+        "key": "C",
+        "text_en": "Final Answered Questions",
+        "text_ta": "Final Answered Questions"
+      },
+      {
+        "key": "D",
+        "text_en": "Fast Accessed Queries",
+        "text_ta": "Fast Accessed Queries"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list FAQ as an acronym for Frequently Asked Questions.",
+    "explanation_ta": "The notes list FAQ as an acronym for Frequently Asked Questions.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation FIR stand for?",
+    "question_ta": "What does the abbreviation FIR stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "First Information Report",
+        "text_ta": "First Information Report"
+      },
+      {
+        "key": "B",
+        "text_en": "Fast Inquiry Report",
+        "text_ta": "Fast Inquiry Report"
+      },
+      {
+        "key": "C",
+        "text_en": "Formal Investigation Record",
+        "text_ta": "Formal Investigation Record"
+      },
+      {
+        "key": "D",
+        "text_en": "First Investigation Report",
+        "text_ta": "First Investigation Report"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the notes, FIR expands to First Information Report.",
+    "explanation_ta": "As per the notes, FIR expands to First Information Report.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the acronym DARE.",
+    "question_ta": "Choose the correct expansion for the acronym DARE.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Drug Abuse Resistance Education",
+        "text_ta": "Drug Abuse Resistance Education"
+      },
+      {
+        "key": "B",
+        "text_en": "Direct Action and Reaction Evaluation",
+        "text_ta": "Direct Action and Reaction Evaluation"
+      },
+      {
+        "key": "C",
+        "text_en": "Department of Atomic Research and Education",
+        "text_ta": "Department of Atomic Research and Education"
+      },
+      {
+        "key": "D",
+        "text_en": "Dynamic Adolescent Rights Enterprise",
+        "text_ta": "Dynamic Adolescent Rights Enterprise"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes identify DARE as an acronym for Drug Abuse Resistance Education.",
+    "explanation_ta": "The notes identify DARE as an acronym for Drug Abuse Resistance Education.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of AIDS in the provided notes?",
+    "question_ta": "What is the full form of AIDS in the provided notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Acquired Immuno-deficiency Syndrome",
+        "text_ta": "Acquired Immuno-deficiency Syndrome"
+      },
+      {
+        "key": "B",
+        "text_en": "Acute Immune Deficiency System",
+        "text_ta": "Acute Immune Deficiency System"
+      },
+      {
+        "key": "C",
+        "text_en": "Advanced Infection and Disease Syndrome",
+        "text_ta": "Advanced Infection and Disease Syndrome"
+      },
+      {
+        "key": "D",
+        "text_en": "Acquired Infection Disease Support",
+        "text_ta": "Acquired Infection Disease Support"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, AIDS stands for Acquired Immuno-deficiency Syndrome.",
+    "explanation_ta": "According to the notes, AIDS stands for Acquired Immuno-deficiency Syndrome.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct expansion for the acronym INSAT.",
+    "question_ta": "Select the correct expansion for the acronym INSAT.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian National Satellite",
+        "text_ta": "Indian National Satellite"
+      },
+      {
+        "key": "B",
+        "text_en": "International Navigation and Satellite",
+        "text_ta": "International Navigation and Satellite"
+      },
+      {
+        "key": "C",
+        "text_en": "Indian Network for Science and Technology",
+        "text_ta": "Indian Network for Science and Technology"
+      },
+      {
+        "key": "D",
+        "text_en": "International Network System and Technology",
+        "text_ta": "International Network System and Technology"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that INSAT stands for Indian National Satellite.",
+    "explanation_ta": "The notes state that INSAT stands for Indian National Satellite.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E23"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the acronym SAT stand for in the given context?",
+    "question_ta": "What does the acronym SAT stand for in the given context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Scholastic Assessment Test",
+        "text_ta": "Scholastic Assessment Test"
+      },
+      {
+        "key": "B",
+        "text_en": "Standard Achievement Training",
+        "text_ta": "Standard Achievement Training"
+      },
+      {
+        "key": "C",
+        "text_en": "Scholastic Aptitude Technique",
+        "text_ta": "Scholastic Aptitude Technique"
+      },
+      {
+        "key": "D",
+        "text_en": "Systematic Academic Test",
+        "text_ta": "Systematic Academic Test"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, SAT is an acronym for Scholastic Assessment Test.",
+    "explanation_ta": "According to the notes, SAT is an acronym for Scholastic Assessment Test.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the acronym SIM.",
+    "question_ta": "Choose the correct expansion for the acronym SIM.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Subscriber Identification Module",
+        "text_ta": "Subscriber Identification Module"
+      },
+      {
+        "key": "B",
+        "text_en": "System Information Management",
+        "text_ta": "System Information Management"
+      },
+      {
+        "key": "C",
+        "text_en": "Subscriber Integration Mechanism",
+        "text_ta": "Subscriber Integration Mechanism"
+      },
+      {
+        "key": "D",
+        "text_en": "Signal Interface Module",
+        "text_ta": "Signal Interface Module"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes specify that SIM stands for Subscriber Identification Module.",
+    "explanation_ta": "The notes specify that SIM stands for Subscriber Identification Module.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E28"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of PAN as an acronym?",
+    "question_ta": "What is the full form of PAN as an acronym?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Permanent Account Number",
+        "text_ta": "Permanent Account Number"
+      },
+      {
+        "key": "B",
+        "text_en": "Personal Access Network",
+        "text_ta": "Personal Access Network"
+      },
+      {
+        "key": "C",
+        "text_en": "Primary Authorized Name",
+        "text_ta": "Primary Authorized Name"
+      },
+      {
+        "key": "D",
+        "text_en": "Public Asset Number",
+        "text_ta": "Public Asset Number"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the notes, PAN stands for Permanent Account Number.",
+    "explanation_ta": "Based on the notes, PAN stands for Permanent Account Number.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E29"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct expansion for the acronym NASA.",
+    "question_ta": "Select the correct expansion for the acronym NASA.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "National Aeronautics and Space Administration",
+        "text_ta": "National Aeronautics and Space Administration"
+      },
+      {
+        "key": "B",
+        "text_en": "National Aviation and Space Association",
+        "text_ta": "National Aviation and Space Association"
+      },
+      {
+        "key": "C",
+        "text_en": "North American Space Agency",
+        "text_ta": "North American Space Agency"
+      },
+      {
+        "key": "D",
+        "text_en": "Naval Aeronautics and Space Administration",
+        "text_ta": "Naval Aeronautics and Space Administration"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, NASA is an acronym for National Aeronautics and Space Administration.",
+    "explanation_ta": "According to the notes, NASA is an acronym for National Aeronautics and Space Administration.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E35"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the acronym ILO stand for?",
+    "question_ta": "What does the acronym ILO stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "International Labour Organization",
+        "text_ta": "International Labour Organization"
+      },
+      {
+        "key": "B",
+        "text_en": "International Legal Office",
+        "text_ta": "International Legal Office"
+      },
+      {
+        "key": "C",
+        "text_en": "Interstate Logistics Operation",
+        "text_ta": "Interstate Logistics Operation"
+      },
+      {
+        "key": "D",
+        "text_en": "Independent Labour Organization",
+        "text_ta": "Independent Labour Organization"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list ILO as an acronym for International Labour Organization.",
+    "explanation_ta": "The notes list ILO as an acronym for International Labour Organization.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct full form of the acronym LASER.",
+    "question_ta": "Choose the correct full form of the acronym LASER.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Light Amplification by Stimulated Emission of Radiation",
+        "text_ta": "Light Amplification by Stimulated Emission of Radiation"
+      },
+      {
+        "key": "B",
+        "text_en": "Light Activation by Spectral Energy of Rays",
+        "text_ta": "Light Activation by Spectral Energy of Rays"
+      },
+      {
+        "key": "C",
+        "text_en": "Linear Amplification of Stimulated Electrical Radiation",
+        "text_ta": "Linear Amplification of Stimulated Electrical Radiation"
+      },
+      {
+        "key": "D",
+        "text_en": "Light Application by Surface Emission of Rays",
+        "text_ta": "Light Application by Surface Emission of Rays"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the notes, LASER expands to Light Amplification by Stimulated Emission of Radiation.",
+    "explanation_ta": "As per the notes, LASER expands to Light Amplification by Stimulated Emission of Radiation.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E54"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the expansion of the acronym AIR?",
+    "question_ta": "What is the expansion of the acronym AIR?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "All India Radio",
+        "text_ta": "All India Radio"
+      },
+      {
+        "key": "B",
+        "text_en": "Association of Indian Reporters",
+        "text_ta": "Association of Indian Reporters"
+      },
+      {
+        "key": "C",
+        "text_en": "All India Research",
+        "text_ta": "All India Research"
+      },
+      {
+        "key": "D",
+        "text_en": "Autonomous Information Relay",
+        "text_ta": "Autonomous Information Relay"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that AIR stands for All India Radio.",
+    "explanation_ta": "The notes state that AIR stands for All India Radio.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E55"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct expansion for the abbreviation GST.",
+    "question_ta": "Select the correct expansion for the abbreviation GST.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Goods and Service Tax",
+        "text_ta": "Goods and Service Tax"
+      },
+      {
+        "key": "B",
+        "text_en": "Government Sales Tax",
+        "text_ta": "Government Sales Tax"
+      },
+      {
+        "key": "C",
+        "text_en": "General Service Tariff",
+        "text_ta": "General Service Tariff"
+      },
+      {
+        "key": "D",
+        "text_en": "Global System of Taxation",
+        "text_ta": "Global System of Taxation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, GST stands for Goods and Service Tax.",
+    "explanation_ta": "According to the notes, GST stands for Goods and Service Tax.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation IIM stand for?",
+    "question_ta": "What does the abbreviation IIM stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian Institute of Management",
+        "text_ta": "Indian Institute of Management"
+      },
+      {
+        "key": "B",
+        "text_en": "International Institute of Medicine",
+        "text_ta": "International Institute of Medicine"
+      },
+      {
+        "key": "C",
+        "text_en": "Indian Industries and Manufacturing",
+        "text_ta": "Indian Industries and Manufacturing"
+      },
+      {
+        "key": "D",
+        "text_en": "Institute of International Management",
+        "text_ta": "Institute of International Management"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list IIM as Indian Institute of Management.",
+    "explanation_ta": "The notes list IIM as Indian Institute of Management.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion of the abbreviation VAT.",
+    "question_ta": "Choose the correct expansion of the abbreviation VAT.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Value Added Tax",
+        "text_ta": "Value Added Tax"
+      },
+      {
+        "key": "B",
+        "text_en": "Variable Asset Tax",
+        "text_ta": "Variable Asset Tax"
+      },
+      {
+        "key": "C",
+        "text_en": "Verified Account Transaction",
+        "text_ta": "Verified Account Transaction"
+      },
+      {
+        "key": "D",
+        "text_en": "Volume Added Tariff",
+        "text_ta": "Volume Added Tariff"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, VAT stands for Value Added Tax.",
+    "explanation_ta": "According to the notes, VAT stands for Value Added Tax.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of the abbreviation CPU?",
+    "question_ta": "What is the full form of the abbreviation CPU?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Central Processing Unit",
+        "text_ta": "Central Processing Unit"
+      },
+      {
+        "key": "B",
+        "text_en": "Control Program Utility",
+        "text_ta": "Control Program Utility"
+      },
+      {
+        "key": "C",
+        "text_en": "Central Peripheral Unit",
+        "text_ta": "Central Peripheral Unit"
+      },
+      {
+        "key": "D",
+        "text_en": "Core Processing Utility",
+        "text_ta": "Core Processing Utility"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list CPU as a computing term standing for Central Processing Unit.",
+    "explanation_ta": "The notes list CPU as a computing term standing for Central Processing Unit.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct expansion for the abbreviation ISRO.",
+    "question_ta": "Select the correct expansion for the abbreviation ISRO.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian Space Research Organisation",
+        "text_ta": "Indian Space Research Organisation"
+      },
+      {
+        "key": "B",
+        "text_en": "International Satellite Research Office",
+        "text_ta": "International Satellite Research Office"
+      },
+      {
+        "key": "C",
+        "text_en": "Indian Science and Research Organization",
+        "text_ta": "Indian Science and Research Organization"
+      },
+      {
+        "key": "D",
+        "text_en": "Industrial Space and Rocket Operations",
+        "text_ta": "Industrial Space and Rocket Operations"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the notes, ISRO stands for Indian Space Research Organisation.",
+    "explanation_ta": "As per the notes, ISRO stands for Indian Space Research Organisation.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation IELTS stand for?",
+    "question_ta": "What does the abbreviation IELTS stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "International English Language Testing System",
+        "text_ta": "International English Language Testing System"
+      },
+      {
+        "key": "B",
+        "text_en": "Interstate English Learning and Training Service",
+        "text_ta": "Interstate English Learning and Training Service"
+      },
+      {
+        "key": "C",
+        "text_en": "International Examination for Language Testing Skills",
+        "text_ta": "International Examination for Language Testing Skills"
+      },
+      {
+        "key": "D",
+        "text_en": "Integrated English Language Training System",
+        "text_ta": "Integrated English Language Training System"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that IELTS stands for International English Language Testing System.",
+    "explanation_ta": "The notes state that IELTS stands for International English Language Testing System.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E27"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the abbreviation SBI.",
+    "question_ta": "Choose the correct expansion for the abbreviation SBI.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "State Bank of India",
+        "text_ta": "State Bank of India"
+      },
+      {
+        "key": "B",
+        "text_en": "Standard Bank of Industries",
+        "text_ta": "Standard Bank of Industries"
+      },
+      {
+        "key": "C",
+        "text_en": "State Bureau of Investment",
+        "text_ta": "State Bureau of Investment"
+      },
+      {
+        "key": "D",
+        "text_en": "1Society Bank of India",
+        "text_ta": "1Society Bank of India"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, SBI is a banking institution standing for State Bank of India.",
+    "explanation_ta": "According to the notes, SBI is a banking institution standing for State Bank of India.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E40"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of CBSE as listed in the notes?",
+    "question_ta": "What is the full form of CBSE as listed in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Central Board of Secondary Education",
+        "text_ta": "Central Board of Secondary Education"
+      },
+      {
+        "key": "B",
+        "text_en": "Council for Basic and Secondary Education",
+        "text_ta": "Council for Basic and Secondary Education"
+      },
+      {
+        "key": "C",
+        "text_en": "Central Bureau of School Examinations",
+        "text_ta": "Central Bureau of School Examinations"
+      },
+      {
+        "key": "D",
+        "text_en": "Common Board of State Education",
+        "text_ta": "Common Board of State Education"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes specify CBSE as Central Board of Secondary Education.",
+    "explanation_ta": "The notes specify CBSE as Central Board of Secondary Education.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E38"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct expansion for the abbreviation NCC.",
+    "question_ta": "Select the correct expansion for the abbreviation NCC.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "National Cadet Corps",
+        "text_ta": "National Cadet Corps"
+      },
+      {
+        "key": "B",
+        "text_en": "National Civil Council",
+        "text_ta": "National Civil Council"
+      },
+      {
+        "key": "C",
+        "text_en": "Naval Cadet Command",
+        "text_ta": "Naval Cadet Command"
+      },
+      {
+        "key": "D",
+        "text_en": "National Cadet Conference",
+        "text_ta": "National Cadet Conference"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, NCC stands for National Cadet Corps.",
+    "explanation_ta": "According to the notes, NCC stands for National Cadet Corps.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E36"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation DVD stand for?",
+    "question_ta": "What does the abbreviation DVD stand for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Digital Video/Versatile Disk",
+        "text_ta": "Digital Video/Versatile Disk"
+      },
+      {
+        "key": "B",
+        "text_en": "Digital Volume Data",
+        "text_ta": "Digital Volume Data"
+      },
+      {
+        "key": "C",
+        "text_en": "Data Visual Disc",
+        "text_ta": "Data Visual Disc"
+      },
+      {
+        "key": "D",
+        "text_en": "Digital Versatile Document",
+        "text_ta": "Digital Versatile Document"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list DVD as Digital Video/Versatile Disk.",
+    "explanation_ta": "The notes list DVD as Digital Video/Versatile Disk.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the abbreviation ALU.",
+    "question_ta": "Choose the correct expansion for the abbreviation ALU.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Arithmetic Logic Unit",
+        "text_ta": "Arithmetic Logic Unit"
+      },
+      {
+        "key": "B",
+        "text_en": "Array Link Utility",
+        "text_ta": "Array Link Utility"
+      },
+      {
+        "key": "C",
+        "text_en": "Automated Logic Unit",
+        "text_ta": "Automated Logic Unit"
+      },
+      {
+        "key": "D",
+        "text_en": "Advanced Language Unit",
+        "text_ta": "Advanced Language Unit"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the notes, ALU is a computing term standing for Arithmetic Logic Unit.",
+    "explanation_ta": "As per the notes, ALU is a computing term standing for Arithmetic Logic Unit.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E31"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of the abbreviation ROM?",
+    "question_ta": "What is the full form of the abbreviation ROM?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Read-Only Memory",
+        "text_ta": "Read-Only Memory"
+      },
+      {
+        "key": "B",
+        "text_en": "Random Operation Module",
+        "text_ta": "Random Operation Module"
+      },
+      {
+        "key": "C",
+        "text_en": "Rapid Output Memory",
+        "text_ta": "Rapid Output Memory"
+      },
+      {
+        "key": "D",
+        "text_en": "Read Organization Medium",
+        "text_ta": "Read Organization Medium"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list ROM as a computing term standing for Read-Only Memory.",
+    "explanation_ta": "The notes list ROM as a computing term standing for Read-Only Memory.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "abbreviations",
+    "source_note": "E42"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the title abbreviation 'St.' stand for according to the notes?",
+    "question_ta": "What does the title abbreviation 'St.' stand for according to the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Street",
+        "text_ta": "Street"
+      },
+      {
+        "key": "B",
+        "text_en": "Staff",
+        "text_ta": "Staff"
+      },
+      {
+        "key": "C",
+        "text_en": "Saint",
+        "text_ta": "Saint"
+      },
+      {
+        "key": "D",
+        "text_en": "Standard",
+        "text_ta": "Standard"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "According to the notes, St. stands for Saint, with the plural being Sts.",
+    "explanation_ta": "According to the notes, St. stands for Saint, with the plural being Sts.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the Latin abbreviation 'et al.' as given in the notes.",
+    "question_ta": "Choose the correct expansion for the Latin abbreviation 'et al.' as given in the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "et alii",
+        "text_ta": "et alii"
+      },
+      {
+        "key": "B",
+        "text_en": "et cetera",
+        "text_ta": "et cetera"
+      },
+      {
+        "key": "C",
+        "text_en": "versus",
+        "text_ta": "versus"
+      },
+      {
+        "key": "D",
+        "text_en": "anno domini",
+        "text_ta": "anno domini"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes define et al. as et alii, meaning and others.",
+    "explanation_ta": "The notes define et al. as et alii, meaning and others.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E36"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of the Latin abbreviation 'etc.' based on the notes?",
+    "question_ta": "What is the full form of the Latin abbreviation 'etc.' based on the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "et alii",
+        "text_ta": "et alii"
+      },
+      {
+        "key": "B",
+        "text_en": "et cetera",
+        "text_ta": "et cetera"
+      },
+      {
+        "key": "C",
+        "text_en": "versus",
+        "text_ta": "versus"
+      },
+      {
+        "key": "D",
+        "text_en": "before common era",
+        "text_ta": "before common era"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the notes, etc. stands for et cetera, meaning and so forth.",
+    "explanation_ta": "According to the notes, etc. stands for et cetera, meaning and so forth.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E45"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the proper expansion for the Latin abbreviation 'vs.' from the provided notes.",
+    "question_ta": "Select the proper expansion for the Latin abbreviation 'vs.' from the provided notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "versus",
+        "text_ta": "versus"
+      },
+      {
+        "key": "B",
+        "text_en": "et cetera",
+        "text_ta": "et cetera"
+      },
+      {
+        "key": "C",
+        "text_en": "et alii",
+        "text_ta": "et alii"
+      },
+      {
+        "key": "D",
+        "text_en": "anno domini",
+        "text_ta": "anno domini"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that vs. stands for versus, which is a Latin abbreviation.",
+    "explanation_ta": "The notes state that vs. stands for versus, which is a Latin abbreviation.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E58"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the Latin-derived abbreviation 'A.D.' stand for in the notes?",
+    "question_ta": "What does the Latin-derived abbreviation 'A.D.' stand for in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "anno domini",
+        "text_ta": "anno domini"
+      },
+      {
+        "key": "B",
+        "text_en": "before common era",
+        "text_ta": "before common era"
+      },
+      {
+        "key": "C",
+        "text_en": "common era",
+        "text_ta": "common era"
+      },
+      {
+        "key": "D",
+        "text_en": "et cetera",
+        "text_ta": "et cetera"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes specify that A.D. stands for anno domini.",
+    "explanation_ta": "The notes specify that A.D. stands for anno domini.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E41"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of the abbreviation 'B.C.E.'?",
+    "question_ta": "What is the full form of the abbreviation 'B.C.E.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "before common era",
+        "text_ta": "before common era"
+      },
+      {
+        "key": "B",
+        "text_en": "common era",
+        "text_ta": "common era"
+      },
+      {
+        "key": "C",
+        "text_en": "anno domini",
+        "text_ta": "anno domini"
+      },
+      {
+        "key": "D",
+        "text_en": "et cetera",
+        "text_ta": "et cetera"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, B.C.E. expands to before common era.",
+    "explanation_ta": "According to the notes, B.C.E. expands to before common era.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Expand the abbreviation 'C.E.' as listed in the notes.",
+    "question_ta": "Expand the abbreviation 'C.E.' as listed in the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "common era",
+        "text_ta": "common era"
+      },
+      {
+        "key": "B",
+        "text_en": "before common era",
+        "text_ta": "before common era"
+      },
+      {
+        "key": "C",
+        "text_en": "anno domini",
+        "text_ta": "anno domini"
+      },
+      {
+        "key": "D",
+        "text_en": "central engineering",
+        "text_ta": "central engineering"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list C.E. as an abbreviation for common era.",
+    "explanation_ta": "The notes list C.E. as an abbreviation for common era.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the correct expansion for the mathematical unit 'kg'?",
+    "question_ta": "What is the correct expansion for the mathematical unit 'kg'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "kilogram",
+        "text_ta": "kilogram"
+      },
+      {
+        "key": "B",
+        "text_en": "kilometre",
+        "text_ta": "kilometre"
+      },
+      {
+        "key": "C",
+        "text_en": "millimetre",
+        "text_ta": "millimetre"
+      },
+      {
+        "key": "D",
+        "text_en": "square feet",
+        "text_ta": "square feet"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes identify 'kg' as the mathematical unit for kilogram.",
+    "explanation_ta": "The notes identify 'kg' as the mathematical unit for kilogram.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E52"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct full form for the unit abbreviation 'km'.",
+    "question_ta": "Choose the correct full form for the unit abbreviation 'km'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "kilometre",
+        "text_ta": "kilometre"
+      },
+      {
+        "key": "B",
+        "text_en": "kilogram",
+        "text_ta": "kilogram"
+      },
+      {
+        "key": "C",
+        "text_en": "millimetre",
+        "text_ta": "millimetre"
+      },
+      {
+        "key": "D",
+        "text_en": "miles per hour",
+        "text_ta": "miles per hour"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, km stands for kilometre.",
+    "explanation_ta": "According to the notes, km stands for kilometre.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E42"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the mathematical unit 'mm' stand for in the notes?",
+    "question_ta": "What does the mathematical unit 'mm' stand for in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "millimetre",
+        "text_ta": "millimetre"
+      },
+      {
+        "key": "B",
+        "text_en": "kilometre",
+        "text_ta": "kilometre"
+      },
+      {
+        "key": "C",
+        "text_en": "kilogram",
+        "text_ta": "kilogram"
+      },
+      {
+        "key": "D",
+        "text_en": "megameter",
+        "text_ta": "megameter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that mm is a mathematical unit for millimetre.",
+    "explanation_ta": "The notes state that mm is a mathematical unit for millimetre.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Expand the unit abbreviation 'ft2' based on the provided notes.",
+    "question_ta": "Expand the unit abbreviation 'ft2' based on the provided notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "square feet",
+        "text_ta": "square feet"
+      },
+      {
+        "key": "B",
+        "text_en": "feet",
+        "text_ta": "feet"
+      },
+      {
+        "key": "C",
+        "text_en": "foot",
+        "text_ta": "foot"
+      },
+      {
+        "key": "D",
+        "text_en": "square formula",
+        "text_ta": "square formula"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, ft2 stands for square feet.",
+    "explanation_ta": "According to the notes, ft2 stands for square feet.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E43"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the correct expansion for the unit symbol '°C'?",
+    "question_ta": "What is the correct expansion for the unit symbol '°C'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "degrees Celsius",
+        "text_ta": "degrees Celsius"
+      },
+      {
+        "key": "B",
+        "text_en": "centigrade",
+        "text_ta": "centigrade"
+      },
+      {
+        "key": "C",
+        "text_en": "degrees Centigrade",
+        "text_ta": "degrees Centigrade"
+      },
+      {
+        "key": "D",
+        "text_en": "Celsius degree",
+        "text_ta": "Celsius degree"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes identify °C as the mathematical unit for degrees Celsius.",
+    "explanation_ta": "The notes identify °C as the mathematical unit for degrees Celsius.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E47"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation 'Mph' stand for in the notes?",
+    "question_ta": "What does the abbreviation 'Mph' stand for in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "miles per hour",
+        "text_ta": "miles per hour"
+      },
+      {
+        "key": "B",
+        "text_en": "metres per hour",
+        "text_ta": "metres per hour"
+      },
+      {
+        "key": "C",
+        "text_en": "millimetres per hour",
+        "text_ta": "millimetres per hour"
+      },
+      {
+        "key": "D",
+        "text_en": "maximum power height",
+        "text_ta": "maximum power height"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes define Mph as miles per hour.",
+    "explanation_ta": "The notes define Mph as miles per hour.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "E33"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Complete the sentence using the correct time abbreviation from the notes: 'My dad wakes up very early in the morning because he has to be at work at 6.00 ____'",
+    "question_ta": "Complete the sentence using the correct time abbreviation from the notes: 'My dad wakes up very early in the morning because he has to be at work at 6.00 ____'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "a.m.",
+        "text_ta": "a.m."
+      },
+      {
+        "key": "B",
+        "text_en": "p.m.",
+        "text_ta": "p.m."
+      },
+      {
+        "key": "C",
+        "text_en": "e.g.",
+        "text_ta": "e.g."
+      },
+      {
+        "key": "D",
+        "text_en": "vs.",
+        "text_ta": "vs."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W12, the correct time abbreviation for morning is a.m.",
+    "explanation_ta": "Based on worked example W12, the correct time abbreviation for morning is a.m.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct time abbreviation to fill in the blank based on the notes: 'I usually return home from work at 10.30 ____'",
+    "question_ta": "Choose the correct time abbreviation to fill in the blank based on the notes: 'I usually return home from work at 10.30 ____'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "p.m.",
+        "text_ta": "p.m."
+      },
+      {
+        "key": "B",
+        "text_en": "a.m.",
+        "text_ta": "a.m."
+      },
+      {
+        "key": "C",
+        "text_en": "etc.",
+        "text_ta": "etc."
+      },
+      {
+        "key": "D",
+        "text_en": "BCE",
+        "text_ta": "BCE"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W15, the correct time abbreviation for returning home at night is p.m.",
+    "explanation_ta": "Based on worked example W15, the correct time abbreviation for returning home at night is p.m.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct abbreviation for the blank in the sentence: 'Socrates, the famous Classical Greek Athenian philosopher, died in 399 ____'",
+    "question_ta": "Select the correct abbreviation for the blank in the sentence: 'Socrates, the famous Classical Greek Athenian philosopher, died in 399 ____'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "BCE",
+        "text_ta": "BCE"
+      },
+      {
+        "key": "B",
+        "text_en": "CE",
+        "text_ta": "CE"
+      },
+      {
+        "key": "C",
+        "text_en": "AD",
+        "text_ta": "AD"
+      },
+      {
+        "key": "D",
+        "text_en": "a.m.",
+        "text_ta": "a.m."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W13, BCE is used for the historical date of Socrates' death.",
+    "explanation_ta": "Based on worked example W13, BCE is used for the historical date of Socrates' death.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the proper abbreviation to complete: 'Leonardo Da Vinci was a famous Italian polymath, a painter, a sculptor, an architect, a musician, a scientist ____'",
+    "question_ta": "Choose the proper abbreviation to complete: 'Leonardo Da Vinci was a famous Italian polymath, a painter, a sculptor, an architect, a musician, a scientist ____'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "etc.",
+        "text_ta": "etc."
+      },
+      {
+        "key": "B",
+        "text_en": "et al.",
+        "text_ta": "et al."
+      },
+      {
+        "key": "C",
+        "text_en": "vs.",
+        "text_ta": "vs."
+      },
+      {
+        "key": "D",
+        "text_en": "e.g.",
+        "text_ta": "e.g."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W14, etc. is used at the end of a list of descriptors.",
+    "explanation_ta": "Based on worked example W14, etc. is used at the end of a list of descriptors.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct Latin abbreviation for the blank: 'There are many irregular verbs in the English language, ____ break, do, make.'",
+    "question_ta": "Select the correct Latin abbreviation for the blank: 'There are many irregular verbs in the English language, ____ break, do, make.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "e.g.",
+        "text_ta": "e.g."
+      },
+      {
+        "key": "B",
+        "text_en": "etc.",
+        "text_ta": "etc."
+      },
+      {
+        "key": "C",
+        "text_en": "vs.",
+        "text_ta": "vs."
+      },
+      {
+        "key": "D",
+        "text_en": "et al.",
+        "text_ta": "et al."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W17, e.g. is used to give examples of items.",
+    "explanation_ta": "Based on worked example W17, e.g. is used to give examples of items.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct abbreviation for the sports context: 'I’m watching a great football match, Barcelona ____ Real Madrid.'",
+    "question_ta": "Choose the correct abbreviation for the sports context: 'I’m watching a great football match, Barcelona ____ Real Madrid.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "vs.",
+        "text_ta": "vs."
+      },
+      {
+        "key": "B",
+        "text_en": "e.g.",
+        "text_ta": "e.g."
+      },
+      {
+        "key": "C",
+        "text_en": "etc.",
+        "text_ta": "etc."
+      },
+      {
+        "key": "D",
+        "text_en": "a.m.",
+        "text_ta": "a.m."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W18, vs. is used to represent opposing teams in a match.",
+    "explanation_ta": "Based on worked example W18, vs. is used to represent opposing teams in a match.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct unit abbreviation for the blank: 'Humans who dive without protection can survive 300 ____ under water.'",
+    "question_ta": "Identify the correct unit abbreviation for the blank: 'Humans who dive without protection can survive 300 ____ under water.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "m",
+        "text_ta": "m"
+      },
+      {
+        "key": "B",
+        "text_en": "kg",
+        "text_ta": "kg"
+      },
+      {
+        "key": "C",
+        "text_en": "km",
+        "text_ta": "km"
+      },
+      {
+        "key": "D",
+        "text_en": "cm",
+        "text_ta": "cm"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W19, m (metres) is used for underwater diving depth.",
+    "explanation_ta": "Based on worked example W19, m (metres) is used for underwater diving depth.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation 'HD' stand for in the context of video quality from the notes?",
+    "question_ta": "What does the abbreviation 'HD' stand for in the context of video quality from the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "High-Definition",
+        "text_ta": "High-Definition"
+      },
+      {
+        "key": "B",
+        "text_en": "Hard Disc",
+        "text_ta": "Hard Disc"
+      },
+      {
+        "key": "C",
+        "text_en": "Heavy Duty",
+        "text_ta": "Heavy Duty"
+      },
+      {
+        "key": "D",
+        "text_en": "High Data",
+        "text_ta": "High Data"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked examples W16 and HDMI (High-Definition Multimedia Interface), HD stands for High-Definition.",
+    "explanation_ta": "Based on worked examples W16 and HDMI (High-Definition Multimedia Interface), HD stands for High-Definition.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the test abbreviation 'IQ' based on the notes.",
+    "question_ta": "Choose the correct expansion for the test abbreviation 'IQ' based on the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Intelligence Quotient",
+        "text_ta": "Intelligence Quotient"
+      },
+      {
+        "key": "B",
+        "text_en": "Internal Question",
+        "text_ta": "Internal Question"
+      },
+      {
+        "key": "C",
+        "text_en": "Information Query",
+        "text_ta": "Information Query"
+      },
+      {
+        "key": "D",
+        "text_en": "Interactive Quality",
+        "text_ta": "Interactive Quality"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked examples W9 and W20 regarding the test context, IQ stands for Intelligence Quotient.",
+    "explanation_ta": "Based on worked examples W9 and W20 regarding the test context, IQ stands for Intelligence Quotient.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of the location tracking abbreviation 'GPS'?",
+    "question_ta": "What is the full form of the location tracking abbreviation 'GPS'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Global Positioning System",
+        "text_ta": "Global Positioning System"
+      },
+      {
+        "key": "B",
+        "text_en": "General Postal Service",
+        "text_ta": "General Postal Service"
+      },
+      {
+        "key": "C",
+        "text_en": "Geographic Point Station",
+        "text_ta": "Geographic Point Station"
+      },
+      {
+        "key": "D",
+        "text_en": "Global Program Software",
+        "text_ta": "Global Program Software"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W21, GPS expands to Global Positioning System.",
+    "explanation_ta": "Based on worked example W21, GPS expands to Global Positioning System.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Expand the abbreviation 'MBA' as listed in the notes.",
+    "question_ta": "Expand the abbreviation 'MBA' as listed in the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Master of Business Administration",
+        "text_ta": "Master of Business Administration"
+      },
+      {
+        "key": "B",
+        "text_en": "Masters in Banking and Accounting",
+        "text_ta": "Masters in Banking and Accounting"
+      },
+      {
+        "key": "C",
+        "text_en": "Management of Business Agency",
+        "text_ta": "Management of Business Agency"
+      },
+      {
+        "key": "D",
+        "text_en": "Master of Basic Arts",
+        "text_ta": "Master of Basic Arts"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to worked example W21, MBA stands for Master of Business Administration.",
+    "explanation_ta": "According to worked example W21, MBA stands for Master of Business Administration.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation 'NGO' stand for according to the notes?",
+    "question_ta": "What does the abbreviation 'NGO' stand for according to the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Non-Governmental Organization",
+        "text_ta": "Non-Governmental Organization"
+      },
+      {
+        "key": "B",
+        "text_en": "National Growth Office",
+        "text_ta": "National Growth Office"
+      },
+      {
+        "key": "C",
+        "text_en": "Non-Group Organization",
+        "text_ta": "Non-Group Organization"
+      },
+      {
+        "key": "D",
+        "text_en": "Natural Green Operations",
+        "text_ta": "Natural Green Operations"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on worked example W21, NGO expands to Non-Governmental Organization.",
+    "explanation_ta": "Based on worked example W21, NGO expands to Non-Governmental Organization.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "abbreviations",
+    "source_note": "W21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does the abbreviation SCERT stand for in educational contexts?",
+    "question_ta": "What does the abbreviation SCERT stand for in educational contexts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "State Council of Educational Research and Training",
+        "text_ta": "State Council of Educational Research and Training"
+      },
+      {
+        "key": "B",
+        "text_en": "Science Council of Educational Resources and Training",
+        "text_ta": "Science Council of Educational Resources and Training"
+      },
+      {
+        "key": "C",
+        "text_en": "State Committee of Elementary Research and Training",
+        "text_ta": "State Committee of Elementary Research and Training"
+      },
+      {
+        "key": "D",
+        "text_en": "System of Council for Educational Research and Teaching",
+        "text_ta": "System of Council for Educational Research and Teaching"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the provided notes, SCERT stands for State Council of Educational Research and Training.",
+    "explanation_ta": "According to the provided notes, SCERT stands for State Council of Educational Research and Training.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E1"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the acronym ADHD.",
+    "question_ta": "Choose the correct expansion for the acronym ADHD.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Attention Deficit Hyperactivity Disorder",
+        "text_ta": "Attention Deficit Hyperactivity Disorder"
+      },
+      {
+        "key": "B",
+        "text_en": "Acute Deficit Hyperactive Disease",
+        "text_ta": "Acute Deficit Hyperactive Disease"
+      },
+      {
+        "key": "C",
+        "text_en": "Attention Disorder and Hyperactivity Dysfunction",
+        "text_ta": "Attention Disorder and Hyperactivity Dysfunction"
+      },
+      {
+        "key": "D",
+        "text_en": "Acquired Deficiency Health Disorder",
+        "text_ta": "Acquired Deficiency Health Disorder"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes specify that ADHD stands for Attention Deficit Hyperactivity Disorder.",
+    "explanation_ta": "The notes specify that ADHD stands for Attention Deficit Hyperactivity Disorder.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of OTP as mentioned in security terms?",
+    "question_ta": "What is the full form of OTP as mentioned in security terms?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "One Time Password",
+        "text_ta": "One Time Password"
+      },
+      {
+        "key": "B",
+        "text_en": "Online Transfer Protocol",
+        "text_ta": "Online Transfer Protocol"
+      },
+      {
+        "key": "C",
+        "text_en": "Open Text Password",
+        "text_ta": "Open Text Password"
+      },
+      {
+        "key": "D",
+        "text_en": "Operation Time Program",
+        "text_ta": "Operation Time Program"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "OTP stands for One Time Password according to the security term entry.",
+    "explanation_ta": "OTP stands for One Time Password according to the security term entry.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Expand the institution abbreviation CBI from the notes.",
+    "question_ta": "Expand the institution abbreviation CBI from the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Central Bureau of Investigation",
+        "text_ta": "Central Bureau of Investigation"
+      },
+      {
+        "key": "B",
+        "text_en": "Crime Branch of India",
+        "text_ta": "Crime Branch of India"
+      },
+      {
+        "key": "C",
+        "text_en": "Central Board of Investigation",
+        "text_ta": "Central Board of Investigation"
+      },
+      {
+        "key": "D",
+        "text_en": "Criminal Bureau of Inquiry",
+        "text_ta": "Criminal Bureau of Inquiry"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CBI stands for Central Bureau of Investigation as listed under institutions.",
+    "explanation_ta": "CBI stands for Central Bureau of Investigation as listed under institutions.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does NMMS stand for in scholarship names?",
+    "question_ta": "What does NMMS stand for in scholarship names?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "National Means cum Merit Scholarship",
+        "text_ta": "National Means cum Merit Scholarship"
+      },
+      {
+        "key": "B",
+        "text_en": "National Merit and Means Scheme",
+        "text_ta": "National Merit and Means Scheme"
+      },
+      {
+        "key": "C",
+        "text_en": "National Minimum Merit Scholarship",
+        "text_ta": "National Minimum Merit Scholarship"
+      },
+      {
+        "key": "D",
+        "text_en": "National Medium Management Scholarship",
+        "text_ta": "National Medium Management Scholarship"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "NMMS is expanded as National Means cum Merit Scholarship in the notes.",
+    "explanation_ta": "NMMS is expanded as National Means cum Merit Scholarship in the notes.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correct expansion for the mathematical unit 'kg'.",
+    "question_ta": "Select the correct expansion for the mathematical unit 'kg'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "kilogram",
+        "text_ta": "kilogram"
+      },
+      {
+        "key": "B",
+        "text_en": "kilolitre",
+        "text_ta": "kilolitre"
+      },
+      {
+        "key": "C",
+        "text_en": "kilometre",
+        "text_ta": "kilometre"
+      },
+      {
+        "key": "D",
+        "text_en": "kilowatt",
+        "text_ta": "kilowatt"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The mathematical unit 'kg' stands for kilogram.",
+    "explanation_ta": "The mathematical unit 'kg' stands for kilogram.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does EMIS stand for as an Education Management system designation?",
+    "question_ta": "What does EMIS stand for as an Education Management system designation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Education Management Information System",
+        "text_ta": "Education Management Information System"
+      },
+      {
+        "key": "B",
+        "text_en": "Educational Monitoring and Instruction Service",
+        "text_ta": "Educational Monitoring and Instruction Service"
+      },
+      {
+        "key": "C",
+        "text_en": "Elementary Management Information Scheme",
+        "text_ta": "Elementary Management Information Scheme"
+      },
+      {
+        "key": "D",
+        "text_en": "Electronic Management Information System",
+        "text_ta": "Electronic Management Information System"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "EMIS stands for Education Management Information System.",
+    "explanation_ta": "EMIS stands for Education Management Information System.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the proper expansion for the acronym EOD from the notes.",
+    "question_ta": "Choose the proper expansion for the acronym EOD from the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "End Of Discussion",
+        "text_ta": "End Of Discussion"
+      },
+      {
+        "key": "B",
+        "text_en": "Everyday Online Delivery",
+        "text_ta": "Everyday Online Delivery"
+      },
+      {
+        "key": "C",
+        "text_en": "External Office Directory",
+        "text_ta": "External Office Directory"
+      },
+      {
+        "key": "D",
+        "text_en": "Early Operation Directive",
+        "text_ta": "Early Operation Directive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "EOD is expanded as End Of Discussion.",
+    "explanation_ta": "EOD is expanded as End Of Discussion.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of LCD based on the provided notes?",
+    "question_ta": "What is the full form of LCD based on the provided notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Liquid Crystal Display",
+        "text_ta": "Liquid Crystal Display"
+      },
+      {
+        "key": "B",
+        "text_en": "Light Central Device",
+        "text_ta": "Light Central Device"
+      },
+      {
+        "key": "C",
+        "text_en": "Linear Circuit Design",
+        "text_ta": "Linear Circuit Design"
+      },
+      {
+        "key": "D",
+        "text_en": "Local Color Display",
+        "text_ta": "Local Color Display"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "LCD stands for Liquid Crystal Display.",
+    "explanation_ta": "LCD stands for Liquid Crystal Display.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Expand the abbreviation RAM according to computing terms.",
+    "question_ta": "Expand the abbreviation RAM according to computing terms.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Random Access Memory",
+        "text_ta": "Random Access Memory"
+      },
+      {
+        "key": "B",
+        "text_en": "Readily Available Module",
+        "text_ta": "Readily Available Module"
+      },
+      {
+        "key": "C",
+        "text_en": "Rapid Access Medium",
+        "text_ta": "Rapid Access Medium"
+      },
+      {
+        "key": "D",
+        "text_en": "Remote Application Management",
+        "text_ta": "Remote Application Management"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "RAM is the acronym for Random Access Memory.",
+    "explanation_ta": "RAM is the acronym for Random Access Memory.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does the mathematical unit 'oF' stand for in the notes?",
+    "question_ta": "What does the mathematical unit 'oF' stand for in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "degrees Fahrenheit",
+        "text_ta": "degrees Fahrenheit"
+      },
+      {
+        "key": "B",
+        "text_en": "optical Frequency",
+        "text_ta": "optical Frequency"
+      },
+      {
+        "key": "C",
+        "text_en": "oxygen Flow",
+        "text_ta": "oxygen Flow"
+      },
+      {
+        "key": "D",
+        "text_en": "open Function",
+        "text_ta": "open Function"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The unit 'oF' stands for degrees Fahrenheit.",
+    "explanation_ta": "The unit 'oF' stands for degrees Fahrenheit.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does ACF stand for in the abbreviation notes?",
+    "question_ta": "What does ACF stand for in the abbreviation notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Administration for Children and Families",
+        "text_ta": "Administration for Children and Families"
+      },
+      {
+        "key": "B",
+        "text_en": "Associated Cultural Foundation",
+        "text_ta": "Associated Cultural Foundation"
+      },
+      {
+        "key": "C",
+        "text_en": "Agency for Community Forestry",
+        "text_ta": "Agency for Community Forestry"
+      },
+      {
+        "key": "D",
+        "text_en": "Academic Council for Faculty",
+        "text_ta": "Academic Council for Faculty"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ACF stands for Administration for Children and Families.",
+    "explanation_ta": "ACF stands for Administration for Children and Families.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Expand the computing term ROM from the list.",
+    "question_ta": "Expand the computing term ROM from the list.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Read only Memory",
+        "text_ta": "Read only Memory"
+      },
+      {
+        "key": "B",
+        "text_en": "Rapid Operation Module",
+        "text_ta": "Rapid Operation Module"
+      },
+      {
+        "key": "C",
+        "text_en": "Remote Output Mechanism",
+        "text_ta": "Remote Output Mechanism"
+      },
+      {
+        "key": "D",
+        "text_en": "Real Online Media",
+        "text_ta": "Real Online Media"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ROM stands for Read only Memory.",
+    "explanation_ta": "ROM stands for Read only Memory.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the mathematical unit expansion for 'ft'?",
+    "question_ta": "What is the mathematical unit expansion for 'ft'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "feet",
+        "text_ta": "feet"
+      },
+      {
+        "key": "B",
+        "text_en": "fathom",
+        "text_ta": "fathom"
+      },
+      {
+        "key": "C",
+        "text_en": "furlong",
+        "text_ta": "furlong"
+      },
+      {
+        "key": "D",
+        "text_en": "fahrenheit",
+        "text_ta": "fahrenheit"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The unit 'ft' stands for feet.",
+    "explanation_ta": "The unit 'ft' stands for feet.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E23"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct full form of PC in computing terms.",
+    "question_ta": "Choose the correct full form of PC in computing terms.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personal Computer",
+        "text_ta": "Personal Computer"
+      },
+      {
+        "key": "B",
+        "text_en": "Portable Console",
+        "text_ta": "Portable Console"
+      },
+      {
+        "key": "C",
+        "text_en": "Programmed Calculator",
+        "text_ta": "Programmed Calculator"
+      },
+      {
+        "key": "D",
+        "text_en": "Primary Circuit",
+        "text_ta": "Primary Circuit"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "PC stands for Personal Computer.",
+    "explanation_ta": "PC stands for Personal Computer.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does CCTV stand for as a surveillance system acronym?",
+    "question_ta": "What does CCTV stand for as a surveillance system acronym?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Closed-Circuit Television",
+        "text_ta": "Closed-Circuit Television"
+      },
+      {
+        "key": "B",
+        "text_en": "Central Cable Transmission Video",
+        "text_ta": "Central Cable Transmission Video"
+      },
+      {
+        "key": "C",
+        "text_en": "Core Color Television",
+        "text_ta": "Core Color Television"
+      },
+      {
+        "key": "D",
+        "text_en": "Computer Controlled Telecommunication",
+        "text_ta": "Computer Controlled Telecommunication"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CCTV stands for Closed-Circuit Television.",
+    "explanation_ta": "CCTV stands for Closed-Circuit Television.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Expand the surveillance/banking code IFSC from the notes.",
+    "question_ta": "Expand the surveillance/banking code IFSC from the notes.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Indian Financial System Code",
+        "text_ta": "Indian Financial System Code"
+      },
+      {
+        "key": "B",
+        "text_en": "International Fund Security Control",
+        "text_ta": "International Fund Security Control"
+      },
+      {
+        "key": "C",
+        "text_en": "Interbank Financial Settlement Center",
+        "text_ta": "Interbank Financial Settlement Center"
+      },
+      {
+        "key": "D",
+        "text_en": "Indian Foreign Service Code",
+        "text_ta": "Indian Foreign Service Code"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "IFSC stands for Indian Financial System Code.",
+    "explanation_ta": "IFSC stands for Indian Financial System Code.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E39"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does PTA stand for in the abbreviation list?",
+    "question_ta": "What does PTA stand for in the abbreviation list?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Parent-Teacher Association",
+        "text_ta": "Parent-Teacher Association"
+      },
+      {
+        "key": "B",
+        "text_en": "Public Transport Authority",
+        "text_ta": "Public Transport Authority"
+      },
+      {
+        "key": "C",
+        "text_en": "Professional Training Academy",
+        "text_ta": "Professional Training Academy"
+      },
+      {
+        "key": "D",
+        "text_en": "Postal Telegraph Agency",
+        "text_ta": "Postal Telegraph Agency"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "PTA stands for Parent-Teacher Association.",
+    "explanation_ta": "PTA stands for Parent-Teacher Association.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E40"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the acronym CAT.",
+    "question_ta": "Choose the correct expansion for the acronym CAT.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Common Admission Test",
+        "text_ta": "Common Admission Test"
+      },
+      {
+        "key": "B",
+        "text_en": "Computer Aided Technology",
+        "text_ta": "Computer Aided Technology"
+      },
+      {
+        "key": "C",
+        "text_en": "Central Aptitude Training",
+        "text_ta": "Central Aptitude Training"
+      },
+      {
+        "key": "D",
+        "text_en": "Certified Accountant Test",
+        "text_ta": "Certified Accountant Test"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CAT stands for Common Admission Test.",
+    "explanation_ta": "CAT stands for Common Admission Test.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E42"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does ATM stand for as a common business abbreviation?",
+    "question_ta": "What does ATM stand for as a common business abbreviation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Automated Teller Machine",
+        "text_ta": "Automated Teller Machine"
+      },
+      {
+        "key": "B",
+        "text_en": "Automatic Transaction Monitor",
+        "text_ta": "Automatic Transaction Monitor"
+      },
+      {
+        "key": "C",
+        "text_en": "Authorised Transfer Module",
+        "text_ta": "Authorised Transfer Module"
+      },
+      {
+        "key": "D",
+        "text_en": "Any Time Money",
+        "text_ta": "Any Time Money"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ATM stands for Automated Teller Machine.",
+    "explanation_ta": "ATM stands for Automated Teller Machine.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the full form of GDP as listed in the notes?",
+    "question_ta": "What is the full form of GDP as listed in the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Gross Domestic Product",
+        "text_ta": "Gross Domestic Product"
+      },
+      {
+        "key": "B",
+        "text_en": "Global Development Program",
+        "text_ta": "Global Development Program"
+      },
+      {
+        "key": "C",
+        "text_en": "General Distribution Policy",
+        "text_ta": "General Distribution Policy"
+      },
+      {
+        "key": "D",
+        "text_en": "Government Debt Payment",
+        "text_ta": "Government Debt Payment"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "GDP stands for Gross Domestic Product.",
+    "explanation_ta": "GDP stands for Gross Domestic Product.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E47"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Expand the digital display interface abbreviation HDMI.",
+    "question_ta": "Expand the digital display interface abbreviation HDMI.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "High-Definition Multimedia Interface",
+        "text_ta": "High-Definition Multimedia Interface"
+      },
+      {
+        "key": "B",
+        "text_en": "Home Digital Media Integration",
+        "text_ta": "Home Digital Media Integration"
+      },
+      {
+        "key": "C",
+        "text_en": "High Data Modulation Input",
+        "text_ta": "High Data Modulation Input"
+      },
+      {
+        "key": "D",
+        "text_en": "Hyper Display Memory Interface",
+        "text_ta": "Hyper Display Memory Interface"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "HDMI stands for High-Definition Multimedia Interface.",
+    "explanation_ta": "HDMI stands for High-Definition Multimedia Interface.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E50"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does ISD stand for according to the notes?",
+    "question_ta": "What does ISD stand for according to the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "International Subscriber Dialing",
+        "text_ta": "International Subscriber Dialing"
+      },
+      {
+        "key": "B",
+        "text_en": "Internal System Directory",
+        "text_ta": "Internal System Directory"
+      },
+      {
+        "key": "C",
+        "text_en": "Instant Security Detection",
+        "text_ta": "Instant Security Detection"
+      },
+      {
+        "key": "D",
+        "text_en": "Integrated Service Device",
+        "text_ta": "Integrated Service Device"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ISD stands for International Subscriber Dialing.",
+    "explanation_ta": "ISD stands for International Subscriber Dialing.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E51"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct expansion for the abbreviation NRI.",
+    "question_ta": "Choose the correct expansion for the abbreviation NRI.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Non-Resident Indian",
+        "text_ta": "Non-Resident Indian"
+      },
+      {
+        "key": "B",
+        "text_en": "National Research Institute",
+        "text_ta": "National Research Institute"
+      },
+      {
+        "key": "C",
+        "text_en": "New Regional Initiative",
+        "text_ta": "New Regional Initiative"
+      },
+      {
+        "key": "D",
+        "text_en": "Natural Resource Inventory",
+        "text_ta": "Natural Resource Inventory"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "NRI stands for Non-Resident Indian.",
+    "explanation_ta": "NRI stands for Non-Resident Indian.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E54"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "Abbreviations",
+    "topic": "Abbreviations",
+    "topic_id": "abbreviations",
+    "topic_ta": "Abbreviations",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does RSC stand for in a boxing context?",
+    "question_ta": "What does RSC stand for in a boxing context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Referee Stopped Contest",
+        "text_ta": "Referee Stopped Contest"
+      },
+      {
+        "key": "B",
+        "text_en": "Ringside Safety Committee",
+        "text_ta": "Ringside Safety Committee"
+      },
+      {
+        "key": "C",
+        "text_en": "Rules for Sports Combat",
+        "text_ta": "Rules for Sports Combat"
+      },
+      {
+        "key": "D",
+        "text_en": "Round Schedule Control",
+        "text_ta": "Round Schedule Control"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "RSC stands for Referee Stopped Contest in a boxing context.",
+    "explanation_ta": "RSC stands for Referee Stopped Contest in a boxing context.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "abbreviations",
+    "source_note": "E55"
+  }
+]

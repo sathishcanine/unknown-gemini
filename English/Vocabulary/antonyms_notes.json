@@ -1,0 +1,4034 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "antonyms",
+  "sources": [
+    "Vetrii Vocabulary pp.[44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57] (primary, vision)",
+    "Race Part A pp.[21, 22, 23] (primary)",
+    "Grammer.pdf pp.[161, 177] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Identify antonym pairs for TNPSC General English",
+      "ant_tag": "overview",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "rule_en": "Choose the correct antonym for the italicised word.",
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Match the correct antonyms for the given words.",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Choose the correct antonym for the italicized word",
+      "ant_tag": "choose_antonym",
+      "source": "grammer",
+      "source_page": 161
+    }
+  ],
+  "examples": [
+    {
+      "word_en": "Often",
+      "antonym_en": "Rarely",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Positive",
+      "antonym_en": "Negative",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Punished",
+      "antonym_en": "Rewarded",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Regular",
+      "antonym_en": "Unusual",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Rigorous",
+      "antonym_en": "Easy",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Rude",
+      "antonym_en": "Kind",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Safety",
+      "antonym_en": "Danger",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Seriously",
+      "antonym_en": "Lightly",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Strict",
+      "antonym_en": "Lenient",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Successful",
+      "antonym_en": "Unsuccessful",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Ultimately",
+      "antonym_en": "Initially",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Unreasonable",
+      "antonym_en": "Reasonable",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Winning",
+      "antonym_en": "Losing",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Altered",
+      "antonym_en": "Fixed",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Fewer",
+      "antonym_en": "More",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Remembered",
+      "antonym_en": "Forgot",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Blessing",
+      "antonym_en": "Curse",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Shadow",
+      "antonym_en": "Light",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Dizzy",
+      "antonym_en": "Firm",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Opening",
+      "antonym_en": "Closing",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Later",
+      "antonym_en": "Earlier",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Lively",
+      "antonym_en": "Dull",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Long",
+      "antonym_en": "Short",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Buy",
+      "antonym_en": "Sell",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Offence",
+      "antonym_en": "Defence",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Allowed",
+      "antonym_en": "Disallowed",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Elderly",
+      "antonym_en": "Young",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Decided",
+      "antonym_en": "Undecided",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Inside",
+      "antonym_en": "Outside",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Fragrance",
+      "antonym_en": "Stink",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Constant",
+      "antonym_en": "Inconstant",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Easy",
+      "antonym_en": "Difficult",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Favourite",
+      "antonym_en": "Hate",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Stretching",
+      "antonym_en": "Constricting",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Valuable",
+      "antonym_en": "Worthless",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Collected",
+      "antonym_en": "Scattered",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Bravery",
+      "antonym_en": "Cowardice",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Excited",
+      "antonym_en": "Calm",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Silent",
+      "antonym_en": "Noisy",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Right",
+      "antonym_en": "Wrong",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Briskly",
+      "antonym_en": "Slowly",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Abreast",
+      "antonym_en": "Far away",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Amusedly",
+      "antonym_en": "Sadly",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Ascending",
+      "antonym_en": "Descending",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Beneath",
+      "antonym_en": "Above",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Blazing",
+      "antonym_en": "Cooling",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Brink",
+      "antonym_en": "Centre",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Commenced",
+      "antonym_en": "Ended",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Daintily",
+      "antonym_en": "Clumsily, awkwardly",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Desperate",
+      "antonym_en": "Hopeful",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Devour",
+      "antonym_en": "Nibble",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Dizzy",
+      "antonym_en": "Stable",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Dozing",
+      "antonym_en": "Awake",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Eagerly",
+      "antonym_en": "Unwillingly",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Exhausted",
+      "antonym_en": "Refreshed",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Floating",
+      "antonym_en": "Sinking",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Gradually",
+      "antonym_en": "Suddenly",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Headlong",
+      "antonym_en": "Cautiously",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Maddened",
+      "antonym_en": "Pleased",
+      "note_en": null,
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 44
+    },
+    {
+      "word_en": "Mockingly",
+      "antonym_en": "Respectfully",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Monstrous",
+      "antonym_en": "Beautiful, humane",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Muster",
+      "antonym_en": "Disperse",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Plaintively",
+      "antonym_en": "Cheerfully",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Plunge",
+      "antonym_en": "Rise",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Preening",
+      "antonym_en": "Dirtying",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Pretended",
+      "antonym_en": "Genuine",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Raising",
+      "antonym_en": "Lowering",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Swooped",
+      "antonym_en": "Soared",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Thrust",
+      "antonym_en": "Pull",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Trotted",
+      "antonym_en": "Stood",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Uttered",
+      "antonym_en": "Suppressed",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Whet",
+      "antonym_en": "Blunt",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Amazed",
+      "antonym_en": "Unimpressed, Shocked",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Anxious",
+      "antonym_en": "Calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Apprentice",
+      "antonym_en": "Master",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Attentive",
+      "antonym_en": "Inattentive",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Beautiful",
+      "antonym_en": "Ugly",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Began",
+      "antonym_en": "Ended",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Better",
+      "antonym_en": "Worsen",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Choked",
+      "antonym_en": "Clear",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Commotion",
+      "antonym_en": "Peace, clarity",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Courage",
+      "antonym_en": "Cowardice",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Dread",
+      "antonym_en": "Bravery",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Enslaved",
+      "antonym_en": "Liberated",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Faithful",
+      "antonym_en": "Unfaithful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Former",
+      "antonym_en": "Latter",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Grave",
+      "antonym_en": "Light",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Honour",
+      "antonym_en": "Disrespect",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Hurried",
+      "antonym_en": "Slowed down",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Kindly",
+      "antonym_en": "Rudely",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Logical",
+      "antonym_en": "Illogical",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Lost",
+      "antonym_en": "Won",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Loud",
+      "antonym_en": "Silent",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Pale",
+      "antonym_en": "Bright",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Patience",
+      "antonym_en": "Impatience",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Plenty",
+      "antonym_en": "Few",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Quickly",
+      "antonym_en": "Slowly",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Resist",
+      "antonym_en": "Succumb",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Respect",
+      "antonym_en": "Disrespect",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Solemn",
+      "antonym_en": "Happy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Strange",
+      "antonym_en": "Known",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Strength",
+      "antonym_en": "Weakness",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Tempting",
+      "antonym_en": "Repelling",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Terrible",
+      "antonym_en": "Pleasant",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Unison",
+      "antonym_en": "Separate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Worn",
+      "antonym_en": "New",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Advancing",
+      "antonym_en": "Retreating",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Appeared",
+      "antonym_en": "Disappeared",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Arrest",
+      "antonym_en": "Release",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Best",
+      "antonym_en": "Worst",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Brightness",
+      "antonym_en": "Dullness",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Certainly",
+      "antonym_en": "Uncertainly",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Confidence",
+      "antonym_en": "Diffidence",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Disappear",
+      "antonym_en": "Appear",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Disobey",
+      "antonym_en": "Obey",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Doubt",
+      "antonym_en": "Certainty",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Dreadful",
+      "antonym_en": "Beautiful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 45
+    },
+    {
+      "word_en": "Dying",
+      "antonym_en": "Living",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Finally",
+      "antonym_en": "Initially",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Forget",
+      "antonym_en": "Remember",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Gaunt",
+      "antonym_en": "Plump, fat",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Gloomy",
+      "antonym_en": "Bright",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Healthy",
+      "antonym_en": "Unhealthy, sick",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Hesitant",
+      "antonym_en": "Ready, willing",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Horrified",
+      "antonym_en": "Pleasant, calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Ignorant",
+      "antonym_en": "Knowledgeable",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Kindness",
+      "antonym_en": "Cruelty",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Persuade",
+      "antonym_en": "Dissuade",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Plead",
+      "antonym_en": "Force",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Recent",
+      "antonym_en": "Long ago",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Sinking",
+      "antonym_en": "Recovering",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Startled",
+      "antonym_en": "Calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Hard",
+      "antonym_en": "Soft",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Fat",
+      "antonym_en": "Slim",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Weak",
+      "antonym_en": "Strong",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Big",
+      "antonym_en": "Small",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Fast",
+      "antonym_en": "Slow",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Hide",
+      "antonym_en": "Show",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Rough",
+      "antonym_en": "Soft",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Dull",
+      "antonym_en": "Smart",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Shady",
+      "antonym_en": "Sunny",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Bored",
+      "antonym_en": "Interested",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Glee",
+      "antonym_en": "Misery",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Panic",
+      "antonym_en": "Calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Hasty",
+      "antonym_en": "Slow",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Privileged",
+      "antonym_en": "Underprivileged",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Animate",
+      "antonym_en": "Inanimate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Discriminate",
+      "antonym_en": "Indiscriminate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Communicate",
+      "antonym_en": "Miscommunicate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Learn",
+      "antonym_en": "Unlearn",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Delight",
+      "antonym_en": "Displease",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Disgrace",
+      "antonym_en": "Glory",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Careless",
+      "antonym_en": "Careful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Secret",
+      "antonym_en": "Public",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Confine",
+      "antonym_en": "Release",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Seldom",
+      "antonym_en": "Often",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Admitted",
+      "antonym_en": "Denied",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Methodical",
+      "antonym_en": "Haphazard",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Reality",
+      "antonym_en": "Fantasy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Virtue",
+      "antonym_en": "Vice",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Vile",
+      "antonym_en": "Good",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Indignant",
+      "antonym_en": "Delighted",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Relish",
+      "antonym_en": "Hate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Fact",
+      "antonym_en": "Fiction",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Hard",
+      "antonym_en": "Easy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Flood",
+      "antonym_en": "Trickle",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Interrupt",
+      "antonym_en": "Continuous",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Scared",
+      "antonym_en": "Bold",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Irritation",
+      "antonym_en": "Calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Organize",
+      "antonym_en": "Disorganise",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Serious",
+      "antonym_en": "Unimportant",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Snappy",
+      "antonym_en": "Gentle",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Emergency",
+      "antonym_en": "Normalcy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Rescue",
+      "antonym_en": "Capture, Arrest",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Cautious",
+      "antonym_en": "Reckless",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Disapprove",
+      "antonym_en": "Approve",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Brisk",
+      "antonym_en": "Sloppy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 46
+    },
+    {
+      "word_en": "Engaging",
+      "antonym_en": "Repulsive",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Humble",
+      "antonym_en": "Proud",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Below",
+      "antonym_en": "Above",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Eager",
+      "antonym_en": "Apathetic",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Resistance",
+      "antonym_en": "Acceptance",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Scarce",
+      "antonym_en": "Plentiful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Nobility",
+      "antonym_en": "Dishonour",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Distribute",
+      "antonym_en": "Collect",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Infinite",
+      "antonym_en": "Measurable",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Significant",
+      "antonym_en": "Trivial",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Delight",
+      "antonym_en": "Sorrow",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Unkempt",
+      "antonym_en": "Clean",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Initiate",
+      "antonym_en": "Conclude",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Conjecture",
+      "antonym_en": "Fact",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Wide",
+      "antonym_en": "Narrow",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Noble",
+      "antonym_en": "Ignoble",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Oppress",
+      "antonym_en": "Freedom",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Honour",
+      "antonym_en": "Dishonour",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Worthy",
+      "antonym_en": "Unworthy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Private",
+      "antonym_en": "Public",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Brave",
+      "antonym_en": "Coward",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Amateur",
+      "antonym_en": "Professional",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Compulsory",
+      "antonym_en": "Optional",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Traditional",
+      "antonym_en": "Modern",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Expensive",
+      "antonym_en": "Cheap",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Hopeful",
+      "antonym_en": "Desperate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "Accepted",
+      "antonym_en": "Refused",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "word_en": "glad",
+      "antonym_en": "sad",
+      "note_en": "Exercise 2, Question 2",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "laughing",
+      "antonym_en": "wailing",
+      "note_en": "Exercise 2, Question 4",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "heavily",
+      "antonym_en": "lightly",
+      "note_en": "Exercise 2, Question 5",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "substantial",
+      "antonym_en": "insignificant",
+      "note_en": "Exercise 3, Question 1",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "imperative",
+      "antonym_en": "inessential",
+      "note_en": "Exercise 3, Question 2",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "conservation",
+      "antonym_en": "destruction",
+      "note_en": "Exercise 3, Question 3",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "fertile",
+      "antonym_en": "barren",
+      "note_en": "Exercise 3, Question 4",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "cheapest",
+      "antonym_en": "costly",
+      "note_en": "Exercise 3, Question 5",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "word_en": "rushed",
+      "antonym_en": "slowed down",
+      "note_en": "Based on solution 8",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "sank",
+      "antonym_en": "floated",
+      "note_en": "Based on solution 9",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "fright",
+      "antonym_en": "fearlessness",
+      "note_en": "Based on solution 10",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "exhausted",
+      "antonym_en": "energetic",
+      "note_en": "Based on solution 12",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "bright",
+      "antonym_en": "gloomy",
+      "note_en": "Based on Exercise 6 question 1",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "hurried",
+      "antonym_en": "slowed",
+      "note_en": "Based on Exercise 6 question 3",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "unison",
+      "antonym_en": "disharmony",
+      "note_en": "Based on Exercise 6 question 5",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "surprised",
+      "antonym_en": "expected",
+      "note_en": "Based on Exercise 6 question 7",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "empty",
+      "antonym_en": "full",
+      "note_en": "Based on Exercise 6 question 8",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "last",
+      "antonym_en": "first",
+      "note_en": "Based on Exercise 6 question 9",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 50
+    },
+    {
+      "word_en": "beneficial",
+      "antonym_en": "harmful",
+      "note_en": "A good diet is beneficial to health.",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "hidden",
+      "antonym_en": "exposed",
+      "note_en": "Seventeen oranges were hidden in the narrator's pockets.",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "ordered",
+      "antonym_en": "requested",
+      "note_en": "Clem Jones was ordered to open the box.",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "locked",
+      "antonym_en": "released",
+      "note_en": "Pongo locked the narrator inside the cabin.",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "carefully",
+      "antonym_en": "carelessly",
+      "note_en": "Pongo carefully searched the narrator's pockets.",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "sick",
+      "antonym_en": "healthy",
+      "note_en": "The narrator of the story felt very sick for a week.",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "despised",
+      "antonym_en": "respected",
+      "note_en": "Which are not to be despised",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "optimistic",
+      "antonym_en": "pessimistic",
+      "note_en": "One does not feel wise, braver or more optimistic",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "shallow",
+      "antonym_en": "deep",
+      "note_en": "Not the flat, shallow type...",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "arrival",
+      "antonym_en": "departure",
+      "note_en": "Predicting the arrival of visitors...",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "sufficient",
+      "antonym_en": "inadequate",
+      "note_en": "but they are sufficient to show how...",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "word_en": "moist",
+      "antonym_en": "arid",
+      "note_en": "Choose the correct antonym",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "word_en": "frivolous",
+      "antonym_en": "serious",
+      "note_en": "Choose the correct antonym",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "word_en": "omitted",
+      "antonym_en": "included",
+      "note_en": "Choose the correct antonym",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "word_en": "protest",
+      "antonym_en": "accept",
+      "note_en": "Choose the correct antonym",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "word_en": "serenity",
+      "antonym_en": "anxiety",
+      "note_en": "Choose the correct antonym",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "word_en": "scattered",
+      "antonym_en": "gathered",
+      "note_en": "Antonym of scattered",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "monotonous",
+      "antonym_en": "interesting",
+      "note_en": "Antonym of monotonous",
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "concentrate",
+      "antonym_en": "distract",
+      "note_en": "Match 1 to b",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "inevitable",
+      "antonym_en": "preventable",
+      "note_en": "Match 2 to e",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "occasional",
+      "antonym_en": "continual",
+      "note_en": "Match 3 to d",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "complete",
+      "antonym_en": "incomplete",
+      "note_en": "Match 4 to a",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "insane",
+      "antonym_en": "wise",
+      "note_en": "Match 5 to c",
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "word_en": "Abandon",
+      "antonym_en": "Retain",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Able",
+      "antonym_en": "Unable",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Absence",
+      "antonym_en": "Presence",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Abundance",
+      "antonym_en": "Scarcity",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Accumulated",
+      "antonym_en": "Dissipate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Achievement",
+      "antonym_en": "Failure",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Admire",
+      "antonym_en": "Abhor",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Advantage",
+      "antonym_en": "Disadvantage",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "After",
+      "antonym_en": "Before",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Agitated",
+      "antonym_en": "Calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Always",
+      "antonym_en": "Never",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Ancient",
+      "antonym_en": "Modern",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Annoy",
+      "antonym_en": "Amuse",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Appreciated",
+      "antonym_en": "Misapprehend",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Artificial",
+      "antonym_en": "Natural",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Ascend",
+      "antonym_en": "Descend",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Assemble",
+      "antonym_en": "Disperse",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Balance",
+      "antonym_en": "Imbalance",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Belief",
+      "antonym_en": "Disbelief",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Better",
+      "antonym_en": "Worse",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Brave",
+      "antonym_en": "Cowardly",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Bright",
+      "antonym_en": "Dark",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Broad",
+      "antonym_en": "Narrow",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Certain",
+      "antonym_en": "Uncertain/doubtful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Charming",
+      "antonym_en": "Repulsive",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Clean",
+      "antonym_en": "Dirty",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Clear",
+      "antonym_en": "Vague",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Close",
+      "antonym_en": "Open",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Comfort",
+      "antonym_en": "Discomfort",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Commence",
+      "antonym_en": "Close",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Contemn",
+      "antonym_en": "Admire",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Continuous",
+      "antonym_en": "Discrete",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Creative",
+      "antonym_en": "Destructive",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Curse",
+      "antonym_en": "Bless",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Danger",
+      "antonym_en": "Safety",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Death",
+      "antonym_en": "Birth",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Definite",
+      "antonym_en": "Indefinite",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Defy",
+      "antonym_en": "Obey",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Delusive",
+      "antonym_en": "Real",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Departure",
+      "antonym_en": "Arrival",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Desirable",
+      "antonym_en": "Undesirable",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Difficult",
+      "antonym_en": "Easy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Dignify",
+      "antonym_en": "Degrade",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Diminish",
+      "antonym_en": "Magnify",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Discipline",
+      "antonym_en": "Indiscipline",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Disgrace",
+      "antonym_en": "Honour",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Domestic",
+      "antonym_en": "Wild",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Dreary",
+      "antonym_en": "Cheerful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Eager",
+      "antonym_en": "Indifferent",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Effective",
+      "antonym_en": "Ineffective",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Efficiently",
+      "antonym_en": "Inefficiently",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "End",
+      "antonym_en": "Begin",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Erase",
+      "antonym_en": "Record",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "External",
+      "antonym_en": "Internal",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Exterior",
+      "antonym_en": "Interior",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Famous",
+      "antonym_en": "Notorious",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Fascinating",
+      "antonym_en": "Awful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Fortunate",
+      "antonym_en": "Unfortunate",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Frail",
+      "antonym_en": "Sturdy/strong",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Fury",
+      "antonym_en": "Calm",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Gentle",
+      "antonym_en": "Rough",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Give",
+      "antonym_en": "Take",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Glorify",
+      "antonym_en": "Defame",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Grateful",
+      "antonym_en": "Ungrateful",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Happy",
+      "antonym_en": "Sad",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Harmonious",
+      "antonym_en": "Discordant",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Immediately",
+      "antonym_en": "Later",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Important",
+      "antonym_en": "Unimportant",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 21
+    },
+    {
+      "word_en": "Impressive",
+      "antonym_en": "Ridiculous",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Imprison",
+      "antonym_en": "Release",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Include",
+      "antonym_en": "Exclude",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Interesting",
+      "antonym_en": "Boring",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Inward",
+      "antonym_en": "Outward",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Lazy",
+      "antonym_en": "Diligent",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Magnificent",
+      "antonym_en": "Vulgar",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Majestic",
+      "antonym_en": "Lowly",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Minimum",
+      "antonym_en": "Maximum",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Neglect",
+      "antonym_en": "Care",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Notorious",
+      "antonym_en": "Famous",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Obey",
+      "antonym_en": "Disobey",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Obscure",
+      "antonym_en": "Clear/bright",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Optimist",
+      "antonym_en": "Pessimist",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Panic",
+      "antonym_en": "Calmness",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Possible",
+      "antonym_en": "Impossible",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Proud",
+      "antonym_en": "Humble",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Refuse",
+      "antonym_en": "Accept",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Regular",
+      "antonym_en": "Irregular",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Respect",
+      "antonym_en": "Scorn",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Rich",
+      "antonym_en": "Poor",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Rude",
+      "antonym_en": "Polite",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Strange",
+      "antonym_en": "Common",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Stupid",
+      "antonym_en": "Wise",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Sturdy",
+      "antonym_en": "Fragile",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Sublime",
+      "antonym_en": "Low/base",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Sudden",
+      "antonym_en": "Gradual",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Tragedy",
+      "antonym_en": "Comedy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Terrify",
+      "antonym_en": "Pacify",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Unique",
+      "antonym_en": "Common",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Vanish",
+      "antonym_en": "Appear",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Veteran",
+      "antonym_en": "Novice",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Vile",
+      "antonym_en": "Worthy",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Vindictive",
+      "antonym_en": "Forgiving",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Warmth",
+      "antonym_en": "Coolness",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Whole",
+      "antonym_en": "Part",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Withhold",
+      "antonym_en": "Release",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Empty",
+      "antonym_en": "Unempty",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Secret",
+      "antonym_en": "Open",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "word_en": "Confine",
+      "antonym_en": "Free",
+      "note_en": "",
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "I wanted to pursue cricket seriously.",
+      "answer_en": "give up",
+      "options_en": [
+        "continue",
+        "give up",
+        "follow",
+        "chase"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "It helped I me to build up physical and mental stamina.",
+      "answer_en": "weakness",
+      "options_en": [
+        "strength",
+        "vigour",
+        "force",
+        "weakness"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "Dirty clothes often added to the embarrassment.",
+      "answer_en": "comfort",
+      "options_en": [
+        "shame",
+        "comfort",
+        "awkwardness",
+        "humiliation"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "Winning the one rupee coin used to give me immense satisfaction.",
+      "answer_en": "little",
+      "options_en": [
+        "extensive",
+        "little",
+        "enormous",
+        "great"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "Practice hard and see what magic can transpire.",
+      "answer_en": "hide",
+      "options_en": [
+        "reveal",
+        "emerge",
+        "result",
+        "hide"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "He was glad to see that the Jackfruit still stood at the side of the building.",
+      "answer_en": "sad",
+      "options_en": [
+        "happy",
+        "merry",
+        "sad",
+        "joyful"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The man burst out laughing.",
+      "answer_en": "wailing",
+      "options_en": [
+        "wailing",
+        "grinning",
+        "mocking",
+        "kidding"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "He got up on the wall all right, but had to rest there, breathing heavily.",
+      "answer_en": "lightly",
+      "options_en": [
+        "strongly",
+        "lightly",
+        "calmly",
+        "amply"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "Every animal or plant contains a substantial proportion of free or combined water in its body.",
+      "answer_en": "insignificant",
+      "options_en": [
+        "large",
+        "massive",
+        "insignificant",
+        "development"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "Moisture in the soil is equally imperative for the life and growth of plants and trees.",
+      "answer_en": "inessential",
+      "options_en": [
+        "necessary",
+        "inessential",
+        "crucial",
+        "important"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The conservation and utilization of water is thus fundamental for human welfare.",
+      "answer_en": "destruction",
+      "options_en": [
+        "destruction",
+        "preservation",
+        "salvation",
+        "safekeeping"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "Vast areas of land which at present are mere scrub jungle could be turned into fertile.",
+      "answer_en": "barren",
+      "options_en": [
+        "prolific",
+        "productive",
+        "barren",
+        "fruitful"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "By far the cheapest form of internal transport in a country is by boats and barges through canals.",
+      "answer_en": "costly",
+      "options_en": [
+        "economical",
+        "reasonable",
+        "costly",
+        "nominal"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "Out of discussion sometimes a little bit of truth comes out.",
+      "answer_en": "lie",
+      "options_en": [
+        "evidence",
+        "fact",
+        "lie",
+        "accuracy"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "None of us need ever be bored or imagine that we have learned everything worth learning and become very wise.",
+      "answer_en": "foolish",
+      "options_en": [
+        "sage",
+        "prudent",
+        "sensible",
+        "foolish"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "Great leaders have something in them which inspires a whole people and makes them do great deeds.",
+      "answer_en": "failures",
+      "options_en": [
+        "failures",
+        "actions",
+        "activities",
+        "performances"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "He has helped to make the starving, the poor and the oppressed free and happy.",
+      "answer_en": "rich",
+      "options_en": [
+        "inadequate",
+        "miserable",
+        "inferior",
+        "rich"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "We are not afraid of what we do or what we say.",
+      "answer_en": "brave",
+      "options_en": [
+        "scared",
+        "fearful",
+        "brave",
+        "alarmed"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "But he kept calling plaintively.",
+      "answer_en": "cheerfully",
+      "options_en": [
+        "cheerfully",
+        "mournfully",
+        "dismally",
+        "wistfully"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "After a minute or so, he uttered a delightful scream",
+      "answer_en": "suppressed",
+      "options_en": [
+        "released",
+        "suppressed",
+        "expressed",
+        "divulged"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "He leaned out eagerly, tapping the rock with his feet.",
+      "answer_en": "unwillingly",
+      "options_en": [
+        "anxiously",
+        "fervently",
+        "unwillingly",
+        "earnestly"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "Then a monstrous terror seized him.",
+      "answer_en": "beautiful",
+      "options_en": [
+        "horrible",
+        "dreadful",
+        "beautiful",
+        "unnatural"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "His heart stood still.",
+      "answer_en": "moving",
+      "options_en": [
+        "motionless",
+        "moving",
+        "restful",
+        "silent"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "He could hear nothing. But it only lasted a moment",
+      "answer_en": "discontinued",
+      "options_en": [
+        "continued",
+        "persisted",
+        "discontinued",
+        "musty"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "The next moment, he felt his wings spread outwards.",
+      "answer_en": "abridged",
+      "options_en": [
+        "abridged",
+        "extended",
+        "stretched",
+        "opened"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "10. I want you to be very attentive.",
+      "answer_en": "inattentive",
+      "options_en": [
+        "careful",
+        "cautious",
+        "considerate",
+        "inattentive"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "1. There are many problems of the disease in the East.",
+      "answer_en": "few",
+      "options_en": [
+        "a lot",
+        "numerous",
+        "huge",
+        "few"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "2. I will bring Dr. Ainstree then. I said going towards the door",
+      "answer_en": "away",
+      "options_en": [
+        "close to",
+        "near",
+        "just before",
+        "away"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "3. Never I had such a shock when the dying man bolted the door",
+      "answer_en": "always",
+      "options_en": [
+        "at no time",
+        "no way",
+        "always",
+        "not ever"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "4. The butler appeared at the doorway",
+      "answer_en": "vanished",
+      "options_en": [
+        "emerged",
+        "seen",
+        "came out",
+        "vanished"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "5. I pushed past the butler and entered the room.",
+      "answer_en": "pulled",
+      "options_en": [
+        "thrust",
+        "pressed",
+        "pulled",
+        "forced"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "6. I saw a frail man with bald head sitting.",
+      "answer_en": "strong",
+      "options_en": [
+        "strong",
+        "thin",
+        "weak",
+        "lazy"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "7. I am sorry, I said, but the matter cannot be delayed",
+      "answer_en": "advanced",
+      "options_en": [
+        "held up",
+        "slowed",
+        "advanced",
+        "postponed"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "8. He smiled and agreed to come.",
+      "answer_en": "frowned",
+      "options_en": [
+        "frowned",
+        "giggled",
+        "gleamed",
+        "laughed"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "9. With a sinking heart I reached Holmes' room.",
+      "answer_en": "rising",
+      "options_en": [
+        "rising",
+        "drowning",
+        "plunging",
+        "submerging"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "10. Now you disappear to the next room",
+      "answer_en": "appear",
+      "options_en": [
+        "appear",
+        "vanish",
+        "go away",
+        "abscond"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "11. Only too well, Mr. Smith, and he described the symptoms.",
+      "answer_en": "concealed",
+      "options_en": [
+        "elaborated",
+        "explained",
+        "concealed",
+        "outlined"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Ajay mastered the techniques of painting.",
+      "answer_en": "unskilled",
+      "options_en": [
+        "skilled",
+        "proficient",
+        "unskilled",
+        "experienced"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "Ilavazhagi won world championship in 2008.",
+      "answer_en": "lost",
+      "options_en": [
+        "attain",
+        "succeed",
+        "lost",
+        "achieved"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "His Grandmother was very kind to him.",
+      "answer_en": "cruel",
+      "options_en": [
+        "affectionate",
+        "loving",
+        "disrespectful",
+        "cruel"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "The boy seemed to have a taste for mathematics.",
+      "answer_en": "distaste",
+      "options_en": [
+        "delicious",
+        "sweet",
+        "distaste",
+        "against"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "Isaac possessed a wonderful faculty of acquiring knowledge.",
+      "answer_en": "lacks",
+      "options_en": [
+        "owned",
+        "controlled",
+        "lacks",
+        "have"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "He was observed to be usually busy with his tools.",
+      "answer_en": "rarely",
+      "options_en": [
+        "common",
+        "rarely",
+        "unwantedly",
+        "usually"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "Karan visited his ancestral village.",
+      "answer_en": "modern",
+      "options_en": [
+        "modern",
+        "ancient",
+        "traditional",
+        "old"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "We should use our mobile safely.",
+      "answer_en": "unsafely",
+      "options_en": [
+        "unsafely",
+        "cautiously",
+        "harmless",
+        "careful"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 52
+    },
+    {
+      "prompt_en": "The neem tree provides shelter to many birds.",
+      "answer_en": "with holds",
+      "options_en": [
+        "gives",
+        "with holds",
+        "offers",
+        "bestows"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "It is a latest mobile.",
+      "answer_en": "outdated",
+      "options_en": [
+        "updated",
+        "outdated",
+        "new",
+        "modern"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "The wife replied angrily.",
+      "answer_en": "calm",
+      "options_en": [
+        "calm",
+        "annoyed",
+        "irritate"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "The vegetables look fresh.",
+      "answer_en": "rotten",
+      "options_en": [
+        "rotten",
+        "dull",
+        "new"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "Vetri had a strong will to start a new business.",
+      "answer_en": "weak",
+      "options_en": [
+        "desire",
+        "thin",
+        "weak"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "Vetri was surprised by his friend.",
+      "answer_en": "expected",
+      "options_en": [
+        "unsurprised",
+        "expected",
+        "shocked"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "He spoke nervously.",
+      "answer_en": "confident",
+      "options_en": [
+        "Scared",
+        "confident",
+        "anxious"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "The explosion had weakened the building's foundations.",
+      "answer_en": "strengthen",
+      "options_en": [
+        "dreary",
+        "dull",
+        "strengthen",
+        "weak"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "A stranger was roaming around the street.",
+      "answer_en": "well known",
+      "options_en": [
+        "well known",
+        "newcomer",
+        "unknown",
+        "foreigner"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "Vairavan is having a spot of bother with law.",
+      "answer_en": "pleasing",
+      "options_en": [
+        "worry",
+        "annoy",
+        "pester",
+        "pleasing"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "He asked the manager to improve the facility in the hall.",
+      "answer_en": "worsen",
+      "options_en": [
+        "worsen",
+        "better",
+        "enhance",
+        "upgrade"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 53
+    },
+    {
+      "prompt_en": "A good diet is beneficial to health.",
+      "answer_en": "C",
+      "options_en": [
+        "benefit",
+        "helpful",
+        "harmful",
+        "useful"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "prompt_en": "1. Seventeen oranges were hidden in the narrator's pockets.",
+      "answer_en": "A",
+      "options_en": [
+        "exposed",
+        "masked",
+        "concealed",
+        "buried"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "prompt_en": "2. Clem Jones was ordered to open the box.",
+      "answer_en": "D",
+      "options_en": [
+        "prepared",
+        "arranged",
+        "forced",
+        "requested"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "prompt_en": "3. Pongo locked the narrator inside the cabin.",
+      "answer_en": "C",
+      "options_en": [
+        "closed",
+        "sealed",
+        "released",
+        "chocked"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "prompt_en": "4. Pongo carefully searched the narrator's pockets.",
+      "answer_en": "B",
+      "options_en": [
+        "attentively",
+        "carelessly",
+        "cautiously",
+        "strictly"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "prompt_en": "5. The narrator of the story felt very sick for a week.",
+      "answer_en": "A",
+      "options_en": [
+        "healthy",
+        "disordered",
+        "feeble",
+        "unhealthy"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 54
+    },
+    {
+      "prompt_en": "The anticipation of this imagined separation only increases their fondness for the calf.",
+      "answer_en": "D (ignorance)",
+      "options_en": [
+        "expectancy",
+        "contemplation",
+        "outlook",
+        "ignorance"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "prompt_en": "Fortuitously, a guest visited our house.",
+      "answer_en": "C (unfortunately)",
+      "options_en": [
+        "luckily",
+        "peacefully",
+        "unfortunately",
+        "happily"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "prompt_en": "There he was sitting in splendour on his chair.",
+      "answer_en": "D (simplicity)",
+      "options_en": [
+        "magnificence",
+        "pomp",
+        "effulgence",
+        "simplicity"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "prompt_en": "Maamanaar was unmatched",
+      "answer_en": "A (inferior)",
+      "options_en": [
+        "inferior",
+        "incomparable",
+        "excellent",
+        "supreme"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "prompt_en": "He greeted me with his usual smile and banter.",
+      "answer_en": "A (flattery)",
+      "options_en": [
+        "flattery",
+        "small talk",
+        "chitchat",
+        "repartee"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 55
+    },
+    {
+      "prompt_en": "6. scattered",
+      "answer_en": "(C) gathered",
+      "options_en": [
+        "(A) sprinkled",
+        "(B) multiplied",
+        "(C) gathered",
+        "(D) covered"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "prompt_en": "7. monotonous",
+      "answer_en": "(A) interesting",
+      "options_en": [
+        "(A) interesting",
+        "(B) tiresome",
+        "(C) fragrant",
+        "(D) satisfying"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "prompt_en": "Match the words: 1. concentrate, 2. inevitable, 3. occasional, 4. complete, 5. insane",
+      "answer_en": "1-b, 2-e, 3-d, 4-a, 5-c",
+      "options_en": [
+        "(a) incomplete",
+        "(b) distract",
+        "(c) wise",
+        "(d) continual",
+        "(e) preventable"
+      ],
+      "ant_tag": "match_pair",
+      "source": "vetrii",
+      "source_page": 56
+    },
+    {
+      "prompt_en": "Match: 1. shady, 2. bored, 3. glee, 4. panic, 5. hasty",
+      "answer_en": "1-e, 2-c, 3-a, 4-b, 5-d",
+      "options_en": [
+        "(a) misery",
+        "(b) calm",
+        "(c) interested",
+        "(d) slow",
+        "(e) sunny"
+      ],
+      "ant_tag": "match_pair",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Ajay suffered an injury (Antonym for suffered)",
+      "answer_en": "endure",
+      "options_en": [
+        "sorrow",
+        "endure",
+        "hurt",
+        "mourn"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Ajay mastered the techniques (Antonym for mastered)",
+      "answer_en": "unskilled",
+      "options_en": [
+        "skilled",
+        "proficient",
+        "unskilled",
+        "experienced"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Ilavazhagi won the world championship (Antonym for won)",
+      "answer_en": "lost",
+      "options_en": [
+        "win",
+        "succeed",
+        "lost",
+        "well-skilled"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 22
+    },
+    {
+      "prompt_en": "Karan visited his ancestral village.",
+      "answer_en": "offspring",
+      "options_en": [
+        "offspring",
+        "family",
+        "house",
+        "relative"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Medicine should be stored.",
+      "answer_en": "deleted",
+      "options_en": [
+        "consumed",
+        "deleted",
+        "preserved",
+        "registered"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "The neem tree provided shelter to many birds.",
+      "answer_en": "unprotection",
+      "options_en": [
+        "residence",
+        "unprotection",
+        "home",
+        "security"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "It is the latest mobile.",
+      "answer_en": "outdated",
+      "options_en": [
+        "updated",
+        "outdated",
+        "new",
+        "modern"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "The explosion had weakened the building’s foundations.",
+      "answer_en": "strengthen",
+      "options_en": [
+        "dreary",
+        "dull",
+        "strengthen",
+        "weak"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "A stranger was roaming around the street.",
+      "answer_en": "well-known",
+      "options_en": [
+        "well-known",
+        "newcomer",
+        "unknown",
+        "foreigner"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Vairavan is having a spot of bother with the law.",
+      "answer_en": "worry",
+      "options_en": [
+        "worry",
+        "annoy",
+        "pester",
+        "please"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "He asked the manager to improve the facility in the hall.",
+      "answer_en": "comfort",
+      "options_en": [
+        "amenity",
+        "comfort",
+        "uneasy",
+        "shortcoming"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "A good diet is beneficial to health.",
+      "answer_en": "harmful",
+      "options_en": [
+        "benefit",
+        "helpful",
+        "harmful",
+        "useful"
+      ],
+      "ant_tag": "choose_antonym",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Seventeen oranges were hidden in the narrator’s pockets.",
+      "answer_en": "exposed",
+      "options_en": [
+        "exposed",
+        "masked",
+        "concealed",
+        "buried"
+      ],
+      "ant_tag": "context_sentence",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Clem Jones was ordered to open the box.",
+      "answer_en": "requested",
+      "options_en": [
+        "prepared",
+        "arranged",
+        "forced",
+        "requested"
+      ],
+      "ant_tag": "context_sentence",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Pongo locked the narrator inside the cabin.",
+      "answer_en": "released",
+      "options_en": [
+        "closed",
+        "sealed",
+        "released",
+        "chocked"
+      ],
+      "ant_tag": "context_sentence",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "Pongo carefully searched the narrator’s pockets.",
+      "answer_en": "carelessly",
+      "options_en": [
+        "attentively",
+        "carelessly",
+        "cautiously",
+        "strictly"
+      ],
+      "ant_tag": "context_sentence",
+      "source": "race",
+      "source_page": 23
+    },
+    {
+      "prompt_en": "The narrator of the story felt very sick for a week.",
+      "answer_en": "healthy",
+      "options_en": [
+        "healthy",
+        "disordered",
+        "feeble",
+        "unhealthy"
+      ],
+      "ant_tag": "context_sentence",
+      "source": "race",
+      "source_page": 23
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 4,
+      "examples": 353,
+      "worked_exercises": 88
+    },
+    "by_ant_tag": {
+      "overview": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "choose_antonym": {
+        "rules": 2,
+        "examples": 31,
+        "worked": 81
+      },
+      "match_pair": {
+        "rules": 1,
+        "examples": 322,
+        "worked": 2
+      },
+      "context_sentence": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 5
+      }
+    }
+  }
+}

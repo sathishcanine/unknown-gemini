@@ -1,0 +1,95 @@
+{
+  "prose_id": "the_last_stone_carver",
+  "prose_title": "The Last Stone Carver",
+  "author": "Sigrun Srivastav",
+  "num": 23,
+  "pdf_pages": [
+    477,
+    489
+  ],
+  "prose_text_en": "The story centers on an elderly, traditional stone carver who values his craft as a service to God, unlike his son who prioritizes commercial success. The son decides to leave for Agra to engage in mass-producing cheap trinkets. Despite his fading strength and loneliness, the old man persists in carving a final masterpiece, a statue of Krishna. He is supported by Salim, an orphan boy who assists him. The story highlights the conflict between ancient artistic devotion and modern commercialism.",
+  "summary_en": "Sigrun Srivastav's story 'The Last Stone Carver' depicts the struggle of a master craftsman in Srinagar fighting to maintain traditional values against a wave of commercial mass-production. The protagonist refuses to abandon his integrity, choosing to pour his life into one final, exquisite statue of Krishna. Through the character of Salim, the story explores the importance of passion and inner dedication in true artistry. It serves as a tribute to preserving cultural heritage amidst the lure of profit.",
+  "characters": [
+    {
+      "name_en": "The Old Master Carver",
+      "role_en": "A dedicated, elderly artist who believes stone carving is a service to God."
+    },
+    {
+      "name_en": "The Son",
+      "role_en": "A disillusioned youth who prefers to mass-produce cheap artifacts in Agra."
+    },
+    {
+      "name_en": "Salim",
+      "role_en": "An orphan boy rescued by the Master who serves as his loyal assistant."
+    },
+    {
+      "name_en": "Gopal",
+      "role_en": "An apprentice who left the workshop to pursue commercial work in Agra."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Pittance",
+      "meaning_en": "A very small or inadequate amount of money."
+    },
+    {
+      "word_en": "Ashen",
+      "meaning_en": "Pale, typically because of illness or emotion."
+    },
+    {
+      "word_en": "Serene",
+      "meaning_en": "Calm, peaceful, and untroubled."
+    },
+    {
+      "word_en": "Crouching",
+      "meaning_en": "Sitting on one's heels."
+    },
+    {
+      "word_en": "Congested",
+      "meaning_en": "Overcrowded or blocked."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Sigrun Srivastav",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Theme: The conflict between traditional craftsmanship and modern commercial mass-production.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The protagonist's goal is to complete his masterpiece statue of Lord Krishna.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The white washed walls were stained by many monsoons.",
+      "answer_en": "a. The walls were made dirty by rains.",
+      "options_en": [
+        "a. The walls were made dirty by rains.",
+        "b. The Monsoon removed the dirt from the walls."
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "I am tired of working for a pittance.",
+      "answer_en": "b. He didn’t want to work as he gets low income for his work.",
+      "options_en": [
+        "a. He didn’t want to work because he was tired.",
+        "b. He didn’t want to work as he gets low income for his work."
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "He is drenched to the skin.",
+      "answer_en": "b. He is thoroughly wet.",
+      "options_en": [
+        "a. He is thin and skinny.",
+        "b. He is thoroughly wet."
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

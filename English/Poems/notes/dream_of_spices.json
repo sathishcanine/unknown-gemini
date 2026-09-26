@@ -1,0 +1,83 @@
+{
+  "poem_id": "dream_of_spices",
+  "poem_title": "Dream of Spices",
+  "author": "Raj Arumugam",
+  "num": 1,
+  "pdf_pages": [
+    4,
+    6
+  ],
+  "poem_text_en": "My mother would say:\n“Little boy Raj…\nGo to Muthu’s\nand get some\ncinnamon, betel leaves\nand ginger and garlic.”\nAnd so I go to the shops\nsinging all the way\nand when Muthu asks me\nwhat I’d want\nI rattle off a list:\n“Sesame seeds, onions\ntomatoes and pickles”\nAnd back home,\nMother twists my ears\nOuch!",
+  "summary_en": "A young boy named Raj is sent by his mother to a shopkeeper named Muthu to buy specific ingredients. Instead of buying what he was told, Raj asks for a different set of items, leading to a playful consequence when he returns home. It reflects a simple, relatable childhood experience.",
+  "glossary": [
+    {
+      "word_en": "cinnamon",
+      "meaning_en": "the bark of a tree that gives a delicious flavour to food"
+    },
+    {
+      "word_en": "garlic",
+      "meaning_en": "a small bulb with a strong taste used in cooking"
+    },
+    {
+      "word_en": "rattle off",
+      "meaning_en": "recite"
+    },
+    {
+      "word_en": "sesame seeds",
+      "meaning_en": "gingelly seeds"
+    },
+    {
+      "word_en": "ouch",
+      "meaning_en": "sound that expresses pain"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "alliteration",
+      "example_en": "Mother twists my ears",
+      "note_en": "Repetition of the 'm' or related sounds (if applicable in context) or specific consonant repetition as defined in the textbook."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Raj Arumugam",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Dream of Spices",
+      "tag": "title"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Mother called ___________________.",
+      "answer_en": "b. Raj",
+      "options_en": [
+        "a. Muthu",
+        "b. Raj",
+        "c. Ram"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Mother did not ask for ___________________.",
+      "answer_en": "b. cardamom",
+      "options_en": [
+        "a. cinnamon",
+        "b. cardamom",
+        "c. betel leaves"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Raj did not buy ___________________.",
+      "answer_en": "b. ginger and garlic",
+      "options_en": [
+        "a. onions and sesame",
+        "b. ginger and garlic",
+        "c. tomato and pickles"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

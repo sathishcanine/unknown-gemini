@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the prose piece 'His First Flight'?",
+    "question_ta": "Who is the author of the prose piece 'His First Flight'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "William Shakespeare",
+        "text_ta": "William Shakespeare"
+      },
+      {
+        "key": "B",
+        "text_en": "Oscar Wilde",
+        "text_ta": "Oscar Wilde"
+      },
+      {
+        "key": "C",
+        "text_en": "George Bernard Shaw",
+        "text_ta": "George Bernard Shaw"
+      },
+      {
+        "key": "D",
+        "text_en": "Liam O'Flaherty",
+        "text_ta": "Liam O'Flaherty"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The author of 'His First Flight' is Liam O'Flaherty, an Irish novelist and short story writer.",
+    "explanation_ta": "The author of 'His First Flight' is Liam O'Flaherty, an Irish novelist and short story writer.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "R1: Author: Liam O'Flaherty (1896–1984)"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What nationality was Liam O'Flaherty, the author of 'His First Flight'?",
+    "question_ta": "What nationality was Liam O'Flaherty, the author of 'His First Flight'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "British",
+        "text_ta": "British"
+      },
+      {
+        "key": "B",
+        "text_en": "Australian",
+        "text_ta": "Australian"
+      },
+      {
+        "key": "C",
+        "text_en": "Irish",
+        "text_ta": "Irish"
+      },
+      {
+        "key": "D",
+        "text_en": "American",
+        "text_ta": "American"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Liam O'Flaherty was an Irish novelist and short story writer.",
+    "explanation_ta": "Liam O'Flaherty was an Irish novelist and short story writer.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "R1: Liam O'Flaherty (1896–1984), an Irish novelist and short story writer."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whose first flight is primarily featured in the story?",
+    "question_ta": "Whose first flight is primarily featured in the story?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Father seagull",
+        "text_ta": "Father seagull"
+      },
+      {
+        "key": "B",
+        "text_en": "Young seagull",
+        "text_ta": "Young seagull"
+      },
+      {
+        "key": "C",
+        "text_en": "Young eagle",
+        "text_ta": "Young eagle"
+      },
+      {
+        "key": "D",
+        "text_en": "Mother seagull",
+        "text_ta": "Mother seagull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The story revolves around a young, timid seagull who overcomes his fear of flying.",
+    "explanation_ta": "The story revolves around a young, timid seagull who overcomes his fear of flying.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "C1: Young Seagull — Protagonist who struggles with the fear of flying."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why did the young seagull fail to fly initially?",
+    "question_ta": "Why did the young seagull fail to fly initially?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Due to lack of feathers",
+        "text_ta": "Due to lack of feathers"
+      },
+      {
+        "key": "B",
+        "text_en": "Due to fear",
+        "text_ta": "Due to fear"
+      },
+      {
+        "key": "C",
+        "text_en": "Due to heavy rain",
+        "text_ta": "Due to heavy rain"
+      },
+      {
+        "key": "D",
+        "text_en": "Due to injury",
+        "text_ta": "Due to injury"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The young seagull was afraid to fly, fearing the great expanse of the sea below him.",
+    "explanation_ta": "The young seagull was afraid to fly, fearing the great expanse of the sea below him.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "The young seagull is afraid to fly, fearing the great expanse of the sea."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the central theme of the story 'His First Flight'?",
+    "question_ta": "What is the central theme of the story 'His First Flight'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The migration of birds",
+        "text_ta": "The migration of birds"
+      },
+      {
+        "key": "B",
+        "text_en": "Greed and punishment",
+        "text_ta": "Greed and punishment"
+      },
+      {
+        "key": "C",
+        "text_en": "The beauty of ocean life",
+        "text_ta": "The beauty of ocean life"
+      },
+      {
+        "key": "D",
+        "text_en": "Courage, family support, and overcoming fear",
+        "text_ta": "Courage, family support, and overcoming fear"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The theme highlights courage, family support, and overcoming fear to achieve self-reliance.",
+    "explanation_ta": "The theme highlights courage, family support, and overcoming fear to achieve self-reliance.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "R3: Theme: Courage, family support, and overcoming fear to achieve self-reliance."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "For how long had the young seagull fasted before taking his first flight?",
+    "question_ta": "For how long had the young seagull fasted before taking his first flight?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Six hours",
+        "text_ta": "Six hours"
+      },
+      {
+        "key": "B",
+        "text_en": "Forty-eight hours",
+        "text_ta": "Forty-eight hours"
+      },
+      {
+        "key": "C",
+        "text_en": "Twenty-four hours",
+        "text_ta": "Twenty-four hours"
+      },
+      {
+        "key": "D",
+        "text_en": "Twelve hours",
+        "text_ta": "Twelve hours"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The seagull had not eaten for twenty-four hours before his first flight.",
+    "explanation_ta": "The seagull had not eaten for twenty-four hours before his first flight.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "R4: Fact: The seagull had not eaten for twenty-four hours before his first flight."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the young seagull find in his search for food on the ledge?",
+    "question_ta": "What did the young seagull find in his search for food on the ledge?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A dried leaf",
+        "text_ta": "A dried leaf"
+      },
+      {
+        "key": "B",
+        "text_en": "A fresh piece of herring",
+        "text_ta": "A fresh piece of herring"
+      },
+      {
+        "key": "C",
+        "text_en": "An eggshell",
+        "text_ta": "An eggshell"
+      },
+      {
+        "key": "D",
+        "text_en": "A dried piece of mackerel's tail",
+        "text_ta": "A dried piece of mackerel's tail"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "He found a dried piece of mackerel's tail at the far end of the ledge.",
+    "explanation_ta": "He found a dried piece of mackerel's tail at the far end of the ledge.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "W1: What did the young seagull manage to find in his search for food on the ledge? => He found a dried piece of mackerel's tail..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the mother seagull use as bait to make the young seagull fly?",
+    "question_ta": "What did the mother seagull use as bait to make the young seagull fly?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A piece of fish",
+        "text_ta": "A piece of fish"
+      },
+      {
+        "key": "B",
+        "text_en": "A worm",
+        "text_ta": "A worm"
+      },
+      {
+        "key": "C",
+        "text_en": "A crab",
+        "text_ta": "A crab"
+      },
+      {
+        "key": "D",
+        "text_en": "A piece of bread",
+        "text_ta": "A piece of bread"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The mother used a piece of fish as a bait to make the young seagull fly.",
+    "explanation_ta": "The mother used a piece of fish as a bait to make the young seagull fly.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "R5: Fact: The mother used a piece of fish as a bait to make the young seagull fly."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did the parents threaten the young seagull if he refused to fly?",
+    "question_ta": "How did the parents threaten the young seagull if he refused to fly?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To never speak to him",
+        "text_ta": "To never speak to him"
+      },
+      {
+        "key": "B",
+        "text_en": "To abandon him on the island",
+        "text_ta": "To abandon him on the island"
+      },
+      {
+        "key": "C",
+        "text_en": "To push him off the cliff",
+        "text_ta": "To push him off the cliff"
+      },
+      {
+        "key": "D",
+        "text_en": "To starve him",
+        "text_ta": "To starve him"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The parents threatened to let him starve on his ledge if he didn't fly away.",
+    "explanation_ta": "The parents threatened to let him starve on his ledge if he didn't fly away.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "P10: The young sea gull's parents threaten him in such a way if he didn't flew away => to starve him"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who acted as the primary catalyst in forcing the young seagull to take his leap?",
+    "question_ta": "Who acted as the primary catalyst in forcing the young seagull to take his leap?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A passing albatross",
+        "text_ta": "A passing albatross"
+      },
+      {
+        "key": "B",
+        "text_en": "His siblings",
+        "text_ta": "His siblings"
+      },
+      {
+        "key": "C",
+        "text_en": "Mother seagull",
+        "text_ta": "Mother seagull"
+      },
+      {
+        "key": "D",
+        "text_en": "Father seagull",
+        "text_ta": "Father seagull"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mother Seagull served as the catalyst who used hunger to force her son to fly.",
+    "explanation_ta": "Mother Seagull served as the catalyst who used hunger to force her son to fly.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "C2: Mother Seagull — The catalyst who uses hunger to force her son to fly."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'Ledge' mean in the context of the story?",
+    "question_ta": "What does the term 'Ledge' mean in the context of the story?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A narrow shelf that juts out from a vertical surface",
+        "text_ta": "A narrow shelf that juts out from a vertical surface"
+      },
+      {
+        "key": "B",
+        "text_en": "A deep hole in the ground",
+        "text_ta": "A deep hole in the ground"
+      },
+      {
+        "key": "C",
+        "text_en": "A high mountain peak",
+        "text_ta": "A high mountain peak"
+      },
+      {
+        "key": "D",
+        "text_en": "A flat sandy beach",
+        "text_ta": "A flat sandy beach"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary defines 'ledge' as a narrow shelf that juts out from a vertical surface.",
+    "explanation_ta": "Glossary defines 'ledge' as a narrow shelf that juts out from a vertical surface.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "G1: Ledge = A narrow shelf that juts out from a vertical surface."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct meaning of the word 'Precipice' from the glossary.",
+    "question_ta": "Choose the correct meaning of the word 'Precipice' from the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A very steep side of a cliff or a mountain",
+        "text_ta": "A very steep side of a cliff or a mountain"
+      },
+      {
+        "key": "B",
+        "text_en": "A grassy plain",
+        "text_ta": "A grassy plain"
+      },
+      {
+        "key": "C",
+        "text_en": "A calm body of water",
+        "text_ta": "A calm body of water"
+      },
+      {
+        "key": "D",
+        "text_en": "A shallow cave",
+        "text_ta": "A shallow cave"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Precipice means a very steep side of a cliff or a mountain.",
+    "explanation_ta": "Precipice means a very steep side of a cliff or a mountain.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "G2: Precipice = A very steep side of a cliff or a mountain."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'Devour'?",
+    "question_ta": "What is the meaning of the word 'Devour'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To smell food from afar",
+        "text_ta": "To smell food from afar"
+      },
+      {
+        "key": "B",
+        "text_en": "To hide food away",
+        "text_ta": "To hide food away"
+      },
+      {
+        "key": "C",
+        "text_en": "To eat something eagerly and in large amounts",
+        "text_ta": "To eat something eagerly and in large amounts"
+      },
+      {
+        "key": "D",
+        "text_en": "To cook food slowly",
+        "text_ta": "To cook food slowly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Devour means to eat something eagerly and in large amounts.",
+    "explanation_ta": "Devour means to eat something eagerly and in large amounts.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "G3: Devour = To eat something eagerly and in large amounts."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'Preening' refer to in bird behavior?",
+    "question_ta": "What does 'Preening' refer to in bird behavior?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Building a nest",
+        "text_ta": "Building a nest"
+      },
+      {
+        "key": "B",
+        "text_en": "Stretching wings for flight",
+        "text_ta": "Stretching wings for flight"
+      },
+      {
+        "key": "C",
+        "text_en": "Cleaning feathers with a beak",
+        "text_ta": "Cleaning feathers with a beak"
+      },
+      {
+        "key": "D",
+        "text_en": "Searching for worms",
+        "text_ta": "Searching for worms"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Preening is cleaning feathers with a beak.",
+    "explanation_ta": "Preening is cleaning feathers with a beak.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "G4: Preening = Cleaning feathers with a beak."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'Whet'?",
+    "question_ta": "What is the meaning of the word 'Whet'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To frighten",
+        "text_ta": "To frighten"
+      },
+      {
+        "key": "B",
+        "text_en": "To sharpen",
+        "text_ta": "To sharpen"
+      },
+      {
+        "key": "C",
+        "text_en": "To wet",
+        "text_ta": "To wet"
+      },
+      {
+        "key": "D",
+        "text_en": "To weaken",
+        "text_ta": "To weaken"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Whet means to sharpen.",
+    "explanation_ta": "Whet means to sharpen.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "G5: Whet = To sharpen."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where did the young seagull finally land and float after his successful flight?",
+    "question_ta": "Where did the young seagull finally land and float after his successful flight?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "On the green sea",
+        "text_ta": "On the green sea"
+      },
+      {
+        "key": "B",
+        "text_en": "On another mountain peak",
+        "text_ta": "On another mountain peak"
+      },
+      {
+        "key": "C",
+        "text_en": "On the sandy beach",
+        "text_ta": "On the sandy beach"
+      },
+      {
+        "key": "D",
+        "text_en": "On his family's ledge",
+        "text_ta": "On his family's ledge"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "He landed and floated on the green sea, having finally achieved his first flight.",
+    "explanation_ta": "He landed and floated on the green sea, having finally achieved his first flight.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "He begins to soar, eventually landing and floating on the green sea..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What role did the young seagull's siblings play in the narrative?",
+    "question_ta": "What role did the young seagull's siblings play in the narrative?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They brought him food while he starved",
+        "text_ta": "They brought him food while he starved"
+      },
+      {
+        "key": "B",
+        "text_en": "They stayed behind on the ledge to comfort him",
+        "text_ta": "They stayed behind on the ledge to comfort him"
+      },
+      {
+        "key": "C",
+        "text_en": "They had already learned to fly and served as motivation",
+        "text_ta": "They had already learned to fly and served as motivation"
+      },
+      {
+        "key": "D",
+        "text_en": "They mocked him and pushed him off",
+        "text_ta": "They mocked him and pushed him off"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "His siblings had already taken their first flights and served as motivation for the protagonist.",
+    "explanation_ta": "His siblings had already taken their first flights and served as motivation for the protagonist.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "C4: Siblings — Have already learned to fly and serve as motivation for the protagonist."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What drove the young seagull mad just before he took his plunge?",
+    "question_ta": "What drove the young seagull mad just before he took his plunge?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The loud roaring of the ocean waves",
+        "text_ta": "The loud roaring of the ocean waves"
+      },
+      {
+        "key": "B",
+        "text_en": "The constant scolding of his father",
+        "text_ta": "The constant scolding of his father"
+      },
+      {
+        "key": "C",
+        "text_en": "The teasing of his brothers and sister",
+        "text_ta": "The teasing of his brothers and sister"
+      },
+      {
+        "key": "D",
+        "text_en": "The sight of his mother tearing at a piece of fish",
+        "text_ta": "The sight of his mother tearing at a piece of fish"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The sight of his mother tearing at a piece of fish maddened him with hunger.",
+    "explanation_ta": "The sight of his mother tearing at a piece of fish maddened him with hunger.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "W2: What prompted the young seagull to fly finally? => The sight of his mother flying across with a piece of fish..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What happened to the young seagull immediately after he dived towards the food?",
+    "question_ta": "What happened to the young seagull immediately after he dived towards the food?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He fell outwards and downwards, then his wings spread",
+        "text_ta": "He fell outwards and downwards, then his wings spread"
+      },
+      {
+        "key": "B",
+        "text_en": "He safely landed on another ledge",
+        "text_ta": "He safely landed on another ledge"
+      },
+      {
+        "key": "C",
+        "text_en": "He flew straight upwards into the clouds",
+        "text_ta": "He flew straight upwards into the clouds"
+      },
+      {
+        "key": "D",
+        "text_en": "He crashed straight into the sea",
+        "text_ta": "He crashed straight into the sea"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "He falls outwards and downwards but soon finds his wings spreading, triggering his instinct.",
+    "explanation_ta": "He falls outwards and downwards but soon finds his wings spreading, triggering his instinct.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "As she flies near him with food, she halts, forcing him to dive to reach it. This desperate plunge triggers his instinct; he falls outwards and downwards..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What character trait does the father seagull display in the story?",
+    "question_ta": "What character trait does the father seagull display in the story?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ignoring the young seagull completely",
+        "text_ta": "Ignoring the young seagull completely"
+      },
+      {
+        "key": "B",
+        "text_en": "Encouraging the son through calling and scolding",
+        "text_ta": "Encouraging the son through calling and scolding"
+      },
+      {
+        "key": "C",
+        "text_en": "Feeding the seagull in secret",
+        "text_ta": "Feeding the seagull in secret"
+      },
+      {
+        "key": "D",
+        "text_en": "Leaving the family nest out of anger",
+        "text_ta": "Leaving the family nest out of anger"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Father Seagull encourages the son through calling and scolding.",
+    "explanation_ta": "Father Seagull encourages the son through calling and scolding.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "C3: Father Seagull — Encourages the son through calling and scolding."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the young seagull fear the most when looking at the sea?",
+    "question_ta": "What did the young seagull fear the most when looking at the sea?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The cold temperature of the water",
+        "text_ta": "The cold temperature of the water"
+      },
+      {
+        "key": "B",
+        "text_en": "The great expanse of the sea",
+        "text_ta": "The great expanse of the sea"
+      },
+      {
+        "key": "C",
+        "text_en": "The lack of fish in the water",
+        "text_ta": "The lack of fish in the water"
+      },
+      {
+        "key": "D",
+        "text_en": "The presence of predatory sharks",
+        "text_ta": "The presence of predatory sharks"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The young seagull was afraid to fly, fearing the great expanse of the sea.",
+    "explanation_ta": "The young seagull was afraid to fly, fearing the great expanse of the sea.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "The young seagull is afraid to fly, fearing the great expanse of the sea."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What lesson does the narrative primarily highlight regarding success?",
+    "question_ta": "What lesson does the narrative primarily highlight regarding success?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The importance of waiting for others to help",
+        "text_ta": "The importance of waiting for others to help"
+      },
+      {
+        "key": "B",
+        "text_en": "The danger of taking risks",
+        "text_ta": "The danger of taking risks"
+      },
+      {
+        "key": "C",
+        "text_en": "The necessity of stepping out of one's comfort zone",
+        "text_ta": "The necessity of stepping out of one's comfort zone"
+      },
+      {
+        "key": "D",
+        "text_en": "The benefit of staying safe on land",
+        "text_ta": "The benefit of staying safe on land"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The narrative highlights the importance of courage and the necessity of stepping out of one's comfort zone to succeed.",
+    "explanation_ta": "The narrative highlights the importance of courage and the necessity of stepping out of one's comfort zone to succeed.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "The narrative highlights the importance of courage and the necessity of stepping out of one's comfort zone to succeed."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did the young seagull feel after he successfully began to soar in the sky?",
+    "question_ta": "How did the young seagull feel after he successfully began to soar in the sky?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Triumphant in discovering his own potential",
+        "text_ta": "Triumphant in discovering his own potential"
+      },
+      {
+        "key": "B",
+        "text_en": "Regretful for leaving the ledge",
+        "text_ta": "Regretful for leaving the ledge"
+      },
+      {
+        "key": "C",
+        "text_en": "Terrified and eager to land immediately",
+        "text_ta": "Terrified and eager to land immediately"
+      },
+      {
+        "key": "D",
+        "text_en": "Angry at his mother for tricking him",
+        "text_ta": "Angry at his mother for tricking him"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "His leap transitions into a triumphant discovery of his own potential.",
+    "explanation_ta": "His leap transitions into a triumphant discovery of his own potential.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "...which transitions into a triumphant discovery of his own potential."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the mother seagull do when she flew near him with food during her flight?",
+    "question_ta": "What did the mother seagull do when she flew near him with food during her flight?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "She flew away and ignored him",
+        "text_ta": "She flew away and ignored him"
+      },
+      {
+        "key": "B",
+        "text_en": "She halted in the air",
+        "text_ta": "She halted in the air"
+      },
+      {
+        "key": "C",
+        "text_en": "She ate the fish herself",
+        "text_ta": "She ate the fish herself"
+      },
+      {
+        "key": "D",
+        "text_en": "She dropped the fish onto the ledge",
+        "text_ta": "She dropped the fish onto the ledge"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "As she flies near him with food, she halts, forcing him to dive to reach it.",
+    "explanation_ta": "As she flies near him with food, she halts, forcing him to dive to reach it.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "As she flies near him with food, she halts, forcing him to dive to reach it."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "His First Flight",
+    "topic": "His First Flight",
+    "topic_id": "his_first_flight",
+    "topic_ta": "His First Flight",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the immediate physical result when the desperate plunge was triggered?",
+    "question_ta": "What was the immediate physical result when the desperate plunge was triggered?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "His wings spread outwards and downwards",
+        "text_ta": "His wings spread outwards and downwards"
+      },
+      {
+        "key": "B",
+        "text_en": "He broke his wings against the rocks",
+        "text_ta": "He broke his wings against the rocks"
+      },
+      {
+        "key": "C",
+        "text_en": "His wings got cramped",
+        "text_ta": "His wings got cramped"
+      },
+      {
+        "key": "D",
+        "text_en": "He lost all consciousness",
+        "text_ta": "He lost all consciousness"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "This desperate plunge triggers his instinct; he falls outwards and downwards but soon finds his wings spreading.",
+    "explanation_ta": "This desperate plunge triggers his instinct; he falls outwards and downwards but soon finds his wings spreading.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "his_first_flight",
+    "source_note": "This desperate plunge triggers his instinct; he falls outwards and downwards but soon finds his wings spreading."
+  }
+]

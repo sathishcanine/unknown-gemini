@@ -1,0 +1,15 @@
+{
+  "verdict": "PASS",
+  "score_10": 10,
+  "answer_dist": {
+    "A": 6,
+    "B": 7,
+    "C": 5,
+    "D": 7
+  },
+  "ui_giveaways": [],
+  "bad_options": [],
+  "wrong_answers": [],
+  "one_line": "The 25-question set is completely accurate, well-distributed across options, and directly aligned with the provided text and TNPSC auditing standards.",
+  "remaining_nits": []
+}

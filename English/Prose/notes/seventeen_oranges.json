@@ -1,0 +1,127 @@
+{
+  "prose_id": "seventeen_oranges",
+  "prose_title": "Seventeen Oranges",
+  "author": "Bill Naughton",
+  "num": 11,
+  "pdf_pages": [
+    283,
+    296
+  ],
+  "prose_text_en": "The narrator, a dock worker, was fond of oranges. Caught by a policeman named Pongo with seventeen oranges in his pockets, he was locked in a cabin to await a witness for his theft. Fearing prison and job loss, the narrator followed an internal voice's advice to 'eat the evidence.' He quickly consumed all seventeen oranges, including peels and pips. When Pongo returned with a witness, the oranges had vanished. Unable to produce evidence, Pongo was forced to release him.",
+  "summary_en": "Seventeen Oranges by Bill Naughton follows a dock worker who is apprehended by a policeman, Pongo, for stealing seventeen oranges. To avoid prosecution, the narrator consumes all the oranges, including peels and pips, while locked in a cabin before the authorities return. The story highlights the narrator's resourcefulness in a desperate situation, resulting in his escape from punishment due to a lack of evidence.",
+  "characters": [
+    {
+      "name_en": "Narrator",
+      "role_en": "A dock worker for the Swift Delivery Company who is fond of oranges."
+    },
+    {
+      "name_en": "Pongo",
+      "role_en": "A policeman at the docks who attempts to catch workers stealing goods."
+    },
+    {
+      "name_en": "Clem Jones",
+      "role_en": "A fellow dock worker described as a 'careful planner' who steals items from the docks."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Docks",
+      "meaning_en": "An enclosed area of water in a port for loading, unloading, and repair of ships."
+    },
+    {
+      "word_en": "Apron",
+      "meaning_en": "A protective garment worn over the front of clothes."
+    },
+    {
+      "word_en": "Red-handed",
+      "meaning_en": "Discovered in the act of doing something wrong."
+    },
+    {
+      "word_en": "Concealed",
+      "meaning_en": "Kept secret or hidden."
+    },
+    {
+      "word_en": "Blabbing",
+      "meaning_en": "To reveal secrets indiscreetly and thoughtlessly."
+    },
+    {
+      "word_en": "Pips",
+      "meaning_en": "Small hard seeds in a fruit."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Bill Naughton (1910-1992), Irish-born British playwright known for 'Alfie'.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "The narrator was caught because his apron string broke, revealing bulging pockets.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "The story emphasizes the strategy of saying nothing to avoid incriminating oneself.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Oranges were first grown in India and spread globally.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The narrator was very fond of:",
+      "answer_en": "c) eating oranges.",
+      "options_en": [
+        "a) reading detective stories",
+        "b) driving a pony-and-cart",
+        "c) eating oranges",
+        "d) munching away at something"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The narrator was searched by the policeman, because:",
+      "answer_en": "d) his pockets were bulging.",
+      "options_en": [
+        "a) the oranges could be smelt",
+        "b) he was singing songs",
+        "c) he was carrying a box",
+        "d) his pockets were bulging"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The narrator kept his mouth shut when questioned by Pongo, because:",
+      "answer_en": "a) anything said would be held as evidence against him.",
+      "options_en": [
+        "a) anything said would be held as evidence against him",
+        "b) the oranges would fall out",
+        "c) he did not steal the oranges",
+        "d) he was scared of Pongo"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The voice in the narrator’s head advised him to:",
+      "answer_en": "b) eat all the oranges.",
+      "options_en": [
+        "a) confess the truth to Pongo",
+        "b) eat all the oranges",
+        "c) deny his guilt",
+        "d) hide all the oranges"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Pongo found no trace of the oranges on the table, because:",
+      "answer_en": "c) the narrator had eaten them all.",
+      "options_en": [
+        "a) Pongo’s mate had stolen them",
+        "b) all the oranges were sold",
+        "c) the narrator had eaten them all",
+        "d) they disappeared mysteriously"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

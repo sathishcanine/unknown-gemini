@@ -1,0 +1,691 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "singular_plural",
+  "sources": [
+    "Vetrii Vocabulary pp.[150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164] (primary, vision)",
+    "Grammer.pdf pp.[387, 389] (secondary)",
+    "Govt Notes pp.[100, 101] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Replace 'is' with 'es' for certain nouns.",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "rule_en": "Replace 'um' with 'a' for certain nouns.",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "rule_en": "Replace 'us' with 'i' for certain nouns.",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "rule_en": "Change the internal vowels of the noun.",
+      "sp_tag": "irregular",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "rule_en": "Add 's' to the first word in hyphenated nouns.",
+      "sp_tag": "compound",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "rule_en": "Nouns that have the same form for both singular and plural.",
+      "sp_tag": "zero",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "rule_en": "Change the singular nouns to plurals by adding 's'",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "Change the singular nouns to plurals by adding 'ies'",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "Change the singular nouns to plurals by adding 'es'",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "Change the singular nouns to plurals by adding 'ves'",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "Some nouns retain the same form in the singular and plural.",
+      "sp_tag": "zero",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "rule_en": "Most compound nouns form their plural with an addition of ‘s’.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "rule_en": "In some compound nouns, the plural is formed by adding 's' to the first part of the compound word.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "rule_en": "In some compound nouns, the plural is formed by converting both the parts in the compound word.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "rule_en": "Some nouns are always plural and have no singular forms.",
+      "sp_tag": "always_plural",
+      "source": "govt",
+      "source_page": 101
+    }
+  ],
+  "examples": [
+    {
+      "singular_en": "bicycle",
+      "plural_en": "bicycles",
+      "note_en": "Derived from cycle in Exercise 5, Q2.",
+      "sp_tag": "regular",
+      "source": "vetrii",
+      "source_page": 160
+    },
+    {
+      "singular_en": "handful",
+      "plural_en": "handfuls",
+      "note_en": "Derived from hand in Exercise 5, Q3.",
+      "sp_tag": "regular",
+      "source": "vetrii",
+      "source_page": 160
+    },
+    {
+      "singular_en": "hypothesis",
+      "plural_en": "hypotheses",
+      "note_en": "is changes to es",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "oasis",
+      "plural_en": "oases",
+      "note_en": "is changes to es",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "crisis",
+      "plural_en": "crises",
+      "note_en": "is changes to es",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "bacterium",
+      "plural_en": "bacteria",
+      "note_en": "um changes to a",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "medium",
+      "plural_en": "media",
+      "note_en": "um changes to a",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "curriculum",
+      "plural_en": "curricula",
+      "note_en": "um changes to a",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "cactus",
+      "plural_en": "cacti",
+      "note_en": "us changes to i",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "fungus",
+      "plural_en": "fungi",
+      "note_en": "us changes to i",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "syllabus",
+      "plural_en": "syllabi",
+      "note_en": "us changes to i",
+      "sp_tag": "foreign",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "man",
+      "plural_en": "men",
+      "note_en": "vowel change",
+      "sp_tag": "irregular",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "foot",
+      "plural_en": "feet",
+      "note_en": "vowel change",
+      "sp_tag": "irregular",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "tooth",
+      "plural_en": "teeth",
+      "note_en": "vowel change",
+      "sp_tag": "irregular",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "goose",
+      "plural_en": "geese",
+      "note_en": "vowel change",
+      "sp_tag": "irregular",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "passer-by",
+      "plural_en": "passers-by",
+      "note_en": "pluralize first word",
+      "sp_tag": "compound",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "sister-in-law",
+      "plural_en": "sisters-in-law",
+      "note_en": "pluralize first word",
+      "sp_tag": "compound",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "brother-in-law",
+      "plural_en": "brothers-in-law",
+      "note_en": "pluralize first word",
+      "sp_tag": "compound",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "runner-up",
+      "plural_en": "runners-up",
+      "note_en": "pluralize first word",
+      "sp_tag": "compound",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "deer",
+      "plural_en": "deer",
+      "note_en": "same form",
+      "sp_tag": "zero",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "fish",
+      "plural_en": "fish",
+      "note_en": "same form",
+      "sp_tag": "zero",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "hair",
+      "plural_en": "hair",
+      "note_en": "same form",
+      "sp_tag": "zero",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "furniture",
+      "plural_en": "furniture",
+      "note_en": "same form",
+      "sp_tag": "zero",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "luggage",
+      "plural_en": "luggage",
+      "note_en": "same form",
+      "sp_tag": "zero",
+      "source": "grammer",
+      "source_page": 387
+    },
+    {
+      "singular_en": "leaf",
+      "plural_en": "leaves",
+      "note_en": "ends in ves",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "lorry",
+      "plural_en": "lorries",
+      "note_en": "ends in ies",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "bat",
+      "plural_en": "bats",
+      "note_en": "ends in s",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "clock",
+      "plural_en": "clocks",
+      "note_en": "ends in s",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "table",
+      "plural_en": "tables",
+      "note_en": "ends in s",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "lamp",
+      "plural_en": "lamps",
+      "note_en": "ends in s",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "doll",
+      "plural_en": "dolls",
+      "note_en": "ends in s",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "biscuit",
+      "plural_en": "biscuits",
+      "note_en": "ends in s",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "knife",
+      "plural_en": "knives",
+      "note_en": "ends in ves",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "loaf",
+      "plural_en": "loaves",
+      "note_en": "ends in ves",
+      "sp_tag": "regular",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "singular_en": "axis",
+      "plural_en": "axes",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "focus",
+      "plural_en": "foci",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "terminus",
+      "plural_en": "termini, terminuses",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "memorandum",
+      "plural_en": "memoranda",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "stratum",
+      "plural_en": "strata",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "aquarium",
+      "plural_en": "aquaria",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "alumna",
+      "plural_en": "alumnae",
+      "note_en": "feminine",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "alumnus",
+      "plural_en": "alumni",
+      "note_en": "masculine",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "analysis",
+      "plural_en": "analyses",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "criterion",
+      "plural_en": "criteria",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "erratum",
+      "plural_en": "errata",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "sheep",
+      "plural_en": "sheep",
+      "note_en": "",
+      "sp_tag": "zero",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "scenery",
+      "plural_en": "scenery",
+      "note_en": "",
+      "sp_tag": "other",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "stationery",
+      "plural_en": "stationery",
+      "note_en": "",
+      "sp_tag": "other",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "swine",
+      "plural_en": "swine",
+      "note_en": "",
+      "sp_tag": "zero",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "information",
+      "plural_en": "information",
+      "note_en": "",
+      "sp_tag": "other",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "news",
+      "plural_en": "news",
+      "note_en": "",
+      "sp_tag": "other",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "index",
+      "plural_en": "indices",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "vertex",
+      "plural_en": "vertices",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "phenomenon",
+      "plural_en": "phenomena",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "formula",
+      "plural_en": "formulae",
+      "note_en": "",
+      "sp_tag": "foreign",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "aircraft",
+      "plural_en": "aircraft",
+      "note_en": "",
+      "sp_tag": "zero",
+      "source": "govt",
+      "source_page": 100
+    },
+    {
+      "singular_en": "dining room",
+      "plural_en": "dining rooms",
+      "note_en": "Plural added to the last word.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "grown-up",
+      "plural_en": "grown-ups",
+      "note_en": "Plural added to the last word.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "spoonful",
+      "plural_en": "spoonfuls",
+      "note_en": "Plural added to the last word.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "daughter-in-law",
+      "plural_en": "daughters-in-law",
+      "note_en": "Plural added to the first part.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "governor-general",
+      "plural_en": "governors-general",
+      "note_en": "Plural added to the first part.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "man servant",
+      "plural_en": "men servants",
+      "note_en": "Both parts converted to plural.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "woman student",
+      "plural_en": "women students",
+      "note_en": "Both parts converted to plural.",
+      "sp_tag": "compound",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "N/A",
+      "plural_en": "spectacles",
+      "note_en": "Always plural.",
+      "sp_tag": "always_plural",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "N/A",
+      "plural_en": "scissors",
+      "note_en": "Always plural.",
+      "sp_tag": "always_plural",
+      "source": "govt",
+      "source_page": 101
+    },
+    {
+      "singular_en": "N/A",
+      "plural_en": "trousers",
+      "note_en": "Always plural.",
+      "sp_tag": "always_plural",
+      "source": "govt",
+      "source_page": 101
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Write the plural for: 1. food 2. radius 3. governor-general 4. syllabus 5. datum 6. commander-in-chief 7. thesis 8. forum 9. cattle 10. genius",
+      "answer_en": "1. foods 2. radii 3. governors-general 4. syllabi 5. data 6. commanders-in-chief 7. theses 8. fora/forums 9. cattle 10. geniuses",
+      "options_en": [],
+      "sp_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 387
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 15,
+      "examples": 66,
+      "worked_exercises": 1
+    },
+    "by_sp_tag": {
+      "other": {
+        "rules": 3,
+        "examples": 4,
+        "worked": 0
+      },
+      "irregular": {
+        "rules": 1,
+        "examples": 4,
+        "worked": 0
+      },
+      "compound": {
+        "rules": 4,
+        "examples": 11,
+        "worked": 0
+      },
+      "zero": {
+        "rules": 2,
+        "examples": 8,
+        "worked": 0
+      },
+      "regular": {
+        "rules": 4,
+        "examples": 12,
+        "worked": 0
+      },
+      "always_plural": {
+        "rules": 1,
+        "examples": 3,
+        "worked": 0
+      },
+      "foreign": {
+        "rules": 0,
+        "examples": 24,
+        "worked": 0
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 1
+      }
+    }
+  }
+}

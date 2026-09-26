@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Jim Corbett's primary motivation for hunting man-eating tigers and leopards?",
+    "question_ta": "What was Jim Corbett's primary motivation for hunting man-eating tigers and leopards?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To establish his fame as a great tracker",
+        "text_ta": "To establish his fame as a great tracker"
+      },
+      {
+        "key": "B",
+        "text_en": "To collect trophies for his collection",
+        "text_ta": "To collect trophies for his collection"
+      },
+      {
+        "key": "C",
+        "text_en": "To protect villagers at the government's request",
+        "text_ta": "To protect villagers at the government's request"
+      },
+      {
+        "key": "D",
+        "text_en": "To explore the deep forests of India",
+        "text_ta": "To explore the deep forests of India"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Jim Corbett hunted man-eating animals exclusively to save human lives and protect villagers at the request of the government.",
+    "explanation_ta": "Jim Corbett hunted man-eating animals exclusively to save human lives and protect villagers at the request of the government.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Ground Truth / R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to Jim Corbett's theory, what usually causes tigers to turn into man-eaters?",
+    "question_ta": "According to Jim Corbett's theory, what usually causes tigers to turn into man-eaters?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Lack of water sources in the deep jungle",
+        "text_ta": "Lack of water sources in the deep jungle"
+      },
+      {
+        "key": "B",
+        "text_en": "Extreme hunger caused by injuries or old age",
+        "text_ta": "Extreme hunger caused by injuries or old age"
+      },
+      {
+        "key": "C",
+        "text_en": "Natural aggression and territorial disputes",
+        "text_ta": "Natural aggression and territorial disputes"
+      },
+      {
+        "key": "D",
+        "text_en": "Encouragement by other predatory species",
+        "text_ta": "Encouragement by other predatory species"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Corbett theorized that tigers turn to man-eating when injuries or old age prevent them from catching their natural prey.",
+    "explanation_ta": "Corbett theorized that tigers turn to man-eating when injuries or old age prevent them from catching their natural prey.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which was the first major man-eater hunted by Jim Corbett?",
+    "question_ta": "Which was the first major man-eater hunted by Jim Corbett?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Rudraprayag Leopard",
+        "text_ta": "The Rudraprayag Leopard"
+      },
+      {
+        "key": "B",
+        "text_en": "The Champawat Tiger",
+        "text_ta": "The Champawat Tiger"
+      },
+      {
+        "key": "C",
+        "text_en": "The Chowgarh Tigers",
+        "text_ta": "The Chowgarh Tigers"
+      },
+      {
+        "key": "D",
+        "text_en": "The Bachelor of Powalgarh",
+        "text_ta": "The Bachelor of Powalgarh"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Champawat Tiger was Jim Corbett's first major hunt, recorded as a tigress responsible for 436 human fatalities.",
+    "explanation_ta": "The Champawat Tiger was Jim Corbett's first major hunt, recorded as a tigress responsible for 436 human fatalities.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Prose Excerpts / W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How many human fatalities were officially attributed to the Champawat Tiger?",
+    "question_ta": "How many human fatalities were officially attributed to the Champawat Tiger?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "436",
+        "text_ta": "436"
+      },
+      {
+        "key": "B",
+        "text_en": "536",
+        "text_ta": "536"
+      },
+      {
+        "key": "C",
+        "text_en": "336",
+        "text_ta": "336"
+      },
+      {
+        "key": "D",
+        "text_en": "236",
+        "text_ta": "236"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The Champawat Tiger holds a record in the Guinness Book of World Records for being responsible for 436 human deaths.",
+    "explanation_ta": "The Champawat Tiger holds a record in the Guinness Book of World Records for being responsible for 436 human deaths.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What physical defect did Jim Corbett discover upon examining the dead Champawat Tiger?",
+    "question_ta": "What physical defect did Jim Corbett discover upon examining the dead Champawat Tiger?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A severely injured left paw",
+        "text_ta": "A severely injured left paw"
+      },
+      {
+        "key": "B",
+        "text_en": "Broken canine teeth due to an old gunshot",
+        "text_ta": "Broken canine teeth due to an old gunshot"
+      },
+      {
+        "key": "C",
+        "text_en": "Blindness in both eyes",
+        "text_ta": "Blindness in both eyes"
+      },
+      {
+        "key": "D",
+        "text_en": "Missing claws on its forelimbs",
+        "text_ta": "Missing claws on its forelimbs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Corbett found that the tigress's canine teeth were broken from an old gunshot, which validated his injury-induced man-eating theory.",
+    "explanation_ta": "Corbett found that the tigress's canine teeth were broken from an old gunshot, which validated his injury-induced man-eating theory.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where was the Champawat Tiger shot dead by Jim Corbett?",
+    "question_ta": "Where was the Champawat Tiger shot dead by Jim Corbett?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "By the banks of the Ramganga river",
+        "text_ta": "By the banks of the Ramganga river"
+      },
+      {
+        "key": "B",
+        "text_en": "Near the Kumaon foothills",
+        "text_ta": "Near the Kumaon foothills"
+      },
+      {
+        "key": "C",
+        "text_en": "Close to the Hailey National Park",
+        "text_ta": "Close to the Hailey National Park"
+      },
+      {
+        "key": "D",
+        "text_en": "Near the Chataar Bridge",
+        "text_ta": "Near the Chataar Bridge"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Jim Corbett successfully shot and killed the Champawat tigress near the Chataar Bridge.",
+    "explanation_ta": "Jim Corbett successfully shot and killed the Champawat tigress near the Chataar Bridge.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was India's first national park initially named when it was established?",
+    "question_ta": "What was India's first national park initially named when it was established?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kaziranga National Park",
+        "text_ta": "Kaziranga National Park"
+      },
+      {
+        "key": "B",
+        "text_en": "Kumaon Wildlife Sanctuary",
+        "text_ta": "Kumaon Wildlife Sanctuary"
+      },
+      {
+        "key": "C",
+        "text_en": "Hailey National Park",
+        "text_ta": "Hailey National Park"
+      },
+      {
+        "key": "D",
+        "text_en": "Jim Corbett National Park",
+        "text_ta": "Jim Corbett National Park"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "India's first national park was initially established in the 1930s under the name Hailey National Park.",
+    "explanation_ta": "India's first national park was initially established in the 1930s under the name Hailey National Park.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In which year was Hailey National Park renamed as Jim Corbett National Park?",
+    "question_ta": "In which year was Hailey National Park renamed as Jim Corbett National Park?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1955",
+        "text_ta": "1955"
+      },
+      {
+        "key": "B",
+        "text_en": "1957",
+        "text_ta": "1957"
+      },
+      {
+        "key": "C",
+        "text_en": "1950",
+        "text_ta": "1950"
+      },
+      {
+        "key": "D",
+        "text_en": "1947",
+        "text_ta": "1947"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The national park was renamed Jim Corbett National Park in 1957 to honor his immense contribution to wildlife conservation.",
+    "explanation_ta": "The national park was renamed Jim Corbett National Park in 1957 to honor his immense contribution to wildlife conservation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "W5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to Jim Corbett, what are the primary causes of wild animal mischief in forests?",
+    "question_ta": "According to Jim Corbett, what are the primary causes of wild animal mischief in forests?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Overpopulation of tigers in the wild",
+        "text_ta": "Overpopulation of tigers in the wild"
+      },
+      {
+        "key": "B",
+        "text_en": "Deforestation and human encroachment",
+        "text_ta": "Deforestation and human encroachment"
+      },
+      {
+        "key": "C",
+        "text_en": "Lack of governmental protection",
+        "text_ta": "Lack of governmental protection"
+      },
+      {
+        "key": "D",
+        "text_en": "Climatic changes and heavy rainfall",
+        "text_ta": "Climatic changes and heavy rainfall"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Corbett strongly advocated against deforestation and human encroachment, viewing them as the main causes leading to wild animal conflicts.",
+    "explanation_ta": "Corbett strongly advocated against deforestation and human encroachment, viewing them as the main causes leading to wild animal conflicts.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When did Jim Corbett pass away?",
+    "question_ta": "When did Jim Corbett pass away?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "19 April 1955",
+        "text_ta": "19 April 1955"
+      },
+      {
+        "key": "B",
+        "text_en": "15 August 1947",
+        "text_ta": "15 August 1947"
+      },
+      {
+        "key": "C",
+        "text_en": "10 November 1957",
+        "text_ta": "10 November 1957"
+      },
+      {
+        "key": "D",
+        "text_en": "26 January 1950",
+        "text_ta": "26 January 1950"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Jim Corbett died on 19 April 1955, leaving behind a legacy of wildlife preservation and environmentalism.",
+    "explanation_ta": "Jim Corbett died on 19 April 1955, leaving behind a legacy of wildlife preservation and environmentalism.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary word 'Hesitate' mean?",
+    "question_ta": "What does the glossary word 'Hesitate' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To run quickly without stopping",
+        "text_ta": "To run quickly without stopping"
+      },
+      {
+        "key": "B",
+        "text_en": "To speak in a loud, commanding voice",
+        "text_ta": "To speak in a loud, commanding voice"
+      },
+      {
+        "key": "C",
+        "text_en": "To decide with absolute certainty",
+        "text_ta": "To decide with absolute certainty"
+      },
+      {
+        "key": "D",
+        "text_en": "To pause before saying or doing something",
+        "text_ta": "To pause before saying or doing something"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the glossary provided in the textbook, 'Hesitate' means to pause before saying or doing something.",
+    "explanation_ta": "According to the glossary provided in the textbook, 'Hesitate' means to pause before saying or doing something.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct meaning of the word 'Fatalities' as given in the glossary.",
+    "question_ta": "Choose the correct meaning of the word 'Fatalities' as given in the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Natural causes of animal illness",
+        "text_ta": "Natural causes of animal illness"
+      },
+      {
+        "key": "B",
+        "text_en": "Serious injuries sustained during hunting",
+        "text_ta": "Serious injuries sustained during hunting"
+      },
+      {
+        "key": "C",
+        "text_en": "An occurrence of death by accident or disaster",
+        "text_ta": "An occurrence of death by accident or disaster"
+      },
+      {
+        "key": "D",
+        "text_en": "Successful rescues from wild animals",
+        "text_ta": "Successful rescues from wild animals"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary defines 'Fatalities' as an occurrence of death by accident or disaster.",
+    "explanation_ta": "The glossary defines 'Fatalities' as an occurrence of death by accident or disaster.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'Restricted' according to the lesson's glossary?",
+    "question_ta": "What is the meaning of the word 'Restricted' according to the lesson's glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Limited extent",
+        "text_ta": "Limited extent"
+      },
+      {
+        "key": "B",
+        "text_en": "Freely accessible",
+        "text_ta": "Freely accessible"
+      },
+      {
+        "key": "C",
+        "text_en": "Completely open",
+        "text_ta": "Completely open"
+      },
+      {
+        "key": "D",
+        "text_en": "Spread out widely",
+        "text_ta": "Spread out widely"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The glossary specifies that 'Restricted' means of a limited extent.",
+    "explanation_ta": "The glossary specifies that 'Restricted' means of a limited extent.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the meaning of the word 'Pursuit' from the glossary.",
+    "question_ta": "Identify the meaning of the word 'Pursuit' from the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Abandonment",
+        "text_ta": "Abandonment"
+      },
+      {
+        "key": "B",
+        "text_en": "Escape",
+        "text_ta": "Escape"
+      },
+      {
+        "key": "C",
+        "text_en": "Search",
+        "text_ta": "Search"
+      },
+      {
+        "key": "D",
+        "text_en": "Shelter",
+        "text_ta": "Shelter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In the lesson's glossary, 'Pursuit' is defined as a search.",
+    "explanation_ta": "In the lesson's glossary, 'Pursuit' is defined as a search.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'Encroachment' mean in the context of wildlife conservation?",
+    "question_ta": "What does the term 'Encroachment' mean in the context of wildlife conservation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To plant new trees in barren lands",
+        "text_ta": "To plant new trees in barren lands"
+      },
+      {
+        "key": "B",
+        "text_en": "To protect natural habitats",
+        "text_ta": "To protect natural habitats"
+      },
+      {
+        "key": "C",
+        "text_en": "To advance beyond usual limits",
+        "text_ta": "To advance beyond usual limits"
+      },
+      {
+        "key": "D",
+        "text_en": "To migrate along traditional routes",
+        "text_ta": "To migrate along traditional routes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary defines 'Encroachment' as the act of advancing beyond usual limits, such as human settlement into forests.",
+    "explanation_ta": "The glossary defines 'Encroachment' as the act of advancing beyond usual limits, such as human settlement into forests.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of 'Preservation' as per the lesson vocabulary?",
+    "question_ta": "What is the meaning of 'Preservation' as per the lesson vocabulary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Destruction",
+        "text_ta": "Destruction"
+      },
+      {
+        "key": "B",
+        "text_en": "Neglect",
+        "text_ta": "Neglect"
+      },
+      {
+        "key": "C",
+        "text_en": "Exploitation",
+        "text_ta": "Exploitation"
+      },
+      {
+        "key": "D",
+        "text_en": "Protection",
+        "text_ta": "Protection"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The glossary defines 'Preservation' as protection.",
+    "explanation_ta": "The glossary defines 'Preservation' as protection.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "G6"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is Robin in the context of Jim Corbett's life and works?",
+    "question_ta": "Who is Robin in the context of Jim Corbett's life and works?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The British Governor who named the park",
+        "text_ta": "The British Governor who named the park"
+      },
+      {
+        "key": "B",
+        "text_en": "Jim Corbett's trusted hunting dog",
+        "text_ta": "Jim Corbett's trusted hunting dog"
+      },
+      {
+        "key": "C",
+        "text_en": "A fellow naturalist and companion",
+        "text_ta": "A fellow naturalist and companion"
+      },
+      {
+        "key": "D",
+        "text_en": "A village headman who sought help",
+        "text_ta": "A village headman who sought help"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Robin is identified in the character bank as Jim Corbett's loyal dog.",
+    "explanation_ta": "Robin is identified in the character bank as Jim Corbett's loyal dog.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Character Bank / C2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Lord Malcolm Hailey is associated with which milestone mentioned in the lesson?",
+    "question_ta": "Lord Malcolm Hailey is associated with which milestone mentioned in the lesson?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The hunting of the Champawat Tiger",
+        "text_ta": "The hunting of the Champawat Tiger"
+      },
+      {
+        "key": "B",
+        "text_en": "The establishment of Hailey National Park",
+        "text_ta": "The establishment of Hailey National Park"
+      },
+      {
+        "key": "C",
+        "text_en": "The writing of the Guinness World Records entry",
+        "text_ta": "The writing of the Guinness World Records entry"
+      },
+      {
+        "key": "D",
+        "text_en": "The creation of the anti-deforestation laws",
+        "text_ta": "The creation of the anti-deforestation laws"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hailey National Park was initially named after Lord Malcolm Hailey before being renamed Jim Corbett National Park.",
+    "explanation_ta": "Hailey National Park was initially named after Lord Malcolm Hailey before being renamed Jim Corbett National Park.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Character Bank / C4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Jim Corbett transition his career over time?",
+    "question_ta": "How did Jim Corbett transition his career over time?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "From a British officer to a wildlife photographer",
+        "text_ta": "From a British officer to a wildlife photographer"
+      },
+      {
+        "key": "B",
+        "text_en": "From a soldier to a commercial timber merchant",
+        "text_ta": "From a soldier to a commercial timber merchant"
+      },
+      {
+        "key": "C",
+        "text_en": "From a village tracker to a government official",
+        "text_ta": "From a village tracker to a government official"
+      },
+      {
+        "key": "D",
+        "text_en": "From a hunter to a dedicated naturalist and conservationist",
+        "text_ta": "From a hunter to a dedicated naturalist and conservationist"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Jim Corbett transformed from a renowned hunter into a dedicated naturalist and wildlife conservationist.",
+    "explanation_ta": "Jim Corbett transformed from a renowned hunter into a dedicated naturalist and wildlife conservationist.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Summary / C1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What book officially recorded the high death toll caused by the Champawat Tiger?",
+    "question_ta": "What book officially recorded the high death toll caused by the Champawat Tiger?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Guinness Book of World Records",
+        "text_ta": "The Guinness Book of World Records"
+      },
+      {
+        "key": "B",
+        "text_en": "The Jungle Book",
+        "text_ta": "The Jungle Book"
+      },
+      {
+        "key": "C",
+        "text_en": "Wild Animals of India",
+        "text_ta": "Wild Animals of India"
+      },
+      {
+        "key": "D",
+        "text_en": "Man-Eaters of Kumaon",
+        "text_ta": "Man-Eaters of Kumaon"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The 436 fatalities caused by the Champawat Tiger are confirmed and listed in the Guinness Book of World Records.",
+    "explanation_ta": "The 436 fatalities caused by the Champawat Tiger are confirmed and listed in the Guinness Book of World Records.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Prose Excerpts / R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Jim Corbett's nationality as noted in his biographical details?",
+    "question_ta": "What was Jim Corbett's nationality as noted in his biographical details?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "British",
+        "text_ta": "British"
+      },
+      {
+        "key": "B",
+        "text_en": "Australian",
+        "text_ta": "Australian"
+      },
+      {
+        "key": "C",
+        "text_en": "American",
+        "text_ta": "American"
+      },
+      {
+        "key": "D",
+        "text_en": "Canadian",
+        "text_ta": "Canadian"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Jim Corbett was a British naturalist, hunter, tracker, and wildlife conservationist.",
+    "explanation_ta": "Jim Corbett was a British naturalist, hunter, tracker, and wildlife conservationist.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Prose Excerpts / C1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why did Jim Corbett fight against human encroachment on forests?",
+    "question_ta": "Why did Jim Corbett fight against human encroachment on forests?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To protect wildlife and prevent animals from turning into man-eaters due to habitat loss",
+        "text_ta": "To protect wildlife and prevent animals from turning into man-eaters due to habitat loss"
+      },
+      {
+        "key": "B",
+        "text_en": "To promote commercial farming in the hills",
+        "text_ta": "To promote commercial farming in the hills"
+      },
+      {
+        "key": "C",
+        "text_en": "To reserve the forests exclusively for his dog Robin",
+        "text_ta": "To reserve the forests exclusively for his dog Robin"
+      },
+      {
+        "key": "D",
+        "text_en": "To preserve hunting grounds for British officers",
+        "text_ta": "To preserve hunting grounds for British officers"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Corbett fought against deforestation and human encroachment because he understood it disrupted wildlife and led to animal conflicts.",
+    "explanation_ta": "Corbett fought against deforestation and human encroachment because he understood it disrupted wildlife and led to animal conflicts.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Summary / R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of animal was the Champawat Tiger?",
+    "question_ta": "What type of animal was the Champawat Tiger?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A snow leopard",
+        "text_ta": "A snow leopard"
+      },
+      {
+        "key": "B",
+        "text_en": "A Siberian tiger",
+        "text_ta": "A Siberian tiger"
+      },
+      {
+        "key": "C",
+        "text_en": "An Indian panther",
+        "text_ta": "An Indian panther"
+      },
+      {
+        "key": "D",
+        "text_en": "A Bengal tigress",
+        "text_ta": "A Bengal tigress"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The Champawat Tiger was a man-eating Bengal tigress responsible for 436 human fatalities.",
+    "explanation_ta": "The Champawat Tiger was a man-eating Bengal tigress responsible for 436 human fatalities.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Prose Excerpts / C3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which national park serves as a testament to Jim Corbett's commitment to wildlife preservation?",
+    "question_ta": "Which national park serves as a testament to Jim Corbett's commitment to wildlife preservation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bandipur National Park",
+        "text_ta": "Bandipur National Park"
+      },
+      {
+        "key": "B",
+        "text_en": "Sundarbans National Park",
+        "text_ta": "Sundarbans National Park"
+      },
+      {
+        "key": "C",
+        "text_en": "Gir National Park",
+        "text_ta": "Gir National Park"
+      },
+      {
+        "key": "D",
+        "text_en": "Jim Corbett National Park",
+        "text_ta": "Jim Corbett National Park"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Jim Corbett National Park stands as a testament to his lifelong commitment to wildlife preservation.",
+    "explanation_ta": "Jim Corbett National Park stands as a testament to his lifelong commitment to wildlife preservation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "A Hunter Turned Naturalist",
+    "topic": "A Hunter Turned Naturalist",
+    "topic_id": "a_hunter_turned_naturalist",
+    "topic_ta": "A Hunter Turned Naturalist",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is famously known as the 'Forest Man of India' in related environmental contexts?",
+    "question_ta": "Who is famously known as the 'Forest Man of India' in related environmental contexts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Salim Ali",
+        "text_ta": "Salim Ali"
+      },
+      {
+        "key": "B",
+        "text_en": "Lord Malcolm Hailey",
+        "text_ta": "Lord Malcolm Hailey"
+      },
+      {
+        "key": "C",
+        "text_en": "Jadav Payeng",
+        "text_ta": "Jadav Payeng"
+      },
+      {
+        "key": "D",
+        "text_en": "Jim Corbett",
+        "text_ta": "Jim Corbett"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Jadav Payeng is recognized as the 'Forest Man of India' as noted in the supplemental rules/facts bank.",
+    "explanation_ta": "Jadav Payeng is recognized as the 'Forest Man of India' as noted in the supplemental rules/facts bank.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "a_hunter_turned_naturalist",
+    "source_note": "R5"
+  }
+]

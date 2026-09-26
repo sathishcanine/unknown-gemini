@@ -1,0 +1,1928 @@
+{
+  "subject": "Polity",
+  "total": 2826,
+  "drop_count": 70,
+  "drop_ids": [
+    2301,
+    2360,
+    2358,
+    2368,
+    2371,
+    2390,
+    2391,
+    2415,
+    2417,
+    2447,
+    2450,
+    2451,
+    2455,
+    2457,
+    2458,
+    2463,
+    2549,
+    2473,
+    2499,
+    2500,
+    2525,
+    2528,
+    2531,
+    2540,
+    2561,
+    2566,
+    2576,
+    2583,
+    2609,
+    2616,
+    2619,
+    2671,
+    2674,
+    2687,
+    2714,
+    2765,
+    2766,
+    2782,
+    2786,
+    2835,
+    2857,
+    2908,
+    2936,
+    2922,
+    2926,
+    2944,
+    2974,
+    2982,
+    3009,
+    3010,
+    3016,
+    3021,
+    3030,
+    3032,
+    3053,
+    3055,
+    3057,
+    3061,
+    3062,
+    3069,
+    3070,
+    3075,
+    3087,
+    3092,
+    3114,
+    3118,
+    3824,
+    4112,
+    4725,
+    4767
+  ],
+  "by_reason": {
+    "match_incomplete": 37,
+    "statements_missing": 33
+  },
+  "by_topic": {
+    "Constitution of India": 1,
+    "Salient Features of Constitution": 3,
+    "Union, States & Union Territories": 3,
+    "Citizenship": 2,
+    "Fundamental Rights": 10,
+    "DPSP": 5,
+    "Fundamental Duties": 2,
+    "Union Executive": 5,
+    "Union Parliament": 3,
+    "State Executive": 1,
+    "Local Self Government": 5,
+    "Election": 2,
+    "Judiciary": 1,
+    "Anticorruption Measures": 2,
+    "Emergency Provisions": 2,
+    "Right to Information (RTI)": 2,
+    "Consumer Protection Forum": 2,
+    "Women Empowerment": 4,
+    "Political Parties": 2,
+    "Important Acts & Articles": 9,
+    "Important SC Judgements": 1,
+    "Committees & Commissions": 2,
+    "Attorney General of India": 1
+  },
+  "items": [
+    {
+      "id": 2301,
+      "topic": "Constitution of India",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: Match correctly the borrowings to Indian Constitution from other countries:",
+      "opts": [
+        [
+          "A",
+          "A-3, B-4, C-1, D-2"
+        ],
+        [
+          "B",
+          "A-2, B-4, C-1, D-3"
+        ],
+        [
+          "C",
+          "A-4, B-2, C-1, D-3"
+        ],
+        [
+          "D",
+          "A-2, B-1, C-4, D-3"
+        ]
+      ]
+    },
+    {
+      "id": 2360,
+      "topic": "Salient Features of Constitution",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "The Nature of 'Socialist Principles' embodied in the constitution of India is based on the",
+      "opts": [
+        [
+          "A",
+          "(1) and (3) only Correct"
+        ],
+        [
+          "B",
+          "(3) and (2) only Correct"
+        ],
+        [
+          "C",
+          "(4) and (1) only Correct"
+        ],
+        [
+          "D",
+          "(1) and (2) only Correct"
+        ]
+      ]
+    },
+    {
+      "id": 2358,
+      "topic": "Salient Features of Constitution",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about secular democracy?",
+      "opts": [
+        [
+          "A",
+          "(i) and (iii) only"
+        ],
+        [
+          "B",
+          "(i) and (ii) only"
+        ],
+        [
+          "C",
+          "(ii) and (iii) only"
+        ],
+        [
+          "D",
+          "(i) only"
+        ]
+      ]
+    },
+    {
+      "id": 2368,
+      "topic": "Salient Features of Constitution",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Select the correct statements regarding the Salient Features of the Indian Constitution.",
+      "opts": [
+        [
+          "A",
+          "(i), (ii) and (iv) are correct"
+        ],
+        [
+          "B",
+          "(i), (ii) and (iii) are correct"
+        ],
+        [
+          "C",
+          "(i) and (ii) are correct"
+        ],
+        [
+          "D",
+          "(i) only correct"
+        ]
+      ]
+    },
+    {
+      "id": 2371,
+      "topic": "Union, States & Union Territories",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following and choose the correct answer from the options below: (a) Kerala 1. 1963 (b) Nagaland 2. 1966 (c) Maharashtra 3. 1956 (d) Haryana 4. 1960",
+      "opts": [
+        [
+          "A",
+          "1 3 2 4"
+        ],
+        [
+          "B",
+          "3 1 4 2"
+        ],
+        [
+          "C",
+          "4 3 2 1"
+        ],
+        [
+          "D",
+          "3 4 2 1"
+        ]
+      ]
+    },
+    {
+      "id": 2390,
+      "topic": "Union, States & Union Territories",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements is True regarding Indian states.",
+      "opts": [
+        [
+          "A",
+          "(i) and (iii) true (ii) and (iv) false"
+        ],
+        [
+          "B",
+          "(i) and (ii) true (iii) and (iv) false"
+        ],
+        [
+          "C",
+          "(i) and (iv) true (ii) and (iii) false"
+        ],
+        [
+          "D",
+          "(i) and (iv) false (ii) and (iii) true"
+        ]
+      ]
+    },
+    {
+      "id": 2391,
+      "topic": "Union, States & Union Territories",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following:",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-2, d-4"
+        ]
+      ]
+    },
+    {
+      "id": 2415,
+      "topic": "Citizenship",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following. Article deals with Subject (a) Article 5 (b) Article 11 (c) Article 9 (d) Article 8",
+      "opts": [
+        [
+          "A",
+          "2 1 4 3"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "1 2 3 4"
+        ],
+        [
+          "D",
+          "3 4 1 2"
+        ]
+      ]
+    },
+    {
+      "id": 2417,
+      "topic": "Citizenship",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Read the following Assertion [A] and Reason [R] and find the correct answer : Assertion [A] : Considering apart from, citizenship among in India, there are two types of Aliens, Friendly Aliens and Enemy Aliens. Reason [R",
+      "opts": [
+        [
+          "A",
+          "[A] and [R] are correct; [R] is the correct explanation of [A]"
+        ],
+        [
+          "B",
+          "[A] and [R] are correct; [R] is not correct explanation of [A]"
+        ],
+        [
+          "C",
+          "[A] is correct; [R] is false"
+        ],
+        [
+          "D",
+          "[R] is correct; [A] is false"
+        ]
+      ]
+    },
+    {
+      "id": 2447,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the constitutional article with the respective rights of women for their social justice:",
+      "opts": [
+        [
+          "A",
+          "3 2 1 4"
+        ],
+        [
+          "B",
+          "4 3 1 2"
+        ],
+        [
+          "C",
+          "2 3 4 1"
+        ],
+        [
+          "D",
+          "4 3 2 1"
+        ]
+      ]
+    },
+    {
+      "id": 2450,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following Statement I and II",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "3 4 1 2"
+        ],
+        [
+          "C",
+          "2 1 4 3"
+        ],
+        [
+          "D",
+          "4 3 2 1"
+        ]
+      ]
+    },
+    {
+      "id": 2451,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following are correctly matched:",
+      "opts": [
+        [
+          "A",
+          "(1) and (4) are correct"
+        ],
+        [
+          "B",
+          "(1) and (2) are correct"
+        ],
+        [
+          "C",
+          "(3) and (4) are correct"
+        ],
+        [
+          "D",
+          "(2) and (4) are correct"
+        ]
+      ]
+    },
+    {
+      "id": 2455,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following is true about the Abolition of Bonded Labour System?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(ii) only"
+        ],
+        [
+          "C",
+          "(i) and (ii) true"
+        ],
+        [
+          "D",
+          "(i) and (ii) false"
+        ]
+      ]
+    },
+    {
+      "id": 2457,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the following is incorrectly paired?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "3 only"
+        ],
+        [
+          "D",
+          "4 only"
+        ]
+      ]
+    },
+    {
+      "id": 2458,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the articles of the Indian Constitution with their corresponding constitutional doctrines:",
+      "opts": [
+        [
+          "A",
+          "1 3 4 2"
+        ],
+        [
+          "B",
+          "3 1 2 4"
+        ],
+        [
+          "C",
+          "3 4 1 2"
+        ],
+        [
+          "D",
+          "2 4 3 1"
+        ]
+      ]
+    },
+    {
+      "id": 2463,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Art 350 A, (b) Art 351, (c) Art 335, (d) Art 51",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "1 4 3 2"
+        ],
+        [
+          "D",
+          "2 3 4 1"
+        ]
+      ]
+    },
+    {
+      "id": 2549,
+      "topic": "DPSP",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "167. Match the following :",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "2 3 4 1"
+        ],
+        [
+          "C",
+          "3 4 1 2"
+        ],
+        [
+          "D",
+          "4 1 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 2473,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the rights with their fundamental rights respectively :",
+      "opts": [
+        [
+          "A",
+          "(a) 3 (b) 4 (c) 1 (d) 2"
+        ],
+        [
+          "B",
+          "(a) 2 (b) 4 (c) 1 (d) 3"
+        ],
+        [
+          "C",
+          "(a) 4 (b) 2 (c) 1 (d) 3"
+        ],
+        [
+          "D",
+          "(a) 1 (b) 4 (c) 3 (d) 2"
+        ]
+      ]
+    },
+    {
+      "id": 2499,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following type:",
+      "opts": [
+        [
+          "A",
+          "(a) 3, (b) 4, (c) 2, (d) 1"
+        ],
+        [
+          "B",
+          "(a) 3, (b) 4, (c) 1, (d) 2"
+        ],
+        [
+          "C",
+          "(a) 1, (b) 2, (c) 4, (d) 3"
+        ],
+        [
+          "D",
+          "(a) 1, (b) 2, (c) 3, (d) 4"
+        ]
+      ]
+    },
+    {
+      "id": 2500,
+      "topic": "Fundamental Rights",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Identify the correct statement(s) about Fundamental Rights:",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (iii) only"
+        ],
+        [
+          "C",
+          "(i) and (ii) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 2525,
+      "topic": "DPSP",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Choose the correctly matched pair from the following:",
+      "opts": [
+        [
+          "A",
+          "(i)"
+        ],
+        [
+          "B",
+          "(ii)"
+        ],
+        [
+          "C",
+          "(iii)"
+        ],
+        [
+          "D",
+          "(iv)"
+        ]
+      ]
+    },
+    {
+      "id": 2528,
+      "topic": "DPSP",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the followings (with respect to Directive Principle of State Policy) :",
+      "opts": [
+        [
+          "A",
+          "4 3 1 2"
+        ],
+        [
+          "B",
+          "3 4 2 1"
+        ],
+        [
+          "C",
+          "2 1 3 4"
+        ],
+        [
+          "D",
+          "1 2 4 3"
+        ]
+      ]
+    },
+    {
+      "id": 2531,
+      "topic": "DPSP",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following",
+      "opts": [
+        [
+          "A",
+          "3 2 1 4"
+        ],
+        [
+          "B",
+          "2 3 4 1"
+        ],
+        [
+          "C",
+          "4 3 2 1"
+        ],
+        [
+          "D",
+          "3 4 1 2"
+        ]
+      ]
+    },
+    {
+      "id": 2540,
+      "topic": "DPSP",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Identify the correct statement with respect to Directive principles of state policy.",
+      "opts": [
+        [
+          "A",
+          "(i), (ii) and (iii) are correct"
+        ],
+        [
+          "B",
+          "(i), (ii) and (iv) are correct"
+        ],
+        [
+          "C",
+          "(i) and (ii) are correct"
+        ],
+        [
+          "D",
+          "(i) and (iv) are correct"
+        ]
+      ]
+    },
+    {
+      "id": 2561,
+      "topic": "Fundamental Duties",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which among the following statements on fundamental duties is/are correct?",
+      "opts": [
+        [
+          "A",
+          "(i), (ii) and (iii) are correct"
+        ],
+        [
+          "B",
+          "(i), (iii) and (iv) are correct"
+        ],
+        [
+          "C",
+          "(i) and (ii) are correct"
+        ],
+        [
+          "D",
+          "All are correct"
+        ]
+      ]
+    },
+    {
+      "id": 2566,
+      "topic": "Fundamental Duties",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statement/s is/are true in connection with Fundamental Duties?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(ii) only"
+        ],
+        [
+          "C",
+          "(i) and (ii)"
+        ],
+        [
+          "D",
+          "(i), (ii) and (iii)"
+        ]
+      ]
+    },
+    {
+      "id": 2576,
+      "topic": "Union Executive",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "The PM shall be appointed by the President and other Ministers shall be appointed by the President on the advice of the PM is according to which of the following Articles",
+      "opts": [
+        [
+          "A",
+          "Article 74 (1)"
+        ],
+        [
+          "B",
+          "Article 75 (1)"
+        ],
+        [
+          "C",
+          "Article 75 (2)"
+        ],
+        [
+          "D",
+          "Article 74 (2)"
+        ]
+      ]
+    },
+    {
+      "id": 2583,
+      "topic": "Union Executive",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Money Bills can be introduced in the parliament without president's approval The finance commission is appointed by the president Which of the above statements are correct?",
+      "opts": [
+        [
+          "A",
+          "(I) only"
+        ],
+        [
+          "B",
+          "(II) only"
+        ],
+        [
+          "C",
+          "Both (I) and (II)"
+        ],
+        [
+          "D",
+          "None of the above"
+        ]
+      ]
+    },
+    {
+      "id": 2609,
+      "topic": "Union Executive",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statement/s is/are true about the Council of Ministers and the Cabinet?",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii) only"
+        ],
+        [
+          "B",
+          "(iii) only"
+        ],
+        [
+          "C",
+          "(ii) and (iii) only"
+        ],
+        [
+          "D",
+          "(i), (ii) and (iii)"
+        ]
+      ]
+    },
+    {
+      "id": 2616,
+      "topic": "Union Executive",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about the Cabinet?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (ii) only"
+        ],
+        [
+          "C",
+          "(i) and (iii) only"
+        ],
+        [
+          "D",
+          "(i), (ii) and (iii)"
+        ]
+      ]
+    },
+    {
+      "id": 2619,
+      "topic": "Union Executive",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the List I (Articles) with List II (subject related to the Governor) and choose the correct answer from the options given below",
+      "opts": [
+        [
+          "A",
+          "A-3, B-4, C-1, D-2"
+        ],
+        [
+          "B",
+          "A-1, B-3, C-2, D-4"
+        ],
+        [
+          "C",
+          "A-3, B-1, C-2, D-4"
+        ],
+        [
+          "D",
+          "A-2, B-1, C-4, D-3"
+        ]
+      ]
+    },
+    {
+      "id": 2671,
+      "topic": "Union Parliament",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about the two houses of Parliament?",
+      "opts": [
+        [
+          "A",
+          "(1) only"
+        ],
+        [
+          "B",
+          "(1) and (2) only"
+        ],
+        [
+          "C",
+          "(2) and (3) only"
+        ],
+        [
+          "D",
+          "(1), (2) and (3)"
+        ]
+      ]
+    },
+    {
+      "id": 2674,
+      "topic": "Union Parliament",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "The speaker of the Lok Sabha is the ex-officio Chairman of which of following Parliamentary Committees?",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii) Only"
+        ],
+        [
+          "B",
+          "(i), (ii) and (iii) Only"
+        ],
+        [
+          "C",
+          "(i) and (iv) Only"
+        ],
+        [
+          "D",
+          "None of the above"
+        ]
+      ]
+    },
+    {
+      "id": 2687,
+      "topic": "Union Parliament",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following committees find out the wrong pair.",
+      "opts": [
+        [
+          "A",
+          "(ii) , (iii) and (iv) only"
+        ],
+        [
+          "B",
+          "(ii) only"
+        ],
+        [
+          "C",
+          "(ii) and (iv)"
+        ],
+        [
+          "D",
+          "(i) and (iv)"
+        ]
+      ]
+    },
+    {
+      "id": 2714,
+      "topic": "State Executive",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following constitutional articles related to Chief Minister of a State: (a) Council of Ministers to aid and advice the Governor - 1. 164 (b) Other provisions as to Ministers - 2. 166 (c) Conduct of business of ",
+      "opts": [
+        [
+          "A",
+          "1 3 2 4"
+        ],
+        [
+          "B",
+          "2 4 1 3"
+        ],
+        [
+          "C",
+          "3 2 1 4"
+        ],
+        [
+          "D",
+          "4 1 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 2765,
+      "topic": "Local Self Government",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the Committees with the year of their set up",
+      "opts": [
+        [
+          "A",
+          "4 1 3 2"
+        ],
+        [
+          "B",
+          "2 3 1 4"
+        ],
+        [
+          "C",
+          "4 1 2 3"
+        ],
+        [
+          "D",
+          "2 1 3 4"
+        ]
+      ]
+    },
+    {
+      "id": 2766,
+      "topic": "Local Self Government",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following are incorrectly paired?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "3 and 4 only"
+        ]
+      ]
+    },
+    {
+      "id": 2782,
+      "topic": "Local Self Government",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Reservation of seats 1. 243 V (b) Disqualification of membership 2. 243 W (c) Powers and responsibilities of municipalities 3. 243 Y (d) Finance commission 4. 243 T",
+      "opts": [
+        [
+          "A",
+          "4 1 2 3"
+        ],
+        [
+          "B",
+          "3 4 1 2"
+        ],
+        [
+          "C",
+          "1 4 3 2"
+        ],
+        [
+          "D",
+          "2 1 3 4"
+        ]
+      ]
+    },
+    {
+      "id": 2786,
+      "topic": "Local Self Government",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the Article: (a) Audit and Accounts of Panchayats (b) Reservation of seats (c) Elections to the Panchayats (d) Gram Sabha",
+      "opts": [
+        [
+          "A",
+          "(a) 2, (b) 3, (c) 4, (d) 1"
+        ],
+        [
+          "B",
+          "(a) 3, (b) 4, (c) 2, (d) 1"
+        ],
+        [
+          "C",
+          "(a) 2, (b) 1, (c) 4, (d) 3"
+        ],
+        [
+          "D",
+          "(a) 4, (b) 2, (c) 1, (d) 3"
+        ]
+      ]
+    },
+    {
+      "id": 2835,
+      "topic": "Election",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the following provisions empowers the Election Commission of India to notify election dates?",
+      "opts": [
+        [
+          "A",
+          "Section 14 and 15 of the Representation of People Act 1951"
+        ],
+        [
+          "B",
+          "Clause (2) of the Article 83 of the constitution"
+        ],
+        [
+          "C",
+          "Article 85 (2) (b) of the constitution"
+        ],
+        [
+          "D",
+          "Article 172 (1) of the constitution"
+        ]
+      ]
+    },
+    {
+      "id": 2857,
+      "topic": "Election",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Lowering the voting age from 21 to 18 (b) Electronic voting machines in election (c) Anti-defection law (d) Voting rights to citizens of India living abroad were provided 1. 1985 2. 1988 3. 2010",
+      "opts": [
+        [
+          "A",
+          "2 4 1 3"
+        ],
+        [
+          "B",
+          "3 1 4 2"
+        ],
+        [
+          "C",
+          "3 1 2 4"
+        ],
+        [
+          "D",
+          "1 2 3 4"
+        ]
+      ]
+    },
+    {
+      "id": 2908,
+      "topic": "Judiciary",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the Column (A) with Column (B) : Column (A) - Theme (a) Judicial Activism - 1. 1976 (b) Ethical Governance (SARC) - 2. 1997 (c) Restatement of Values of Judicial life - 3. 1947 (d) Administrative Tribunal - 4. 2007",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "B",
+          "a-4, b-2, c-3, d-1"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-4, b-2, c-1, d-3"
+        ]
+      ]
+    },
+    {
+      "id": 2936,
+      "topic": "Anticorruption Measures",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Central Bureau of Investigation 1. 1968 (b) Central Vigilance Commission 2. 1964 (c) First Lokpal Bill introduced in Lok Sabha 3. 1963 (d) All India Service (Conduct) Rule 4. 1954",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "2 1 4 3"
+        ],
+        [
+          "C",
+          "3 2 1 4"
+        ],
+        [
+          "D",
+          "1 3 2 4"
+        ]
+      ]
+    },
+    {
+      "id": 2922,
+      "topic": "Emergency Provisions",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "OSCC will facilitate access to following services:",
+      "opts": [
+        [
+          "A",
+          "(i) Only"
+        ],
+        [
+          "B",
+          "(i) and (iii) only"
+        ],
+        [
+          "C",
+          "(ii) and (iv) only"
+        ],
+        [
+          "D",
+          "(i) and (ii) only"
+        ]
+      ]
+    },
+    {
+      "id": 2926,
+      "topic": "Emergency Provisions",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Identify incorrectly paired match :",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "1 and 3 only"
+        ],
+        [
+          "C",
+          "2 and 4 only"
+        ],
+        [
+          "D",
+          "3 and 4 only"
+        ]
+      ]
+    },
+    {
+      "id": 2944,
+      "topic": "Anticorruption Measures",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about the Lokpal?",
+      "opts": [
+        [
+          "A",
+          "(i) Only"
+        ],
+        [
+          "B",
+          "(i) and (ii) Only"
+        ],
+        [
+          "C",
+          "(i) and (iii) Only"
+        ],
+        [
+          "D",
+          "Not provided in source"
+        ]
+      ]
+    },
+    {
+      "id": 2974,
+      "topic": "Right to Information (RTI)",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following Statements and find the incorrect statements : The Rationale of Right to Information Implies.",
+      "opts": [
+        [
+          "A",
+          "(1) and (4) only"
+        ],
+        [
+          "B",
+          "(1) and (2) only"
+        ],
+        [
+          "C",
+          "(2) only"
+        ],
+        [
+          "D",
+          "(2) and (3) only"
+        ]
+      ]
+    },
+    {
+      "id": 2982,
+      "topic": "Right to Information (RTI)",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Find out the correct statements on the Right to Information (RTI):",
+      "opts": [
+        [
+          "A",
+          "1, 2, 4 only"
+        ],
+        [
+          "B",
+          "1, 3 only"
+        ],
+        [
+          "C",
+          "2, 3, 4 only"
+        ],
+        [
+          "D",
+          "3, 1, 2, only"
+        ]
+      ]
+    },
+    {
+      "id": 3009,
+      "topic": "Consumer Protection Forum",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Consumer Protection Act 1. 1986 (b) National Commission 2. 45 days (c) National Appellate Jurisdiction 3. 30 days (d) State Appellate Jurisdiction 4. 1988",
+      "opts": [
+        [
+          "A",
+          "3 4 1 2"
+        ],
+        [
+          "B",
+          "2 4 1 3"
+        ],
+        [
+          "C",
+          "4 2 1 3"
+        ],
+        [
+          "D",
+          "1 4 3 2"
+        ]
+      ]
+    },
+    {
+      "id": 3010,
+      "topic": "Consumer Protection Forum",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Tamilnadu Consumer Protection Act 1. 1969 (b) Consumer Movement 2. 1988 (c) Tamilnadu Consumer Protection Rules 3. 1986 (d) The Monopolies and Restrictive Trade Practices Act 4. 1974",
+      "opts": [
+        [
+          "A",
+          "3 4 2 1"
+        ],
+        [
+          "B",
+          "1 2 3 4"
+        ],
+        [
+          "C",
+          "2 1 4 3"
+        ],
+        [
+          "D",
+          "4 3 1 2"
+        ]
+      ]
+    },
+    {
+      "id": 3016,
+      "topic": "Women Empowerment",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Convention on the Rights of child (b) Declaration on the Rights to Development (c) Convention on the Elimination all forms of discrimination against women (d) Convention against Torture cruel, in",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "4 2 3 1"
+        ],
+        [
+          "D",
+          "3 2 1 4"
+        ]
+      ]
+    },
+    {
+      "id": 3021,
+      "topic": "Women Empowerment",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following (Women Empowerment): Name of the Act - Enacted Year (a) Medical Termination of Pregnancy Act - 1. 2013 (b) National Food Security Act - 2. 2016 (c) Rights of persons with Disabilities Act - 3. 2017 (d",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 1 2 3"
+        ],
+        [
+          "C",
+          "2 3 1 4"
+        ],
+        [
+          "D",
+          "3 4 2 1"
+        ]
+      ]
+    },
+    {
+      "id": 3030,
+      "topic": "Political Parties",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : Name of the political party | Strength in the 16th Assembly (a) PMK | 1. 18 (b) VCK | 2. 2 (c) CPI(M) | 3. 4 (d) INC | 4. 5",
+      "opts": [
+        [
+          "A",
+          "3 2 4 1"
+        ],
+        [
+          "B",
+          "4 2 3 1"
+        ],
+        [
+          "C",
+          "4 3 2 1"
+        ],
+        [
+          "D",
+          "2 3 4 1"
+        ]
+      ]
+    },
+    {
+      "id": 3032,
+      "topic": "Political Parties",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the political parties with their founding years.",
+      "opts": [
+        [
+          "A",
+          "2 3 4 1"
+        ],
+        [
+          "B",
+          "3 4 1 2"
+        ],
+        [
+          "C",
+          "3 2 1 4"
+        ],
+        [
+          "D",
+          "1 4 3 2"
+        ]
+      ]
+    },
+    {
+      "id": 3053,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Child Marriage Prohibition Act 1. 1961 (b) Dowry Prohibition Act 2. 2005 (c) Domestic Violence Act 3. 2013 (d) Sexual Harassment of Women at Work Place Act 4. 2006",
+      "opts": [
+        [
+          "A",
+          "2 4 1 3"
+        ],
+        [
+          "B",
+          "3 1 4 2"
+        ],
+        [
+          "C",
+          "4 1 2 3"
+        ],
+        [
+          "D",
+          "2 3 4 1"
+        ]
+      ]
+    },
+    {
+      "id": 3055,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following List I and List II : List I (a) The Family Court Act (b) Legal Services Authority Act (c) Societies Registration Act (d) Delhi Special Police Establishment Act List II 1. 1984 2. 1987 3. 1860 4. 1946",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "3 4 1 2"
+        ],
+        [
+          "D",
+          "2 1 4 3"
+        ]
+      ]
+    },
+    {
+      "id": 3057,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Commission of Inquiry Act 1. 1968 (b) Central Civil Services (Conduct) Rules 2. 1850 (c) Public Servants (Enquiries) Act 3. 1964 (d) All India Service (Conduct) Rules 4. 1952",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "4 2 1 3"
+        ],
+        [
+          "D",
+          "3 1 2 4"
+        ]
+      ]
+    },
+    {
+      "id": 3061,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) The Consumer Protection Act (b) The Legal Metrology Act (c) The Essential Commodities Act (d) The prevention of Black Marketing Act",
+      "opts": [
+        [
+          "A",
+          "(a)4 (b)3 (c)2 (d)1"
+        ],
+        [
+          "B",
+          "(a)1 (b)2 (c)3 (d)4"
+        ],
+        [
+          "C",
+          "(a)3 (b)4 (c)1 (d)2"
+        ],
+        [
+          "D",
+          "(a)4 (b)1 (c)3 (d)2"
+        ]
+      ]
+    },
+    {
+      "id": 3062,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: Subject Protected | Year of the enactment (a) Beedi and Cigar worker | 1. 1979 (b) Contract labour | 2. 1976 (c) Equal remuneration | 3. 1970 (d) Migrant workmen Employment Regulation | 4. 1966",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "3 2 4 1"
+        ],
+        [
+          "D",
+          "2 3 4 1"
+        ]
+      ]
+    },
+    {
+      "id": 3069,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Choose the right matches among the following:",
+      "opts": [
+        [
+          "A",
+          "(1) and (3) are correct"
+        ],
+        [
+          "B",
+          "(1) and (2) are correct"
+        ],
+        [
+          "C",
+          "(2) and (3) are correct"
+        ],
+        [
+          "D",
+          "(3) and (4) are correct"
+        ]
+      ]
+    },
+    {
+      "id": 3070,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following List I and List II. Choose the correct:",
+      "opts": [
+        [
+          "A",
+          "4 3 2 1"
+        ],
+        [
+          "B",
+          "3 4 1 2"
+        ],
+        [
+          "C",
+          "2 1 4 3"
+        ],
+        [
+          "D",
+          "1 2 3 4"
+        ]
+      ]
+    },
+    {
+      "id": 3075,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Preventive Detention Act (b) National Security Act (c) Prevention of Terrorism Act (d) Maintenance of Internal Security Act",
+      "opts": [
+        [
+          "A",
+          "4 1 2 3"
+        ],
+        [
+          "B",
+          "1 3 2 4"
+        ],
+        [
+          "C",
+          "3 2 1 4"
+        ],
+        [
+          "D",
+          "2 1 4 3"
+        ]
+      ]
+    },
+    {
+      "id": 3087,
+      "topic": "Important Acts & Articles",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly with the Suitable Act. (a) Preventive Detention Act (PDA) in India 1. 1971 (b) The National Emergencies Act was 2. 1974 signed into law by President Gerald Ford on 3. 1950 (c) The Indo-Pakistan war 4. 197",
+      "opts": [
+        [
+          "A",
+          "(a) 2 (b) 1 (c) 4 (d) 3"
+        ],
+        [
+          "B",
+          "(a) 1 (b) 4 (c) 3 (d) 2"
+        ],
+        [
+          "C",
+          "(a) 3 (b) 4 (c) 1 (d) 2"
+        ],
+        [
+          "D",
+          "(a) 1 (b) 2 (c) 3 (d) 4"
+        ]
+      ]
+    },
+    {
+      "id": 3092,
+      "topic": "Important SC Judgements",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following and choose the correct option: (a) Berubari Union case 1. 1967 (b) Kesavananda Bharti case 2. 1980 (c) Minerva mills case 3. 1973 (d) Golak Nath case 4. 1960",
+      "opts": [
+        [
+          "A",
+          "4 3 2 1"
+        ],
+        [
+          "B",
+          "2 4 3 1"
+        ],
+        [
+          "C",
+          "4 3 1 2"
+        ],
+        [
+          "D",
+          "3 4 1 2"
+        ]
+      ]
+    },
+    {
+      "id": 3114,
+      "topic": "Committees & Commissions",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Goswami committee on electoral reforms 1. 1993 (b) Vohra committee report 2. 1998 (c) Indrajit gupta committee on state funding of Elections 3. 2008 (d) The second administrative Reforms Commissi",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "3 2 1 4"
+        ],
+        [
+          "C",
+          "2 4 3 1"
+        ],
+        [
+          "D",
+          "4 1 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 3118,
+      "topic": "Committees & Commissions",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following is incorrectly paired?",
+      "opts": [
+        [
+          "A",
+          "(i) and (iii) only"
+        ],
+        [
+          "B",
+          "(i) and (ii) only"
+        ],
+        [
+          "C",
+          "(iii) and (iv) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 3824,
+      "topic": "Attorney General of India",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "The Attorney General of India has the right to attend which of the following?",
+      "opts": [
+        [
+          "A",
+          "Both Houses of Parliament"
+        ],
+        [
+          "B",
+          "Supreme Court only"
+        ],
+        [
+          "C",
+          "High Courts only"
+        ],
+        [
+          "D",
+          "The Cabinet meetings only"
+        ]
+      ]
+    },
+    {
+      "id": 4112,
+      "topic": "Local Self Government",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following constitutional provisions empowers the State Election Commission?",
+      "opts": [
+        [
+          "A",
+          "73rd and 74th Amendment Acts"
+        ],
+        [
+          "B",
+          "The 11th Schedule only"
+        ],
+        [
+          "C",
+          "The 12th Schedule only"
+        ],
+        [
+          "D",
+          "Article 243O"
+        ]
+      ]
+    },
+    {
+      "id": 4725,
+      "topic": "Women Empowerment",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Paragraph Analysis: The National Commission for Women (NCW) acts as a watchdog to safeguard the rights of women. Established in 1992, it operates with a specific composition to ensure efficiency. Based on the NCW Act 199",
+      "opts": [
+        [
+          "A",
+          "Only A is correct"
+        ],
+        [
+          "B",
+          "Only B is correct"
+        ],
+        [
+          "C",
+          "Both A and B are correct"
+        ],
+        [
+          "D",
+          "Neither A nor B are correct"
+        ]
+      ]
+    },
+    {
+      "id": 4767,
+      "topic": "Women Empowerment",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Statement 1: The Protection of Women from Domestic Violence Act was passed in 2005. Statement 2: The Vishakha Guidelines were issued by the Supreme Court of India. Which statement(s) is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    }
+  ]
+}

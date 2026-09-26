@@ -1,0 +1,90 @@
+{
+  "prose_id": "sea_turtles",
+  "prose_title": "Sea Turtles",
+  "author": "Shekar Dattatri",
+  "num": 19,
+  "pdf_pages": [
+    417,
+    429
+  ],
+  "prose_text_en": "Sea turtles are marine reptiles that spend almost their entire lives in the ocean. There are seven species worldwide, five of which—Olive Ridley, Hawksbill, Green Sea Turtle, Loggerhead, and Leatherback—are found in India. While they live in the sea, they must return to land to lay eggs. A unique phenomenon in Odisha, known as 'Arribada' or 'mass nesting,' sees thousands of female turtles coming ashore simultaneously. Hatchlings emerge using an 'egg-tooth' and face many predators like crabs, birds, and humans. Interestingly, the sex of the hatchling is determined by the nest temperature: 27-28°C produces males, 30°C produces females, and 29-30°C produces an equal mix.",
+  "summary_en": "The prose explains the life cycle of sea turtles, highlighting their marine existence and their vital connection to land for nesting. It details the 'Arribada' mass nesting in Odisha and the dangers hatchlings face from predators. The text also touches on scientific mysteries, such as how adult females return to their birth beaches and how incubation temperature influences hatchling gender.",
+  "characters": [
+    {
+      "name_en": "Shekar Dattatri",
+      "role_en": "Author of the text"
+    },
+    {
+      "name_en": "Olive Ridley",
+      "role_en": "Primary species of sea turtle discussed"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Arribada",
+      "meaning_en": "A Spanish term for a mass nesting event of sea turtles"
+    },
+    {
+      "word_en": "Flippers",
+      "meaning_en": "Broad, flat limbs used for swimming"
+    },
+    {
+      "word_en": "Incubate",
+      "meaning_en": "To hatch eggs using warmth"
+    },
+    {
+      "word_en": "Camouflage",
+      "meaning_en": "To hide or disguise something"
+    },
+    {
+      "word_en": "Predators",
+      "meaning_en": "Animals that kill other animals for food"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The Olive Ridley is the smallest sea turtle, while the Leatherback is the largest (up to 700 kg).",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Only one in every thousand hatchlings is estimated to survive into adulthood.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "The egg-tooth is a sharp, razor-like tip on a hatchling's snout used to break the leathery shell.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Incubation temp: 27-28°C (Male), 30°C (Female), 29-30°C (Mixed).",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Odisha is home to one of the world's few Arribada (mass nesting) sites.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The eggs of an Olive Ridley are in the shape and size of a...?",
+      "answer_en": "A table tennis ball",
+      "options_en": [
+        "Cricket ball",
+        "Table tennis ball",
+        "Football",
+        "Marble"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Which of these is NOT a sea turtle found in India?",
+      "answer_en": "None of the above (All five listed in text: Olive Ridley, Hawksbill, Green Sea Turtle, Loggerhead, Leatherback)",
+      "options_en": [
+        "Olive Ridley",
+        "Leatherback",
+        "Loggerhead",
+        "Tortoise"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

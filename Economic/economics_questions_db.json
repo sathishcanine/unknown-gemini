@@ -69957,7 +69957,11 @@
     "explanation_ta": "விவசாய செலவுகள் மற்றும் விலைகள் மீதான ஆணையம் (CACP) இந்திய அரசுக்கு குறைந்தபட்ச ஆதரவு விலையை (MSP) பரிந்துரைக்கிறது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember CACP recommends MSP, but the Cabinet Committee on Economic Affairs approves it.",
+    "learning_tip_ta": "MSP-ஐ CACP பரிந்துரைக்கிறது, அமைச்சரவைக் குழு ஒப்புதல் அளிக்கிறது என்பதை நினைவில் கொள்ளுங்கள்.",
+    "exam_trick": "Keyword match: 'Minimum Support Prices' always links directly to CACP in TNPSC questions.",
+    "exam_trick_ta": "முக்கிய வார்த்தை: 'குறைந்தபட்ச ஆதரவு விலை' எப்போதும் CACP உடன் நேரடியாக தொடர்புடையது."
   },
   {
     "subject": "Economy",
@@ -69998,7 +70002,11 @@
     "explanation_ta": "2024 ஆம் ஆண்டு இந்திய விவசாயிகள் போராட்டத்தின் ஒரு முக்கிய கோரிக்கையாக பயிர்களுக்கு குறைந்தபட்ச ஆதரவு விலைக்கு (MSP) சட்டப்பூர்வ உத்தரவாதம் அளிக்கப்பட வேண்டும் என்பது இருந்தது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember: MSP legal guarantee is the core demand in recent Indian agrarian agitations.",
+    "learning_tip_ta": "நினைவில் கொள்க: சமீபத்திய போராட்டங்களின் முக்கிய கோரிக்கை MSP சட்டப்பூர்வ உத்தரவாதமாகும்.",
+    "exam_trick": "Link '2024 Farmers Protest' directly with 'MSP Legal Guarantee'.",
+    "exam_trick_ta": "'2024 விவசாயி போராட்டம்' என்பதை 'MSP சட்டப்பூர்வ உத்தரவாதம்' உடன் இணைத்து நினைவில் கொள்ளுங்கள்."
   },
   {
     "subject": "Economy",
@@ -70039,7 +70047,11 @@
     "explanation_ta": "அதிக விளைச்சல் தரும் விதைகள் மற்றும் தீவிர நீர்ப்பாசன வசதிகள் ஆகியவை நேரடியாக வேளாண் உற்பத்தி திறனை அதிகரிக்கும். இடைத்தரகர்களிடமிருந்து விவசாயிகளைப் பாதுகாப்பது என்பது வேளாண் சந்தை சீர்திருத்தத்தைச் சார்ந்தது, உற்பத்தித் திறனை நேரடியாக அதிகரிக்கும் காரணி அல்ல.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Productivity means output per unit area; focus on inputs like seeds, water, and fertilizers.",
+    "learning_tip_ta": "உற்பத்தி திறன் என்பது பரப்பளவிற்கான விளைச்சல்; விதைகள், நீர் மற்றும் உரங்கள் போன்ற உள்ளீடுகளில் கவனம் செலுத்துங்கள்.",
+    "exam_trick": "Inputs raise productivity; middlemen reforms improve marketing, not crop yield.",
+    "exam_trick_ta": "உள்ளீடுகள் உற்பத்தியை உயர்த்தும்; இடைத்தரகர் சீர்திருத்தம் சந்தையை மேம்படுத்தும், பயிர் விளைச்சலையல்ல."
   },
   {
     "subject": "Economy",
@@ -70080,7 +70092,11 @@
     "explanation_ta": "AGMARKNET என்பது இந்தியாவில் வேளாண் சந்தைப்படுத்தல் தகவல்களை வழங்கும் தேசிய அளவிலான இணையதளம் ஆகும்.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Look for 'AGRI' or 'MARKET' roots in agriculture portal questions.",
+    "learning_tip_ta": "விவசாய வலைத்தள கேள்விகளில் 'AGRI' அல்லது 'MARKET' சொற்களைத் தேடுங்கள்.",
+    "exam_trick": "AGMARK sounds like Agricultural Marketing. Connect the prefix to the function.",
+    "exam_trick_ta": "AGMARK என்பது Agricultural Marketing போன்றது. முன்னொட்டை அதன் செயல்பாட்டுடன் இணைக்கவும்."
   },
   {
     "subject": "Economy",
@@ -70121,7 +70137,11 @@
     "explanation_ta": "AGRISNET மழைப்பொழிவு, உரங்கள் இருப்பு மற்றும் விவசாய சமூகத் துறை சார்ந்த தகவல்களை வழங்குகிறது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember AGRISNET covers inputs and weather, while price portals like Agmarknet handle MSP.",
+    "learning_tip_ta": "AGRISNET உள்ளீடுகள் மற்றும் வானிலை பற்றியது, விலை விவரங்கள் Agmarknet மூலம் அறியப்படும் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "exam_trick": "Eliminate MSP (III) under AGRISNET; price data belongs to Agmarknet.",
+    "exam_trick_ta": "AGRISNET-ல் இருந்து MSP (III)-ஐ நீக்குங்கள்; விலை தரவு Agmarknet-க்கு உரியது."
   },
   {
     "subject": "Economy",
@@ -70162,7 +70182,11 @@
     "explanation_ta": "நுண் நீர்ப்பாசனம் நீர் மற்றும் உரங்களை திறம்பட பயன்படுத்துவதால் விளைச்சல் அதிகரிக்கிறது. எனவே, கூற்று மற்றும் காரணம் இரண்டும் சரியானது மற்றும் விளக்கம் பொருந்துகிறது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Micro irrigation boosts yield by efficient water and fertilizer management.",
+    "learning_tip_ta": "நுண் நீர்ப்பாசனம் திறமையான நீர் மேலாண்மை மூலம் விளைச்சலை அதிகரிக்கிறது.",
+    "exam_trick": "Link 'efficiency in inputs' directly to 'higher yield' in agricultural assertions.",
+    "exam_trick_ta": "வேளாண் கூற்றுகளில் 'உள்ளீடுகளின் திறன்' என்பதை 'அதிக விளைச்சலுடன்' இணைக்கவும்."
   },
   {
     "subject": "Economy",
@@ -70203,7 +70227,11 @@
     "explanation_ta": "நுண்ணீர் பாசனம் (சொட்டுநீர்/தெளிப்புநீர்) தாவரங்களின் வேர்ப்பகுதிக்கு நேரடியாகவும் துல்லியமாகவும் நீரை வழங்குவதால், உரப்பயன்பாடு மற்றும் மகசூல் அதிகரிக்கிறது. எனவே கூற்று மற்றும் காரணம் இரண்டும் சரி மற்றும் சரியான விளக்கம்.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Micro-irrigation increases yield by saving water and fertilizers directly at the root zone.",
+    "learning_tip_ta": "நுண்ணீர் பாசனம் மூலம் நீர் மற்றும் உரங்கள் நேரடியாக வேருக்குச் சென்று அதிக மகசூல் தருகிறது.",
+    "exam_trick": "Link high yield (A) directly to precise water and fertilizer application (R).",
+    "exam_trick_ta": "அதிக மகசூலை (A) துல்லியமான நீர் மற்றும் உர பயன்பாட்டுடன் (R) இணைத்து சிந்தியுங்கள்."
   },
   {
     "subject": "Economy",
@@ -70244,7 +70272,11 @@
     "explanation_ta": "1960-61-இல் ஏழு மாவட்டங்களில் அறிமுகப்படுத்தப்பட்ட அந்த முன்னோடித் திட்டம் 'அதிக விளைச்சல் தரும் ரகங்களை உற்பத்தி செய்வதற்கான திட்டம்' (IADP) ஆகும்.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Match 1960-61 pilot project with high-yielding varieties (HYVP) and IADP in Indian agriculture.",
+    "learning_tip_ta": "1960-61 முன்னோடி திட்டத்தை அதிக விளைச்சல் தரும் ரகங்கள் (HYVP) மற்றும் IADP உடன் இணைத்து நினைவில் கொள்க.",
+    "exam_trick": "Pilot project in 7 districts (1960-61) = High Yielding Varieties Programme (IADP).",
+    "exam_trick_ta": "7 மாவட்டங்களில் முன்னோடி திட்டம் (1960-61) = அதிக விளைச்சல் தரும் ரகங்கள் திட்டம் (IADP)."
   },
   {
     "subject": "Economy",
@@ -70285,7 +70317,11 @@
     "explanation_ta": "எம்.எஸ். சுவாமிநாதனால் பிரபலப்படுத்தப்பட்ட பசுமை புரட்சி என்ற கருத்து, மண் ஆரோக்கியம் மற்றும் நீர் சேமிப்பு உள்ளிட்ட நிலையான விவசாய நடைமுறைகளை மையமாகக் கொண்டது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Eco-friendly farming practices like rainwater harvesting and soil health always point to the Evergreen Revolution.",
+    "learning_tip_ta": "மழைநீர் சேகரிப்பு மற்றும் மண்வளம் போன்ற சூழல் நட்பு முறைகள் எப்போதும் பசுமையான புரட்சியைக் குறிக்கும்.",
+    "exam_trick": "Keyword link: 'Soil + Water conservation' equals Evergreen Revolution.",
+    "exam_trick_ta": "முக்கிய வார்த்தை: 'மண் + நீர் பாதுகாப்பு' என்றால் பசுமையான புரட்சி."
   },
   {
     "subject": "Economy",
@@ -70326,7 +70362,11 @@
     "explanation_ta": "பசுமைப் புரட்சி என்பது உணவுப் பயிர்களுடன் (3), வெண்மைப் புரட்சி பாலுடன் (4), நீலப் புரட்சி மீன் உற்பத்தியுடன் (1), மற்றும் மஞ்சள் புரட்சி எண்ணெய் வித்துக்களுடன் (2) தொடர்புடையது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Memorize standard color revolutions and their associated agricultural products clearly.",
+    "learning_tip_ta": "நிறப் புரட்சிகளையும் அவற்றுடன் தொடர்புடைய விவசாயப் பொருட்களையும் தெளிவாக மனப்பாடம் செய்யுங்கள்.",
+    "exam_trick": "Link 'Blue' to water/fish and 'White' to milk for quick elimination.",
+    "exam_trick_ta": "'நீலம்' என்பதை நீருடன்/மீனுடனும், 'வெண்மை' என்பதை பாலுடனும் இணைத்து எளிதாக நீக்கவும்."
   },
   {
     "subject": "Economy",
@@ -70367,7 +70407,11 @@
     "explanation_ta": "பசுமைப் புரட்சி அதிக முதலீட்டை கோரியது (i) மற்றும் அதிகப்படியான ரசாயன பயன்பாட்டால் நிலத்தின் வளம் பாதித்தது (iii). கூற்று (ii) என்பது அதன் வெற்றியாகும், பலவீனம் அல்ல.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Separate GR successes (higher yield) from failures (regional imbalance, chemical overuse, high cost).",
+    "learning_tip_ta": "பசுமைப் புரட்சியின் வெற்றிகளையும் (அதிக விளைச்சல்) தோல்விகளையும் (இரசாயன பயன்பாடு, அதிக செலவு) பிரித்து அறியுங்கள்.",
+    "exam_trick": "Look for chemical overuse and regional disparity as classic Green Revolution weaknesses.",
+    "exam_trick_ta": "இரசாயனப் பயன்பாடு மற்றும் பிராந்திய ஏற்றத்தாழ்வை பசுமைப் புரட்சியின் பலவீனங்களாக உடனடியாக அடையாளம் காணவும்."
   },
   {
     "subject": "Economy",
@@ -70408,7 +70452,11 @@
     "explanation_ta": "உழவன் செயலி என்பது தமிழ்நாடு அரசால் விவசாயிகளுக்கு வேளாண்மை குறித்த தகவல்களை வழங்க அறிமுகப்படுத்தப்பட்ட அதிகாரப்பூர்வ செயலியாகும்.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember 'Uzhavan' as the flagship TN Govt app for all farmer-related schemes and information.",
+    "learning_tip_ta": "அரசுத் திட்டங்கள் மற்றும் தகவல்களுக்கு 'உழவன்' செயலியை நினைவில் கொள்ளுங்கள்.",
+    "exam_trick": "Associate 'Uzhavan' (Farmer) instantly with TN agricultural welfare schemes in exams.",
+    "exam_trick_ta": "'உழவன்' என்ற சொல்லை தமிழக அரசின் வேளாண் நலத் திட்டங்களுடன் உடனடியாக தொடர்புபடுத்துங்கள்."
   },
   {
     "subject": "Economy",
@@ -70449,7 +70497,11 @@
     "explanation_ta": "இந்தியாவில் பசுமைப் புரட்சியானது உயர் விளைச்சல் தரும் விதைப் ரகங்களைப் பயன்படுத்தி கோதுமை மற்றும் அரிசி உற்பத்தியை கணிசமாக அதிகரித்தது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember: Green Revolution = Food grains (Wheat & Rice first).",
+    "learning_tip_ta": "நினைவில் கொள்க: பசுமைப் புரட்சி = உணவு தானியங்கள் (கோதுமை மற்றும் அரிசி).",
+    "exam_trick": "Think food security first; Wheat & Rice are the classic staple pair.",
+    "exam_trick_ta": "உணவுப் பாதுகாப்பை முதலில் சிந்தியுங்கள்; கோதுமை மற்றும் அரிசியே முதன்மையானவை."
   },
   {
     "subject": "Economy",
@@ -70490,7 +70542,11 @@
     "explanation_ta": "இந்தியாவில் பசுமைப் புரட்சியானது அதன் ஆரம்ப கட்டத்தில் உணவு தானியங்களான கோதுமை மற்றும் அரிசியின் அதிக விளைச்சல் தரும் வகைகளில் (HYV) முக்கிய கவனம் செலுத்தியது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember: Green Revolution = HYV seeds of Wheat and Rice primarily.",
+    "learning_tip_ta": "நினைவில் கொள்க: பச்சை புரட்சி = கோதுமை மற்றும் நெல் உயர் விளைச்சல் விதைகள்.",
+    "exam_trick": "Link 'Green Revolution' instantly with 'Wheat and Rice' to eliminate wrong choices.",
+    "exam_trick_ta": "'பச்சை புரட்சி' என்றாலே 'கோதுமை மற்றும் நெல்' என்று இணைத்து தவறான தேர்வுகளை நீக்கவும்."
   },
   {
     "subject": "Economy",
@@ -70531,7 +70587,11 @@
     "explanation_ta": "சிவப்பு புரட்சியானது இறைச்சி மற்றும் தக்காளி உற்பத்தியுடன் தொடர்புடையது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Link colors to agricultural produce: Red stands for tomatoes and meat.",
+    "learning_tip_ta": "நிறங்களை விவசாயப் பொருட்களுடன் இணைக்கவும்: சிவப்பு என்பது தக்காளி மற்றும் இறைச்சியைக் குறிக்கும்.",
+    "exam_trick": "Red color directly points to tomato and meat in agriculture revolutions.",
+    "exam_trick_ta": "சிவப்பு நிறம் விவசாயப் புரட்சிகளில் தக்காளி மற்றும் இறைச்சியை நேரிடையாகக் குறிக்கிறது."
   },
   {
     "subject": "Economy",
@@ -70572,7 +70632,11 @@
     "explanation_ta": "உயர் விளைச்சல் வகை திட்டம் (HYVP) முதன்மையாக கோதுமை, அரிசி, சோளம், மக்காச்சோளம் மற்றும் கம்பு போன்ற உணவு தானியங்களில் கவனம் செலுத்தியது. கரும்பு ஒரு பணப்பயிராகும், இது இத்திட்டத்தின் கீழ் வரும் முதன்மை உணவு தானியங்களில் அடங்காது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "HYVP focused strictly on five food grains: wheat, rice, maize, jowar, and bajra. Cash crops are excluded.",
+    "learning_tip_ta": "HYVP திட்டம் கோதுமை, அரிசி, சோளம், கம்பு மற்றும் மக்காச்சோளம் ஆகிய 5 உணவு தானியங்களை மட்டுமே குறித்தது.",
+    "exam_trick": "Remember the 5 food grains of Green Revolution: Rice, Wheat, Maize, Jowar, Bajra. Others are cash crops.",
+    "exam_trick_ta": "பச்சைப் புரட்சியின் 5 உணவு தானியங்களை மட்டும் நினைவில் கொள்ளுங்கள். மற்றவை பணப்பயிர்கள்."
   },
   {
     "subject": "Economy",
@@ -70613,7 +70677,11 @@
     "explanation_ta": "டிஜிட்டல் தொழில்நுட்பங்கள் மூலம் விவசாயிகளின் வருமானத்தை இரட்டிப்பாக்க, தொழில்நுட்ப உருவாக்கம், பரவல், கொள்கை ஆதரவு, சீர்திருத்தங்கள் மற்றும் வளர்ச்சி முன்முயற்சிகள் ஆகியவற்றை உள்ளடக்கிய விரிவான அணுகுமுறை தேவை, இது அறிக்கை (i)-இல் முழுமையாகக் குறிப்பிடப்பட்டுள்ளது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "For policy-based questions, choose the option with a comprehensive and inclusive scope covering all aspects.",
+    "learning_tip_ta": "கட்டமைப்பு சார்ந்த கேள்விகளுக்கு, அனைத்து அம்சங்களையும் உள்ளடக்கிய விரிவான விருப்பத்தைத் தேர்ந்தெடுக்கவும்.",
+    "exam_trick": "Comprehensive is correct: always pick the broadest, all-inclusive statement among policy options.",
+    "exam_trick_ta": "அனைத்தையும் உள்ளடக்கிய விரிவான கூற்றே எப்போதும் சரியான விடையாகும்."
   },
   {
     "subject": "Economy",
@@ -70654,7 +70722,11 @@
     "explanation_ta": "மத்திய பட்ஜெட் 2022-23-ல் பயிர் மதிப்பீடு, நில ஆவணங்களை டிஜிட்டல் மயமாக்குதல் மற்றும் பூச்சிக் கொல்லிகள், ஊட்டச்சத்துக்களைத் தெளித்தல் ஆகியவற்றிற்காக 'கிசான் ட்ரோன்கள்' பயன்படுத்தப்படும் என்று அறிவிக்கப்பட்டது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Associate drones with precision agriculture, land records, and remote sensing tasks in current affairs.",
+    "learning_tip_ta": "ட்ரோன்களை துல்லிய விவசாயம் மற்றும் நில ஆவண டிஜிட்டல் மயமாக்கலுடன் இணைத்து நினைவில் கொள்ளுங்கள்.",
+    "exam_trick": "Link 'Drones' directly with modern tech tasks like spraying and land mapping.",
+    "exam_trick_ta": "ட்ரோன்களை தெளித்தல் மற்றும் நில வரைபடம் போன்ற நவீன தொழில்நுட்பங்களுடன் நேரடியாக இணைக்கவும்."
   },
   {
     "subject": "Economy",
@@ -70695,7 +70767,11 @@
     "explanation_ta": "கிஸான் ரத் செயலியானது, விளைபொருட்களை பண்ணையிலிருந்து சந்தைகளுக்குக் கொண்டு செல்வதற்கான போக்குவரத்து வசதிகளை ஒருங்கிணைப்பதற்காக உருவாக்கப்பட்டது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Remember: Kisan Rath = Transport. Link 'Rath' (chariot/vehicle) with movement of goods.",
+    "learning_tip_ta": "நினைவில் கொள்க: கிஸான் ரத் = போக்குவரத்து. ரத் (தேர்/வாகனம்) என்பதைப் பொருட்களின் நகர்வுடன் இணைக்கவும்.",
+    "exam_trick": "Kisan = Farmer, Rath = Vehicle/Transport. Match 'Rath' with transportation of agro-products.",
+    "exam_trick_ta": "கிஸான் = விவசாயி, ரத் = வாகனம்/போக்குவரத்து. ரத் என்பதை வேளாண் பொருட்கள் போக்குவரத்துடன் ஒப்பிடுக."
   },
   {
     "subject": "Economy",
@@ -70736,7 +70812,11 @@
     "explanation_ta": "காலவரிசை: தேசிய பருப்பு வளர்ச்சித் திட்டம் (1986), தேசிய வேளாண் காப்பீட்டுத் திட்டம் (1999), சணல் தொழில்நுட்பத் திட்டம் (2006), தேசிய உணவு பாதுகாப்புத் திட்டம் (2007).",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Memorize launch years of major agricultural missions in chronological clusters for quick recall.",
+    "learning_tip_ta": "முக்கிய விவசாய திட்டங்களின் தொடக்க ஆண்டுகளை காலவரிசைப்படி நினைவில் கொள்க.",
+    "exam_trick": "Identify the earliest and latest schemes to eliminate incorrect options fast.",
+    "exam_trick_ta": "மிக முந்தைய மற்றும் பிந்தைய திட்டங்களை அடையாளம் கண்டு தவறான விருப்பங்களை நீக்கவும்."
   },
   {
     "subject": "Economy",
@@ -70777,7 +70857,11 @@
     "explanation_ta": "காட்டன் ஏஸ் என்பது செயற்கை நுண்ணறிவு தொழில்நுட்பத்தைப் பயன்படுத்தி பருத்தி விவசாயிகளுக்கு பூச்சி மேலாண்மை மற்றும் பயிர் ஆரோக்கியம் குறித்த தகவல்களை வழங்கும் ஒரு செயலி ஆகும்.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Relate app names to their sector keywords like cotton for agriculture and health for medicine.",
+    "learning_tip_ta": "செயலி பெயர்களை வேளாண்மைக்கு பருத்தி போன்ற துறைkeywords உடன் தொடர்புபடுத்துங்கள்.",
+    "exam_trick": "Match crop names in the app title directly to agricultural pest or yield options.",
+    "exam_trick_ta": "செயலி தலைப்பில் உள்ள பயிர் பெயரை விவசாய பூச்சி அல்லது மகசூல் விருப்பங்களுடன் நேரடியாக பொருத்தவும்."
   },
   {
     "subject": "Economy",
@@ -70818,7 +70902,11 @@
     "explanation_ta": "தமிழ்நாடு அரசால் உழவன் செயலி அறிமுகப்படுத்தப்பட்டது. இதில் 10-க்கும் மேற்பட்ட சேவைகள் உள்ளன, மேலும் பயனர்களின் எண்ணிக்கை 10.30 லட்சத்திற்கும் மேல் உள்ளது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "For TN govt schemes and apps, always verify the launching department and core utility services.",
+    "learning_tip_ta": "TN அரசு திட்டங்கள் மற்றும் செயலிகளுக்கு, தொடங்கும் துறை மற்றும் முக்கிய சேவைகளை எப்போதும் சரிபார்க்கவும்.",
+    "exam_trick": "Remember 'Uzhavan' app offers 10+ services for TN farmers. Combine service count with correct statements.",
+    "exam_trick_ta": "'உழவன்' செயலி 10+ சேவைகளை வழங்கும். சேவைகளின் எண்ணிக்கையை வைத்து கூற்றுகளை சரிபார்க்கவும்."
   },
   {
     "subject": "Economy",
@@ -70859,7 +70947,11 @@
     "explanation_ta": "தேசிய வேளாண் தொழில்நுட்பத் திட்டம் (NATP) வேளாண் ஆராய்ச்சி அமைப்பின் செயல்திறனை மேம்படுத்துதல், இயற்கை வளங்களைப் பாதுகாத்தல் மற்றும் நிலையான கிராமப்புற வாழ்வாதாரப் பாதுகாப்பை உறுதி செய்தல் ஆகியவற்றை நோக்கமாகக் கொண்டது.",
     "type": "pyq",
     "batch": "PYQ",
-    "group": "PYQ"
+    "group": "PYQ",
+    "learning_tip": "Focus on research efficiency and resource sustainability for agricultural technology projects.",
+    "learning_tip_ta": "வேளாண் திட்டங்களுக்கு ஆராய்ச்சி திறன் மற்றும் வளப்பாதுகாப்பு ஆகியவற்றை முக்கியமாகக் கவனியுங்கள்.",
+    "exam_trick": "Match research efficiency and sustainable resource management keywords for NATP questions.",
+    "exam_trick_ta": "NATP கேள்விகளுக்கு ஆராய்ச்சி திறன் மற்றும் வளப்பாதுகாப்பு முக்கிய வார்த்தைகளைப் பொருத்தவும்."
   },
   {
     "subject": "Economy",

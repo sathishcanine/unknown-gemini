@@ -1,0 +1,184 @@
+{
+  "batches": {
+    "basic_tags|Batch 1": {
+      "done": true,
+      "topic_en": "Basic Tags (Affirmative / Negative)",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "basic_tags|Batch 2": {
+      "done": true,
+      "topic_en": "Basic Tags (Affirmative / Negative)",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "no_auxiliary_modals|Batch 1": {
+      "done": true,
+      "topic_en": "No Auxiliary & Modals",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "no_auxiliary_modals|Batch 2": {
+      "done": true,
+      "topic_en": "No Auxiliary & Modals",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "special_subjects|Batch 1": {
+      "done": true,
+      "topic_en": "Special Subjects (I am, There, Nobody, It)",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "special_subjects|Batch 2": {
+      "done": true,
+      "topic_en": "Special Subjects (I am, There, Nobody, It)",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "imperatives_lets|Batch 1": {
+      "done": true,
+      "topic_en": "Imperatives & Let's",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "imperatives_lets|Batch 2": {
+      "done": true,
+      "topic_en": "Imperatives & Let's",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "spot_wrong_tag|Batch 1": {
+      "done": true,
+      "topic_en": "Spot the Wrong Tag",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "spot_wrong_tag|Batch 2": {
+      "done": true,
+      "topic_en": "Spot the Wrong Tag",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    }
+  },
+  "totals": {
+    "flagged": 0,
+    "dropped": 0,
+    "fixed": 0,
+    "final_db": 250,
+    "topic_q_verified": 250,
+    "short_batches": [],
+    "pass_batches": 10,
+    "needs_fix_batches": 0
+  }
+}

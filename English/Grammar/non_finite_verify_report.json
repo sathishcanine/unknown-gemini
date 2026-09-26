@@ -1,0 +1,123 @@
+{
+  "batches": {
+    "Gerunds|Batch 1": {
+      "summary": {
+        "total_questions": 25,
+        "verified_questions": 25,
+        "status": "passed",
+        "notes": "All questions strictly follow TNPSC non-finite verbs rules regarding gerunds, options are well-formed, and answers are accurate."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Gerunds|Batch 2": {
+      "summary": {
+        "verdict": "All 25 questions have been strictly verified against the TNPSC Non-Finite Verbs reference rules, examples, and worked patterns for gerunds. All questions, marked options, and explanations are accurate and aligned with standard grammar rules."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Infinitives|Batch 1": {
+      "summary": {
+        "verdict": "All 25 questions were evaluated against the reference rules for Infinitives. The questions accurately test definitions, functions (subject, direct object, subject complement, adjective, adverb), bare infinitives after modals/specific verbs, and distinguishing between finite and non-finite verbs. All questions are valid and correctly marked."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Infinitives|Batch 2": {
+      "summary": {
+        "batch_name": "Strict TNPSC Non-Finite Verbs verifier for Infinitives / Batch 2",
+        "total_questions": 25,
+        "status": "passed",
+        "error_count": 0,
+        "notes": "All questions align strictly with the reference rules and provided examples for infinitives, bare infinitives, functions, and finite vs. non-finite verb distinctions."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Mixed Non-Finite Verbs|Batch 1": {
+      "summary": {
+        "total_questions": 25,
+        "passed_questions": 25,
+        "flagged_questions_count": 0,
+        "status": "APPROVED"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Mixed Non-Finite Verbs|Batch 2": {
+      "summary": {
+        "verdict": "All 25 questions in Batch 2 have been thoroughly verified against the provided TNPSC rules, examples, and worked standards. The questions correctly focus on identifying and distinguishing gerunds, infinitives, and participles with accurate options and explanations."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Mixed Non-Finite Verbs|Batch 3": {
+      "summary": {
+        "batch_name": "Mixed Non-Finite Verbs / Batch 3",
+        "total_questions": 25,
+        "status": "APPROVED",
+        "notes": "All questions align strictly with TNPSC Non-Finite Verbs rules and correct grammar principles regarding gerunds, infinitives, and participles."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Mixed Non-Finite Verbs|Batch 4": {
+      "summary": {
+        "total_questions": 25,
+        "passed_questions": 25,
+        "flagged_count": 0,
+        "status": "APPROVED"
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Mixed Non-Finite Verbs|Batch 5": {
+      "summary": {
+        "verdict": "Batch 5 of Mixed Non-Finite Verbs verified successfully. All 25 questions correctly test the identification and grammatical usage of gerunds, infinitives, and participles according to TNPSC guidelines. Answer keys and explanations are fully accurate."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Participles|Batch 1": {
+      "summary": {
+        "verdict": "All 25 questions successfully verified for adherence to TNPSC Non-Finite Verbs and Participles rules. Questions accurately test present, past, and perfect participles, distinguishing them from finite verbs and other non-finite forms like gerunds and infinitives."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    },
+    "Participles|Batch 2": {
+      "summary": {
+        "verdict": "Evaluated 25 questions focusing strictly on Non-Finite Verbs (Participles, Gerunds, Infinitives) per TNPSC rules. All questions, options, marked answers, and explanations correctly align with the provided reference materials and rules."
+      },
+      "fixed": 0,
+      "dropped": 0,
+      "kept": 25,
+      "details": []
+    }
+  },
+  "totals": {
+    "fixed": 0,
+    "dropped": 0
+  }
+}

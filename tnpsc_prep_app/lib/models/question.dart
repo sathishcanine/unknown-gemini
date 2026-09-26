@@ -38,6 +38,10 @@ class Question {
   final String correctOption;
   final String explanation;
   final String explanationTa;
+  final String learningTip;
+  final String learningTipTa;
+  final String examTrick;
+  final String examTrickTa;
   final String type;
   final String batch;
   final String group;
@@ -57,6 +61,10 @@ class Question {
     required this.correctOption,
     required this.explanation,
     required this.explanationTa,
+    this.learningTip = '',
+    this.learningTipTa = '',
+    this.examTrick = '',
+    this.examTrickTa = '',
     required this.type,
     required this.batch,
     required this.group,
@@ -68,6 +76,11 @@ class Question {
   bool get hasImage => imageUrls.isNotEmpty;
   bool get isPyq =>
       type.toLowerCase() == 'pyq' || tags.map((t) => t.toLowerCase()).contains('pyq');
+
+  bool get hasLearnInsights =>
+      explanation.trim().isNotEmpty ||
+      learningTip.trim().isNotEmpty ||
+      examTrick.trim().isNotEmpty;
 
   factory Question.fromJson(Map<String, dynamic> json) {
     var rawOpts = json['options'] as List? ?? [];
@@ -85,6 +98,10 @@ class Question {
       correctOption: json['correct_option'] ?? '',
       explanation: json['explanation'] ?? '',
       explanationTa: json['explanation_ta'] ?? '',
+      learningTip: json['learning_tip'] ?? '',
+      learningTipTa: json['learning_tip_ta'] ?? '',
+      examTrick: json['exam_trick'] ?? '',
+      examTrickTa: json['exam_trick_ta'] ?? '',
       type: json['type'] ?? '',
       batch: json['batch'] ?? '',
       group: json['group'] ?? '',
@@ -107,6 +124,10 @@ class Question {
       'correct_option': correctOption,
       'explanation': explanation,
       'explanation_ta': explanationTa,
+      'learning_tip': learningTip,
+      'learning_tip_ta': learningTipTa,
+      'exam_trick': examTrick,
+      'exam_trick_ta': examTrickTa,
       'type': type,
       'batch': batch,
       'group': group,

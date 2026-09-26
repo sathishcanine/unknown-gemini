@@ -1,0 +1,118 @@
+{
+  "prose_id": "the_nose_jewel",
+  "prose_title": "The Nose Jewel",
+  "questions": [
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "Another family lined in Ramayya's house in the story. The Nose Jewel is -------",
+      "options_en": [
+        "a sparrow's family",
+        "a cats family",
+        "a crow's family",
+        "a dog's family"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "item 39",
+      "band": "prose_pyq_b016"
+    },
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "When did Ramayya's wife notice the jewel in the story \"The Nose Jewel\"?",
+      "options_en": [
+        "While sweeping the floor",
+        "While washing the floor",
+        "While dusting the floor",
+        "While mopping the floor"
+      ],
+      "answer_en": "While sweeping the floor",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "item 69",
+      "band": "prose_pyq_b016"
+    },
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "Choose the correct one : The diamond was lying on the",
+      "options_en": [
+        "ground",
+        "home",
+        "floor",
+        "room"
+      ],
+      "answer_en": "floor",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "item 41",
+      "band": "prose_pyq_b016"
+    },
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "The diamond was lying on the",
+      "options_en": [
+        "ground",
+        "home",
+        "floor",
+        "room"
+      ],
+      "answer_en": "floor",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "top fragment",
+      "band": "prose_pyq_b017"
+    },
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "__________ is the servant woman is C. Rajagopalachari's 'The Nose Jewel'.",
+      "options_en": [
+        "Ramayi",
+        "Meenakshi",
+        "Kuppayi",
+        "Chandra"
+      ],
+      "answer_en": "Kuppayi",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "Q44",
+      "band": "prose_pyq_b017"
+    },
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "The village people suspected that the diamond nose jewel must have been stolen by",
+      "options_en": [
+        "Kuppayi",
+        "Ramayya",
+        "Ramayya's Wife",
+        "Meenakshi Ammal"
+      ],
+      "answer_en": "Kuppayi",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "Q65",
+      "band": "prose_pyq_b017"
+    },
+    {
+      "prose_title": "The Nose Jewel",
+      "prose_id": "the_nose_jewel",
+      "question_en": "In 'The Nose Jewel' - The Diamond jewel belonged to",
+      "options_en": [
+        "Ramayya's wife",
+        "Kuppayi",
+        "Meenakshi Ammal",
+        "Meenakshi Ammal's daughter"
+      ],
+      "answer_en": "Meenakshi Ammal's daughter",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "Q45",
+      "band": "prose_pyq_b017"
+    }
+  ]
+}

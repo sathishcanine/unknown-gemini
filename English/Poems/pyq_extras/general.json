@@ -1,0 +1,24 @@
+{
+  "poem_id": "general",
+  "count": 1,
+  "questions": [
+    {
+      "poem_title": "General",
+      "poem_id": "general",
+      "question_en": "Match the poems with the poets : (a) No Men Are Foreign 1. Rudyard Kipling (b) I am every woman 2. Nadia Bush (c) The secret of the machines 3. James Falconer Kirkup (d) The House on Elm Street 4. Rakhi Nariani Shirke",
+      "options_en": [
+        "(a) 2 (b) 4 (c) 3 (d) 1",
+        "(a) 4 (b) 3 (c) 2 (d) 1",
+        "(a) 3 (b) 4 (c) 1 (d) 2",
+        "(a) 2 (b) 1 (c) 4 (d) 3"
+      ],
+      "answer_en": "(a) 3 (b) 4 (c) 1 (d) 2",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b012",
+      "source_note": "General Matching"
+    }
+  ]
+}

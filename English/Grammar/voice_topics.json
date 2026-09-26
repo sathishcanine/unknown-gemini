@@ -1,0 +1,41 @@
+{
+  "subject_id": "English",
+  "menu": "active_passive_voice",
+  "topics": [
+    {
+      "id": "active_to_passive",
+      "name_en": "Active → Passive",
+      "name_ta": "செய்வினை → செயப்பாட்டு வினை",
+      "batches": 2,
+      "focus": "Convert active sentences to passive; object becomes subject; be + past participle; by-agent optional."
+    },
+    {
+      "id": "passive_to_active",
+      "name_en": "Passive → Active",
+      "name_ta": "செயப்பாட்டு வினை → செய்வினை",
+      "batches": 2,
+      "focus": "Convert passive to active; identify doer; reverse tense auxiliaries correctly."
+    },
+    {
+      "id": "voice_different_tenses",
+      "name_en": "Voice with Different Tenses",
+      "name_ta": "பல்வேறு காலங்களில் Voice",
+      "batches": 2,
+      "focus": "Tense-wise active/passive pairs: simple/continuous/perfect across present past future; choose correct passive form."
+    },
+    {
+      "id": "voice_modals",
+      "name_en": "Voice with Modals",
+      "name_ta": "Modal களுடன் Voice",
+      "batches": 2,
+      "focus": "can/may/must/should/will + be + past participle; modal + have been + pp for perfect modals."
+    },
+    {
+      "id": "imperative_sentences",
+      "name_en": "Imperative Sentences",
+      "name_ta": "கட்டளை / வேண்டுகோள் வாக்கியங்கள்",
+      "batches": 2,
+      "focus": "Let + obj + be + pp; You are requested/advised/ordered to…; negative imperatives in passive."
+    }
+  ]
+}

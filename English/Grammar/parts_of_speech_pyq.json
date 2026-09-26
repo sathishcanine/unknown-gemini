@@ -1,0 +1,587 @@
+{
+  "menu": "parts_of_speech",
+  "role": "pyq_style_samples_only",
+  "note": "Do not copy verbatim into practice question bank.",
+  "pdf": "Data/General-English/Grammar PYQ Topicwise (11-21).pdf",
+  "model": "gemini-3.1-flash-lite",
+  "sections": {
+    "topic15": {
+      "meta": {
+        "label": "15. Find out the odd words (Verb, Noun, Adjective, Adverb)",
+        "y0": 12821,
+        "y1": 14530,
+        "default_pos_hint": null,
+        "pyq_topic_num": 15
+      },
+      "count": 4
+    },
+    "topic16_noun": {
+      "meta": {
+        "label": "16. Select the correct Plural forms / Singular–Plural (Noun)",
+        "y0": 14530,
+        "y1": 19659,
+        "default_pos_hint": "noun",
+        "pyq_topic_num": 16
+      },
+      "count": 12
+    }
+  },
+  "by_pos_subtopic": {
+    "adjective": 2,
+    "mixed": 1,
+    "noun": 12,
+    "verb": 1
+  },
+  "samples": [
+    {
+      "question_en": "91. Find out the odd word",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Intelligent"
+        },
+        {
+          "key": "B",
+          "text_en": "Clever"
+        },
+        {
+          "key": "C",
+          "text_en": "Good"
+        },
+        {
+          "key": "D",
+          "text_en": "Numbers"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer Not known"
+        }
+      ],
+      "correct_option": "D",
+      "pos_subtopic": "adjective",
+      "source_exam": "PYQ",
+      "source_slice": "topic15_s01_y13491-14341",
+      "source_y": [
+        13491,
+        14341
+      ],
+      "pyq_topic_num": 15,
+      "section_id": "topic15"
+    },
+    {
+      "question_en": "61. Find out the odd one out",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Smirk"
+        },
+        {
+          "key": "B",
+          "text_en": "Laugh"
+        },
+        {
+          "key": "C",
+          "text_en": "Snicker"
+        },
+        {
+          "key": "D",
+          "text_en": "Whimper"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "D",
+      "pos_subtopic": "verb",
+      "source_exam": "PYQ",
+      "source_slice": "topic15_s01_y13491-14341",
+      "source_y": [
+        13491,
+        14341
+      ],
+      "pyq_topic_num": 15,
+      "section_id": "topic15"
+    },
+    {
+      "question_en": "62. Find the odd one out of which is not an adjective",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Many"
+        },
+        {
+          "key": "B",
+          "text_en": "Wonderful"
+        },
+        {
+          "key": "C",
+          "text_en": "Present"
+        },
+        {
+          "key": "D",
+          "text_en": "Cultural"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "C",
+      "pos_subtopic": "adjective",
+      "source_exam": "PYQ",
+      "source_slice": "topic15_s02_y14161-14530",
+      "source_y": [
+        14161,
+        14530
+      ],
+      "pyq_topic_num": 15,
+      "section_id": "topic15"
+    },
+    {
+      "question_en": "92. The correct singular form of Data is-----",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Datae"
+        },
+        {
+          "key": "B",
+          "text_en": "Datas"
+        },
+        {
+          "key": "C",
+          "text_en": "Datum"
+        },
+        {
+          "key": "D",
+          "text_en": "Delta"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer Not known"
+        }
+      ],
+      "correct_option": "C",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s01_y15200-16050",
+      "source_y": [
+        15200,
+        16050
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "84. Which one of the following is incorrect?",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Furnitures"
+        },
+        {
+          "key": "B",
+          "text_en": "Scissors"
+        },
+        {
+          "key": "C",
+          "text_en": "Pliers"
+        },
+        {
+          "key": "D",
+          "text_en": "News"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "A",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s01_y15200-16050",
+      "source_y": [
+        15200,
+        16050
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "18. Fill in the blanks with Right Plural form\nHe ate three ____________ of Bread.",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Loaf"
+        },
+        {
+          "key": "B",
+          "text_en": "Set"
+        },
+        {
+          "key": "C",
+          "text_en": "Pair"
+        },
+        {
+          "key": "D",
+          "text_en": "Loaves"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "D",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s02_y15870-16720",
+      "source_y": [
+        15870,
+        16720
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "63. Plural form of \"Syllabus\"",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Syllabuses"
+        },
+        {
+          "key": "B",
+          "text_en": "Syllabus"
+        },
+        {
+          "key": "C",
+          "text_en": "Syllabi"
+        },
+        {
+          "key": "D",
+          "text_en": "Syllabusses"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "C",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s02_y15870-16720",
+      "source_y": [
+        15870,
+        16720
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "64. Choose the correct plural form of \"Knife\"",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Knifes"
+        },
+        {
+          "key": "B",
+          "text_en": "Knives"
+        },
+        {
+          "key": "C",
+          "text_en": "Knifs"
+        },
+        {
+          "key": "D",
+          "text_en": "Knivese"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "B",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s03_y16540-17390",
+      "source_y": [
+        16540,
+        17390
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "93. Pick out the noun that undergoes a change in its plural form",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Deer"
+        },
+        {
+          "key": "B",
+          "text_en": "Scenery"
+        },
+        {
+          "key": "C",
+          "text_en": "Foot"
+        },
+        {
+          "key": "D",
+          "text_en": "Luggage"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "C",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s03_y16540-17390",
+      "source_y": [
+        16540,
+        17390
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "69. Find out the odd words:",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "cellar"
+        },
+        {
+          "key": "B",
+          "text_en": "come"
+        },
+        {
+          "key": "C",
+          "text_en": "call"
+        },
+        {
+          "key": "D",
+          "text_en": "carry"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "A",
+      "pos_subtopic": "mixed",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s00_y14530-15380",
+      "source_y": [
+        14530,
+        15380
+      ],
+      "pyq_topic_num": 15,
+      "section_id": "topic15"
+    },
+    {
+      "question_en": "3. The correct plural form of the compound noun ‘daughter-in-law’ is",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "daughter-in-law"
+        },
+        {
+          "key": "B",
+          "text_en": "daughters-in-laws"
+        },
+        {
+          "key": "C",
+          "text_en": "daughters-in-law"
+        },
+        {
+          "key": "D",
+          "text_en": "daughter-in-laws"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer Not known"
+        }
+      ],
+      "correct_option": "C",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s00_y14530-15380",
+      "source_y": [
+        14530,
+        15380
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "1. Fill in the blank Collective Noun A _________ of cows were grazing the grass.",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "group of"
+        },
+        {
+          "key": "B",
+          "text_en": "herd of"
+        },
+        {
+          "key": "C",
+          "text_en": "fleet of"
+        },
+        {
+          "key": "D",
+          "text_en": "bunch of"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "B",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s04_y17210-18060",
+      "source_y": [
+        17210,
+        18060
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "2. Choose the correct plural form of \"Curriculum\"",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Curricula"
+        },
+        {
+          "key": "B",
+          "text_en": "Curriculams"
+        },
+        {
+          "key": "C",
+          "text_en": "Curriculas"
+        },
+        {
+          "key": "D",
+          "text_en": "Curriculasis"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "A",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s04_y17210-18060",
+      "source_y": [
+        17210,
+        18060
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "16. Choose the correct Plural form of word Luggage",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "Luggages"
+        },
+        {
+          "key": "B",
+          "text_en": "Luggage"
+        },
+        {
+          "key": "C",
+          "text_en": "Lugage"
+        },
+        {
+          "key": "D",
+          "text_en": "Luggagese"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "B",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s05_y17880-18730",
+      "source_y": [
+        17880,
+        18730
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "71. Singular and Plural : Write the plural form of brother in law.",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "brother-in-laws"
+        },
+        {
+          "key": "B",
+          "text_en": "brothers-in-law"
+        }
+      ],
+      "correct_option": "B",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s07_y19220-19659",
+      "source_y": [
+        19220,
+        19659
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    },
+    {
+      "question_en": "71. Match the singular nouns in Column A with their plural forms in Column B:\n(a) Crisis 1. Fish\n(b) Fungus 2. Media\n(c) Medium 3. Crises\n(d) Fish 4. Fungi",
+      "options": [
+        {
+          "key": "A",
+          "text_en": "(a)2 (b)3 (c)1 (d)4"
+        },
+        {
+          "key": "B",
+          "text_en": "(a)3 (b)4 (c)2 (d)1"
+        },
+        {
+          "key": "C",
+          "text_en": "(a)1 (b)4 (c)2 (d)3"
+        },
+        {
+          "key": "D",
+          "text_en": "(a)1 (b)3 (c)2 (d)4"
+        },
+        {
+          "key": "E",
+          "text_en": "Answer not known"
+        }
+      ],
+      "correct_option": "B",
+      "pos_subtopic": "noun",
+      "source_exam": "PYQ",
+      "source_slice": "topic16_noun_s06_y18550-19400",
+      "source_y": [
+        18550,
+        19400
+      ],
+      "pyq_topic_num": 16,
+      "section_id": "topic16_noun"
+    }
+  ],
+  "total": 16,
+  "cleanup_note": "Removed Topic-14 'Select the correct sentence' spillover from Topic-15 range; retagged Q69 as topic15 mixed."
+}

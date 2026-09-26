@@ -1,0 +1,2259 @@
+{
+  "subject_id": "English",
+  "unit": "Writing Skills",
+  "menu": "letter_writing_types",
+  "topic": "Types of Letters (Formal & Informal)",
+  "sources": [
+    "Vetrii Unit3,4 pp.[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] (primary, vision)",
+    "Asan Unit3 pp.[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] (secondary, vision)",
+    "Grammer.pdf pp.[274, 275, 276, 277, 278, 279, 280, 282, 287] (secondary, text)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Letters are broadly classified into two types: Formal letter and Informal letter.",
+      "lw_tag": "definition",
+      "source": "vetrii",
+      "source_page": 1
+    },
+    {
+      "rule_en": "The formal letter should be logical, accurate and presented in an organised manner.",
+      "lw_tag": "formal",
+      "source": "vetrii",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Letter is an important means of communication, personal or official.",
+      "lw_tag": "definition",
+      "source": "vetrii",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Letters are broadly classified into two: formal and informal letters.",
+      "lw_tag": "format",
+      "source": "vetrii",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Formal letter has a specific format.",
+      "lw_tag": "format",
+      "source": "vetrii",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Formal letter should be logical and structured.",
+      "lw_tag": "formal",
+      "source": "vetrii",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Include email and phone number in sender's address if required.",
+      "lw_tag": "format",
+      "source": "vetrii",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Leave one line space and write the date.",
+      "lw_tag": "date",
+      "source": "vetrii",
+      "source_page": 3
+    },
+    {
+      "rule_en": "Be brief.",
+      "lw_tag": "format",
+      "source": "vetrii",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Mention the source from where you got the information about the vacancy you are applying for.",
+      "lw_tag": "formal",
+      "source": "vetrii",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Give a brief summary of your qualifications - academic and professional, along with the additional skills relevant to the post applied for.",
+      "lw_tag": "formal",
+      "source": "vetrii",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Conclude with a promising and positive note and express your wish to attend an interview.",
+      "lw_tag": "formal",
+      "source": "vetrii",
+      "source_page": 9
+    },
+    {
+      "rule_en": "After the signature, list the documents enclosed under the title - 'Encl.'",
+      "lw_tag": "format",
+      "source": "vetrii",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Formal letters require a specific structure including Receiver's designation, Subject, Salutation, Opening statement, Suitability description, Conclusion, and formal subscription.",
+      "lw_tag": "format",
+      "source": "vetrii",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Informal letters are written to friends and family members to share joy and experiences.",
+      "lw_tag": "definition",
+      "source": "vetrii",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Salutations and postscripts in informal letters are friendly and casual in language.",
+      "lw_tag": "salutation",
+      "source": "vetrii",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Open informal letters with casual greetings like 'Hi', 'Hello', or 'Hey'.",
+      "lw_tag": "salutation",
+      "source": "vetrii",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Informal letter closings include 'Take care', 'All the best', 'All my love', 'Lots of love', or 'Love'.",
+      "lw_tag": "complimentary_close",
+      "source": "vetrii",
+      "source_page": 12
+    },
+    {
+      "rule_en": "The right format of writing a date in all formal letters is '30 June, 2023' instead of '30/06/2023'.",
+      "lw_tag": "date",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "rule_en": "'Yours faithfully' is used for ending a formal letter.",
+      "lw_tag": "complimentary_close",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "rule_en": "Informal letter doesn't need any signature of the sender.",
+      "lw_tag": "informal",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "rule_en": "Need not to mention pin code in informal letters.",
+      "lw_tag": "informal",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "rule_en": "Compulsory it should contain salutation.",
+      "lw_tag": "salutation",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "rule_en": "The formal letter should be accurate and presented in an organised manner.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "rule_en": "Formal letters require a specific structure including sender's address, date, receiver's designation, subject, salutation, body, complimentary close, and subscription.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "rule_en": "Body of the letter should include introduction, purpose, details/enquiry, and conclusion.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "rule_en": "A letter of enquiry is a formal letter, written to get more details/information about something.",
+      "lw_tag": "definition",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "The word limit for a letter of enquiry should not exceed 200 words.",
+      "lw_tag": "other",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "A letter of enquiry must include sender's details.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Yours faithfully is used as a complimentary close in formal business letters.",
+      "lw_tag": "complimentary_close",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "rule_en": "Main body of a formal letter should consist of an introductory paragraph, a second paragraph stating causes of the problem, a third paragraph stating effects, and a fourth paragraph providing suggestions or remedial measures.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "Useful expressions for letter to editor include: 'Through the esteemed columns of your daily/ newspaper, I wish to bring to your kind notice', 'In my opinion', and 'This is a very shocking/ disturbing use of'.",
+      "lw_tag": "other",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "rule_en": "A letter of application, also known as a cover letter, is a job application document sent with your resume to provide additional information about your skills and experience.",
+      "lw_tag": "definition",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "rule_en": "The letter of application is intended to provide detailed information on why you are a qualified candidate for the job you are applying for.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "rule_en": "Use a courteous, positive and professional tone. Maintain a respectful, constructive tone.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Use formal language. Avoid contractions or abbreviations.",
+      "lw_tag": "formal",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "rule_en": "State your purpose clearly and briefly. State the purpose of your writing in the first or second sentence of the letter.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Include all necessary information. Provide all the information your reader needs to understand and respond appropriately to your letter.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Informal letters include personal letters (family, friends, birthday greetings), social letters (inviting, congratulating, condolence), and neutral letters (letters to the editor).",
+      "lw_tag": "definition",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "rule_en": "Consider the main purpose of the letter",
+      "lw_tag": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Plan your letter – make a list of facts to be presented",
+      "lw_tag": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Writing the letter (for formal letters): 1. Make the first draft 2. Edit the draft 3. Finalize the draft",
+      "lw_tag": "formal",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "The communication or content of the letter to be in paragraphs - simple language to be used - legibility to be kept in mind",
+      "lw_tag": "other",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "rule_en": "Formal letters require a polite tone and request for specific information or action.",
+      "lw_tag": "formal",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Students are advised to read each letter type thoroughly and understand the formats used.",
+      "lw_tag": "format",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "rule_en": "The formal letter has a specific format, should be accurate and presented in an organised manner.",
+      "lw_tag": "format",
+      "source": "grammer",
+      "source_page": 274
+    },
+    {
+      "rule_en": "A formal letter follows a specific structure starting with sender's address, date, receiver's address, subject, salutation, body, closing, complimentary close, and signature.",
+      "lw_tag": "format",
+      "source": "grammer",
+      "source_page": 275
+    },
+    {
+      "rule_en": "Informal letters are written to family and friends.",
+      "lw_tag": "definition",
+      "source": "grammer",
+      "source_page": 276
+    },
+    {
+      "rule_en": "Letters are broadly classified into two types: Formal and Informal letters.",
+      "lw_tag": "definition",
+      "source": "grammer",
+      "source_page": 277
+    },
+    {
+      "rule_en": "Leave one line space and write the date as 10 July 2019.",
+      "lw_tag": "date",
+      "source": "grammer",
+      "source_page": 277
+    },
+    {
+      "rule_en": "Include email and phone number in the sender's address if required.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 277
+    },
+    {
+      "rule_en": "Formal letters require a specific subject line to summarize the purpose of the communication.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 278
+    },
+    {
+      "rule_en": "Use 'Yours faithfully' as the complimentary close for formal letters when addressing an official by title.",
+      "lw_tag": "complimentary_close",
+      "source": "grammer",
+      "source_page": 278
+    },
+    {
+      "rule_en": "The body of the letter should clearly state the reason for writing, such as placing an order or lodging a complaint.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 278
+    },
+    {
+      "rule_en": "A formal letter includes the sender's address, date, receiver's address, salutation, subject line, body of the letter, complimentary close, and sender's name.",
+      "lw_tag": "format",
+      "source": "grammer",
+      "source_page": 279
+    },
+    {
+      "rule_en": "Use 'Respected Madam' or 'Respected Sir' for formal salutation.",
+      "lw_tag": "salutation",
+      "source": "grammer",
+      "source_page": 279
+    },
+    {
+      "rule_en": "Use 'Yours faithfully' for formal complimentary close.",
+      "lw_tag": "complimentary_close",
+      "source": "grammer",
+      "source_page": 279
+    },
+    {
+      "rule_en": "Informal or friendly letters are written to friends and family members to share joy, experiences, etc.",
+      "lw_tag": "definition",
+      "source": "grammer",
+      "source_page": 280
+    },
+    {
+      "rule_en": "Salutations and post scripts in informal letters are friendly and casual in language.",
+      "lw_tag": "salutation",
+      "source": "grammer",
+      "source_page": 280
+    },
+    {
+      "rule_en": "Formal letters must be brief, formal, and courteous. Avoid colloquialisms and slang.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 282
+    },
+    {
+      "rule_en": "Use 'open punctuation' to save typing time.",
+      "lw_tag": "format",
+      "source": "grammer",
+      "source_page": 282
+    },
+    {
+      "rule_en": "Modern trend (American) is to keep alignment to the left.",
+      "lw_tag": "format",
+      "source": "grammer",
+      "source_page": 282
+    },
+    {
+      "rule_en": "Steps to writing: Think, plan, draft, edit, and present using proper layout.",
+      "lw_tag": "other",
+      "source": "grammer",
+      "source_page": 282
+    },
+    {
+      "rule_en": "If you addressed a company by name or person by designation, use 'Yours faithfully'.",
+      "lw_tag": "complimentary_close",
+      "source": "grammer",
+      "source_page": 282
+    },
+    {
+      "rule_en": "If you addressed a person by name, use 'Yours sincerely'.",
+      "lw_tag": "complimentary_close",
+      "source": "grammer",
+      "source_page": 282
+    },
+    {
+      "rule_en": "Use a courteous, positive and professional tone.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 287
+    },
+    {
+      "rule_en": "Use formal language; avoid contractions or abbreviations.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 287
+    },
+    {
+      "rule_en": "State the purpose of your writing in the first or second sentence.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 287
+    },
+    {
+      "rule_en": "Provide all necessary information for the reader to respond appropriately.",
+      "lw_tag": "formal",
+      "source": "grammer",
+      "source_page": 287
+    },
+    {
+      "rule_en": "A memo (memorandum) is a short written message used for internal communication within an organization.",
+      "lw_tag": "memo",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "A memo is concise, direct, and written in a professional tone.",
+      "lw_tag": "memo",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "A memo does not use letter-style salutation such as Dear Sir/Madam, Hello, or Hi.",
+      "lw_tag": "memo",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "A memo does not include a complimentary close such as Yours faithfully, Yours sincerely, or Best regards.",
+      "lw_tag": "memo",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "Formal letters must be brief, formal, and courteous; avoid colloquialisms and slang.",
+      "lw_tag": "formal",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "Use of slang or unprofessional expressions is NOT characteristic of a formal letter.",
+      "lw_tag": "formal",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "Dear Sir/Madam is a suitable salutation for a formal letter when the recipient's name is unknown.",
+      "lw_tag": "salutation",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "rule_en": "Respected Sir or Respected Madam may also be used as formal salutations.",
+      "lw_tag": "salutation",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    }
+  ],
+  "examples": [
+    {
+      "letter_type_en": "Complaint letter",
+      "category_en": "formal",
+      "note_en": "Example: Wastage of water due to a broken pipe.",
+      "lw_tag": "complaint",
+      "source": "vetrii",
+      "source_page": 2
+    },
+    {
+      "letter_type_en": "Letter of Permission",
+      "category_en": "formal",
+      "note_en": "Requesting permission for school students to visit a place.",
+      "lw_tag": "permission",
+      "source": "vetrii",
+      "source_page": 3
+    },
+    {
+      "letter_type_en": "Permission letter",
+      "category_en": "formal",
+      "note_en": "Seeking permission to visit a factory",
+      "lw_tag": "permission",
+      "source": "vetrii",
+      "source_page": 4
+    },
+    {
+      "letter_type_en": "Enquiry letter",
+      "category_en": "formal",
+      "note_en": "Writing to an institute enquiring about short term courses",
+      "lw_tag": "enquiry",
+      "source": "vetrii",
+      "source_page": 4
+    },
+    {
+      "letter_type_en": "Letter of Apology",
+      "category_en": "formal",
+      "note_en": "Formal letter requesting an apology for failing to return a library book on time due to loss.",
+      "lw_tag": "apology",
+      "source": "vetrii",
+      "source_page": 6
+    },
+    {
+      "letter_type_en": "Letter Placing an Order",
+      "category_en": "formal",
+      "note_en": "Formal letter written by a Cultural Secretary to a publisher to place an order for prize books.",
+      "lw_tag": "order",
+      "source": "vetrii",
+      "source_page": 6
+    },
+    {
+      "letter_type_en": "Order Letter",
+      "category_en": "formal",
+      "note_en": "Letter regarding ordering books for a school including specific titles and quantities.",
+      "lw_tag": "order",
+      "source": "vetrii",
+      "source_page": 7
+    },
+    {
+      "letter_type_en": "Cancellation of Appointment",
+      "category_en": "formal",
+      "note_en": "Letter to a professional (dentist) cancelling an existing appointment and requesting a reschedule.",
+      "lw_tag": "apology",
+      "source": "vetrii",
+      "source_page": 7
+    },
+    {
+      "letter_type_en": "Cancelling an order and requesting for a refund",
+      "category_en": "formal",
+      "note_en": "Formal letter requesting cancellation of a previously placed order and a refund.",
+      "lw_tag": "other",
+      "source": "vetrii",
+      "source_page": 7
+    },
+    {
+      "letter_type_en": "Cancellation of Order",
+      "category_en": "formal",
+      "note_en": "A formal letter requesting cancellation of a bulk order due to poor quality and asking for a refund.",
+      "lw_tag": "order",
+      "source": "vetrii",
+      "source_page": 8
+    },
+    {
+      "letter_type_en": "Letter of Invitation",
+      "category_en": "formal",
+      "note_en": "A formal invitation sent by a school representative to a dignitary to preside over a function.",
+      "lw_tag": "invitation",
+      "source": "vetrii",
+      "source_page": 8
+    },
+    {
+      "letter_type_en": "Job Application",
+      "category_en": "formal",
+      "note_en": "A job application, sent along with a resume to give details about an applicant's personal information, qualifications, skills and experience for the post applied.",
+      "lw_tag": "job_application",
+      "source": "vetrii",
+      "source_page": 9
+    },
+    {
+      "letter_type_en": "Informal Letter",
+      "category_en": "informal",
+      "note_en": "Includes: Sender's address, Date, Salutation, Body of the letter, Closing Paragraph, Complimentary close, Subscription, Sender's Name.",
+      "lw_tag": "informal",
+      "source": "vetrii",
+      "source_page": 11
+    },
+    {
+      "letter_type_en": "Informal Letter Model",
+      "category_en": "informal",
+      "note_en": "A student writing to parents requesting permission and funds for a school excursion.",
+      "lw_tag": "informal",
+      "source": "vetrii",
+      "source_page": 12
+    },
+    {
+      "letter_type_en": "Business letter",
+      "category_en": "formal",
+      "note_en": "A formal letter category.",
+      "lw_tag": "business",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "letter_type_en": "Invitation letter",
+      "category_en": "formal",
+      "note_en": "A formal letter category.",
+      "lw_tag": "invitation",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "letter_type_en": "Resignation letter",
+      "category_en": "formal",
+      "note_en": "Does not come under informal letter.",
+      "lw_tag": "resignation",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "letter_type_en": "Letter of inquiry",
+      "category_en": "formal",
+      "note_en": "Letters fall under two broad classifications i.e. Formal Letters and Informal Letters.",
+      "lw_tag": "enquiry",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Letter of placing order",
+      "category_en": "formal",
+      "note_en": null,
+      "lw_tag": "order",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Letter of cancelling order",
+      "category_en": "formal",
+      "note_en": null,
+      "lw_tag": "order",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Complaint or reminder letter on delayed delivery",
+      "category_en": "formal",
+      "note_en": null,
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Letter of complaint - product",
+      "category_en": "formal",
+      "note_en": null,
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Letter of complaint - civic amenities",
+      "category_en": "formal",
+      "note_en": null,
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Letter of request - some facility / public health department for some service",
+      "category_en": "formal",
+      "note_en": null,
+      "lw_tag": "permission",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "letter_type_en": "Complaint letter regarding water wastage",
+      "category_en": "formal",
+      "note_en": "Sample letter addressing a broken water pipe issue.",
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "letter_type_en": "Complaint letter to Police Commissioner",
+      "category_en": "formal",
+      "note_en": "Letter regarding noise caused by loud speakers in a music shop.",
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "letter_type_en": "Complaint letter to Postmaster General",
+      "category_en": "formal",
+      "note_en": "Letter regarding non-receipt of a book parcel.",
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "letter_type_en": "Letter ordering things",
+      "category_en": "formal",
+      "note_en": "A business request for bulk purchase.",
+      "lw_tag": "order",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "letter_type_en": "Letter of complaint",
+      "category_en": "formal",
+      "note_en": "Used to report damaged goods or unsatisfactory service.",
+      "lw_tag": "complaint",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "letter_type_en": "Letter of enquiry",
+      "category_en": "formal",
+      "note_en": "Used to enquire and get details to purchase an item, know about a course, or a trip.",
+      "lw_tag": "enquiry",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "letter_type_en": "Letter to Editor",
+      "category_en": "formal",
+      "note_en": "A letter written to a newspaper editor regarding a social issue, such as the influence of TV channels on young children.",
+      "lw_tag": "editor",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "letter_type_en": "Letter of Application",
+      "category_en": "formal",
+      "note_en": "Job application document sent with a resume to provide additional information about skills and experience.",
+      "lw_tag": "job_application",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "letter_type_en": "Application letter",
+      "category_en": "formal",
+      "note_en": "A letter body structured in first, second, and final paragraphs to address job applications.",
+      "lw_tag": "job_application",
+      "source": "asan",
+      "source_page": 7
+    },
+    {
+      "letter_type_en": "Personal letter",
+      "category_en": "informal",
+      "note_en": "Addressed to family members, friends, for birthday greetings etc.",
+      "lw_tag": "informal",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "letter_type_en": "Social letter",
+      "category_en": "informal",
+      "note_en": "Includes invitations, congratulations, and letters of condolence.",
+      "lw_tag": "invitation",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "letter_type_en": "Neutral letter",
+      "category_en": "informal",
+      "note_en": "Letters which arouse the conscience of people on social, moral, or political issues (e.g., Letters to the Editor).",
+      "lw_tag": "other",
+      "source": "asan",
+      "source_page": 8
+    },
+    {
+      "letter_type_en": "Letter to the editor",
+      "category_en": "formal",
+      "note_en": "A letter regarding a request to publish an issue about motorcyclists racing on roads.",
+      "lw_tag": "editor",
+      "source": "asan",
+      "source_page": 9
+    },
+    {
+      "letter_type_en": "Inquiry letter",
+      "category_en": "formal",
+      "note_en": "Used to request information such as course details, duration, fees, and eligibility.",
+      "lw_tag": "enquiry",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "letter_type_en": "Formal letter",
+      "category_en": "formal",
+      "note_en": "Used in many situations; requires specific format.",
+      "lw_tag": "other",
+      "source": "grammer",
+      "source_page": 274
+    },
+    {
+      "letter_type_en": "Complaining letter",
+      "category_en": "formal",
+      "note_en": "A letter written to an official regarding a specific issue, such as wastage of water, noise disturbance, or non-receipt of parcels.",
+      "lw_tag": "complaint",
+      "source": "grammer",
+      "source_page": 275
+    },
+    {
+      "letter_type_en": "Personal letter to Mother",
+      "category_en": "informal",
+      "note_en": "Letter from a daughter in a hostel to her mother regarding school and hostel life.",
+      "lw_tag": "informal",
+      "source": "grammer",
+      "source_page": 276
+    },
+    {
+      "letter_type_en": "Letter ordering goods",
+      "category_en": "formal",
+      "note_en": "Ms. Deepa (NGO) writes to a wholesale book shop dealer ordering 100 copies of English Oxford Dictionary.",
+      "lw_tag": "order",
+      "source": "grammer",
+      "source_page": 277
+    },
+    {
+      "letter_type_en": "Memo (Memorandum)",
+      "category_en": "official",
+      "note_en": "Internal office communication; uses To/From/Date/Subject/Body/Signature — no salutation or complimentary close.",
+      "lw_tag": "memo",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    }
+  ],
+  "letter_parts": [
+    {
+      "part_en": "Sender's address",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Date",
+      "order_num": 2,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Name/designation and address of the receiver",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Body of the letter",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Closing Paragraph",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Complimentary close",
+      "order_num": 8,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription",
+      "order_num": 9,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's Name",
+      "order_num": 10,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Designation (if applicable)",
+      "order_num": 11,
+      "applies_to": "formal",
+      "note_en": "Included in a formal letter.",
+      "source": "vetrii",
+      "source_page": 1,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's Name and Designation",
+      "order_num": 10,
+      "applies_to": "formal",
+      "note_en": "Name and designation if applicable",
+      "source": "vetrii",
+      "source_page": 2,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's address",
+      "order_num": 1,
+      "applies_to": "both",
+      "note_en": "Include email and phone number if required.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Date",
+      "order_num": 2,
+      "applies_to": "both",
+      "note_en": "Leave one line space after sender's address.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Receiver's address",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Correct address of the recipient.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject of the letter",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Brief statement of purpose.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Body of the letter",
+      "order_num": 6,
+      "applies_to": "both",
+      "note_en": "Introduce yourself, mention details, and provide conclusion.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Closure",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Yours faithfully.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Signature",
+      "order_num": 8,
+      "applies_to": "both",
+      "note_en": "Sender's signature and designation if any.",
+      "source": "vetrii",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Example: Sir,",
+      "source": "vetrii",
+      "source_page": 4,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject line",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "Example: Sub: Regarding seeking permission to visit your factory",
+      "source": "vetrii",
+      "source_page": 4,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Body",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "The main content of the letter",
+      "source": "vetrii",
+      "source_page": 4,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Complimentary close",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Example: Thanking you, Yours faithfully,",
+      "source": "vetrii",
+      "source_page": 4,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Signature",
+      "order_num": 8,
+      "applies_to": "formal",
+      "note_en": "Name and designation/title",
+      "source": "vetrii",
+      "source_page": 4,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's address (From)",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "The sender's name and address details.",
+      "source": "vetrii",
+      "source_page": 5,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Receiver's address (To)",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "The recipient's designation and address.",
+      "source": "vetrii",
+      "source_page": 5,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "From",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "Sender's address details.",
+      "source": "vetrii",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "To",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Receiver's address details.",
+      "source": "vetrii",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Recipient's address",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "The address of the recipient (To...).",
+      "source": "vetrii",
+      "source_page": 7,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Signature/Name",
+      "order_num": 8,
+      "applies_to": "formal",
+      "note_en": "The name or signature of the sender.",
+      "source": "vetrii",
+      "source_page": 7,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Receiver's designation and address",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "The address block of the recipient.",
+      "source": "vetrii",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 2,
+      "applies_to": "formal",
+      "note_en": "Formal greeting.",
+      "source": "vetrii",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Brief statement of the purpose of the letter.",
+      "source": "vetrii",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Opening statement",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Purpose of writing the letter referencing sources like advertisements.",
+      "source": "vetrii",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Suitability",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "Details of qualifications and experience relevant to the post.",
+      "source": "vetrii",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Conclusion",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "Availability for interview and expression of expectations.",
+      "source": "vetrii",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's address",
+      "order_num": 1,
+      "applies_to": "informal",
+      "note_en": "Address of the writer",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Date",
+      "order_num": 2,
+      "applies_to": "informal",
+      "note_en": "Date",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 3,
+      "applies_to": "informal",
+      "note_en": "Superscription or Salutation",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Body of the letter",
+      "order_num": 4,
+      "applies_to": "informal",
+      "note_en": "1st para contains enquiry about well being",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Main Content",
+      "order_num": 5,
+      "applies_to": "informal",
+      "note_en": "2nd para contains the reason for writing the letter",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Conclusion + End of letter",
+      "order_num": 6,
+      "applies_to": "informal",
+      "note_en": "3rd para contains the conclusion or end part",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription",
+      "order_num": 7,
+      "applies_to": "informal",
+      "note_en": "Subscription including writer's name",
+      "source": "vetrii",
+      "source_page": 11,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's Address and Date",
+      "order_num": 1,
+      "applies_to": "informal",
+      "note_en": "Appears at the beginning of the letter (e.g., Coimbatore-69, 28 November, 2017).",
+      "source": "vetrii",
+      "source_page": 12,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Writer's name",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "Part of the sequence provided in the exercise.",
+      "source": "vetrii",
+      "source_page": 13,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Writer's address and date",
+      "order_num": 2,
+      "applies_to": "formal",
+      "note_en": "Part of the sequence provided in the exercise.",
+      "source": "vetrii",
+      "source_page": 13,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The salutation",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Part of the sequence provided in the exercise.",
+      "source": "vetrii",
+      "source_page": 13,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The body of the letter",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Part of the sequence provided in the exercise.",
+      "source": "vetrii",
+      "source_page": 13,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The subscription",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "Part of the sequence provided in the exercise.",
+      "source": "vetrii",
+      "source_page": 13,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The superscription",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "Part of the sequence provided in the exercise.",
+      "source": "vetrii",
+      "source_page": 13,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Name/designation address of the receiver",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Details of the person or department receiving the letter.",
+      "source": "asan",
+      "source_page": 2,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's Name/Designation",
+      "order_num": 10,
+      "applies_to": "formal",
+      "note_en": "Full name and title of the sender.",
+      "source": "asan",
+      "source_page": 2,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's signature and designation",
+      "order_num": 8,
+      "applies_to": "formal",
+      "note_en": "Sign and state designation if any.",
+      "source": "asan",
+      "source_page": 3,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "Indicates the purpose of the letter.",
+      "source": "asan",
+      "source_page": 4,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sir / Madam",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "The formal address to the recipient.",
+      "source": "asan",
+      "source_page": 5,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "A concise summary of the letter's purpose.",
+      "source": "asan",
+      "source_page": 5,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Closing phrase such as 'Yours faithfully'.",
+      "source": "asan",
+      "source_page": 5,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Designation",
+      "order_num": 9,
+      "applies_to": "formal",
+      "note_en": "The sender's title or position.",
+      "source": "asan",
+      "source_page": 5,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Name (Sender)",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "Name of applicant",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Address (Sender)",
+      "order_num": 2,
+      "applies_to": "formal",
+      "note_en": "Street address",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "City, State, PIN Code (Sender)",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "Location details",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Phone Number (Sender)",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Contact number",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Email Address (Sender)",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "Electronic mail",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Date",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "Date of writing",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Name (Employer)",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Name of the recipient",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Title (Employer)",
+      "order_num": 8,
+      "applies_to": "formal",
+      "note_en": "Designation of recipient",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Company (Employer)",
+      "order_num": 9,
+      "applies_to": "formal",
+      "note_en": "Organization name",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Address (Employer)",
+      "order_num": 10,
+      "applies_to": "formal",
+      "note_en": "Organization address",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "City, State, PIN Code (Employer)",
+      "order_num": 11,
+      "applies_to": "formal",
+      "note_en": "Organization location",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 12,
+      "applies_to": "formal",
+      "note_en": "Dear Mr./Ms. Last Name,",
+      "source": "asan",
+      "source_page": 6,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Body",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "The main content divided into purposeful paragraphs.",
+      "source": "asan",
+      "source_page": 7,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Complimentary Close",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "Example: Yours faithfully,",
+      "source": "asan",
+      "source_page": 7,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Signature",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Includes Sd/-, signature, and NAME.",
+      "source": "asan",
+      "source_page": 7,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Address on the envelope",
+      "order_num": 8,
+      "applies_to": "formal",
+      "note_en": "Details of the recipient written on the envelope.",
+      "source": "asan",
+      "source_page": 7,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Closing Paragraph",
+      "order_num": 5,
+      "applies_to": "informal",
+      "note_en": "The concluding section before the sign-off.",
+      "source": "asan",
+      "source_page": 8,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Complimentary close",
+      "order_num": 6,
+      "applies_to": "informal",
+      "note_en": "The polite sign-off phrase.",
+      "source": "asan",
+      "source_page": 8,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's Name",
+      "order_num": 8,
+      "applies_to": "informal",
+      "note_en": "The signature or name of the sender.",
+      "source": "asan",
+      "source_page": 8,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Heading (consisting of the writer's address and date)",
+      "order_num": 1,
+      "applies_to": "both",
+      "note_en": "Must be included at the start.",
+      "source": "asan",
+      "source_page": 9,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Greeting or salutation",
+      "order_num": 2,
+      "applies_to": "both",
+      "note_en": "Examples: Dear..., My dear..., Sir, Madam.",
+      "source": "asan",
+      "source_page": 9,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Communication or content",
+      "order_num": 3,
+      "applies_to": "both",
+      "note_en": "To be in paragraphs with simple language.",
+      "source": "asan",
+      "source_page": 9,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription",
+      "order_num": 4,
+      "applies_to": "both",
+      "note_en": "Must agree in style: Yours faithfully/sincerely/obediently/truly for formal, yours lovingly/affectionately for personal letters.",
+      "source": "asan",
+      "source_page": 9,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Signature",
+      "order_num": 5,
+      "applies_to": "both",
+      "note_en": "The signature follows the subscription.",
+      "source": "asan",
+      "source_page": 9,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Superscription on the envelope",
+      "order_num": 6,
+      "applies_to": "both",
+      "note_en": "Depends on whether it is formal or informal, with apt salutation and subscription used.",
+      "source": "asan",
+      "source_page": 9,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "Appropriate salutation for formal letters includes 'Dear Sir/Madam'.",
+      "source": "asan",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Complimentary Close",
+      "order_num": 2,
+      "applies_to": "formal",
+      "note_en": "Used at the conclusion of the letter, such as 'Yours sincerely'.",
+      "source": "asan",
+      "source_page": 10,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Salutation",
+      "order_num": 5,
+      "applies_to": "both",
+      "note_en": "Required in both formal and informal letters.",
+      "source": "grammer",
+      "source_page": 274,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Closing Paragraph",
+      "order_num": 7,
+      "applies_to": "both",
+      "note_en": "Required in both formal and informal letters.",
+      "source": "grammer",
+      "source_page": 274,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Complimentary close",
+      "order_num": 8,
+      "applies_to": "both",
+      "note_en": "Required in both formal and informal letters.",
+      "source": "grammer",
+      "source_page": 274,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription",
+      "order_num": 9,
+      "applies_to": "both",
+      "note_en": "Required in both formal and informal letters.",
+      "source": "grammer",
+      "source_page": 274,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender's Name and Designation",
+      "order_num": 10,
+      "applies_to": "both",
+      "note_en": "Sender's name is required for both; designation applies to formal if applicable.",
+      "source": "grammer",
+      "source_page": 274,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Receiver's name/designation and address",
+      "order_num": 3,
+      "applies_to": "formal",
+      "note_en": "The address and designation of the recipient.",
+      "source": "grammer",
+      "source_page": 275,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender’s Name/Designation",
+      "order_num": 9,
+      "applies_to": "formal",
+      "note_en": "The signature and identification of the sender.",
+      "source": "grammer",
+      "source_page": 275,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription",
+      "order_num": 5,
+      "applies_to": "informal",
+      "note_en": "Closing phrase such as 'Your loving daughter'.",
+      "source": "grammer",
+      "source_page": 276,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Sender’s Name",
+      "order_num": 6,
+      "applies_to": "informal",
+      "note_en": "Name of the person writing the letter.",
+      "source": "grammer",
+      "source_page": 276,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Address of the writer",
+      "order_num": 1,
+      "applies_to": "informal",
+      "note_en": "Includes the house/colony and city.",
+      "source": "grammer",
+      "source_page": 280,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Superscription or Salutation",
+      "order_num": 3,
+      "applies_to": "informal",
+      "note_en": "Example: Dear ...",
+      "source": "grammer",
+      "source_page": 280,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subscription including writer’s name",
+      "order_num": 5,
+      "applies_to": "informal",
+      "note_en": "Example: Yours lovingly, Name.",
+      "source": "grammer",
+      "source_page": 280,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Subject line",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Mention the subject of the letter.",
+      "source": "grammer",
+      "source_page": 282,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "Address on envelope",
+      "order_num": 9,
+      "applies_to": "formal",
+      "note_en": "Final part of the formal letter structure.",
+      "source": "grammer",
+      "source_page": 282,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The heading",
+      "order_num": 1,
+      "applies_to": "formal",
+      "note_en": "Sender's details",
+      "source": "grammer",
+      "source_page": 287,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The inside address",
+      "order_num": 2,
+      "applies_to": "formal",
+      "note_en": "Receiver's details",
+      "source": "grammer",
+      "source_page": 287,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The body",
+      "order_num": 4,
+      "applies_to": "formal",
+      "note_en": "Main content of the letter",
+      "source": "grammer",
+      "source_page": 287,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The closing",
+      "order_num": 5,
+      "applies_to": "formal",
+      "note_en": "e.g., Yours faithfully",
+      "source": "grammer",
+      "source_page": 287,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The signature",
+      "order_num": 6,
+      "applies_to": "formal",
+      "note_en": "Sender's name and designation",
+      "source": "grammer",
+      "source_page": 287,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "The address on the envelope",
+      "order_num": 7,
+      "applies_to": "formal",
+      "note_en": "Mailing address",
+      "source": "grammer",
+      "source_page": 287,
+      "lw_tag": "other"
+    },
+    {
+      "part_en": "To (recipient)",
+      "order_num": 1,
+      "applies_to": "memo",
+      "note_en": "Name/designation of the person the memo is addressed to.",
+      "source": "tnpsc_standard",
+      "source_page": 0,
+      "lw_tag": "memo"
+    },
+    {
+      "part_en": "From (sender)",
+      "order_num": 2,
+      "applies_to": "memo",
+      "note_en": "Name/designation of the person sending the memo.",
+      "source": "tnpsc_standard",
+      "source_page": 0,
+      "lw_tag": "memo"
+    },
+    {
+      "part_en": "Date",
+      "order_num": 3,
+      "applies_to": "memo",
+      "note_en": "Date the memo is written.",
+      "source": "tnpsc_standard",
+      "source_page": 0,
+      "lw_tag": "memo"
+    },
+    {
+      "part_en": "Subject line",
+      "order_num": 4,
+      "applies_to": "memo",
+      "note_en": "Brief statement of the memo's topic.",
+      "source": "tnpsc_standard",
+      "source_page": 0,
+      "lw_tag": "memo"
+    },
+    {
+      "part_en": "Body",
+      "order_num": 5,
+      "applies_to": "memo",
+      "note_en": "Main message of the memo in clear, direct language.",
+      "source": "tnpsc_standard",
+      "source_page": 0,
+      "lw_tag": "memo"
+    },
+    {
+      "part_en": "Signature / Initials",
+      "order_num": 6,
+      "applies_to": "memo",
+      "note_en": "Sender's signature or initials at the end.",
+      "source": "tnpsc_standard",
+      "source_page": 0,
+      "lw_tag": "memo"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Which of the following letter doesn't come under the formal letter?",
+      "answer_en": "c) Apology letter",
+      "options_en": [
+        "a) Complaint letter",
+        "b) Business letter",
+        "c) Apology letter",
+        "d) Invitation letter"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Choose the right option showing the order / sequence the different parts in a letter from the choices given below.",
+      "answer_en": "a) 1, 3, 2, 4, 6, 5",
+      "options_en": [
+        "a) 1, 3, 2, 4, 6, 5",
+        "b) 6, 5, 3, 4, 1, 2",
+        "c) 3, 6, 4, 2, 1, 5",
+        "d) 4, 3, 2, 1, 5, 6"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "What is the best practice for addressing a woman when the marital status is unknown in a formal letter?",
+      "answer_en": "d) Madam",
+      "options_en": [
+        "a) Miss",
+        "b) Mrs.",
+        "c) Ms.",
+        "d) Madam"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "The phrase 'per annum' in a formal letter typically refers to what?",
+      "answer_en": "c) Annually",
+      "options_en": [
+        "a) Per hour",
+        "b) Per assignment",
+        "c) Annually",
+        "d) As necessary"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "__________ is written to seek information from other organizations.",
+      "answer_en": "b) Enquiry letter",
+      "options_en": [
+        "a) Informal letter",
+        "b) Enquiry letter",
+        "c) Complaint letter",
+        "d) Adjustment letter"
+      ],
+      "lw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "All letters generally ends with",
+      "answer_en": "d) Signature",
+      "options_en": [
+        "a) Subscription",
+        "b) Heading",
+        "c) Salutation",
+        "d) Signature"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Which of the following is/are the correct statement/s regarding letter writing?",
+      "answer_en": "ii. The right sequence of writing a letter to the editor is - Sender's address, Receiver's address, Subject, Salutation, Body of letter, Subscription, Date.",
+      "options_en": [
+        "i. Yours faithfully' is used for ending a formal letter.",
+        "ii. The right sequence of writing a letter to the editor is - Sender's address, Receiver's address, Subject, Salutation, Body of letter, Subscription, Date.",
+        "iii. The right format of writing a date in all formal letters is '30 June, 2023' instead of '30/06/2023'.",
+        "iv. 'Yours truly' is used for ending an informal letter."
+      ],
+      "lw_tag": "statement",
+      "source": "vetrii",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "Which of the following doesn't comes under informal letter?",
+      "answer_en": "d) Resignation letter",
+      "options_en": [
+        "a) Letters to family and friends",
+        "b) Congratulation letters",
+        "c) Well-being checks letter",
+        "d) Resignation letter"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "Which of the following is not an complimentary close in letters?",
+      "answer_en": "d) None of the above",
+      "options_en": [
+        "a) Yours cordially",
+        "b) Yours truly",
+        "c) Yours faithfully",
+        "d) None of the above"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "Which of the following doesn't comes under informal letter? i. Informal letter doesn't need any signature of the sender. ii. Need not to mention pin code. iii. Compulsory it should contain salutation.",
+      "answer_en": "d) None of the above",
+      "options_en": [
+        "a) i and iii",
+        "b) I and ii",
+        "c) ii and iii",
+        "d) None of the above"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "What type of letter is this?",
+      "answer_en": "b) Enquiry Letter",
+      "options_en": [
+        "a) Complaint Letter",
+        "b) Enquiry Letter",
+        "c) Order Letter",
+        "d) Request Letter"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Who is the sender of the letter?",
+      "answer_en": "a) Rajesh Kumar",
+      "options_en": [
+        "a) Rajesh Kumar",
+        "b) Srivatsav",
+        "c) The Manager",
+        "d) ABC Institute"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Who is the receiver of the letter?",
+      "answer_en": "b) The Manager of ABC Institute",
+      "options_en": [
+        "a) Rajesh Kumar",
+        "b) The Manager of ABC Institute",
+        "c) Srivatsav",
+        "d) The Principal of a school"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "What is the purpose of the letter?",
+      "answer_en": "b) To request information about a computer course",
+      "options_en": [
+        "a) To file a complaint",
+        "b) To request information about a computer course",
+        "c) To place an order for computer course",
+        "d) To express gratitude"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "What information does the sender request?",
+      "answer_en": "a) Course details, duration, fees, and eligibility",
+      "options_en": [
+        "a) Course details, duration, fees, and eligibility",
+        "b) Refund policy of the institute",
+        "c) Complaint about a delayed response",
+        "d) Request for a job opportunity"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "How does the sender conclude the letter?",
+      "answer_en": "a) With a request for a quick response",
+      "options_en": [
+        "a) With a request for a quick response",
+        "b) By demanding immediate action",
+        "c) By criticizing the institute",
+        "d) By providing a solution"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "What is the tone of the letter?",
+      "answer_en": "b) Formal and polite",
+      "options_en": [
+        "a) Aggressive",
+        "b) Formal and polite",
+        "c) Casual and humorous",
+        "d) Apologetic"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "Which of the following is an important part of an enquiry letter?",
+      "answer_en": "b) Requesting specific details",
+      "options_en": [
+        "a) Expressing anger",
+        "b) Requesting specific details",
+        "c) Placing an order",
+        "d) Demanding compensation"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "What does the sender expect from the receiver?",
+      "answer_en": "b) Information about computer courses",
+      "options_en": [
+        "a) A complaint resolution",
+        "b) Information about computer courses",
+        "c) A job offer",
+        "d) A refund for a course"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "What is the appropriate salutation used in this letter?",
+      "answer_en": "d) Dear Sir/Madam",
+      "options_en": [
+        "a) Dear Friend",
+        "b) Respected Sir/Madam",
+        "c) Hello Sir/Madam",
+        "d) Dear Sir/Madam"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 10
+    },
+    {
+      "prompt_en": "What type of letter is this?",
+      "answer_en": "c) Order Letter",
+      "options_en": [
+        "a) Complaint Letter",
+        "b) Inquiry Letter",
+        "c) Order Letter",
+        "d) Apology Letter"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "Who is the sender of the letter?",
+      "answer_en": "b) M. Ramesh",
+      "options_en": [
+        "a) XYZ Publishers Pvt. Ltd.",
+        "b) M. Ramesh",
+        "c) The Sales Manager",
+        "d) A school principal"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "Who is the receiver of the letter?",
+      "answer_en": "b) The Sales Manager of XYZ Publishers Pvt. Ltd.",
+      "options_en": [
+        "a) M. Ramesh",
+        "b) The Sales Manager of XYZ Publishers Pvt. Ltd.",
+        "c) A Sales Manager of an apparel store",
+        "d) A Sales Manager of a Shopping mall."
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "What is the purpose of the letter?",
+      "answer_en": "b) To place an order for books",
+      "options_en": [
+        "a) To request information about books",
+        "b) To place an order for books",
+        "c) To complain about a delayed delivery",
+        "d) To ask for a refund"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "What details are included in the letter?",
+      "answer_en": "a) List of books, quantity, and delivery request",
+      "options_en": [
+        "a) List of books, quantity, and delivery request",
+        "b) Complaint about book quality",
+        "c) Request for a catalog",
+        "d) Inquiry about the author of books"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "How does the sender conclude the letter?",
+      "answer_en": "a) By requesting confirmation of order and delivery details",
+      "options_en": [
+        "a) By requesting confirmation of order and delivery details",
+        "b) By demanding a refund",
+        "c) By asking for free books",
+        "d) By mentioning personal issues"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "What mode of payment is mentioned in the letter?",
+      "answer_en": "b) Payment upon delivery",
+      "options_en": [
+        "a) Prepaid before delivery",
+        "b) Payment upon delivery",
+        "c) Monthly installments",
+        "d) No payment mentioned"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "What does the sender expect from the letter?",
+      "answer_en": "b) A confirmation of order and delivery date",
+      "options_en": [
+        "a) A complaint resolution",
+        "b) A confirmation of order and delivery date",
+        "c) An invitation to a book launch",
+        "d) A refund for previous orders"
+      ],
+      "lw_tag": "choose_correct",
+      "source": "asan",
+      "source_page": 11
+    },
+    {
+      "prompt_en": "Imagine that you have parked your two-wheeler / bicycle inside the school premises. You find it missing in the evening. Write a complaint to the Head of the school regarding this issue.",
+      "answer_en": "Write a formal complaint letter addressed to the Head of the school following formal letter structure.",
+      "options_en": [],
+      "lw_tag": "other",
+      "source": "grammer",
+      "source_page": 279
+    },
+    {
+      "prompt_en": "Write a complaint to the officer of the PWD department to take immediate action to maintain cleanliness in the Children’s Park in your locality.",
+      "answer_en": "Write a formal complaint letter addressed to the PWD officer following formal letter structure.",
+      "options_en": [],
+      "lw_tag": "other",
+      "source": "grammer",
+      "source_page": 279
+    },
+    {
+      "prompt_en": "Write a letter to the manager of a famous daily, ordering subscription for your school library.",
+      "answer_en": "Write a formal order letter addressed to the manager following formal letter structure.",
+      "options_en": [],
+      "lw_tag": "other",
+      "source": "grammer",
+      "source_page": 279
+    },
+    {
+      "prompt_en": "Which of the following is not included in a memo?",
+      "answer_en": "Greeting/Salutation",
+      "options_en": [
+        "Subject line",
+        "Greeting/Salutation",
+        "To and from sections",
+        "Signature line"
+      ],
+      "lw_tag": "memo",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "prompt_en": "Which of the following is a suitable salutation for a formal letter?",
+      "answer_en": "Dear Sir/Madam",
+      "options_en": [
+        "Hello",
+        "Dear Sir/Madam",
+        "Cheers",
+        "Best regards"
+      ],
+      "lw_tag": "salutation",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    },
+    {
+      "prompt_en": "Which of the following statements are NOT characteristic of a formal letter? (c) Use of slang or unprofessional expressions",
+      "answer_en": "Use of slang or unprofessional expressions",
+      "options_en": [
+        "Use of professional language",
+        "Clear and understandable structure",
+        "Use of slang or unprofessional expressions",
+        "Convey official information"
+      ],
+      "lw_tag": "statement",
+      "source": "tnpsc_standard",
+      "source_page": 0
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 77,
+      "examples": 43,
+      "letter_parts": 111,
+      "worked_exercises": 34
+    }
+  }
+}

@@ -1,0 +1,1218 @@
+{
+  "topic_id": "sentence_translation",
+  "topic_title": "Sentence Translation",
+  "unit": 6,
+  "batches_target": 3,
+  "pages": [
+    70,
+    85
+  ],
+  "rules": [
+    {
+      "rule_en": "Effective translation requires capturing the core meaning rather than literal word-for-word conversion.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Maintaining technical terminology accurately across languages is vital for socio-political topics.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [],
+  "examples": [
+    {
+      "note_en": "Translations focused on contemporary governance, socio-economic issues, and technological advancements.",
+      "tag": "vocabulary"
+    }
+  ],
+  "passages": [],
+  "translations": [
+    {
+      "en": "Dance is not my cup of tea; I prefer singing.",
+      "ta": "நடனம் எனக்கு விருப்பமான ஒன்று இல்லை; நான் பாடுவதை விரும்புகிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I will travel tomorrow.",
+      "ta": "நான் நாளை பயணம் செய்வேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The work will be done by him.",
+      "ta": "அந்த வேலை அவனால் செய்யப்படும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You should study hard.",
+      "ta": "நீ கடினமாக படிக்க வேண்டும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She has finished her work.",
+      "ta": "அவள் தன் வேலையை முடித்துவிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He had left before I arrived.",
+      "ta": "நான் வருவதற்கு முன்பு அவன் போயிருந்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Open the door.",
+      "ta": "கதவைத் திற.",
+      "tag": "sentence"
+    },
+    {
+      "en": "What a beautiful day!",
+      "ta": "என்ன ஒரு அழகான நாள்!",
+      "tag": "sentence"
+    },
+    {
+      "en": "If it rains, we will stay home.",
+      "ta": "மழை பெய்தால், நாங்கள் வீட்டிலேயே இருப்போம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The man who is wearing a hat is my brother.",
+      "ta": "தொப்பி அணிந்திருக்கும் மனிதன் என் சகோதரன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The cat slept under the table.",
+      "ta": "பூனை மேசைக்கு அடியில் தூங்கியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Although it was late, they continued working.",
+      "ta": "தாமதமாக இருந்தபோதிலும், அவர்கள் தொடர்ந்து வேலை செய்தனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Where are you going?",
+      "ta": "நீ எங்கே போகிறாய்?",
+      "tag": "sentence"
+    },
+    {
+      "en": "Do you like pizza?",
+      "ta": "உனக்குப் பிட்சா பிடிக்குமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "She sings beautifully.",
+      "ta": "அவள் அழகாகப் பாடுகிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We will go soon.",
+      "ta": "நாங்கள் விரைவில் போவோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "It is a big house.",
+      "ta": "இது ஒரு பெரிய வீடு.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He likes her.",
+      "ta": "அவனுக்கு அவளைப் பிடிக்கும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "This is my book.",
+      "ta": "இது என்னுடைய புத்தகம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Give me the book.",
+      "ta": "எனக்கு அந்தப் புத்தகத்தைக் கொடு.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I have three apples.",
+      "ta": "என்னிடம் மூன்று ஆப்பிள்கள் உள்ளன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Please give me some water.",
+      "ta": "எனக்கு கொஞ்சம் தண்ணீர் கொடுங்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The children are playing in the park.",
+      "ta": "குழந்தைகள் பூங்காவில் விளையாடிக்கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She is reading an interesting book.",
+      "ta": "அவள் ஒரு சுவாரஸ்யமான புத்தகம் படித்துக் கொண்டிருக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We went to the cinema last night.",
+      "ta": "நாங்கள் நேற்று இரவு சினிமாவுக்குப் போனோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He will visit his grandparents next week.",
+      "ta": "அவர் அடுத்த வாரம் தன் தாத்தா பாட்டியைப் பார்ப்பார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The food smells delicious.",
+      "ta": "உணவு மிகவும் சுவையாக இருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They speak English fluently.",
+      "ta": "அவர்கள் சரளமாக ஆங்கிலம் பேசுகிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I need some help with this problem.",
+      "ta": "இந்த பிரச்சனைக்கு எனக்கு கொஞ்சம் உதவி தேவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Can you please close the window?",
+      "ta": "தயவுசெய்து ஜன்னலை மூட முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The train arrived on time.",
+      "ta": "ரயில் சரியான நேரத்திற்கு வந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She bought a new dress yesterday.",
+      "ta": "அவள் நேற்று ஒரு புதிய ஆடை வாங்கினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are planning a holiday.",
+      "ta": "நாங்கள் ஒரு விடுமுறைக்குத் திட்டமிடுகிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He enjoys listening to music.",
+      "ta": "அவர் இசை கேட்பதை விரும்புகிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The cat is sleeping on the sofa.",
+      "ta": "பூனை சோபாவில் தூங்கிக் கொண்டிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are building a new house.",
+      "ta": "அவர்கள் ஒரு புதிய வீடு கட்டிக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I have lived here for ten years.",
+      "ta": "நான் இங்கே பத்து வருடங்களாக வசித்து வருகிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She can play the piano very well.",
+      "ta": "அவளால் பியானோவை நன்றாக வாசிக்க முடியும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We often go for a walk in the evening.",
+      "ta": "நாங்கள் அடிக்கடி மாலை நேரத்தில் உலா போகிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is learning to drive a car.",
+      "ta": "அவர் கார் ஓட்ட கற்றுக் கொண்டிருக்கிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The flowers in the garden are beautiful.",
+      "ta": "தோட்டத்தில் உள்ள பூக்கள் அழகாக இருக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They had a picnic last weekend.",
+      "ta": "அவர்கள் கடந்த வாரம் ஒரு சுற்றுலா சென்றார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The stars are shining brightly tonight.",
+      "ta": "இன்று இரவு நட்சத்திரங்கள் பிரகாசமாக மின்னிக் கொண்டிருக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He solved the difficult puzzle quickly.",
+      "ta": "அவன் கடினமான புதிரை விரைவாக தீர்த்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We will celebrate her birthday next month.",
+      "ta": "நாங்கள் அடுத்த மாதம் அவளுடைய பிறந்தநாளை கொண்டாடுவோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She offered me a cup of tea.",
+      "ta": "அவள் எனக்கு ஒரு கப் தேநீர் கொடுத்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The river flows gently through the valley.",
+      "ta": "ஆறு பள்ளத்தாக்கின் வழியாக மெதுவாக ஓடுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are studying for their final exams.",
+      "ta": "அவர்கள் தங்கள் இறுதி தேர்வுகளுக்காகப் படித்துக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I forgot to bring my umbrella.",
+      "ta": "நான் என் குடையை எடுத்து வர மறந்துவிட்டேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Can you show me the way to the museum?",
+      "ta": "அருங்காட்சியகத்திற்கு செல்லும் வழியை எனக்கு காட்ட முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The birds are singing in the trees.",
+      "ta": "பறவைகள் மரங்களில் பாடிக்கொண்டிருக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He works as a software engineer.",
+      "ta": "அவர் ஒரு மென்பொருள் பொறியாளராக வேலை செய்கிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We enjoyed the delicious meal at the restaurant.",
+      "ta": "உணவகத்தில் சுவையான உணவை நாங்கள் ரசித்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She is interested in learning new languages.",
+      "ta": "அவள் புதிய மொழிகள் கற்க ஆர்வமாக இருக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The movie was very exciting.",
+      "ta": "அந்த திரைப்படம் மிகவும் பரபரப்பாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They decided to travel by train.",
+      "ta": "அவர்கள் ரயிலில் பயணம் செய்ய முடிவு செய்தனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I often dream about traveling around the world.",
+      "ta": "நான் அடிக்கடி உலகம் முழுவதும் பயணம் செய்வதைப் பற்றி கனவு காண்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She writes beautiful poems.",
+      "ta": "அவள் அழகான கவிதைகள் எழுதுகிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We met some interesting people at the conference.",
+      "ta": "மாநாட்டில் சில சுவாரஸ்யமான நபர்களை நாங்கள் சந்தித்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is a talented musician.",
+      "ta": "அவர் ஒரு திறமையான இசைக்கலைஞர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The weather is quite pleasant today.",
+      "ta": "இன்று வானிலை மிகவும் இனிமையாக உள்ளது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They plan to buy a new car soon.",
+      "ta": "அவர்கள் விரைவில் ஒரு புதிய கார் வாங்க திட்டமிட்டுள்ளனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The moon is shining brightly in the night sky.",
+      "ta": "இரவு வானத்தில் நிலவு பிரகாசமாக ஒளிர்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She carefully watered the plants in her garden.",
+      "ta": "அவள் தன் தோட்டத்தில் உள்ள செடிகளுக்கு கவனமாக தண்ணீர் ஊற்றினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are going to a concert this weekend.",
+      "ta": "நாங்கள் இந்த வார இறுதியில் ஒரு இசை நிகழ்ச்சிக்கு செல்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He quickly answered all the questions in the interview.",
+      "ta": "அவர் நேர்காணலில் அனைத்து கேள்விகளுக்கும் விரைவாக பதிலளித்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The old house stood silently on the hill.",
+      "ta": "அந்த பழைய வீடு மலையில் அமைதியாக நின்றது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are discussing their travel plans for the summer.",
+      "ta": "அவர்கள் கோடைக்கால பயணத் திட்டங்களைப் பற்றி விவாதித்துக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I suddenly remembered that it was her birthday.",
+      "ta": "திடீரென்று எனக்கு அவளுடைய பிறந்தநாள் என்று ஞாபகம் வந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Can you please help me carry these heavy bags?",
+      "ta": "இந்த கனமான பைகளை எடுத்துச் செல்ல எனக்கு உதவ முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The wind was blowing strongly against the windows.",
+      "ta": "காற்று ஜன்னல்களுக்கு எதிராக பலமாக வீசியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She often visits her relatives who live in another city.",
+      "ta": "அவள் அடிக்கடி வேறொரு நகரத்தில் வசிக்கும் உறவினர்களைப் பார்க்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We thoroughly enjoyed the scenic beauty of the mountains.",
+      "ta": "நாங்கள் மலைகளின் அழகான காட்சியை முழுமையாக ரசித்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is passionate about photography.",
+      "ta": "அவர் புகைப்படக்கலையில் மிகுந்த ஆர்வம் கொண்டவர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The story he told us was very amusing.",
+      "ta": "அவர் எங்களிடம் சொன்ன கதை மிகவும் வேடிக்கையாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They have decided to renovate their kitchen.",
+      "ta": "அவர்கள் தங்கள் சமையலறையை புதுப்பிக்க முடிவு செய்துள்ளனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I rarely eat fast food.",
+      "ta": "நான் அரிதாகவே துரித உணவுகளை சாப்பிடுகிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She plays the violin with great skill.",
+      "ta": "அவள் மிகுந்த திறமையுடன் வயலின் வாசிக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are looking forward to the holidays.",
+      "ta": "நாங்கள் விடுமுறைக்காக ஆவலுடன் காத்திருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is teaching his son how to ride a bicycle.",
+      "ta": "அவர் தன் மகனுக்கு மிதிவண்டி ஓட்ட கற்றுக்கொடுக்கிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The painting in the gallery was very impressive.",
+      "ta": "கண்காட்சியகத்தில் இருந்த ஓவியம் மிகவும் ஈர்க்கக்கூடியதாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are planning to organize a charity event.",
+      "ta": "அவர்கள் ஒரு தொண்டு நிகழ்ச்சியை நடத்த திட்டமிட்டுள்ளனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The aroma of freshly baked bread filled the air.",
+      "ta": "புதிதாக சுட்ட ரொட்டியின் வாசனை காற்றில் நிறைந்திருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She gracefully danced across the stage.",
+      "ta": "அவள் மேடையில் அழகாக நடனமாடினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are considering buying a house in the suburbs.",
+      "ta": "நாங்கள் புறநகரில் ஒரு வீடு வாங்க யோசித்துக் கொண்டிருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He patiently waited for his turn in the queue.",
+      "ta": "அவர் வரிசையில் தன் முறைக்காக பொறுமையாக காத்திருந்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The ancient ruins told a story of the past.",
+      "ta": "அந்தப் பழங்கால இடிபாடுகள் கடந்த காலத்தின் கதையைச் சொன்ன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are working on a new and innovative project.",
+      "ta": "அவர்கள் ஒரு புதிய மற்றும் புதுமையான திட்டத்தில் வேலை செய்து கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I suddenly realized I had made a mistake.",
+      "ta": "நான் திடீரென்று ஒரு தவறு செய்துவிட்டேன் என்று உணர்ந்தேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Can you please turn off the lights before you leave?",
+      "ta": "நீங்கள் புறப்படுவதற்கு முன் விளக்குகளை அணைக்க முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The waves crashed loudly against the shore.",
+      "ta": "அலைகள் பலமாக கடற்கரையில் மோதின.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She often volunteers at the local animal shelter.",
+      "ta": "அவள் அடிக்கடி உள்ளூர் விலங்குகள் காப்பகத்தில் தன்னார்வத் தொண்டு செய்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We thoroughly enjoyed the peaceful atmosphere of the village.",
+      "ta": "கிராமத்தின் அமைதியான சூழ்நிலையை நாங்கள் முழுமையாக ரசித்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is very knowledgeable about history.",
+      "ta": "அவர் வரலாற்றைப் பற்றி மிகவும் அறிந்தவர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The joke he told us was hilarious.",
+      "ta": "அவர் எங்களிடம் சொன்ன ஜோக் மிகவும் நகைச்சுவையாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They have decided to adopt a pet.",
+      "ta": "அவர்கள் ஒரு செல்லப்பிராணியைத் தத்தெடுக்க முடிவு செய்துள்ளனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I occasionally go hiking in the mountains.",
+      "ta": "நான் எப்போதாவது மலைகளில் மலைஏற்றம் செல்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She speaks several foreign languages fluently.",
+      "ta": "அவள் பல வெளிநாட்டு மொழிகளை சரளமாகப் பேசுகிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are planning to visit a new country next year.",
+      "ta": "நாங்கள் அடுத்த ஆண்டு ஒரு புதிய நாட்டிற்குச் செல்லத் திட்டமிடுகிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The artwork in the museum was truly inspiring.",
+      "ta": "அருங்காட்சியகத்தில் இருந்த கலைப்படைப்பு உண்மையிலேயே ஊக்கமளிப்பதாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are organizing a community clean-up event.",
+      "ta": "அவர்கள் ஒரு சமூக தூய்மைப்படுத்தும் நிகழ்வை ஏற்பாடு செய்து கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The silence in the room was quite unsettling.",
+      "ta": "அறையில் நிலவிய அமைதி மிகவும் அமைதியற்றதாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She looked at him with a hint of amusement.",
+      "ta": "அவள் அவனை லேசான நகைச்சுவையுடன் பார்த்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are cautiously optimistic about the upcoming results.",
+      "ta": "எதிர்கால முடிவுகளைப் பற்றி நாங்கள் கவனமாக நம்பிக்கை கொண்டுள்ளோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He stubbornly refused to admit his mistake.",
+      "ta": "அவன் பிடிவாதமாக தன் தவறை ஒப்புக்கொள்ள மறுத்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The old photograph evoked a sense of nostalgia.",
+      "ta": "அந்த பழைய புகைப்படம் ஒரு ஏக்க உணர்வை ஏற்படுத்தியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are deliberately ignoring the warnings.",
+      "ta": "அவர்கள் வேண்டுமென்றே எச்சரிக்கைகளை புறக்கணித்துக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I vaguely remember meeting him once before.",
+      "ta": "அவரை இதற்கு முன்பு ஒருமுறை சந்தித்தது எனக்கு மங்கலாக நினைவிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Could you possibly lend me your pen for a moment?",
+      "ta": "ஒரு நிமிடம் உங்கள் பேனாவை எனக்கு கொடுக்க முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The storm raged fiercely throughout the night.",
+      "ta": "புயல் இரவு முழுவதும் கடுமையாக கொந்தளித்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She politely declined their generous offer.",
+      "ta": "அவள் அவர்களின் தாராளமான சலுகையை பணிவுடன் மறுத்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We were utterly astonished by the unexpected news.",
+      "ta": "எதிர்பாராத செய்தியால் நாங்கள் முற்றிலும் திகைத்துப் போனோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He spoke with quiet confidence about his plans.",
+      "ta": "அவர் தன் திட்டங்களைப் பற்றி அமைதியான நம்பிக்கையுடன் பேசினார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The situation seemed rather precarious at that moment.",
+      "ta": "அந்த நேரத்தில் நிலைமை மிகவும் ஆபத்தானதாகத் தோன்றியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They reluctantly agreed to help us with the task.",
+      "ta": "அவர்கள் தயக்கத்துடன் அந்த வேலையில் எங்களுக்கு உதவ ஒப்புக்கொண்டார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She expressed her sincere gratitude for their support.",
+      "ta": "அவர்கள் அளித்த ஆதரவுக்கு அவள் தன் மனமார்ந்த நன்றியை தெரிவித்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are eagerly anticipating their arrival.",
+      "ta": "நாங்கள் அவர்களின் வருகைக்காக ஆவலுடன் காத்திருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He gently patted the dog on its head.",
+      "ta": "அவர் மெதுவாக நாயின் தலையைத் தட்டினார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The evidence presented was quite compelling.",
+      "ta": "சமர்ப்பிக்கப்பட்ட சான்றுகள் மிகவும் நம்பத்தகுந்ததாக இருந்தன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The old lighthouse stood sentinel against the crashing waves.",
+      "ta": "அந்த பழைய கலங்கரை விளக்கம் மோதும் அலைகளுக்கு எதிராக காவல் காத்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She hummed a familiar tune as she went about her work.",
+      "ta": "அவள் தன் வேலையைச் செய்துகொண்டே ஒரு பழக்கமான மெட்டை முணுமுணுத்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are cautiously proceeding with the new strategy.",
+      "ta": "நாங்கள் புதிய உத்தியுடன் கவனமாக முன்னேறி வருகிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He vehemently denied any involvement in the incident.",
+      "ta": "அவர் அந்த சம்பவத்தில் தனக்கு எந்த தொடர்பும் இல்லை என்று கடுமையாக மறுத்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The unexpected rainfall brought a welcome respite from the heat.",
+      "ta": "எதிர்பாராத மழை வெப்பத்திலிருந்து ஒரு இனிமையான நிவாரணம் அளித்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are subtly hinting at a change in their plans.",
+      "ta": "அவர்கள் தங்கள் திட்டங்களில் ஒரு மாற்றத்தை மெதுவாக சூசகம் செய்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I distinctly remember the day we first met.",
+      "ta": "நாங்கள் முதன்முதலில் சந்தித்த நாள் எனக்கு தெளிவாக நினைவிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Could you possibly direct me to the nearest post office?",
+      "ta": "தயவுசெய்து அருகிலுள்ள தபால் நிலையத்திற்கு செல்லும் வழியைக் காட்ட முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The wind howled eerily through the empty streets.",
+      "ta": "காற்று வெறிச்சோடிய தெருக்களில் பயங்கரமாக ஊளையிட்டது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She graciously accepted the award.",
+      "ta": "அவள் அந்த விருதை கருணையுடன் ஏற்றுக்கொண்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We were completely bewildered by his sudden departure.",
+      "ta": "அவரது திடீர் புறப்பாட்டால் நாங்கள் முற்றிலும் குழப்பமடைந்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He spoke with quiet determination about his goals.",
+      "ta": "அவர் தன் இலக்குகளைப் பற்றி அமைதியான உறுதியுடன் பேசினார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The atmosphere in the room was palpably tense.",
+      "ta": "அறையின் சூழ்நிலை வெளிப்படையாக பதட்டமாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They reluctantly shared the little food they had.",
+      "ta": "அவர்கள் தங்களிடம் இருந்த கொஞ்ச உணவையும் தயக்கத்துடன் பகிர்ந்து கொண்டனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I occasionally reflect on the choices I have made.",
+      "ta": "நான் எப்போதாவது நான் எடுத்த முடிவுகளைப் பற்றி சிந்திக்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She conveyed her deep sympathy for their loss.",
+      "ta": "அவர்கள் அடைந்த இழப்புக்கு அவள் தன் ஆழ்ந்த அனுதாபத்தை தெரிவித்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are anxiously awaiting news of their safe arrival.",
+      "ta": "அவர்கள் பத்திரமாக வந்தடைந்த செய்திக்காக நாங்கள் ஆவலுடன் காத்திருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He skillfully navigated the crowded marketplace.",
+      "ta": "அவர் திறமையாக கூட்ட நெரிசல் மிகுந்த சந்தையில் சென்றார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The artwork in the gallery provoked a thoughtful response.",
+      "ta": "காட்சியகத்தில் இருந்த கலைப்படைப்பு ஒரு சிந்தனைமிக்க பதிலை தூண்டியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The distant sound of thunder rumbled across the hills.",
+      "ta": "தொலைவில் இடியின் சத்தம் மலைகளின் குறுக்கே முழங்கியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She absentmindedly twirled a strand of her hair.",
+      "ta": "அவள் கவனமின்றி தன் தலைமுடியின் ஒரு பகுதியை சுழற்றினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are cautiously optimistic that the negotiations will succeed.",
+      "ta": "பேச்சுவார்த்தைகள் வெற்றி பெறும் என்று நாங்கள் கவனமாக நம்பிக்கை கொண்டுள்ளோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He vehemently disagreed with their proposed solution.",
+      "ta": "அவர்கள் முன்வைத்த தீர்வுக்கு அவர் கடுமையாக எதிர்ப்பு தெரிவித்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The unexpected warmth of the sun felt comforting on her skin.",
+      "ta": "எதிர்பாராத சூரியனின் வெப்பம் அவள் தோலுக்கு இதமாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are subtly trying to ascertain our true intentions.",
+      "ta": "அவர்கள் எங்கள் உண்மையான நோக்கங்களை மெதுவாக அறிய முயற்சிக்கின்றனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I vividly recall the excitement of that first journey.",
+      "ta": "அந்த முதல் பயணத்தின் உற்சாகம் எனக்கு தெளிவாக நினைவிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Could you possibly help me decipher this ancient inscription?",
+      "ta": "இந்த பழங்கால கல்வெட்டை படிக்க அல்லது புரிந்துகொள்ள எனக்கு உதவ முடியுமா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "The wind whispered secrets through the tall trees.",
+      "ta": "காற்று உயர்ந்த மரங்களின் வழியே ரகசியங்களை கிசுகிசுத்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She gracefully accepted the compliments with a smile.",
+      "ta": "அவள் புன்னகையுடன் பாராட்டுகளை அழகாக ஏற்றுக்கொண்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We were utterly dismayed by the disappointing news.",
+      "ta": "ஏமாற்றமளிக்கும் செய்தியால் நாங்கள் முற்றிலும் கவலை அடைந்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He spoke with quiet conviction about his beliefs.",
+      "ta": "அவர் தன் நம்பிக்கைகளைப் பற்றி அமைதியான உறுதியுடன் பேசினார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The tension in the room was almost unbearable.",
+      "ta": "அறையில் நிலவிய பதற்றம் தாங்க முடியாததாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They reluctantly admitted that they were wrong.",
+      "ta": "அவர்கள் தங்கள் தவறை தயக்கத்துடன் ஒப்புக்கொண்டார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I occasionally ponder the mysteries of the universe.",
+      "ta": "நான் எப்போதாவது பிரபஞ்சத்தின் மர்மங்களைப் பற்றி சிந்திக்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She conveyed her profound admiration for his achievements.",
+      "ta": "அவரது சாதனைகளுக்கு அவள் தன் ஆழ்ந்த பாராட்டுகளைத் தெரிவித்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are anxiously monitoring the weather reports.",
+      "ta": "நாங்கள் வானிலை அறிக்கைகளை ஆர்வத்துடன் கண்காணித்து வருகிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He meticulously repaired the antique clock.",
+      "ta": "அவர் அந்த பழங்கால கடிகாரத்தை மிக கவனமாக பழுது பார்த்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The artwork in the gallery evoked a strong emotional response.",
+      "ta": "காட்சியகத்தில் இருந்த கலைப்படைப்பு ஒரு வலுவான உணர்ச்சிப்பூர்வமான பதிலை தூண்டியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting cultural exchange programs helps foster mutual understanding and respect among different communities.",
+      "ta": "கலாச்சார பரிமாற்ற திட்டங்களை ஊக்குவிப்பது வெவ்வேறு சமூகங்களிடையே பரஸ்பர புரிதலையும் மரியாதையையும் வளர்க்க உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Regular participation in sports and outdoor activities is beneficial for both physical fitness and mental well-being.",
+      "ta": "விளையாட்டு மற்றும் வெளிப்புற நடவடிக்கைகளில் தொடர்ந்து பங்கேற்பது உடல் தகுதி மற்றும் மன நலன் இரண்டிற்கும் பயக்கும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The development of critical thinking skills is essential for navigating complex information in the modern world.",
+      "ta": "நவீன உலகில் சிக்கலான தகவல்களைப் புரிந்துகொள்ள விமர்சன சிந்தனைத் திறன்களை வளர்ப்பது அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Ensuring food security for all citizens remains a primary objective for governments globally and nationally.",
+      "ta": "அனைத்து குடிமக்களுக்கும் உணவுப் பாதுகாப்பு உறுதி செய்வது உலகளவிலும் தேசிய அளவிலும் அரசாங்கங்களின் முதன்மை நோக்கமாக உள்ளது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective communication is key to resolving conflicts peacefully and building strong healthy relationships.",
+      "ta": "மோதல்களை அமைதியாகத் தீர்ப்பதற்கும், ஆரோக்கியமான உறவுகளை உருவாக்குவதற்கும் பயனுள்ள தொடர்பு முக்கியமாகும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The advancement of artificial intelligence is rapidly changing industries and creating new opportunities for growth.",
+      "ta": "செயற்கை நுண்ணறிவின் முன்னேற்றம் தொழில்துறைகளை விரைவாக மாற்றுகிறது மற்றும் வளர்ச்சிக்கான புதிய வாய்ப்புகளை உருவாக்குகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Balanced urban planning is crucial for creating livable cities with green spaces and efficient public transport.",
+      "ta": "பசுமையான இடங்கள் மற்றும் திறமையான பொது போக்குவரத்து வசதிகளுடன் வாழக்கூடிய நகரங்களை உருவாக்க சீரான நகர்ப்புறத் திட்டம் முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Children's rights must be protected at all costs to ensure their safety, education, and overall healthy development.",
+      "ta": "குழந்தைகளின் பாதுகாப்பு, கல்வி மற்றும் ஒட்டுமொத்த ஆரோக்கியமான வளர்ச்சியை உறுதிப்படுத்த குழந்தைகளின் உரிமைகள் முழுமையாகப் பாதுகாக்கப்பட வேண்டும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting local handicrafts and traditional arts helps preserve cultural heritage and supports artisan livelihoods.",
+      "ta": "உள்ளூர் கைவினைப்பொருட்கள் மற்றும் பாரம்பரிய கலைகளை ஊக்குவிப்பது கலாச்சார பாரம்பரியத்தைப் பாதுகாக்கவும் கைவினைஞர்களின் வாழ்வாதாரத்தை ஆதரிக்கவும் உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The fight against corruption requires strong legal frameworks, transparent institutions, and public vigilance.",
+      "ta": "ஊழலுக்கு எதிரான போராட்டத்திற்கு வலுவான சட்டக் கட்டமைப்புகள், வெளிப்படையான நிறுவனங்கள் மற்றும் பொதுமக்களின் விழிப்புணர்வு தேவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Decentralization of power aims to bring governance closer to the people and enhance local decision-making.",
+      "ta": "அதிகாரப் பரவலாக்கம், நிர்வாகத்தை மக்களுக்கு நெருக்கமாகக் கொண்டுவருவதையும், உள்ளூர் முடிவெடுப்பதை மேம்படுத்துவதையும் நோக்கமாகக் கொண்டுள்ளது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Social welfare programs are vital for providing a safety net for vulnerable populations and reducing inequality.",
+      "ta": "பாதிக்கப்படக்கூடிய மக்களுக்குப் பாதுகாப்பு வலையை வழங்குவதற்கும், சமத்துவமின்மையைக் குறைப்பதற்கும் சமூக நலத் திட்டங்கள் மிக முக்கியமானவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Implementing smart city initiatives focuses on improving urban infrastructure, technology, and quality of life.",
+      "ta": "ஸ்மார்ட் சிட்டி திட்டங்களை செயல்படுத்துவது நகர்ப்புற உள்கட்டமைப்பு, தொழில்நுட்பம் மற்றும் வாழ்க்கை தரத்தை மேம்படுத்துவதில் கவனம் செலுத்துகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Government subsidies for small businesses help stimulate economic growth and create employment opportunities.",
+      "ta": "சிறு வணிகங்களுக்கான அரசு மானியங்கள் பொருளாதார வளர்ச்சியை தூண்டவும் வேலை வாய்ப்புகளை உருவாக்கவும் உதவுகின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Regulatory bodies play a crucial role in ensuring fair market practices and protecting consumer interests effectively.",
+      "ta": "நியாயமான சந்தை நடைமுறைகளை உறுதிப்படுத்துவதிலும்,நுகர்வோர் நலன்களை திறம்பட பாதுகாப்பதிலும் ஒழுங்குமுறை அமைப்புகள் முக்கிய பங்கு வகிக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Strengthening national security is paramount for safeguarding a nation's sovereignty and its citizens' well-being.",
+      "ta": "ஒரு நாட்டின் இறையாண்மையையும் அதன் குடிமக்களின் நலனையும் பாதுகாப்பதற்கு தேசிய பாதுகாப்பை வலுப்படுத்துவது மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective public health surveillance systems are essential for early detection and control of infectious diseases.",
+      "ta": "தொற்று நோய்களை முன்கூட்டியே கண்டறிவதற்கும் கட்டுப்படுத்துவதற்கும் பயனுள்ள பொது சுகாதார கண்காணிப்பு அமைப்புகள் அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Policies promoting innovation and entrepreneurship are vital for a dynamic and competitive national economy.",
+      "ta": "புத்தாக்கம் மற்றும் தொழில்முனைவோரை ஊக்குவிக்கும் கொள்கைகள் ஒரு சுறுசுறுப்பான மற்றும் போட்டித்தன்மை கொண்ட தேசிய பொருளாதாரத்திற்கு இன்றியமையாதவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Legal reforms are often necessary to adapt laws to contemporary societal needs and ensure justice for all.",
+      "ta": "சட்டங்களை தற்கால சமூகத் தேவைகளுக்கு ஏற்ப மாற்றுவதற்கும் அனைவருக்கும் நீதியை உறுதி செய்வதற்கும் சட்டச் சீர்திருத்தங்கள் பெரும்பாலும் அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "International cooperation is essential for addressing global challenges such as pandemics, terrorism, and climate change.",
+      "ta": "உலகளாவிய சவால்களான தொற்றுநோய்கள், பயங்கரவாதம் மற்றும் காலநிலை மாற்றம் போன்றவற்றவை எதிர்கொள்ள சர்வதேச ஒத்துழைப்பு அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Sustainable forest management practices are vital for preserving valuable ecosystems and preventing deforestation.",
+      "ta": "மதிப்புமிக்க சுற்றுச்சூழல் அமைப்புகளை பாதுகாப்பதற்கும் காடழிப்பை தடுப்பதற்கும் நிலையான வன மேலாண்மை நடைமுறைகள் மிக முக்கியமானவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Advances in biotechnology offer promising solutions for challenges in healthcare, agriculture, and environmental protection.",
+      "ta": "உயிரி தொழில்நுட்பத்தில் ஏற்பட்ட முன்னேற்றங்கள் சுகாதாரம், விவசாயம் மற்றும் சுற்றுச்சூழல் சவால்களுக்கு நம்பிக்கைக்குரிய தீர்வுகளை வழங்குகின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Ocean conservation efforts are crucial to protect marine life and maintain the health of our planet's largest ecosystem.",
+      "ta": "கடல்வாழ் உயிரினங்களைப் பாதுகாப்பதற்கும் நமது கிரகத்தின் மிகப்பெரிய சுற்றுச்சூழல் அமைப்பின் ஆரோக்கியத்தைப் பேணுவதற்கும் கடல் பாதுகாப்பு முயற்சிகள் முக்கியமானவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The development of sustainable transportation systems is essential for reducing air pollution and traffic congestion.",
+      "ta": "காற்று மாசுபாடு மற்றும் போக்குவரத்து நெரிசலைக் குறைப்பதற்கு நிலையான போக்குவரத்து அமைப்புகளின் வளர்ச்சி அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Understanding plate tectonics helps scientists predict earthquakes and volcanic eruptions, saving countless lives.",
+      "ta": "புவித்தட்டுகள் நகர்வு பற்றிய புரிதல் நிலநடுக்கங்கள் மற்றும் எரிமலை வெடிப்புகளை கணிக்க விஞ்ஞானிகளுக்கு உதவுகிறது, பல உயிர்களைக் காப்பாற்றுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Implementing robust waste recycling programs is key to minimizing landfill waste and conserving natural resources.",
+      "ta": "குப்பைக் கழிவுகளைக் குறைப்பதற்கும் இயற்கை வளங்களைப் பாதுகாப்பதற்கும் வலுவான கழிவு மறுசுழற்சி திட்டங்களை செயல்படுத்துவது முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Genetic engineering holds potential for developing disease-resistant crops and improving human health outcomes.",
+      "ta": "மரபணு பொறியியல் நோய் எதிர்ப்பு சக்தி கொண்ட பயிர்களை உருவாக்குவதற்கும் மனித ஆரோக்கிய விளைவுகளை மேம்படுத்துவதற்கும் சாத்தியக்கூறுகளைக் கொண்டுள்ளது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Protecting natural habitats is fundamental to safeguarding endangered species and maintaining ecological diversity.",
+      "ta": "அழிந்துவரும் உயிரினங்களைப் பாதுகாப்பதற்கும் சுற்றுச்சூழல் பன்முகத்தன்மையை பேணுவதற்கும் இயற்கையான வாழ்விடங்களைப் பாதுகாப்பது அடிப்படை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Scientific literacy among the public is crucial for informed decision-making on complex societal and environmental issues.",
+      "ta": "சிக்கலான சமூக மற்றும் சுற்றுச்சூழல் பிரச்சினைகள் குறித்து தகவலறிந்த முடிவுகளை எடுப்பதற்கு பொதுமக்களிடையே அறிவியல் எழுத்தறிவு மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The responsible use of pesticides and fertilizers is essential for preventing soil degradation and water contamination.",
+      "ta": "மண் சரிவு மற்றும் நீர் மாசுபாட்டைத் தடுக்க பூச்சிக்கொல்லிகள் மற்றும் உரங்களின் பொறுப்பான பயன்பாடு அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Encouraging volunteerism strengthens community bonds and addresses local needs.",
+      "ta": "தன்னார்வத் தொண்டை ஊக்குவிப்பது சமூகப் பிணைப்புகளை வலுப்படுத்துகிறது மற்றும் உள்ளூர் தேவைகளை நிவர்த்தி செய்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Implementing fair trade practices ensures equitable compensation for producers in developing countries.",
+      "ta": "நியாயமான வர்த்தக நடைமுறைகளை செயல்படுத்துவது வளரும் நாடுகளில் உள்ள உற்பத்தியாளர்களுக்கு நியாயமான இழப்பீட்டை உறுதி செய்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting gender equality is crucial for fostering inclusive societies and economic development.",
+      "ta": "பாலின சமத்துவத்தை ஊக்குவிப்பது உள்ளடக்கிய சமூகங்கள் மற்றும் பொருளாதார மேம்பாட்டை வளர்ப்பதற்கு மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The global effort to eradicate poverty requires multifaceted strategies and international cooperation.",
+      "ta": "வறுமையை ஒழிப்பதற்கான உலகளாவிய முயற்சிக்கு பன்முகத்தன்மை கொண்ட உத்திகள் மற்றும் சர்வதேச ஒத்துழைப்பு தேவைப்படுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Safeguarding individual privacy in the digital age poses significant challenges and requires robust regulations.",
+      "ta": "டிஜிட்டல் யுகத்தில் தனிநபர் தனியுரிமையைப் பாதுகாப்பது குறிப்பிடத்தக்க சவால்களை ஏற்படுத்துகிறது மற்றும் வலுவான விதிமுறைகள் தேவைப்படுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Investing in early childhood education yields long-term benefits for individuals and society as a whole.",
+      "ta": "ஆரம்பகால குழந்தை பருவக் கல்வியில் முதலீடு செய்வது தனிநபர்களுக்கும் ஒட்டுமொத்த சமூகத்திற்கும் நீண்டகால நன்மைகளைத் தருகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The responsible development of biotechnology can offer solutions for food security and environmental remediation.",
+      "ta": "உயிரி தொழில்நுட்பத்தின் பொறுப்பான வளர்ச்சி உணவு பாதுகாப்பு மற்றும் சுற்றுச்சூழல் சீரமைப்புக்கு தீர்வுகளை வழங்க முடியும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Adapting to climate change requires innovative solutions and collective action from all nations.",
+      "ta": "காலநிலை மாற்றத்திற்கு ஏற்ப மாறுவதற்கு புதிய கண்டுபிடிப்புகள் மற்றும் அனைத்து நாடுகளிடமிருந்தும் கூட்டு நடவடிக்கை தேவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting ethical journalism is essential for maintaining public trust and informed discourse.",
+      "ta": "நீதியான இதழியலை ஊக்குவிப்பது பொது நம்பிக்கையையும் தகவலறிந்த விவாதத்தையும் பராமரிக்க அவசியமாகும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Sustainable agriculture practices are key to ensuring long-term food production and preserving natural resources.",
+      "ta": "நிலையான விவசாய நடைமுறைகள் நீண்டகால உணவு உற்பத்தியை உறுதி செய்யவும் இயற்கை வளங்களைப் பாதுகாப்பதும் மிக முக்கியமாகும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective waste management systems are vital for protecting the environment and public health.",
+      "ta": "பயனுள்ள கழிவு மேலாண்மை அமைப்புகள் சுற்றுச்சூழலைப் பாதுகாப்பதற்கும் பொது சுகாதாரத்திற்கும் மிக முக்கியமானவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Strengthening disaster resilience helps communities better withstand and recover from natural calamities.",
+      "ta": "பேரிடர் மீள்தன்மையை வலுப்படுத்துவது பேரிடர்களைச் சிறப்பாக எதிர்கொள்ளவும் இயற்கைப் பேரிடர்களிலிருந்து மீளவும் சமூகங்களுக்கு உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting peace education in schools helps cultivate empathy and conflict resolution skills among young people.",
+      "ta": "பள்ளிகளில் அமைதிக் கல்வியை ஊக்குவிப்பது இளைஞர்களிடையே பச்சாதாபம் மற்றும் மோதல் தீர்க்கும் திறன்களை வளர்க்க உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Urban green spaces improve air quality, enhance biodiversity, and offer recreational opportunities.",
+      "ta": "நகர்ப்புற பசுமை இடங்கள் காற்றின் தரத்தை மேம்படுத்துகின்றன, பல்லுயிர் பெருக்கத்தை மேம்படுத்துகின்றன மற்றும் பொழுதுபோக்கு வாய்ப்புகளை வழங்குகின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Digital inclusion initiatives are essential for bridging the technological gap and ensuring equitable access to information.",
+      "ta": "டிஜிட்டல் உள்ளடக்கிய திட்டங்கள் தொழில்நுட்ப இடைவெளியைக் குறைப்பதற்கும் தகவல்களுக்கான சமமான அணுகலை உறுதி செய்வதற்கும் அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Public health campaigns are crucial for raising awareness about preventive measures and healthy lifestyles.",
+      "ta": "தடுப்பு நடவடிக்கைகள் மற்றும் ஆரோக்கியமான வாழ்க்கை முறைகள் குறித்து விழிப்புணர்வை ஏற்படுத்துவதற்கு பொது சுகாதார பிரச்சாரங்கள் மிக முக்கியமானவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Cultural festivals and events play a vital role in preserving traditions and promoting community cohesion.",
+      "ta": "கலாச்சார விழாக்கள் மற்றும் நிகழ்வுகள் மரபுகளை பாதுகாப்பதிலும் சமூக ஒற்றுமையை மேம்படுத்துவதிலும் முக்கிய பங்கு வகிக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Transparent governance systems foster public trust and reduce the likelihood of corruption.",
+      "ta": "வெளிப்படையான ஆட்சி அமைப்புகள் பொது நம்பிக்கையை வளர்க்கின்றன மற்றும் ஊழலின் வாய்ப்பைக் குறைக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Investing in rural development programmes helps improve rural livelihoods and reduce urban migration.",
+      "ta": "கிராமப்புற மேம்பாட்டு திட்டங்களில் முதலீடு செய்வது கிராமப்புற வாழ்வாதாரங்களை மேம்படுத்தவும் நகர்ப்புற இடப்பெயர்ச்சியைக் குறைக்கவும் உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Consumer protection laws are essential for safeguarding consumer rights and ensuring fair market practices.",
+      "ta": "நுகர்வோர் பாதுகாப்பு சட்டங்கள் நுகர்வோர் உரிமைகளைப் பாதுகாப்பதற்கும் நியாயமான சந்தை நடைமுறைகளை உறுதி செய்வதற்கும் அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting responsible land use planning is vital for sustainable development and environmental preservation.",
+      "ta": "பொறுப்பான நிலப் பயன்பாட்டு திட்டமிடலை ஊக்குவிப்பது நிலையான வளர்ச்சிக்கும் சுற்றுச்சூழல் பாதுகாப்பிற்கும் மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Access to affordable and reliable public transport is crucial for urban mobility and reducing traffic congestion.",
+      "ta": "மலிவான மற்றும் நம்பகமான பொது போக்குவரத்துக்கான அணுகல் நகர்ப்புற இயக்கத்திற்கும் போக்குவரத்து நெரிசலைக் குறைப்பதற்கும் மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Strengthening international agreements helps address transnational crimes like human trafficking and drug smuggling.",
+      "ta": "சர்வதேச ஒப்பந்தங்களை வலுப்படுத்துவது மனித கடத்தல் மற்றும் போதைப்பொருள் கடத்தல் போன்ற சர்வதேச குற்றங்களை எதிர்கொள்ள உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting animal welfare policies ensures humane treatment of animals and protects biodiversity.",
+      "ta": "விலங்கு நலக் கொள்கைகளை ஊக்குவிப்பது விலங்குகளை மனிதாபிமானத்துடன் நடத்துவதை உறுதி செய்கிறது மற்றும் பல்லுயிர் பெருக்கத்தைப் பாதுகாக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The development of innovative teaching methods enhances student engagement and learning outcomes.",
+      "ta": "புதுமையான கற்பித்தல் முறைகளின் வளர்ச்சி மாணவர்களின் ஈடுபாடு மற்றும் கற்றல் விளைவுகளை மேம்படுத்துகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Encouraging lifelong learning opportunities empowers individuals to adapt to changing job markets.",
+      "ta": "வாழ்நாள் முழுவதும் கற்கும் வாய்ப்புகளை ஊக்குவிப்பது தனிநபர்களை மாறிவரும் வேலை சந்தைகளுக்கு ஏற்ப தகவமைக்க உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Investing in public infrastructure projects creates jobs and stimulates economic activity.",
+      "ta": "பொது உள்கட்டமைப்பு திட்டங்களில் முதலீடு செய்வது வேலைவாய்ப்புகளை உருவாக்குகிறது மற்றும் பொருளாதார நடவடிக்கைகளை தூண்டுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting responsible consumption and production patterns is key to achieving global sustainability goals.",
+      "ta": "பொறுப்பான நுகர்வு மற்றும் உற்பத்தி முறைகளை ஊக்குவிப்பது உலகளாவிய நிலைத்தன்மை இலக்குகளை அடைவதற்கு முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Strengthening community-based tourism initiatives benefits local populations and preserves cultural authenticity.",
+      "ta": "சமூக அடிப்படையிலான சுற்றுலா முயற்சிகளை வலுப்படுத்துவது உள்ளூர் மக்களுக்கு நன்மை பயக்கிறது மற்றும் கலாச்சார நம்பகத்தன்மையை பாதுகாக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective natural resource management is crucial for balancing economic development and environmental protection.",
+      "ta": "பயனுள்ள இயற்கை வள மேலாண்மை பொருளாதார வளர்ச்சி மற்றும் சுற்றுச்சூழல் பாதுகாப்பை சமநிலைப்படுத்துவதற்கு மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Encouraging interfaith dialogue fosters mutual respect and understanding among diverse religious groups.",
+      "ta": "மதங்களுக்கிடையேயான உரையாடலை ஊக்குவிப்பது பல்வேறு மத குழுக்களிடையே பரஸ்பர மரியாதை மற்றும் புரிதலை வளர்க்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting digital government services enhances efficiency, transparency, and public accessibility.",
+      "ta": "டிஜிட்டல் அரசாங்க சேவைகளை ஊக்குவிப்பது செயல்திறன், வெளிப்படைத்தன்மை மற்றும் பொது அணுகலை மேம்படுத்துகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The global fight against climate change requires significant investment in green technologies.",
+      "ta": "காலநிலை மாற்றத்திற்கு எதிரான உலகளாவிய போராட்டத்திற்கு பசுமை தொழில்நுட்பங்களில் குறிப்பிடத்தக்க முதலீடு தேவைப்படுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Safeguarding journalistic freedom is essential for a healthy democracy and informed citizenry.",
+      "ta": "பத்திரிகை சுதந்திரத்தைப் பாதுகாப்பது ஒரு ஆரோக்கியமான ஜனநாயகம் மற்றும் தகவலறிந்த குடிமக்களுக்கு அவசியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Developing smart agriculture techniques helps improve crop yields and reduce environmental impact.",
+      "ta": "ஸ்மார்ட் விவசாய நுட்பங்களை உருவாக்குவது பயிர் விளைச்சலை மேம்படுத்தவும் சுற்றுச்சூழல் தாக்கத்தைக் குறைக்கவும் உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Investing in vocational training programmes equips individuals with practical skills for employment.",
+      "ta": "தொழிற்கல்வி பயிற்சிகளில் முதலீடு செய்வது தனிநபர்களுக்கு வேலைவாய்ப்பிற்கான நடைமுறைத் திறன்களை வழங்குகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting responsible pet ownership ensures animal well-being and public safety.",
+      "ta": "பொறுப்பான செல்லப்பிராணி உரிமையை ஊக்குவிப்பது விலங்குகளின் நலனையும் பொதுப் பாதுகாப்பையும் உறுதி செய்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective urban planning incorporates mixed-use developments to create vibrant communities.",
+      "ta": "பயனுள்ள நகர்ப்புற திட்டமிடல் துடிப்பான சமூகங்களை உருவாக்க கலப்பு-பயன்பாட்டு மேம்பாடுகளை உள்ளடக்கியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Developing accessible tourism initiatives benefits people with disabilities and promotes inclusivity.",
+      "ta": "அணுகக்கூடிய சுற்றுலா முயற்சிகளை உருவாக்குவது மாற்றுத்திறனாளிகளுக்கு நன்மை பயக்கிறது மற்றும் உள்ளடக்கிய தன்மையை ஊக்குவிக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Strengthening consumer education programmes empowers individuals to make informed purchasing decisions.",
+      "ta": "நுகர்வோர் கல்வி திட்டங்களை வலுப்படுத்துவது தனிநபர்களை தகவலறிந்த கொள்முதல் முடிவுகளை எடுக்க உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting international scientific collaboration accelerates breakthroughs in various fields.",
+      "ta": "சர்வதேச அறிவியல் ஒத்துழைப்பை ஊக்குவிப்பது பல்வேறு துறைகளில் திருப்புமுனைகளை விரைவுபடுத்துகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective water resource management is critical for ensuring water security in arid regions.",
+      "ta": "வரண்ட பகுதிகளில் நீர் பாதுகாப்பை உறுதி செய்வதற்கு பயனுள்ள நீர் வள மேலாண்மை மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Investing in public health infrastructure improves healthcare delivery and reduces disease burden.",
+      "ta": "பொது சுகாதார உள்கட்டமைப்பில் முதலீடு செய்வது சுகாதார சேவைகளை மேம்படுத்துகிறது மற்றும் நோய் சுமையைக் குறைக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting responsible technological innovation ensures that new technologies serve societal good.",
+      "ta": "பொறுப்பான தொழில்நுட்ப புதுமைகளை ஊக்குவிப்பது புதிய தொழில்நுட்பங்கள் சமூக நலனை உறுதி செய்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Strengthening disaster warning systems saves lives and minimises property damage during natural hazards.",
+      "ta": "பேரிடர் எச்சரிக்கை அமைப்புகளை வலுப்படுத்துவது இயற்கை ஆபத்துகளின் போது உயிர்களைக் காப்பாற்றுகிறது மற்றும் சொத்து சேதத்தைக் குறைக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Encouraging citizen participation in urban planning leads to more inclusive and sustainable cities.",
+      "ta": "நகர்ப்புற திட்டமிடலில் குடிமக்கள் பங்கேற்பதை ஊக்குவிப்பது மேலும் உள்ளடக்கிய மற்றும் நிலையான நகரங்களுக்கு வழிவகுக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting sustainable energy consumption reduces reliance on fossil fuels and mitigates climate change.",
+      "ta": "நிலையான எரிசக்தி நுகர்வை ஊக்குவிப்பது புதைபடிம எரிபொருட்களை சார்ந்திருப்பதை குறைக்கிறது மற்றும் காலநிலை மாற்றத்தைத் தணிக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Supporting small and medium-sized enterprises is vital for job creation and economic diversification.",
+      "ta": "சிறு மற்றும் நடுத்தர நிறுவனங்களை ஆதரிப்பது வேலைவாய்ப்புகளை உருவாக்குவதற்கும் பொருளாதார பன்முகத்தன்மைக்கு மிக முக்கியம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Effective management of protected areas helps conserve biodiversity and ecosystem services.",
+      "ta": "பாதுகாக்கப்பட்ட பகுதிகளின் பயனுள்ள மேலாண்மை பல்லுயிர் பெருக்கம் மற்றும் சுற்றுச்சூழல் சேவைகளைப் பாதுகாக்க உதவுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Promoting responsible waste disposal practices reduces pollution and protects public health.",
+      "ta": "பொறுப்பான கழிவு அகற்றல் நடைமுறைகளை ஊக்குவிப்பது மாசுபாட்டைக் குறைக்கிறது மற்றும் பொது சுகாதாரத்தைப் பாதுகாக்கிறது.",
+      "tag": "sentence"
+    }
+  ],
+  "pyq": [],
+  "notes_en": "p70: This page provides a comprehensive list of common English sentence patterns and their direct Tamil translations, covering various grammatical structures including tenses, active/passive voice, imperatives, and conditional sentences.\np71: This page provides a collection of bilingual sentence translation exercises, mapping English sentences to their corresponding Tamil equivalents. The content covers various tenses and sentence structures, serving as practice material for general English translation proficiency.\np72: This page provides a collection of English sentences translated into Tamil, focusing on common daily usage, actions, and descriptive statements suitable for practicing sentence translation for competitive exams.\np73: This page provides a collection of English sentences translated into Tamil to assist with translation exercises, focusing on common day-to-day descriptions and narrative structures.\np74: This page provides a collection of English sentences translated into Tamil, focusing on common vocabulary, daily usage, and descriptive sentence structures.\np75: This page provides a reference table for translating complex English sentences into Tamil, covering various sentence structures, vocabulary, and grammatical contexts.\np76: This page provides a list of sentence translation exercises from English to Tamil, covering various descriptive, emotional, and narrative contexts useful for mastering translation skills.\np77: This page provides a list of complex English sentences translated into Tamil to assist with sentence translation practice for the TNPSC General English exam.\np78: This page provides a collection of English sentences translated into Tamil, focusing on formal language used in governance, sociology, and modern societal development. These are useful for understanding how to translate complex conceptual phrases in TNPSC exams.\np79: This page provides a collection of English-to-Tamil translations focusing on formal, policy-oriented, and administrative vocabulary commonly relevant for TNPSC General English translation papers.\np80: This page provides a collection of English-to-Tamil sentence translation practice exercises focusing on scientific, environmental, and social themes relevant to TNPSC exams.\np81: This page provides a list of English sentences focused on contemporary global issues, along with their corresponding Tamil translations, serving as practice material for translation tasks.\np82: This page provides a series of practice translation sentences from English to Tamil, covering various contemporary social and governance topics such as urban development, digital inclusion, public health, and environmental policy.\np83: This page provides a list of bilingual sentence translations covering topics such as education, economy, sustainability, government, and democracy, useful for developing proficiency in translating formal English to Tamil.\np84: This page provides a collection of English-to-Tamil sentence translation practice sets focused on socio-economic, environmental, and technological themes, useful for developing formal translation skills for competitive exams.\np85: This page provides a set of sentence translation exercises focusing on sustainable urban development, environmental conservation, economic enterprise, and public health management.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

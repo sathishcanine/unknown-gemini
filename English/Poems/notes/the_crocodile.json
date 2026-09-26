@@ -1,0 +1,74 @@
+{
+  "poem_id": "the_crocodile",
+  "poem_title": "The Crocodile",
+  "author": "Lewis Carroll",
+  "num": 2,
+  "pdf_pages": [
+    7,
+    8
+  ],
+  "poem_text_en": "How doth the little crocodile\nImprove his shining tail,\nAnd pour the water of the Nile\nOn every golden scale!\nHow cheerful he seems to grin,\nHow neatly spreads his claws,\nAnd welcomes little fishes in,\nWith gently smiling jaws!",
+  "summary_en": "The poem describes a crocodile that appears cheerful and gentle as it prepares to hunt. The poet uses irony to portray the predator's welcoming nature, which masks its intent to eat the little fishes it invites into its jaws.",
+  "glossary": [
+    {
+      "word_en": "doth",
+      "meaning_en": "an expression of old English for ‘does’"
+    },
+    {
+      "word_en": "improve",
+      "meaning_en": "to become better than before"
+    },
+    {
+      "word_en": "cheerful",
+      "meaning_en": "happy"
+    },
+    {
+      "word_en": "gently",
+      "meaning_en": "softly, mildly"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "personification",
+      "example_en": "How cheerful he seems to grin",
+      "note_en": "Attributing human actions like smiling/grinning to an animal."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Poet is Lewis Carroll, author of Alice in Wonderland.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem is about the cunning nature of a crocodile.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Madras Crocodile Bank is one of the largest reptile zoos, located at ECR, Kovalam, Chennai.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Choose rhyming words: claws, jaws, ...",
+      "answer_en": "paws, caws",
+      "options_en": [
+        "paws, caws",
+        "file, nail",
+        "din, thin",
+        "mail, scale"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Who does ‘he’ refer to?",
+      "answer_en": "The crocodile.",
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What does the Nile refer to? Where is it?",
+      "answer_en": "It refers to the river Nile, which is in Egypt.",
+      "tag": "short_answer"
+    }
+  ]
+}

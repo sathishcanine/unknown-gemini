@@ -1,0 +1,176 @@
+{
+  "topic_id": "inferences_blanks_substitutions",
+  "topic_title": "Inferences, Blanks & Substitutions",
+  "unit": 3,
+  "batches_target": 2,
+  "pages": [
+    25,
+    29
+  ],
+  "rules": [
+    {
+      "rule_en": "Blanks questions assess reading comprehension, analytical skills, and vocabulary.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Blanks often test grammar components: Tenses, Subject-Verb Agreement, Articles, Prepositions, Conjunctions, Pronouns, Modals, Adjectives, Adverbs, and Parallelism.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Use appropriate prepositions and connecting words to fill blanks in a narrative text based on context.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Use pronouns to substitute for nouns to avoid repetition.",
+      "tag": "grammar"
+    },
+    {
+      "rule_en": "Use synonyms to replace a word with a similar meaning to add variety or avoid repetition.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Use phrasal substitution to replace entire phrases to avoid repetitive structures.",
+      "tag": "grammar"
+    },
+    {
+      "rule_en": "Use ellipsis (omission of words) when the context is clear and understood.",
+      "tag": "grammar"
+    },
+    {
+      "rule_en": "Use 'One' or 'ones' to replace singular or plural nouns to avoid repetition.",
+      "tag": "grammar"
+    },
+    {
+      "rule_en": "Use auxiliary verbs 'do', 'did', or 'does' in questions or negative sentences to avoid repeating the main verb.",
+      "tag": "grammar"
+    },
+    {
+      "rule_en": "Use demonstrative pronouns 'That' or 'Such' to substitute for a descriptive clause or phrase.",
+      "tag": "substitution"
+    },
+    {
+      "rule_en": "Use the pronoun 'it' to substitute for a clause or idea that has already been introduced.",
+      "tag": "substitution"
+    },
+    {
+      "rule_en": "Identify and correct sentence structures involving subject-verb agreement, tense consistency, and logical phrasing.",
+      "tag": "format"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Cloze test",
+      "meaning_en": "A technique where words are removed from a text and the reader is asked to replace the missing words."
+    },
+    {
+      "term_en": "Substitution",
+      "meaning_en": "Replacing words, phrases, or parts of a sentence with different elements to prevent repetition, enhance flow, or improve clarity."
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Fill in the blanks: In Tamil Nadu, a very interesting form of recitation named Villupattu developed (a) the 15th century. Villupattu means bow-song because a bow-shaped musical instrument (b) strong high tension string is used (c) placing it (d) an earthen pitcher. It is believed that this narrative form was an invention (e) Arasa Pulavar. The troupe gives its performance mostly (f) temple festivals. There are seven to eight persons in a troupe who form a kind (g) chorus that supports the main singer-narrator.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "The passage describes a ballad performance: 'chief narrator sings, the chorus takes (h) part (i) in the refrain the song and repeat it in unison. The whole party sits (j) down and performs (k) on (l) the ground a lot gesticulation and facial expression to suit the narrative they have taken. The ballad style songs are composed (m) in dialect which appeals (n) to the rural audience who sometimes join the troupe (o) from out'.",
+      "tag": "comprehension"
+    },
+    {
+      "note_en": "Sarah went to the store. She bought some milk.",
+      "tag": "pronoun"
+    },
+    {
+      "note_en": "The dog barked loudly. The canine was very noisy.",
+      "tag": "synonym"
+    },
+    {
+      "note_en": "Jack likes to swim. He enjoys it.",
+      "tag": "phrasal"
+    },
+    {
+      "note_en": "I want to go to the park, and you (do) too.",
+      "tag": "ellipsis"
+    },
+    {
+      "note_en": "Substitution: 'I like the red apple. I like the green one.'",
+      "tag": "substitution"
+    },
+    {
+      "note_en": "Do/Did/Does: 'She plays the piano, and she does the guitar.'",
+      "tag": "auxiliary_verb"
+    },
+    {
+      "note_en": "That/Such: 'His behavior was rude. His actions were inappropriate. Substitution: His behavior was rude. That was inappropriate.'",
+      "tag": "substitution"
+    },
+    {
+      "note_en": "Using 'It': 'The movie was great. The movie had an amazing storyline. Substitution: The movie was great. It had an amazing storyline.'",
+      "tag": "substitution"
+    },
+    {
+      "note_en": "Exercises focusing on correcting or verifying sentence structure and grammatical flow.",
+      "tag": "substitutions"
+    }
+  ],
+  "pyq": [
+    {
+      "question_en": "1. The cat sat on the mat. The cat purred contentedly.",
+      "options_en": [],
+      "answer_en": "The cat sat on the mat. It purred contentedly.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "2. John and I went to the park. John and I had a great time.",
+      "options_en": [],
+      "answer_en": "John and I went to the park. We had a great time.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "3. She can play the piano, and her brother can play the piano very well.",
+      "options_en": [],
+      "answer_en": "She can play the piano, and her brother can very well.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "4. They have visited Paris before, and we have visited Paris before many times.",
+      "options_en": [],
+      "answer_en": "They have visited Paris before, and we have many times.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "5. If you need help, ask; and if I need help, I will ask too.",
+      "options_en": [],
+      "answer_en": "If you need help, ask; and if I do, I will too.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "6. I don't like the sweet apples; I prefer the sour apples.",
+      "options_en": [],
+      "answer_en": "I don't like the sweet apples; I prefer the sour ones.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "7. He studies diligently, and his sister studies diligently too.",
+      "options_en": [],
+      "answer_en": "He studies diligently, and his sister does too.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "8. She will travel to Europe next year, and I will travel to Europe the following year.",
+      "options_en": [],
+      "answer_en": "She will travel to Europe next year, and I will the following year.",
+      "answer_letter": null,
+      "has_marked_answer": true
+    }
+  ],
+  "notes_en": "p25: This page introduces the 'Blanks' section of the TNPSC General English syllabus. It outlines that these questions test a combination of vocabulary, grammatical structures (like prepositions and verb agreement), and contextual comprehension. It provides a foundational guide for solving cloze-style tests.\np26: This page provides a cloze test exercise focused on prepositional usage and contextual vocabulary within a descriptive paragraph about folk ballad performances. A solution table is provided mapping letters (a) through (o) to the correct filler words.\np27: This page introduces the concept of substitution in English grammar, which involves replacing parts of sentences to improve clarity and reduce repetition. Five methods are detailed: using pronouns, synonyms, phrasal substitution, ellipsis (omission), and the use of 'one' or 'ones' for noun substitution.\np28: This page explains linguistic substitution techniques used to improve sentence flow and avoid redundancy. It covers the use of auxiliary verbs (do/did/does) to replace main verbs, demonstrative pronouns (that/such) to summarize phrases, and the pronoun 'it' to refer back to previously mentioned ideas. The page includes an exercise requiring learners to apply these substitution methods to sentences.\np29: This page focuses on sentence substitution exercises, demonstrating how to refine repetitive sentence structures by using pronouns, ellipsis, and shorter expressions while maintaining the original meaning.",
+  "source": "Data/General-English/Unit3,4/vetrii english unit 3 and unit 4 (1).pdf"
+}

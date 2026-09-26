@@ -1,0 +1,1980 @@
+{
+  "topic_id": "tense_related_translation",
+  "topic_title": "Tense-related Translation",
+  "unit": 6,
+  "batches_target": 3,
+  "pages": [
+    86,
+    109
+  ],
+  "rules": [
+    {
+      "rule_en": "Simple Present Tense is used to express habitual actions and universal truths.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Simple Present tense is used to denote scheduled events, habitual actions, and universal truths.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Continuous tense is used to indicate actions happening at the moment of speaking.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Continuous Tense denotes an action happening at the moment of speaking.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Continuous Tense expresses actions currently in progress.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Perfect Tense indicates a completed action with present relevance, often translated using completed action markers in Tamil.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Perfect tense indicates an action completed in the recent past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Present Perfect Continuous tense denotes an action that started in the past and is still continuing in the present.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Use Present Perfect Continuous tense to describe an action that started in the past and is still continuing in the present.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "The simple past tense is used to describe actions that were completed in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Simple Past tense uses verbs indicating completed actions in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Continuous tense uses 'was/were' + verb-ing to denote ongoing actions in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Continuous Tense (was/were + verb-ing) indicates an ongoing action in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Continuous Tense describes an ongoing action in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Perfect Tense describes an action that was completed before another past action occurred.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Use Past Perfect (Had + past participle) to describe an action completed before another past action.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Perfect tense is used for an action completed before another action in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Perfect Continuous tense indicates an ongoing action that started and continued in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Perfect Continuous tense describes an action that was ongoing in the past up until another point or event.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Past Perfect Continuous tense indicates an ongoing action that started and continued in the past.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future tense in English is often used to denote planned, certain, intended, or expected actions.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "The simple future tense ('will') is used in Tamil translation to express scheduled, planned, intended, or expected events.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Continuous tense describes an ongoing action at a specific time in the future, typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Continuous tense is used to describe an ongoing action that will be happening at a specific time in the future.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Perfect tense expresses an action that will be completed before a specific point or time in the future.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Use 'Future Perfect Tense' (will have + past participle) for an action that will be completed before a specific point in the future.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Perfect Tense indicates an action that will be completed before a specific time in the future.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Perfect Continuous Tense describes an ongoing action in the future leading up to a specific point.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "The Future Perfect Continuous tense describes an ongoing action in the future that leads up to a specific point in time.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Perfect Continuous Tense indicates an ongoing action in the future leading up to a specific point in time.",
+      "tag": "tense"
+    },
+    {
+      "rule_en": "Future Perfect Continuous Tense describes an ongoing action in the future that leads up to a specific point in time.",
+      "tag": "tense"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Reads",
+      "meaning_en": "habitual action",
+      "meaning_ta": "வாசிக்கிறாள்"
+    },
+    {
+      "term_en": "Play",
+      "meaning_en": "habitual action",
+      "meaning_ta": "விளையாடுகிறார்கள்"
+    },
+    {
+      "term_en": "Drinks",
+      "meaning_en": "habitual action",
+      "meaning_ta": "குடிக்கிறாள்"
+    },
+    {
+      "term_en": "Watch",
+      "meaning_en": "habitual action",
+      "meaning_ta": "பார்க்கிறோம்"
+    },
+    {
+      "term_en": "Rises",
+      "meaning_en": "universal truth",
+      "meaning_ta": "உதிக்கிறது"
+    },
+    {
+      "term_en": "Speak",
+      "meaning_en": "habitual action",
+      "meaning_ta": "பேசுகிறீர்கள்"
+    },
+    {
+      "term_en": "Barks",
+      "meaning_en": "habitual action",
+      "meaning_ta": "குரைக்கிறது"
+    },
+    {
+      "term_en": "Eats",
+      "meaning_en": "habitual action",
+      "meaning_ta": "சாப்பிடுகிறான்"
+    },
+    {
+      "term_en": "Boils",
+      "meaning_en": "universal truth/fact",
+      "meaning_ta": "கொதிக்கிறது"
+    },
+    {
+      "term_en": "Eating",
+      "meaning_en": "action happening now",
+      "meaning_ta": "சாப்பிடுகிறேன்"
+    },
+    {
+      "term_en": "Playing",
+      "meaning_en": "action happening now",
+      "meaning_ta": "விளையாடுகிறார்கள்"
+    },
+    {
+      "term_en": "Writing",
+      "meaning_en": "action happening now",
+      "meaning_ta": "எழுதுகிறான்"
+    },
+    {
+      "term_en": "Watching",
+      "meaning_en": "action happening now",
+      "meaning_ta": "பார்க்கிறோம்"
+    },
+    {
+      "term_en": "Listening",
+      "meaning_en": "action happening now",
+      "meaning_ta": "கேட்கிறீர்கள்"
+    },
+    {
+      "term_en": "Barking",
+      "meaning_en": "action happening now",
+      "meaning_ta": "குரைக்கிறது"
+    },
+    {
+      "term_en": "Dancing",
+      "meaning_en": "action happening now",
+      "meaning_ta": "நடனமாடுகிறார்கள்"
+    },
+    {
+      "term_en": "Cooking",
+      "meaning_en": "action happening now",
+      "meaning_ta": "சமைக்கிறாள்"
+    },
+    {
+      "term_en": "Cleaning",
+      "meaning_en": "action happening now",
+      "meaning_ta": "சுத்தம் செய்கிறேன்"
+    },
+    {
+      "term_en": "Driving",
+      "meaning_en": "action happening now",
+      "meaning_ta": "ஓட்டுகிறான்"
+    },
+    {
+      "term_en": "Studying",
+      "meaning_en": "action happening now",
+      "meaning_ta": "படிக்கிறோம்"
+    },
+    {
+      "term_en": "Drawing",
+      "meaning_en": "action happening now",
+      "meaning_ta": "வரைகிறாள்"
+    },
+    {
+      "term_en": "Swimming",
+      "meaning_en": "action happening now",
+      "meaning_ta": "நீந்துகிறார்கள்"
+    },
+    {
+      "term_en": "Talking",
+      "meaning_en": "action happening now",
+      "meaning_ta": "பேசுகிறேன்"
+    },
+    {
+      "term_en": "Singing",
+      "meaning_en": "action happening now",
+      "meaning_ta": "பாடுகிறான்"
+    },
+    {
+      "term_en": "Teaching",
+      "meaning_en": "action happening now",
+      "meaning_ta": "கற்பிக்கிறார்"
+    },
+    {
+      "term_en": "Drinking",
+      "meaning_en": "action happening now",
+      "meaning_ta": "குடிக்கிறீர்கள்"
+    },
+    {
+      "term_en": "Walking",
+      "meaning_en": "action happening now",
+      "meaning_ta": "நடக்கிறோம்"
+    },
+    {
+      "term_en": "Buying",
+      "meaning_en": "action happening now",
+      "meaning_ta": "வாங்குகிறாள்"
+    },
+    {
+      "term_en": "Has finished",
+      "meaning_en": "completed action",
+      "meaning_ta": "முடித்துவிட்டாள்"
+    },
+    {
+      "term_en": "Have eaten",
+      "meaning_en": "completed action",
+      "meaning_ta": "சாப்பிட்டுவிட்டேன்"
+    },
+    {
+      "term_en": "Have visited",
+      "meaning_en": "completed action",
+      "meaning_ta": "சென்றுள்ளனர்"
+    },
+    {
+      "term_en": "Have bought",
+      "meaning_en": "completed action",
+      "meaning_ta": "வாங்கியுள்ளோம்"
+    },
+    {
+      "term_en": "Has lost",
+      "meaning_en": "completed action",
+      "meaning_ta": "தொலைத்துவிட்டான்"
+    },
+    {
+      "term_en": "Have learned",
+      "meaning_en": "completed action",
+      "meaning_ta": "கற்றுக்கொண்டுவிட்டாய்"
+    },
+    {
+      "term_en": "Has arrived",
+      "meaning_en": "completed action",
+      "meaning_ta": "வந்துவிட்டது"
+    },
+    {
+      "term_en": "Has written",
+      "meaning_en": "completed action",
+      "meaning_ta": "எழுதியிருக்கிறாள்"
+    },
+    {
+      "term_en": "Have seen",
+      "meaning_en": "completed action",
+      "meaning_ta": "பார்த்துவிட்டேன்"
+    },
+    {
+      "term_en": "Have completed",
+      "meaning_en": "completed action",
+      "meaning_ta": "முடித்துவிட்டோம்"
+    },
+    {
+      "term_en": "Has broken",
+      "meaning_en": "completed action",
+      "meaning_ta": "உடைத்துவிட்டான்"
+    },
+    {
+      "term_en": "Have started",
+      "meaning_en": "completed action",
+      "meaning_ta": "தொடங்கிவிட்டார்கள்"
+    },
+    {
+      "term_en": "Slept",
+      "meaning_en": "completed action in the past",
+      "meaning_ta": "தூங்கியது"
+    },
+    {
+      "term_en": "Drew",
+      "meaning_en": "completed action in the past",
+      "meaning_ta": "வரைந்தாள்"
+    },
+    {
+      "term_en": "Opened",
+      "meaning_en": "completed action in the past",
+      "meaning_ta": "திறந்தான்"
+    },
+    {
+      "term_en": "Built",
+      "meaning_en": "completed action in the past",
+      "meaning_ta": "கட்டினார்கள்"
+    },
+    {
+      "term_en": "Danced",
+      "meaning_en": "completed action in the past",
+      "meaning_ta": "நடனமாடினாள்"
+    },
+    {
+      "term_en": "Finished",
+      "meaning_en": "completed action in the past",
+      "meaning_ta": "முடித்தேன்"
+    },
+    {
+      "term_en": "Was reading",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "படித்துக் கொண்டிருந்தாள்"
+    },
+    {
+      "term_en": "Were playing",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "விளையாடிக் கொண்டிருந்தார்கள்"
+    },
+    {
+      "term_en": "Was watching",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "பார்த்துக் கொண்டிருந்தேன்"
+    },
+    {
+      "term_en": "Were eating",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "சாப்பிட்டுக் கொண்டிருந்தோம்"
+    },
+    {
+      "term_en": "Was writing",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "எழுதிக் கொண்டிருந்தான்"
+    },
+    {
+      "term_en": "Were singing",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "பாடிக் கொண்டிருந்தார்கள்"
+    },
+    {
+      "term_en": "Were sleeping",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "தூங்கிக் கொண்டிருந்தாய்"
+    },
+    {
+      "term_en": "Was cooking",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "சமைத்துக் கொண்டிருந்தாள்"
+    },
+    {
+      "term_en": "Was driving",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "ஓட்டிக் கொண்டிருந்தார்"
+    },
+    {
+      "term_en": "Was barking",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "குரைத்துக் கொண்டிருந்தது"
+    },
+    {
+      "term_en": "Was studying",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "படித்துக் கொண்டிருந்தேன்"
+    },
+    {
+      "term_en": "Was explaining",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "விளக்கிக் கொண்டிருந்தார்"
+    },
+    {
+      "term_en": "Were waiting",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "காத்துக் கொண்டிருந்தோம்"
+    },
+    {
+      "term_en": "Was listening",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "கேட்டுக் கொண்டிருந்தான்"
+    },
+    {
+      "term_en": "Were writing",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "எழுதிக் கொண்டிருந்தார்கள்"
+    },
+    {
+      "term_en": "Was drawing",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "வரைந்து கொண்டிருந்தாள்"
+    },
+    {
+      "term_en": "Were flying",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "பறந்து கொண்டிருந்தன"
+    },
+    {
+      "term_en": "Was talking",
+      "meaning_en": "Ongoing action in the past",
+      "meaning_ta": "பேசிக் கொண்டிருந்தேன்"
+    },
+    {
+      "term_en": "Was crying",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "அழுதுக் கொண்டிருந்தது"
+    },
+    {
+      "term_en": "Were reading",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "படித்துக் கொண்டிருந்தாய்"
+    },
+    {
+      "term_en": "Had finished",
+      "meaning_en": "action completed before another past action",
+      "meaning_ta": "முடித்துவிட்டான் / முடித்துவிட்டோம்"
+    },
+    {
+      "term_en": "Had left",
+      "meaning_en": "action completed before another past action",
+      "meaning_ta": "புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது"
+    },
+    {
+      "term_en": "Had eaten",
+      "meaning_en": "action completed before another past action",
+      "meaning_ta": "சாப்பிட்டுவிட்டார்கள்"
+    },
+    {
+      "term_en": "Had read",
+      "meaning_en": "action completed before another past action",
+      "meaning_ta": "படித்துவிட்டேன்"
+    },
+    {
+      "term_en": "Had called",
+      "meaning_en": "action completed before another past action",
+      "meaning_ta": "அழைத்திருந்தாய்"
+    },
+    {
+      "term_en": "Had cooked",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "சமைத்துவிட்டார்"
+    },
+    {
+      "term_en": "Had explained",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "விளக்கியிருந்தார்"
+    },
+    {
+      "term_en": "Had slept",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "தூங்கிவிட்டான்"
+    },
+    {
+      "term_en": "Had started",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "தொடங்கிவிட்டது"
+    },
+    {
+      "term_en": "Had written",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "எழுதியிருந்தாள்"
+    },
+    {
+      "term_en": "Had seen",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "பார்த்துவிட்டோம்"
+    },
+    {
+      "term_en": "Had completed",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "முடித்துவிட்டான்"
+    },
+    {
+      "term_en": "Had washed",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "கழுவிவிட்டேன்"
+    },
+    {
+      "term_en": "Had bought",
+      "meaning_en": "Action completed before another past action",
+      "meaning_ta": "வாங்கிவிட்டாள்"
+    },
+    {
+      "term_en": "Had been cleaning",
+      "meaning_en": "ongoing action in the past",
+      "meaning_ta": "சுத்தம் செய்து கொண்டிருந்தார்"
+    },
+    {
+      "term_en": "Will visit",
+      "meaning_en": "planned action",
+      "meaning_ta": "சந்திப்பாள்"
+    },
+    {
+      "term_en": "Will finish",
+      "meaning_en": "certain action",
+      "meaning_ta": "முடிப்பேன்"
+    },
+    {
+      "term_en": "Will have finished",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "முடித்திருப்பான்"
+    },
+    {
+      "term_en": "Will have left",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "சென்றிருப்பாள்"
+    },
+    {
+      "term_en": "Will have built",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "கட்டியிருப்பார்கள்"
+    },
+    {
+      "term_en": "Will have completed",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "முடித்திருப்பேன்"
+    },
+    {
+      "term_en": "Will have reached",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "அடைந்திருப்போம்"
+    },
+    {
+      "term_en": "Will have learned",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "கற்றுக் கொண்டிருப்பீர்கள்"
+    },
+    {
+      "term_en": "Will have departed",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "புறப்பட்டிருக்கும்"
+    },
+    {
+      "term_en": "Will have written",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "எழுதியிருப்பான்"
+    },
+    {
+      "term_en": "Will have cooked",
+      "meaning_en": "Action completed before a specific future time",
+      "meaning_ta": "சமைத்திருப்பாள்"
+    },
+    {
+      "term_en": "Will have fixed",
+      "meaning_en": "Action completed before a specific time in the future",
+      "meaning_ta": "சரிசெய்திருப்பான்"
+    },
+    {
+      "term_en": "Will have been studying",
+      "meaning_en": "Ongoing action in the future leading up to a specific point",
+      "meaning_ta": "படித்து கொண்டிருப்பாள்"
+    },
+    {
+      "term_en": "Will have been living",
+      "meaning_en": "Ongoing action in the future leading up to a specific point",
+      "meaning_ta": "வசித்து இருப்பார்கள்"
+    },
+    {
+      "term_en": "Will have been waiting",
+      "meaning_en": "Ongoing action in the future leading up to a specific point",
+      "meaning_ta": "காத்திருந்திருப்பேன்"
+    },
+    {
+      "term_en": "Will have been working",
+      "meaning_en": "Ongoing action in the future leading up to a specific point",
+      "meaning_ta": "வேலை செய்து கொண்டிருப்போம்"
+    },
+    {
+      "term_en": "Will have been preparing",
+      "meaning_en": "ongoing action in the future leading up to a specific point",
+      "meaning_ta": "தயாராகிக் கொண்டிருப்பார்"
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "I am eating breakfast translates to நான் காலை உணவு சாப்பிடுகிறேன்.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "The teacher is teaching English translates to ஆசிரியர் ஆங்கிலம் கற்பிக்கிறார்.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Focus on the mapping between English Present Perfect markers (has/have + past participle) and Tamil completed action verb suffixes.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Present Perfect uses 'has/have' + past participle, translated in Tamil using completed action suffixes like '-விட்டான்/விட்டாள்'.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Present Perfect Continuous uses 'has/have been' + verb+ing, translated in Tamil using '-கொண்டிருக்கிறான்/கொண்டிருக்கிறாள்'.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Examples illustrate Simple Past tense transformations.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Examples illustrate Past Continuous tense transformations.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "The baby was crying. (Past Continuous)",
+      "tag": "tense"
+    },
+    {
+      "note_en": "He had finished his homework before dinner. (Past Perfect)",
+      "tag": "tense"
+    },
+    {
+      "note_en": "The train had left when we arrived at the station. (Past Perfect)",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Past Perfect example: We had painted the room before the guests arrived.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Past Perfect Continuous example: She had been reading the book for two hours.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "The structures typically follow 'had been' + [verb+ing] to denote continuous past actions.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "My mother had been cleaning the house since morning.",
+      "tag": "Past Perfect Continuous"
+    },
+    {
+      "note_en": "She will visit her grandmother tomorrow.",
+      "tag": "Simple Future"
+    },
+    {
+      "note_en": "Structure: Subject + will + be + verb-ing",
+      "tag": "tense"
+    },
+    {
+      "note_en": "Structure: Subject + will have been + verb-ing.",
+      "tag": "tense"
+    },
+    {
+      "note_en": "The sentence 'The students will have been preparing for the exam for a month by next Monday' demonstrates the usage of the future perfect continuous tense.",
+      "tag": "tense"
+    }
+  ],
+  "passages": [
+    {
+      "title": "Present Perfect Continuous Usage",
+      "text_en": "This section illustrates how to translate sentences indicating ongoing actions that began in the past into Tamil using the Present Perfect Continuous tense structure."
+    },
+    {
+      "title": "Present Perfect Continuous Tense Practice",
+      "text_en": "This table demonstrates how to translate Present Perfect Continuous sentences from English to Tamil. It focuses on actions that began in the past and continue into the present moment."
+    },
+    {
+      "title": "Tense Translation Tasks",
+      "text_en": "This section provides a comparative guide for translating Simple Past and Past Continuous tenses from English to Tamil. It breaks down specific verb forms to demonstrate how completion and continuity are expressed in both languages."
+    }
+  ],
+  "translations": [
+    {
+      "en": "She reads books every evening.",
+      "ta": "அவள் தினமும் மாலை புத்தகங்கள் வாசிக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They play cricket on Sundays.",
+      "ta": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுகிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She drinks tea every morning.",
+      "ta": "அவள் தினமும் காலையில் தேநீர் குடிக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We watch TV after dinner.",
+      "ta": "நாங்கள் இரவு உணவுக்குப் பிறகு தொலைக்காட்சி பார்க்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The sun rises in the east.",
+      "ta": "சூரியன் கிழக்கில் உதிக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You speak English well.",
+      "ta": "நீங்கள் ஆங்கிலம் நன்றாக பேசுகிறீர்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "My dog barks at strangers.",
+      "ta": "என் நாய் அந்நியர்களைப் பார்த்தால் குரைக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He eats an apple every day.",
+      "ta": "அவன் தினமும் ஒரு ஆப்பிள் சாப்பிடுகிறான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Water boils at 100 degrees Celsius.",
+      "ta": "நீர் 100 டிகிரி செல்சியஸில் கொதிக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The train arrives at 6 o'clock.",
+      "ta": "ரயில் ஆறு மணிக்கு வந்து சேரும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "People celebrate Diwali in October or November.",
+      "ta": "மக்கள் தீபாவளியை அக்டோபர் அல்லது நவம்பரில் கொண்டாடுகிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They dance at every festival.",
+      "ta": "அவர்கள் ஒவ்வொரு திருவிழாவிலும் நடனமாடுகிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Ice melts at zero degrees Celsius.",
+      "ta": "பனி பூஜ்ய டிகிரியில் உருகுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The baby sleeps in the afternoon.",
+      "ta": "குழந்தை மதியம் தூங்குகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We celebrate Diwali every year.",
+      "ta": "நாங்கள் ஒவ்வொரு வருடமும் தீபாவளி கொண்டாடுகிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She cooks delicious food.",
+      "ta": "அவள் சுவையான உணவு சமைக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The teacher teaches mathematics.",
+      "ta": "ஆசிரியர் கணிதம் கற்பிக்கிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Birds fly in the sky.",
+      "ta": "பறவைகள் ஆகாயத்தில் பறக்கின்றன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I listen to music every night.",
+      "ta": "நான் ஒவ்வொரு இரவும் இசை கேட்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You read the newspaper daily.",
+      "ta": "நீங்கள் தினமும் செய்தித்தாள் படிக்கிறீர்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She is reading a book.",
+      "ta": "அவள் ஒரு புத்தகம் படிக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are playing cricket.",
+      "ta": "அவர்கள் கிரிக்கெட் விளையாடுகிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She is cooking dinner.",
+      "ta": "அவள் இரவு உணவு சமைக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is driving a car.",
+      "ta": "அவன் ஒரு கார் ஓட்டுகிறான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We are walking in the park.",
+      "ta": "நாங்கள் பூங்காவில் நடக்கிறோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She is buying vegetables.",
+      "ta": "அவள் காய்கறிகள் வாங்குகிறாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She has finished her homework.",
+      "ta": "அவள் தன் வீட்டுப்பாடத்தை முடித்துவிட்டாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I have eaten breakfast.",
+      "ta": "நான் காலை உணவு சாப்பிட்டுவிட்டேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "They have visited the temple.",
+      "ta": "அவர்கள் கோவிலுக்கு சென்றுள்ளனர்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We have bought a new car.",
+      "ta": "நாங்கள் புதிய கார் வாங்கியுள்ளோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He has lost his keys.",
+      "ta": "அவன் தன் சாவியைத் தொலைத்துவிட்டான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "You have learned the lesson.",
+      "ta": "நீ பாடத்தை கற்றுக்கொண்டுவிட்டாய்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The train has arrived.",
+      "ta": "ரயில் வந்துவிட்டது.",
+      "tag": "tense"
+    },
+    {
+      "en": "She has written a letter.",
+      "ta": "அவள் ஒரு கடிதம் எழுதியிருக்கிறாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I have seen that movie.",
+      "ta": "நான் அந்த படத்தை பார்த்துவிட்டேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We have completed the project.",
+      "ta": "நாங்கள் திட்டத்தை முடித்துவிட்டோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He has broken the glass.",
+      "ta": "அவன் கண்ணாடியை உடைத்துவிட்டான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "They have started the meeting.",
+      "ta": "அவர்கள் கூட்டத்தைத் தொடங்கிவிட்டார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She has cooked dinner.",
+      "ta": "அவள் இரவு உணவு சமைத்துவிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I have called my friend.",
+      "ta": "நான் என் நண்பனை அழைத்தேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You have cleaned the room.",
+      "ta": "நீ அறையை சுத்தம் செய்துவிட்டாய்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We have read the book.",
+      "ta": "நாங்கள் அந்த புத்தகத்தை படித்துவிட்டோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He has gone to the market.",
+      "ta": "அவன் சந்தைக்கு சென்றுவிட்டான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They have played the game.",
+      "ta": "அவர்கள் விளையாட்டை விளையாடிவிட்டார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She has opened the door.",
+      "ta": "அவள் கதவை திறந்துவிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I have finished my work.",
+      "ta": "நான் என் வேலையை முடித்துவிட்டேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He has been reading for two hours.",
+      "ta": "அவன் இரண்டு மணி நேரமாகப் படித்துக் கொண்டிருக்கிறான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She has been cooking since morning.",
+      "ta": "அவள் காலை முதல் சமையல் செய்து கொண்டிருக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They have been playing cricket for an hour.",
+      "ta": "அவர்கள் ஒரு மணி நேரமாக கிரிக்கெட் விளையாடிக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I have been working here for five years.",
+      "ta": "நான் ஐந்து வருடமாக இங்கே வேலை செய்து கொண்டிருக்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We have been waiting for the bus since 8 o'clock.",
+      "ta": "நாங்கள் எட்டு மணி முதல் பேருந்துக்காகக் காத்துக் கொண்டிருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The baby has been crying for ten minutes.",
+      "ta": "குழந்தை பத்து நிமிடமாக அழுது கொண்டிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You have been learning Tamil for six months.",
+      "ta": "நீங்கள் ஆறு மாதமாக தமிழ் கற்றுக் கொண்டிருக்கிறீர்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "My father has been reading the newspaper since morning.",
+      "ta": "என் அப்பா காலை முதல் செய்தித்தாள் படித்துக் கொண்டிருக்கிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The students have been studying for the exam since last week.",
+      "ta": "மாணவர்கள் கடந்த வாரம் முதல் தேர்வுக்காக படித்துக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She has been singing for half an hour.",
+      "ta": "அவள் அரை மணி நேரமாக பாடிக் கொண்டிருக்கிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "It has been raining since morning.",
+      "ta": "காலை முதல் மழை பெய்து கொண்டிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The workers have been building the bridge for two months.",
+      "ta": "தொழிலாளர்கள் இரண்டு மாதமாக பாலம் கட்டிக் கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I have been feeling tired since yesterday.",
+      "ta": "நான் நேற்று முதல் சோர்வாக உணர்ந்து கொண்டிருக்கிறேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She has been teaching English for three years.",
+      "ta": "அவள் மூன்று வருடமாக ஆங்கிலம் கற்பித்து வருகிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We have been living in this city since 2010.",
+      "ta": "நாங்கள் 2010 முதல் இந்த நகரில் வாழ்ந்து கொண்டிருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He has been driving for two hours.",
+      "ta": "அவன் இரண்டு மணி நேரமாக வாகனம் ஓட்டிக்கொண்டிருக்கிறான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The children have been drawing pictures since afternoon.",
+      "ta": "குழந்தைகள் மதியம் முதல் படங்கள் வரைந்து கொண்டிருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "My mother has been talking on the phone for a long time.",
+      "ta": "என் அம்மா நீண்ட நேரமாக தொலைபேசியில் பேசிக்கொண்டிருக்கிறார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You have been watching TV since evening.",
+      "ta": "நீங்கள் மாலை முதல் தொலைக்காட்சியை பார்த்துக்கொண்டிருக்கிறீர்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The dog has been barking for an hour.",
+      "ta": "நாய் ஒரு மணி நேரமாக குறைத்துக்கொண்டிருக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We have been discussing this issue for days.",
+      "ta": "நாங்கள் பல நாட்களாக இந்த பிரச்சினையை விவாதித்துக்கொண்டிருக்கிறோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She ate an apple yesterday.",
+      "ta": "அவள் நேற்று ஒரு ஆப்பிள் சாப்பிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He played cricket last Sunday.",
+      "ta": "அவன் கடந்த ஞாயிறு கிரிக்கெட் விளையாடினான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They watched a movie last night.",
+      "ta": "அவர்கள் நேற்று இரவு ஒரு படம் பார்த்தார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I wrote a letter to my friend.",
+      "ta": "நான் என் நண்பருக்கு ஒரு கடிதம் எழுதினேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We visited the temple last week.",
+      "ta": "நாங்கள் கடந்த வாரம் கோவிலுக்கு சென்றோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She bought a new dress.",
+      "ta": "அவள் புதிய உடை வாங்கினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He drank milk in the morning.",
+      "ta": "அவன் காலையில் பாலை குடித்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The teacher taught a new lesson.",
+      "ta": "ஆசிரியர் புதிய பாடம் கற்றுக்கொடுத்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I saw a peacock in the garden.",
+      "ta": "நான் தோட்டத்தில் ஒரு மயிலைப் பார்த்தேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They sang a song at the function.",
+      "ta": "அவர்கள் விழாவில் ஒரு பாடலைப் பாடினார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She cooked dinner for the family.",
+      "ta": "அவள் குடும்பத்திற்காக இரவு உணவு சமைத்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He read a storybook.",
+      "ta": "அவன் ஒரு கதைப்புத்தகத்தை படித்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We cleaned the house yesterday.",
+      "ta": "நாங்கள் நேற்று வீட்டை சுத்தம் செய்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I lost my pen.",
+      "ta": "நான் என் பேனாவை தொலைத்துவிட்டேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Ate",
+      "ta": "சாப்பிட்டாள்",
+      "tag": "word"
+    },
+    {
+      "en": "Played",
+      "ta": "விளையாடினான்",
+      "tag": "word"
+    },
+    {
+      "en": "Watched",
+      "ta": "பார்த்தார்கள்",
+      "tag": "word"
+    },
+    {
+      "en": "Wrote",
+      "ta": "எழுதினேன்",
+      "tag": "word"
+    },
+    {
+      "en": "Visited",
+      "ta": "சென்றோம்",
+      "tag": "word"
+    },
+    {
+      "en": "Bought",
+      "ta": "வாங்கினாள்",
+      "tag": "word"
+    },
+    {
+      "en": "Drank",
+      "ta": "குடித்தான்",
+      "tag": "word"
+    },
+    {
+      "en": "Taught",
+      "ta": "கற்றுக்கொடுத்தார்",
+      "tag": "word"
+    },
+    {
+      "en": "Saw",
+      "ta": "பார்த்தேன்",
+      "tag": "word"
+    },
+    {
+      "en": "Sang",
+      "ta": "பாடினார்கள்",
+      "tag": "word"
+    },
+    {
+      "en": "Cooked",
+      "ta": "சமைத்தாள்",
+      "tag": "word"
+    },
+    {
+      "en": "Read",
+      "ta": "படித்தான்",
+      "tag": "word"
+    },
+    {
+      "en": "Cleaned",
+      "ta": "சுத்தம் செய்தோம்",
+      "tag": "word"
+    },
+    {
+      "en": "Lost",
+      "ta": "தொலைத்துவிட்டேன்",
+      "tag": "word"
+    },
+    {
+      "en": "The child slept early last night.",
+      "ta": "குழந்தை நேற்று இரவு விரைவில் தூங்கியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She drew a beautiful picture.",
+      "ta": "அவள் அழகான ஓவியம் வரைந்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He opened the window.",
+      "ta": "அவன் ஜன்னலை திறந்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They built a new house.",
+      "ta": "அவர்கள் புதிய வீடு கட்டினார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She danced on the stage.",
+      "ta": "அவள் மேடையில் நடனமாடினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I finished my homework.",
+      "ta": "நான் என் வீட்டுப்பாடத்தை முடித்தேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She was reading a book.",
+      "ta": "அவள் ஒரு புத்தகம் படித்துக் கொண்டிருந்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They were playing cricket.",
+      "ta": "அவர்கள் கிரிக்கெட் விளையாடிக் கொண்டிருந்தார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I was watching TV.",
+      "ta": "நான் தொலைக்காட்சி பார்த்துக் கொண்டிருந்தேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We were eating dinner.",
+      "ta": "நாங்கள் இரவு உணவு சாப்பிட்டுக் கொண்டிருந்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He was writing a letter.",
+      "ta": "அவன் ஒரு கடிதம் எழுதிக் கொண்டிருந்தான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The children were singing.",
+      "ta": "குழந்தைகள் பாடிக் கொண்டிருந்தார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You were sleeping.",
+      "ta": "நீ தூங்கிக் கொண்டிருந்தாய்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She was cooking food.",
+      "ta": "அவள் உணவு சமைத்துக் கொண்டிருந்தாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "My father was driving the car.",
+      "ta": "என் அப்பா கார் ஓட்டிக் கொண்டிருந்தார்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The dog was barking.",
+      "ta": "நாய் குரைத்துக் கொண்டிருந்தது.",
+      "tag": "tense"
+    },
+    {
+      "en": "I was studying for the exam.",
+      "ta": "நான் பரீட்சைக்கு படித்துக் கொண்டிருந்தேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The teacher was explaining the lesson.",
+      "ta": "ஆசிரியர் பாடத்தை விளக்கிக் கொண்டிருந்தார்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We were waiting for the bus.",
+      "ta": "நாங்கள் பேருந்துக்காக காத்துக் கொண்டிருந்தோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He was listening to music.",
+      "ta": "அவன் இசை கேட்டுக் கொண்டிருந்தான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The students were writing the test.",
+      "ta": "மாணவர்கள் தேர்வு எழுதிக் கொண்டிருந்தார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She was drawing a picture.",
+      "ta": "அவள் ஓவியம் வரைந்து கொண்டிருந்தாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The birds were flying in the sky.",
+      "ta": "பறவைகள் வானில் பறந்து கொண்டிருந்தன.",
+      "tag": "tense"
+    },
+    {
+      "en": "I was talking on the phone.",
+      "ta": "நான் தொலைபேசியில் பேசிக் கொண்டிருந்தேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The baby was crying.",
+      "ta": "குழந்தை அழுதுக் கொண்டிருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You were reading the newspaper.",
+      "ta": "நீ செய்தித்தாள் படித்துக் கொண்டிருந்தாய்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She had left the house before it started raining.",
+      "ta": "மழை பெய்யத் தொடங்குவதற்கு முன்பு அவள் வீட்டை விட்டு புறப்பட்டுவிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They had eaten breakfast before going to school.",
+      "ta": "பள்ளிக்கு செல்லும் முன்பு அவர்கள் காலை உணவு சாப்பிட்டுவிட்டார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I had read the book before the exam.",
+      "ta": "தேர்வுக்கு முன்பு நான் அந்த புத்தகத்தை படித்துவிட்டேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We had finished the project before the deadline.",
+      "ta": "கடைசி நாளுக்கு முன்பு நாங்கள் திட்டத்தை முடித்துவிட்டோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You had called me before I reached home.",
+      "ta": "நான் வீடு திரும்புவதற்கு முன்பே நீ என்னை அழைத்திருந்தாய்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "My mother had cooked dinner before we came.",
+      "ta": "நாங்கள் வருவதற்கு முன்பே என் அம்மா இரவு உணவு சமைத்துவிட்டார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The teacher had explained the lesson before the test.",
+      "ta": "தேர்வுக்கு முன்பு ஆசிரியர் பாடத்தை விளக்கியிருந்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He had slept before his friends arrived.",
+      "ta": "அவன் நண்பர்கள் வந்ததற்கு முன்பு தூங்கிவிட்டான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The movie had started when we entered the theatre.",
+      "ta": "நாங்கள் திரையரங்கில் நுழைந்தபோது படம் தொடங்கிவிட்டது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She had written the letter before he called.",
+      "ta": "அவன் அழைப்பதற்கு முன்பு அவள் கடிதம் எழுதியிருந்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We had seen that film before.",
+      "ta": "அந்த படத்தை நாங்கள் ஏற்கனவே பார்த்துவிட்டோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He had completed his work before the manager asked.",
+      "ta": "மேலாளர் கேட்கும் முன்பு அவன் தனது வேலையை முடித்துவிட்டான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The guests had left before it got dark.",
+      "ta": "இருட்டாகும் முன்பு விருந்தினர்கள் புறப்பட்டுவிட்டார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I had washed my hands before eating.",
+      "ta": "சாப்பிடுவதற்கு முன்பு நான் என் கைகளை கழுவிவிட்டேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The child had slept before the mother returned.",
+      "ta": "தாய் திரும்பி வருவதற்குள் குழந்தை தூங்கிவிட்டது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She had bought vegetables before coming home.",
+      "ta": "வீட்டுக்கு வருவதற்கு முன்பு அவள் காய்கறிகள் வாங்கிவிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We had painted the room before the guests arrived.",
+      "ta": "விருந்தினர்கள் வருவதற்கு முன்பு நாங்கள் அறையை வர்ணம் பூசிவிட்டோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He had repaired the car before the journey.",
+      "ta": "பயணம் செல்லும் முன்பு அவன் காரை பழுது பார்த்துவிட்டான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He had been going to school every day.",
+      "ta": "அவன் தினமும் பள்ளிக்கு சென்று கொண்டிருந்தான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She had been reading the book for two hours.",
+      "ta": "அவள் இரண்டு மணி நேரமாக அந்த புத்தகத்தை படித்து கொண்டிருந்தாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "They had been playing cricket since morning.",
+      "ta": "அவர்கள் காலை முதல் கிரிக்கெட் விளையாடிக் கொண்டிருந்தார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I had been waiting for the bus for half an hour.",
+      "ta": "நான் அரை மணி நேரமாக பேருந்துக்காக காத்துக் கொண்டிருந்தேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We had been living in Chennai for five years.",
+      "ta": "நாங்கள் ஐந்து வருடங்களாக சென்னையில் வசித்து வருகிறோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "You had been working hard before the exams.",
+      "ta": "தேர்வுகளுக்கு முன் நீ கடுமையாக வேலை செய்து கொண்டிருந்தாய்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The children had been watching TV all evening.",
+      "ta": "குழந்தைகள் மாலை முழுவதும் தொலைக்காட்சி பார்த்துக் கொண்டிருந்தார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been driving",
+      "ta": "ஓட்டிக்கொண்டிருந்தார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been barking",
+      "ta": "குரைத்துக்கொண்டிருந்தது",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been cooking",
+      "ta": "சமையல் செய்துகொண்டிருந்தார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been studying",
+      "ta": "படித்துக்கொண்டிருந்தார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been feeling",
+      "ta": "இல்லாமல் இருந்தேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been painting",
+      "ta": "வர்ணம் பூசிக்கொண்டிருந்தார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been discussing",
+      "ta": "விவாதித்துக்கொண்டிருந்தோம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been fixing",
+      "ta": "சரி செய்துகொண்டிருந்தார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been explaining",
+      "ta": "விளக்கிக்கொண்டிருந்தார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Had been travelling",
+      "ta": "பயணம் செய்துகொண்டிருந்தனர்",
+      "tag": "tense"
+    },
+    {
+      "en": "My mother had been cleaning the house since morning.",
+      "ta": "என் அம்மா காலை முதல் வீட்டை சுத்தம் செய்து கொண்டிருந்தார்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The workers had been building the bridge for months.",
+      "ta": "தொழிலாளர்கள் பல மாதங்களாக பாலம் கட்டிக் கொண்டிருந்தார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I had been learning Tamil for a year.",
+      "ta": "நான் ஒரு வருடமாக தமிழ் கற்றுக் கொண்டிருந்தேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She had been practising the piano every day.",
+      "ta": "அவள் தினமும் பியானோ பயிற்சி செய்து கொண்டிருந்தாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She will visit her grandmother tomorrow.",
+      "ta": "அவள் நாளை தனது பாட்டியை சந்திப்பாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I will finish my homework tonight.",
+      "ta": "நான் இன்று இரவு என் வீட்டுப்பாடத்தை முடிப்பேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "They will play cricket next Sunday.",
+      "ta": "அவர்கள் அடுத்த ஞாயிற்றுக்கிழமை கிரிக்கெட் விளையாடுவார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We will go to the market in the evening.",
+      "ta": "நாங்கள் மாலை சந்தைக்கு போவோம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He will start a new job next month.",
+      "ta": "அவன் அடுத்த மாதம் புதிய வேலையை தொடங்குவான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "You will receive the parcel soon.",
+      "ta": "நீ விரைவில் பார்சலை பெறுவாய்.",
+      "tag": "tense"
+    },
+    {
+      "en": "Will arrive",
+      "ta": "வரும்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will write",
+      "ta": "எழுதுவாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will celebrate",
+      "ta": "கொண்டாடுவோம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will open",
+      "ta": "திறக்கும்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will buy",
+      "ta": "வாங்குவான்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will call",
+      "ta": "அழைக்கிறேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will visit",
+      "ta": "செல்லுவார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will get",
+      "ta": "கிடைக்கும்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will cook",
+      "ta": "சமைப்பாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will meet",
+      "ta": "சந்திப்போம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will explain",
+      "ta": "விளக்குவார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will send",
+      "ta": "அனுப்புவான்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will read",
+      "ta": "படிப்பேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will build",
+      "ta": "கட்டுவார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "She will be reading a book at 8 PM.",
+      "ta": "அவள் இரவு 8 மணிக்கு ஒரு புத்தகம் படித்து கொண்டிருப்பாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They will be playing cricket tomorrow evening.",
+      "ta": "அவர்கள் நாளை மாலை கிரிக்கெட் விளையாடிக் கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I will be working on my project next week.",
+      "ta": "நான் அடுத்த வாரம் என் திட்டத்தில் வேலை செய்து கொண்டிருப்பேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We will be travelling to Chennai at this time next month.",
+      "ta": "அடுத்த மாதம் இந்த நேரத்தில் நாங்கள் சென்னைக்கு பயணம் செய்து கொண்டிருப்போம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He will be watching TV when you arrive.",
+      "ta": "நீ வரும்போது அவன் டிவி பார்த்துக் கொண்டிருப்பான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The children will be sleeping at midnight.",
+      "ta": "நள்ளிரவில் குழந்தைகள் தூங்கிக் கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "My parents will be waiting for me at the station.",
+      "ta": "என் பெற்றோர் நிலையத்தில் எனக்காக காத்துக் கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She will be cooking dinner at 7 o'clock.",
+      "ta": "அவள் 7 மணிக்கு இரவு உணவு சமைத்து கொண்டிருப்பாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I will be attending a meeting at that time.",
+      "ta": "அந்த நேரத்தில் நான் ஒரு கூட்டத்தில் கலந்து கொண்டிருப்பேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They will be studying for the exam all night.",
+      "ta": "அவர்கள் இரவு முழுவதும் தேர்வுக்காக படித்து கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Will be reading",
+      "ta": "படித்து கொண்டிருப்பாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be playing",
+      "ta": "விளையாடிக் கொண்டிருப்பார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be working",
+      "ta": "வேலை செய்து கொண்டிருப்பேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be travelling",
+      "ta": "பயணம் செய்து கொண்டிருப்போம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be watching",
+      "ta": "பார்த்துக் கொண்டிருப்பான்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be sleeping",
+      "ta": "தூங்கிக் கொண்டிருப்பார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be waiting",
+      "ta": "காத்துக் கொண்டிருப்பார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be cooking",
+      "ta": "சமைத்து கொண்டிருப்பாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be attending",
+      "ta": "கலந்து கொண்டிருப்பேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be studying",
+      "ta": "படித்து கொண்டிருப்பார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be driving - (ongoing action in the future)",
+      "ta": "ஓட்டிக்கொண்டு இருப்பாய்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be using - (ongoing action in the future)",
+      "ta": "பயன்படுத்திக்கொண்டிருப்பான்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be celebrating - (ongoing action in the future)",
+      "ta": "கொண்டாடிக்கொண்டிருப்போம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be talking - (ongoing action in the future)",
+      "ta": "பேசிக்கொண்டிருப்பாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be waiting - (ongoing action in the future)",
+      "ta": "காத்துக்கொண்டிருப்பேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be explaining - (ongoing action in the future)",
+      "ta": "விளக்கிக்கொண்டிருப்பார்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be cleaning - (ongoing action in the future)",
+      "ta": "சுத்தம் செய்துகொண்டிருப்போம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be fixing - (ongoing action in the future)",
+      "ta": "சரிசெய்துகொண்டிருப்பான்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be writing - (ongoing action in the future)",
+      "ta": "எழுதிக்கொண்டிருப்பார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will be listening - (ongoing action in the future)",
+      "ta": "கேட்டுக்கொண்டிருப்பாய்",
+      "tag": "tense"
+    },
+    {
+      "en": "He will have finished his homework by 8 PM.",
+      "ta": "அவன் இரவு 8 மணிக்குள்ளாக தனது வீட்டுப்பாடத்தை முடித்திருப்பான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She will have left the office before you arrive.",
+      "ta": "அவள் நீங்கள் வருவதற்குள் அலுவலகத்தை விட்டுச் சென்றிருப்பாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They will have built the bridge by next year.",
+      "ta": "அவர்கள் அடுத்த ஆண்டுக்குள் பாலத்தைக் கட்டியிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I will have completed my project by tomorrow.",
+      "ta": "நான் நாளைக்குள் என் திட்டத்தை முடித்திருப்பேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We will have reached the station by 6 AM.",
+      "ta": "நாம் காலை 6 மணிக்குள் நிலையத்தை அடைந்திருப்போம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You will have learned the basics by then.",
+      "ta": "நீங்கள் அப்போது அடிப்படைகளைக் கற்றுக் கொண்டிருப்பீர்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The train will have departed when we get there.",
+      "ta": "நாங்கள் அங்கு செல்லும்போது ரயில் புறப்பட்டிருக்கும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He will have written the letter before noon.",
+      "ta": "அவன் மதியத்திற்கு முன் கடிதத்தை எழுதியிருப்பான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She will have cooked dinner by the time you come.",
+      "ta": "நீங்கள் வரும்போது அவள் இரவு உணவைச் சமைத்திருப்பாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They will have finished the exam by 4 PM.",
+      "ta": "அவர்கள் மாலை 4 மணிக்குள் தேர்வை முடித்திருப்பார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I will have cleaned the room before the guests arrive.",
+      "ta": "விருந்தினர்கள் வரும் முன் அறையை சுத்தம் செய்திருப்பேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We will have solved all the problems by next week.",
+      "ta": "நாம் அடுத்த வாரத்திற்குள் எல்லா பிரச்சனைகளையும் தீர்த்திருப்போம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "You will have received the parcel by Friday.",
+      "ta": "நீங்கள் வெள்ளிக்கிழமைக்குள் பார்சலைப் பெற்றிருப்பீர்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He will have read the book before the meeting.",
+      "ta": "அவன் கூட்டம் ஆரம்பிக்கும் முன் புத்தகத்தைப் படித்திருப்பான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She will have visited Paris by the end of this year.",
+      "ta": "இந்த வருட இறுதிக்குள் அவள் பாரிஸிற்குச் சென்றிருப்பாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "They will have planted the trees by next month.",
+      "ta": "அவர்கள் அடுத்த மாதத்திற்குள் மரங்களை நட்டிருப்பார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I will have saved enough money by December.",
+      "ta": "நான் டிசம்பர் மாதத்திற்குள் போதுமான பணத்தைச் சேமித்திருப்பேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We will have painted the house before Diwali.",
+      "ta": "நாம் தீபாவளிக்கு முன் வீட்டை வண்ணம் பூசியிருப்போம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "You will have learned to drive by next summer.",
+      "ta": "நீங்கள் அடுத்த கோடைக்காலத்துக்குள் ஓட்டக் கற்றுக் கொண்டிருப்பீர்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He will have fixed the car by evening.",
+      "ta": "அவன் மாலை ஆகும் முன் காரை சரிசெய்திருப்பான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She will have finished her studies by 2026.",
+      "ta": "அவள் 2026-க்குள் தனது படிப்பை முடித்திருப்பாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "She will have been studying for three hours by the time you arrive.",
+      "ta": "நீ வரும்போது அவள் மூன்று மணி நேரம் படித்து கொண்டிருப்பாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "They will have been living in Chennai for ten years by 2030.",
+      "ta": "2030 ஆம் ஆண்டுக்குள் அவர்கள் சென்னையில் பத்து வருடங்கள் வசித்து இருப்பார்கள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "I will have been waiting for you for an hour when the train arrives.",
+      "ta": "நான் ரயிலில் வரும்போது உனக்காக ஒரு மணி நேரம் காத்திருந்திருப்பேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "We will have been working on this project for six months by July.",
+      "ta": "ஜூலைக்குள் நாங்கள் இந்த திட்டத்தில் ஆறு மாதங்கள் வேலை செய்து கொண்டிருப்போம்.",
+      "tag": "tense"
+    },
+    {
+      "en": "He will have been driving for five hours by noon.",
+      "ta": "அவர் மதியத்திற்குள் ஐந்து மணி நேரம் வாகனம் ஓட்டியிருப்பார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The children will have been playing for two hours by the time it gets dark.",
+      "ta": "இருள் ஆகும்போது குழந்தைகள் இரண்டு மணி நேரம் விளையாடிக்கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She will have been teaching here for twenty years by next June.",
+      "ta": "அடுத்த ஜூன் மாதத்திற்குள் அவள் இங்கு இருபது வருடங்களாக கற்பித்துக்கொண்டிருப்பாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "By next week, I will have been learning Tamil for six months.",
+      "ta": "அடுத்த வாரத்திற்குள், நான் ஆறு மாதங்களாகத் தமிழ் கற்றுக்கொண்டிருப்பேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You will have been reading that book for a week by tomorrow.",
+      "ta": "நாளைக்குள் நீங்கள் அந்தப் புத்தகத்தை ஒரு வாரமாகப் படித்துக்கொண்டிருப்பீர்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The workers will have been building the bridge for two years by December.",
+      "ta": "டிசம்பர் மாதத்திற்குள் தொழிலாளர்கள் இரண்டு வருடங்களாகப் பாலத்தைக் கட்டிக்கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He will have been exercising daily for a month by next Monday.",
+      "ta": "அடுத்த திங்கட்கிழமைக்குள் அவர் ஒரு மாதமாக தினமும் உடற்பயிற்சி செய்துகொண்டிருப்பார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She will have been cooking",
+      "ta": "சமைத்து கொண்டிருப்பாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "They will have been travelling",
+      "ta": "பயணம் செய்து செய்திருப்பார்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will have been using",
+      "ta": "பயன்படுத்திக் கொண்டிருப்பேன்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will have been waiting",
+      "ta": "காத்திருப்பீர்கள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will have been barking",
+      "ta": "குரைத்துக் கொண்டிருக்கும்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will have been saving",
+      "ta": "சேமித்து வைத்திருப்போம்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will have been practising",
+      "ta": "பயிற்சி செய்து கொண்டிருப்பாள்",
+      "tag": "tense"
+    },
+    {
+      "en": "Will have been repairing",
+      "ta": "சரி செய்துகொண்டிருப்பார்",
+      "tag": "tense"
+    },
+    {
+      "en": "The students will have been preparing for the exam for a month by next Monday.",
+      "ta": "அடுத்த திங்கட்கிழமைக்குள் மாணவர்கள் ஒரு மாதமாகத் தேர்வுக்காகத் தயாராகிக் கொண்டிருப்பார்கள்.",
+      "tag": "sentence"
+    }
+  ],
+  "pyq": [],
+  "notes_en": "p86: This page provides a framework for understanding Simple Present Tense through translation, highlighting its usage for habitual actions and universal truths or facts with clear English-Tamil sentence examples.\np87: This page provides a translation guide for basic tenses, illustrating how English Simple Present and Present Continuous sentences correspond to Tamil grammar, specifically focusing on habitual actions, universal truths, scheduled events, and ongoing actions.\np88: This page provides a comprehensive table mapping English sentences in the Present Continuous tense to their Tamil equivalents, focusing on identifying actions happening in the present moment.\np89: This page provides a structural overview of English Present Continuous and Present Perfect tenses, mapping them to corresponding Tamil translations and highlighting the verb aspect of completed actions.\np90: This page provides a comparative study of English Present Perfect and Present Perfect Continuous tenses with corresponding Tamil translations, focusing on identifying completed actions versus ongoing actions.\np91: This page provides a grammatical comparison between English Present Perfect Continuous tense sentences and their equivalent Tamil translations, emphasizing actions that are still in progress.\np92: This page provides a clear breakdown of the Present Perfect Continuous tense, illustrating how to translate sentences indicating ongoing actions that started in the past into Tamil.\np93: This page provides a table of various English verbs in the past tense alongside their corresponding Tamil translations, illustrating how completed past actions are expressed in both languages.\np94: This page provides a structured comparison of English and Tamil sentence patterns focusing on Simple Past and Past Continuous tenses, helping candidates understand how past actions are translated based on their completed or ongoing nature.\np95: This page provides a clear breakdown of the Past Continuous Tense by contrasting English sentence structures with their Tamil counterparts to illustrate how ongoing actions in the past are translated.\np96: This page provides a grammatical breakdown of Past Continuous and Past Perfect tenses, specifically focusing on how these English verb structures translate into Tamil context. It emphasizes that Past Perfect involves actions completed before other past events.\np97: This page provides a table of sentences demonstrating the use of Past Perfect tense in English, highlighting actions that were completed prior to another past action, accompanied by their Tamil translations.\np98: This page provides a reference guide for translating Past Perfect and Past Perfect Continuous tenses from English to Tamil, using practical examples to illustrate how actions completed in the past or ongoing past actions are structured in both languages.\np99: This page provides a table of English sentences in Past Perfect Continuous tense alongside their Tamil translations, emphasizing the translation of ongoing actions in the past.\np100: This page provides a comparative study of Past Perfect Continuous and Future tense structures between English and Tamil, illustrating how specific verb forms correspond to ongoing past actions and various future events.\np101: This page provides a table mapping English sentences in the simple future tense to their Tamil equivalents, categorized by the nature of the action such as scheduled, planned, or intended events.\np102: This page provides a clear guide on the Future Continuous tense with practical sentence examples demonstrating how ongoing future actions are translated from English to Tamil.\np103: This page provides a grammatical framework for Future Continuous tense, showing how to translate English sentences describing future ongoing actions into Tamil equivalents using the auxiliary structure 'will be + verb-ing'.\np104: This page provides a comprehensive breakdown of the Future Perfect Tense. It illustrates how the English structure 'will have + past participle' translates to Tamil, highlighting the concept of completed actions relative to a future reference point.\np105: This page provides a comprehensive table illustrating the usage of the Future Perfect Tense. It demonstrates how to translate sentences involving actions expected to be finished by a specific future time, showing both English and Tamil sentence structures.\np106: This page provides a clear structural guide for translating Future Perfect and Future Perfect Continuous tenses. It distinguishes between actions completed by a specific point in the future versus ongoing actions leading up to that point.\np107: This page from Vetrii IAS study material focuses on the Future Perfect Continuous tense, illustrating how ongoing actions leading to a future deadline are constructed in both English and Tamil.\np108: This page provides a table detailing the usage and Tamil translation equivalents for the Future Perfect Continuous tense, specifically focusing on actions that will be ongoing up to a future reference point.\np109: This page provides an example of Future Perfect Continuous tense usage in English and its corresponding Tamil translation, emphasizing how to express ongoing actions leading up to a future milestone.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

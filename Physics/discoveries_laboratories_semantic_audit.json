@@ -1,0 +1,112 @@
+{
+  "topic": "Discoveries and National Scientific Laboratories",
+  "audit_scope": "All 75 current practice questions, audited against the 151 topic facts and Physics batch generation guide",
+  "status": "passed",
+  "manual_audit": {
+    "source_grounding": "passed",
+    "correct_key_uniqueness": "passed",
+    "english_tamil_equivalence": "passed",
+    "statement_logic": "passed",
+    "assertion_reason_logic": "passed",
+    "match_mapping_and_ambiguity": "passed",
+    "paragraph_answer_concealment": "passed",
+    "answer_distribution": "passed",
+    "cross_batch_concept_duplication": "passed",
+    "internal_fact_labels_and_placeholder_language": "passed"
+  },
+  "metrics": {
+    "question_count": 75,
+    "batch_count": 3,
+    "questions_per_batch": 25,
+    "topic_fact_count": 151,
+    "exact_primary_source_facts": 75,
+    "unique_primary_source_facts": 75,
+    "positive_fact_claims_audited": 144,
+    "unique_positive_fact_concepts": 144,
+    "duplicate_positive_fact_concepts": 0,
+    "copied_pyq_stems": 0,
+    "numbered_fact_labels": 0,
+    "answer_revealing_paragraph_stems": 0,
+    "question_records_changed": 47,
+    "requested_defect_records_changed": 27,
+    "additional_defect_records_changed": 17,
+    "final_correction_records_changed": 5,
+    "final_correction_grounding_claims_verified": 13,
+    "remaining_defects": 0
+  },
+  "batch_metrics": {
+    "Batch 1": {
+      "formats": {
+        "direct": 8,
+        "statement": 7,
+        "assertion_reason": 3,
+        "match": 3,
+        "paragraph": 4
+      },
+      "contextual": 4,
+      "answer_distribution": {
+        "A": 7,
+        "B": 6,
+        "C": 6,
+        "D": 6
+      }
+    },
+    "Batch 2": {
+      "formats": {
+        "direct": 8,
+        "statement": 7,
+        "assertion_reason": 3,
+        "match": 3,
+        "paragraph": 4
+      },
+      "contextual": 4,
+      "answer_distribution": {
+        "A": 7,
+        "B": 6,
+        "C": 6,
+        "D": 6
+      }
+    },
+    "Batch 3": {
+      "formats": {
+        "direct": 8,
+        "statement": 7,
+        "assertion_reason": 3,
+        "match": 3,
+        "paragraph": 4
+      },
+      "contextual": 4,
+      "answer_distribution": {
+        "A": 7,
+        "B": 6,
+        "C": 6,
+        "D": 6
+      }
+    }
+  },
+  "repair": {
+    "method": "direct deterministic edit and manual semantic audit",
+    "gemini_called": false,
+    "model_or_api_configuration_changed": false,
+    "server_or_postgresql_touched": false,
+    "paragraph_questions_rewritten": 12,
+    "semantic_duplicate_questions_replaced": 1,
+    "final_corrections": [
+      "Batch 2 Question 4 assertion-reason explanation",
+      "Batch 2 Question 24 stainless-steel wording",
+      "Batch 3 Question 6 English match explanation",
+      "Batch 3 Question 9 bilingual match explanations",
+      "Batch 3 Question 24 assertion-reason explanation"
+    ],
+    "deterministic_qc": "passed with 0 hard issues",
+    "json_parser": "passed",
+    "lints": "passed"
+  },
+  "preservation": {
+    "physics_pyqs": 145,
+    "other_topic_practice_questions": 225,
+    "universe_questions": 75,
+    "laws_of_physics_questions": 75,
+    "scientific_instruments_questions": 75
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "prose_id": "my_reminiscence",
+  "prose_title": "My Reminiscence",
+  "author": "Rabindranath Tagore",
+  "num": 18,
+  "pdf_pages": [
+    401,
+    416
+  ],
+  "prose_text_en": "The author revisits his brother Jyotirindra and sister-in-law at their riverside villa, 'Moran’s Garden,' in Chandernagore. He describes the Ganges and the surrounding Bengal landscape as vital to his soul, comparing the beauty of the river and the leisure of the time to 'food and drink to the hungry and thirsty.' He spends his days singing Vaishnava songs or drifting in a boat with his brother’s violin accompaniment. The house, with its irregular rooms and stained-glass windows, serves as a sanctuary for his poetry, specifically his 'Evening Songs.' He laments the encroachment of modern 'dragon-like' mills and 'hydra-headed unrest' upon the peace of the past.",
+  "summary_en": "Rabindranath Tagore recalls his peaceful, creative days spent at a riverside villa in Chandernagore with his family. The essay highlights the deep connection he felt with nature, which inspired his poetry and music. He contrasts the serene, natural beauty of the past with the industrialization and restless pace of modern life. The text serves as a nostalgic reflection on a formative period of his life.",
+  "characters": [
+    {
+      "name_en": "Rabindranath Tagore",
+      "role_en": "Author and narrator"
+    },
+    {
+      "name_en": "Jyotirindra",
+      "role_en": "The author's brother"
+    },
+    {
+      "name_en": "Sister-in-law",
+      "role_en": "Relative living with the author at the villa"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "ineffable",
+      "meaning_en": "beyond expression; too great to be expressed"
+    },
+    {
+      "word_en": "languid",
+      "meaning_en": "moving slowly"
+    },
+    {
+      "word_en": "plaintive",
+      "meaning_en": "sounding sad"
+    },
+    {
+      "word_en": "ministrations",
+      "meaning_en": "the act of helping or caring"
+    },
+    {
+      "word_en": "wrought",
+      "meaning_en": "caused"
+    },
+    {
+      "word_en": "garb",
+      "meaning_en": "clothes"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Rabindranath Tagore (1861-1941) was a Nobel prize-winning Bengali poet, author, and philosopher.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "'My Reminiscences' was published when Tagore was fifty, shortly before his 1912 trip to Europe/America.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "The author's riverside villa was known as 'Moran’s Garden'.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Tagore wrote 'Evening Songs' while staying in the topmost room of the villa.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "The author compares modern mills to 'dragon-like' figures belching black smoke.",
+      "tag": "quote"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The author speaks about the river _________.",
+      "answer_en": "Ganges",
+      "options_en": [
+        "Ganges",
+        "Yamuna",
+        "Brahmaputra",
+        "Narmada"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The author’s brother’s name is ___________.",
+      "answer_en": "Jyotirindra",
+      "options_en": [
+        "Abirami",
+        "Jyotirindra",
+        "Ravi",
+        "Sudharshan"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The _________ glimmered over the smooth flowing stream.",
+      "answer_en": "moonlight",
+      "options_en": [
+        "sunlight",
+        "moonlight",
+        "lamp light",
+        "fire"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

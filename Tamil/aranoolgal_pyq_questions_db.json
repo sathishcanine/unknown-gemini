@@ -1,0 +1,1002 @@
+[
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "நாலடியார்",
+    "question_ta": "நாலடியாரைத் தொகுத்தவர்",
+    "question_en": "நாலடியாரைத் தொகுத்தவர்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கபிலர்",
+        "text_ta": "கபிலர்"
+      },
+      {
+        "key": "B",
+        "text_en": "அணிலாடு முன்றிலார்",
+        "text_ta": "அணிலாடு முன்றிலார்"
+      },
+      {
+        "key": "C",
+        "text_en": "பதுமனார்",
+        "text_ta": "பதுமனார்"
+      },
+      {
+        "key": "D",
+        "text_en": "முன்றுறை அரையனார்",
+        "text_ta": "முன்றுறை அரையனார்"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "நாலடியாரைத் தொகுத்தவர் பதுமனார் ஆவார்.",
+    "explanation_ta": "நாலடியாரைத் தொகுத்தவர் பதுமனார் ஆவார்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q1 — நாலடியார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "நாலடியார்",
+    "question_ta": "\"நாலும் இரண்டும் சொல்லுக்குறுதி\" இதில் 'நாலு' என்பது எதை குறிக்கிறது?",
+    "question_en": "\"நாலும் இரண்டும் சொல்லுக்குறுதி\" இதில் 'நாலு' என்பது எதை குறிக்கிறது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நான்மணிக் கடிகை",
+        "text_ta": "நான்மணிக் கடிகை"
+      },
+      {
+        "key": "B",
+        "text_en": "நாலடியார்",
+        "text_ta": "நாலடியார்"
+      },
+      {
+        "key": "C",
+        "text_en": "களவழி நாற்பது",
+        "text_ta": "களவழி நாற்பது"
+      },
+      {
+        "key": "D",
+        "text_en": "கார் நாற்பது",
+        "text_ta": "கார் நாற்பது"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'நாலும் இரண்டும்' என்பதில் நாலு என்பது நாலடியாரையும், இரண்டு என்பது திருக்குறளையும் குறிக்கும்.",
+    "explanation_ta": "'நாலும் இரண்டும்' என்பதில் நாலு என்பது நாலடியாரையும், இரண்டு என்பது திருக்குறளையும் குறிக்கும்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q2 — நாலடியார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "நாலடியார்",
+    "question_ta": "'கல்வி அழகே அழகு' என்றும் 'கல்வி கரையில கற்பவர் நாள் சில' என்றும் கூறும் நூல்.",
+    "question_en": "'கல்வி அழகே அழகு' என்றும் 'கல்வி கரையில கற்பவர் நாள் சில' என்றும் கூறும் நூல்.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "திருக்குறள்",
+        "text_ta": "திருக்குறள்"
+      },
+      {
+        "key": "B",
+        "text_en": "நான்மணிக் கடிகை",
+        "text_ta": "நான்மணிக் கடிகை"
+      },
+      {
+        "key": "C",
+        "text_en": "திரிகடுகம்",
+        "text_ta": "திரிகடுகம்"
+      },
+      {
+        "key": "D",
+        "text_en": "நாலடியார்",
+        "text_ta": "நாலடியார்"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "இக்கூற்று நாலடியாரில் இடம்பெற்றுள்ளது.",
+    "explanation_ta": "இக்கூற்று நாலடியாரில் இடம்பெற்றுள்ளது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q3 — நாலடியார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "நாலடியார்",
+    "question_ta": "திருக்குறளுக்கு அடுத்தபடியாக போற்றப்படும் நீதி நூல்",
+    "question_en": "திருக்குறளுக்கு அடுத்தபடியாக போற்றப்படும் நீதி நூல்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாலடி நானூறு",
+        "text_ta": "நாலடி நானூறு"
+      },
+      {
+        "key": "B",
+        "text_en": "நான்மணிக் கடிகை",
+        "text_ta": "நான்மணிக் கடிகை"
+      },
+      {
+        "key": "C",
+        "text_en": "இன்னா நாற்பது",
+        "text_ta": "இன்னா நாற்பது"
+      },
+      {
+        "key": "D",
+        "text_en": "திரிகடுகம்",
+        "text_ta": "திரிகடுகம்"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "நாலடியார் (நாலடி நானூறு) திருக்குறளுக்கு அடுத்தபடியாக போற்றப்படுகிறது.",
+    "explanation_ta": "நாலடியார் (நாலடி நானூறு) திருக்குறளுக்கு அடுத்தபடியாக போற்றப்படுகிறது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q4 — நாலடியார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "நான்மணிக்கடிகை",
+    "question_ta": "நான் மணிக்கடிகையைப் பாடியவர் யார்?",
+    "question_en": "நான் மணிக்கடிகையைப் பாடியவர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "விளம்பி நாகனார்",
+        "text_ta": "விளம்பி நாகனார்"
+      },
+      {
+        "key": "B",
+        "text_en": "கபிலர்",
+        "text_ta": "கபிலர்"
+      },
+      {
+        "key": "C",
+        "text_en": "முன்றுறை அரையனார்",
+        "text_ta": "முன்றுறை அரையனார்"
+      },
+      {
+        "key": "D",
+        "text_en": "கடுவெளி சித்தர்",
+        "text_ta": "கடுவெளி சித்தர்"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "நான்மணிக்கடிகையைப் பாடியவர் விளம்பி நாகனார் ஆவார்.",
+    "explanation_ta": "நான்மணிக்கடிகையைப் பாடியவர் விளம்பி நாகனார் ஆவார்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q5 — நான்மணிக்கடிகை",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "நான்மணிக்கடிகை",
+    "question_ta": "'கடிகை' என்பதன் பொருள் யாது?",
+    "question_en": "'கடிகை' என்பதன் பொருள் யாது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அணிகலன்",
+        "text_ta": "அணிகலன்"
+      },
+      {
+        "key": "B",
+        "text_en": "கடித்தல்",
+        "text_ta": "கடித்தல்"
+      },
+      {
+        "key": "C",
+        "text_en": "கடுகு",
+        "text_ta": "கடுகு"
+      },
+      {
+        "key": "D",
+        "text_en": "காரம்",
+        "text_ta": "காரம்"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "கடிகை என்பதற்கு அணிகலன் என்று பொருள்.",
+    "explanation_ta": "கடிகை என்பதற்கு அணிகலன் என்று பொருள்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q6 — நான்மணிக்கடிகை",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "பழமொழி நானூறு",
+    "question_ta": "\"கற்றவருக்கு எல்லா நாடுகளும் தம்முடைய நாடுகளே\" என்ற கருத்து அமைந்த பாடலை பாடிய சங்க புலவர் யார்?",
+    "question_en": "\"கற்றவருக்கு எல்லா நாடுகளும் தம்முடைய நாடுகளே\" என்ற கருத்து அமைந்த பாடலை பாடிய சங்க புலவர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கணியன் பூங்குன்றனார்",
+        "text_ta": "கணியன் பூங்குன்றனார்"
+      },
+      {
+        "key": "B",
+        "text_en": "முன்றுறை அரையனார்",
+        "text_ta": "முன்றுறை அரையனார்"
+      },
+      {
+        "key": "C",
+        "text_en": "கணிமேதையியார்",
+        "text_ta": "கணிமேதையியார்"
+      },
+      {
+        "key": "D",
+        "text_en": "திருவள்ளுவர்",
+        "text_ta": "திருவள்ளுவர்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "பழமொழி நானூறு நூலைப் பாடியவர் முன்றுறை அரையனார் ஆவார். (பழமொழிப் பிரிவில் கேட்கப்பட்ட வினா; சங்கப்புலவர் விடை சரிபார்க்கவும்.)",
+    "explanation_ta": "பழமொழி நானூறு நூலைப் பாடியவர் முன்றுறை அரையனார் ஆவார். (பழமொழிப் பிரிவில் கேட்கப்பட்ட வினா; சங்கப்புலவர் விடை சரிபார்க்கவும்.)",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q7 — பழமொழி நானூறு",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "medium"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "பழமொழி நானூறு",
+    "question_ta": "\"பொன் திறந்து கொண்டு புகாவா நல்கினாள்\" - பழமொழி நானூறு. இதில் புகாவா என்பதன் பொருள்",
+    "question_en": "\"பொன் திறந்து கொண்டு புகாவா நல்கினாள்\" - பழமொழி நானூறு. இதில் புகாவா என்பதன் பொருள்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நீர்",
+        "text_ta": "நீர்"
+      },
+      {
+        "key": "B",
+        "text_en": "உணவு",
+        "text_ta": "உணவு"
+      },
+      {
+        "key": "C",
+        "text_en": "காற்று",
+        "text_ta": "காற்று"
+      },
+      {
+        "key": "D",
+        "text_en": "பொருள்",
+        "text_ta": "பொருள்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "புகாவா என்பதன் பொருள் உணவு என்பதாகும்.",
+    "explanation_ta": "புகாவா என்பதன் பொருள் உணவு என்பதாகும்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q8 — பழமொழி நானூறு",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "முதுமொழிக்காஞ்சி",
+    "question_ta": "'அறவுரைக் கோவை' என வழங்கப்படும் நூலின் பெயரை எழுதுக",
+    "question_en": "'அறவுரைக் கோவை' என வழங்கப்படும் நூலின் பெயரை எழுதுக",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "திருக்குறள்",
+        "text_ta": "திருக்குறள்"
+      },
+      {
+        "key": "B",
+        "text_en": "முதுமொழிக்காஞ்சி",
+        "text_ta": "முதுமொழிக்காஞ்சி"
+      },
+      {
+        "key": "C",
+        "text_en": "ஆசாரக்கோவை",
+        "text_ta": "ஆசாரக்கோவை"
+      },
+      {
+        "key": "D",
+        "text_en": "திருச்சிற்றம்பலக்கோவை",
+        "text_ta": "திருச்சிற்றம்பலக்கோவை"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "முதுமொழிக்காஞ்சி 'அறவுரைக் கோவை' என்றும் அழைக்கப்படுகிறது.",
+    "explanation_ta": "முதுமொழிக்காஞ்சி 'அறவுரைக் கோவை' என்றும் அழைக்கப்படுகிறது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q9 — முதுமொழிக்காஞ்சி",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "முதுமொழிக்காஞ்சி",
+    "question_ta": "புறப்பொருள் திணையின் பெயரைத் தாங்கிய நீதிநூல் எது?",
+    "question_en": "புறப்பொருள் திணையின் பெயரைத் தாங்கிய நீதிநூல் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நாலடியார்",
+        "text_ta": "நாலடியார்"
+      },
+      {
+        "key": "B",
+        "text_en": "முதுமொழிக்காஞ்சி",
+        "text_ta": "முதுமொழிக்காஞ்சி"
+      },
+      {
+        "key": "C",
+        "text_en": "ஏலாதி",
+        "text_ta": "ஏலாதி"
+      },
+      {
+        "key": "D",
+        "text_en": "பழமொழி",
+        "text_ta": "பழமொழி"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "காஞ்சி என்பது புறப்பொருள் திணைகளில் ஒன்று; எனவே முதுமொழிக்காஞ்சி புறப்பொருள் திணைப் பெயரைக் கொண்டுள்ளது.",
+    "explanation_ta": "காஞ்சி என்பது புறப்பொருள் திணைகளில் ஒன்று; எனவே முதுமொழிக்காஞ்சி புறப்பொருள் திணைப் பெயரைக் கொண்டுள்ளது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q10 — முதுமொழிக்காஞ்சி",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "திரிகடுகம்",
+    "question_ta": "\"செருஅடுதோள் நல்லாதன்\" எனப் பாராட்டுவது?",
+    "question_en": "\"செருஅடுதோள் நல்லாதன்\" எனப் பாராட்டுவது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தொல்காப்பியம்",
+        "text_ta": "தொல்காப்பியம்"
+      },
+      {
+        "key": "B",
+        "text_en": "அகத்தியம்",
+        "text_ta": "அகத்தியம்"
+      },
+      {
+        "key": "C",
+        "text_en": "பாயிரம்",
+        "text_ta": "பாயிரம்"
+      },
+      {
+        "key": "D",
+        "text_en": "நன்னூல்",
+        "text_ta": "நன்னூல்"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "திரிகடுகத்தைப் பாடிய நல்லாதனாரைப் பாயிரம் 'செருஅடுதோள் நல்லாதன்' எனப் பாராட்டுகிறது.",
+    "explanation_ta": "திரிகடுகத்தைப் பாடிய நல்லாதனாரைப் பாயிரம் 'செருஅடுதோள் நல்லாதன்' எனப் பாராட்டுகிறது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q11 — திரிகடுகம்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "திரிகடுகம்",
+    "question_ta": "'திரிகடுகம்' எனும் நூலின் வெண்பாக்களின் எண்ணிக்கை",
+    "question_en": "'திரிகடுகம்' எனும் நூலின் வெண்பாக்களின் எண்ணிக்கை",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "100 - வெண்பாக்கள்",
+        "text_ta": "100 - வெண்பாக்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "102 - வெண்பாக்கள்",
+        "text_ta": "102 - வெண்பாக்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "200 - வெண்பாக்கள்",
+        "text_ta": "200 - வெண்பாக்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "90 - வெண்பாக்கள்",
+        "text_ta": "90 - வெண்பாக்கள்"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "திரிகடுகம் நூலில் 100 வெண்பாக்கள் உள்ளன.",
+    "explanation_ta": "திரிகடுகம் நூலில் 100 வெண்பாக்கள் உள்ளன.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q12 — திரிகடுகம்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "திரிகடுகம்",
+    "question_ta": "திரிகடுகம் என்ற நூலின் ஆசிரியர்",
+    "question_en": "திரிகடுகம் என்ற நூலின் ஆசிரியர்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கணிமேதாவியார்",
+        "text_ta": "கணிமேதாவியார்"
+      },
+      {
+        "key": "B",
+        "text_en": "கம்பர்",
+        "text_ta": "கம்பர்"
+      },
+      {
+        "key": "C",
+        "text_en": "நல்லாதனார்",
+        "text_ta": "நல்லாதனார்"
+      },
+      {
+        "key": "D",
+        "text_en": "இளங்கோவடிகள்",
+        "text_ta": "இளங்கோவடிகள்"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "திரிகடுகம் நூலை இயற்றியவர் நல்லாதனார்.",
+    "explanation_ta": "திரிகடுகம் நூலை இயற்றியவர் நல்லாதனார்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q13 — திரிகடுகம்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "இன்னா நாற்பது",
+    "question_ta": "'புலனழுக்கற்ற அந்தணாளன்' - என்று புகழப்படும் சங்கப்புலவர்",
+    "question_en": "'புலனழுக்கற்ற அந்தணாளன்' - என்று புகழப்படும் சங்கப்புலவர்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பரணர்",
+        "text_ta": "பரணர்"
+      },
+      {
+        "key": "B",
+        "text_en": "கபிலர்",
+        "text_ta": "கபிலர்"
+      },
+      {
+        "key": "C",
+        "text_en": "நக்கீரனார்",
+        "text_ta": "நக்கீரனார்"
+      },
+      {
+        "key": "D",
+        "text_en": "ஔவையார்",
+        "text_ta": "ஔவையார்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "கபிலர் 'புலனழுக்கற்ற அந்தணாளன்' எனப் புகழப்படுகிறார்.",
+    "explanation_ta": "கபிலர் 'புலனழுக்கற்ற அந்தணாளன்' எனப் புகழப்படுகிறார்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q14 — இன்னா நாற்பது",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "இனியவை நாற்பது",
+    "question_ta": "'இனியவை நாற்பது' பாடலின் ஆசிரியர் யார்?",
+    "question_en": "'இனியவை நாற்பது' பாடலின் ஆசிரியர் யார்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நப்பசலையார்",
+        "text_ta": "நப்பசலையார்"
+      },
+      {
+        "key": "B",
+        "text_en": "பூதஞ்சேந்தனார்",
+        "text_ta": "பூதஞ்சேந்தனார்"
+      },
+      {
+        "key": "C",
+        "text_en": "பூங்குன்றனார்",
+        "text_ta": "பூங்குன்றனார்"
+      },
+      {
+        "key": "D",
+        "text_en": "குடபுலவியனார்",
+        "text_ta": "குடபுலவியனார்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "இனியவை நாற்பது ஆசிரியர் பூதஞ்சேந்தனார்.",
+    "explanation_ta": "இனியவை நாற்பது ஆசிரியர் பூதஞ்சேந்தனார்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q15 — இனியவை நாற்பது",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "சிறுபஞ்சமூலம்",
+    "question_ta": "சிறுபஞ்சமூலம் என்ற நூலை இயற்றிய ஆசிரியரின் சமயம்",
+    "question_en": "சிறுபஞ்சமூலம் என்ற நூலை இயற்றிய ஆசிரியரின் சமயம்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "இந்து சமயம்",
+        "text_ta": "இந்து சமயம்"
+      },
+      {
+        "key": "B",
+        "text_en": "சமண சமயம்",
+        "text_ta": "சமண சமயம்"
+      },
+      {
+        "key": "C",
+        "text_en": "கிறிஸ்தவ சமயம்",
+        "text_ta": "கிறிஸ்தவ சமயம்"
+      },
+      {
+        "key": "D",
+        "text_en": "பௌத்த சமயம்",
+        "text_ta": "பௌத்த சமயம்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "சிறுபஞ்சமூல ஆசிரியர் காரியாசான் சமண சமயத்தைச் சார்ந்தவர்.",
+    "explanation_ta": "சிறுபஞ்சமூல ஆசிரியர் காரியாசான் சமண சமயத்தைச் சார்ந்தவர்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q16 — சிறுபஞ்சமூலம்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "சிறுபஞ்சமூலம்",
+    "question_ta": "ஐந்து சிறிய வேர்கள் என்ற பொருள் கொண்ட நூல் எது?",
+    "question_en": "ஐந்து சிறிய வேர்கள் என்ற பொருள் கொண்ட நூல் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ஏலாதி",
+        "text_ta": "ஏலாதி"
+      },
+      {
+        "key": "B",
+        "text_en": "திரிகடுகம்",
+        "text_ta": "திரிகடுகம்"
+      },
+      {
+        "key": "C",
+        "text_en": "சிறுபஞ்சமூலம்",
+        "text_ta": "சிறுபஞ்சமூலம்"
+      },
+      {
+        "key": "D",
+        "text_en": "நாலடியார்",
+        "text_ta": "நாலடியார்"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "சிறுபஞ்சமூலம் என்பதன் பொருள் ஐந்து சிறிய வேர்கள்.",
+    "explanation_ta": "சிறுபஞ்சமூலம் என்பதன் பொருள் ஐந்து சிறிய வேர்கள்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q17 — சிறுபஞ்சமூலம்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஏலாதி",
+    "question_ta": "ஏலாதி - எந்த நூல் வகையைச் சார்ந்தது?",
+    "question_en": "ஏலாதி - எந்த நூல் வகையைச் சார்ந்தது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பதினெண் கீழ்க்கணக்கு",
+        "text_ta": "பதினெண் கீழ்க்கணக்கு"
+      },
+      {
+        "key": "B",
+        "text_en": "ஐஞ்சிறு காப்பியம்",
+        "text_ta": "ஐஞ்சிறு காப்பியம்"
+      },
+      {
+        "key": "C",
+        "text_en": "ஐம்பெருங்காப்பியம்",
+        "text_ta": "ஐம்பெருங்காப்பியம்"
+      },
+      {
+        "key": "D",
+        "text_en": "பதினெண்மேற்கணக்கு",
+        "text_ta": "பதினெண்மேற்கணக்கு"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ஏலாதி பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றாகும்.",
+    "explanation_ta": "ஏலாதி பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றாகும்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q18 — ஏலாதி",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஏலாதி",
+    "question_ta": "கணிமேதாவியார் எந்த சமயத்தைச் சார்ந்தவர்?",
+    "question_en": "கணிமேதாவியார் எந்த சமயத்தைச் சார்ந்தவர்?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "சைவம்",
+        "text_ta": "சைவம்"
+      },
+      {
+        "key": "B",
+        "text_en": "சமணம்",
+        "text_ta": "சமணம்"
+      },
+      {
+        "key": "C",
+        "text_en": "வைணவம்",
+        "text_ta": "வைணவம்"
+      },
+      {
+        "key": "D",
+        "text_en": "பௌத்தம்",
+        "text_ta": "பௌத்தம்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "ஏலாதி மற்றும் திணைமொழி ஐம்பது எழுதிய கணிமேதாவியார் சமண சமயத்தைச் சார்ந்தவர்.",
+    "explanation_ta": "ஏலாதி மற்றும் திணைமொழி ஐம்பது எழுதிய கணிமேதாவியார் சமண சமயத்தைச் சார்ந்தவர்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q19 — ஏலாதி",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஏலாதி",
+    "question_ta": "ஏலாதி ...................... வெண்பாக்களை கொண்டுள்ளது",
+    "question_en": "ஏலாதி ...................... வெண்பாக்களை கொண்டுள்ளது",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "எழுபத்தொன்று",
+        "text_ta": "எழுபத்தொன்று"
+      },
+      {
+        "key": "B",
+        "text_en": "எண்பத்தொன்று",
+        "text_ta": "எண்பத்தொன்று"
+      },
+      {
+        "key": "C",
+        "text_en": "ஐம்பத்தொன்று",
+        "text_ta": "ஐம்பத்தொன்று"
+      },
+      {
+        "key": "D",
+        "text_en": "முப்பத்தொன்று",
+        "text_ta": "முப்பத்தொன்று"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "ஏலாதியில் 81 (எண்பத்தொன்று) வெண்பாக்கள் உள்ளன.",
+    "explanation_ta": "ஏலாதியில் 81 (எண்பத்தொன்று) வெண்பாக்கள் உள்ளன.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q20 — ஏலாதி",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஔவையார்",
+    "question_ta": "'மன்னற்கு தன்தேசம் அல்லால் சிறப்பில்லை கற்றோர்க்கு சென்ற இடமெல்லாம் சிறப்பு' - என்ற பாடல் இடம் பெற்ற நூல் எது?",
+    "question_en": "'மன்னற்கு தன்தேசம் அல்லால் சிறப்பில்லை கற்றோர்க்கு சென்ற இடமெல்லாம் சிறப்பு' - என்ற பாடல் இடம் பெற்ற நூல் எது?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "மூதுரை",
+        "text_ta": "மூதுரை"
+      },
+      {
+        "key": "B",
+        "text_en": "பழமொழி நானூறு",
+        "text_ta": "பழமொழி நானூறு"
+      },
+      {
+        "key": "C",
+        "text_en": "திருக்குறள்",
+        "text_ta": "திருக்குறள்"
+      },
+      {
+        "key": "D",
+        "text_en": "நாலடியார்",
+        "text_ta": "நாலடியார்"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "இப்பாடல் ஔவையாரின் மூதுரை நூலில் இடம்பெற்றுள்ளது.",
+    "explanation_ta": "இப்பாடல் ஔவையாரின் மூதுரை நூலில் இடம்பெற்றுள்ளது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q21 — ஔவையார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஔவையார்",
+    "question_ta": "பொருத்துக:\na. மதியாதார் முற்றம் - 1. கூடுவது கோடி பெறும்\nb. உபசரிக்காதார் மனையில் - 2. மிதியாமை கோடி பெறும்\nc. குடியிறந்தார் தம்மோடு - 3. சொன்ன சொல் தவறாமை கோடி பெறும்\nd. கோடானு கோடி கொடுப்பினும் - 4. உண்ணாமை கோடி பெறும்",
+    "question_en": "பொருத்துக:\na. மதியாதார் முற்றம் - 1. கூடுவது கோடி பெறும்\nb. உபசரிக்காதார் மனையில் - 2. மிதியாமை கோடி பெறும்\nc. குடியிறந்தார் தம்மோடு - 3. சொன்ன சொல் தவறாமை கோடி பெறும்\nd. கோடானு கோடி கொடுப்பினும் - 4. உண்ணாமை கோடி பெறும்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1 2 3 4",
+        "text_ta": "1 2 3 4"
+      },
+      {
+        "key": "B",
+        "text_en": "2 4 1 3",
+        "text_ta": "2 4 1 3"
+      },
+      {
+        "key": "C",
+        "text_en": "2 1 3 4",
+        "text_ta": "2 1 3 4"
+      },
+      {
+        "key": "D",
+        "text_en": "2 1 4 3",
+        "text_ta": "2 1 4 3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "மதியாதார் முற்றம் மிதியாமை கோடி பெறும் (2), உபசரிக்காதார் மனையில் உண்ணாமை கோடி பெறும் (4), குடியிறந்தார் தம்மோடு கூடுவது கோடி பெறும் (1), கோடானு கோடி கொடுப்பினும் சொன்ன சொல் தவறாமை கோடி பெறும் (3). எனவே 2 4 1 3.",
+    "explanation_ta": "மதியாதார் முற்றம் மிதியாமை கோடி பெறும் (2), உபசரிக்காதார் மனையில் உண்ணாமை கோடி பெறும் (4), குடியிறந்தார் தம்மோடு கூடுவது கோடி பெறும் (1), கோடானு கோடி கொடுப்பினும் சொன்ன சொல் தவறாமை கோடி பெறும் (3). எனவே 2 4 1 3.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q22 — ஔவையார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஔவையார்",
+    "question_ta": "கீழ்க்கண்டவற்றில் ஔவையார் இயற்றிய நூல்",
+    "question_en": "கீழ்க்கண்டவற்றில் ஔவையார் இயற்றிய நூல்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "வெற்றி வேற்கை",
+        "text_ta": "வெற்றி வேற்கை"
+      },
+      {
+        "key": "B",
+        "text_en": "அருங்கலச்செப்பு",
+        "text_ta": "அருங்கலச்செப்பு"
+      },
+      {
+        "key": "C",
+        "text_en": "நன்னெறி",
+        "text_ta": "நன்னெறி"
+      },
+      {
+        "key": "D",
+        "text_en": "ஞானக்குறள்",
+        "text_ta": "ஞானக்குறள்"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "வெற்றி வேற்கை (நறுந்தொகை) ஔவையாரால் இயற்றப்பட்டது.",
+    "explanation_ta": "வெற்றி வேற்கை (நறுந்தொகை) ஔவையாரால் இயற்றப்பட்டது.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q23 — ஔவையார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஔவையார்",
+    "question_ta": "\"சிறு எறும்பும் அதன் கையினால் எண் சாண் உடையதே\" என்றவர்",
+    "question_en": "\"சிறு எறும்பும் அதன் கையினால் எண் சாண் உடையதே\" என்றவர்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பரணர்",
+        "text_ta": "பரணர்"
+      },
+      {
+        "key": "B",
+        "text_en": "பொய்யில் புலவர்",
+        "text_ta": "பொய்யில் புலவர்"
+      },
+      {
+        "key": "C",
+        "text_en": "செம்புலப்பெயல் நீராr",
+        "text_ta": "செம்புலப்பெயல் நீராr"
+      },
+      {
+        "key": "D",
+        "text_en": "ஔவையார்",
+        "text_ta": "ஔவையார்"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "இந்த வரிகள் ஔவையாரால் கூறப்பட்டவை.",
+    "explanation_ta": "இந்த வரிகள் ஔவையாரால் கூறப்பட்டவை.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q24 — ஔவையார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  },
+  {
+    "topic": "அறநூல்கள் தொடர்பான செய்திகள்",
+    "section_ta": "ஔவையார்",
+    "question_ta": "'மீதூண் விரும்பேல்' இவ்வடியின் பொருள்",
+    "question_en": "'மீதூண் விரும்பேல்' இவ்வடியின் பொருள்",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "குறைவான உணவு உட்கொள்ளுதல் கூடாது",
+        "text_ta": "குறைவான உணவு உட்கொள்ளுதல் கூடாது"
+      },
+      {
+        "key": "B",
+        "text_en": "வயிறு புடைக்க உண்ணுதல் நோய்க்கு இடம் அளிக்கும்",
+        "text_ta": "வயிறு புடைக்க உண்ணுதல் நோய்க்கு இடம் அளிக்கும்"
+      },
+      {
+        "key": "C",
+        "text_en": "மிக அதிகமாக உண்ண வேண்டும்",
+        "text_ta": "மிக அதிகமாக உண்ண வேண்டும்"
+      },
+      {
+        "key": "D",
+        "text_en": "காலையிலும் இரவிலும் குறைவாகவும் மதியம் அதிகமாகவும் உண்ண வேண்டும்",
+        "text_ta": "காலையிலும் இரவிலும் குறைவாகவும் மதியம் அதிகமாகவும் உண்ண வேண்டும்"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "மீதூண் விரும்பேல் என்றால் அளவுக்கு அதிகமாக உண்பதைத் தவிர்க்க வேண்டும் என்று பொருள்.",
+    "explanation_ta": "மீதூண் விரும்பேல் என்றால் அளவுக்கு அதிகமாக உண்பதைத் தவிர்க்க வேண்டும் என்று பொருள்.",
+    "difficulty": "Medium",
+    "type": "pyq",
+    "batch": "",
+    "source_exam": "SM Aranoolgal PYQ Q25 — ஔவையார்",
+    "source_fact": "SM_Tamil_aranoolgal_pyq_screenshot",
+    "examGroup": [
+      "group4"
+    ],
+    "answer_confidence": "high"
+  }
+]

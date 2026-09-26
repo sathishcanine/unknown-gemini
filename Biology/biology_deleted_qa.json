@@ -1,0 +1,84 @@
+{
+  "deleted": 17,
+  "holes": [
+    [
+      "Alcoholism and Drug Addiction",
+      "Batch 1",
+      23,
+      2
+    ],
+    [
+      "Biodiversity and Conservation",
+      "Batch 1",
+      22,
+      3
+    ],
+    [
+      "Classification of Living Organisms",
+      "Batch 3",
+      23,
+      2
+    ],
+    [
+      "Genetics \u2014 Mendelism",
+      "Batch 1",
+      24,
+      1
+    ],
+    [
+      "Genetics \u2014 Mendelism",
+      "Batch 3",
+      24,
+      1
+    ],
+    [
+      "Human Diseases \u2014 Prevention and Control",
+      "Batch 2",
+      24,
+      1
+    ],
+    [
+      "Human Diseases \u2014 Prevention and Control",
+      "Batch 3",
+      23,
+      2
+    ],
+    [
+      "Reproductive System",
+      "Batch 1",
+      24,
+      1
+    ],
+    [
+      "Respiration",
+      "Batch 1",
+      24,
+      1
+    ],
+    [
+      "Respiration",
+      "Batch 2",
+      24,
+      1
+    ],
+    [
+      "Respiration",
+      "Batch 3",
+      23,
+      2
+    ]
+  ],
+  "by_tb": {
+    "Respiration|Batch 1": 1,
+    "Alcoholism and Drug Addiction|Batch 1": 2,
+    "Reproductive System|Batch 1": 1,
+    "Classification of Living Organisms|Batch 3": 2,
+    "Biodiversity and Conservation|Batch 1": 3,
+    "Respiration|Batch 3": 2,
+    "Genetics \u2014 Mendelism|Batch 3": 1,
+    "Respiration|Batch 2": 1,
+    "Human Diseases \u2014 Prevention and Control|Batch 3": 2,
+    "Genetics \u2014 Mendelism|Batch 1": 1,
+    "Human Diseases \u2014 Prevention and Control|Batch 2": 1
+  }
+}

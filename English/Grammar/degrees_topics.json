@@ -1,0 +1,48 @@
+{
+  "subject_id": "English",
+  "menu": "degrees_of_comparison",
+  "topics": [
+    {
+      "id": "positive_degree",
+      "name_en": "Positive Degree",
+      "name_ta": "நேர்மறை படிநிலை",
+      "batches": 2,
+      "focus": "Positive form; as...as / not so...as; identify positive degree; base adjective/adverb; no comparison or equal comparison."
+    },
+    {
+      "id": "comparative_degree",
+      "name_en": "Comparative Degree",
+      "name_ta": "ஒப்பீட்டு படிநிலை",
+      "batches": 2,
+      "focus": "-er / more...than; irregular comparatives (better, worse, farther); -or adjectives + to (superior to); choose correct comparative."
+    },
+    {
+      "id": "superlative_degree",
+      "name_en": "Superlative Degree",
+      "name_ta": "மிகை படிநிலை",
+      "batches": 2,
+      "focus": "-est / most; the + superlative; article rules; irregular superlatives; elder/eldest, later/latest; omit 'the' exceptions."
+    },
+    {
+      "id": "positive_to_comparative",
+      "name_en": "Positive → Comparative",
+      "name_ta": "நேர்மறை → ஒப்பீட்டு",
+      "batches": 2,
+      "focus": "Rewrite positive (as...as) sentences into comparative without changing meaning; Govt Type I style."
+    },
+    {
+      "id": "comparative_to_superlative",
+      "name_en": "Comparative → Superlative",
+      "name_ta": "ஒப்பீட்டு → மிகை",
+      "batches": 2,
+      "focus": "Rewrite comparative into superlative and vice versa; than any other → the ...est; Govt Type II A style."
+    },
+    {
+      "id": "transformation_degrees",
+      "name_en": "Transformation of Degrees",
+      "name_ta": "படிநிலை மாற்றம்",
+      "batches": 2,
+      "focus": "Full P↔C↔S interconversion Types 1–6; very few / one of the; error spotting (more better, most strongest); mixed exam traps."
+    }
+  ]
+}

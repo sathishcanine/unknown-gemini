@@ -1,0 +1,1782 @@
+{
+  "subject_id": "English",
+  "menu": "question_tags",
+  "sources": [
+    "asan - concord,tense, sentence pattern, question tag.pdf pp.44–48 (primary scanned)",
+    "Grammer.pdf pp.[332, 333, 334, 335, 336, 338, 339, 340, 341, 343, 344] (secondary)",
+    "Govt question tag pp.44–47 (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "A question tag is a short question added at the end of a statement. It is generally used when asking for agreement or confirmation.",
+      "tag_topic": "overview",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "A positive statement takes a negative tag, while a negative statement takes a positive tag.",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "If the sentence contains a main verb, then the question tag uses an appropriate form of 'do' verb.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "Tags are formed with the auxiliary or modal verb, from the given statement with the appropriate subject (Pronoun).",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "Negative auxiliaries and verbs in tags are usually in the contracted form 'n't'.",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "The sentence ends with a comma, followed by a tag which ends with a question mark.",
+      "tag_topic": "overview",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "A positive statement is followed by a negative question tag. A subject pronoun comes after an auxiliary or a form of the verb.",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "A negative statement is followed by a positive question tag. A subject pronoun is used to replace the noun or noun phrase.",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "If the sentence has no auxiliary verb: for simple present use do/does; for simple past use did.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "Statements using barely, hardly, rarely, scarcely, neither, no, nobody, none, nothing and seldom are treated as negative statements.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "I am becomes aren't I, but I am not becomes am I.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "Sentences with let's take the tag shall we.",
+      "tag_topic": "imperatives_lets",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "Affirmative imperative takes the tag will you / won't you.",
+      "tag_topic": "imperatives_lets",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "Everyone / Everybody / nobody / somebody / anybody take plural verb in tag.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "Negative imperative has the tag will you.",
+      "tag_topic": "imperatives_lets",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "Nothing has the tag 'it' in the affirmative.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "This / That - These / Those have the tag isn't it - aren't they.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "There is / There are have the tag isn't there - aren't there.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "rule_en": "The question tag always begins with an auxiliary verb or a modal verb. The subject is a personal pronoun.",
+      "tag_topic": "overview",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "If the statement is affirmative, the tag is negative. If the statement is negative, the tag is positive.",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "When there is no auxiliary/modal, use 'do', 'does', or 'did' based on tense and number.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Imperative sentences use 'will' or 'would'.",
+      "tag_topic": "imperatives_lets",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Use 'they' for plural subjects and words like someone, everybody, no one.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Use 'it' for singular things, animals, something, nothing, this, or that.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Words like hardly, scarcely, rarely, barely, seldom, little, and few are negative.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Use 'aren't I' for 'I am' statements.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Sentences beginning with 'Let's' take 'shall we'.",
+      "tag_topic": "imperatives_lets",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Sentences starting with 'Each of', 'Either of', 'Neither of', 'Both of' and 'All of' take plural pronouns as the subject in the question tag.",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "rule_en": "A comma is added at the end of the statement and the tag begins with a small letter and ends with a question mark.",
+      "tag_topic": "overview",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "rule_en": "Question tags are used when we expect the listener to agree with our statement.",
+      "tag_topic": "overview",
+      "source": "grammer",
+      "source_page": 332
+    },
+    {
+      "rule_en": "Tags are formed with the auxiliary or modal verb from the given statement with the appropriate subject (Pronoun). Structure: Auxiliary/modal + n't + Pronoun.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 332
+    },
+    {
+      "rule_en": "Negative auxiliaries and verbs in tags are usually in the contracted form 'n't.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 332
+    },
+    {
+      "rule_en": "A positive statement is followed by a negative question tag.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "rule_en": "A negative statement is followed by a positive question tag.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "rule_en": "A subject pronoun must be used after the auxiliary or verb form in the tag, replacing the original noun or noun phrase.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "rule_en": "If the sentence has no auxiliary verb in Simple Present tense, form the tag using 'do' or 'does'.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "rule_en": "If the sentence has no auxiliary verb in Simple Past tense, form the tag using 'did'.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "rule_en": "Statements using barely, hardly, rarely, scarcely, neither, no, nobody, none, nothing and seldom are treated as negative statements, requiring a positive tag.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "rule_en": "Negative adverbs (hardly, seldom, rarely, nothing) take positive tags.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "I am -> aren't I?; I am not -> am I?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "Sentences with let's take the tag 'shall we'.",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "Affirmative imperative takes 'will you' / 'won't you'; Negative imperative takes 'will you'.",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "Nothing takes the tag 'it' in the affirmative.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "This / That take 'isn't it'; These / Those take 'aren't they'.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "There is / There are take 'isn't there' / 'aren't there'.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "rule_en": "Use 'aren't I?' for 'I am' statements.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "rule_en": "Use 'shall we?' for 'Let's' statements.",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "rule_en": "Use 'did they?' for statements with negative pronouns like 'Nobody'.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "rule_en": "The question tag always begins with an auxiliary or modal verb found in the main sentence.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "rule_en": "The subject of the tag must be a personal pronoun (except 'there') that agrees with the number, gender, and person of the statement's subject.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "rule_en": "Negative tags use contracted forms (e.g., isn't, don't, won't, etc.).",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "rule_en": "If there is no auxiliary/modal verb, use appropriate forms of 'do' (do/does/did) based on tense and subject number.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "rule_en": "In imperative sentences, the hidden subject is 'you', so the tag subject is also 'you'.",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "rule_en": "Imperatives expressing polite requests, obligations, invitations, or warnings use 'will' or 'would' in the tag.",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "The pronoun 'they' is used when the subject refers to people, animals, or plural objects.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "Indefinite pronouns like 'someone, somebody, anyone, anybody, no one, nobody, everyone, everybody' take 'they' as the pronoun in the tag.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "The pronoun 'it' is used when the subject is a singular thing/animal, or words like 'something, anything, nothing, this, or that'.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "When a statement begins with 'There', 'there' is used as the subject in the tag.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "Words like 'hardly, scarcely, rarely, barely, and seldom' are negative; they take positive tags.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "'A little'/'a few' are positive (require negative tags); 'little'/'few' are negative (require positive tags).",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "Be-forms (is, are, was, were) are repeated in the tag. 'am' takes 'aren't' as its tag.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "rule_en": "I am ... becomes aren't I?",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "rule_en": "Sentences beginning with 'Let's' take 'shall we?' as the tag.",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "rule_en": "Sentences starting with 'Each of', 'Either of', 'Neither of', 'Both of', 'All of' take plural pronouns as the subject in the tag.",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "rule_en": "A comma is added at the end of the statement; the tag begins with a small letter and ends with a question mark.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "rule_en": "If the sentence is positive, the tag is negative. If the sentence is negative, the tag is positive.",
+      "tag_topic": "overview",
+      "source": "grammer",
+      "source_page": 341
+    },
+    {
+      "rule_en": "If the sentence is positive, the question tag is negative. If the sentence is negative, the question tag is positive.",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "rule_en": "When the statement is positive, the tag will be negative. Pattern: auxiliary verb + not + pronoun?",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "rule_en": "When the statement is negative, the tag will be positive. Pattern: auxiliary verb + pronoun?",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "rule_en": "When there is no auxiliary verb, use do, does, or did based on the tense of the principal verb.",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "rule_en": "For sentences with modal auxiliaries (can, could, will, would, may, might, must, shall, should, ought to, need, would rather, had better, dare), use the corresponding tag.",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "rule_en": "Everybody, everyone, no one, nobody take a plural verb and plural pronoun in the question tag.",
+      "tag_topic": "special_subjects",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Affirmative Imperative sentences, use 'will you' or 'won't you'.",
+      "tag_topic": "imperatives_lets",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Negative Imperative sentences, use 'will you'.",
+      "tag_topic": "imperatives_lets",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Imperative sentences beginning with 'let us', use 'shall we'.",
+      "tag_topic": "imperatives_lets",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Imperative sentences beginning with 'let' (not followed by 'us'), use 'will you'.",
+      "tag_topic": "imperatives_lets",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For sentences having nothing, anything, everything, something as the subject, the question tag pronoun is 'it'.",
+      "tag_topic": "special_subjects",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "rule_en": "If any sentence uses 'used to', the question tag will be usedn't/didn't.",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Negative words like never, no, nobody, hardly, seldom, scarcely, few, little, not, none, rarely make the sentence negative; therefore, the question tag must be positive.",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "rule_en": "In exclamatory sentences, the question tag contains the auxiliary verbs.",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "rule_en": "Moon, earth, river, motherland, country, ship, and train are treated as feminine; the pronoun used in the tag is 'she' (or 'it').",
+      "tag_topic": "special_subjects",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "rule_en": "There is no contracted form of 'am not'; therefore, 'aren't' is used in question tags.",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "rule_en": "If the subject is there, one, this, that, these, or those, the question tag uses the same as the pronoun.",
+      "tag_topic": "special_subjects",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "rule_en": "Collective nouns used in singular form take a singular verb and singular pronoun in the tag; if the collective noun is not treated as one unit, use the plural verb and plural pronoun.",
+      "tag_topic": "special_subjects",
+      "source": "govt",
+      "source_page": 47
+    }
+  ],
+  "examples": [
+    {
+      "statement_en": "You want a chocolate",
+      "tag_en": "don't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Uses 'do' form as there is no auxiliary.",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "statement_en": "You have a test",
+      "tag_en": "don't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Uses 'do' form as there is no auxiliary.",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Madhav doesn't speak Telugu",
+      "tag_en": "does he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement takes a positive tag.",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "statement_en": "You are a student",
+      "tag_en": "aren't you?",
+      "tag_topic": "basic_tags",
+      "note_en": "Positive statement to negative tag",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "She is a doctor",
+      "tag_en": "isn't she?",
+      "tag_topic": "basic_tags",
+      "note_en": null,
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Kayal isn't a lazy girl",
+      "tag_en": "is she?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement to positive tag",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "You play the guitar",
+      "tag_en": "don't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Simple present no auxiliary",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "He came yesterday",
+      "tag_en": "didn't he?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Simple past no auxiliary",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "He hardly works",
+      "tag_en": "does he?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Hardly makes the statement negative",
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "I am a student",
+      "tag_en": "aren't I?",
+      "tag_topic": "special_subjects",
+      "note_en": null,
+      "source": "asan",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Ranjith is a great scholar",
+      "tag_en": "isn't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Affirmative to negative",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "statement_en": "Mahathi sings very well",
+      "tag_en": "doesn't she?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Present tense singular",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "statement_en": "Nobody has arrived yet",
+      "tag_en": "have they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Nobody takes 'they'",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "statement_en": "Something has gone wrong",
+      "tag_en": "hasn't it?",
+      "tag_topic": "special_subjects",
+      "note_en": "Something takes 'it'",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "statement_en": "We rarely visit our town",
+      "tag_en": "do we?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Rarely is a negative word",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "statement_en": "I am a very honest person",
+      "tag_en": "aren't I?",
+      "tag_topic": "special_subjects",
+      "note_en": "Special rule for I am",
+      "source": "asan",
+      "source_page": 46
+    },
+    {
+      "statement_en": "Neither of my two brothers helped me in that situation",
+      "tag_en": "did they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Example of plural pronoun usage for 'Neither of'",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "statement_en": "All of us are not eligible to apply for this course",
+      "tag_en": "are we?",
+      "tag_topic": "special_subjects",
+      "note_en": "Example of plural pronoun usage for 'All of'",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "statement_en": "Don't commit this mistake again",
+      "tag_en": "will you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Imperative sentence",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "There is a pharmacy near that bus stand",
+      "tag_en": "isn't it?",
+      "tag_topic": "special_subjects",
+      "note_en": "There is construction",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "Bacteria can never survive in extreme weather conditions",
+      "tag_en": "can it?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Bacteria acts as collective noun/singular subject; negative word 'never'",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "I am not as smart as you are",
+      "tag_en": "am I?",
+      "tag_topic": "special_subjects",
+      "note_en": "Negative statement, positive tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "The boys broke the window pane last evening",
+      "tag_en": "didn't they?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Past tense verb, requires did",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "Leaves wither during autumn",
+      "tag_en": "don't they?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Plural subject, simple present",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "You should add a little salt to the buttermilk",
+      "tag_en": "shouldn't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Modal 'should'",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "statement_en": "She is a doctor",
+      "tag_en": "Isn’t she?",
+      "tag_topic": "basic_tags",
+      "note_en": "Positive statement gets negative tag.",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "statement_en": "The books are interesting",
+      "tag_en": "aren't they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Pronoun 'they' replaces 'The books'.",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "statement_en": "I can swim",
+      "tag_en": "can't I?",
+      "tag_topic": "basic_tags",
+      "note_en": "Modal 'can' is used in the tag.",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "statement_en": "We should obey the elders",
+      "tag_en": "shouldn't we?",
+      "tag_topic": "basic_tags",
+      "note_en": "Modal 'should' is used in the tag.",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "statement_en": "Once the car was costly",
+      "tag_en": "wasn't it?",
+      "tag_topic": "basic_tags",
+      "note_en": "Pronoun 'it' replaces 'the car'.",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "statement_en": "Kayal isn’t a lazy girl",
+      "tag_en": "is she?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement gets positive tag.",
+      "source": "grammer",
+      "source_page": 333
+    },
+    {
+      "statement_en": "We don't have enough time",
+      "tag_en": "do we?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement takes positive tag",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "He is not playing well",
+      "tag_en": "is he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement takes positive tag",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "You were not listening",
+      "tag_en": "were you?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement takes positive tag",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "Chandini hadn't seen you before",
+      "tag_en": "had she?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement takes positive tag",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "Children shouldn't watch TV too much",
+      "tag_en": "should they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement takes positive tag",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "You play the guitar",
+      "tag_en": "don’t you?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Simple present without auxiliary",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "Deepa likes tennis",
+      "tag_en": "doesn’t she?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Simple present without auxiliary",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "statement_en": "Let's go home",
+      "tag_en": "shall we?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Standard rule for let's.",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "statement_en": "Everyone is perfect",
+      "tag_en": "aren't they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Uses plural verb in tag.",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "statement_en": "He could have bought a new car",
+      "tag_en": "couldn't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Auxiliary verb is could.",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "statement_en": "Kevin will come tonight",
+      "tag_en": "won't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Auxiliary verb is will.",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "statement_en": "I'm clever",
+      "tag_en": "aren't I?",
+      "tag_topic": "basic_tags",
+      "note_en": "Special rule for I am.",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "statement_en": "Mr. Ranjith is a great scholar",
+      "tag_en": "isn't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Affirmative statement takes negative tag.",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "statement_en": "You can complete this project in a week",
+      "tag_en": "can't you?",
+      "tag_topic": "basic_tags",
+      "note_en": "Uses modal verb 'can'.",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "statement_en": "Ahalya will never accept your proposal",
+      "tag_en": "will she?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement ('never') takes positive tag.",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "statement_en": "These girls sing very well",
+      "tag_en": "don't they?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Present tense plural.",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "statement_en": "Mahathi sang very well yesterday",
+      "tag_en": "didn't she?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Past tense singular.",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "statement_en": "These girls sang very well yesterday",
+      "tag_en": "didn't they?",
+      "tag_topic": "no_auxiliary_modals",
+      "note_en": "Past tense plural.",
+      "source": "grammer",
+      "source_page": 338
+    },
+    {
+      "statement_en": "Please, bring me a glass of water,",
+      "tag_en": "would you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Polite request.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "Join us for lunch tomorrow,",
+      "tag_en": "will you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Invitation.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "Nobody has arrived yet,",
+      "tag_en": "have they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Nobody takes 'they'.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "Something has gone wrong in the circuit,",
+      "tag_en": "hasn't it?",
+      "tag_topic": "special_subjects",
+      "note_en": "Something takes 'it'.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "There is not much time left,",
+      "tag_en": "is there?",
+      "tag_topic": "special_subjects",
+      "note_en": "There as subject.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "We rarely visit our native town,",
+      "tag_en": "do we?",
+      "tag_topic": "basic_tags",
+      "note_en": "Rarely is negative.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "Little do your parents know about this problem,",
+      "tag_en": "do they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Little is negative.",
+      "source": "grammer",
+      "source_page": 339
+    },
+    {
+      "statement_en": "I am a very honest and humble being",
+      "tag_en": "aren’t I?",
+      "tag_topic": "special_subjects",
+      "note_en": "'am I not' is considered very formal.",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "statement_en": "Let’s close our eyes and meditate for some time",
+      "tag_en": "shall we?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "None",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "statement_en": "Nobody can resolve this issue",
+      "tag_en": "can they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Nobody is a negative subject, so the tag is positive.",
+      "source": "grammer",
+      "source_page": 341
+    },
+    {
+      "statement_en": "They cannot deny justice to the tribals",
+      "tag_en": "can they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement requires positive tag",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "statement_en": "Selvi, you have not done your homework",
+      "tag_en": "have you?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement requires positive tag",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "statement_en": "A teacher goes to school daily",
+      "tag_en": "doesn't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Positive statement, negative tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Madhu plucks flowers",
+      "tag_en": "doesn't she?",
+      "tag_topic": "basic_tags",
+      "note_en": "Positive statement, negative tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "You appeared at the examination",
+      "tag_en": "didn't you?",
+      "tag_topic": "basic_tags",
+      "note_en": "Positive statement, negative tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Helmet makes driving safe",
+      "tag_en": "doesn't it?",
+      "tag_topic": "basic_tags",
+      "note_en": "Positive statement, negative tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "All the children were not present",
+      "tag_en": "were they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement, positive tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Dogs cannot fly",
+      "tag_en": "can they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement, positive tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Everybody cannot be clever",
+      "tag_en": "can they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement, positive tag.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "A healthy body can achieve the impossible",
+      "tag_en": "can't it?",
+      "tag_topic": "basic_tags",
+      "note_en": "Modal auxiliary usage.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "A student should be regular in studies",
+      "tag_en": "shouldn't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Modal auxiliary usage.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Water animals can breathe under water",
+      "tag_en": "can't they?",
+      "tag_topic": "basic_tags",
+      "note_en": "Modal auxiliary usage.",
+      "source": "govt",
+      "source_page": 44
+    },
+    {
+      "statement_en": "Everybody has to pay his own bill",
+      "tag_en": "Haven't they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Plural pronoun/verb used for everybody",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "None of your friends has arrived yet",
+      "tag_en": "Have they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Plural pronoun/verb used for none",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Be assured of all co-operation",
+      "tag_en": "will you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Affirmative imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Please give me the documents",
+      "tag_en": "won't you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Affirmative imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Don't touch the wire",
+      "tag_en": "will you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Negative imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Let us go for a movie",
+      "tag_en": "shall we?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Suggestion with let us",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Let Madhu go",
+      "tag_en": "will you?",
+      "tag_topic": "imperatives_lets",
+      "note_en": "Let not followed by us",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "statement_en": "Everything has gone bad today",
+      "tag_en": "hasn't it?",
+      "tag_topic": "special_subjects",
+      "note_en": "Subject is everything.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "statement_en": "He used to come here",
+      "tag_en": "usedn't he?",
+      "tag_topic": "basic_tags",
+      "note_en": "Use of used to.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "statement_en": "A barking dog seldom bites",
+      "tag_en": "does it?",
+      "tag_topic": "basic_tags",
+      "note_en": "Seldom is a negative word.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "statement_en": "How beautiful the garden is",
+      "tag_en": "isn't it?",
+      "tag_topic": "basic_tags",
+      "note_en": "Exclamatory sentence.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "statement_en": "The Titanic was thought to be unsinkable",
+      "tag_en": "wasn't she?",
+      "tag_topic": "special_subjects",
+      "note_en": "Ship treated as feminine.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "statement_en": "I am a little late today",
+      "tag_en": "aren't I?",
+      "tag_topic": "basic_tags",
+      "note_en": "Am not becomes aren't.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "statement_en": "There is a book on the table",
+      "tag_en": "Isn’t there?",
+      "tag_topic": "special_subjects",
+      "note_en": "Subject 'there' is retained in the tag.",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "statement_en": "One cannot find a solution to this problem",
+      "tag_en": "Can one?",
+      "tag_topic": "special_subjects",
+      "note_en": "Subject 'one' is retained in the tag.",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "statement_en": "The class has selected its monitor",
+      "tag_en": "hasn’t it?",
+      "tag_topic": "special_subjects",
+      "note_en": "Collective noun 'class' treated as singular.",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "statement_en": "The team have to arrange for their own shoes",
+      "tag_en": "haven’t they?",
+      "tag_topic": "special_subjects",
+      "note_en": "Collective noun 'team' treated as plural.",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "statement_en": "The bus is early today",
+      "tag_en": "isn’t it?",
+      "tag_topic": "basic_tags",
+      "note_en": "Standard positive statement with negative tag.",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "statement_en": "I’m not late",
+      "tag_en": "am I?",
+      "tag_topic": "basic_tags",
+      "note_en": "Negative statement with positive tag.",
+      "source": "govt",
+      "source_page": 47
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "7. We must lock the doors, ____?",
+      "answer_en": "mustn't we?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "8. I'm right ____?",
+      "answer_en": "aren't I?",
+      "tag_topic": "special_subjects",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "9. So you bought a car, ____?",
+      "answer_en": "didn't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "10. You wouldn't like to invite my dad, ____?",
+      "answer_en": "would you?",
+      "tag_topic": "basic_tags",
+      "source": "asan",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "The evil doers cannot cross the path of truth, can they?",
+      "answer_en": "can they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The vegetables in the fridge are still fresh, aren't they?",
+      "answer_en": "aren't they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The village head understood the intention of the politician, didn't he?",
+      "answer_en": "didn't he?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "I claim to be a person of faith and prayer, don't I?",
+      "answer_en": "don't I?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The employees are seldom allowed to meet their boss, are they?",
+      "answer_en": "are they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "Let's organize a trip to Goa, shall we?",
+      "answer_en": "shall we?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The land lady will charge me for the damage, won't she?",
+      "answer_en": "won't she?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "Both the sisters have left for Canada, haven't they?",
+      "answer_en": "haven't they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "That's definitely not the right thing to do in this situation, isn't it?",
+      "answer_en": "isn't it?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "We needn't apply for a bank loan, need we?",
+      "answer_en": "need we?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The chief guest spoke a few words, didn't he?",
+      "answer_en": "didn't he?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "The rhinoceros has a horn made of keratin, hasn't it?",
+      "answer_en": "hasn't it?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "asan",
+      "source_page": 48
+    },
+    {
+      "prompt_en": "You speak English, ...?",
+      "answer_en": "don't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "You spoke English, ...?",
+      "answer_en": "didn't you?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "Sam hates cooking, ...?",
+      "answer_en": "doesn't he?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "Sam hated cooking, ...?",
+      "answer_en": "didn't he?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "He lives in Europe, ...?",
+      "answer_en": "doesn't he?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "He lived in Europe, ...?",
+      "answer_en": "didn't he?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "They drink tea, ...?",
+      "answer_en": "don't they?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "They drank tea, ...?",
+      "answer_en": "didn't they?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "I watch cricket, ...?",
+      "answer_en": "don't I?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "I watched cricket, ...?",
+      "answer_en": "didn't I?",
+      "tag_topic": "no_auxiliary_modals",
+      "source": "grammer",
+      "source_page": 334
+    },
+    {
+      "prompt_en": "She is collecting stickers, ...?",
+      "answer_en": "isn't she?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "We often watch TV in the afternoon, ...?",
+      "answer_en": "don't we?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "You have cleaned your bike, ...?",
+      "answer_en": "haven't you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "John and Max don't like maths, ...?",
+      "answer_en": "do they?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "Peter played handball yesterday, ...?",
+      "answer_en": "didn't he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "They are going home from school, ...?",
+      "answer_en": "aren't they?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "Mary didn't do her homework last Monday, ...?",
+      "answer_en": "did she?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 335
+    },
+    {
+      "prompt_en": "He is still sleeping, ________ (a) is not he? (b) isn't he? (c) wasn't he?",
+      "answer_en": "b) isn't he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "You go to school, ________ (a) do you? (b) aren't you? (c) don't you?",
+      "answer_en": "c) don't you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "Let's go for a walk, ________ (a) shall we? (b) shan't we? (c) will we?",
+      "answer_en": "a) shall we?",
+      "tag_topic": "imperatives_lets",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "We won't be late, ________ (a) won't we? (b) will we? (c) are we?",
+      "answer_en": "b) will we?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "Nobody called, ________ (a) do they? (b) didn't they? (c) did they?",
+      "answer_en": "c) did they?",
+      "tag_topic": "special_subjects",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "They will wash the car, ________ (a) will it? (b) won't they? (c) wouldn't they?",
+      "answer_en": "b) won't they?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "We must lock the doors, ________ (a) mustn't they? (b) shouldn't we? (c) mustn't we?",
+      "answer_en": "c) mustn't we?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "I'm right, ________ (a) amn't I? (b) am not I? (c) aren't I?",
+      "answer_en": "c) aren't I?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "So you bought a car, ________ (a) did you? (b) haven't you? (c) weren't you?",
+      "answer_en": "a) did you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "You wouldn't like to invite my Dad, ________ (a) did you? (b) would you? (c) won't you?",
+      "answer_en": "b) would you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 336
+    },
+    {
+      "prompt_en": "The evil doers cannot cross the path of truth, can’t they?",
+      "answer_en": "The evil doers cannot cross the path of truth, can they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "prompt_en": "The vegetables in the fridge are still fresh, aren’t it?",
+      "answer_en": "The vegetables in the fridge are still fresh, aren’t they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "prompt_en": "The village head understood the intention of the politician, doesn’t he?",
+      "answer_en": "The village head understood the intention of the politician, didn’t he?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "prompt_en": "I claim to be a person of faith and prayer, aren’t I?",
+      "answer_en": "I claim to be a person of faith and prayer, am I not? (or aren't I?)",
+      "tag_topic": "spot_wrong_tag",
+      "source": "grammer",
+      "source_page": 340
+    },
+    {
+      "prompt_en": "These children look very weak and tired, aren’t they?",
+      "answer_en": "don't they?",
+      "tag_topic": "spot_wrong_tag",
+      "source": "grammer",
+      "source_page": 341
+    },
+    {
+      "prompt_en": "Nobody can resolve this issue, can they?",
+      "answer_en": "Correct",
+      "tag_topic": "spot_wrong_tag",
+      "source": "grammer",
+      "source_page": 341
+    },
+    {
+      "prompt_en": "We can employ the local youth in our company, .............................",
+      "answer_en": "can't we?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "Ranga is very sincere in his effort, .................................",
+      "answer_en": "isn't he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "It was raining cats and dogs yesterday, .............................",
+      "answer_en": "wasn't it?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "Harish wasn’t here to attend the meeting, .............................",
+      "answer_en": "was he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "You usually do not come late to school, .............................",
+      "answer_en": "do you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "I haven’t seen a movie for ages, .............................",
+      "answer_en": "have I?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "It is impossible to escape from the dust storm, .............................",
+      "answer_en": "isn't it?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "You are struggling to learn a new language, .............................",
+      "answer_en": "aren't you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 343
+    },
+    {
+      "prompt_en": "Shalu cooked a delicious meal last night, [?]",
+      "answer_en": "didn't she?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "You are very serious about starting a business, [?]",
+      "answer_en": "aren't you?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Soni could swim well, [?]",
+      "answer_en": "couldn't she?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Hari had toiled day and night to enter the mountaineering institute in Darjeeling, [?]",
+      "answer_en": "hadn't he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "This book appeals to all the sections of students, [?]",
+      "answer_en": "doesn't it?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Provide sentence for: [?], am I?",
+      "answer_en": "I am a student, am I?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Provide sentence for: [?], doesn't he?",
+      "answer_en": "He likes music, doesn't he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Provide sentence for: [?], does she?",
+      "answer_en": "She doesn't dance, does she?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Provide sentence for: [?], hasn't he?",
+      "answer_en": "He has finished his work, hasn't he?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "Provide sentence for: [?], shouldn't they?",
+      "answer_en": "They should work hard, shouldn't they?",
+      "tag_topic": "basic_tags",
+      "source": "grammer",
+      "source_page": 344
+    },
+    {
+      "prompt_en": "There is no water in the tank, [?]",
+      "answer_en": "is there?",
+      "tag_topic": "special_subjects",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "I shall carry the bags for you, [?]",
+      "answer_en": "shan’t I?",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "The conductor will not give you change for Rs. 10/-, [?]",
+      "answer_en": "will he?",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "Shreya draws well, [?]",
+      "answer_en": "doesn’t she?",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 47
+    },
+    {
+      "prompt_en": "Sita and Uma are sisters, [?]",
+      "answer_en": "aren’t they?",
+      "tag_topic": "basic_tags",
+      "source": "govt",
+      "source_page": 47
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 84,
+      "examples": 90,
+      "worked_exercises": 72
+    },
+    "by_tag_topic": {
+      "overview": {
+        "rules": 6,
+        "examples": 0,
+        "worked": 0
+      },
+      "basic_tags": {
+        "rules": 28,
+        "examples": 42,
+        "worked": 38
+      },
+      "no_auxiliary_modals": {
+        "rules": 9,
+        "examples": 16,
+        "worked": 12
+      },
+      "special_subjects": {
+        "rules": 26,
+        "examples": 22,
+        "worked": 3
+      },
+      "imperatives_lets": {
+        "rules": 15,
+        "examples": 10,
+        "worked": 1
+      },
+      "spot_wrong_tag": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 18
+      }
+    }
+  }
+}

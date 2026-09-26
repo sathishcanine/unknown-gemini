@@ -1,0 +1,292 @@
+{
+  "topic_id": "match_the_following",
+  "topic_title": "Match the Following",
+  "unit": 5,
+  "batches_target": 2,
+  "pages": [
+    33,
+    38
+  ],
+  "rules": [
+    {
+      "rule_en": "Match the Following questions test your ability to link related information across columns to demonstrate understanding of themes and specific details in a text.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Match the Following questions require mapping items from List A to their corresponding descriptions or facts in List B.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Match the following questions require careful reading of the passage to identify specific attributes linked to nouns or entities.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Match the following questions require identifying logical relationships between specific terms in List A and their corresponding descriptions or definitions in List B.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Analyze context in passage to link items between List A and List B effectively.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Match the following items by identifying the correct contextual relationship between List A and List B.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [],
+  "examples": [
+    {
+      "note_en": "Practice connecting entities (Amazon, Deforestation, Indigenous communities) to their defining attributes found within the passage.",
+      "tag": "strategy"
+    },
+    {
+      "note_en": "Practicing match-the-following exercises helps improve reading comprehension by linking key entities to their specific characteristics or context.",
+      "tag": "strategy"
+    },
+    {
+      "note_en": "Passage 11: Automobiles match with manufacturing, IT with investments, and Tourism with growth.",
+      "tag": "strategy"
+    }
+  ],
+  "passages": [
+    {
+      "title": "Amazon Rainforest",
+      "text_en": "The Amazon is a massive, diverse ecosystem in South America essential for carbon absorption and global climate regulation. However, it faces serious risks from human-driven deforestation, threatening both the environment and the ancient, knowledgeable indigenous groups that reside there."
+    },
+    {
+      "title": "Passage 2: Textile Industry",
+      "text_en": "The textile sector in Tamil Nadu is a vital economic pillar, providing jobs for many. Regions like Coimbatore and Tiruppur are hubs for cotton and apparel production, which involves complex stages from raw material to finished goods."
+    },
+    {
+      "title": "Passage 3: Pongal",
+      "text_en": "Pongal is a prominent four-day harvest celebration in Tamil Nadu held in January. It is a time for communal gratitude, featuring the preparation of a traditional sweet rice dish, gift exchanges, and cultural activities."
+    },
+    {
+      "title": "Passage 4: Chola Dynasty",
+      "text_en": "The Chola dynasty represents a golden era in South Indian history, characterized by naval power and maritime commerce. They were prolific builders, exemplified by the Brihadeeswarar Temple in Thanjavur, and made vast contributions to literature and the arts."
+    },
+    {
+      "title": "Passage 5",
+      "text_en": "Bharatanatyam is a traditional classical dance from Tamil Nadu characterized by complex footwork, emotional gestures, and rhythmic storytelling. It remains a dynamic art form performed at cultural events and temples."
+    },
+    {
+      "title": "Passage 6",
+      "text_en": "Chennai, once called Madras, is the capital of Tamil Nadu and a significant hub for trade, industry, education, and health. The city features a notable coastline and successfully integrates its cultural history with modern growth."
+    },
+    {
+      "title": "Passage 7",
+      "text_en": "Tamil Nadu is famous for grand temple architecture developed by historical dynasties like the Cholas and Pandyas. These structures feature intricate carvings and gopurams, with prominent examples including the Brihadeeswarar and Meenakshi Amman temples."
+    },
+    {
+      "title": "Passage 8",
+      "text_en": "The Tamil film industry, centered in Chennai and often called Kollywood, is a significant part of India's cinema scene. It provides a major boost to the state's economy and has launched many famous actors and directors."
+    },
+    {
+      "title": "Passage 9",
+      "text_en": "Tamil Nadu features a wide variety of ecosystems, ranging from coastal areas to mountains. This diverse landscape supports a wealth of wildlife, including tigers and birds, within its national parks and the biodiversity hotspot of the Western Ghats."
+    },
+    {
+      "title": "Passage 10",
+      "text_en": "Carnatic music is a traditional, complex musical style deeply rooted in Tamil Nadu's culture. Chennai annually celebrates this heritage by hosting a major music season that draws international performers and fans."
+    },
+    {
+      "title": "Passage 11",
+      "text_en": "Tamil Nadu's economy is diverse, supported by manufacturing, IT, agriculture, and tourism. The state successfully attracts global investments while fostering growth through these key sectors."
+    },
+    {
+      "title": "Passage 12",
+      "text_en": "With a strong education system and many universities, Tamil Nadu promotes development. Chennai is a key academic hub that draws students nationwide for various professional studies."
+    },
+    {
+      "title": "Passage 13",
+      "text_en": "Tamil Nadu is celebrated for its diverse, spice-rich cuisine. Dishes like idli and dosa are popular, while rice remains the staple food, reflecting the state's deep-rooted culinary heritage."
+    },
+    {
+      "title": "Passage - 14",
+      "text_en": "Tamil Nadu contains many historic landmarks like ancient temples and forts. Mahabalipuram is recognized globally as a UNESCO World Heritage site due to its unique stone sculptures."
+    },
+    {
+      "title": "Passage - 15",
+      "text_en": "The landscape of Tamil Nadu is varied, consisting of mountains, plains, and plateaus. It is bounded on the east by the Bay of Bengal, while the Western and Eastern Ghats form the primary mountain ranges with rivers like the Cauvery running through the area."
+    }
+  ],
+  "translations": [],
+  "pyq": [
+    {
+      "question_en": "Match List A items with List B: 1. Amazon rainforest, 2. Deforestation, 3. Indigenous communities",
+      "options_en": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-E, 3-D"
+      ],
+      "answer_en": "1-B, 2-A, 3-C",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Amazon Rainforest"
+    },
+    {
+      "question_en": "Match the following regarding the Textile Industry: 1. Coimbatore, 2. Textile Industry, 3. Production Process",
+      "options_en": [
+        "A. Entire process of textile making, B. Known for cotton and knitwear, C. Major contributor to the economy"
+      ],
+      "answer_en": "1-B, 2-C, 3-A",
+      "answer_letter": null,
+      "has_marked_answer": true,
+      "passage_ref": "Passage 2"
+    },
+    {
+      "question_en": "Match the following regarding Pongal: 1. Pongal, 2. Harvest Festival, 3. Pongal (dish)",
+      "options_en": [
+        "A. Celebrated in January, B. Time for gratitude, C. Sweet rice dish"
+      ],
+      "answer_en": "1-A, 2-B, 3-C",
+      "answer_letter": null,
+      "has_marked_answer": true,
+      "passage_ref": "Passage 3"
+    },
+    {
+      "question_en": "Match the following regarding Chola Dynasty: 1. Chola Dynasty, 2. Powerful Navy, 3. Thanjavur",
+      "options_en": [
+        "A. Maritime trade, B. Brihadeeswarar Temple, C. Longest-ruling dynasty"
+      ],
+      "answer_en": "1-C, 2-A, 3-B",
+      "answer_letter": null,
+      "has_marked_answer": true,
+      "passage_ref": "Passage 4"
+    },
+    {
+      "question_en": "Passage 5 Match: 1. Bharatanatyam, 2. Dance Form, 3. Movements",
+      "options_en": [
+        "A. Expressive gestures, B. Origin Tamil Nadu, C. Combines storytelling"
+      ],
+      "answer_en": "1-B, 2-C, 3-A",
+      "answer_letter": null,
+      "has_marked_answer": true,
+      "passage_ref": "Passage 5"
+    },
+    {
+      "question_en": "Passage 6 Match: 1. Chennai, 2. Capital City, 3. Metropolitan",
+      "options_en": [
+        "A. Has a coastline, B. Hub for culture, C. Formerly Madras"
+      ],
+      "answer_en": "1-C, 2-B, 3-A",
+      "answer_letter": null,
+      "has_marked_answer": true,
+      "passage_ref": "Passage 6"
+    },
+    {
+      "question_en": "Passage 7 Match: 1. Gopuram, 2. Chola Dynasty, 3. Madurai",
+      "options_en": [
+        "A. Temple city known for Meenakshi Amman Temple, B. Architectural feature of temples, C. Built Brihadeeswarar Temple"
+      ],
+      "answer_en": "1-B, 2-C, 3-A",
+      "answer_letter": null,
+      "has_marked_answer": true,
+      "passage_ref": "Passage 7"
+    },
+    {
+      "question_en": "Match the following: 1. Kollywood, 2. Chennai, 3. Tamil cinema",
+      "options_en": [
+        "A. City where the film industry is based",
+        "B. Contributes to the state's economy",
+        "C. Tamil film industry"
+      ],
+      "answer_en": "1-C, 2-A, 3-B",
+      "answer_letter": "null",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 8"
+    },
+    {
+      "question_en": "Match the following: 1. Western Ghats, 2. National Parks, 3. Biodiversity",
+      "options_en": [
+        "A. Diverse plant and animal life",
+        "B. Protects wildlife",
+        "C. Biodiversity hotspot"
+      ],
+      "answer_en": "1-C, 2-B, 3-A",
+      "answer_letter": "null",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 9"
+    },
+    {
+      "question_en": "Match the following: 1. Carnatic music, 2. Chennai, 3. Cultural identity",
+      "options_en": [
+        "A. City hosting major music season",
+        "B. Intricate melodies",
+        "C. Classical music form"
+      ],
+      "answer_en": "1-C, 2-A, 3-B",
+      "answer_letter": "null",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 10"
+    },
+    {
+      "question_en": "Passage 11: Match List A (1. Automobiles, 2. IT Hub, 3. Tourism) with List B (A. Contributes to economic growth, B. Major manufacturing sector, C. Attracts global investments)",
+      "options_en": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "answer_en": "1-B, 2-C, 3-A",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 11"
+    },
+    {
+      "question_en": "Passage 12: Match List A (1. Engineering, 2. Chennai, 3. Higher education) with List B (A. Major educational center, B. Well-established institution type, C. Contributes to development)",
+      "options_en": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "answer_en": "1-B, 2-A, 3-C",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 12"
+    },
+    {
+      "question_en": "Passage 13: Match List A (1. Idli and Dosa, 2. Rice, 3. Chettinad cuisine) with List B (A. Use of spices, B. Staple food, C. Popular dishes)",
+      "options_en": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "answer_en": "1-C, 2-B, 3-A",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage 13"
+    },
+    {
+      "question_en": "Match the following: 1. Mahabalipuram, 2. Forts, 3. Historical sites. Options: A. Historical structures, B. UNESCO World-Heritage Site, C. Offer glimpses into the past.",
+      "options_en": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "answer_en": "1-B, 2-A, 3-C",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 14"
+    },
+    {
+      "question_en": "Match the following: 1. Cauvery, 2. Bay of Bengal, 3. Western and Eastern Ghats. Options: A. Mountain ranges, B. Major river, C. Border to the east.",
+      "options_en": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "answer_en": "1-B, 2-C, 3-A",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Passage - 15"
+    }
+  ],
+  "notes_en": "p33: This page introduces 'Match the Following' as a reading comprehension exercise for TNPSC. It emphasizes that these questions evaluate a candidate's ability to synthesize information and identify relationships between key terms and their descriptive counterparts in a provided text.\np34: This page provides practice exercises in 'Match the Following' format based on short passages covering Tamil Nadu's industrial history, the cultural festival of Pongal, and the legacy of the Chola Dynasty.\np35: This page provides practice exercises in a 'Match the Following' format based on short descriptive passages about cultural and geographical aspects of Tamil Nadu.\np36: This page provides reading comprehension practice via 'Match the Following' exercises based on three short informative passages regarding the Tamil film industry, the geography and biodiversity of Tamil Nadu, and the significance of Carnatic music.\np37: This page provides practice exercises in 'Match the Following' format, focusing on reading comprehension regarding Tamil Nadu's economy, education system, and culinary culture.\np38: This page provides reading comprehension practice using 'Match the Following' exercises based on descriptive passages about the geography and cultural heritage of Tamil Nadu.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

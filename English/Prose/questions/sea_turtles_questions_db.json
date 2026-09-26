@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where do sea turtles spend almost their entire lives?",
+    "question_ta": "Where do sea turtles spend almost their entire lives?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "In deep caves",
+        "text_ta": "In deep caves"
+      },
+      {
+        "key": "B",
+        "text_en": "In the ocean",
+        "text_ta": "In the ocean"
+      },
+      {
+        "key": "C",
+        "text_en": "On sandy beaches",
+        "text_ta": "On sandy beaches"
+      },
+      {
+        "key": "D",
+        "text_en": "In freshwater rivers",
+        "text_ta": "In freshwater rivers"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sea turtles are marine reptiles that spend almost their entire lives in the ocean.",
+    "explanation_ta": "Sea turtles are marine reptiles that spend almost their entire lives in the ocean.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How many species of sea turtles are found worldwide according to the text?",
+    "question_ta": "How many species of sea turtles are found worldwide according to the text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Seven",
+        "text_ta": "Seven"
+      },
+      {
+        "key": "B",
+        "text_en": "Eight",
+        "text_ta": "Eight"
+      },
+      {
+        "key": "C",
+        "text_en": "Six",
+        "text_ta": "Six"
+      },
+      {
+        "key": "D",
+        "text_en": "Five",
+        "text_ta": "Five"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "There are seven species of sea turtles worldwide, five of which are found in India.",
+    "explanation_ta": "There are seven species of sea turtles worldwide, five of which are found in India.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How many species of sea turtles out of the seven worldwide are found in India?",
+    "question_ta": "How many species of sea turtles out of the seven worldwide are found in India?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Seven",
+        "text_ta": "Seven"
+      },
+      {
+        "key": "B",
+        "text_en": "Five",
+        "text_ta": "Five"
+      },
+      {
+        "key": "C",
+        "text_en": "Four",
+        "text_ta": "Four"
+      },
+      {
+        "key": "D",
+        "text_en": "Three",
+        "text_ta": "Three"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Five of the seven worldwide species are found in India.",
+    "explanation_ta": "Five of the seven worldwide species are found in India.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why do marine reptiles like sea turtles have to return to land?",
+    "question_ta": "Why do marine reptiles like sea turtles have to return to land?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To shed their skin",
+        "text_ta": "To shed their skin"
+      },
+      {
+        "key": "B",
+        "text_en": "To escape from sharks",
+        "text_ta": "To escape from sharks"
+      },
+      {
+        "key": "C",
+        "text_en": "To lay eggs",
+        "text_ta": "To lay eggs"
+      },
+      {
+        "key": "D",
+        "text_en": "To bask in the sunlight",
+        "text_ta": "To bask in the sunlight"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "While they live in the sea, they must return to land to lay eggs.",
+    "explanation_ta": "While they live in the sea, they must return to land to lay eggs.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the unique mass nesting phenomenon in Odisha called?",
+    "question_ta": "What is the unique mass nesting phenomenon in Odisha called?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Arribada",
+        "text_ta": "Arribada"
+      },
+      {
+        "key": "B",
+        "text_en": "Hatchling",
+        "text_ta": "Hatchling"
+      },
+      {
+        "key": "C",
+        "text_en": "Barracuda",
+        "text_ta": "Barracuda"
+      },
+      {
+        "key": "D",
+        "text_en": "Carapace",
+        "text_ta": "Carapace"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A unique phenomenon in Odisha, known as 'Arribada' or 'mass nesting,' sees thousands of female turtles coming ashore simultaneously.",
+    "explanation_ta": "A unique phenomenon in Odisha, known as 'Arribada' or 'mass nesting,' sees thousands of female turtles coming ashore simultaneously.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt / Glossary G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the Spanish term 'Arribada' mean?",
+    "question_ta": "What does the Spanish term 'Arribada' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Safe shelter",
+        "text_ta": "Safe shelter"
+      },
+      {
+        "key": "B",
+        "text_en": "Deep water dive",
+        "text_ta": "Deep water dive"
+      },
+      {
+        "key": "C",
+        "text_en": "Ocean journey",
+        "text_ta": "Ocean journey"
+      },
+      {
+        "key": "D",
+        "text_en": "Mass nesting event",
+        "text_ta": "Mass nesting event"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Arribada is defined in the glossary as a Spanish term for a mass nesting event of sea turtles.",
+    "explanation_ta": "Arribada is defined in the glossary as a Spanish term for a mass nesting event of sea turtles.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Glossary G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What tool do emerging hatchlings use to break their leathery shell?",
+    "question_ta": "What tool do emerging hatchlings use to break their leathery shell?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A sharp claw",
+        "text_ta": "A sharp claw"
+      },
+      {
+        "key": "B",
+        "text_en": "A beak",
+        "text_ta": "A beak"
+      },
+      {
+        "key": "C",
+        "text_en": "An egg-tooth",
+        "text_ta": "An egg-tooth"
+      },
+      {
+        "key": "D",
+        "text_en": "A hard fin",
+        "text_ta": "A hard fin"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Hatchlings emerge using an 'egg-tooth', which is a sharp, razor-like tip on their snout.",
+    "explanation_ta": "Hatchlings emerge using an 'egg-tooth', which is a sharp, razor-like tip on their snout.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt / Rule R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following predators pose a danger to newly emerged hatchlings?",
+    "question_ta": "Which of the following predators pose a danger to newly emerged hatchlings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Whales and dolphins",
+        "text_ta": "Whales and dolphins"
+      },
+      {
+        "key": "B",
+        "text_en": "Coral polyps",
+        "text_ta": "Coral polyps"
+      },
+      {
+        "key": "C",
+        "text_en": "Deep sea jellyfish",
+        "text_ta": "Deep sea jellyfish"
+      },
+      {
+        "key": "D",
+        "text_en": "Crabs, birds, and humans",
+        "text_ta": "Crabs, birds, and humans"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Hatchlings face many predators like crabs, birds, and humans as they try to reach the sea.",
+    "explanation_ta": "Hatchlings face many predators like crabs, birds, and humans as they try to reach the sea.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What determines the sex of sea turtle hatchlings?",
+    "question_ta": "What determines the sex of sea turtle hatchlings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The salinity of the sand",
+        "text_ta": "The salinity of the sand"
+      },
+      {
+        "key": "B",
+        "text_en": "The depth of the nest hole",
+        "text_ta": "The depth of the nest hole"
+      },
+      {
+        "key": "C",
+        "text_en": "The nest temperature",
+        "text_ta": "The nest temperature"
+      },
+      {
+        "key": "D",
+        "text_en": "The weight of the mother",
+        "text_ta": "The weight of the mother"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text notes that the sex of the hatchling is determined by the nest temperature.",
+    "explanation_ta": "The text notes that the sex of the hatchling is determined by the nest temperature.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt / Rule R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What temperature range produces male sea turtle hatchlings?",
+    "question_ta": "What temperature range produces male sea turtle hatchlings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "27-28°C",
+        "text_ta": "27-28°C"
+      },
+      {
+        "key": "B",
+        "text_en": "30-31°C",
+        "text_ta": "30-31°C"
+      },
+      {
+        "key": "C",
+        "text_en": "31-32°C",
+        "text_ta": "31-32°C"
+      },
+      {
+        "key": "D",
+        "text_en": "29-30°C",
+        "text_ta": "29-30°C"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An incubation temperature of 27-28°C produces males.",
+    "explanation_ta": "An incubation temperature of 27-28°C produces males.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt / Rule R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What temperature produces female sea turtle hatchlings?",
+    "question_ta": "What temperature produces female sea turtle hatchlings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "29°C",
+        "text_ta": "29°C"
+      },
+      {
+        "key": "B",
+        "text_en": "30°C",
+        "text_ta": "30°C"
+      },
+      {
+        "key": "C",
+        "text_en": "28°C",
+        "text_ta": "28°C"
+      },
+      {
+        "key": "D",
+        "text_en": "27°C",
+        "text_ta": "27°C"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An incubation temperature of 30°C produces females.",
+    "explanation_ta": "An incubation temperature of 30°C produces females.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt / Rule R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which temperature range produces an equal mix of male and female hatchlings?",
+    "question_ta": "Which temperature range produces an equal mix of male and female hatchlings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "27-28°C",
+        "text_ta": "27-28°C"
+      },
+      {
+        "key": "B",
+        "text_en": "25-26°C",
+        "text_ta": "25-26°C"
+      },
+      {
+        "key": "C",
+        "text_en": "29-30°C",
+        "text_ta": "29-30°C"
+      },
+      {
+        "key": "D",
+        "text_en": "31-32°C",
+        "text_ta": "31-32°C"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A temperature range of 29-30°C produces an equal mix of males and females.",
+    "explanation_ta": "A temperature range of 29-30°C produces an equal mix of males and females.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt / Rule R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the prose piece 'Sea Turtles'?",
+    "question_ta": "Who is the author of the prose piece 'Sea Turtles'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Shekar Dattatri",
+        "text_ta": "Shekar Dattatri"
+      },
+      {
+        "key": "B",
+        "text_en": "Jim Corbett",
+        "text_ta": "Jim Corbett"
+      },
+      {
+        "key": "C",
+        "text_en": "Ruskin Bond",
+        "text_ta": "Ruskin Bond"
+      },
+      {
+        "key": "D",
+        "text_en": "R.K. Narayan",
+        "text_ta": "R.K. Narayan"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Shekar Dattatri is the author of the text on sea turtles.",
+    "explanation_ta": "Shekar Dattatri is the author of the text on sea turtles.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Character C1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which is identified as the smallest sea turtle species?",
+    "question_ta": "Which is identified as the smallest sea turtle species?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Green Sea Turtle",
+        "text_ta": "Green Sea Turtle"
+      },
+      {
+        "key": "B",
+        "text_en": "Leatherback",
+        "text_ta": "Leatherback"
+      },
+      {
+        "key": "C",
+        "text_en": "Loggerhead",
+        "text_ta": "Loggerhead"
+      },
+      {
+        "key": "D",
+        "text_en": "Olive Ridley",
+        "text_ta": "Olive Ridley"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The Olive Ridley is noted as the smallest sea turtle.",
+    "explanation_ta": "The Olive Ridley is noted as the smallest sea turtle.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Rule R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which is the largest sea turtle species, weighing up to 700 kg?",
+    "question_ta": "Which is the largest sea turtle species, weighing up to 700 kg?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Leatherback",
+        "text_ta": "Leatherback"
+      },
+      {
+        "key": "B",
+        "text_en": "Loggerhead",
+        "text_ta": "Loggerhead"
+      },
+      {
+        "key": "C",
+        "text_en": "Olive Ridley",
+        "text_ta": "Olive Ridley"
+      },
+      {
+        "key": "D",
+        "text_en": "Hawksbill",
+        "text_ta": "Hawksbill"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The Leatherback is the largest sea turtle, growing up to 700 kg.",
+    "explanation_ta": "The Leatherback is the largest sea turtle, growing up to 700 kg.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Rule R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the estimated survival rate of hatchlings into adulthood?",
+    "question_ta": "What is the estimated survival rate of hatchlings into adulthood?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "One in ten thousand",
+        "text_ta": "One in ten thousand"
+      },
+      {
+        "key": "B",
+        "text_en": "One in ten",
+        "text_ta": "One in ten"
+      },
+      {
+        "key": "C",
+        "text_en": "One in a hundred",
+        "text_ta": "One in a hundred"
+      },
+      {
+        "key": "D",
+        "text_en": "One in a thousand",
+        "text_ta": "One in a thousand"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Only one in every thousand hatchlings is estimated to survive into adulthood.",
+    "explanation_ta": "Only one in every thousand hatchlings is estimated to survive into adulthood.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Rule R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What shape and size are the eggs of an Olive Ridley turtle compared to?",
+    "question_ta": "What shape and size are the eggs of an Olive Ridley turtle compared to?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A lime",
+        "text_ta": "A lime"
+      },
+      {
+        "key": "B",
+        "text_en": "A golf ball",
+        "text_ta": "A golf ball"
+      },
+      {
+        "key": "C",
+        "text_en": "A marble",
+        "text_ta": "A marble"
+      },
+      {
+        "key": "D",
+        "text_en": "A table tennis ball",
+        "text_ta": "A table tennis ball"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The eggs of an Olive Ridley are in the shape and size of a table tennis ball.",
+    "explanation_ta": "The eggs of an Olive Ridley are in the shape and size of a table tennis ball.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Textbook worked W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the text, which of the following is NOT one of the five sea turtle species found in India?",
+    "question_ta": "According to the text, which of the following is NOT one of the five sea turtle species found in India?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hawksbill",
+        "text_ta": "Hawksbill"
+      },
+      {
+        "key": "B",
+        "text_en": "Green Sea Turtle",
+        "text_ta": "Green Sea Turtle"
+      },
+      {
+        "key": "C",
+        "text_en": "Loggerhead",
+        "text_ta": "Loggerhead"
+      },
+      {
+        "key": "D",
+        "text_en": "None of the above",
+        "text_ta": "None of the above"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "All five listed species (Olive Ridley, Hawksbill, Green Sea Turtle, Loggerhead, and Leatherback) are found in India, making 'None of the above' the correct choice.",
+    "explanation_ta": "All five listed species (Olive Ridley, Hawksbill, Green Sea Turtle, Loggerhead, and Leatherback) are found in India, making 'None of the above' the correct choice.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Textbook worked W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What are the broad, flat limbs of sea turtles used for swimming called?",
+    "question_ta": "What are the broad, flat limbs of sea turtles used for swimming called?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Claws",
+        "text_ta": "Claws"
+      },
+      {
+        "key": "B",
+        "text_en": "Flippers",
+        "text_ta": "Flippers"
+      },
+      {
+        "key": "C",
+        "text_en": "Webbed feet",
+        "text_ta": "Webbed feet"
+      },
+      {
+        "key": "D",
+        "text_en": "Paddles",
+        "text_ta": "Paddles"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Flippers are broad, flat limbs used for swimming as defined in the glossary.",
+    "explanation_ta": "Flippers are broad, flat limbs used for swimming as defined in the glossary.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Glossary G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'incubate' mean in the context of turtle eggs?",
+    "question_ta": "What does the term 'incubate' mean in the context of turtle eggs?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To bury deeply in mud",
+        "text_ta": "To bury deeply in mud"
+      },
+      {
+        "key": "B",
+        "text_en": "To wash eggs with water",
+        "text_ta": "To wash eggs with water"
+      },
+      {
+        "key": "C",
+        "text_en": "To cool eggs in shade",
+        "text_ta": "To cool eggs in shade"
+      },
+      {
+        "key": "D",
+        "text_en": "To hatch eggs using warmth",
+        "text_ta": "To hatch eggs using warmth"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Incubate means to hatch eggs using warmth, according to the glossary.",
+    "explanation_ta": "Incubate means to hatch eggs using warmth, according to the glossary.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Glossary G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'camouflage' mean as defined in the glossary?",
+    "question_ta": "What does 'camouflage' mean as defined in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To hide or disguise something",
+        "text_ta": "To hide or disguise something"
+      },
+      {
+        "key": "B",
+        "text_en": "To make a loud noise",
+        "text_ta": "To make a loud noise"
+      },
+      {
+        "key": "C",
+        "text_en": "To run very fast",
+        "text_ta": "To run very fast"
+      },
+      {
+        "key": "D",
+        "text_en": "To glow in the dark",
+        "text_ta": "To glow in the dark"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Camouflage is defined in the glossary as to hide or disguise something.",
+    "explanation_ta": "Camouflage is defined in the glossary as to hide or disguise something.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Glossary G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How are 'predators' defined in the glossary?",
+    "question_ta": "How are 'predators' defined in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Animals that live only in groups",
+        "text_ta": "Animals that live only in groups"
+      },
+      {
+        "key": "B",
+        "text_en": "Animals that migrate across continents",
+        "text_ta": "Animals that migrate across continents"
+      },
+      {
+        "key": "C",
+        "text_en": "Animals that kill other animals for food",
+        "text_ta": "Animals that kill other animals for food"
+      },
+      {
+        "key": "D",
+        "text_en": "Animals that eat only plants",
+        "text_ta": "Animals that eat only plants"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Predators are defined as animals that kill other animals for food.",
+    "explanation_ta": "Predators are defined as animals that kill other animals for food.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Glossary G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which Indian state is famous for hosting the mass nesting phenomenon ('Arribada') of Olive Ridley turtles?",
+    "question_ta": "Which Indian state is famous for hosting the mass nesting phenomenon ('Arribada') of Olive Ridley turtles?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kerala",
+        "text_ta": "Kerala"
+      },
+      {
+        "key": "B",
+        "text_en": "Odisha",
+        "text_ta": "Odisha"
+      },
+      {
+        "key": "C",
+        "text_en": "Tamil Nadu",
+        "text_ta": "Tamil Nadu"
+      },
+      {
+        "key": "D",
+        "text_en": "West Bengal",
+        "text_ta": "West Bengal"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Odisha is home to one of the world's few Arribada nesting sites.",
+    "explanation_ta": "Odisha is home to one of the world's few Arribada nesting sites.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Rule R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of animals are sea turtles classified as?",
+    "question_ta": "What type of animals are sea turtles classified as?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mammals",
+        "text_ta": "Mammals"
+      },
+      {
+        "key": "B",
+        "text_en": "Marine reptiles",
+        "text_ta": "Marine reptiles"
+      },
+      {
+        "key": "C",
+        "text_en": "Amphibians",
+        "text_ta": "Amphibians"
+      },
+      {
+        "key": "D",
+        "text_en": "Fish",
+        "text_ta": "Fish"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sea turtles are marine reptiles that spend almost their entire lives in the ocean.",
+    "explanation_ta": "Sea turtles are marine reptiles that spend almost their entire lives in the ocean.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Prose excerpt"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Sea Turtles",
+    "topic": "Sea Turtles",
+    "topic_id": "sea_turtles",
+    "topic_ta": "Sea Turtles",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What scientific mystery is mentioned regarding adult female sea turtles?",
+    "question_ta": "What scientific mystery is mentioned regarding adult female sea turtles?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "How they communicate across oceans",
+        "text_ta": "How they communicate across oceans"
+      },
+      {
+        "key": "B",
+        "text_en": "How they change their color",
+        "text_ta": "How they change their color"
+      },
+      {
+        "key": "C",
+        "text_en": "How they navigate back to their birth beaches",
+        "text_ta": "How they navigate back to their birth beaches"
+      },
+      {
+        "key": "D",
+        "text_en": "How they breathe underwater for hours",
+        "text_ta": "How they breathe underwater for hours"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The summary highlights scientific mysteries such as how adult females return to their birth beaches.",
+    "explanation_ta": "The summary highlights scientific mysteries such as how adult females return to their birth beaches.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "sea_turtles",
+    "source_note": "Summary notes"
+  }
+]

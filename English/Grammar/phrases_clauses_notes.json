@@ -1,0 +1,477 @@
+{
+  "subject_id": "English",
+  "menu": "phrases_clauses",
+  "sources": [
+    "Grammer.pdf pp.[359, 390, 391, 392, 394, 395] (primary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "A phrase is a group of words which does not contain a finite verb.",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A clause is a group of words which has a finite verb.",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "Finite verbs indicate the tense and time of actions.",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A main clause is an independent clause in a sentence.",
+      "pc_tag": "main_clause",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A subordinate clause is a clause dependent on a main clause in complex or compound structures.",
+      "pc_tag": "subordinate_clause",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A clause is a group of words that contains both a subject and a predicate (or a verb).",
+      "pc_tag": "overview",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "rule_en": "Independent Clauses (main clauses) are complete sentences; they can stand alone and express a complete thought.",
+      "pc_tag": "main_clause",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "rule_en": "Dependent Clauses (subordinate clauses) contain a subject and a predicate, but they do not express a complete thought.",
+      "pc_tag": "subordinate_clause",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "rule_en": "A phrase is a group of words that forms a meaningful unit but is not a complete sentence; it does not have a subject or a verb.",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "A noun phrase is a group of words made up of a noun and its modifiers.",
+      "pc_tag": "noun_phrase",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "A verb phrase is a group of words made up of a verb, helping verbs, and modifiers.",
+      "pc_tag": "other",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "An adjective clause describes or gives more information about a noun—tells us which one, what kind, or how many.",
+      "pc_tag": "adjective_clause",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "An adverb clause describes or gives more information about the verb—tells us when, where, how, to what extent, or under what condition something is happening.",
+      "pc_tag": "adverb_clause",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "A noun clause takes the place of a noun in the sentence.",
+      "pc_tag": "noun_clause",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "rule_en": "A Prepositional Phrase is a group of words that begin with a preposition and help to explain the relationship between two things.",
+      "pc_tag": "adjective_phrase",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "rule_en": "A Phrase is a group of words without a finite verb.",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "rule_en": "A Clause is a group of words which consists of a finite verb.",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "rule_en": "Adjective Phrase: A group of words that does the work of an adjective by describing a noun.",
+      "pc_tag": "adjective_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "rule_en": "Adverb Phrase: A phrase which functions as an adverb and supplies information about the action.",
+      "pc_tag": "adverb_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "rule_en": "Noun Phrase: A phrase which acts as a noun.",
+      "pc_tag": "noun_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "rule_en": "Adverb Clause: Modifies the verb by providing details about the action (such as time).",
+      "pc_tag": "adverb_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "rule_en": "Noun Clause: A clause that functions as a noun in the sentence.",
+      "pc_tag": "noun_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "rule_en": "Adjective Clause: Acts as an adjective and describes a noun.",
+      "pc_tag": "adjective_clause",
+      "source": "grammer",
+      "source_page": 393
+    }
+  ],
+  "examples": [
+    {
+      "input_en": "I need a book.",
+      "output_en": "Independent Clause",
+      "pc_tag": "main_clause",
+      "note_en": "Complete thought, can stand alone.",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "input_en": "When it is raining",
+      "output_en": "Dependent Clause",
+      "pc_tag": "subordinate_clause",
+      "note_en": "Contains subject and predicate but does not express a complete thought.",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "input_en": "Kalpana wants to buy a phone, but she does not have enough money.",
+      "output_en": "Two Independent Clauses",
+      "pc_tag": "main_clause",
+      "note_en": "Both parts express complete thoughts.",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "input_en": "If you don't study well, you won't pass the exam.",
+      "output_en": "Dependent Clause (If you don't study well) + Independent Clause (you won't pass the exam)",
+      "pc_tag": "subordinate_clause",
+      "note_en": "Combined sentence structure showing dependency.",
+      "source": "grammer",
+      "source_page": 388
+    },
+    {
+      "input_en": "The red umbrella was blown away in the wind.",
+      "output_en": "the red umbrella (Noun Phrase)",
+      "pc_tag": "noun_phrase",
+      "note_en": "Example of a noun phrase acting as a group of words with a noun and its modifiers.",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "input_en": "The book that I left on the bus belongs to Mr. Baskar.",
+      "output_en": "that I left on the bus (Adjective Clause)",
+      "pc_tag": "adjective_clause",
+      "note_en": "Describes the noun 'book'.",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "input_en": "She was happy because her father gave her a watch.",
+      "output_en": "because her father gave her a watch (Adverb Clause)",
+      "pc_tag": "adverb_clause",
+      "note_en": "Provides information about the verb/state of being.",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "input_en": "This is the best route that I know.",
+      "output_en": "that I know (Noun Clause)",
+      "pc_tag": "noun_clause",
+      "note_en": "Clause acting in place of a noun.",
+      "source": "grammer",
+      "source_page": 389
+    },
+    {
+      "input_en": "The present inside the big box is mine.",
+      "output_en": "inside the big box",
+      "pc_tag": "adjective_phrase",
+      "note_en": "The phrase begins with the preposition 'inside' and describes 'the present'.",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "input_en": "Having completed the work, the boy went out to play.",
+      "output_en": "Having completed the work",
+      "pc_tag": "phrase_vs_clause",
+      "note_en": "Phrase: does not contain a finite verb.",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "input_en": "After the boy had completed the work, he went out to play.",
+      "output_en": "After the boy had completed the work",
+      "pc_tag": "phrase_vs_clause",
+      "note_en": "Clause: contains a finite verb.",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "input_en": "We bought chairs made of wood for our auditorium.",
+      "output_en": "made of wood",
+      "pc_tag": "adjective_phrase",
+      "note_en": "Describes the noun 'chairs'.",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "input_en": "the doctors rushed there in a hurried manner.",
+      "output_en": "in a hurried manner",
+      "pc_tag": "adverb_phrase",
+      "note_en": "Provides information about the action 'rushed'.",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "input_en": "A boy of class X became the house captain.",
+      "output_en": "A boy of class X",
+      "pc_tag": "noun_phrase",
+      "note_en": "Acts as the subject (noun) of the sentence.",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "input_en": "The students were sitting quietly in the classroom until the teacher arrived.",
+      "output_en": "until the teacher arrived",
+      "pc_tag": "adverb_clause",
+      "note_en": "Describes the time of the action.",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "input_en": "Whoever wins the contest will get a prize.",
+      "output_en": "Whoever wins the contest",
+      "pc_tag": "noun_clause",
+      "note_en": "The clause acts as the subject (noun) of the sentence.",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "input_en": "I went to the place where I was born.",
+      "output_en": "where I was born",
+      "pc_tag": "adjective_clause",
+      "note_en": "Describes the noun 'place'.",
+      "source": "grammer",
+      "source_page": 393
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Texting on his phone, the man swerved into a ditch.",
+      "answer_en": "Texting on his phone (Phrase)",
+      "pc_tag": "phrase_vs_clause",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "prompt_en": "It isn’t necessary to cram all night if you have studied a little each day.",
+      "answer_en": "if you have studied a little each day (Dependent Clause)",
+      "pc_tag": "subordinate_clause",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "prompt_en": "We climbed up the hill to enjoy the view.",
+      "answer_en": "up the hill (Prepositional Phrase)",
+      "pc_tag": "adverb_phrase",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "prompt_en": "I enjoy painting during my holidays.",
+      "answer_en": "during my holidays (Prepositional Phrase)",
+      "pc_tag": "adverb_phrase",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "prompt_en": "Whether he attends the party or not, I have decided to go.",
+      "answer_en": "Whether he attends the party or not (Dependent Clause)",
+      "pc_tag": "subordinate_clause",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "prompt_en": "I will stop playing the drums when you go to sleep.",
+      "answer_en": "when you go to sleep (Dependent Clause)",
+      "pc_tag": "subordinate_clause",
+      "source": "grammer",
+      "source_page": 390
+    },
+    {
+      "prompt_en": "1. The girl in blue saree is my sister.",
+      "answer_en": "in blue saree - Adjective phrase",
+      "pc_tag": "adjective_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "prompt_en": "2. Kohli hopes to win the trophy.",
+      "answer_en": "to win the trophy - Noun phrase",
+      "pc_tag": "noun_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "prompt_en": "3. The train halts at every junction.",
+      "answer_en": "at every junction - Adverb phrase",
+      "pc_tag": "adverb_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "prompt_en": "4. I have never seen such a picture.",
+      "answer_en": "such a picture - Noun phrase",
+      "pc_tag": "noun_phrase",
+      "source": "grammer",
+      "source_page": 392
+    },
+    {
+      "prompt_en": "Ram bought a pen that doesn’t write well.",
+      "answer_en": "that doesn’t write well - Adjective Clause",
+      "pc_tag": "adjective_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "Come back as soon as possible.",
+      "answer_en": "as soon as possible - Adverb Phrase",
+      "pc_tag": "adverb_phrase",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "Most of her friends whom she had invited attended her wedding.",
+      "answer_en": "whom she had invited - Adjective Clause",
+      "pc_tag": "adjective_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "My brother visits my father whenever he comes to Chennai.",
+      "answer_en": "whenever he comes to Chennai - Adverb Clause",
+      "pc_tag": "adverb_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "Call me in case there is an emergency.",
+      "answer_en": "in case there is an emergency - Adverb Clause",
+      "pc_tag": "adverb_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "Until the sun sets, the old woman cannot step out of her house.",
+      "answer_en": "Until the sun sets - Adverb Clause",
+      "pc_tag": "adverb_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "She knows where I go.",
+      "answer_en": "where I go - Noun Clause",
+      "pc_tag": "noun_clause",
+      "source": "grammer",
+      "source_page": 393
+    },
+    {
+      "prompt_en": "You can go wherever you want.",
+      "answer_en": "wherever you want - Adverb Clause",
+      "pc_tag": "adverb_clause",
+      "source": "grammer",
+      "source_page": 393
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 23,
+      "examples": 17,
+      "worked_exercises": 18
+    },
+    "by_pc_tag": {
+      "phrase_vs_clause": {
+        "rules": 6,
+        "examples": 2,
+        "worked": 1
+      },
+      "main_clause": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 0
+      },
+      "subordinate_clause": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 3
+      },
+      "overview": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "noun_phrase": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 2
+      },
+      "other": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "adjective_clause": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 2
+      },
+      "adverb_clause": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 4
+      },
+      "noun_clause": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 1
+      },
+      "adjective_phrase": {
+        "rules": 2,
+        "examples": 2,
+        "worked": 1
+      },
+      "adverb_phrase": {
+        "rules": 1,
+        "examples": 1,
+        "worked": 4
+      }
+    }
+  }
+}

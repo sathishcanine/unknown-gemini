@@ -1,0 +1,30 @@
+{
+  "topics": {
+    "making_queries": {
+      "topic_id": "making_queries",
+      "start": 25,
+      "target": 25,
+      "rule_issues": 0,
+      "rule_fixed": 0,
+      "rule_dropped": 0,
+      "gemini": {
+        "verdict": "PASS",
+        "flagged": 0,
+        "fixed": 0,
+        "dropped": 0,
+        "flagged_questions": [],
+        "chunk_verdicts": [
+          "PASS"
+        ]
+      },
+      "final_count": 25,
+      "final_rule_issues": 0,
+      "final_rule_detail": []
+    }
+  },
+  "totals": {
+    "topics": 1,
+    "questions": 25,
+    "need_attention": []
+  }
+}

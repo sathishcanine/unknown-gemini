@@ -1,0 +1,5657 @@
+{
+  "total": 1018,
+  "critical_unique": 176,
+  "critical": [
+    {
+      "id": 5457,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Water gas is",
+      "opts": [
+        [
+          "A",
+          "a mixture of CH4 and CO2"
+        ],
+        [
+          "B",
+          "a mixture of CO2 and H2"
+        ],
+        [
+          "C",
+          "a mixture of CO and N2"
+        ],
+        [
+          "D",
+          "a mixture of CO and H2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5505,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Nylon is a",
+      "opts": [
+        [
+          "A",
+          "polyamide"
+        ],
+        [
+          "B",
+          "polyester"
+        ],
+        [
+          "C",
+          "polysaccharide"
+        ],
+        [
+          "D",
+          "polyurethane"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5506,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Dry ice is",
+      "opts": [
+        [
+          "A",
+          "liquid nitrogen"
+        ],
+        [
+          "B",
+          "solid ammonia"
+        ],
+        [
+          "C",
+          "solid carbon dioxide"
+        ],
+        [
+          "D",
+          "solid water"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5565,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "NH_4^+ ion is",
+      "opts": [
+        [
+          "A",
+          "A conjugate base"
+        ],
+        [
+          "B",
+          "A neutral molecule"
+        ],
+        [
+          "C",
+          "A strong base"
+        ],
+        [
+          "D",
+          "A conjugate acid"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5601,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "SiO₂ is",
+      "opts": [
+        [
+          "A",
+          "a basic oxide"
+        ],
+        [
+          "B",
+          "an acidic oxide"
+        ],
+        [
+          "C",
+          "an amphoteric oxide"
+        ],
+        [
+          "D",
+          "a neutral oxide"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5624,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following chemical reactions and classifications:<br><div class='match-container'><div class='match-col-left'>a) Electrolysis of water<br>b) Quicklime reacting with water<br>c) Iron nail in copper sulfate<br>d) Iron sulfide with dilute sulfuric acid</div><div class='match-col-right'>1. Exothermic reaction forming slaked lime<br>2. Decomposition reaction<br>3. Hydrogen sulfide gas with rotten egg smell<br>4. Displacement reaction turning solution brown</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-4, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=477"
+    },
+    {
+      "id": 5625,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding chemical bonds, reactions, and stoichiometry:<br>1. Ethane contains a total of seven covalent bonds.<br>2. When calcium carbonate is heated, quicklime and carbon dioxide are formed.<br>3. A single carbon atom can form a maximum of two covalent bonds.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5626,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following historical discoveries and atomic classifications:<br><div class='match-container'><div class='match-col-left'>a) John Newlands<br>b) Dmitri Mendeleev<br>c) Henry Moseley<br>d) Element 101</div><div class='match-col-right'>1. Musical notes and 49 elements<br>2. Element named Mendelevium<br>3. Modern periodic law by atomic numbers<br>4. Fundamental basis of early periodic table</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-4, c-3, d-2"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=411"
+    },
+    {
+      "id": 5627,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements about physical states and properties of elements:<br>1. Iodine exists as a solid and bromine exists as a liquid at room temperature.<br>2. Gallium is a liquid slightly above room temperature.<br>3. Tungsten is the metal with the lowest melting point.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5628,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following comprehensive assertions regarding the properties and history of elements and compounds:<br>1. Cobalt and nickel were placed in the same slot in Newlands' table, which was based on musical notes.<br>2. IUPAC has officially released symbols for only 112 elements so far.<br>3. Mendeleev's periodic table served as a fundamental basis despite many subsequent tables.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5629,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following assertions regarding atomic properties, isotopes, and subatomic particles:<br>1. An alpha particle is the term used to refer to a helium atom that has lost two electrons.<br>2. A positron is a positively charged subatomic particle with a mass equal to that of an electron.<br>3. Rutherford's alpha-particle scattering experiment led directly to the discovery of the atomic nucleus.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5630,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the biological and physical chemistry of elements:<br>1. Living plants and animals are composed of specific major elements including 65% oxygen and 18% carbon.<br>2. Fluorine is the most reactive halogen among all the halogen elements.<br>3. Helium and all noble gases are diatomic elements in their standard state.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5631,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding solutions and mixtures:<br>1. A solution is a homogeneous mixture of two or more substances consisting of a solute and a solvent.<br>2. A suspension is a heterogeneous mixture where solute particles remain suspended and can be seen with the naked eye.<br>3. Iron present in iron sulfide can be easily separated using a strong magnet.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5632,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the quantum numbers used in chemistry:<br>1. The principal quantum number determines the size and energy of an orbital.<br>2. The azimuthal quantum number describes the orbital angular momentum or sub-shell.<br>3. The magnetic quantum number indicates the electronic spin orientation.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 onlys"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5633,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the physical and chemical properties of non-metals and elements:<br>1. There are approximately 16 to 17 non-metals which are soft, non-lustrous, and poor conductors of electricity.<br>2. Sulfur combines with oxygen to form sulfur dioxide, which is a colorless gas.<br>3. Carbon is the only non-metal present in the boron family.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5634,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding actinides, radioactivity, and atomic structure definitions:<br>1. Actinides include elements with atomic numbers from 89 to 103.<br>2. Plutonium has the chemical symbol Pu and is named after the planet Pluto.<br>3. An alpha particle is the term used to refer to a helium atom that has lost two electrons (He2+).<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5635,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following assertions regarding quantum numbers, atomic trends, and chemical nomenclature:<br>1. Electron spin quantum number specifies the direction of the electron's spin.<br>2. Across a period from left to right, the atomic radius decreases progressively.<br>3. The chemical symbol for Iron is Fe, which is derived from its traditional Greek/Latin name Ferrum.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5638,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding atomic structure, isotopes, and electronic configuration:<br>1. Isotopes are placed in the same position in the periodic table because they have the same atomic number.<br>2. The modern periodic table is based on the electronic configuration of elements.<br>3. Nickel, palladium, and platinum serve as catalysts in the hydrogenation of vegetable oils.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5639,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the structural features of the modern periodic table:<br>1. Horizontal rows in the modern periodic table are called periods, and vertical columns are groups.<br>2. Elements in groups 3 to 12 are known as transition elements.<br>3. The second period is a short period containing 8 elements ranging from Lithium to Neon.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5641,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following historical developments and concepts in chemistry:<br><div class='match-container'><div class='match-col-left'>a) John Newlands<br>b) Dmitri Mendeleev<br>c) Henry Moseley<br>d) Ernest Rutherford</div><div class='match-col-right'>1. Modern periodic table based on atomic numbers<br>2. Alpha-particle scattering experiment<br>3. Law of Octaves<br>4. Periodic table based on atomic masses</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=417"
+    },
+    {
+      "id": 5642,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding atomic structure and periodic classifications:<br>1. Silicon has four electrons in its valence shell.<br>2. The atomic masses of Lithium, Sodium, and Potassium are respectively 7, 23, and 39.<br>3. John Newlands arranged a total of 64 elements in rows of eight elements each.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5643,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the periodic table trends and groups:<br>1. Elements in the same group possess the same number of valence electrons.<br>2. Ionization energy increases from top to bottom down a group in the periodic table.<br>3. Elements in groups 3 to 12 are known as transition elements.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 2 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5644,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following chemical reactions and properties:<br><div class='match-container'><div class='match-col-left'>a) Endothermic Reaction<br>b) Element + Element<br>c) Oxidation Reaction<br>d) Disproportionation</div><div class='match-col-right'>1. Decomposition of ferrous sulfate<br>2. Formation of compounds<br>3. Addition of oxygen or loss of electrons<br>4. Simultaneous oxidation and reduction</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=412"
+    },
+    {
+      "id": 5645,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding periodic table trends:<br>1. Across a period from left to right, the atomic radius decreases.<br>2. Metallic character decreases across a period and increases down a group.<br>3. Fluorine possesses the highest electronegativity among all elements.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5646,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding complex periodic table anomalies and historical models:<br>1. Cobalt and nickel were placed in the same slot in Newlands' table.<br>2. Dobereiner's law of triads had a limitation that it could be applied only to a limited number of elements, and not all known elements could be classified according to it.<br>3. IUPAC has officially released symbols for all elements discovered up to 120.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5647,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding atomic structure and electron shells:<br>1. The maximum number of electrons in any given shell is determined by the formula 2n².<br>2. The first electron shell can hold up to a maximum of two electrons.<br>3. Elements with 5, 6, or 7 valence electrons are classified as metals.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5648,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements about chemical bonding and molecular structure:<br>1. Ethane contains a total of seven covalent bonds.<br>2. A single carbon atom can form a maximum of four covalent bonds due to its tetravalency.<br>3. Van der Waals forces do not exist between graphite layers.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5649,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following advanced chemical concepts, definitions, and oxide properties:<br><div class='match-container'><div class='match-col-left'>a) Amphoteric oxides<br>b) Periodic recurrence<br>c) Hydrogen position defect<br>d) Lanthanides and actinides</div><div class='match-col-right'>1. Placed separately at the bottom of the periodic table<br>2. React with both acids and bases to produce salt and water<br>3. Unresolved placement challenge in the modern periodic table<br>4. Periodicity of physical and chemical properties</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=539"
+    },
+    {
+      "id": 5650,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding subatomic particles and atomic mass:<br>1. Neutrons are neutral subatomic particles with no electrical charge and a relative charge of 0.<br>2. Mass number is defined strictly as the total number of neutrons in an atom.<br>3. Electrons are negatively charged subatomic particles with a relative charge of -1.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 2 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5651,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following chemical symbols and their Greek or Latin etymological roots:<br><div class='match-container'><div class='match-col-left'>a) Gold<br>b) Copper<br>c) Plutonium<br>d) Tungsten</div><div class='match-col-right'>1. Cuprum<br>2. Named after the planet Pluto<br>3. Aurum<br>4. High melting point metal (Wolfram root)</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-3, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=342"
+    },
+    {
+      "id": 5653,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding chemical solutions, physical states, and gas solubility:<br>1. Solubility of gases in liquids increases with a decrease in temperature and an increase in pressure.<br>2. Ammonia dissolves in water in very large amounts.<br>3. Pure iron sulfide exhibits a definite melting point and boiling point, proving its compound nature.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5654,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following periodic classifications and chemical descriptions:<br><div class='match-container'><div class='match-col-left'>a) Group 2 elements<br>b) Group 16 elements<br>c) Transition elements<br>d) Gallium</div><div class='match-col-right'>1. Chalcogen family (ore-forming family)<br>2. Alkaline earth metals<br>3. Boron family element liquid slightly above room temperature<br>4. Elements in groups 3 to 12</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=429"
+    },
+    {
+      "id": 5655,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the physical and chemical properties of elements:\n1. Tungsten is the metal with the highest melting point of 3410 degrees Celsius.\n2. Foxing is the process where paper in old books turns brown in color.\n3. Adding dilute sulfuric acid to iron sulfide produces hydrogen sulfide gas with a rotten egg smell.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5656,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding subatomic particles and nuclear binding:\n1. Protons and neutrons together are collectively called nucleons and are held together in the nucleus by short-range strong nuclear forces.\n2. Electrons are negatively charged subatomic particles with a relative charge of -1.\n3. Neutron is a neutral particle having no electric charge.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5657,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the states and properties of elements:\n1. At room temperature, iodine exists as a solid and bromine exists as a liquid.\n2. Carbon is the only non-metal in the carbon family.\n3. Caesium is the natural element with the highest metallic character.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5658,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following fundamental chemical synthesis reactions and components:<br><div class='match-container'><div class='match-col-left'>a) Element + Element<br>b) Hydrogen + Oxygen<br>c) Ozone molecule (O3)<br>d) Oxygen atom valence</div><div class='match-col-right'>1. Water formation<br>2. Compound formation<br>3. Six valence electrons in outer shell<br>4. Contains three oxygen atoms</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=400"
+    },
+    {
+      "id": 5659,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following halogen properties and physical states at room temperature:<br><div class='match-container'><div class='match-col-left'>a) Fluorine<br>b) Bromine<br>c) Iodine<br>d) Halogens in general</div><div class='match-col-right'>1. Liquid at room temperature<br>2. Solid at room temperature<br>3. Most reactive halogen with very high electron affinity<br>4. Seven valence electrons in their outer shell</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=424"
+    },
+    {
+      "id": 5660,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding chemical equilibrium, quantum numbers, and atomic models:\n1. Chemical equilibrium is a reversible reaction where reactants form products and products reform reactants at equal rates.\n2. The magnetic orbital quantum number specifies the spatial orientation of an atomic orbital in space.\n3. The principal quantum number is denoted by 'n' and determines the overall size and energy of an electron shell.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5661,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding synthesis reactions, history, and physical properties of elements:\n1. Heating a mixture of iron filings and sulfur produces a red glowing flame and heat energy, forming iron sulfide.\n2. Iodine has the chemical symbol I and appears in violet color when heated/sublimed.\n3. In 1789, Antoine Lavoisier classified elements into two main groups: metals and non-metals.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5662,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding chemical reactions and energy changes:\n1. Decomposition of ferrous sulfate is an example of an endothermic reaction.\n2. Quicklime reacting vigorously with water to produce slaked lime is an exothermic reaction.\n3. Redox reaction is a process where oxidation and reduction take place simultaneously.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5663,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following historical chemical milestones and element categories:<br><div class='match-container'><div class='match-col-left'>a) Lavoisier (1789)<br>b) Non-metals properties<br>c) Eka-aluminium gap<br>d) Nobleium</div><div class='match-col-right'>1. Filled by Germanium in Mendeleev's table<br>2. Named after Alfred Nobel (symbol No)<br>3. Classified elements into metals and non-metals<br>4. Soft, non-lustrous, non-malleable, poor conductors</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=464"
+    },
+    {
+      "id": 5665,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding chemical reactions, symbols, and stoichiometry:\n1. Thermal decomposition of calcium carbonate produces quicklime and carbon dioxide.\n2. In 1808, John Dalton attempted to represent the names of elements using pictorial symbols, which eventually fell out of use because they were difficult to draw and inconvenient.\n3. Uranium has the chemical symbol U and is named after the planet Uranus.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5666,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the structural features of the modern periodic table and chemical nomenclature:\n1. Vertical columns in the periodic table are known as groups, and there are 18 groups in the modern periodic table.\n2. The chemical symbol for Tungsten is W, derived from its German name Wolfram.\n3. Molecular mass is defined strictly as the sum of the atomic masses of all atoms present in a molecule.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5667,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the structural properties of periods in the modern periodic table:\n1. The fourth period is a long period containing 18 elements ranging from Potassium to Krypton, including 8 normal elements and 10 transition elements.\n2. The seventh period can theoretically contain 32 elements like the sixth period, but only 26 elements have been officially recognized by IUPAC so far.\n3. Lanthanides and actinides are given proper internal positions within the modern periodic table.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5668,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding chemical bonds and compounds:\n1. Covalent compounds generally dissolve in organic solvents and have low melting and boiling points.\n2. Ethane molecule contains a total of seven covalent bonds.\n3. Chemical equilibrium is a reversible reaction where reactants form products and products reform reactants.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5669,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding electronic configurations, ionization energies, and rancidity:\n1. Carbon has a total of two electron shells in its electronic configuration.\n2. Helium has the highest first ionization energy among elements.\n3. Rancidity is the process of food spoilage, causing bad taste and foul smell in oils and fats.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5670,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding covalent compounds, bonding mechanisms, and carbon chemistry:\n1. Covalent bonds are formed by the complete transfer of electrons from a metal to a non-metal.\n2. Covalent compounds generally dissolve in organic solvents and have low melting and boiling points.\n3. Carbon atom has four electrons in its valence shell.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5671,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding atomic structure, bonding, and periodic anomalies:<br>1. Francium is the man-made element with the highest metallic character.<br>2. The second period is a short period containing 8 elements, ranging from Lithium to Neon.<br>3. Not all known elements could be classified according to Döbereiner's law of triads.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5672,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following chemical symbols with their respective Greek or Latin derived names:<br><div class='match-container'><div class='match-col-left'>a) Tin<br>b) Sodium<br>c) Antimony<br>d) Mercury</div><div class='match-col-right'>1. Natrium<br>2. Stannum<br>3. Hydrargyrum<br>4. Stibium</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=300"
+    },
+    {
+      "id": 5673,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following subatomic particles and atomic properties:<br><div class='match-container'><div class='match-col-left'>a) Positron<br>b) Alpha particle<br>c) Proton<br>d) Neutron</div><div class='match-col-right'>1. Positively charged particle with a relative positive charge<br>2. Helium atom that has lost two electrons<br>3. Positively charged particle with a mass equal to that of an electron<br>4. Neutral particle having no electric charge</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=461"
+    },
+    {
+      "id": 5674,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following atomic and molecular characteristics with their respective definitions or examples:<br><div class='match-container'><div class='match-col-left'>a) Noble gases<br>b) Phosphorus (P4) and Sulfur (S8)<br>c) Smallest particles in an element<br>d) Carbon electron shells</div><div class='match-col-right'>1. Monoatomic elements<br>2. Contain more than two atoms in their molecules<br>3. Atoms<br>4. Total of two electron shells in electronic configuration</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=481"
+    },
+    {
+      "id": 5675,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding geochemical abundance and chemical combinations:\n1. Oxygen is the most abundant element in the Earth's crust, followed by silicon, and both together make up three-quarters of the Earth.\n2. Iron and sulfur combine in a 7:4 mass ratio to form iron sulfide compound.\n3. Carbon disulfide does not dissolve sulfur when added to iron sulfide.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5676,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding atomic structure, triads, and periodic properties:\n1. In a Döbereiner triad, the atomic mass of the middle element is approximately equal to the arithmetic mean of the atomic masses of the other two elements.\n2. The atomic masses of Lithium, Sodium, and Potassium are respectively 7, 23, and 39, which form a classic Döbereiner triad.\n3. Metallic character increases across a period from left to right and decreases down a group.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5677,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding advanced redox reactions, chemical reactions, and periodic classifications:\n1. Disproportionation is a specific type of redox reaction where a single reactant is simultaneously oxidized and reduced to form two different products.\n2. Mendeleev's periodic table served as the fundamental basis for modern periodic classification despite many subsequent tables being introduced.\n3. Elements with 4 valence electrons are strictly classified as non-metals without exception.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5678,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding the periodic classification of elements:\n1. The modern periodic table arranges elements in the order of their atomic numbers, formulated by Henry Moseley.\n2. Mendeleev's periodic table arranged elements in his periodic table based on atomic masses.\n3. Henry Moseley proved that atomic number is a more fundamental property than atomic weight.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5681,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding valence electrons and atomic structure:\n1. Elements in the same group possess the same number of valence electrons.\n2. Magnesium has two electrons in its valence shell.\n3. Oxygen atom has six electrons in its valence shell.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5682,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Consider the following statements regarding quantum numbers and atomic models:\n1. Electron spin quantum number describes the direction of the electron's spin.\n2. Azimuthal quantum number is also known as orbital angular momentum or subsidiary quantum number.\n3. Bohr's model explains the stability of atoms, stating that electron orbits are stationary because electrons possess fixed energy.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5683,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "stem": "Match the following chemical groups, valence electron configurations, and families:<br><div class='match-container'><div class='match-col-left'>a) Group 16 elements (except Polonium)<br>b) Halogens<br>c) Noble gases (except Helium)<br>d) Metals</div><div class='match-col-right'>1. Eight electrons in outermost shell<br>2. Seven valence electrons<br>3. Chalcogen family (ore-forming family)<br>4. Elements with 1, 2, or 3 valence electrons</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-2, c-1, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=451"
+    },
+    {
+      "id": 5685,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding salts and their preparation/applications:<br>1. Acid salts are obtained by the partial neutralization of a polybasic acid by a base.<br>2. Basic salts are obtained by the partial replacement of hydroxyl ions of a di-acidic or tri-acidic base with an acid.<br>3. Blue vitriol (copper sulphate) is used as a fungicide for fruit trees.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5686,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding specific salts, their hydration, and industrial uses:<br>1. Gypsum is calcium sulfate dihydrate, used to reduce the setting rate of cement.<br>2. Washing soda is sodium carbonate decahydrate, used in soap, paper production, and for removing permanent hardness of water.<br>3. Sodium benzoate and sodium metabisulfite are used as food preservatives.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5687,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following acid/base classifications and concepts with their descriptions:<br><div class='match-container'><div class='match-col-left'>a) Diprotic acid<br>b) Diacidic base<br>c) Acid salts<br>d) Dilute bases</div><div class='match-col-right'>1. Formed when a metal displaces only a part of hydrogen atoms from an acid<br>2. Gives two hydrogen ions per molecule in aqueous solution (e.g., H2SO4)<br>3. Contain a low percentage of the base in water<br>4. Give two hydroxyl ions per molecule in water (e.g., Ca(OH)2)</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=534"
+    },
+    {
+      "id": 5688,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following compounds/substances with their descriptive classifications or specific industrial/environmental properties:<br><div class='match-container'><div class='match-col-left'>a) Baking powder<br>b) Sodium hydroxide<br>c) Sulfites<br>d) Aqua regia</div><div class='match-col-right'>1. Mixture of baking soda and tartaric acid<br>2. Used in the manufacture of soap<br>3. Used as food preservatives<br>4. Mixture of concentrated hydrochloric acid and nitric acid to dissolve noble metals</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=510"
+    },
+    {
+      "id": 5689,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following complex assertions regarding specific acids, salts, and chemical behaviors:<br>1. Hydrofluoric acid is not stored in glass bottles because it actively reacts with the silicates present in glass.<br>2. Dense white and yellow clouds of sulfuric acid are prominently found in the atmosphere of the planet Venus.<br>3. When sodium carbonate reacts with hydrochloric acid, it yields sodium chloride, carbon dioxide gas, and water.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5690,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following industrial/commercial chemical compounds with their common names or applications:<br><div class='match-container'><div class='match-col-left'>a) Zinc sulphate heptahydrate<br>b) Calcium sulfate dihydrate<br>c) Magnesium sulphate<br>d) Sodium carbonate decahydrate</div><div class='match-col-right'>1. Gypsum<br>2. White vitriol<br>3. Washing soda<br>4. Epsom salt</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=395"
+    },
+    {
+      "id": 5691,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following chemical compounds with their specific commercial uses or properties:<br><div class='match-container'><div class='match-col-left'>a) Sulfuric acid<br>b) Hydrochloric acid<br>c) Potassium nitrate<br>d) Sodium benzoate</div><div class='match-col-right'>1. Used as a cleaning agent in toilets<br>2. Used in car batteries (Oil of vitriol)<br>3. Used as a food preservative<br>4. Known as saltpetre, used in gunpowder</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=444"
+    },
+    {
+      "id": 5694,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding chemical properties, ionization, and reaction mechanisms of acids and bases:<br>1. In the absence of water, hydrogen ion cannot be separated from an acid.<br>2. When sodium carbonate reacts with hydrochloric acid, it produces sodium chloride, carbon dioxide, and water.<br>3. Reaction of metals with acids produces metal chloride and hydrogen gas, e.g., $\\text{Zn} + 2\\text{HCl} \\rightarrow \\text{ZnCl}_2 + \\text{H}_2$.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5695,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding neutralization and chemical reactions of acids:<br>1. Metal carbonates and metal bicarbonates react with acids to give salt, water, and carbon dioxide gas.<br>2. An acid neutralizes the properties of a base.<br>3. Neutralization reaction involves an acid and a base reacting to form salt and water.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5697,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following chemical reactions with their specific examples:<br><div class='match-container'><div class='match-col-left'>a) Metal reacting with acid<br>b) Magnesium reacting with sulfuric acid<br>c) Decomposition caused by light<br>d) Hydrogen sulfide reacting with bromine</div><div class='match-col-right'>1. Zn + 2HCl -> ZnCl2 + H2<br>2. Mg + H2SO4 -> MgSO4 + H2<br>3. Photochemical decomposition (sunlight)<br>4. H2S + Br2 -> 2HBr + S</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=458"
+    },
+    {
+      "id": 5698,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following natural acids with their correct primary sources:<br><div class='match-container'><div class='match-col-left'>a) Citric acid<br>b) Oxalic acid<br>c) Tartaric acid<br>d) Lactic acid</div><div class='match-col-right'>1. Curd<br>2. Lemons and oranges<br>3. Tomatoes and greens<br>4. Grapes and tamarind</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-3, c-4, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=331"
+    },
+    {
+      "id": 5699,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following industrial/commercial chemicals with their major uses:<br><div class='match-container'><div class='match-col-left'>a) Sodium hydroxide (Caustic soda)<br>b) Ammonium hydroxide<br>c) Potassium nitrate (Saltpetre)<br>d) Washing soda</div><div class='match-col-right'>1. Used in gunpowder and signal flares<br>2. Used in paper and textile industries<br>3. Used in glass, soap, paper industries and removing water hardness<br>4. Found in window cleaning liquids</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=488"
+    },
+    {
+      "id": 5700,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following chemical manufacturing or industrial application processes with their correct agents:<br><div class='match-container'><div class='match-col-left'>a) Manufacture of ammonium nitrate fertilizer<br>b) Softening hard water and soap production<br>c) Dissolving noble metals like gold and platinum<br>d) Providing relief from ant bites</div><div class='match-col-right'>1. Aqua Regia<br>2. Nitric acid<br>3. Calamine lotion (zinc carbonate)<br>4. Washing soda (Sodium carbonate decahydrate)</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=516"
+    },
+    {
+      "id": 5702,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding pH and its ecological or biological significance:<br>1. The pH of human saliva normally ranges from 6.5 to 7.5, and when human body pH drops to 5.5, cancer-causing cells find a favorable environment to survive.<br>2. Soil pH is critical for agriculture; citrus fruits grow well in alkaline soil, rice in acidic soil, and sugarcane in neutral soil.<br>3. The pH of healthy skin ranges from 4.5 to 6.0.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5703,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding the pH levels of various biological and commercial fluids:<br>1. The pH of healthy skin ranges from 4.5 to 6.0.<br>2. When human body pH drops to 6.9, the body becomes susceptible to cold, cough, and phlegm.<br>3. Tooth enamel gets corroded when the pH inside the mouth falls below 5.5.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5704,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding chemical acids and their characteristics:<br>1. Acetic acid is also known as ethanoic acid and contains four hydrogen atoms, of which all four are displaceable.<br>2. Hydrochloric acid is present in the stomach, helps in pepsin enzyme activity, and is also known as muriatic acid.<br>3. Vinegar contains acetic acid which is classified as a mono-basic acid.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5706,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following comprehensive statements on acids, bases, and neutralization chemistry:<br>1. Acids are defined as substances that have a sour taste and turn blue litmus red, whereas bases have a bitter taste, soapy touch, and a high pH.<br>2. The reaction between an acid and a base is known as a neutralization reaction, which produces salt and water.<br>3. The pH scale measures the strength of an acid or base based on hydrogen ion concentration, where household ammonia has a pH of 12.0.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5708,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following approximate pH values with their respective items/substances:<br><div class='match-container'><div class='match-col-left'>a) Lemon juice<br>b) Tomato juice<br>c) Coffee<br>d) Acid rain limit</div><div class='match-col-right'>1. 4.1<br>2. Less than 5.6<br>3. 2.2 to 2.4<br>4. 4.4 to 5.5</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=317"
+    },
+    {
+      "id": 5709,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements about common chemical compounds used in daily life and industry:<br>1. Bleaching powder releases chlorine gas on reacting with water and is primarily utilized for water purification via chlorination.<br>2. Ammonium hydroxide is a base found in window cleaning liquids and is effective for removing grease and oil stains from clothes.<br>3. Plaster of Paris is prepared from gypsum and becomes hard when mixed with water due to a hydration reaction.<br>Which of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5711,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following acids with their corresponding natural or common sources:<br><div class='match-container'><div class='match-col-left'>a) Citric acid<br>b) Oxalic acid<br>c) Tartaric acid<br>d) Butyric acid</div><div class='match-col-right'>1. Tomatoes and greens<br>2. Lemons and oranges<br>3. Rancid butter<br>4. Grapes and tamarind</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=349"
+    },
+    {
+      "id": 5712,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Baking soda<br>b) Washing soda<br>c) Plaster of Paris<br>d) Bleaching powder</div><div class='match-col-right'>1. Calcium oxychloride<br>2. Sodium hydrogen carbonate<br>3. Calcium sulfate hemihydrate<br>4. Sodium carbonate decahydrate</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=330"
+    },
+    {
+      "id": 5714,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding bases, their classifications, and properties:\n1. Bases are bitter in taste, turn red litmus blue, and feel soapy to touch.\n2. Monoacidic bases give two hydroxyl ions per molecule in water, whereas triacidic bases give three hydroxyl ions.\n3. Ammonium hydroxide is a weak base found in window cleaning liquids and ionizes only partially in water.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5715,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding water treatment, purification techniques, and chemical properties:\n1. Techniques to convert normal water into potable water include filtration, boiling, chlorination, ion exchange, and distillation.\n2. Bleaching powder is used to destroy bacteria in drinking water and to bleach cotton and linen fabrics.\n3. Water is a polar molecule and expands when it freezes, exhibiting unique hydrogen bonding characteristics.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only / 1 மற்றும் 2 மட்டும்"
+        ],
+        [
+          "B",
+          "2 and 3 only / 2 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "C",
+          "1 and 3 only / 1 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "D",
+          "1, 2 and 3 / 1, 2 மற்றும் 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5716,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following comprehensive analytical scenario regarding industrial base utilization, cosmetic humectants, and chemical reactions:\nDuring an industrial chemistry audit, a team of quality control inspectors evaluates multiple chemical compounds and their practical applications. The audit report highlights that sodium hydroxide is indispensable in the manufacture of soap and is produced via the electrolysis of brine. Additionally, glycerol is incorporated into moisturizing creams and soaps due to its exceptional humectant and water-absorbing properties. The audit also investigates the reaction of zinc with sodium hydroxide, which yields sodium zincate and hydrogen gas, as well as the reaction of calcium oxide with hydrochloric acid. Based on these audited findings, evaluate the following assertions:\n1. Sodium hydroxide is extensively utilized in the industrial manufacture of soap and is produced through the electrolytic decomposition of brine.\n2. Glycerol functions as an effective humectant in moisturizing creams and soaps because of its high water-absorbing capacity.\n3. The reaction of zinc with sodium hydroxide yields sodium chloride and water as its primary products without any gas formation.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5717,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Washing soda<br>b) Bleaching powder<br>c) Epsom salt<br>d) Potassium nitrate</div><div class='match-col-right'>1. Calcium oxychloride<br>2. Sodium carbonate decahydrate<br>3. Saltpetre used in gunpowder<br>4. Magnesium sulphate</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=323"
+    },
+    {
+      "id": 5718,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding the pH scale, biological implications, and soil acidity:\n1. When the human body pH drops to 6.9, the body becomes susceptible to cold, cough, and phlegm.\n2. The approximate pH value of healthy skin ranges from 4.5 to 6.0.\n3. Citrus fruits grow well in acidic soil, while rice crops thrive best in alkaline soil conditions.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5721,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Calcium hydroxide<br>b) Sodium carbonate<br>c) Copper sulphate<br>d) Magnesium sulphate</div><div class='match-col-right'>1. Blue vitriol used as fungicide<br>2. Used for whitewashing buildings<br>3. Epsom salt used in detox baths<br>4. Reacts with hydrochloric acid to produce sodium chloride</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=389"
+    },
+    {
+      "id": 5724,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following specific chemical substances or items with their exact occurrence or practical application context:<br><div class='match-container'><div class='match-col-left'>a) Curd<br>b) Window cleaning liquids<br>c) Rancid butter<br>d) Baking soda</div><div class='match-col-right'>1. Ammonium hydroxide<br>2. Sodium bicarbonate used as an antacid<br>3. Lactic acid<br>4. Butyric acid</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-3, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=404"
+    },
+    {
+      "id": 5725,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Monoprotic acid<br>b) Acid salt formation<br>c) Basic salt<br>d) Double salt</div><div class='match-col-right'>1. Formed when a metal displaces only a part of hydrogen atoms from an acid<br>2. Gives one hydrogen ion per molecule in aqueous solution (e.g., HCl)<br>3. Potash alum crystallized from equimolar simple salts<br>4. Further reacts with an acid to form a normal salt</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=471"
+    },
+    {
+      "id": 5726,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding mineral compounds and salts:\n1. Minerals are compounds obtained from inanimate sources like rocks and ores, such as limestone, salt, and washing soda.\n2. Magnesium hydroxide is widely used as milk of magnesia serving as an effective antacid.\n3. Potassium nitrate, known as saltpetre, is utilized in gunpowder and signal flares.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only / 1 மற்றும் 2 மட்டும்"
+        ],
+        [
+          "B",
+          "2 and 3 only / 2 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "C",
+          "1 and 3 only / 1 மற்றும் 3 మాత్రం"
+        ],
+        [
+          "D",
+          "1, 2 and 3 / 1, 2 மற்றும் 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5727,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following common chemical substances and biological items with their approximate or specific pH values:<br><div class='match-container'><div class='match-col-left'>a) Human saliva<br>b) Tomato juice<br>c) Healthy skin<br>d) Acid rain limit</div><div class='match-col-right'>1. 4.1<br>2. 6.5 to 7.5<br>3. Less than 5.6<br>4. 4.5 to 6.0</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=356"
+    },
+    {
+      "id": 5729,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding bases, indicators, and their characteristics:\n1. Bases have a bitter taste and a soapy touch.\n2. Examples of bases include washing soda, caustic soda, and caustic potash.\n3. Bases turn phenolphthalein pink and methyl orange yellow.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only / 1 மட்டும்"
+        ],
+        [
+          "B",
+          "1 and 2 only / 1 மற்றும் 2 மட்டும்"
+        ],
+        [
+          "C",
+          "2 and 3 only / 2 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "D",
+          "1, 2 and 3 / 1, 2 மற்றும் 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5731,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding the characteristics of acids and their classification:\n1. Acids are defined as substances that have a sour taste and turn blue litmus red.\n2. Organic acids are found in plants and animals and are generally weak acids like acetic acid.\n3. Strong acids produce high concentrations of H+ ions, whereas weak acids ionize only completely in water.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5733,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Sodium benzoate<br>b) Sodium hydroxide<br>c) Magnesium hydroxide<br>d) Carbon dioxide</div><div class='match-col-right'>1. Milk of magnesia antacid<br>2. Preserves food items<br>3. Used in baking powder and soft drinks<br>4. Reacts with CO2 to form sodium carbonate</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=361"
+    },
+    {
+      "id": 5735,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following complex chemical scenario involving acid-base titration, neutralization reactions, and salt chemistry:\nA physical chemistry researcher is conducting an extensive experiment on neutralization reactions and the behavior of various chemical species. The researcher observes that when sodium carbonate reacts with hydrochloric acid, it releases carbon dioxide gas alongside sodium chloride and water. Furthermore, the researcher notes that calcium oxide (a basic oxide) reacts with hydrochloric acid to form calcium chloride and water without gas evolution. The researcher also examines organic acids, noting that they are generally weak acids found in living organisms such as acetic acid in vinegar and formic acid in ant stings. Based on this experimental framework, evaluate the following statements:\n1. The reaction between sodium carbonate and hydrochloric acid produces sodium chloride, carbon dioxide gas, and water.\n2. Calcium oxide reacts with hydrochloric acid according to the balanced stoichiometric equation: CaO + 2HCl -> CaCl2 + H2O.\n3. Organic acids are strong mineral acids that undergo complete dissociation in aqueous solutions to yield high concentrations of hydrogen ions.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5736,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements about industrial chemicals and their specific applications:\n1. Nitric acid is used to manufacture ammonium nitrate fertilizer.\n2. Sulfuric acid is known as the 'King of Chemicals' and is used in storage batteries and various industrial compounds.\n3. Blue vitriol (copper sulphate) is effectively used as a fungicide for fruit trees.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only / 1 மட்டும்"
+        ],
+        [
+          "B",
+          "1 and 2 only / 1 மற்றும் 2 மட்டும்"
+        ],
+        [
+          "C",
+          "2 and 3 only / 2 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "D",
+          "1, 2 and 3 / 1, 2 மற்றும் 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5737,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following advanced environmental and biochemical scenario regarding pH balance, systemic health, and agricultural soil chemistry:\nA public health specialist and an agricultural scientist are collaborating on a regional study examining the physiological effects of pH variations and soil requirements for crops. The specialist notes that when the human body pH drops to 6.9, the body becomes susceptible to cold, cough, and phlegm due to compromised immune defenses. Simultaneously, the agricultural scientist evaluates soil pH requirements, noting that citrus fruits grow well in alkaline soil, rice grows well in acidic soil, and sugarcane grows well in neutral soil. Based on this collaborative research, evaluate the following statements:\n1. A reduction in the human body pH level down to 6.9 makes the individual particularly susceptible to cold, cough, and phlegm.\n2. Soil pH plays a critical role in agriculture, where citrus fruits thrive in alkaline soil, rice in acidic soil, and sugarcane in neutral soil.\n3. The approximate pH value of tomato juice is strictly 9.5, rendering it strongly alkaline in biological systems.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5738,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding various types of chemical salts and their reactions:\n1. Calcium oxide reacts with hydrochloric acid to form calcium chloride and water: CaO + 2HCl -> CaCl2 + H2O.\n2. When sodium carbonate reacts with hydrochloric acid, it produces sodium chloride, carbon dioxide, and water.\n3. Zinc reacts with sodium hydroxide to produce sodium chloride and hydrogen gas.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5740,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding the biological and chemical significance of pH and body fluids:\n1. The approximate pH value of human saliva is 6.5 to 7.5.\n2. When human body pH is at 5.5, cancer-causing cells find a favorable environment to survive.\n3. Toothpastes are generally basic in nature, so they neutralize excess acid and prevent tooth decay.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only / 1 மற்றும் 2 மட்டும்"
+        ],
+        [
+          "B",
+          "2 and 3 only / 2 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "C",
+          "1 and 3 only / 1 மற்றும் 3 மட்டும்"
+        ],
+        [
+          "D",
+          "1, 2 and 3 / 1, 2 மற்றும் 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5741,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Match the following industrial and household chemical substances with their respective descriptions or common applications:<br><div class='match-container'><div class='match-col-left'>a) Sodium hydroxide<br>b) Glycerol<br>c) Sulfuric acid<br>d) Hydrochloric acid</div><div class='match-col-right'>1. Known as muriatic acid and aids in pepsin enzyme activity<br>2. Known as the 'King of Chemicals' and used in storage batteries<br>3. Used in the manufacture of soap and produced by electrolysis of brine<br>4. Used in moisturizing creams due to its water-absorbing humectant properties</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-4, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=596"
+    },
+    {
+      "id": 5742,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following statements regarding the behavior of acids in water and specific chemical compounds:\n1. An acid reacts with water to produce hydrogen ions, which combine with water molecules to form hydronium ions.\n2. Hydrofluoric acid is a weak mineral acid that is completely incapable of dissolving glass under any condition.\n3. Acetic acid (ethanoic acid) is an organic acid found in vinegar and ionizes only partially in aqueous solutions.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5743,
+      "topic": "Acids, Bases, and Salts",
+      "stem": "Consider the following intricate scenario describing the physiological and chemical properties of biological fluids and laboratory acids:\nA researcher investigates the impact of pH fluctuations on human health and studies the comparative properties of various organic and mineral acids. The researcher notes that human saliva maintains a neutral-to-slightly-acidic pH range, while a drop in overall body pH to 6.9 leads to increased susceptibility to common ailments like cold, cough, and phlegm. In the laboratory, the researcher compares hydrochloric acid (found in the stomach and essential for pepsin enzyme activation) with organic acids like acetic acid found in vinegar. Additionally, the researcher observes that the reaction of active metals with acids consistently yields metal chloride and hydrogen gas, exemplified by the reaction of zinc with hydrochloric acid. Based on this investigative context, evaluate the following statements:\n1. A drop in the human body pH to 6.9 creates an internal environment where the body becomes susceptible to cold, cough, and phlegm.\n2. Hydrochloric acid, also known as muriatic acid, is present in the human stomach where it plays a critical role in facilitating pepsin enzyme activity.\n3. The reaction of zinc metal with hydrochloric acid produces zinc chloride and sulfur dioxide gas as the primary reaction products.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5744,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding green manures and farmyard manure:<br>1. Green manure is formed by cultivating a crop and ploughing it back into the soil, primarily to add nitrogen at a low cost.<br>2. Kolunji is recognized as best suited for paddy fields as a green manure.<br>3. Well-decomposed farmyard manure contains exactly 2.0% nitrogen, 1.5% potassium oxide, and 1.0% phosphorus pentoxide.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5745,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following biological and chemical entities with their precise agricultural or industrial classifications:<br><div class='match-container'><div class='match-col-left'>a) Azospirillum<br>b) Carbofuran<br>c) Kolunji<br>d) Calcium ammonium nitrate</div><div class='match-col-right'>1. Used as a nematicide<br>2. Component of bio-fertilizers (microbial mixture)<br>3. Slow-release nitrogen fertilizer<br>4. Best suited as a green manure for paddy fields</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=470"
+    },
+    {
+      "id": 5746,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Nitrogenous fertilizers<br>b) Triple phosphate<br>c) Saltpetre<br>d) Gypsum in cement</div><div class='match-col-right'>1. Potassium nitrate used in gunpowder<br>2. Excellent fertilizer<br>3. Reduces the setting rate<br>4. Supply nitrogen and increase yield</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=353"
+    },
+    {
+      "id": 5747,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding bio-fertilizers:\n1. Bio-fertilizers help increase the production of cereal crops like paddy, wheat, and barley.\n2. Bio-fertilizers are microbial mixtures prepared from bacterial cells, Azospirillum, fungi, and blue-green algae.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5748,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following comprehensive assertions regarding fertilizers, manure nutrient percentages, and soil amendment:<br>1. Well-decomposed farmyard manure contains exactly 0.5% nitrogen, 0.5% potassium oxide, and 0.2% phosphorus pentoxide.<br>2. Chemical fertilizers are required because natural fertilizers inherently contain insufficient nutrients to sustain high-yield modern agriculture.<br>3. Bio-fertilizers are known to increase the protein content of plants in addition to enhancing soil fertility.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5749,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding green manures and biological soil enhancements:<br>1. Examples of green manure crops include Avarai, Erukku, Pungam, Thakkapoondu, Seemai Agathi, Avari, and Pillippayaru.<br>2. Green manure is formed by cultivating a crop and ploughing it back into the soil to add nitrogen at an expensive commercial rate.<br>3. Kolunji is recognized as best suited for paddy fields as a green manure.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "1 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5751,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding the characteristics and composition of bio-fertilizers:<br>1. Bio-fertilizers are inexpensive and do not pollute the environment.<br>2. They are prepared exclusively from chemical extracts and synthetic resins.<br>3. They help increase the production of cereal crops like paddy, wheat, and barley.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 3 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5752,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding agricultural pests and their management:\n1. Oryctes rhinoceros is a coconut pest that acts primarily as a leaf feeder.\n2. Synthetic chemical pesticides such as hexachlorocyclohexane are widely utilized in pest management.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5753,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Paraffin wax<br>b) Gaseous fuels<br>c) Bituminous coal<br>d) Synthesis gas (Syngas)</div><div class='match-col-right'>1. Most popular coal for commercial use<br>2. Mixture of carbon monoxide and hydrogen<br>3. Used in candles and cosmetics<br>4. Hydrogen, LPG, coal gas</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "C",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=365"
+    },
+    {
+      "id": 5754,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following:<br><div class='match-container'><div class='match-col-left'>a) Power alcohol<br>b) Syngas<br>c) LPG<br>d) Fuel gas</div><div class='match-col-right'>1. Mixture of carbon monoxide and hydrogen<br>2. Mixture of petrol and ethyl alcohol<br>3. Composed of propane and butane<br>4. Contains phosphene, butane, propylene</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=347"
+    },
+    {
+      "id": 5756,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding fertilizer types and characteristics:\n1. Potassium fertilizers such as potassium chloride and potassium sulphate are obtained primarily by mining from the earth.\n2. Natural fertilizers provide high amounts of organic nutrients to plants, whereas chemical fertilizers are required because natural fertilizers contain insufficient total nutrient concentrations.\n3. Nitrogenous fertilizers specifically supply nitrogen to the soil and directly increase crop yield.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5757,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following industrial fuels and coal grades:<br><div class='match-container'><div class='match-col-left'>a) Lignite<br>b) Anthracite<br>c) Synthesis gas (Syngas)<br>d) Gaseous fuels</div><div class='match-col-right'>1. Highest grade coal<br>2. Low-grade brown coal<br>3. Hydrogen, LPG, coal gas<br>4. Mixture of carbon monoxide and hydrogen</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=361"
+    },
+    {
+      "id": 5759,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding petroleum additives and fuels:\n1. Ethylene dibromide is added to petrol as an additive, specifically to remove lead oxide.\n2. Power alcohol is a mixture of petrol and ethyl alcohol.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5760,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural additives and their specific applications:<br><div class='match-container'><div class='match-col-left'>a) Dicalcium phosphate<br>b) Zinc phosphate<br>c) Carbofuran<br>d) Sodium benzoate</div><div class='match-col-right'>1. Used as a rodenticide<br>2. Increases crop yield and suitable for all crops<br>3. Used as a food preservative and in dressings<br>4. Used as a nematicide</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-1, c-2, d-4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=421"
+    },
+    {
+      "id": 5761,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding the composition and preparation of farmyard manure and bio-fertilizers:<br>1. Farmyard manure consists of a mixture of cattle waste, dung, and urine.<br>2. Bio-fertilizers are microbial mixtures prepared from bacterial cells, Azospirillum, fungi, and blue-green algae.<br>3. Well-decomposed farmyard manure contains high levels of concentrated chemical nitrates exceeding 5% by weight.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "1 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5762,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements about pest management and biopesticides:<br>1. Biopesticides are formulated from mixtures of virus, bacteria, or fungal cells to kill pests.<br>2. Oryctes rhinoceros is a well-known sugarcane pest that acts as a stem borer.<br>3. Hexachlorocyclohexane is utilized as a synthetic chemical pesticide.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 3 only"
+        ],
+        [
+          "B",
+          "1 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5764,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding green manures and biological nitrogen fixers:\n1. Green manure crops are cultivated and subsequently ploughed back into the soil with the primary aim of adding nitrogen at a low economic cost.\n2. Biological nitrogen fixers include diverse prokaryotic and eukaryotic microorganisms such as Rhizobium, Azotobacter, Blue-Green Algae, Anabaena, and Oscillatoria.\n3. Examples of green manure crops traditionally utilized in agronomy include Avarai, Erukku, Pungam, Thakkapoondu, Seemai Agathi, and Pillippayaru.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5765,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding nitrogen-fixing agents and potassium fertilizers:\n1. Nitrogen-fixing bacteria and organisms include Rhizobium, Azotobacter, Blue-Green Algae, Anabaena, and Oscillatoria.\n2. Potassium chloride and potassium sulphate are potassium fertilizers obtained by mining from the earth.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5767,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding green manures:\n1. Green manure is formed by cultivating a crop and ploughing it back into the soil, aiming to add nitrogen at a low cost.\n2. Examples of green manure crops include Avarai, Erukku, Pungam, Thakkapoondu, Seemai Agathi, Avari, and Pillippayaru.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5768,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Analyze the industrial and agricultural chemical applications below:<br>1. Ethylene dibromide is added to petrol to scavenge lead oxides.<br>2. Sodium benzoate acts as a food preservative and is used in dressings along with potassium metabisulfite.<br>3. Hexachlorocyclohexane operates as a biological nitrogen-fixing inoculant.<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "1 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5769,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural inputs and their biological/chemical entities:<br><div class='match-container'><div class='match-col-left'>a) Nematicides<br>b) Rodenticides<br>c) Nitrogen-fixing bacteria<br>d) Synthetic chemical pesticide</div><div class='match-col-right'>1. Zinc phosphide and Thallium sulphate<br>2. Carbofuran and Parathion<br>3. Hexachlorocyclohexane<br>4. Rhizobium and Azotobacter</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=416"
+    },
+    {
+      "id": 5770,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding synthetic and natural fertilizers:\n1. Natural fertilizers provide high amounts of organic nutrients to plants.\n2. Chemical fertilizers are required because natural fertilizers contain insufficient nutrients.\n3. Well-decomposed farmyard manure typically contains 0.5% nitrogen, 0.5% potassium oxide, and 0.2% phosphorus pentoxide.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5772,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Analyze the following statements regarding the specific insect pests of agricultural crops in Tamil Nadu:<br>1. The sugarcane pest is Colletotrichum falcatum acting as a stem borer.<br>2. The coconut pest is Oryctes rhinoceros functioning as a leaf feeder.<br>3. Paddy pests include Colletotrichum falcatum (stem borer) and Marasmius perniciosus (leaf borer).<br>Which of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5773,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following chemical preservatives and fuel compositions to their exact constituents or chemical natures:<br><div class='match-container'><div class='match-col-left'>a) LPG<br>b) Power alcohol<br>c) Syngas<br>d) Preservatives mixture</div><div class='match-col-right'>1. Mixture of petrol and ethyl alcohol<br>2. Composed of propane and butane<br>3. Sodium benzoate, potassium metabisulfite, calcium propionate, potassium sorbate<br>4. Mixture of carbon monoxide and hydrogen</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=495"
+    },
+    {
+      "id": 5774,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding chemical fertilizers and their agricultural necessity: \n1. Chemical fertilizers are required because natural fertilizers contain insufficient nutrients. \n2. Natural fertilizers provide high amounts of organic nutrients to plants, but lack the concentrated mineral profile supplied by chemical counterparts. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5775,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding LPG odorants and safety: \n1. Ethyl mercaptan is added to LPG as an odorant for leak detection due to its foul smell. \n2. Ethyl mercaptan serves as the primary combustible hydrocarbon fuel component within liquefied petroleum gas cylinders. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5776,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following biological and chemical entities with their precise agricultural or industrial applications:<br><div class='match-container'><div class='match-col-left'>a) Glomus and Gigaspora<br>b) Ethyl mercaptan<br>c) Copper oxychloride<br>d) Sodium benzoate</div><div class='match-col-right'>1. nutrient absorbing fungi<br>2. foul-smelling odorant added to LPG for leak detection<br>3. used as a fungicide<br>4. food preservative and additive for dressings</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=476"
+    },
+    {
+      "id": 5777,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding the benefits and environmental impacts of agricultural bio-fertilizers: \n1. Bio-fertilizers are known to pollute the environment heavily due to their microbial residues. \n2. Bio-fertilizers help agricultural crops absorb phosphate salts in large quantities. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5778,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural protectants and chemical preservation agents:<br><div class='match-container'><div class='match-col-left'>a) Poly-octane gel<br>b) Ethyl mercaptan<br>c) Sodium benzoate<br>d) Copper oxychloride</div><div class='match-col-right'>1. protects agricultural crops from toxic pesticides<br>2. foul-smelling odorant added to LPG for leak detection<br>3. popular food preservative used in dressings and beverages<br>4. used as a fungicide along with Bordeaux mixture</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=503"
+    },
+    {
+      "id": 5779,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding bio-fertilizers and soil health:\n1. Bio-fertilizers help agricultural crops absorb phosphate salts in large quantities.\n2. Soil microbes convert water-insoluble inorganic substances into soluble organic substances.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5780,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agrochemicals and food preservation compounds to their precise functions:<br><div class='match-container'><div class='match-col-left'>a) Diphenclorolin and Atrazine<br>b) Carbofuran and Parathion<br>c) Sodium benzoate<br>d) Copper oxychloride</div><div class='match-col-right'>1. used as weedicides (herbicides)<br>2. used as nematicides<br>3. popular food additive and preservative for dressings<br>4. used as a fungicide</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=454"
+    },
+    {
+      "id": 5781,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following specialized agricultural and biological inputs:<br><div class='match-container'><div class='match-col-left'>a) Glomus and Gigaspora<br>b) Diphenclorolin and Atrazine<br>c) Carbofuran and Parathion<br>d) Sodium benzoate</div><div class='match-col-right'>1. nutrient absorbing fungi<br>2. used as weedicides (herbicides)<br>3. used as nematicides<br>4. popular food preservative used in dressings</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=426"
+    },
+    {
+      "id": 5782,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural inputs, chemical compounds, and pest management agents with their correct descriptions:<br><div class='match-container'><div class='match-col-left'>a) Bacillus circulans<br>b) Heliothis armigera<br>c) Hexachlorocyclohexane<br>d) Ethyl mercaptan</div><div class='match-col-right'>1. Synthetic chemical pesticide<br>2. Odorant added to LPG for leak detection<br>3. Phosphate solubilizing bacteria<br>4. Tomato pest that attacks flowers, buds, and fruits</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=496"
+    },
+    {
+      "id": 5783,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural and industrial chemical entities with their precise definitions and roles:<br><div class='match-container'><div class='match-col-left'>a) Bio-fertilizers<br>b) Natural fertilizers<br>c) Chemical fertilizers<br>d) Ethyl mercaptan</div><div class='match-col-right'>1. Provide high amounts of organic nutrients to plants<br>2. Do not pollute the environment<br>3. Required because natural fertilizers contain insufficient nutrients<br>4. Foul-smelling compound added to LPG for leak detection</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=534"
+    },
+    {
+      "id": 5784,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding the composition and benefits of bio-fertilizers:\n1. Bio-fertilizers are inexpensive and prevent water pollution from chemical fertilizer runoff.\n2. They are exclusively prepared from bacterial cells, Azospirillum, fungi, and blue-green algae.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5785,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding agricultural inputs and soil microbial roles:\n1. Soil microbes are responsible for converting water-insoluble inorganic substances into soluble organic substances.\n2. Bio-fertilizers are inexpensive, prevent water pollution from chemical fertilizer wash-off, and help crops absorb phosphate salts in large quantities.\n3. Nutrient absorbing fungi include Azospirillum and blue-green algae.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5786,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural nutrients, pest organisms, and chemical protectants with their precise functions:<br><div class='match-container'><div class='match-col-left'>a) Natural fertilizers<br>b) Chemical fertilizers<br>c) Bio-fertilizers<br>d) Poly-octane gel</div><div class='match-col-right'>1. Required because natural fertilizers contain insufficient nutrients<br>2. Provide high amounts of organic nutrients to plants<br>3. Used to protect farmers from toxic pesticides<br>4. Do not pollute the environment and help absorb phosphate salts</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=564"
+    },
+    {
+      "id": 5787,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following organic waste sources, fertilizer additives, and chemical crop protectants with their specific applications:<br><div class='match-container'><div class='match-col-left'>a) Compost<br>b) Dicalcium phosphate<br>c) Poly-octane gel<br>d) Paraffin wax</div><div class='match-col-right'>1. Used in candles and cosmetics<br>2. Rich in organic nutrients from vegetables, animal wastes, and garbage<br>3. Increases crop yield and suitable for all crops<br>4. Used to protect farmers from toxic pesticides</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-3, c-4, d-1"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=527"
+    },
+    {
+      "id": 5788,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding agricultural microorganisms and crop health: \n1. Phosphate solubilizing bacteria such as Bacillus circulans help agricultural crops absorb phosphate salts in large quantities. \n2. Bio-fertilizers are known to decrease the overall protein content of plants while enhancing soil nitrogen. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5789,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding phosphate fertilizers and crop nutrition: \n1. Dicalcium phosphate increases crop yield and is suitable for all crops. \n2. Dicalcium phosphate is primarily utilized as an industrial hardening agent for rubber vulcanization rather than an agricultural fertilizer. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5791,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding pesticide safety and protective equipment: \n1. Poly-octane gel is used to protect farmers from toxic pesticides. \n2. Poly-octane gel acts as a systemic chemical pesticide applied directly to crops to eradicate bollworms. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5792,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural inputs and soil amendments with their precise classifications and uses:<br><div class='match-container'><div class='match-col-left'>a) Bacillus circulans<br>b) Hexachlorocyclohexane<br>c) Heliothis armigera<br>d) Ethyl mercaptan</div><div class='match-col-right'>1. Synthetic chemical pesticide<br>2. Odorant added to LPG for leak detection<br>3. Phosphate solubilizing bacteria<br>4. Tomato pest attacking flowers and fruits</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-3, b-1, c-4, d-2"
+        ],
+        [
+          "B",
+          "a-1, b-3, c-2, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-2, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=470"
+    },
+    {
+      "id": 5793,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding soil chemistry and agricultural microbiology:\n1. Bio-fertilizers help agricultural crops absorb phosphate salts in large quantities and prevent water pollution from chemical fertilizer runoff.\n2. Soil microbes convert water-insoluble inorganic substances into soluble organic substances.\n3. Nutrient absorbing fungi specifically include Glomus and Gigaspora.\nWhich of the statements given above are correct?",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2, and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5794,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural pests, fertilizers, and petroleum products with their precise characteristics:<br><div class='match-container'><div class='match-col-left'>a) Heliothis armigera<br>b) Bacillus circulans<br>c) Paraffin wax<br>d) Hexachlorocyclohexane</div><div class='match-col-right'>1. Phosphate solubilizing bacteria<br>2. Tomato pest attacking flowers, buds, and fruits<br>3. Synthetic chemical pesticide<br>4. Used in candles and cosmetics</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=471"
+    },
+    {
+      "id": 5795,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural entities and chemical agents to their characteristics:<br><div class='match-container'><div class='match-col-left'>a) Glomus and Gigaspora<br>b) Poly-octane gel<br>c) Copper oxychloride<br>d) Diphenclorolin</div><div class='match-col-right'>1. nutrient absorbing fungi<br>2. protects agricultural crops from toxic pesticides<br>3. used as a fungicide<br>4. used as a weedicide (herbicide)</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=433"
+    },
+    {
+      "id": 5796,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding synthetic pesticides and organic compounds: \n1. Hexachlorocyclohexane is used as a synthetic chemical pesticide. \n2. Hexachlorocyclohexane is a naturally occurring plant hormone that promotes lateral root elongation in legumes. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5797,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding compost composition and organic waste: \n1. Compost is rich in organic nutrients and is obtained from vegetables, animal wastes, garbage, weeds, and crop straw. \n2. Compost is synthesized exclusively through the high-temperature fractional distillation of petroleum tar. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5798,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following agricultural and chemical inputs to their accurate functional categories:<br><div class='match-container'><div class='match-col-left'>a) Diphenclorolin and Atrazine<br>b) Carbofuran and Parathion<br>c) Bio-fertilizers<br>d) Poly-octane gel</div><div class='match-col-right'>1. used as weedicides (herbicides)<br>2. used as nematicides<br>3. prevent water pollution caused by chemical fertilizers washing into rivers<br>4. protect agricultural crops from toxic pesticides</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=502"
+    },
+    {
+      "id": 5800,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding pest control and chemical protections:\n1. Carbofuran and Parathion are specialized chemicals used as nematicides.\n2. Poly-octane gel is utilized to protect agricultural crops from toxic pesticides.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5801,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Match the following petroleum fractions, fertilizer compounds, and agricultural agents with their exact descriptions:<br><div class='match-container'><div class='match-col-left'>a) Dicalcium phosphate<br>b) Poly-octane gel<br>c) Compost<br>d) Paraffin wax</div><div class='match-col-right'>1. Used to protect farmers from toxic pesticides<br>2. Rich in organic nutrients from vegetable and animal wastes<br>3. Used in candles and cosmetics<br>4. Increases crop yield and suitable for all crops</div></div>",
+      "opts": [
+        [
+          "A",
+          "a-4, b-1, c-2, d-3"
+        ],
+        [
+          "B",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "C",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=505"
+    },
+    {
+      "id": 5802,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding agricultural pest controls and biological agents:\n1. Rhinoceros beetle can be controlled by viral diseases.\n2. Biopesticides are formulated from mixtures of virus, bacteria, or fungal cells to kill pests.\nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5803,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "stem": "Consider the following statements regarding crop pests and their targets: \n1. The tomato pest is Heliothis armigera, which attacks flowers, buds, and fruits. \n2. Heliothis armigera is exclusively a root-feeding pest that causes subterranean damage to Solanaceae crops. \nWhich of the statements given above is/are correct?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=1"
+    },
+    {
+      "id": 5831,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "The phenomenon of splitting of spectral lines in an electric field is",
+      "opts": [
+        [
+          "A",
+          "Zeeman effect"
+        ],
+        [
+          "B",
+          "Stark effect"
+        ],
+        [
+          "C",
+          "Compton effect"
+        ],
+        [
+          "D",
+          "Stark effect"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 5839,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "The orbital angular momentum value for a d-electron is",
+      "opts": [
+        [
+          "A",
+          "(\\sqrt{2}h)/(2\\pi)"
+        ],
+        [
+          "B",
+          "(\\sqrt{2}h)/(2\\pi)"
+        ],
+        [
+          "C",
+          "(\\sqrt{2\\times 4}h)/(2\\pi)"
+        ],
+        [
+          "D",
+          "(\\sqrt{6}h)/(2\\pi)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 5844,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Consider the following sets of quantum numbers. Which of the following set of quantum numbers is not possible?",
+      "opts": [
+        [
+          "A",
+          "(i), (ii), (iii) and (iv)"
+        ],
+        [
+          "B",
+          "(ii), (iv) and (v)"
+        ],
+        [
+          "C",
+          "(i) and (iii)"
+        ],
+        [
+          "D",
+          "(ii), (iii) and (iv)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=0"
+    },
+    {
+      "id": 5866,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Water gas is",
+      "opts": [
+        [
+          "A",
+          "H2O(g)"
+        ],
+        [
+          "B",
+          "CO+H2O"
+        ],
+        [
+          "C",
+          "CO+H2"
+        ],
+        [
+          "D",
+          "CO+N2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5884,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Water is",
+      "opts": [
+        [
+          "A",
+          "basic oxide"
+        ],
+        [
+          "B",
+          "acidic oxide"
+        ],
+        [
+          "C",
+          "amphoteric oxide"
+        ],
+        [
+          "D",
+          "none of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "stem_too_short"
+    },
+    {
+      "id": 5931,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Which of the following graphs correctly represents the properties of an ideal gas at constant weight?",
+      "opts": [
+        [
+          "A",
+          "Graph of P vs V (decreasing curve)"
+        ],
+        [
+          "B",
+          "Graph of PV vs V (horizontal straight line)"
+        ],
+        [
+          "C",
+          "Graph of V vs T (linear straight line passing through origin)"
+        ],
+        [
+          "D",
+          "All of the above"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "missing_figure"
+    },
+    {
+      "id": 5944,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Entropy change of the universe in a reversible process is.",
+      "opts": [
+        [
+          "A",
+          "> 0"
+        ],
+        [
+          "B",
+          "> 0"
+        ],
+        [
+          "C",
+          "< 0"
+        ],
+        [
+          "D",
+          "= 0"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 5985,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Match the equilibria with their corresponding conditions: i) liquid ⇌ gas, ii) solid ⇌ liquid, iii) solid ⇌ gas, iv) solute(s) ⇌ solute(solution). 1. Melting point, 2. Concentrated solution, 3. Boiling point, 4. Sublimation, 5. Unsaturated solution.",
+      "opts": [
+        [
+          "A",
+          "(i)-1, (ii)-2, (iii)-3, (iv)-4"
+        ],
+        [
+          "B",
+          "(i)-3, (ii)-1, (iii)-4, (iv)-2"
+        ],
+        [
+          "C",
+          "(i)-2, (ii)-1, (iii)-3, (iv)-4"
+        ],
+        [
+          "D",
+          "(i)-3, (ii)-2, (iii)-4, (iv)-5"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=4 trunc=False len=249"
+    },
+    {
+      "id": 6042,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Choose the compound that contains only one pi (π) bond.",
+      "opts": [
+        [
+          "A",
+          "CH3-CH=CH-CH3"
+        ],
+        [
+          "B",
+          "Other options not shown"
+        ],
+        [
+          "C",
+          "Other options not shown"
+        ],
+        [
+          "D",
+          "Other options not shown"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 6050,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "General formula for alkadiynes is:",
+      "opts": [
+        [
+          "A",
+          "CnH2n"
+        ],
+        [
+          "B",
+          "CnH2n-1"
+        ],
+        [
+          "C",
+          "CnH2n-2"
+        ],
+        [
+          "D",
+          "CnH2n-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 6052,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Which of the following does not match with its correct name?",
+      "opts": [
+        [
+          "A",
+          "3-methyl-3-hexanone"
+        ],
+        [
+          "B",
+          "Other options"
+        ],
+        [
+          "C",
+          "Other options"
+        ],
+        [
+          "D",
+          "Other options"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 6094,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "5. In the following reaction, the major product obtained in greater amount is: [reaction diagram shown with methylcyclopentane and Br2/hv]",
+      "opts": [
+        [
+          "A",
+          "Cyclopentylmethyl bromide (CH2-Br attached to ring)"
+        ],
+        [
+          "B",
+          "1-bromo-1-methylcyclopentane"
+        ],
+        [
+          "C",
+          "1-bromo-2-methylcyclopentane"
+        ],
+        [
+          "D",
+          "1-bromo-3-methylcyclopentane"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "missing_figure"
+    },
+    {
+      "id": 6102,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "The IUPAC name of the following compound is: [Structure showing C=C with Cl and CH3 on one carbon, and I and H3C on the other]",
+      "opts": [
+        [
+          "A",
+          "trans-2-chloro-3-iodo-2-pentene"
+        ],
+        [
+          "B",
+          "cis-3-iodo-4-chloro-3-pentene"
+        ],
+        [
+          "C",
+          "trans-3-iodo-4-chloro-3-pentene"
+        ],
+        [
+          "D",
+          "cis-2-chloro-3-iodo-2-pentene"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=126"
+    },
+    {
+      "id": 6145,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Match List 1 with List 2 and select the correct answer using the codes given below:\nList-1:\nA. Ozone layer depletion\nB. Acid rain\nC. Photochemical smog\nD. Greenhouse effect\nList-2:\n1. CO2\n2. NO\n3. SO2\n4. CFC",
+      "opts": [
+        [
+          "A",
+          "A-3, B-4, C-1, D-2"
+        ],
+        [
+          "B",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-4, B-3, C-2, D-1"
+        ],
+        [
+          "D",
+          "A-2, B-4, C-1, D-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=4 side_b=0 trunc=False len=207"
+    },
+    {
+      "id": 6146,
+      "topic": "11th Chemistry - Book back Questions",
+      "stem": "Match List 1 with List 2 and select the correct answer using the codes given below:\nList-1:\nA. Asbestos\nB. Biomagnification\nC. Global warming\nD. Combination with hemoglobin\nList-2:\n1. CO\n2. Greenhouse gases\n3. Acid rain\n4. DDT",
+      "opts": [
+        [
+          "A",
+          "A-1, B-2, C-3, D-4"
+        ],
+        [
+          "B",
+          "A-3, B-4, C-2, D-1"
+        ],
+        [
+          "C",
+          "A-2, B-3, C-4, D-1"
+        ],
+        [
+          "D",
+          "A-4, B-2, C-1, D-3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=4 side_b=0 trunc=False len=226"
+    },
+    {
+      "id": 6162,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match Column-I with Column-II and select the correct answer:",
+      "opts": [
+        [
+          "A",
+          "(A) -> (ii), (B) -> (iii), (C) -> (v), (D) -> (i)"
+        ],
+        [
+          "B",
+          "(A) -> (iii), (B) -> (iv), (C) -> (v), (D) -> (i)"
+        ],
+        [
+          "C",
+          "(A) -> (iv), (B) -> (ii), (C) -> (iii), (D) -> (i)"
+        ],
+        [
+          "D",
+          "(A) -> (ii), (B) -> (iii), (C) -> (i), (D) -> (v)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=True len=60"
+    },
+    {
+      "id": 6162,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match Column-I with Column-II and select the correct answer:",
+      "opts": [
+        [
+          "A",
+          "(A) -> (ii), (B) -> (iii), (C) -> (v), (D) -> (i)"
+        ],
+        [
+          "B",
+          "(A) -> (iii), (B) -> (iv), (C) -> (v), (D) -> (i)"
+        ],
+        [
+          "C",
+          "(A) -> (iv), (B) -> (ii), (C) -> (iii), (D) -> (i)"
+        ],
+        [
+          "D",
+          "(A) -> (ii), (B) -> (iii), (C) -> (i), (D) -> (v)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=0"
+    },
+    {
+      "id": 6169,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Which of the following graphs represents the Ellingham diagram?",
+      "opts": [
+        [
+          "A",
+          "ΔS Vs T"
+        ],
+        [
+          "B",
+          "ΔG° Vs T"
+        ],
+        [
+          "C",
+          "ΔG° Vs 1/T"
+        ],
+        [
+          "D",
+          "ΔG° Vs T²"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "missing_figure"
+    },
+    {
+      "id": 6187,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match Column-I with Column-II and select the correct answer.",
+      "opts": [
+        [
+          "A",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "B",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "D",
+          "None of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 6187,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match Column-I with Column-II and select the correct answer.",
+      "opts": [
+        [
+          "A",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "B",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "D",
+          "None of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=True len=60"
+    },
+    {
+      "id": 6218,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Which of the following statements regarding lanthanides is incorrect?",
+      "opts": [
+        [
+          "A",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "B",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "C",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "D",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 6249,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "In calcium fluoride having fluorite structure, the coordination numbers of Ca2+ and F- ions are respectively",
+      "opts": [
+        [
+          "A",
+          "4 and 2"
+        ],
+        [
+          "B",
+          "6 and 6"
+        ],
+        [
+          "C",
+          "8 and 4"
+        ],
+        [
+          "D",
+          "4 and 8"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=0"
+    },
+    {
+      "id": 6307,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "The hydrogen ion concentration of a buffer solution containing a weak acid and its salts is given by:",
+      "opts": [
+        [
+          "A",
+          "[H+] = Ka * ([acid] / [salt])"
+        ],
+        [
+          "B",
+          "[H+] = Ka * [salt]"
+        ],
+        [
+          "C",
+          "[H+] = Ka * ([salt] / [acid])"
+        ],
+        [
+          "D",
+          "[H+] = Ka * ([salt] / [acid])"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "duplicate_options"
+    },
+    {
+      "id": 6345,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match the following list of catalysts and processes correctly:",
+      "opts": [
+        [
+          "A",
+          "A-(iv), B-(i), C-(ii), D-(iii)"
+        ],
+        [
+          "B",
+          "A-(i), B-(ii), C-(iv), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(ii), B-(iii), C-(iv), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=True len=62"
+    },
+    {
+      "id": 6345,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match the following list of catalysts and processes correctly:",
+      "opts": [
+        [
+          "A",
+          "A-(iv), B-(i), C-(ii), D-(iii)"
+        ],
+        [
+          "B",
+          "A-(i), B-(ii), C-(iv), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(ii), B-(iii), C-(iv), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "statements_missing",
+      "detail": "n_stmts=0"
+    },
+    {
+      "id": 6351,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Match the following and find the correct combination: A) Pure nitrogen, B) Haber's process, C) Contact process, D) Deacon's process with i) Chlorine, ii) Sulphuric acid, iii) Ammonia, iv) Sodium azide or Barium azide.",
+      "opts": [
+        [
+          "A",
+          "A-(i), B-(ii), C-(iii), D-(iv)"
+        ],
+        [
+          "B",
+          "A-(ii), B-(iv), C-(i), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iv), B-(iii), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "match_incomplete",
+      "detail": "side_a=0 side_b=0 trunc=False len=217"
+    },
+    {
+      "id": 6381,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Which of the following gives an alcohol and an acid on reaction with 50% sodium hydroxide solution?",
+      "opts": [
+        [
+          "A",
+          "Phenylmethanol"
+        ],
+        [
+          "B",
+          "Ethanal"
+        ],
+        [
+          "C",
+          "Ethanal"
+        ],
+        [
+          "D",
+          "Methanal"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "images": "[]",
+      "kind": "duplicate_options"
+    }
+  ],
+  "soft": [
+    {
+      "id": 6164,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Consider the Ellingham diagram. Which of the following metals can be used to reduce alumina?",
+      "opts": [
+        [
+          "A",
+          "Fe"
+        ],
+        [
+          "B",
+          "Cu"
+        ],
+        [
+          "C",
+          "Mg"
+        ],
+        [
+          "D",
+          "Zn"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "maybe_needs_figure"
+    },
+    {
+      "id": 6170,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "In the Ellingham diagram, for the formation of carbon monoxide:",
+      "opts": [
+        [
+          "A",
+          "(ΔS° / ΔT) is negative"
+        ],
+        [
+          "B",
+          "(ΔG° / ΔT) is positive"
+        ],
+        [
+          "C",
+          "(ΔG° / ΔT) is negative"
+        ],
+        [
+          "D",
+          "Initially (ΔT / ΔG°) is positive and above 700°C (ΔG° / ΔT) is negative."
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "images": "[]",
+      "kind": "maybe_needs_figure"
+    },
+    {
+      "id": 6172,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Regarding the Ellingham diagram, which of the following statements is incorrect?",
+      "opts": [
+        [
+          "A",
+          "The Gibbs free energy change is in a straight line. Deviation from the straight line occurs during phase change."
+        ],
+        [
+          "B",
+          "The graph for the formation of CO2 is almost parallel to the free energy axis."
+        ],
+        [
+          "C",
+          "CO has a negative slope value. Therefore, as temperature increases, CO becomes more stable."
+        ],
+        [
+          "D",
+          "The positive slope value of metal oxides indicates that their stability decreases with an increase in temperature."
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "images": "[]",
+      "kind": "maybe_needs_figure"
+    },
+    {
+      "id": 6337,
+      "topic": "12th Chemistry - Book back Questions",
+      "stem": "Consider the changes in the oxidation states of bromine corresponding to different emf values as shown in the given diagram: BrO4^- -> BrO3^- -> HBrO -> Br2 -> Br^-. Which of the following undergoes disproportionation?",
+      "opts": [
+        [
+          "A",
+          "Br2"
+        ],
+        [
+          "B",
+          "BrO4-"
+        ],
+        [
+          "C",
+          "BrO3-"
+        ],
+        [
+          "D",
+          "HBrO"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "images": "[]",
+      "kind": "maybe_needs_figure"
+    }
+  ]
+}

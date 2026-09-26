@@ -1,0 +1,79 @@
+{
+  "poem_id": "a_poison_tree",
+  "poem_title": "A Poison Tree",
+  "author": "William Blake",
+  "num": 15,
+  "pdf_pages": [
+    52,
+    56
+  ],
+  "poem_text_en": "I was angry with my friend;\nI told my wrath, my wrath did end.\nI was angry with my foe:\nI told it not, my wrath did grow.\n\nAnd I water’d it in fears,\nNight and morning with my tears:\nAnd I sunned it with smiles,\nAnd with soft deceitful wiles.\n\nAnd it grew both day and night,\nTill it bore an apple bright.\nAnd my foe beheld it shine,\nAnd he knew that it was mine.\n\nAnd into my garden stole,\nWhen the night had veiled the pole;\nIn the morning glad I see,\nMy foe outstretched beneath the tree.",
+  "summary_en": "The poem illustrates how suppressed anger grows and turns into a deadly force, whereas expressed anger dissipates. The speaker nourishes their wrath against an enemy until it manifests as a poisonous tree with a deceptive fruit. Ultimately, this hatred leads to the physical downfall of the enemy.",
+  "glossary": [
+    {
+      "word_en": "wrath",
+      "meaning_en": "anger"
+    },
+    {
+      "word_en": "foe",
+      "meaning_en": "enemy"
+    },
+    {
+      "word_en": "deceitful",
+      "meaning_en": "cunning, treacherous"
+    },
+    {
+      "word_en": "wiles",
+      "meaning_en": "tricks"
+    },
+    {
+      "word_en": "veiled",
+      "meaning_en": "covered"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "alliteration",
+      "example_en": "And I sunned it with smiles",
+      "note_en": "The sound /s/ is repeated in 'sunned' and 'smiles'."
+    },
+    {
+      "device_en": "metaphor",
+      "example_en": "A Poison Tree",
+      "note_en": "The anger is compared to a growing tree."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poet of A Poison Tree is William Blake (1757–1827), an English poet, painter, and printmaker.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The rhyme scheme of the poem is AABB (rhyming couplets).",
+      "tag": "line_meaning"
+    },
+    {
+      "rule_en": "Suppressed anger is metaphorically represented as a growing tree watered by tears and fears.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Complete the summary: He (iii) _________ his foe with false smiles and cunning tricks.",
+      "answer_en": "sunned",
+      "options_en": [
+        "watered",
+        "sunned",
+        "stole",
+        "beheld"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Whom does ‘I’ refer to in the first line?",
+      "answer_en": "The poet",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "poem_id": "multiple_poems",
+  "count": 1,
+  "questions": [
+    {
+      "poem_title": "Multiple Poems",
+      "poem_id": "multiple_poems",
+      "question_en": "Match the following poem with their lines : (a) by starvation and famine made bold (b) love her, respect her, keep her (c) beneath all uniforms, a single body breathes (d) each day the house just begins to fade",
+      "options_en": [
+        "(A) 3 4 2 1",
+        "(B) 3 4 1 2",
+        "(C) 3 1 2 4",
+        "(D) 4 1 2 3"
+      ],
+      "answer_en": "(B) 3 4 1 2",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b010",
+      "source_note": "pyq_1_10_b010"
+    }
+  ]
+}

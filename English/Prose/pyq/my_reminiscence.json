@@ -1,0 +1,102 @@
+{
+  "prose_id": "my_reminiscence",
+  "prose_title": "My Reminiscence",
+  "questions": [
+    {
+      "prose_title": "My Reminiscence",
+      "prose_id": "my_reminiscence",
+      "question_en": "37. Rabindranath Tagore got Nobile Prize in ----------",
+      "options_en": [
+        "Science",
+        "Literature",
+        "Peace",
+        "Maths"
+      ],
+      "answer_en": "Literature",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b014",
+      "band": "prose_pyq_b014"
+    },
+    {
+      "prose_title": "My Reminiscence",
+      "prose_id": "my_reminiscence",
+      "question_en": "20. “This Bengal sky-full of light, This South Breeze- This flow of the river...” Which river is mentioned here in Tagore’s reminiscence?",
+      "options_en": [
+        "Brahmaputra",
+        "Damodar",
+        "Cauveri",
+        "Ganges"
+      ],
+      "answer_en": "Ganges",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b014",
+      "band": "prose_pyq_b014"
+    },
+    {
+      "prose_title": "My Reminiscence",
+      "prose_id": "my_reminiscence",
+      "question_en": "30. In, “My Raminiscence” The topmost room of the house was in a ---------- tower.",
+      "options_en": [
+        "Round",
+        "Square",
+        "Rectangular",
+        "Pyramid"
+      ],
+      "answer_en": "Round",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b014",
+      "band": "prose_pyq_b014"
+    },
+    {
+      "prose_title": "My Reminiscence",
+      "prose_id": "my_reminiscence",
+      "question_en": "43. Choose the correct answer : The villa where Tagore’s family living in was known as",
+      "options_en": [
+        "Maran’s Garden",
+        "Moran’s Garden",
+        "Anandha’s Garden",
+        "Meran’s Garden"
+      ],
+      "answer_en": "Moran’s Garden",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b014",
+      "band": "prose_pyq_b014"
+    },
+    {
+      "prose_title": "My Reminiscence",
+      "prose_id": "my_reminiscence",
+      "question_en": "Some rainy afternoons Tagore spent in a veritable frenzy, singing away ________ to his own tunes.",
+      "options_en": [
+        "Patriotic Songs",
+        "School Songs",
+        "Old Vaishnava Songs",
+        "National Anthem"
+      ],
+      "answer_en": "Old Vaishnava Songs",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b015",
+      "band": "prose_pyq_b015"
+    },
+    {
+      "prose_title": "My Reminiscence",
+      "prose_id": "my_reminiscence",
+      "question_en": "The author speaks about the river? ________ in the lesson “My Reminiscence”.",
+      "options_en": [
+        "Ganges",
+        "Yamuna",
+        "Vaigai",
+        "Brahmaputra"
+      ],
+      "answer_en": "Ganges",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b015",
+      "band": "prose_pyq_b015"
+    }
+  ]
+}

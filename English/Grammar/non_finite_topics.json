@@ -1,0 +1,27 @@
+{
+  "subject_id": "English",
+  "menu": "non_finite_verbs",
+  "topics": [
+    {
+      "id": "gerunds",
+      "name_en": "Gerunds",
+      "name_ta": "Gerunds",
+      "batches": 2,
+      "focus": "Verb+ing as noun; subject/object/complement of preposition; after enjoy/finish/mind/suggest; gerund vs infinitive after specific verbs; NOT sentence combining."
+    },
+    {
+      "id": "infinitives",
+      "name_en": "Infinitives",
+      "name_ta": "Infinitives",
+      "batches": 2,
+      "focus": "To+verb; bare/plain infinitive after modals/make/let/see; infinitive as subject/object/adjective/adverb; choose correct infinitive form."
+    },
+    {
+      "id": "participles",
+      "name_en": "Participles",
+      "name_ta": "Participles",
+      "batches": 2,
+      "focus": "Present participle (V+ing unfinished action); past participle (V3/-ed completed); perfect participle (having+V3); participle as adjective; identify participle type."
+    }
+  ]
+}

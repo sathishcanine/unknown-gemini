@@ -1,0 +1,92 @@
+{
+  "poem_id": "the_spider_and_the_fly",
+  "poem_title": "The Spider and The Fly",
+  "author": "Mary Howitt",
+  "num": 19,
+  "pdf_pages": [
+    66,
+    70
+  ],
+  "poem_text_en": "“Will you walk into my parlour?” said the Spider to the Fly, \n“Tis the prettiest little parlour that ever you did spy; \nThe way into my parlour is up a winding stair, \nAnd I’ve many curious things to show when you are there.”\n“Oh no, no,” said the little Fly, “to ask me is in vain, \nFor who goes up your winding stair can never come down again.”\n“I’m sure you must be weary, dear, with soaring up so high; \nWill you rest upon my little bed?” said the Spider to the Fly. \n“There are pretty curtains drawn around; the sheets are fine and thin, \nAnd if you like to rest awhile, I’ll snugly tuck you in!”\n“Oh no, no,” said the little Fly, “for I’ve often heard it said, \nThey never, never wake again, who sleep upon your bed!”\nSaid the cunning Spider to the Fly, “Dear friend what can I do, \nTo prove the warm affection I’ve always felt for you? \nI have within my pantry, good store of all that’s nice; \nI’m sure you’re very welcome — will you please to take a slice?”\n“Oh no, no,” said the little Fly, “kind Sir, that cannot be, \nI’ve heard what’s in your pantry, and I do not wish to see!”\n“Sweet creature!” said the Spider, “you’re witty and you’re wise, \nHow handsome are your gauzy wings, how brilliant are your eyes! \nI’ve a little looking-glass upon my parlour shelf, \nIf you’ll step in one moment, dear, you shall behold yourself.”\n“I thank you, gentle sir,” she said, “for what you’re pleased to say, \nAnd bidding you good morning now, I’ll call another day.”\nThe Spider turned him round about, and went into his den, \nFor well he knew the silly Fly would soon come back again: \nSo he wove a subtle web, in a little corner sly, \nAnd set his table ready, to dine upon the Fly.\nThen he came out to his door again, and merrily did sing, \n“Come hither, hither, pretty Fly, with the pearl and silver wing; \nYour robes are green and purple — there’s a crest upon your head; \nYour eyes are like the diamond bright, but mine are dull as lead!”\nAlas, alas! how very soon this silly little Fly, \nHearing his wily, flattering words, came slowly flitting by; \nWith buzzing wings she hung aloft, then near and nearer drew, \nThinking only of her brilliant eyes, and green and purple hue — \nThinking only of her crested head — poor foolish thing!\nAt last, \nUp jumped the cunning Spider, and fiercely held her fast. \nHe dragged her up his winding stair, into his dismal den, \nWithin his little parlour — but she ne’er came out again!\nAnd now dear little children, who may this story read, \nTo idle, silly flattering words, I pray you ne’er give heed: \nUnto an evil counsellor, close heart and ear and eye, \nAnd take a lesson from this tale, of the Spider and the Fly.",
+  "summary_en": "The poem serves as a cautionary fable about the dangers of flattery. A cunning spider uses various deceptive tactics to lure an initially cautious fly into his parlour, eventually succeeding when he appeals to her vanity. The poet warns children against being swayed by insincere, manipulative words from evil counsellors.",
+  "glossary": [
+    {
+      "word_en": "parlour",
+      "meaning_en": "a tidy room in a house used for entertaining guests"
+    },
+    {
+      "word_en": "winding",
+      "meaning_en": "a twisting movement or course"
+    },
+    {
+      "word_en": "weary",
+      "meaning_en": "very tired, especially from hard work"
+    },
+    {
+      "word_en": "pantry",
+      "meaning_en": "a room where beverages, food, dishes are stored"
+    },
+    {
+      "word_en": "subtle",
+      "meaning_en": "delicate or faint and mysterious"
+    },
+    {
+      "word_en": "flattering",
+      "meaning_en": "to praise or compliment insincerely"
+    },
+    {
+      "word_en": "counsellor",
+      "meaning_en": "a person who advises"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Simile",
+      "example_en": "Your eyes are like the diamond bright",
+      "note_en": "Direct comparison between the fly's eyes and a diamond."
+    },
+    {
+      "device_en": "Alliteration",
+      "example_en": "Sweet creature! said the Spider, You’re witty and you’re wise",
+      "note_en": "Repetition of the 'w' sound in 'witty' and 'wise'."
+    },
+    {
+      "device_en": "Anaphora",
+      "example_en": "How handsome are your gauzy wings, how brilliant are your eyes!",
+      "note_en": "Repetition of the word 'how' at the beginning of the clauses."
+    },
+    {
+      "device_en": "Personification",
+      "example_en": "The poem itself",
+      "note_en": "The spider and fly are endowed with human traits like talking, owning furniture, and having motives."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poet of 'The Spider and the Fly' is Mary Botham Howitt.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Anthropomorphism is the literary device where non-human characters are endowed with human traits.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The poem warns readers against giving heed to idle, silly flattering words.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "How can the fly reach the spider’s parlour?",
+      "answer_en": "The fly can reach the spider's parlour by going up a winding stair.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Who does ‘she’ refer to in 'Thinking only of her brilliant eyes'?",
+      "answer_en": "She refers to the little fly.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

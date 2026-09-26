@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of house did Ramayya live in?",
+    "question_ta": "What type of house did Ramayya live in?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A mud cottage",
+        "text_ta": "A mud cottage"
+      },
+      {
+        "key": "B",
+        "text_en": "A tiled house",
+        "text_ta": "A tiled house"
+      },
+      {
+        "key": "C",
+        "text_en": "A terraced mansion",
+        "text_ta": "A terraced mansion"
+      },
+      {
+        "key": "D",
+        "text_en": "A thatched hut",
+        "text_ta": "A thatched hut"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The prose states that Ramayya, a simple man, lived in a tiled house with his wife.",
+    "explanation_ta": "The prose states that Ramayya, a simple man, lived in a tiled house with his wife.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Ground Truth / Ramayya's description"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where did the two sparrows build their nest in Ramayya's house?",
+    "question_ta": "Where did the two sparrows build their nest in Ramayya's house?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Under the front porch",
+        "text_ta": "Under the front porch"
+      },
+      {
+        "key": "B",
+        "text_en": "On a nearby tree branch",
+        "text_ta": "On a nearby tree branch"
+      },
+      {
+        "key": "C",
+        "text_en": "Inside the kitchen shelf",
+        "text_ta": "Inside the kitchen shelf"
+      },
+      {
+        "key": "D",
+        "text_en": "On the roof",
+        "text_ta": "On the roof"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Textbook worked exercise W1 notes that two sparrows nested on the roof of Ramayya's house.",
+    "explanation_ta": "Textbook worked exercise W1 notes that two sparrows nested on the roof of Ramayya's house.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Textbook worked W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who brought the diamond nose-jewel to the sparrow's nest?",
+    "question_ta": "Who brought the diamond nose-jewel to the sparrow's nest?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The female sparrow",
+        "text_ta": "The female sparrow"
+      },
+      {
+        "key": "B",
+        "text_en": "Kuppayi the maid",
+        "text_ta": "Kuppayi the maid"
+      },
+      {
+        "key": "C",
+        "text_en": "Ramayya's wife",
+        "text_ta": "Ramayya's wife"
+      },
+      {
+        "key": "D",
+        "text_en": "The male sparrow",
+        "text_ta": "The male sparrow"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The prose explains that the male sparrow brought the diamond nose-jewel found on a muck-heap to the nest.",
+    "explanation_ta": "The prose explains that the male sparrow brought the diamond nose-jewel found on a muck-heap to the nest.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where did the male sparrow find the diamond nose-jewel?",
+    "question_ta": "Where did the male sparrow find the diamond nose-jewel?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Under a banyan tree",
+        "text_ta": "Under a banyan tree"
+      },
+      {
+        "key": "B",
+        "text_en": "On a muck-heap",
+        "text_ta": "On a muck-heap"
+      },
+      {
+        "key": "C",
+        "text_en": "Inside a well",
+        "text_ta": "Inside a well"
+      },
+      {
+        "key": "D",
+        "text_en": "By the riverside",
+        "text_ta": "By the riverside"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The male sparrow picked up the jewel from a muck-heap and brought it to mock human greed.",
+    "explanation_ta": "The male sparrow picked up the jewel from a muck-heap and brought it to mock human greed.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who first discovered the diamond nose-jewel in the sparrow's nest?",
+    "question_ta": "Who first discovered the diamond nose-jewel in the sparrow's nest?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ramayya's wife",
+        "text_ta": "Ramayya's wife"
+      },
+      {
+        "key": "B",
+        "text_en": "Meenakshi Ammal",
+        "text_ta": "Meenakshi Ammal"
+      },
+      {
+        "key": "C",
+        "text_en": "Ramayya",
+        "text_ta": "Ramayya"
+      },
+      {
+        "key": "D",
+        "text_en": "Kuppayi",
+        "text_ta": "Kuppayi"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ramayya's wife discovered the shiny jewel while sweeping or looking around the house and decided to wear it.",
+    "explanation_ta": "Ramayya's wife discovered the shiny jewel while sweeping or looking around the house and decided to wear it.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "To whom did the diamond nose-jewel originally belong?",
+    "question_ta": "To whom did the diamond nose-jewel originally belong?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The village magistrate's wife",
+        "text_ta": "The village magistrate's wife"
+      },
+      {
+        "key": "B",
+        "text_en": "Ramayya's daughter",
+        "text_ta": "Ramayya's daughter"
+      },
+      {
+        "key": "C",
+        "text_en": "Meenakshi Ammal's daughter",
+        "text_ta": "Meenakshi Ammal's daughter"
+      },
+      {
+        "key": "D",
+        "text_en": "Kuppayi's sister",
+        "text_ta": "Kuppayi's sister"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Textbook worked exercise W2 confirms that the diamond jewel belonged to Meenakshi Ammal's daughter.",
+    "explanation_ta": "Textbook worked exercise W2 confirms that the diamond jewel belonged to Meenakshi Ammal's daughter.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Textbook worked W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who was falsely accused and suspected by the villagers of stealing the diamond nose-jewel?",
+    "question_ta": "Who was falsely accused and suspected by the villagers of stealing the diamond nose-jewel?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ramayya's wife",
+        "text_ta": "Ramayya's wife"
+      },
+      {
+        "key": "B",
+        "text_en": "Meenakshi Ammal",
+        "text_ta": "Meenakshi Ammal"
+      },
+      {
+        "key": "C",
+        "text_en": "The village headman",
+        "text_ta": "The village headman"
+      },
+      {
+        "key": "D",
+        "text_en": "Kuppayi, the maid-servant",
+        "text_ta": "Kuppayi, the maid-servant"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When Meenakshi Ammal reported the loss, suspicion immediately fell upon the innocent maid-servant Kuppayi.",
+    "explanation_ta": "When Meenakshi Ammal reported the loss, suspicion immediately fell upon the innocent maid-servant Kuppayi.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Characters C4 / PYQ P6"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary theme of 'The Nose Jewel'?",
+    "question_ta": "What is the primary theme of 'The Nose Jewel'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Greed and the psychological burden of dishonesty",
+        "text_ta": "Greed and the psychological burden of dishonesty"
+      },
+      {
+        "key": "B",
+        "text_en": "The challenges of educating maid-servants",
+        "text_ta": "The challenges of educating maid-servants"
+      },
+      {
+        "key": "C",
+        "text_en": "The beauty of rural village life",
+        "text_ta": "The beauty of rural village life"
+      },
+      {
+        "key": "D",
+        "text_en": "The importance of bird conservation",
+        "text_ta": "The importance of bird conservation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R2 indicates that the central theme revolves around greed and the fear of consequences.",
+    "explanation_ta": "Rule R2 indicates that the central theme revolves around greed and the fear of consequences.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Rules R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the story 'The Nose Jewel'?",
+    "question_ta": "Who is the author of the story 'The Nose Jewel'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rajagopalachari",
+        "text_ta": "Rajagopalachari"
+      },
+      {
+        "key": "B",
+        "text_en": "Rabindranath Tagore",
+        "text_ta": "Rabindranath Tagore"
+      },
+      {
+        "key": "C",
+        "text_en": "Sarojini Naidu",
+        "text_ta": "Sarojini Naidu"
+      },
+      {
+        "key": "D",
+        "text_en": "R. K. Narayan",
+        "text_ta": "R. K. Narayan"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R1 specifies that the author of the lesson is C. Rajagopalachari (Rajaji).",
+    "explanation_ta": "Rule R1 specifies that the author of the lesson is C. Rajagopalachari (Rajaji).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Rules R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct synonym for the word 'consoled' as used in the context of comforting someone:",
+    "question_ta": "Choose the correct synonym for the word 'consoled' as used in the context of comforting someone:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Comforted",
+        "text_ta": "Comforted"
+      },
+      {
+        "key": "B",
+        "text_en": "Frightened",
+        "text_ta": "Frightened"
+      },
+      {
+        "key": "C",
+        "text_en": "Ignored",
+        "text_ta": "Ignored"
+      },
+      {
+        "key": "D",
+        "text_en": "Scolded",
+        "text_ta": "Scolded"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary G5 and Textbook worked W3 define 'consoled' as comforted in a time of grief or disappointment.",
+    "explanation_ta": "Glossary G5 and Textbook worked W3 define 'consoled' as comforted in a time of grief or disappointment.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Glossary G5 / Worked W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary mean by the term 'muck-heap'?",
+    "question_ta": "What does the glossary mean by the term 'muck-heap'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A stack of dry firewood",
+        "text_ta": "A stack of dry firewood"
+      },
+      {
+        "key": "B",
+        "text_en": "A pile of precious stones",
+        "text_ta": "A pile of precious stones"
+      },
+      {
+        "key": "C",
+        "text_en": "A collection of harvested grains",
+        "text_ta": "A collection of harvested grains"
+      },
+      {
+        "key": "D",
+        "text_en": "A heap of dung or refuse",
+        "text_ta": "A heap of dung or refuse"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G2 defines 'muck-heap' as a heap of dung or refuse.",
+    "explanation_ta": "Glossary G2 defines 'muck-heap' as a heap of dung or refuse.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Glossary G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'disdain'?",
+    "question_ta": "What is the meaning of the word 'disdain'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "State of extreme confusion",
+        "text_ta": "State of extreme confusion"
+      },
+      {
+        "key": "B",
+        "text_en": "Sense of deep admiration",
+        "text_ta": "Sense of deep admiration"
+      },
+      {
+        "key": "C",
+        "text_en": "Feeling of contempt or scorn",
+        "text_ta": "Feeling of contempt or scorn"
+      },
+      {
+        "key": "D",
+        "text_en": "Expression of immense joy",
+        "text_ta": "Expression of immense joy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G1 defines 'disdain' as a feeling of contempt or scorn.",
+    "explanation_ta": "Glossary G1 defines 'disdain' as a feeling of contempt or scorn.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Glossary G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does the glossary define 'grub'?",
+    "question_ta": "How does the glossary define 'grub'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A tool",
+        "text_ta": "A tool"
+      },
+      {
+        "key": "B",
+        "text_en": "Food",
+        "text_ta": "Food"
+      },
+      {
+        "key": "C",
+        "text_en": "Dirt",
+        "text_ta": "Dirt"
+      },
+      {
+        "key": "D",
+        "text_en": "A small insect",
+        "text_ta": "A small insect"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary G3 defines 'grub' simply as food.",
+    "explanation_ta": "Glossary G3 defines 'grub' simply as food.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Glossary G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the definition of a 'magistrate' according to the glossary?",
+    "question_ta": "What is the definition of a 'magistrate' according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A village accountant",
+        "text_ta": "A village accountant"
+      },
+      {
+        "key": "B",
+        "text_en": "A medical doctor",
+        "text_ta": "A medical doctor"
+      },
+      {
+        "key": "C",
+        "text_en": "A police inspector",
+        "text_ta": "A police inspector"
+      },
+      {
+        "key": "D",
+        "text_en": "A judicial officer",
+        "text_ta": "A judicial officer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G4 defines 'magistrate' as a judicial officer.",
+    "explanation_ta": "Glossary G4 defines 'magistrate' as a judicial officer.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Glossary G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What role do the two sparrows play in the narrative?",
+    "question_ta": "What role do the two sparrows play in the narrative?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pets owned by Ramayya's family",
+        "text_ta": "Pets owned by Ramayya's family"
+      },
+      {
+        "key": "B",
+        "text_en": "The thieves who stole the jewel from Meenakshi Ammal",
+        "text_ta": "The thieves who stole the jewel from Meenakshi Ammal"
+      },
+      {
+        "key": "C",
+        "text_en": "Observers who provide commentary on human greed",
+        "text_ta": "Observers who provide commentary on human greed"
+      },
+      {
+        "key": "D",
+        "text_en": "Witnesses who testified in the village court",
+        "text_ta": "Witnesses who testified in the village court"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Character C5 notes that the sparrows act as observers who mock and comment on human greed.",
+    "explanation_ta": "Character C5 notes that the sparrows act as observers who mock and comment on human greed.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Characters C5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which notable political and national distinction is associated with C. Rajagopalachari (Rajaji)?",
+    "question_ta": "Which notable political and national distinction is associated with C. Rajagopalachari (Rajaji)?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He served as the Chief Justice of the Supreme Court",
+        "text_ta": "He served as the Chief Justice of the Supreme Court"
+      },
+      {
+        "key": "B",
+        "text_en": "He was the founder of the Indian National Congress",
+        "text_ta": "He was the founder of the Indian National Congress"
+      },
+      {
+        "key": "C",
+        "text_en": "He was the last Governor-General of India and a Bharat Ratna recipient",
+        "text_ta": "He was the last Governor-General of India and a Bharat Ratna recipient"
+      },
+      {
+        "key": "D",
+        "text_en": "He was the first Prime Minister of independent India",
+        "text_ta": "He was the first Prime Minister of independent India"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R3 details that Rajaji was the last Governor-General of India and received the Bharat Ratna award.",
+    "explanation_ta": "Rule R3 details that Rajaji was the last Governor-General of India and received the Bharat Ratna award.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Rules R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What moral lesson does the story convey at the end?",
+    "question_ta": "What moral lesson does the story convey at the end?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "We should always keep pets like sparrows",
+        "text_ta": "We should always keep pets like sparrows"
+      },
+      {
+        "key": "B",
+        "text_en": "Maid-servants should never be trusted",
+        "text_ta": "Maid-servants should never be trusted"
+      },
+      {
+        "key": "C",
+        "text_en": "We should never be greedy for what belongs to others",
+        "text_ta": "We should never be greedy for what belongs to others"
+      },
+      {
+        "key": "D",
+        "text_en": "Jewels should only be kept in iron boxes",
+        "text_ta": "Jewels should only be kept in iron boxes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The prose concludes with the moral that we should never be greedy for what belongs to others.",
+    "explanation_ta": "The prose concludes with the moral that we should never be greedy for what belongs to others.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Ramayya and his wife spend the rest of their lives after hiding the jewel?",
+    "question_ta": "How did Ramayya and his wife spend the rest of their lives after hiding the jewel?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Traveling across the country",
+        "text_ta": "Traveling across the country"
+      },
+      {
+        "key": "B",
+        "text_en": "As wealthy and respected landowners",
+        "text_ta": "As wealthy and respected landowners"
+      },
+      {
+        "key": "C",
+        "text_en": "In constant fear and anxiety",
+        "text_ta": "In constant fear and anxiety"
+      },
+      {
+        "key": "D",
+        "text_en": "Happily returning the jewel to the authorities",
+        "text_ta": "Happily returning the jewel to the authorities"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The summary notes that the couple lived the rest of their lives in fear, reflecting the psychological burden of dishonesty.",
+    "explanation_ta": "The summary notes that the couple lived the rest of their lives in fear, reflecting the psychological burden of dishonesty.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Prose Excerpts / Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What physical ailment did Ramayya's wife suffer from due to her panic?",
+    "question_ta": "What physical ailment did Ramayya's wife suffer from due to her panic?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A broken leg",
+        "text_ta": "A broken leg"
+      },
+      {
+        "key": "B",
+        "text_en": "Fever",
+        "text_ta": "Fever"
+      },
+      {
+        "key": "C",
+        "text_en": "Chronic cough",
+        "text_ta": "Chronic cough"
+      },
+      {
+        "key": "D",
+        "text_en": "Loss of vision",
+        "text_ta": "Loss of vision"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The prose mentions that out of fear of police investigation, she fell ill with fever.",
+    "explanation_ta": "The prose mentions that out of fear of police investigation, she fell ill with fever.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "State whether the statement is True or False: Two sparrows built a nest on a tree top in the story.",
+    "question_ta": "State whether the statement is True or False: Two sparrows built a nest on a tree top in the story.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "False",
+        "text_ta": "False"
+      },
+      {
+        "key": "B",
+        "text_en": "True",
+        "text_ta": "True"
+      },
+      {
+        "key": "C",
+        "text_en": "Cannot be determined",
+        "text_ta": "Cannot be determined"
+      },
+      {
+        "key": "D",
+        "text_en": "Partially true",
+        "text_ta": "Partially true"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Textbook worked exercise W4 explicitly marks the statement that sparrows built a nest on a tree top as False (they built it on the roof).",
+    "explanation_ta": "Textbook worked exercise W4 explicitly marks the statement that sparrows built a nest on a tree top as False (they built it on the roof).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Textbook worked W4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What function does the diamond nose-jewel serve in the plot?",
+    "question_ta": "What function does the diamond nose-jewel serve in the plot?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It is used as currency to buy a new house",
+        "text_ta": "It is used as currency to buy a new house"
+      },
+      {
+        "key": "B",
+        "text_en": "It serves as a wedding gift for Ramayya's daughter",
+        "text_ta": "It serves as a wedding gift for Ramayya's daughter"
+      },
+      {
+        "key": "C",
+        "text_en": "It is offered as a sacrifice to the village temple",
+        "text_ta": "It is offered as a sacrifice to the village temple"
+      },
+      {
+        "key": "D",
+        "text_en": "It serves as a catalyst for the characters' moral dilemma",
+        "text_ta": "It serves as a catalyst for the characters' moral dilemma"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R4 highlights that the diamond nose-jewel acts as a catalyst for the characters' moral dilemma and subsequent anxiety.",
+    "explanation_ta": "Rule R4 highlights that the diamond nose-jewel acts as a catalyst for the characters' moral dilemma and subsequent anxiety.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Rules R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who reported to the village about her daughter's missing nose-jewel?",
+    "question_ta": "Who reported to the village about her daughter's missing nose-jewel?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ramayya's wife",
+        "text_ta": "Ramayya's wife"
+      },
+      {
+        "key": "B",
+        "text_en": "Meenakshi Ammal",
+        "text_ta": "Meenakshi Ammal"
+      },
+      {
+        "key": "C",
+        "text_en": "Kuppayi",
+        "text_ta": "Kuppayi"
+      },
+      {
+        "key": "D",
+        "text_en": "The village magistrate",
+        "text_ta": "The village magistrate"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text notes that Meenakshi Ammal reported her daughter's lost nose-jewel to the village.",
+    "explanation_ta": "The text notes that Meenakshi Ammal reported her daughter's lost nose-jewel to the village.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Characters C3 / Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which animal family's presence is highlighted on Ramayya's roof?",
+    "question_ta": "Which animal family's presence is highlighted on Ramayya's roof?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A cat's family",
+        "text_ta": "A cat's family"
+      },
+      {
+        "key": "B",
+        "text_en": "A sparrow's family",
+        "text_ta": "A sparrow's family"
+      },
+      {
+        "key": "C",
+        "text_en": "A crow's family",
+        "text_ta": "A crow's family"
+      },
+      {
+        "key": "D",
+        "text_en": "A dog's family",
+        "text_ta": "A dog's family"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "PYQ P1 style question confirms that a sparrow's family lived on Ramayya's roof.",
+    "explanation_ta": "PYQ P1 style question confirms that a sparrow's family lived on Ramayya's roof.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "PYQ P1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Ramayya's financial and social standing described as in the story?",
+    "question_ta": "What was Ramayya's financial and social standing described as in the story?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A corrupt village magistrate",
+        "text_ta": "A corrupt village magistrate"
+      },
+      {
+        "key": "B",
+        "text_en": "A wealthy landlord of the village",
+        "text_ta": "A wealthy landlord of the village"
+      },
+      {
+        "key": "C",
+        "text_en": "A traveling merchant",
+        "text_ta": "A traveling merchant"
+      },
+      {
+        "key": "D",
+        "text_en": "A simple man living modestly",
+        "text_ta": "A simple man living modestly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The prose introduces Ramayya simply as a simple man living in a tiled house with his wife.",
+    "explanation_ta": "The prose introduces Ramayya simply as a simple man living in a tiled house with his wife.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Characters C1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "The Nose Jewel",
+    "topic": "The Nose Jewel",
+    "topic_id": "the_nose_jewel",
+    "topic_ta": "The Nose Jewel",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the mother do to her little girl when the jewel was lost?",
+    "question_ta": "What did the mother do to her little girl when the jewel was lost?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Consoled her",
+        "text_ta": "Consoled her"
+      },
+      {
+        "key": "B",
+        "text_en": "Ignored her completely",
+        "text_ta": "Ignored her completely"
+      },
+      {
+        "key": "C",
+        "text_en": "Punished her severely",
+        "text_ta": "Punished her severely"
+      },
+      {
+        "key": "D",
+        "text_en": "Sent her away from home",
+        "text_ta": "Sent her away from home"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Textbook worked exercise W3 mentions that the mother consoled (comforted) her little girl.",
+    "explanation_ta": "Textbook worked exercise W3 mentions that the mother consoled (comforted) her little girl.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "the_nose_jewel",
+    "source_note": "Textbook worked W3"
+  }
+]

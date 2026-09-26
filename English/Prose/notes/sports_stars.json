@@ -1,0 +1,79 @@
+{
+  "prose_id": "sports_stars",
+  "prose_title": "Sports Stars",
+  "author": "Mithali Dorai Raj",
+  "num": 22,
+  "pdf_pages": [
+    460,
+    476
+  ],
+  "prose_text_en": "Mithali Dorai Raj, born in Hyderabad with Tamil as her mother tongue, is a legendary Indian cricketer. She began playing at 10 and was selected for the national team at 17. She is the first female cricketer to surpass 6,000 runs in ODIs and the first to score seven consecutive 50s. Known as the 'Tendulkar of Indian women’s cricket,' Mithali has often expressed that while comparisons to Sachin are a privilege, she prefers an individual identity. She received the Padma Shri for her contributions. Another featured sportsperson, Usha Rani, a Karnataka police officer, rose from the shanty town of Subedarpalaya to become a national-level Kabaddi champion.",
+  "summary_en": "This lesson highlights the achievements and struggles of Indian female sports icons, Mithali Raj and Usha Rani. It emphasizes how both players overcame societal barriers and personal challenges to excel in their respective fields of cricket and kabaddi. The text serves as an inspiration, encouraging readers to break gender stereotypes and pursue their passions.",
+  "characters": [
+    {
+      "name_en": "Mithali Dorai Raj",
+      "role_en": "Indian cricketer and captain of the women's team"
+    },
+    {
+      "name_en": "Usha Rani",
+      "role_en": "Karnataka police officer and national-level Kabaddi champion"
+    },
+    {
+      "name_en": "Smriti Mandhana",
+      "role_en": "Indian women's cricketer who hit a stylish half-century alongside Mithali Raj"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Privilege",
+      "meaning_en": "Honour"
+    },
+    {
+      "word_en": "Consecutive",
+      "meaning_en": "One after another"
+    },
+    {
+      "word_en": "Shanty town",
+      "meaning_en": "A poor area"
+    },
+    {
+      "word_en": "Unfulfilled",
+      "meaning_en": "Unrealised"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Mithali Raj is known as the 'Tendulkar of Indian women’s cricket'.",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "Mithali Raj’s mother tongue is Tamil.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "The Women’s Cricket World Cup was first held in England in 1973, two years before the Men’s inaugural World Cup.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "India has won all six Women's Kabaddi World cups played from 2012-2017.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Farther is used for physical distance; Further means additional.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Mithali Raj is nicknamed 'Tendulkar of Indian women’s cricket' because:",
+      "answer_en": "She is the all-time leading run scorer for India in all formats.",
+      "options_en": [
+        "A: She plays like him",
+        "B: She is the leading run scorer in all formats",
+        "C: She is from Mumbai",
+        "D: She trained under him"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

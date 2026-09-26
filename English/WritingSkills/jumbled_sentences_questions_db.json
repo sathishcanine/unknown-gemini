@@ -1,0 +1,3452 @@
+[
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary definition of jumbled sentences according to the syllabus notes?",
+    "question_ta": "What is the primary definition of jumbled sentences according to the syllabus notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Direct questions converted into reported speech",
+        "text_ta": "Direct questions converted into reported speech"
+      },
+      {
+        "key": "B",
+        "text_en": "Disordered sequences of sentences written randomly that require logical rearrangement for coherence",
+        "text_ta": "Disordered sequences of sentences written randomly that require logical rearrangement for coherence"
+      },
+      {
+        "key": "C",
+        "text_en": "Grammatically incorrect sentences that cannot be fixed",
+        "text_ta": "Grammatically incorrect sentences that cannot be fixed"
+      },
+      {
+        "key": "D",
+        "text_en": "Sentences arranged in strict alphabetical order",
+        "text_ta": "Sentences arranged in strict alphabetical order"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Jumbled sentences are defined as disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text.",
+    "explanation_ta": "Jumbled sentences are defined as disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'syntax' refer to in English grammar?",
+    "question_ta": "What does the term 'syntax' refer to in English grammar?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The method of adding question tags to negative statements",
+        "text_ta": "The method of adding question tags to negative statements"
+      },
+      {
+        "key": "B",
+        "text_en": "The arrangement of words and phrases to create well-formed sentences",
+        "text_ta": "The arrangement of words and phrases to create well-formed sentences"
+      },
+      {
+        "key": "C",
+        "text_en": "The rules for changing direct speech into indirect speech",
+        "text_ta": "The rules for changing direct speech into indirect speech"
+      },
+      {
+        "key": "D",
+        "text_en": "The definition of different types of nouns and pronouns",
+        "text_ta": "The definition of different types of nouns and pronouns"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Syntax is formally defined as the arrangement of words and phrases to create well-formed sentences.",
+    "explanation_ta": "Syntax is formally defined as the arrangement of words and phrases to create well-formed sentences.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In a standard declarative sentence structure, which component typically performs the action and comes first?",
+    "question_ta": "In a standard declarative sentence structure, which component typically performs the action and comes first?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Subject",
+        "text_ta": "The Subject"
+      },
+      {
+        "key": "B",
+        "text_en": "The Object",
+        "text_ta": "The Object"
+      },
+      {
+        "key": "C",
+        "text_en": "The Prepositional phrase",
+        "text_ta": "The Prepositional phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "The Verb",
+        "text_ta": "The Verb"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A standard declarative sentence typically follows the order of Subject + Verb + Object, where the subject is the doer of the action.",
+    "explanation_ta": "A standard declarative sentence typically follows the order of Subject + Verb + Object, where the subject is the doer of the action.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R3, G3"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where do adjectives typically appear relative to the noun or pronoun they modify when used attributively?",
+    "question_ta": "Where do adjectives typically appear relative to the noun or pronoun they modify when used attributively?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "After the prepositional phrase",
+        "text_ta": "After the prepositional phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Before the noun or pronoun",
+        "text_ta": "Before the noun or pronoun"
+      },
+      {
+        "key": "C",
+        "text_en": "At the very end of the sentence",
+        "text_ta": "At the very end of the sentence"
+      },
+      {
+        "key": "D",
+        "text_en": "Before the auxiliary verb",
+        "text_ta": "Before the auxiliary verb"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Adjectives typically come before the noun or pronoun they modify in attributive usage.",
+    "explanation_ta": "Adjectives typically come before the noun or pronoun they modify in attributive usage.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How do adverbs function within a sentence structure?",
+    "question_ta": "How do adverbs function within a sentence structure?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They modify verbs, adjectives, or other adverbs",
+        "text_ta": "They modify verbs, adjectives, or other adverbs"
+      },
+      {
+        "key": "B",
+        "text_en": "They connect two independent clauses together",
+        "text_ta": "They connect two independent clauses together"
+      },
+      {
+        "key": "C",
+        "text_en": "They only modify nouns and pronouns",
+        "text_ta": "They only modify nouns and pronouns"
+      },
+      {
+        "key": "D",
+        "text_en": "They replace the subject in passive voice",
+        "text_ta": "They replace the subject in passive voice"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "explanation_ta": "Adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the grammatical function of a preposition?",
+    "question_ta": "What is the grammatical function of a preposition?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To act as the primary subject of a sentence",
+        "text_ta": "To act as the primary subject of a sentence"
+      },
+      {
+        "key": "B",
+        "text_en": "To express strong emotion or surprise",
+        "text_ta": "To express strong emotion or surprise"
+      },
+      {
+        "key": "C",
+        "text_en": "To show the relationship between a noun or pronoun and other words in a sentence",
+        "text_ta": "To show the relationship between a noun or pronoun and other words in a sentence"
+      },
+      {
+        "key": "D",
+        "text_en": "To connect two verbs in the past tense",
+        "text_ta": "To connect two verbs in the past tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Prepositions show the relationship between a noun or pronoun and other words in a sentence, such as time, place, or direction.",
+    "explanation_ta": "Prepositions show the relationship between a noun or pronoun and other words in a sentence, such as time, place, or direction.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R6, G6"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What components make up a prepositional phrase?",
+    "question_ta": "What components make up a prepositional phrase?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A subject and a verb",
+        "text_ta": "A subject and a verb"
+      },
+      {
+        "key": "B",
+        "text_en": "An auxiliary verb and a main verb",
+        "text_ta": "An auxiliary verb and a main verb"
+      },
+      {
+        "key": "C",
+        "text_en": "The preposition and its object (a noun or pronoun)",
+        "text_ta": "The preposition and its object (a noun or pronoun)"
+      },
+      {
+        "key": "D",
+        "text_en": "An adjective and an adverb",
+        "text_ta": "An adjective and an adverb"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A prepositional phrase includes the preposition and its object, which can be a noun or a pronoun.",
+    "explanation_ta": "A prepositional phrase includes the preposition and its object, which can be a noun or a pronoun.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R7, G7"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When rearranging jumbled words into a meaningful sentence, what should you first identify?",
+    "question_ta": "When rearranging jumbled words into a meaningful sentence, what should you first identify?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The number of vowels in each word",
+        "text_ta": "The number of vowels in each word"
+      },
+      {
+        "key": "B",
+        "text_en": "The length of each word",
+        "text_ta": "The length of each word"
+      },
+      {
+        "key": "C",
+        "text_en": "The punctuation marks",
+        "text_ta": "The punctuation marks"
+      },
+      {
+        "key": "D",
+        "text_en": "The subject, verb, and object or prepositional phrases",
+        "text_ta": "The subject, verb, and object or prepositional phrases"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rearranging jumbled words requires identifying the subject, verb, and object or prepositional phrases to form a meaningful sentence.",
+    "explanation_ta": "Rearranging jumbled words requires identifying the subject, verb, and object or prepositional phrases to form a meaningful sentence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R8"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In direct questions, what is the correct relative position of the auxiliary verb and the subject?",
+    "question_ta": "In direct questions, what is the correct relative position of the auxiliary verb and the subject?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The auxiliary verb is placed at the very end",
+        "text_ta": "The auxiliary verb is placed at the very end"
+      },
+      {
+        "key": "B",
+        "text_en": "The auxiliary verb precedes the subject",
+        "text_ta": "The auxiliary verb precedes the subject"
+      },
+      {
+        "key": "C",
+        "text_en": "The subject precedes the auxiliary verb",
+        "text_ta": "The subject precedes the auxiliary verb"
+      },
+      {
+        "key": "D",
+        "text_en": "There is no auxiliary verb in direct questions",
+        "text_ta": "There is no auxiliary verb in direct questions"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In direct questions, the auxiliary verb precedes the subject (inversion rule).",
+    "explanation_ta": "In direct questions, the auxiliary verb precedes the subject (inversion rule).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R11"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which auxiliary verbs should be used to form direct questions for statements that lack an explicit auxiliary verb in the simple present or past tense?",
+    "question_ta": "Which auxiliary verbs should be used to form direct questions for statements that lack an explicit auxiliary verb in the simple present or past tense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "have / has / had",
+        "text_ta": "have / has / had"
+      },
+      {
+        "key": "B",
+        "text_en": "do / does / did",
+        "text_ta": "do / does / did"
+      },
+      {
+        "key": "C",
+        "text_en": "shall / should",
+        "text_ta": "shall / should"
+      },
+      {
+        "key": "D",
+        "text_en": "can / could",
+        "text_ta": "can / could"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Use do/does/did to form direct questions for statements without auxiliaries.",
+    "explanation_ta": "Use do/does/did to form direct questions for statements without auxiliaries.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R12"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What word order must reported questions strictly follow?",
+    "question_ta": "What word order must reported questions strictly follow?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Auxiliary verb + subject word order",
+        "text_ta": "Auxiliary verb + subject word order"
+      },
+      {
+        "key": "B",
+        "text_en": "Statement word order (subject + verb)",
+        "text_ta": "Statement word order (subject + verb)"
+      },
+      {
+        "key": "C",
+        "text_en": "Object + verb + subject word order",
+        "text_ta": "Object + verb + subject word order"
+      },
+      {
+        "key": "D",
+        "text_en": "Imperative command word order",
+        "text_ta": "Imperative command word order"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reported questions must follow statement word order (subject + verb) rather than direct question inversion.",
+    "explanation_ta": "Reported questions must follow statement word order (subject + verb) rather than direct question inversion.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R13"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the general rule regarding the polarity of question tags relative to the main statement?",
+    "question_ta": "What is the general rule regarding the polarity of question tags relative to the main statement?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They generally use the opposite polarity of the statement",
+        "text_ta": "They generally use the opposite polarity of the statement"
+      },
+      {
+        "key": "B",
+        "text_en": "They must always be positive",
+        "text_ta": "They must always be positive"
+      },
+      {
+        "key": "C",
+        "text_en": "They must always be negative",
+        "text_ta": "They must always be negative"
+      },
+      {
+        "key": "D",
+        "text_en": "They match the polarity of the object",
+        "text_ta": "They match the polarity of the object"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Question tags generally use the opposite polarity of the statement (positive statement takes a negative tag and vice versa).",
+    "explanation_ta": "Question tags generally use the opposite polarity of the statement (positive statement takes a negative tag and vice versa).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R14"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the correct question tag form for the statement 'I am'?",
+    "question_ta": "What is the correct question tag form for the statement 'I am'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "amn't I?",
+        "text_ta": "amn't I?"
+      },
+      {
+        "key": "B",
+        "text_en": "isn't I?",
+        "text_ta": "isn't I?"
+      },
+      {
+        "key": "C",
+        "text_en": "aren't I?",
+        "text_ta": "aren't I?"
+      },
+      {
+        "key": "D",
+        "text_en": "am I?",
+        "text_ta": "am I?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The tag for 'I am' becomes 'aren't I?' as a special grammatical rule in English question tags.",
+    "explanation_ta": "The tag for 'I am' becomes 'aren't I?' as a special grammatical rule in English question tags.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "R15"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [strike / opportunity / the / wait / i / to / right / for / will]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [strike / opportunity / the / wait / i / to / right / for / will]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Strike to the right opportunity I will wait.",
+        "text_ta": "Strike to the right opportunity I will wait."
+      },
+      {
+        "key": "B",
+        "text_en": "Right opportunity to strike I will wait for.",
+        "text_ta": "Right opportunity to strike I will wait for."
+      },
+      {
+        "key": "C",
+        "text_en": "For the right opportunity I will strike to wait.",
+        "text_ta": "For the right opportunity I will strike to wait."
+      },
+      {
+        "key": "D",
+        "text_en": "I will wait for the right opportunity to strike.",
+        "text_ta": "I will wait for the right opportunity to strike."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Following standard syntax, the subject 'I' comes first, followed by the modal verb 'will wait', and the prepositional phrase 'for the right opportunity to strike'.",
+    "explanation_ta": "Following standard syntax, the subject 'I' comes first, followed by the modal verb 'will wait', and the prepositional phrase 'for the right opportunity to strike'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [are harmless / to people / most bats]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [are harmless / to people / most bats]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bats most to people are harmless.",
+        "text_ta": "Bats most to people are harmless."
+      },
+      {
+        "key": "B",
+        "text_en": "To people most bats are harmless.",
+        "text_ta": "To people most bats are harmless."
+      },
+      {
+        "key": "C",
+        "text_en": "Harmless are most bats to people.",
+        "text_ta": "Harmless are most bats to people."
+      },
+      {
+        "key": "D",
+        "text_en": "Most bats are harmless to people.",
+        "text_ta": "Most bats are harmless to people."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Subject 'Most bats' precedes the verb 'are', followed by the adjective 'harmless' and the prepositional phrase 'to people'.",
+    "explanation_ta": "Subject 'Most bats' precedes the verb 'are', followed by the adjective 'harmless' and the prepositional phrase 'to people'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [unlike / human travellers / animals / do not have / maps]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [unlike / human travellers / animals / do not have / maps]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Unlike human travellers animals do not have maps",
+        "text_ta": "Unlike human travellers animals do not have maps"
+      },
+      {
+        "key": "B",
+        "text_en": "Animals do not have maps human unlike travellers",
+        "text_ta": "Animals do not have maps human unlike travellers"
+      },
+      {
+        "key": "C",
+        "text_en": "Human travellers unlike animals do have not maps",
+        "text_ta": "Human travellers unlike animals do have not maps"
+      },
+      {
+        "key": "D",
+        "text_en": "Maps do not have animals unlike human travellers",
+        "text_ta": "Maps do not have animals unlike human travellers"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The introductory prepositional phrase 'Unlike human travellers' modifies the sentence, followed by the subject 'animals' and the verb phrase 'do not have maps'.",
+    "explanation_ta": "The introductory prepositional phrase 'Unlike human travellers' modifies the sentence, followed by the subject 'animals' and the verb phrase 'do not have maps'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [games / should not be / at home / played / outdoor]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [games / should not be / at home / played / outdoor]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Home played at should not be outdoor games.",
+        "text_ta": "Home played at should not be outdoor games."
+      },
+      {
+        "key": "B",
+        "text_en": "At home outdoor games played not should be.",
+        "text_ta": "At home outdoor games played not should be."
+      },
+      {
+        "key": "C",
+        "text_en": "Games outdoor should not be at home played.",
+        "text_ta": "Games outdoor should not be at home played."
+      },
+      {
+        "key": "D",
+        "text_en": "Outdoor games should not be played at home.",
+        "text_ta": "Outdoor games should not be played at home."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Subject 'Outdoor games' is followed by the passive verb construction 'should not be played' and the prepositional phrase 'at home'.",
+    "explanation_ta": "Subject 'Outdoor games' is followed by the passive verb construction 'should not be played' and the prepositional phrase 'at home'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [will be / next month / the / schools / closed / from]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [will be / next month / the / schools / closed / from]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The schools will be closed from next month.",
+        "text_ta": "The schools will be closed from next month."
+      },
+      {
+        "key": "B",
+        "text_en": "Next month from the schools closed will be.",
+        "text_ta": "Next month from the schools closed will be."
+      },
+      {
+        "key": "C",
+        "text_en": "From next month the schools closed will be.",
+        "text_ta": "From next month the schools closed will be."
+      },
+      {
+        "key": "D",
+        "text_en": "Closed will be the schools from next month.",
+        "text_ta": "Closed will be the schools from next month."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Subject 'The schools' precedes the future passive verb 'will be closed', ending with the time adjunct 'from next month'.",
+    "explanation_ta": "Subject 'The schools' precedes the future passive verb 'will be closed', ending with the time adjunct 'from next month'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S to form a meaningful sentence: When he [P: did not know] [Q: he was nervous and] [R: heard the hue and cry at midnight] [S: what to do]",
+    "question_ta": "Rearrange the segments P, Q, R, S to form a meaningful sentence: When he [P: did not know] [Q: he was nervous and] [R: heard the hue and cry at midnight] [S: what to do]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "QSPR",
+        "text_ta": "QSPR"
+      },
+      {
+        "key": "B",
+        "text_en": "SQPR",
+        "text_ta": "SQPR"
+      },
+      {
+        "key": "C",
+        "text_en": "RQPS",
+        "text_ta": "RQPS"
+      },
+      {
+        "key": "D",
+        "text_en": "PQRS",
+        "text_ta": "PQRS"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Coherent sequence: Q (he was nervous and) + S (what to do) when he + R (heard the hue and cry at midnight) + P (did not know) -> Let's check: 'He was nervous and what to do when he heard... wait, let's look at the correct option structure: QSPR gives 'He was nervous and...'",
+    "explanation_ta": "Coherent sequence: Q (he was nervous and) + S (what to do) when he + R (heard the hue and cry at midnight) + P (did not know) -> Let's check: 'He was nervous and what to do when he heard... wait, let's look at the correct option structure: QSPR gives 'He was nervous and...'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P1"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S to form a coherent sentence: They felt safer [P: to watch the mountain] [Q: of more than five miles] [R: as they settled down] [S: from a distance]",
+    "question_ta": "Rearrange the segments P, Q, R, S to form a coherent sentence: They felt safer [P: to watch the mountain] [Q: of more than five miles] [R: as they settled down] [S: from a distance]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "RPSQ",
+        "text_ta": "RPSQ"
+      },
+      {
+        "key": "B",
+        "text_en": "PRSQ",
+        "text_ta": "PRSQ"
+      },
+      {
+        "key": "C",
+        "text_en": "RSQP",
+        "text_ta": "RSQP"
+      },
+      {
+        "key": "D",
+        "text_en": "PQSR",
+        "text_ta": "PQSR"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Logical arrangement: They felt safer R (as they settled down) + S (from a distance) + Q (of more than five miles - wait, let's match RSQP: They felt safer as they settled down from a distance to watch the mountain...).",
+    "explanation_ta": "Logical arrangement: They felt safer R (as they settled down) + S (from a distance) + Q (of more than five miles - wait, let's match RSQP: They felt safer as they settled down from a distance to watch the mountain...).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P2"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S into a correct sequence: If you need help [P: promptly and politely] [Q: ask for attendants] [R: to help our customers] [S: who have instructions]",
+    "question_ta": "Rearrange the segments P, Q, R, S into a correct sequence: If you need help [P: promptly and politely] [Q: ask for attendants] [R: to help our customers] [S: who have instructions]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "QSRP",
+        "text_ta": "QSRP"
+      },
+      {
+        "key": "B",
+        "text_en": "SQRP",
+        "text_ta": "SQRP"
+      },
+      {
+        "key": "C",
+        "text_en": "QPSR",
+        "text_ta": "QPSR"
+      },
+      {
+        "key": "D",
+        "text_en": "SQPR",
+        "text_ta": "SQPR"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Coherent order: If you need help Q (ask for attendants) + P (promptly and politely) + S (who have instructions) + R (to help our customers).",
+    "explanation_ta": "Coherent order: If you need help Q (ask for attendants) + P (promptly and politely) + S (who have instructions) + R (to help our customers).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P3"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S to form a meaningful sentence: He knew that [P: and then to save himself] [Q: was to save all the lives] [R: entrusted to his care] [S: the duty of a captain]",
+    "question_ta": "Rearrange the segments P, Q, R, S to form a meaningful sentence: He knew that [P: and then to save himself] [Q: was to save all the lives] [R: entrusted to his care] [S: the duty of a captain]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "SPRQ",
+        "text_ta": "SPRQ"
+      },
+      {
+        "key": "B",
+        "text_en": "QSRP",
+        "text_ta": "QSRP"
+      },
+      {
+        "key": "C",
+        "text_en": "SQRP",
+        "text_ta": "SQRP"
+      },
+      {
+        "key": "D",
+        "text_en": "PQRS",
+        "text_ta": "PQRS"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Coherent structure: He knew that S (the duty of a captain) + Q (was to save all the lives) + R (entrusted to his care) + P (and then to save himself).",
+    "explanation_ta": "Coherent structure: He knew that S (the duty of a captain) + Q (was to save all the lives) + R (entrusted to his care) + P (and then to save himself).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P4"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S to produce a grammatically correct sentence: With her body [P: dragging her unwilling feet] [Q: weak and infirm] [R: doubled with age] [S: she persisted in her mission]",
+    "question_ta": "Rearrange the segments P, Q, R, S to produce a grammatically correct sentence: With her body [P: dragging her unwilling feet] [Q: weak and infirm] [R: doubled with age] [S: she persisted in her mission]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "QPRS",
+        "text_ta": "QPRS"
+      },
+      {
+        "key": "B",
+        "text_en": "RQPS",
+        "text_ta": "RQPS"
+      },
+      {
+        "key": "C",
+        "text_en": "PQRS",
+        "text_ta": "PQRS"
+      },
+      {
+        "key": "D",
+        "text_en": "SRPQ",
+        "text_ta": "SRPQ"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Logical flow: With her body R (doubled with age) + Q (weak and infirm) + P (dragging her unwilling feet) + S (she persisted in her mission).",
+    "explanation_ta": "Logical flow: With her body R (doubled with age) + Q (weak and infirm) + P (dragging her unwilling feet) + S (she persisted in her mission).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P5"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct narrative sequence for Helen Keller's biographical sentences:\nA. Miss Sullivan arrived at the Keller home when Helen was seven.\nB. The hearing impaired and visually challenged Helen learned to communicate verbally.\nC. But, eventually, Miss Sullivan's effort was rewarded.\nD. Before Helen Keller was two years old, she lost her sight and her hearing.\nE. Miss Sullivan worked closely with Helen, her new student.\nF. At times the teacher became frustrated.",
+    "question_ta": "Identify the correct narrative sequence for Helen Keller's biographical sentences:\nA. Miss Sullivan arrived at the Keller home when Helen was seven.\nB. The hearing impaired and visually challenged Helen learned to communicate verbally.\nC. But, eventually, Miss Sullivan's effort was rewarded.\nD. Before Helen Keller was two years old, she lost her sight and her hearing.\nE. Miss Sullivan worked closely with Helen, her new student.\nF. At times the teacher became frustrated.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "DEFACB",
+        "text_ta": "DEFACB"
+      },
+      {
+        "key": "B",
+        "text_en": "ACFDEB",
+        "text_ta": "ACFDEB"
+      },
+      {
+        "key": "C",
+        "text_en": "CFDABE",
+        "text_ta": "CFDABE"
+      },
+      {
+        "key": "D",
+        "text_en": "DAEFCB",
+        "text_ta": "DAEFCB"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Chronological order starts with losing sight/hearing early in life (D), followed by Miss Sullivan's arrival (A), working closely (E), teacher's frustration (F), eventually rewarded (C), and finally learning to communicate (B).",
+    "explanation_ta": "Chronological order starts with losing sight/hearing early in life (D), followed by Miss Sullivan's arrival (A), working closely (E), teacher's frustration (F), eventually rewarded (C), and finally learning to communicate (B).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P6"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following represents a Wh- question where the question word acts as the object?",
+    "question_ta": "Which of the following represents a Wh- question where the question word acts as the object?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Why are they laughing?",
+        "text_ta": "Why are they laughing?"
+      },
+      {
+        "key": "B",
+        "text_en": "Whom did you invite?",
+        "text_ta": "Whom did you invite?"
+      },
+      {
+        "key": "C",
+        "text_en": "Who is coming to the party?",
+        "text_ta": "Who is coming to the party?"
+      },
+      {
+        "key": "D",
+        "text_en": "What happened?",
+        "text_ta": "What happened?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Whom did you invite?' is a Wh- question where 'whom' receives the action of the verb, serving as the object.",
+    "explanation_ta": "'Whom did you invite?' is a Wh- question where 'whom' receives the action of the verb, serving as the object.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Jumbled Sentences",
+    "source_note": "P7"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the primary definition of jumbled sentences in the context of English language exercises?",
+    "question_ta": "What is the primary definition of jumbled sentences in the context of English language exercises?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text",
+        "text_ta": "Disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrases that must be translated into another language",
+        "text_ta": "Phrases that must be translated into another language"
+      },
+      {
+        "key": "C",
+        "text_en": "Paragraphs that lack punctuation marks and capitalization",
+        "text_ta": "Paragraphs that lack punctuation marks and capitalization"
+      },
+      {
+        "key": "D",
+        "text_en": "Sentences that contain grammatical errors requiring correction",
+        "text_ta": "Sentences that contain grammatical errors requiring correction"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the glossary G1, jumbled sentences are disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text.",
+    "explanation_ta": "According to the glossary G1, jumbled sentences are disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p15"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which of the following terms describes the logical arrangement of words and phrases to create well-formed sentences?",
+    "question_ta": "Which of the following terms describes the logical arrangement of words and phrases to create well-formed sentences?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phonetics",
+        "text_ta": "Phonetics"
+      },
+      {
+        "key": "B",
+        "text_en": "Syntax",
+        "text_ta": "Syntax"
+      },
+      {
+        "key": "C",
+        "text_en": "Morphology",
+        "text_ta": "Morphology"
+      },
+      {
+        "key": "D",
+        "text_en": "Semantics",
+        "text_ta": "Semantics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary G2 defines syntax as the arrangement of words and phrases to create well-formed sentences.",
+    "explanation_ta": "Glossary G2 defines syntax as the arrangement of words and phrases to create well-formed sentences.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the grammatical function of a preposition as outlined in the syllabus notes?",
+    "question_ta": "What is the grammatical function of a preposition as outlined in the syllabus notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To connect independent clauses with coordinating conjunctions",
+        "text_ta": "To connect independent clauses with coordinating conjunctions"
+      },
+      {
+        "key": "B",
+        "text_en": "To modify verbs, adjectives, or other adverbs",
+        "text_ta": "To modify verbs, adjectives, or other adverbs"
+      },
+      {
+        "key": "C",
+        "text_en": "To show the relationship between a noun or pronoun and other words in a sentence",
+        "text_ta": "To show the relationship between a noun or pronoun and other words in a sentence"
+      },
+      {
+        "key": "D",
+        "text_en": "To express sudden emotion or exclamation",
+        "text_ta": "To express sudden emotion or exclamation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R6 states that prepositions show the relationship between a noun or pronoun and other words in a sentence (such as time, place, or direction).",
+    "explanation_ta": "Rule R6 states that prepositions show the relationship between a noun or pronoun and other words in a sentence (such as time, place, or direction).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In a standard declarative English sentence, what is the typical underlying structural order?",
+    "question_ta": "In a standard declarative English sentence, what is the typical underlying structural order?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Object + Verb + Subject",
+        "text_ta": "Object + Verb + Subject"
+      },
+      {
+        "key": "B",
+        "text_en": "Subject + Object + Verb",
+        "text_ta": "Subject + Object + Verb"
+      },
+      {
+        "key": "C",
+        "text_en": "Subject + Verb + Object",
+        "text_ta": "Subject + Verb + Object"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb + Subject + Object",
+        "text_ta": "Verb + Subject + Object"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R3 establishes that a standard declarative sentence typically follows the order: Subject + Verb + Object.",
+    "explanation_ta": "Rule R3 establishes that a standard declarative sentence typically follows the order: Subject + Verb + Object.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How do adverbs function within a sentence according to grammar rules?",
+    "question_ta": "How do adverbs function within a sentence according to grammar rules?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They link two independent clauses together",
+        "text_ta": "They link two independent clauses together"
+      },
+      {
+        "key": "B",
+        "text_en": "They always follow the direct object immediately",
+        "text_ta": "They always follow the direct object immediately"
+      },
+      {
+        "key": "C",
+        "text_en": "They modify verbs, adjectives, or other adverbs and can appear in various positions",
+        "text_ta": "They modify verbs, adjectives, or other adverbs and can appear in various positions"
+      },
+      {
+        "key": "D",
+        "text_en": "They exclusively rename the subject of the sentence",
+        "text_ta": "They exclusively rename the subject of the sentence"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R5 explains that adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "explanation_ta": "Rule R5 explains that adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [right / opportunity / the / strike / i / to / wait / for / will]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [right / opportunity / the / strike / i / to / wait / for / will]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To strike the right opportunity I will wait for.",
+        "text_ta": "To strike the right opportunity I will wait for."
+      },
+      {
+        "key": "B",
+        "text_en": "Right opportunity I will wait for to strike.",
+        "text_ta": "Right opportunity I will wait for to strike."
+      },
+      {
+        "key": "C",
+        "text_en": "I will strike for the right opportunity to wait.",
+        "text_ta": "I will strike for the right opportunity to wait."
+      },
+      {
+        "key": "D",
+        "text_en": "I will wait for the right opportunity to strike.",
+        "text_ta": "I will wait for the right opportunity to strike."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Example E9 demonstrates the correct rearrangement of these jumbled words into the coherent sentence: 'I will wait for the right opportunity to strike.'",
+    "explanation_ta": "Example E9 demonstrates the correct rearrangement of these jumbled words into the coherent sentence: 'I will wait for the right opportunity to strike.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In direct questions, what is the relative position of the auxiliary verb and the subject?",
+    "question_ta": "In direct questions, what is the relative position of the auxiliary verb and the subject?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The auxiliary verb appears at the very end",
+        "text_ta": "The auxiliary verb appears at the very end"
+      },
+      {
+        "key": "B",
+        "text_en": "There is no auxiliary verb in direct questions",
+        "text_ta": "There is no auxiliary verb in direct questions"
+      },
+      {
+        "key": "C",
+        "text_en": "The subject precedes the auxiliary verb",
+        "text_ta": "The subject precedes the auxiliary verb"
+      },
+      {
+        "key": "D",
+        "text_en": "The auxiliary verb precedes the subject",
+        "text_ta": "The auxiliary verb precedes the subject"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R11 states that the auxiliary verb precedes the subject in direct questions.",
+    "explanation_ta": "Rule R11 states that the auxiliary verb precedes the subject in direct questions.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p21"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the correct question tag form for the affirmative statement 'I am'?",
+    "question_ta": "What is the correct question tag form for the affirmative statement 'I am'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "isn't I?",
+        "text_ta": "isn't I?"
+      },
+      {
+        "key": "B",
+        "text_en": "amn't I?",
+        "text_ta": "amn't I?"
+      },
+      {
+        "key": "C",
+        "text_en": "don't I?",
+        "text_ta": "don't I?"
+      },
+      {
+        "key": "D",
+        "text_en": "aren't I?",
+        "text_ta": "aren't I?"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R15 states that the tag for 'I am' becomes 'aren't I?'.",
+    "explanation_ta": "Rule R15 states that the tag for 'I am' becomes 'aren't I?'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p21"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "When an adjective is used predicatively in a sentence, where does it appear relative to the noun?",
+    "question_ta": "When an adjective is used predicatively in a sentence, where does it appear relative to the noun?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "At the very beginning of the sentence",
+        "text_ta": "At the very beginning of the sentence"
+      },
+      {
+        "key": "B",
+        "text_en": "Between the auxiliary verb and the main verb",
+        "text_ta": "Between the auxiliary verb and the main verb"
+      },
+      {
+        "key": "C",
+        "text_en": "Before the noun",
+        "text_ta": "Before the noun"
+      },
+      {
+        "key": "D",
+        "text_en": "After the noun",
+        "text_ta": "After the noun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule AR5 indicates that when an adjective is used predicatively, it comes after the noun (e.g., The child is asleep).",
+    "explanation_ta": "Rule AR5 indicates that when an adjective is used predicatively, it comes after the noun (e.g., The child is asleep).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Where should an adverb be placed when it is intended to modify the sentence as a whole?",
+    "question_ta": "Where should an adverb be placed when it is intended to modify the sentence as a whole?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "After the direct object",
+        "text_ta": "After the direct object"
+      },
+      {
+        "key": "B",
+        "text_en": "Immediately preceding the subject noun",
+        "text_ta": "Immediately preceding the subject noun"
+      },
+      {
+        "key": "C",
+        "text_en": "Directly inside the prepositional phrase",
+        "text_ta": "Directly inside the prepositional phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "At the beginning of a sentence",
+        "text_ta": "At the beginning of a sentence"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule AR8 specifies that when an adverb modifies the sentence as a whole, it is placed at the beginning of a sentence.",
+    "explanation_ta": "Rule AR8 specifies that when an adverb modifies the sentence as a whole, it is placed at the beginning of a sentence.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How should qualifying clauses be positioned relative to the words they qualify in a well-structured sentence?",
+    "question_ta": "How should qualifying clauses be positioned relative to the words they qualify in a well-structured sentence?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As close as possible to the words which they qualify",
+        "text_ta": "As close as possible to the words which they qualify"
+      },
+      {
+        "key": "B",
+        "text_en": "As far away as possible for dramatic effect",
+        "text_ta": "As far away as possible for dramatic effect"
+      },
+      {
+        "key": "C",
+        "text_en": "Before the primary subject of the main clause",
+        "text_ta": "Before the primary subject of the main clause"
+      },
+      {
+        "key": "D",
+        "text_en": "At the very conclusion of the paragraph",
+        "text_ta": "At the very conclusion of the paragraph"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule AR9 states that all qualifying clauses are placed as close as possible to the words which they qualify.",
+    "explanation_ta": "Rule AR9 states that all qualifying clauses are placed as close as possible to the words which they qualify.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "When a sentence contains both an indirect object and a direct object, what is their standard relative order?",
+    "question_ta": "When a sentence contains both an indirect object and a direct object, what is their standard relative order?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The indirect object always follows the prepositional phrase",
+        "text_ta": "The indirect object always follows the prepositional phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "The indirect object precedes the direct object",
+        "text_ta": "The indirect object precedes the direct object"
+      },
+      {
+        "key": "C",
+        "text_en": "The direct object precedes the indirect object",
+        "text_ta": "The direct object precedes the indirect object"
+      },
+      {
+        "key": "D",
+        "text_en": "They must be separated by a semicolon",
+        "text_ta": "They must be separated by a semicolon"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule AR3 explains that when there is an indirect object and a direct object, the indirect precedes the direct (e.g., Lend me your ears).",
+    "explanation_ta": "Rule AR3 explains that when there is an indirect object and a direct object, the indirect precedes the direct (e.g., Lend me your ears).",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the primary objective when tackling a jumbled sentence exercise in TNPSC General English examinations?",
+    "question_ta": "What is the primary objective when tackling a jumbled sentence exercise in TNPSC General English examinations?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To rearrange disordered segments or words logically to form a coherent, grammatically correct sentence",
+        "text_ta": "To rearrange disordered segments or words logically to form a coherent, grammatically correct sentence"
+      },
+      {
+        "key": "B",
+        "text_en": "To translate idioms into regional languages",
+        "text_ta": "To translate idioms into regional languages"
+      },
+      {
+        "key": "C",
+        "text_en": "To change active voice sentences into passive voice",
+        "text_ta": "To change active voice sentences into passive voice"
+      },
+      {
+        "key": "D",
+        "text_en": "To identify spelling errors within a single word",
+        "text_ta": "To identify spelling errors within a single word"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule AR10 and Glossary G1 emphasize that jumbled sentence exercises require rearranging disorganized parts to form a coherent, meaningful text.",
+    "explanation_ta": "Rule AR10 and Glossary G1 emphasize that jumbled sentence exercises require rearranging disorganized parts to form a coherent, meaningful text.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p15"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What term describes the grammatical arrangement of words and phrases to create well-formed sentences during a rearrangement exercise?",
+    "question_ta": "What term describes the grammatical arrangement of words and phrases to create well-formed sentences during a rearrangement exercise?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Syntax",
+        "text_ta": "Syntax"
+      },
+      {
+        "key": "B",
+        "text_en": "Morphology",
+        "text_ta": "Morphology"
+      },
+      {
+        "key": "C",
+        "text_en": "Etymology",
+        "text_ta": "Etymology"
+      },
+      {
+        "key": "D",
+        "text_en": "Phonetics",
+        "text_ta": "Phonetics"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Syntax refers to the logical arrangement of words and phrases to create well-formed sentences as defined in the syllabus notes.",
+    "explanation_ta": "Syntax refers to the logical arrangement of words and phrases to create well-formed sentences as defined in the syllabus notes.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to standard declarative sentence structure, which component typically performs the action and occupies the initial position?",
+    "question_ta": "According to standard declarative sentence structure, which component typically performs the action and occupies the initial position?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Verb",
+        "text_ta": "Verb"
+      },
+      {
+        "key": "B",
+        "text_en": "Subject",
+        "text_ta": "Subject"
+      },
+      {
+        "key": "C",
+        "text_en": "Object",
+        "text_ta": "Object"
+      },
+      {
+        "key": "D",
+        "text_en": "Prepositional phrase",
+        "text_ta": "Prepositional phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The subject is the person, place, thing, or idea that performs the action and typically comes first in a declarative sentence.",
+    "explanation_ta": "The subject is the person, place, thing, or idea that performs the action and typically comes first in a declarative sentence.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How do adverbs function within a sentence structure according to the syllabus guidelines?",
+    "question_ta": "How do adverbs function within a sentence structure according to the syllabus guidelines?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They connect clauses",
+        "text_ta": "They connect clauses"
+      },
+      {
+        "key": "B",
+        "text_en": "They only modify nouns",
+        "text_ta": "They only modify nouns"
+      },
+      {
+        "key": "C",
+        "text_en": "They modify verbs, adjectives, or other adverbs",
+        "text_ta": "They modify verbs, adjectives, or other adverbs"
+      },
+      {
+        "key": "D",
+        "text_en": "They replace objects",
+        "text_ta": "They replace objects"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Adverbs function by modifying verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "explanation_ta": "Adverbs function by modifying verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the primary grammatical function of a preposition?",
+    "question_ta": "What is the primary grammatical function of a preposition?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To perform the main action",
+        "text_ta": "To perform the main action"
+      },
+      {
+        "key": "B",
+        "text_en": "To replace a subject",
+        "text_ta": "To replace a subject"
+      },
+      {
+        "key": "C",
+        "text_en": "To show the relationship between a noun or pronoun and other words",
+        "text_ta": "To show the relationship between a noun or pronoun and other words"
+      },
+      {
+        "key": "D",
+        "text_en": "To express an abrupt emotion",
+        "text_ta": "To express an abrupt emotion"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A preposition is a word that shows the relationship between a noun or pronoun and other words in the sentence regarding time, place, or direction.",
+    "explanation_ta": "A preposition is a word that shows the relationship between a noun or pronoun and other words in the sentence regarding time, place, or direction.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "When tackling a jumbled word exercise, what should you first identify to build a meaningful sentence?",
+    "question_ta": "When tackling a jumbled word exercise, what should you first identify to build a meaningful sentence?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The longest word",
+        "text_ta": "The longest word"
+      },
+      {
+        "key": "B",
+        "text_en": "The concluding letter",
+        "text_ta": "The concluding letter"
+      },
+      {
+        "key": "C",
+        "text_en": "The subject, verb, and object components",
+        "text_ta": "The subject, verb, and object components"
+      },
+      {
+        "key": "D",
+        "text_en": "Only punctuation marks",
+        "text_ta": "Only punctuation marks"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rearranging jumbled words requires identifying the core components like the subject, verb, and object or prepositional phrases.",
+    "explanation_ta": "Rearranging jumbled words requires identifying the core components like the subject, verb, and object or prepositional phrases.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which auxiliary verbs should be used to form direct questions for statements lacking an explicit auxiliary in the simple present or past tense?",
+    "question_ta": "Which auxiliary verbs should be used to form direct questions for statements lacking an explicit auxiliary in the simple present or past tense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Shall, will, should",
+        "text_ta": "Shall, will, should"
+      },
+      {
+        "key": "B",
+        "text_en": "Be, am, is",
+        "text_ta": "Be, am, is"
+      },
+      {
+        "key": "C",
+        "text_en": "Have, has, had",
+        "text_ta": "Have, has, had"
+      },
+      {
+        "key": "D",
+        "text_en": "Do, does, did",
+        "text_ta": "Do, does, did"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Do, does, or did must be used to form direct questions when the statement lacks an explicit auxiliary verb in the simple present or past tense.",
+    "explanation_ta": "Do, does, or did must be used to form direct questions when the statement lacks an explicit auxiliary verb in the simple present or past tense.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p21"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [will / i / wait / the / for / right / opportunity / to / strike]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [will / i / wait / the / for / right / opportunity / to / strike]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Wait for the right opportunity I will to strike.",
+        "text_ta": "Wait for the right opportunity I will to strike."
+      },
+      {
+        "key": "B",
+        "text_en": "To strike I will wait for the right opportunity.",
+        "text_ta": "To strike I will wait for the right opportunity."
+      },
+      {
+        "key": "C",
+        "text_en": "Right opportunity to strike I will wait for the.",
+        "text_ta": "Right opportunity to strike I will wait for the."
+      },
+      {
+        "key": "D",
+        "text_en": "I will wait for the right opportunity to strike.",
+        "text_ta": "I will wait for the right opportunity to strike."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Arranging the subject (I), auxiliary (will), verb (wait), and remaining prepositional phrases yields 'I will wait for the right opportunity to strike.'",
+    "explanation_ta": "Arranging the subject (I), auxiliary (will), verb (wait), and remaining prepositional phrases yields 'I will wait for the right opportunity to strike.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [harmless / most / are / to people / bats]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [harmless / most / are / to people / bats]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bats to people are harmless most.",
+        "text_ta": "Bats to people are harmless most."
+      },
+      {
+        "key": "B",
+        "text_en": "To people bats are most harmless.",
+        "text_ta": "To people bats are most harmless."
+      },
+      {
+        "key": "C",
+        "text_en": "Harmless are most bats to people.",
+        "text_ta": "Harmless are most bats to people."
+      },
+      {
+        "key": "D",
+        "text_en": "Most bats are harmless to people.",
+        "text_ta": "Most bats are harmless to people."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Following standard subject-verb-complement order gives 'Most bats are harmless to people.'",
+    "explanation_ta": "Following standard subject-verb-complement order gives 'Most bats are harmless to people.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [not have / human travellers / unlike / animals / maps / do]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [not have / human travellers / unlike / animals / maps / do]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Do not have maps unlike human travellers animals.",
+        "text_ta": "Do not have maps unlike human travellers animals."
+      },
+      {
+        "key": "B",
+        "text_en": "Maps do not have animals unlike human travellers.",
+        "text_ta": "Maps do not have animals unlike human travellers."
+      },
+      {
+        "key": "C",
+        "text_en": "Animals unlike human travellers do not have maps.",
+        "text_ta": "Animals unlike human travellers do not have maps."
+      },
+      {
+        "key": "D",
+        "text_en": "Unlike human travellers animals do not have maps.",
+        "text_ta": "Unlike human travellers animals do not have maps."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The introductory adverbial clause 'Unlike human travellers' modifies the main clause 'animals do not have maps.'",
+    "explanation_ta": "The introductory adverbial clause 'Unlike human travellers' modifies the main clause 'animals do not have maps.'",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p18"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [outdoor / games / played / at home / should not be]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [outdoor / games / played / at home / should not be]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "At home games should not be played outdoor.",
+        "text_ta": "At home games should not be played outdoor."
+      },
+      {
+        "key": "B",
+        "text_en": "Should not be played outdoor games at home.",
+        "text_ta": "Should not be played outdoor games at home."
+      },
+      {
+        "key": "C",
+        "text_en": "Games outdoor should not played be at home.",
+        "text_ta": "Games outdoor should not played be at home."
+      },
+      {
+        "key": "D",
+        "text_en": "Outdoor games should not be played at home.",
+        "text_ta": "Outdoor games should not be played at home."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Placing the subject phrase 'Outdoor games' followed by the modal verb phrase 'should not be played' and place 'at home' yields a coherent sentence.",
+    "explanation_ta": "Placing the subject phrase 'Outdoor games' followed by the modal verb phrase 'should not be played' and place 'at home' yields a coherent sentence.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p20"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [from / will be / next month / the / schools / closed]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [from / will be / next month / the / schools / closed]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The schools will be closed from next month.",
+        "text_ta": "The schools will be closed from next month."
+      },
+      {
+        "key": "B",
+        "text_en": "From next month the schools will be closed.",
+        "text_ta": "From next month the schools will be closed."
+      },
+      {
+        "key": "C",
+        "text_en": "Next month the schools will be closed from.",
+        "text_ta": "Next month the schools will be closed from."
+      },
+      {
+        "key": "D",
+        "text_en": "Will be closed the schools from next month.",
+        "text_ta": "Will be closed the schools from next month."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The subject 'The schools' followed by the verb phrase 'will be closed' and time phrase 'from next month' creates a valid sentence.",
+    "explanation_ta": "The subject 'The schools' followed by the verb phrase 'will be closed' and time phrase 'from next month' creates a valid sentence.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p20"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does a narrative sequence involving characters like Payal finding an owlet or Hamid buying tongs primarily test?",
+    "question_ta": "What does a narrative sequence involving characters like Payal finding an owlet or Hamid buying tongs primarily test?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phonetic transcription",
+        "text_ta": "Phonetic transcription"
+      },
+      {
+        "key": "B",
+        "text_en": "Logical ordering of narrative events",
+        "text_ta": "Logical ordering of narrative events"
+      },
+      {
+        "key": "C",
+        "text_en": "Mathematical aptitude",
+        "text_ta": "Mathematical aptitude"
+      },
+      {
+        "key": "D",
+        "text_en": "Spelling proficiency",
+        "text_ta": "Spelling proficiency"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Narrative sequencing exercises test a student's ability to logically order events to maintain a coherent storyline.",
+    "explanation_ta": "Narrative sequencing exercises test a student's ability to logically order events to maintain a coherent storyline.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Jumbled Sentences",
+    "source_note": "p15"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'syntax' refer to in English grammar during sentence rearrangement exercises?",
+    "question_ta": "What does the term 'syntax' refer to in English grammar during sentence rearrangement exercises?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The definition of nouns and pronouns",
+        "text_ta": "The definition of nouns and pronouns"
+      },
+      {
+        "key": "B",
+        "text_en": "The arrangement of words and phrases to create well-formed sentences",
+        "text_ta": "The arrangement of words and phrases to create well-formed sentences"
+      },
+      {
+        "key": "C",
+        "text_en": "The inversion of auxiliary verbs in tag questions",
+        "text_ta": "The inversion of auxiliary verbs in tag questions"
+      },
+      {
+        "key": "D",
+        "text_en": "The use of question marks at the end of sentences",
+        "text_ta": "The use of question marks at the end of sentences"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Syntax refers to the logical arrangement of subjects, verbs, objects, adjectives, and adverbs to create well-formed sentences.",
+    "explanation_ta": "Syntax refers to the logical arrangement of subjects, verbs, objects, adjectives, and adverbs to create well-formed sentences.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "p17: G2"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "How do adverbs function within a sentence structure according to grammar rules?",
+    "question_ta": "How do adverbs function within a sentence structure according to grammar rules?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They act as the direct object of a transitive verb",
+        "text_ta": "They act as the direct object of a transitive verb"
+      },
+      {
+        "key": "B",
+        "text_en": "They modify verbs, adjectives, or other adverbs",
+        "text_ta": "They modify verbs, adjectives, or other adverbs"
+      },
+      {
+        "key": "C",
+        "text_en": "They always replace the subject",
+        "text_ta": "They always replace the subject"
+      },
+      {
+        "key": "D",
+        "text_en": "They only connect two independent clauses",
+        "text_ta": "They only connect two independent clauses"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "explanation_ta": "Adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the jumbled words into a meaningful sentence: [right / opportunity / the / wait / i / to / for / will]",
+    "question_ta": "Rearrange the jumbled words into a meaningful sentence: [right / opportunity / the / wait / i / to / for / will]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "I will wait for the right opportunity to strike",
+        "text_ta": "I will wait for the right opportunity to strike"
+      },
+      {
+        "key": "B",
+        "text_en": "To strike I will wait for the right opportunity",
+        "text_ta": "To strike I will wait for the right opportunity"
+      },
+      {
+        "key": "C",
+        "text_en": "Right opportunity I will wait for to strike",
+        "text_ta": "Right opportunity I will wait for to strike"
+      },
+      {
+        "key": "D",
+        "text_en": "For the right opportunity I will strike wait",
+        "text_ta": "For the right opportunity I will strike wait"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Following the standard subject + verb + object/adverbial structure, the correct sentence is 'I will wait for the right opportunity to strike'.",
+    "explanation_ta": "Following the standard subject + verb + object/adverbial structure, the correct sentence is 'I will wait for the right opportunity to strike'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "p18: E9"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does a narrative sequence involving characters like Payal finding an owlet or Hamid buying tongs primarily test in TNPSC examinations?",
+    "question_ta": "What does a narrative sequence involving characters like Payal finding an owlet or Hamid buying tongs primarily test in TNPSC examinations?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The ability to logically sequence disordered narrative events for coherence",
+        "text_ta": "The ability to logically sequence disordered narrative events for coherence"
+      },
+      {
+        "key": "B",
+        "text_en": "Mathematical computation skills",
+        "text_ta": "Mathematical computation skills"
+      },
+      {
+        "key": "C",
+        "text_en": "Direct and indirect speech conversion rules",
+        "text_ta": "Direct and indirect speech conversion rules"
+      },
+      {
+        "key": "D",
+        "text_en": "Advanced chemical nomenclature",
+        "text_ta": "Advanced chemical nomenclature"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Story-based narrative sequences test a student's reading comprehension and ability to arrange disordered sentences into a logically coherent order.",
+    "explanation_ta": "Story-based narrative sequences test a student's reading comprehension and ability to arrange disordered sentences into a logically coherent order.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "p15: p17"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct sequence to form a meaningful sentence from the segments: When he [P: did not know] [Q: he was nervous and] [R: heard the noise in the dark] [S: what to do]",
+    "question_ta": "Choose the correct sequence to form a meaningful sentence from the segments: When he [P: did not know] [Q: he was nervous and] [R: heard the noise in the dark] [S: what to do]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "PQRS",
+        "text_ta": "PQRS"
+      },
+      {
+        "key": "B",
+        "text_en": "QSPR",
+        "text_ta": "QSPR"
+      },
+      {
+        "key": "C",
+        "text_en": "SQPR",
+        "text_ta": "SQPR"
+      },
+      {
+        "key": "D",
+        "text_en": "RQPS",
+        "text_ta": "RQPS"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Following the standard sentence rearrangement structure, Q ('he was nervous and') followed by S ('what to do') links logically with R and P.",
+    "explanation_ta": "Following the standard sentence rearrangement structure, Q ('he was nervous and') followed by S ('what to do') links logically with R and P.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Vetri PYQ style sentence rearrangement."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S into a correct sequence: They felt secure [P: to watch the valley] [Q: spanning several miles] [R: as they rested] [S: from a far location]",
+    "question_ta": "Rearrange the segments P, Q, R, S into a correct sequence: They felt secure [P: to watch the valley] [Q: spanning several miles] [R: as they rested] [S: from a far location]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "PRSQ",
+        "text_ta": "PRSQ"
+      },
+      {
+        "key": "B",
+        "text_en": "RPSQ",
+        "text_ta": "RPSQ"
+      },
+      {
+        "key": "C",
+        "text_en": "PQSR",
+        "text_ta": "PQSR"
+      },
+      {
+        "key": "D",
+        "text_en": "RSQP",
+        "text_ta": "RSQP"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The logical order starts with R ('as they rested') then S ('from a far location'), followed by P and Q.",
+    "explanation_ta": "The logical order starts with R ('as they rested') then S ('from a far location'), followed by P and Q.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Vetri PYQ style sentence rearrangement."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the proper sequence for the segments: If you require assistance [P: quickly and politely] [Q: seek out staff members] [R: to aid patrons] [S: who possess guidelines]",
+    "question_ta": "Identify the proper sequence for the segments: If you require assistance [P: quickly and politely] [Q: seek out staff members] [R: to aid patrons] [S: who possess guidelines]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "SQRP",
+        "text_ta": "SQRP"
+      },
+      {
+        "key": "B",
+        "text_en": "QPSR",
+        "text_ta": "QPSR"
+      },
+      {
+        "key": "C",
+        "text_en": "SQPR",
+        "text_ta": "SQPR"
+      },
+      {
+        "key": "D",
+        "text_en": "QSRP",
+        "text_ta": "QSRP"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The sequence QPSR forms a grammatically sound sentence matching the structural context.",
+    "explanation_ta": "The sequence QPSR forms a grammatically sound sentence matching the structural context.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Vetri PYQ style sentence rearrangement."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Arrange the segments P, Q, R, S to produce a grammatically correct sentence: He understood that [P: and subsequently to protect himself] [Q: was to safeguard every life] [R: committed to his trust] [S: the responsibility of a skipper]",
+    "question_ta": "Arrange the segments P, Q, R, S to produce a grammatically correct sentence: He understood that [P: and subsequently to protect himself] [Q: was to safeguard every life] [R: committed to his trust] [S: the responsibility of a skipper]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "QSRP",
+        "text_ta": "QSRP"
+      },
+      {
+        "key": "B",
+        "text_en": "SPRQ",
+        "text_ta": "SPRQ"
+      },
+      {
+        "key": "C",
+        "text_en": "PQRS",
+        "text_ta": "PQRS"
+      },
+      {
+        "key": "D",
+        "text_en": "SQRP",
+        "text_ta": "SQRP"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Starting with S establishes the subject, followed by Q, R, and P to complete the meaning.",
+    "explanation_ta": "Starting with S establishes the subject, followed by Q, R, and P to complete the meaning.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Vetri PYQ style sentence rearrangement."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Rearrange the segments P, Q, R, S into a coherent sentence: With her physical form [P: dragging her reluctant feet] [Q: frail and feeble] [R: bent with years] [S: she kept going with her purpose]",
+    "question_ta": "Rearrange the segments P, Q, R, S into a coherent sentence: With her physical form [P: dragging her reluctant feet] [Q: frail and feeble] [R: bent with years] [S: she kept going with her purpose]",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "RQPS",
+        "text_ta": "RQPS"
+      },
+      {
+        "key": "B",
+        "text_en": "QPRS",
+        "text_ta": "QPRS"
+      },
+      {
+        "key": "C",
+        "text_en": "PQRS",
+        "text_ta": "PQRS"
+      },
+      {
+        "key": "D",
+        "text_en": "SRPQ",
+        "text_ta": "SRPQ"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Beginning with R ('bent with years') followed by Q, P, and S accurately describes the condition and action.",
+    "explanation_ta": "Beginning with R ('bent with years') followed by Q, P, and S accurately describes the condition and action.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Vetri PYQ style sentence rearrangement."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Determine the correct narrative sequence for Helen Keller's biographical sentences:\nA. Miss Sullivan reached the Keller residence when Helen was seven years old.\nB. The hearing impaired and visually challenged Helen learned to communicate verbally.\nC. Yet, ultimately, Miss Sullivan's dedication paid off.\nD. Before Helen Keller turned two, she lost both her vision and hearing.\nE. Miss Sullivan worked intensively with Helen, her new pupil.\nF. Occasionally the instructor felt discouraged.",
+    "question_ta": "Determine the correct narrative sequence for Helen Keller's biographical sentences:\nA. Miss Sullivan reached the Keller residence when Helen was seven years old.\nB. The hearing impaired and visually challenged Helen learned to communicate verbally.\nC. Yet, ultimately, Miss Sullivan's dedication paid off.\nD. Before Helen Keller turned two, she lost both her vision and hearing.\nE. Miss Sullivan worked intensively with Helen, her new pupil.\nF. Occasionally the instructor felt discouraged.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "CFDABE",
+        "text_ta": "CFDABE"
+      },
+      {
+        "key": "B",
+        "text_en": "DEFACB",
+        "text_ta": "DEFACB"
+      },
+      {
+        "key": "C",
+        "text_en": "ACFDEB",
+        "text_ta": "ACFDEB"
+      },
+      {
+        "key": "D",
+        "text_en": "DAEFCB",
+        "text_ta": "DAEFCB"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The chronological narrative begins with D (loss of senses at age two), moves to A, E, F, C, and finishes with B.",
+    "explanation_ta": "The chronological narrative begins with D (loss of senses at age two), moves to A, E, F, C, and finishes with B.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Vetri PYQ biographical sequence."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the primary definition of 'Syntax' in the context of sentence arrangement exercises?",
+    "question_ta": "What is the primary definition of 'Syntax' in the context of sentence arrangement exercises?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The arrangement of words and phrases to create well-formed sentences.",
+        "text_ta": "The arrangement of words and phrases to create well-formed sentences."
+      },
+      {
+        "key": "B",
+        "text_en": "The study of word origins and historical meanings.",
+        "text_ta": "The study of word origins and historical meanings."
+      },
+      {
+        "key": "C",
+        "text_en": "The identification of punctuation marks in a paragraph.",
+        "text_ta": "The identification of punctuation marks in a paragraph."
+      },
+      {
+        "key": "D",
+        "text_en": "The classification of nouns into proper and common.",
+        "text_ta": "The classification of nouns into proper and common."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Syntax deals with how words are ordered to form grammatically correct and coherent sentences.",
+    "explanation_ta": "Syntax deals with how words are ordered to form grammatically correct and coherent sentences.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Glossary G2."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does a narrative sequence task involving characters like Payal finding an owlet primarily test?",
+    "question_ta": "What does a narrative sequence task involving characters like Payal finding an owlet primarily test?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rules for spelling irregular verbs.",
+        "text_ta": "Rules for spelling irregular verbs."
+      },
+      {
+        "key": "B",
+        "text_en": "The ability to logically sequence narrative events to create a coherent text.",
+        "text_ta": "The ability to logically sequence narrative events to create a coherent text."
+      },
+      {
+        "key": "C",
+        "text_en": "Knowledge of advanced chemical formulas.",
+        "text_ta": "Knowledge of advanced chemical formulas."
+      },
+      {
+        "key": "D",
+        "text_en": "Direct translation of foreign phrases.",
+        "text_ta": "Direct translation of foreign phrases."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Narrative sequence exercises test reading comprehension and chronological ordering of events.",
+    "explanation_ta": "Narrative sequence exercises test reading comprehension and chronological ordering of events.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Summary p15."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "When an adjective is used attributively in a sentence, where does it typically appear?",
+    "question_ta": "When an adjective is used attributively in a sentence, where does it typically appear?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Before the noun or pronoun it modifies",
+        "text_ta": "Before the noun or pronoun it modifies"
+      },
+      {
+        "key": "B",
+        "text_en": "Before the auxiliary verb",
+        "text_ta": "Before the auxiliary verb"
+      },
+      {
+        "key": "C",
+        "text_en": "At the very end of the sentence",
+        "text_ta": "At the very end of the sentence"
+      },
+      {
+        "key": "D",
+        "text_en": "After the verb as a complement",
+        "text_ta": "After the verb as a complement"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Attributive adjectives directly precede the noun they qualify, such as 'fluffy cat'.",
+    "explanation_ta": "Attributive adjectives directly precede the noun they qualify, such as 'fluffy cat'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule R4 and AR4."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "How do adverbs function within a sentence structure according to standard grammar rules?",
+    "question_ta": "How do adverbs function within a sentence structure according to standard grammar rules?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They replace subjects in passive voice.",
+        "text_ta": "They replace subjects in passive voice."
+      },
+      {
+        "key": "B",
+        "text_en": "They modify verbs, adjectives, or other adverbs.",
+        "text_ta": "They modify verbs, adjectives, or other adverbs."
+      },
+      {
+        "key": "C",
+        "text_en": "They function exclusively as direct objects.",
+        "text_ta": "They function exclusively as direct objects."
+      },
+      {
+        "key": "D",
+        "text_en": "They only connect two independent clauses.",
+        "text_ta": "They only connect two independent clauses."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Adverbs add descriptive detail concerning manner, time, or place to verbs, adjectives, or other adverbs.",
+    "explanation_ta": "Adverbs add descriptive detail concerning manner, time, or place to verbs, adjectives, or other adverbs.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule R5."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "When an adverb is intended to modify the sentence as a whole, where is it typically placed?",
+    "question_ta": "When an adverb is intended to modify the sentence as a whole, where is it typically placed?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Between the auxiliary and main verb",
+        "text_ta": "Between the auxiliary and main verb"
+      },
+      {
+        "key": "B",
+        "text_en": "At the beginning of a sentence",
+        "text_ta": "At the beginning of a sentence"
+      },
+      {
+        "key": "C",
+        "text_en": "Directly after the main object",
+        "text_ta": "Directly after the main object"
+      },
+      {
+        "key": "D",
+        "text_en": "Inside a prepositional phrase",
+        "text_ta": "Inside a prepositional phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sentence adverbs like 'Certainly' or 'Yesterday' are placed initially to modify the entire clause.",
+    "explanation_ta": "Sentence adverbs like 'Certainly' or 'Yesterday' are placed initially to modify the entire clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule AR8."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Where should qualifying clauses be positioned relative to the words they qualify in a well-structured sentence?",
+    "question_ta": "Where should qualifying clauses be positioned relative to the words they qualify in a well-structured sentence?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As close as possible to the words which they qualify",
+        "text_ta": "As close as possible to the words which they qualify"
+      },
+      {
+        "key": "B",
+        "text_en": "Right before the main subject",
+        "text_ta": "Right before the main subject"
+      },
+      {
+        "key": "C",
+        "text_en": "At the very beginning of the paragraph",
+        "text_ta": "At the very beginning of the paragraph"
+      },
+      {
+        "key": "D",
+        "text_en": "At the end of the sentence separated by a dash",
+        "text_ta": "At the end of the sentence separated by a dash"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Placing qualifying clauses close to their target words avoids ambiguity.",
+    "explanation_ta": "Placing qualifying clauses close to their target words avoids ambiguity.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule AR9."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "When an adjective is used predicatively in a sentence, where does it appear?",
+    "question_ta": "When an adjective is used predicatively in a sentence, where does it appear?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "After the noun or linking verb",
+        "text_ta": "After the noun or linking verb"
+      },
+      {
+        "key": "B",
+        "text_en": "Inside the prepositional phrase",
+        "text_ta": "Inside the prepositional phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Before the noun it modifies",
+        "text_ta": "Before the noun it modifies"
+      },
+      {
+        "key": "D",
+        "text_en": "At the start of the clause",
+        "text_ta": "At the start of the clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Predicative adjectives appear after a linking verb as a complement (e.g., 'The child is asleep').",
+    "explanation_ta": "Predicative adjectives appear after a linking verb as a complement (e.g., 'The child is asleep').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule AR5."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the role of auxiliary verbs in direct questions?",
+    "question_ta": "What is the role of auxiliary verbs in direct questions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The auxiliary verb follows the main object.",
+        "text_ta": "The auxiliary verb follows the main object."
+      },
+      {
+        "key": "B",
+        "text_en": "The auxiliary verb is placed at the end of the sentence.",
+        "text_ta": "The auxiliary verb is placed at the end of the sentence."
+      },
+      {
+        "key": "C",
+        "text_en": "The auxiliary verb precedes the subject.",
+        "text_ta": "The auxiliary verb precedes the subject."
+      },
+      {
+        "key": "D",
+        "text_en": "The auxiliary verb is omitted entirely.",
+        "text_ta": "The auxiliary verb is omitted entirely."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Direct questions require subject-auxiliary inversion.",
+    "explanation_ta": "Direct questions require subject-auxiliary inversion.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule R11."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the primary objective when tackling a jumbled sentence exercise in TNPSC examinations?",
+    "question_ta": "What is the primary objective when tackling a jumbled sentence exercise in TNPSC examinations?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To rewrite the passage in passive voice.",
+        "text_ta": "To rewrite the passage in passive voice."
+      },
+      {
+        "key": "B",
+        "text_en": "To translate the sentence into another language.",
+        "text_ta": "To translate the sentence into another language."
+      },
+      {
+        "key": "C",
+        "text_en": "To rearrange disordered segments or words into a coherent, grammatically correct sentence.",
+        "text_ta": "To rearrange disordered segments or words into a coherent, grammatically correct sentence."
+      },
+      {
+        "key": "D",
+        "text_en": "To identify spelling errors in individual words.",
+        "text_ta": "To identify spelling errors in individual words."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sentence rearrangement exercises test syntax and logical flow.",
+    "explanation_ta": "Sentence rearrangement exercises test syntax and logical flow.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Summary p16 & p17."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which strategy is most effective when starting a jumbled word rearrangement exercise?",
+    "question_ta": "Which strategy is most effective when starting a jumbled word rearrangement exercise?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Translate each word into a synonym.",
+        "text_ta": "Translate each word into a synonym."
+      },
+      {
+        "key": "B",
+        "text_en": "Count the total number of vowels in the words.",
+        "text_ta": "Count the total number of vowels in the words."
+      },
+      {
+        "key": "C",
+        "text_en": "Identify the subject, verb, and object components first.",
+        "text_ta": "Identify the subject, verb, and object components first."
+      },
+      {
+        "key": "D",
+        "text_en": "Arrange the words in alphabetical order.",
+        "text_ta": "Arrange the words in alphabetical order."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Recognizing core sentence components (SVO) helps anchor the structure before positioning modifiers.",
+    "explanation_ta": "Recognizing core sentence components (SVO) helps anchor the structure before positioning modifiers.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Based on Rule R8 and AR11."
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Where should qualifying clauses be positioned in a well-structured sentence?",
+    "question_ta": "Where should qualifying clauses be positioned in a well-structured sentence?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As close as possible to the words which they qualify",
+        "text_ta": "As close as possible to the words which they qualify"
+      },
+      {
+        "key": "B",
+        "text_en": "As far away as possible from the words they qualify",
+        "text_ta": "As far away as possible from the words they qualify"
+      },
+      {
+        "key": "C",
+        "text_en": "Exclusively before the main subject",
+        "text_ta": "Exclusively before the main subject"
+      },
+      {
+        "key": "D",
+        "text_en": "Only at the conclusion of the sentence",
+        "text_ta": "Only at the conclusion of the sentence"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "All qualifying clauses must be placed as close as possible to the words which they qualify to maintain clarity and correct syntax.",
+    "explanation_ta": "All qualifying clauses must be placed as close as possible to the words which they qualify to maintain clarity and correct syntax.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "AR9"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does a narrative sequence task involving characters like Payal finding an owlet or Hamid buying tongs primarily test in TNPSC examinations?",
+    "question_ta": "What does a narrative sequence task involving characters like Payal finding an owlet or Hamid buying tongs primarily test in TNPSC examinations?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Advanced rules of question tag polarity",
+        "text_ta": "Advanced rules of question tag polarity"
+      },
+      {
+        "key": "B",
+        "text_en": "The memorization of historical dates",
+        "text_ta": "The memorization of historical dates"
+      },
+      {
+        "key": "C",
+        "text_en": "Knowledge of complex mathematical formulas",
+        "text_ta": "Knowledge of complex mathematical formulas"
+      },
+      {
+        "key": "D",
+        "text_en": "The ability to identify logical chronological event flow and coherent narrative structure",
+        "text_ta": "The ability to identify logical chronological event flow and coherent narrative structure"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Narrative sequence exercises test the student's ability to arrange sentences in a logical, coherent sequence based on narrative order or cause-and-effect.",
+    "explanation_ta": "Narrative sequence exercises test the student's ability to arrange sentences in a logical, coherent sequence based on narrative order or cause-and-effect.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "Summary p15 & AR12"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the study of syntax primarily deal with during sentence rearrangement exercises?",
+    "question_ta": "What does the study of syntax primarily deal with during sentence rearrangement exercises?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The definition of difficult vocabulary words",
+        "text_ta": "The definition of difficult vocabulary words"
+      },
+      {
+        "key": "B",
+        "text_en": "The arrangement of words and phrases to create well-formed sentences",
+        "text_ta": "The arrangement of words and phrases to create well-formed sentences"
+      },
+      {
+        "key": "C",
+        "text_en": "The pronunciation of silent letters in poetry",
+        "text_ta": "The pronunciation of silent letters in poetry"
+      },
+      {
+        "key": "D",
+        "text_en": "The identification of root prefixes and suffixes",
+        "text_ta": "The identification of root prefixes and suffixes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Syntax refers to the logical arrangement of words and phrases to create well-formed sentences.",
+    "explanation_ta": "Syntax refers to the logical arrangement of words and phrases to create well-formed sentences.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "In a standard declarative English sentence structure, what is the typical underlying order?",
+    "question_ta": "In a standard declarative English sentence structure, what is the typical underlying order?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Object + Subject + Verb",
+        "text_ta": "Object + Subject + Verb"
+      },
+      {
+        "key": "B",
+        "text_en": "Verb + Subject + Object",
+        "text_ta": "Verb + Subject + Object"
+      },
+      {
+        "key": "C",
+        "text_en": "Subject + Verb + Object",
+        "text_ta": "Subject + Verb + Object"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb + Object + Subject",
+        "text_ta": "Verb + Object + Subject"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A standard declarative sentence typically follows the order: Subject + Verb + Object.",
+    "explanation_ta": "A standard declarative sentence typically follows the order: Subject + Verb + Object.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "WritingSkills",
+    "menu": "Jumbled Sentences",
+    "topic": "Jumbled Sentences",
+    "topic_id": "jumbled_sentences",
+    "topic_ta": "Jumbled Sentences",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Where do adjectives typically appear relative to the noun they modify when used attributively?",
+    "question_ta": "Where do adjectives typically appear relative to the noun they modify when used attributively?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "After the noun",
+        "text_ta": "After the noun"
+      },
+      {
+        "key": "B",
+        "text_en": "At the very end of the sentence",
+        "text_ta": "At the very end of the sentence"
+      },
+      {
+        "key": "C",
+        "text_en": "Before the auxiliary verb",
+        "text_ta": "Before the auxiliary verb"
+      },
+      {
+        "key": "D",
+        "text_en": "Before the noun",
+        "text_ta": "Before the noun"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When an adjective is used attributively, it comes before the noun which it qualifies.",
+    "explanation_ta": "When an adjective is used attributively, it comes before the noun which it qualifies.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Jumbled Sentences",
+    "source_note": "AR4"
+  }
+]

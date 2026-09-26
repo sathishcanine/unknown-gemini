@@ -1,0 +1,2803 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "word_formation",
+  "sources": [
+    "Vetrii Vocabulary pp.[133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149] (primary, vision)",
+    "Grammer.pdf pp.[153, 172, 195, 231] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Back-formation is the process of creating a new lexeme by removing actual or supposed affixes from longer words.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "rule_en": "A blend word is a word formed from parts of two or more other words.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "rule_en": "Clipped words are words that are formed by dropping one or more syllables from longer words without changing the meaning.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "rule_en": "Clipping is a type of word formation where a word is reduced to a shorter form while retaining the same meaning.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "rule_en": "Back-formation is the process of creating a new word (usually a verb) by removing an actual or supposed affix from another word (usually a noun).",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "rule_en": "Blended words are formed by combining parts of two or more words to create a new word.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "rule_en": "Blending is the process of combining two words to form a new word.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "rule_en": "Clipping is the process of shortening a longer word into a new word.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "rule_en": "Clipping is the process of forming a new word by shortening a longer word, often retaining the meaning of the original word.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "rule_en": "Singular nouns refer to one person, place, or thing, take a singular verb, and can be preceded by 'a' or 'an'.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "rule_en": "Plural nouns refer to more than one person, place, or thing, take a plural verb, and are not preceded by 'a' or 'an'.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "rule_en": "Many singular nouns form their plural by adding '-s'.",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "rule_en": "Singular forms ending with 'us' change into 'i'.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "rule_en": "Some nouns become plural when we change the vowels.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "rule_en": "Add 's' to the first word in hyphenated words.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "rule_en": "Some nouns ending with 'o, s, ss, ch, sh, x, is' change into 'es'.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "rule_en": "In compound nouns both elements get converted into plural forms.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 140
+    },
+    {
+      "rule_en": "Some nouns have two plural forms.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 140
+    },
+    {
+      "rule_en": "Compound nouns take 's' in plural form.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 140
+    },
+    {
+      "rule_en": "Singular forms ending with '-um' change into '-a'.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 140
+    },
+    {
+      "rule_en": "In case there is a vowel before 'y', just add 's' to form plural.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 141
+    },
+    {
+      "rule_en": "Nouns ending with 'f'/'fe' form their plural by changing into 'v' and adding 'es'.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 141
+    },
+    {
+      "rule_en": "Some nouns that end in 'o', you add 'es' or 's' to form the plural.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 141
+    },
+    {
+      "rule_en": "Some nouns do not change while taking plural form.",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 141
+    },
+    {
+      "rule_en": "Some nouns have no singular form.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 142
+    },
+    {
+      "rule_en": "Singular forms ending with '-is' change into '-es'.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 142
+    },
+    {
+      "rule_en": "Nouns ending with '-y' form the plural by changing '-y' into '-i' and adding '-es'.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 142
+    },
+    {
+      "rule_en": "‘a’ ending in the singular forms changing into ‘ae’",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 142
+    },
+    {
+      "rule_en": "Formation of plural nouns from singular forms using irregular suffix variations (e.g., -is to -es, -us to -i, -um to -a).",
+      "wf_tag": "overview",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "rule_en": "New words can be formed by a process called affixation, which involves adding affixes to the root word.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 146
+    },
+    {
+      "rule_en": "If an affix is attached to the beginning of a word, it is called a Prefix.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 146
+    },
+    {
+      "rule_en": "If an affix is attached to the end of a word, it is called a Suffix.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 146
+    },
+    {
+      "rule_en": "Words that are derived or formed from the base word by adding prefixes and suffixes are called derivatives.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 146
+    },
+    {
+      "rule_en": "Prefixes like 'un' and 'dis' are added to base words to form antonyms.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "rule_en": "Suffix: A letter or a group of letters added at the end of a root word to make a different or a new form of the word. By adding suffixes, the meaning or grammatical function of a root word changes.",
+      "wf_tag": "definition",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "rule_en": "A prefix is a letter or group of letters added to the beginning of a root word to modify it, often creating an opposite.",
+      "wf_tag": "definition",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "rule_en": "A suffix is a letter or group of letters added to the end of a root word, changing its grammatical function.",
+      "wf_tag": "definition",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "rule_en": "Suffix: A letter or letters added at the end of a word to make a different or a new form of the word.",
+      "wf_tag": "definition",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "rule_en": "A blend word or a blend is a word formed from parts of two or more other words.",
+      "wf_tag": "definition",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "rule_en": "Derivatives are formed by adding prefixes or suffixes to a root word to change its grammatical form or meaning.",
+      "wf_tag": "overview",
+      "source": "grammer",
+      "source_page": 231
+    }
+  ],
+  "examples": [
+    {
+      "root_en": "baby-sitter",
+      "formed_en": "baby-sit",
+      "affix_en": null,
+      "note_en": "back-formation",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "diagnosis",
+      "formed_en": "diagnose",
+      "affix_en": null,
+      "note_en": "back-formation",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "motor + hotel",
+      "formed_en": "motel",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "breakfast + lunch",
+      "formed_en": "brunch",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "smoke + fog",
+      "formed_en": "smog",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "teleprinter + exchange",
+      "formed_en": "telex",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "binary + digit",
+      "formed_en": "bit",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "camera + recorder",
+      "formed_en": "camcorder",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "electro + execute",
+      "formed_en": "electrocute",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "electronic + mail",
+      "formed_en": "email",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "motor + pedals",
+      "formed_en": "moped",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "news + broadcast",
+      "formed_en": "newscast",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "mechanics + electronics",
+      "formed_en": "mechatronics",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "Spanish + English",
+      "formed_en": "spanglish",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "vital + amine",
+      "formed_en": "vitamin",
+      "affix_en": null,
+      "note_en": "blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "perambulator",
+      "formed_en": "pram",
+      "affix_en": null,
+      "note_en": "clipping",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 133
+    },
+    {
+      "root_en": "aeroplane",
+      "formed_en": "plane",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "examination",
+      "formed_en": "exam",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "demarcate",
+      "formed_en": "mark",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "facsimile",
+      "formed_en": "fax",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "hamburger",
+      "formed_en": "burger",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "gasoline",
+      "formed_en": "gas",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "advertisement",
+      "formed_en": "ad",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "automobile",
+      "formed_en": "auto",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "cabriolet",
+      "formed_en": "cab",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "fanatic",
+      "formed_en": "fan",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "gymnasium",
+      "formed_en": "gym",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "influenza",
+      "formed_en": "flu",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "luncheon",
+      "formed_en": "lunch",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "mathematics",
+      "formed_en": "math",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "memorandum",
+      "formed_en": "memo",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "moving picture",
+      "formed_en": "movie",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "pantaloons",
+      "formed_en": "pants",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "photograph",
+      "formed_en": "photo",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "university",
+      "formed_en": "varsity",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "zoological park",
+      "formed_en": "zoo",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "telephone",
+      "formed_en": "phone",
+      "affix_en": null,
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "root_en": "foreign + exchange",
+      "formed_en": "forex",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "motor + pedal",
+      "formed_en": "moped",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "parachute + troop",
+      "formed_en": "paratroop",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "travel + catalogue",
+      "formed_en": "travelogue",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "electric + execute",
+      "formed_en": "electrocute",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "helicopter + airport",
+      "formed_en": "heliport",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "documentary + drama",
+      "formed_en": "docudrama",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "education + entertainment",
+      "formed_en": "edutainment",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "root_en": "television + broadcast",
+      "formed_en": "telecast",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "international + police",
+      "formed_en": "interpol",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "motor + pedal cycle",
+      "formed_en": "motorcycle",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "motor + bike",
+      "formed_en": "motorbike",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "helicopter + pad",
+      "formed_en": "helipad",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "education + satellite",
+      "formed_en": "edusat",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "electronic + commerce",
+      "formed_en": "e-commerce",
+      "affix_en": null,
+      "note_en": "Blending",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "microphone",
+      "formed_en": "mic",
+      "affix_en": null,
+      "note_en": "Clipping",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "refrigerator",
+      "formed_en": "fridge",
+      "affix_en": null,
+      "note_en": "Clipping",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "kilogram",
+      "formed_en": "kilo",
+      "affix_en": null,
+      "note_en": "Clipping",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "cafeteria",
+      "formed_en": "cafe",
+      "affix_en": null,
+      "note_en": "Clipping",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "root_en": "Chimpanzee",
+      "formed_en": "chimp",
+      "affix_en": null,
+      "note_en": "Clipped form of Chimpanzee",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "root_en": "Helicopter",
+      "formed_en": "copter",
+      "affix_en": null,
+      "note_en": "Clipped form of Helicopter",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "root_en": "Hippopotamus",
+      "formed_en": "hippo",
+      "affix_en": null,
+      "note_en": "Clipped form of Hippopotamus",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "root_en": "Bridegroom",
+      "formed_en": "groom",
+      "affix_en": null,
+      "note_en": "Clipped form of Bridegroom",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "root_en": "Demonstration",
+      "formed_en": "demo",
+      "affix_en": null,
+      "note_en": "Clipped form of Demonstration",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "root_en": "cow",
+      "formed_en": "cows",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "pencil",
+      "formed_en": "pencils",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "crow",
+      "formed_en": "crows",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "dog",
+      "formed_en": "dogs",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "chair",
+      "formed_en": "chairs",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "table",
+      "formed_en": "tables",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "boy",
+      "formed_en": "boys",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "toy",
+      "formed_en": "toys",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "bag",
+      "formed_en": "bags",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "ball",
+      "formed_en": "balls",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "bat",
+      "formed_en": "bats",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "doll",
+      "formed_en": "dolls",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "lamp",
+      "formed_en": "lamps",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "clock",
+      "formed_en": "clocks",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "food",
+      "formed_en": "foods",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "river",
+      "formed_en": "rivers",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "village",
+      "formed_en": "villages",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "weapon",
+      "formed_en": "weapons",
+      "affix_en": "-s",
+      "note_en": "Pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 138
+    },
+    {
+      "root_en": "alumnus",
+      "formed_en": "alumni",
+      "affix_en": null,
+      "note_en": "Singular to Plural",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "root_en": "father-in-law",
+      "formed_en": "fathers-in-law",
+      "affix_en": null,
+      "note_en": "Hyphenated word pluralization",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "root_en": "potato",
+      "formed_en": "potatoes",
+      "affix_en": "-es",
+      "note_en": "Singular to Plural",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 139
+    },
+    {
+      "root_en": "able",
+      "formed_en": "unable",
+      "affix_en": "un-",
+      "note_en": "Not able",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "root_en": "active",
+      "formed_en": "inactive",
+      "affix_en": "in-",
+      "note_en": "Not active",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "root_en": "legal",
+      "formed_en": "illegal",
+      "affix_en": "il-",
+      "note_en": "Not legal",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "root_en": "responsible",
+      "formed_en": "irresponsible",
+      "affix_en": "ir-",
+      "note_en": "Not responsible",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "root_en": "behave",
+      "formed_en": "misbehave",
+      "affix_en": "mis-",
+      "note_en": "To behave wrongly",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "root_en": "tell",
+      "formed_en": "foretell",
+      "affix_en": "fore-",
+      "note_en": "To tell beforehand",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 147
+    },
+    {
+      "root_en": "empower",
+      "formed_en": "em + powered",
+      "affix_en": "em-",
+      "note_en": "Derivation of empower",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "forenoon",
+      "formed_en": "fore + noon",
+      "affix_en": "fore-",
+      "note_en": "Part of the day before noon",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "forehead",
+      "formed_en": "fore + head",
+      "affix_en": "fore-",
+      "note_en": "Part of the face above eyebrows",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "foretell",
+      "formed_en": "fore + tell",
+      "affix_en": "fore-",
+      "note_en": "To predict",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "hypersensitive",
+      "formed_en": "hyper + sensitive",
+      "affix_en": "hyper-",
+      "note_en": "Excessively sensitive",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "illegal",
+      "formed_en": "il + legal",
+      "affix_en": "il-",
+      "note_en": "Not legal",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "subconscious",
+      "formed_en": "sub + conscious",
+      "affix_en": "sub-",
+      "note_en": "Part of the mind not fully aware",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "submarine",
+      "formed_en": "sub + marine",
+      "affix_en": "sub-",
+      "note_en": "Under the sea",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "subordinate",
+      "formed_en": "sub + ordinate",
+      "affix_en": "sub-",
+      "note_en": "Lower in rank",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "subtitle",
+      "formed_en": "sub + title",
+      "affix_en": "sub-",
+      "note_en": "Secondary title",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "subway",
+      "formed_en": "sub + way",
+      "affix_en": "sub-",
+      "note_en": "Underground passage",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "superfast",
+      "formed_en": "super + fast",
+      "affix_en": "super-",
+      "note_en": "Extremely fast",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "superman",
+      "formed_en": "super + man",
+      "affix_en": "super-",
+      "note_en": "Man with super powers",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "immoral",
+      "formed_en": "im + moral",
+      "affix_en": "im-",
+      "note_en": "Not moral",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "imprison",
+      "formed_en": "im + prison",
+      "affix_en": "im-",
+      "note_en": "To put in prison",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "improper",
+      "formed_en": "im + proper",
+      "affix_en": "im-",
+      "note_en": "Not proper",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "inadequate",
+      "formed_en": "in + adequate",
+      "affix_en": "in-",
+      "note_en": "Not adequate",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "incomplete",
+      "formed_en": "in + complete",
+      "affix_en": "in-",
+      "note_en": "Not complete",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "invisible",
+      "formed_en": "in + visible",
+      "affix_en": "in-",
+      "note_en": "Not able to be seen",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "irregular",
+      "formed_en": "ir + regular",
+      "affix_en": "ir-",
+      "note_en": "Not regular",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "irrational",
+      "formed_en": "ir + rational",
+      "affix_en": "ir-",
+      "note_en": "Not rational",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "irrespective",
+      "formed_en": "ir + respective",
+      "affix_en": "ir-",
+      "note_en": "Not respective",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "irresponsible",
+      "formed_en": "ir + responsible",
+      "affix_en": "ir-",
+      "note_en": "Not responsible",
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 148
+    },
+    {
+      "root_en": "inter + change",
+      "formed_en": "interchange",
+      "affix_en": "inter-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "inter + national",
+      "formed_en": "international",
+      "affix_en": "inter-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "mal + adjustment",
+      "formed_en": "maladjustment",
+      "affix_en": "mal-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "mal + nutrition",
+      "formed_en": "malnutrition",
+      "affix_en": "mal-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "mal + practice",
+      "formed_en": "malpractice",
+      "affix_en": "mal-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "mis + behaviour",
+      "formed_en": "misbehaviour",
+      "affix_en": "mis-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "mis + guide",
+      "formed_en": "misguide",
+      "affix_en": "mis-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "mis + take",
+      "formed_en": "mistake",
+      "affix_en": "mis-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "non + refundable",
+      "formed_en": "non-refundable",
+      "affix_en": "non-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "non + violence",
+      "formed_en": "non-violence",
+      "affix_en": "non-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "non + vegetarian",
+      "formed_en": "non-vegetarian",
+      "affix_en": "non-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "micro + teaching",
+      "formed_en": "microteaching",
+      "affix_en": "micro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "micro + wave",
+      "formed_en": "microwave",
+      "affix_en": "micro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "pro + active",
+      "formed_en": "proactive",
+      "affix_en": "pro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "pro + file",
+      "formed_en": "profile",
+      "affix_en": "pro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "pro + found",
+      "formed_en": "profound",
+      "affix_en": "pro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "pro + long",
+      "formed_en": "prolong",
+      "affix_en": "pro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "pro + noun",
+      "formed_en": "pronoun",
+      "affix_en": "pro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "pro + claim",
+      "formed_en": "proclaim",
+      "affix_en": "pro-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "over + come",
+      "formed_en": "overcome",
+      "affix_en": "over-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "over + look",
+      "formed_en": "overlook",
+      "affix_en": "over-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "over + take",
+      "formed_en": "overtake",
+      "affix_en": "over-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "il + literate",
+      "formed_en": "illiterate",
+      "affix_en": "il-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "un + expected",
+      "formed_en": "unexpected",
+      "affix_en": "un-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "un + lucky",
+      "formed_en": "unlucky",
+      "affix_en": "un-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "un + pleasant",
+      "formed_en": "unpleasant",
+      "affix_en": "un-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "up + date",
+      "formed_en": "update",
+      "affix_en": "up-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "up + hold",
+      "formed_en": "uphold",
+      "affix_en": "up-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "up + lift",
+      "formed_en": "uplift",
+      "affix_en": "up-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "up + right",
+      "formed_en": "upright",
+      "affix_en": "up-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "up + stairs",
+      "formed_en": "upstairs",
+      "affix_en": "up-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "with + draw",
+      "formed_en": "withdraw",
+      "affix_en": "with-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "with + hold",
+      "formed_en": "withhold",
+      "affix_en": "with-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "with + stand",
+      "formed_en": "withstand",
+      "affix_en": "with-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "un + certain",
+      "formed_en": "uncertain",
+      "affix_en": "un-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "un + common",
+      "formed_en": "uncommon",
+      "affix_en": "un-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "un + conscious",
+      "formed_en": "unconscious",
+      "affix_en": "un-",
+      "note_en": null,
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 149
+    },
+    {
+      "root_en": "audible",
+      "formed_en": "inaudible",
+      "affix_en": "in-",
+      "note_en": "Prefix used to modify the root word.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "root_en": "constant",
+      "formed_en": "constantly",
+      "affix_en": "-ly",
+      "note_en": "Suffix used to change the grammatical function.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "root_en": "honest",
+      "formed_en": "dishonest",
+      "affix_en": "dis-",
+      "note_en": "Derivative example.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "root_en": "honest",
+      "formed_en": "honesty",
+      "affix_en": "-y",
+      "note_en": "Derivative example.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "root_en": "lone",
+      "formed_en": "lonely",
+      "affix_en": "-ly",
+      "note_en": "Addition of suffix to form an adjective.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "root_en": "complete",
+      "formed_en": "completely",
+      "affix_en": "-ly",
+      "note_en": "Addition of suffix to form an adverb.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "root_en": "strong",
+      "formed_en": "strongly",
+      "affix_en": "-ly",
+      "note_en": "Addition of suffix to form an adverb.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "root_en": "great",
+      "formed_en": "greatly",
+      "affix_en": "-ly",
+      "note_en": "Addition of suffix to form an adverb.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "root_en": "immediate",
+      "formed_en": "immediately",
+      "affix_en": "-ly",
+      "note_en": "Addition of suffix to form an adverb.",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "root_en": "binary + digit",
+      "formed_en": "bit",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "breakfast + lunch",
+      "formed_en": "brunch",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "camera + recorder",
+      "formed_en": "camcorder",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "electro + execute",
+      "formed_en": "electrocute",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "electronic + mail",
+      "formed_en": "email",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "mechanics + electronics",
+      "formed_en": "mechatronics",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "motor + pedals",
+      "formed_en": "moped",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "motor + hotel",
+      "formed_en": "motel",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "news + broadcast",
+      "formed_en": "newscast",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "smoke + fog",
+      "formed_en": "smog",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "Spanish + English",
+      "formed_en": "Spanglish",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "vital + amine",
+      "formed_en": "vitamin",
+      "affix_en": "N/A",
+      "note_en": "Blend word",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "root_en": "patient",
+      "formed_en": "impatient",
+      "affix_en": "im- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "patient",
+      "formed_en": "patiently",
+      "affix_en": "-ly (suffix)",
+      "note_en": "Adverbial suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "honour",
+      "formed_en": "dishonour",
+      "affix_en": "dis- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "honour",
+      "formed_en": "honourable",
+      "affix_en": "-able (suffix)",
+      "note_en": "Adjectival suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "respect",
+      "formed_en": "disrespect",
+      "affix_en": "dis- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "respect",
+      "formed_en": "respectful",
+      "affix_en": "-ful (suffix)",
+      "note_en": "Adjectival suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "manage",
+      "formed_en": "mismanage",
+      "affix_en": "mis- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "manage",
+      "formed_en": "management",
+      "affix_en": "-ment (suffix)",
+      "note_en": "Noun-forming suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "fertile",
+      "formed_en": "infertile",
+      "affix_en": "in- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "fertile",
+      "formed_en": "fertility",
+      "affix_en": "-ity (suffix)",
+      "note_en": "Noun-forming suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "different",
+      "formed_en": "indifferent",
+      "affix_en": "in- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "different",
+      "formed_en": "differently",
+      "affix_en": "-ly (suffix)",
+      "note_en": "Adverbial suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "friend",
+      "formed_en": "befriend",
+      "affix_en": "be- (prefix)",
+      "note_en": "Verb-forming prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "friend",
+      "formed_en": "friendship",
+      "affix_en": "-ship (suffix)",
+      "note_en": "Noun-forming suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "obey",
+      "formed_en": "disobey",
+      "affix_en": "dis- (prefix)",
+      "note_en": "Negative prefix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    },
+    {
+      "root_en": "obey",
+      "formed_en": "obedient",
+      "affix_en": "-ient (suffix)",
+      "note_en": "Adjectival suffix",
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 231
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "He was asked to _______ at the elocution competition.",
+      "answer_en": "Orate",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "prompt_en": "The Helping Hand' was _______ yesterday on Channel V.",
+      "answer_en": "Televised",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "prompt_en": "The actor was asked to _______",
+      "answer_en": "Emote",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "prompt_en": "The thief _______ the house.",
+      "answer_en": "Burgled",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "prompt_en": "She _______ the newspaper.",
+      "answer_en": "Edited",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 489
+    },
+    {
+      "prompt_en": "Find the unblended form: electrocute",
+      "answer_en": "electric + execute",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "prompt_en": "Find the unblended form: spanglish",
+      "answer_en": "Spanish + English",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "prompt_en": "Find the unblended form: moped",
+      "answer_en": "Motor + pedal",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "prompt_en": "Find the unblended form: brunch",
+      "answer_en": "Breakfast + lunch",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "prompt_en": "Find the unblended form: smog",
+      "answer_en": "Smoke + fog",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "vetrii",
+      "source_page": 135
+    },
+    {
+      "prompt_en": "ad (original word)",
+      "answer_en": "advertisement",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "prompt_en": "demo (original word)",
+      "answer_en": "demonstration",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "prompt_en": "lab (original word)",
+      "answer_en": "laboratory",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "prompt_en": "plane (original word)",
+      "answer_en": "airplane",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "prompt_en": "mic (original word)",
+      "answer_en": "microphone",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 491
+    },
+    {
+      "prompt_en": "Match to find the original word: auto + graph",
+      "answer_en": "autograph",
+      "options_en": [],
+      "wf_tag": "match",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "prompt_en": "Match to find the original word: bus + omni",
+      "answer_en": "omnibus",
+      "options_en": [],
+      "wf_tag": "match",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "prompt_en": "Match to find the original word: auto + mobile",
+      "answer_en": "automobile",
+      "options_en": [],
+      "wf_tag": "match",
+      "source": "vetrii",
+      "source_page": 137
+    },
+    {
+      "prompt_en": "1. Boy",
+      "answer_en": "boys",
+      "options_en": [
+        "boys",
+        "boy",
+        "boyes"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "2. Box",
+      "answer_en": "boxes",
+      "options_en": [
+        "boxes",
+        "box",
+        "boxies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "3. Chilly",
+      "answer_en": "chillies",
+      "options_en": [
+        "chillies",
+        "chiles",
+        "chillys"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "4. Puppy",
+      "answer_en": "puppies",
+      "options_en": [
+        "puppys",
+        "puppis",
+        "puppies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "5. Tomato",
+      "answer_en": "tomatoes",
+      "options_en": [
+        "tomatoes",
+        "tomatos",
+        "tomaties"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "6. baby",
+      "answer_en": "babies",
+      "options_en": [
+        "babyes",
+        "babys",
+        "babies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "7. chimney",
+      "answer_en": "chimneys",
+      "options_en": [
+        "chimneys",
+        "chimnies",
+        "chimnies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "8. branch",
+      "answer_en": "branches",
+      "options_en": [
+        "branchs",
+        "branches",
+        "branchies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "9. crow",
+      "answer_en": "crows",
+      "options_en": [
+        "crows",
+        "crowes",
+        "crowies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "10. half",
+      "answer_en": "halves",
+      "options_en": [
+        "halfes",
+        "halfs",
+        "halves"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 143
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: mouse",
+      "answer_en": "mice",
+      "options_en": [
+        "mices",
+        "mouses",
+        "mice"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: trousers",
+      "answer_en": "trousers",
+      "options_en": [
+        "trousers",
+        "trouseres",
+        "trouseries"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: scarf",
+      "answer_en": "scarves",
+      "options_en": [
+        "scarives",
+        "scarfs",
+        "scarves"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: life",
+      "answer_en": "lives",
+      "options_en": [
+        "livies",
+        "lifes",
+        "lives"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: fairy",
+      "answer_en": "fairies",
+      "options_en": [
+        "fairys",
+        "fairys",
+        "fairyes"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: pencil",
+      "answer_en": "pencils",
+      "options_en": [
+        "pencils",
+        "penciles",
+        "pencilies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: chair",
+      "answer_en": "chairs",
+      "options_en": [
+        "chairs",
+        "chaires",
+        "chair"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: eskimo",
+      "answer_en": "eskimos",
+      "options_en": [
+        "eskimos",
+        "eskimoes",
+        "eskimoies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: lady",
+      "answer_en": "ladies",
+      "options_en": [
+        "ladys",
+        "ladies",
+        "ladyes"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: radius",
+      "answer_en": "radii",
+      "options_en": [
+        "radii",
+        "radiusis",
+        "radius"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: formula",
+      "answer_en": "formulae",
+      "options_en": [
+        "formulae",
+        "formulas",
+        "formulae"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: child",
+      "answer_en": "children",
+      "options_en": [
+        "child",
+        "childs",
+        "children"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: deer",
+      "answer_en": "deer",
+      "options_en": [
+        "deer",
+        "deers",
+        "deeres"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: loaf",
+      "answer_en": "loaves",
+      "options_en": [
+        "loaf",
+        "loafs",
+        "loaves"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Choose the correct plural form of: hero",
+      "answer_en": "heroes",
+      "options_en": [
+        "heroes",
+        "heros",
+        "heroae"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "Plural of axis",
+      "answer_en": "axes",
+      "options_en": [
+        "axes",
+        "axus",
+        "axises"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of analysis",
+      "answer_en": "analyses",
+      "options_en": [
+        "analyses",
+        "analyses",
+        "analysies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of thesis",
+      "answer_en": "theses",
+      "options_en": [
+        "thesus",
+        "thesises",
+        "theses"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of basis",
+      "answer_en": "bases",
+      "options_en": [
+        "bases",
+        "basiss",
+        "basises"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of fungus",
+      "answer_en": "fungi",
+      "options_en": [
+        "fungi",
+        "funguss",
+        "fungues"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of index",
+      "answer_en": "indices",
+      "options_en": [
+        "indexes",
+        "indix",
+        "indices"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of vortex",
+      "answer_en": "vortices",
+      "options_en": [
+        "vortix",
+        "vortices",
+        "vertex"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of medium",
+      "answer_en": "media",
+      "options_en": [
+        "media",
+        "medias",
+        "mediums"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of phenomenon",
+      "answer_en": "phenomena",
+      "options_en": [
+        "phenomenos",
+        "phenomena",
+        "phenomenons"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of formula",
+      "answer_en": "formulae",
+      "options_en": [
+        "formulaes",
+        "formulas",
+        "formulae"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of alumnus",
+      "answer_en": "alumni",
+      "options_en": [
+        "alumunies",
+        "alumni",
+        "alumnuses"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of brother-in-law",
+      "answer_en": "brothers-in-law",
+      "options_en": [
+        "brother-ins-law",
+        "brothers-in-law",
+        "brother-in-laws"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of crisis",
+      "answer_en": "crises",
+      "options_en": [
+        "crisss",
+        "crisess",
+        "crises"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of goose",
+      "answer_en": "geese",
+      "options_en": [
+        "gooses",
+        "geese",
+        "geesess"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of radius",
+      "answer_en": "radii",
+      "options_en": [
+        "radii",
+        "radies",
+        "radiuses"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of terminus",
+      "answer_en": "termini",
+      "options_en": [
+        "termini",
+        "terminuses",
+        "terminies"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of calf",
+      "answer_en": "calves",
+      "options_en": [
+        "calves",
+        "calfi",
+        "calfes"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of cactus",
+      "answer_en": "cacti",
+      "options_en": [
+        "cactuses",
+        "cacti",
+        "cacties"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of larva",
+      "answer_en": "larvae",
+      "options_en": [
+        "larvas",
+        "larvaus",
+        "larvae"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Plural of ox",
+      "answer_en": "oxen",
+      "options_en": [
+        "oxes",
+        "oxen",
+        "oxens"
+      ],
+      "wf_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Form two derivatives from 'manage':",
+      "answer_en": "management, manageable",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'differ':",
+      "answer_en": "difference, different",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'beauty':",
+      "answer_en": "beautiful, beautify",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'peace':",
+      "answer_en": "peaceful, peaceable",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'arrange':",
+      "answer_en": "arrangement, rearranged",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'collect':",
+      "answer_en": "collection, collective",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'approve':",
+      "answer_en": "approval, disapproval",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'narrate':",
+      "answer_en": "narration, narrative",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Form two derivatives from 'class':",
+      "answer_en": "classify, classification",
+      "options_en": [],
+      "wf_tag": "other",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Provide the antonym for 'hard' starting with 'S'.",
+      "answer_en": "soft",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "Provide the antonym for 'fat' starting with 'S'.",
+      "answer_en": "slim",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "Provide the antonym for 'weak' starting with 'S'.",
+      "answer_en": "strong",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "Provide the antonym for 'big' starting with 'S'.",
+      "answer_en": "small",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "Provide the antonym for 'fast' starting with 'S'.",
+      "answer_en": "slow",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "Provide the antonym for 'rough' starting with 'S'.",
+      "answer_en": "smooth",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "Find out the blended words: 1. international + police",
+      "answer_en": "interpol",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "prompt_en": "Find out the blended words: 2. helicopter + pad",
+      "answer_en": "helipad",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "prompt_en": "Find out the blended words: 3. motor + hotel",
+      "answer_en": "motel",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "prompt_en": "Find out the blended words: 4. education + satellite",
+      "answer_en": "edusat",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 195
+    },
+    {
+      "prompt_en": "Find out the blended words: 5. electronic + commerce",
+      "answer_en": "e-commerce",
+      "options_en": [],
+      "wf_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 195
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 40,
+      "examples": 185,
+      "worked_exercises": 83
+    },
+    "by_wf_tag": {
+      "definition": {
+        "rules": 23,
+        "examples": 0,
+        "worked": 0
+      },
+      "overview": {
+        "rules": 16,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 1,
+        "examples": 185,
+        "worked": 14
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 21
+      },
+      "match": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 3
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 45
+      }
+    }
+  }
+}

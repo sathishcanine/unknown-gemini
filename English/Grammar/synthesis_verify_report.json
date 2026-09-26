@@ -1,0 +1,218 @@
+{
+  "batches": {
+    "combining_two_sentences|Batch 1": {
+      "done": true,
+      "topic_en": "Combining Two Sentences",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "combining_two_sentences|Batch 2": {
+      "done": true,
+      "topic_en": "Combining Two Sentences",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_conjunctions|Batch 1": {
+      "done": true,
+      "topic_en": "Using Conjunctions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_conjunctions|Batch 2": {
+      "done": true,
+      "topic_en": "Using Conjunctions",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_participles|Batch 1": {
+      "done": true,
+      "topic_en": "Using Participles",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_participles|Batch 2": {
+      "done": true,
+      "topic_en": "Using Participles",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_infinitives|Batch 1": {
+      "done": true,
+      "topic_en": "Using Infinitives",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_infinitives|Batch 2": {
+      "done": true,
+      "topic_en": "Using Infinitives",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_phrases|Batch 1": {
+      "done": true,
+      "topic_en": "Using Phrases",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_phrases|Batch 2": {
+      "done": true,
+      "topic_en": "Using Phrases",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_clauses|Batch 1": {
+      "done": true,
+      "topic_en": "Using Clauses",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "using_clauses|Batch 2": {
+      "done": true,
+      "topic_en": "Using Clauses",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    }
+  },
+  "totals": {
+    "flagged": 0,
+    "dropped": 0,
+    "fixed": 0,
+    "final_db": 300,
+    "topic_q_verified": 300,
+    "short_batches": [],
+    "pass_batches": 12,
+    "needs_fix_batches": 0
+  }
+}

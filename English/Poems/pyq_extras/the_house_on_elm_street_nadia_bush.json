@@ -1,0 +1,60 @@
+{
+  "poem_id": "the_house_on_elm_street_nadia_bush",
+  "count": 3,
+  "questions": [
+    {
+      "poem_title": "The House on Elm Street - Nadia Bush",
+      "poem_id": "the_house_on_elm_street_nadia_bush",
+      "question_en": "\"Sits there, never getting small or ever growing tall\". What does the word 'it' refer to?",
+      "options_en": [
+        "Land",
+        "House",
+        "Man",
+        "Tree"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    },
+    {
+      "poem_title": "The House on Elm Street - Nadia Bush",
+      "poem_id": "the_house_on_elm_street_nadia_bush",
+      "question_en": "\"Lights flicker on and off\"\nThe figure of speech used in the above lines is",
+      "options_en": [
+        "Simile",
+        "Onomatopoeia",
+        "Repetition",
+        "Hyperbole"
+      ],
+      "answer_en": "Onomatopoeia",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    },
+    {
+      "poem_title": "The House on Elm Street - Nadia Bush",
+      "poem_id": "the_house_on_elm_street_nadia_bush",
+      "question_en": "It sat alone.\nWhat happened there is still today unknown\nWhat does 'it' refer to?",
+      "options_en": [
+        "Moon",
+        "Street",
+        "Tree",
+        "House"
+      ],
+      "answer_en": "House",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    }
+  ]
+}

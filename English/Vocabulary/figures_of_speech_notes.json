@@ -1,0 +1,1405 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "figures_of_speech",
+  "sources": [
+    "Vetrii Vocabulary pp.[187, 188, 189, 190, 191, 192, 193, 194, 195, 196] (primary, vision)",
+    "Grammer.pdf pp.[454, 457, 458, 459, 460, 463, 464, 466, 468, 469] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Simile: In simile two unlike things are explicitly compared. A simile is introduced by words such as like, so, as etc.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "rule_en": "Metaphor: It is an informal or implied simile in which words like, as, so are omitted.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "rule_en": "Personification is an attribution of personal nature, intelligence or character to inanimate objects or abstract notions.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "rule_en": "Alliteration is the repetition of the same letter or syllable at the beginning of two or more words.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "rule_en": "Onomatopoeia is the formation of a word whose sound is made to suggest or echo the sense.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "rule_en": "Metonymy is meant for a change of name. It is a substitute of the thing names for the thing meant.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "rule_en": "Apostrophe is a direct address to some inanimate thing or some abstract idea as if it were living person or some absent person as if it were present.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "rule_en": "Hyperbole is a statement made emphatic by overstatement.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "rule_en": "Synecdoche is the understanding of one thing by means of another. Here, a part is used to designate the whole or the whole to designate a part.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "rule_en": "In transferred epithets, the qualifying objective is transferred from a person to a thing as in phrases.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "rule_en": "Euphemism: Using agreeable and favourable terms for an unpleasant or disagreeable person, object, or event.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "rule_en": "Irony: The real meaning of words is different from the intended meaning. Types include Situational, Verbal, and Dramatic.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "rule_en": "Pun: A play on the various meanings of a word; the effect is often ludicrous.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "rule_en": "Epigram: A brief pointed saying that couples words which apparently contradict each other.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "rule_en": "Antithesis: An opposition or contrast of ideas. Two opposite ideas are put together to achieve a contrasting effect.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "rule_en": "Oxymoron: It is a figure of speech which combines two seemingly contradictory or incongruous words for sharp emphasis or effect.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "rule_en": "Litotes: It is the opposite of hyperbole. Here an affirmative is conveyed by negation of the opposite.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "rule_en": "Interrogation: A rhetorical mode of affirming or denying something more strongly than could be done in ordinary language.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Exclamation: Used for strong expression of feelings.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Climax: An arrangement of a series of ideas in the order of increasing importance.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Anti-climax: The opposite to climax; signifies a ludicrous/ridiculous descent from the higher to the lower.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Circumlocution: Consists of expressing some fact or idea in a roundabout way, instead of stating it at once.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Tautology: Meant for repeating the same fact or idea in different words.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Paradox: Contrary to expectations, existing belief, or perceived opinion. It is a statement that appears to be self-contradictory.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "rule_en": "Understatement: A figure of speech in which a writer or a speaker deliberately makes a situation seem less important or serious than it is.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "rule_en": "Assonance: Identity or similarity in sound between internal vowels in neighbouring words.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "rule_en": "Consonance: The repetition of consonant sounds, usually at the end of words.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "rule_en": "Repetition: The repetition of words or phrases to form rhythm or to emphasize an idea.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "rule_en": "Allusion: An allusion is a figure of speech where a writer makes an indirect reference to something external to the text, such as a historical event, a literary work, a person, or a myth.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "rule_en": "Anaphora is the repetition of a certain word or phrase at the beginning of successive lines of writing or speech.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "rule_en": "Ellipsis is a series of dots that indicate an intentional omission of words or series of words.",
+      "fs_tag": "definition",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "rule_en": "A Figure of Speech is a word or a phrase which gives a different meaning from the usual one. It is used figuratively, to give an implied meaning to the given context.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 454
+    },
+    {
+      "rule_en": "Alliteration is the repetition of the same consonant letters or similar sounds at the beginning words in a set or series of words.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "rule_en": "Imagery is the way that a writer helps reader visualize or see in their minds what is being described.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "rule_en": "Personification is a figure of speech in which a thing, an idea or an animal is given a human attribute.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "rule_en": "A Simile is a figure of speech, in which two unlike things are compared, using the words, 'like' or 'as'.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 459
+    },
+    {
+      "rule_en": "A Metaphor is an implied meaning; unlike Similes which compare two things with the use of words 'like' or 'as', Metaphors directly state the comparison between two things that are in no way similar.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "rule_en": "Consonance: Repetition of similar consonant sounds in the neighbouring words.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "rule_en": "Assonance: Repetition of similar vowel sounds in the neighbouring words.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "rule_en": "Anaphora: Repetition of a word or a phrase at the beginning of a sequence of sentences, paragraphs and lines.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "rule_en": "Alliteration: Repetition of consonant sounds at the beginning of words.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "rule_en": "Epithet is an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or the thing mentioned.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 464
+    },
+    {
+      "rule_en": "Imagery is the name given to the elements in a poem that sparks the senses (sight, hearing, touch, taste, smell).",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 464
+    },
+    {
+      "rule_en": "Metaphor is a figure of speech that makes an implicit, implied, or hidden comparison between two things that are unrelated, but which share some common characteristics.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 466
+    },
+    {
+      "rule_en": "Metaphor: A direct comparison between two unlike things without using 'like' or 'as'.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 468
+    },
+    {
+      "rule_en": "Alliteration: The occurrence of the same letter or sound at the beginning of adjacent or closely connected words.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 468
+    },
+    {
+      "rule_en": "Personification is a figure of speech in which a thing – an idea or an animal – is given human attributes.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 469
+    },
+    {
+      "rule_en": "Assonance is the repetition of two or more vowel sounds.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 469
+    },
+    {
+      "rule_en": "Alliteration is the repetition of two or more consonant sounds.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 469
+    },
+    {
+      "rule_en": "Connotation suggests beyond what it expresses.",
+      "fs_tag": "definition",
+      "source": "grammer",
+      "source_page": 469
+    }
+  ],
+  "examples": [
+    {
+      "phrase_en": "She is like a fairy",
+      "figure_en": "Simile",
+      "note_en": "Uses 'like' to compare",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "My love is like a red, red rose.",
+      "figure_en": "Simile",
+      "note_en": "Uses 'like' to compare",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "You were as brave as a lion.",
+      "figure_en": "Simile",
+      "note_en": "Uses 'as...as' to compare",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "They fought like cats and dogs.",
+      "figure_en": "Simile",
+      "note_en": "Uses 'like' to compare",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "He is as funny as a barrel of monkeys.",
+      "figure_en": "Simile",
+      "note_en": "Uses 'as...as' to compare",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "He is skinny like a toothpick.",
+      "figure_en": "Simile",
+      "note_en": "Uses 'like' to compare",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "He is a lion",
+      "figure_en": "Metaphor",
+      "note_en": "Implied comparison without 'like' or 'as'",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 187
+    },
+    {
+      "phrase_en": "The stars danced playfully in the moonlit sky.",
+      "figure_en": "Personification",
+      "note_en": "Inanimate objects (stars) are given human-like qualities (dancing).",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "The first rays of morning tiptoed through the meadow.",
+      "figure_en": "Personification",
+      "note_en": "The act of tiptoeing is a human characteristic attributed to rays.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "She did not realize that opportunity was knocking at her door.",
+      "figure_en": "Personification",
+      "note_en": "Opportunity is treated as a person capable of knocking.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "You'll never put a better bit of butter on your knife.",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of the 'b' sound.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "I saw Susie sitting in a shoe shine shop. Where she sits she shines, and where she shines she sits.",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of the 's' sound.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "The moan of doves in immemorial elms and murmur of innumerable bees.",
+      "figure_en": "Onomatopoeia",
+      "note_en": "Words 'moan' and 'murmur' echo the natural sounds described.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "Rend with the tremendous sound your ears asunder with guns, drum, trumpet, blunderbuss, and thunder.",
+      "figure_en": "Onomatopoeia",
+      "note_en": "Words suggest the actual sounds made by the instruments/items.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "Plop, plop, fizz, fizz, oh what a relief it is.",
+      "figure_en": "Onomatopoeia",
+      "note_en": "Words phonetically imitate the sound they describe.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 188
+    },
+    {
+      "phrase_en": "Pen is mightier than the sword",
+      "figure_en": "Metonymy",
+      "note_en": "Substitute names for the things meant",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "Let me give you a hand",
+      "figure_en": "Metonymy",
+      "note_en": "Hand represents help",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "Friends, Romans, countrymen, lend me your ears",
+      "figure_en": "Metonymy",
+      "note_en": "Ears represents attention",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "From the cradle to the grave",
+      "figure_en": "Metonymy",
+      "note_en": "Cradle and grave represent childhood and death",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "I have never read Milton",
+      "figure_en": "Metonymy",
+      "note_en": "Milton represents the works of Milton",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "Boy's mother loved him very much",
+      "figure_en": "Apostrophe",
+      "note_en": "Direct address to an absent or abstract concept",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "I am so hungry I could eat a horse",
+      "figure_en": "Hyperbole",
+      "note_en": "Overstatement for emphasis",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "I have a million things to do",
+      "figure_en": "Hyperbole",
+      "note_en": "Overstatement for emphasis",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "If I can't buy that new game, I will die",
+      "figure_en": "Hyperbole",
+      "note_en": "Overstatement for emphasis",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "I'll love you, dear, I'll love you till China and Africa meet",
+      "figure_en": "Hyperbole",
+      "note_en": "Overstatement for emphasis",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "All hands (crew) at work",
+      "figure_en": "Synecdoche",
+      "note_en": "Part (hands) used to designate whole (crew)",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "His parents bought him a new set of wheels",
+      "figure_en": "Synecdoche",
+      "note_en": "Part used to designate the whole (car)",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "Hey men, good threads",
+      "figure_en": "Synecdoche",
+      "note_en": "Part used to designate the whole (clothing)",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "Take your face out",
+      "figure_en": "Synecdoche",
+      "note_en": "Part used to designate the whole (person)",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "Sleepless night",
+      "figure_en": "Transferred Epithets",
+      "note_en": "The quality of the person is transferred to the time (night)",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 545
+    },
+    {
+      "phrase_en": "He is telling us a fairy tale.",
+      "figure_en": "Euphemism",
+      "note_en": "A polite way of saying someone is lying.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "phrase_en": "He has fallen asleep.",
+      "figure_en": "Euphemism",
+      "note_en": "A polite way of saying someone is dead.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "phrase_en": "A pilot with a fear of heights.",
+      "figure_en": "Irony",
+      "note_en": "Situational irony where the result is opposite of what is expected.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "phrase_en": "Saying 'oh great' after failing the exam.",
+      "figure_en": "Irony",
+      "note_en": "Verbal irony where one says the opposite of what is meant.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "phrase_en": "A horse is a very stable animal.",
+      "figure_en": "Pun",
+      "note_en": "Play on the word 'stable' (residing place of horses and meaning steady).",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "phrase_en": "Is life worth living? It depends upon the liver.",
+      "figure_en": "Pun",
+      "note_en": "Play on the word 'liver' (the organ or one who lives).",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 190
+    },
+    {
+      "phrase_en": "To err is human, to forgive divine.",
+      "figure_en": "Antithesis",
+      "note_en": "Opposition between human error and divine forgiveness.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "phrase_en": "Speech is silver, but silence is gold",
+      "figure_en": "Antithesis",
+      "note_en": "Contrast between speech and silence.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "phrase_en": "Make haste slowly",
+      "figure_en": "Oxymoron",
+      "note_en": "Combining haste and slowly.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "phrase_en": "Cruel kindness",
+      "figure_en": "Oxymoron",
+      "note_en": "Combining cruel and kindness.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "phrase_en": "He is no dullard.",
+      "figure_en": "Litotes",
+      "note_en": "Affirming intelligence by negating 'dullard'.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "phrase_en": "He is not a bad sort.",
+      "figure_en": "Litotes",
+      "note_en": "Affirming character by negating 'bad'.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 547
+    },
+    {
+      "phrase_en": "Who is here so base that would be a bondman?",
+      "figure_en": "Interrogation",
+      "note_en": "Rhetorical question for effect",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "phrase_en": "O lift me as a wave, a leaf, a cloud - I fall upon the thorns of life; I bleed!",
+      "figure_en": "Exclamation",
+      "note_en": "Strong emotional expression",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "phrase_en": "What a piece of work man! How noble in reason, how infinite in faculties! In action, how like an angel!",
+      "figure_en": "Climax",
+      "note_en": "Increasing order of importance",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "phrase_en": "The viewless couriers of the air (the wind).",
+      "figure_en": "Circumlocution",
+      "note_en": "Roundabout way of referring to wind",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "phrase_en": "It was a free gift for all the customers.",
+      "figure_en": "Tautology",
+      "note_en": "Repeating same idea (free and gift imply same)",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "phrase_en": "War is peace.",
+      "figure_en": "Paradox",
+      "note_en": "Self-contradictory statement",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 548
+    },
+    {
+      "phrase_en": "I have to have this operation... It isn't very serious. I have this tiny little tumor on the brain.",
+      "figure_en": "Understatement",
+      "note_en": "Making a serious situation seem less important.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "I know a little about running a company.",
+      "figure_en": "Understatement",
+      "note_en": "Comment by a businessman.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "It beats as it sweeps as it cleans.",
+      "figure_en": "Assonance",
+      "note_en": "Similarity in sound between internal vowels.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "Old age should burn and rave at close of day; Rage, rage, against the dying of the light.",
+      "figure_en": "Assonance",
+      "note_en": "Repetition of internal vowel sounds.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "Johnny went here and there and everywhere.",
+      "figure_en": "Assonance",
+      "note_en": "Repetition of vowel sounds.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "Wash the leash off of mush to keep Ash from having a rash.",
+      "figure_en": "Consonance",
+      "note_en": "Repetition of consonant sounds at the end of words.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "Boat and Night.",
+      "figure_en": "Consonance",
+      "note_en": "Repetition of consonant 't' at the end.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "Cool and Soul.",
+      "figure_en": "Consonance",
+      "note_en": "Repetition of consonant 'l' at the end.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "In every cry of every man, In every infant's cry of fear, In every voice, in every ban, The mind-forged manacles I hear.",
+      "figure_en": "Repetition",
+      "note_en": "Repetition of 'In every' to form rhythm.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "He met his Waterloo in the final match.",
+      "figure_en": "Allusion",
+      "note_en": "Indirect reference to Napoleon's defeat.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "She opened Pandora's box by asking that question.",
+      "figure_en": "Allusion",
+      "note_en": "Alludes to Greek myth.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 549
+    },
+    {
+      "phrase_en": "Sea that line hath never sounded, Sea that sail hath never rounded",
+      "figure_en": "Anaphora",
+      "note_en": "Repetition of 'Sea that' at the beginning of the lines.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "phrase_en": "My heart aches......... for things that might have been",
+      "figure_en": "Ellipsis",
+      "note_en": "Uses dots to indicate omitted text.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "phrase_en": "Her hair is always a rat's nest in the morning.",
+      "figure_en": "Metaphor",
+      "note_en": "Direct comparison between hair and a rat's nest without using 'like' or 'as'.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 551
+    },
+    {
+      "phrase_en": "It takes much time to kill a tree",
+      "figure_en": "Personification",
+      "note_en": "Attributing human actions to a tree.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 552
+    },
+    {
+      "phrase_en": "The bleeding bark will heal.",
+      "figure_en": "Metaphor",
+      "note_en": "Direct comparison of tree sap/damage to bleeding.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 552
+    },
+    {
+      "phrase_en": "Out of the anchoring earth",
+      "figure_en": "Imagery",
+      "note_en": "Visual representation of the tree's connection to the ground.",
+      "fs_tag": "other",
+      "source": "vetrii",
+      "source_page": 552
+    },
+    {
+      "phrase_en": "wild wind",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of 'w' sound",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "curious clock",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of 'c' sound",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "splendid scholar",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of 's' sound",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "memorable moments",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of 'm' sound",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "creepy crawlies",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of 'c' sound",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "During Christmas house smells like a choclate brownie.",
+      "figure_en": "Imagery",
+      "note_en": "Visual/olfactory description",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "The kittens fur is like a velvet coat.",
+      "figure_en": "Imagery",
+      "note_en": "Visual/tactile description",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "The mountain was spewing and spitting the smoke.",
+      "figure_en": "Imagery",
+      "note_en": "Visual description",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "The autumn leaves formed a blanket on the grass.",
+      "figure_en": "Imagery",
+      "note_en": "Visual description",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 457
+    },
+    {
+      "phrase_en": "The Sun smiled down upon them.",
+      "figure_en": "Personification",
+      "note_en": "Human attribute 'smiled' given to the Sun.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "Justice is blind.",
+      "figure_en": "Personification",
+      "note_en": "Human attribute 'blind' given to the abstract concept Justice.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The wind howled in the night.",
+      "figure_en": "Personification",
+      "note_en": "Human action 'howled' given to the wind.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The moon played hide and seek with the clouds.",
+      "figure_en": "Personification",
+      "note_en": "Human activity 'played' given to the moon.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The city never sleeps at night.",
+      "figure_en": "Personification",
+      "note_en": "Human action 'sleeps' given to the city.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The boat danced in the puddle.",
+      "figure_en": "Personification",
+      "note_en": "Human action 'danced' given to the boat.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The flowers nodded their heads",
+      "figure_en": "Personification",
+      "note_en": "Human action 'nodded' given to the flowers.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The thunder grumbled.",
+      "figure_en": "Personification",
+      "note_en": "Human action 'grumbled' given to the thunder.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The lightning danced all over the sky.",
+      "figure_en": "Personification",
+      "note_en": "Human action 'danced' given to the lightning.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The iron hands of Death.",
+      "figure_en": "Personification",
+      "note_en": "Human attribute 'hands' given to Death.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "The popcorn left out of the bowl.",
+      "figure_en": "Personification",
+      "note_en": "Attribute given to the popcorn.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "phrase_en": "as blind as a bat",
+      "figure_en": "Simile",
+      "note_en": "means that someone is not willing to notice",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 459
+    },
+    {
+      "phrase_en": "like peas in a pod",
+      "figure_en": "Simile",
+      "note_en": "means that two people are quite similar",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 459
+    },
+    {
+      "phrase_en": "as wise as an owl",
+      "figure_en": "Simile",
+      "note_en": "refers to someone who is very smart / knowledgeable",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 459
+    },
+    {
+      "phrase_en": "quiet like a mule",
+      "figure_en": "Simile",
+      "note_en": "refers to someone who is calm",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 459
+    },
+    {
+      "phrase_en": "as brave as a lion",
+      "figure_en": "Simile",
+      "note_en": "refers to someone who is very brave / courageous",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 459
+    },
+    {
+      "phrase_en": "My father was boiling mad.",
+      "figure_en": "Metaphor",
+      "note_en": "Implies that he was very angry.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "phrase_en": "She is the apple of my eye.",
+      "figure_en": "Metaphor",
+      "note_en": "Implies that she is too dear to me.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "phrase_en": "Your brain is a computer.",
+      "figure_en": "Metaphor",
+      "note_en": "Implies that your brain is smart and quick.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "phrase_en": "Her voice is music to his ears.",
+      "figure_en": "Metaphor",
+      "note_en": "Implies that her voice makes him feel happy.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "phrase_en": "The given task was a breeze.",
+      "figure_en": "Metaphor",
+      "note_en": "Implies that the task was not difficult.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "phrase_en": "T’is the prettiest little parlour that ever you did spy",
+      "figure_en": "Consonance",
+      "note_en": "Repetition of consonant sounds.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "phrase_en": "T’is the prettiest little parlour that ever you did spy",
+      "figure_en": "Assonance",
+      "note_en": "Repetition of vowel sounds.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "phrase_en": "How handsome are your gauzy wings, how brilliant are your eyes!",
+      "figure_en": "Anaphora",
+      "note_en": "Repetition of 'How' at the beginning of phrases.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "phrase_en": "Sweet creature! said the Spider, You’re witty and you’re wise",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of consonant sounds at the beginning of words (witty/wise).",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "phrase_en": "Little river",
+      "figure_en": "Epithet",
+      "note_en": "Use of the adjective 'Little' to describe the attribute of the river.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 464
+    },
+    {
+      "phrase_en": "yellow pebbles",
+      "figure_en": "Imagery",
+      "note_en": "Visual element that sparks the sense of sight.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 464
+    },
+    {
+      "phrase_en": "It's the old home roof that shelters....",
+      "figure_en": "Metaphor",
+      "note_en": "Implied comparison of the home to a protective shelter.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 466
+    },
+    {
+      "phrase_en": "There you find the gladdest play-ground...",
+      "figure_en": "Metaphor",
+      "note_en": "Implied comparison of the home environment to a playground.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 466
+    },
+    {
+      "phrase_en": "She's a lioness",
+      "figure_en": "Metaphor",
+      "note_en": "The woman is directly compared to a lioness to describe her strength and ferocity.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 468
+    },
+    {
+      "phrase_en": "strong in her faith, firm in her belief",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of the 'f' sound in 'faith' and 'firm'.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 468
+    },
+    {
+      "phrase_en": "We can pull and haul and push and lift and drive",
+      "figure_en": "Personification",
+      "note_en": "Human-like actions attributed to a machine.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 469
+    },
+    {
+      "phrase_en": "all we ask",
+      "figure_en": "Assonance",
+      "note_en": "Repetition of vowel sounds.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 469
+    },
+    {
+      "phrase_en": "We can print and plough and weave and heat and light",
+      "figure_en": "Alliteration",
+      "note_en": "Repetition of consonant sounds.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 469
+    },
+    {
+      "phrase_en": "Though our smoke may hide the Heavens from your eyes",
+      "figure_en": "Connotation",
+      "note_en": "Suggests meaning beyond the literal expression.",
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 469
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What is being personified in the sentence- 'The full moon peeped through partial clouds'?",
+      "answer_en": "The full moon",
+      "options_en": [],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "prompt_en": "Which of the following is an example of personification?",
+      "answer_en": "c) The delicious smell of chocolates invited me to eat them.",
+      "options_en": [
+        "a) The chocolates smelled like delicious cake.",
+        "b) The chocolates smell delicious.",
+        "c) The delicious smell of chocolates invited me to eat them.",
+        "d) I dreamt of delicious chocolates."
+      ],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "prompt_en": "Personification is",
+      "answer_en": "c) giving human attributes to non-human objects.",
+      "options_en": [
+        "a) giving human attributes to human beings.",
+        "b) comparing unrelated things.",
+        "c) giving human attributes to non-human objects.",
+        "d) talking the negative aspects of a person."
+      ],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 194
+    },
+    {
+      "prompt_en": "Which of the given options is a Metaphor? a) Life is like a chocolate box. b) Raj is like his twin brother. c) His words are pearls of wisdom. d) The bus is slow as a snail.",
+      "answer_en": "c) His words are pearls of wisdom.",
+      "options_en": [
+        "a) Life is like a chocolate box.",
+        "b) Raj is like his twin brother.",
+        "c) His words are pearls of wisdom.",
+        "d) The bus is slow as a snail."
+      ],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 551
+    },
+    {
+      "prompt_en": "Match the poetic lines with Figures of speech: 1. So brainy, 2. Mountains, 3. It's so absent minded, 4. Computer gobbled a worm, 5. Very sick",
+      "answer_en": "1-personification, 2-metaphor, 3-hyperbole, 4-personification, 5-metaphor",
+      "options_en": [],
+      "fs_tag": "match",
+      "source": "vetrii",
+      "source_page": 551
+    },
+    {
+      "prompt_en": "Identify the figure of speech: It takes much time to kill a tree",
+      "answer_en": "Personification",
+      "options_en": [
+        "Personification",
+        "Metaphor",
+        "Imagery"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 552
+    },
+    {
+      "prompt_en": "Identify the figure of speech: The bleeding bark will heal.",
+      "answer_en": "Metaphor",
+      "options_en": [
+        "Personification",
+        "Metaphor",
+        "Imagery"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 552
+    },
+    {
+      "prompt_en": "Identify the figure of speech: Out of the anchoring earth",
+      "answer_en": "Imagery",
+      "options_en": [
+        "Personification",
+        "Metaphor",
+        "Imagery"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 552
+    },
+    {
+      "prompt_en": "What is being personified in the sentence- ‘The full moon peeped through partial clouds’?",
+      "answer_en": "The full moon",
+      "options_en": [],
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "prompt_en": "Personification is_____.",
+      "answer_en": "c) giving human attributes to non-human objects.",
+      "options_en": [
+        "a) giving human attributes to human beings.",
+        "b) comparing unrelated things.",
+        "c) giving human attributes to non-human objects.",
+        "d) talking the negative aspects of a person."
+      ],
+      "fs_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 458
+    },
+    {
+      "prompt_en": "Which of the given option is a Metaphor?",
+      "answer_en": "c) His words are pearls of wisdom.",
+      "options_en": [
+        "a) Life is like a chocolate box.",
+        "b) Raj is like his twin brother.",
+        "c) His words are pearls of wisdom.",
+        "d) The bus is slow as a snail."
+      ],
+      "fs_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "prompt_en": "Identify the Metaphor in the sentence: 'Her hair is always a rat’s nest in the morning.'",
+      "answer_en": "a rat's nest",
+      "options_en": [],
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 460
+    },
+    {
+      "prompt_en": "Identify the figures of speech in: Your eyes are like the diamond bright, but mine are dull as lead!",
+      "answer_en": "Simile",
+      "options_en": [
+        "Simile",
+        "Metaphor",
+        "Personification"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 463
+    },
+    {
+      "prompt_en": "Through the flowers and foliage glancing, Like a child at play. Identify the figure of speech used in the above line.",
+      "answer_en": "Simile",
+      "options_en": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Alliteration"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 464
+    },
+    {
+      "prompt_en": "Pick out the words in alliteration from: Seeming still, yet still in motion.",
+      "answer_en": "Seeming, still, still",
+      "options_en": [],
+      "fs_tag": "other",
+      "source": "grammer",
+      "source_page": 464
+    },
+    {
+      "prompt_en": "Identify the line that has a metaphor: 'She's a lioness; don't mess with her.'",
+      "answer_en": "She's a lioness",
+      "options_en": [
+        "She's a lioness",
+        "don't mess with her"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 468
+    },
+    {
+      "prompt_en": "Pick out the alliterated words from: 'She's strong in her faith, firm in her belief!'",
+      "answer_en": "faith, firm",
+      "options_en": [
+        "strong, firm",
+        "faith, firm",
+        "belief, faith"
+      ],
+      "fs_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 468
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 50,
+      "examples": 109,
+      "worked_exercises": 17
+    },
+    "by_fs_tag": {
+      "definition": {
+        "rules": 50,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 0,
+        "examples": 109,
+        "worked": 3
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 13
+      },
+      "match": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 1
+      }
+    }
+  }
+}

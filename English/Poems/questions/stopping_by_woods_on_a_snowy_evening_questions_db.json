@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the poem 'Stopping by Woods on a Snowy Evening'?",
+    "question_ta": "Who is the author of the poem 'Stopping by Woods on a Snowy Evening'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "William Wordsworth",
+        "text_ta": "William Wordsworth"
+      },
+      {
+        "key": "B",
+        "text_en": "John Keats",
+        "text_ta": "John Keats"
+      },
+      {
+        "key": "C",
+        "text_en": "Walt Whitman",
+        "text_ta": "Walt Whitman"
+      },
+      {
+        "key": "D",
+        "text_en": "Robert Frost",
+        "text_ta": "Robert Frost"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem was written by the American poet Robert Frost.",
+    "explanation_ta": "The poem was written by the American poet Robert Frost.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'queer' mean in the context of the poem?",
+    "question_ta": "What does the word 'queer' mean in the context of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Happy",
+        "text_ta": "Happy"
+      },
+      {
+        "key": "B",
+        "text_en": "Bright",
+        "text_ta": "Bright"
+      },
+      {
+        "key": "C",
+        "text_en": "Fast",
+        "text_ta": "Fast"
+      },
+      {
+        "key": "D",
+        "text_en": "Strange or odd",
+        "text_ta": "Strange or odd"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the glossary, 'queer' means strange or odd.",
+    "explanation_ta": "According to the glossary, 'queer' means strange or odd.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whom does 'he' refer to in the first stanza: 'He will not see me stopping here / To watch his woods fill up with snow'?",
+    "question_ta": "Whom does 'he' refer to in the first stanza: 'He will not see me stopping here / To watch his woods fill up with snow'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The owner of the woods",
+        "text_ta": "The owner of the woods"
+      },
+      {
+        "key": "B",
+        "text_en": "A villager",
+        "text_ta": "A villager"
+      },
+      {
+        "key": "C",
+        "text_en": "The poet",
+        "text_ta": "The poet"
+      },
+      {
+        "key": "D",
+        "text_en": "The horse",
+        "text_ta": "The horse"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the textbook worked exercises, 'he' refers to the owner of the woods who lives in the village.",
+    "explanation_ta": "As per the textbook worked exercises, 'he' refers to the owner of the woods who lives in the village.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'harness' mean in the glossary of the poem?",
+    "question_ta": "What does 'harness' mean in the glossary of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A musical instrument played during winter",
+        "text_ta": "A musical instrument played during winter"
+      },
+      {
+        "key": "B",
+        "text_en": "Bells tied to the rider's shoes",
+        "text_ta": "Bells tied to the rider's shoes"
+      },
+      {
+        "key": "C",
+        "text_en": "Straps and fittings by which a horse is fastened to a cart or carriage",
+        "text_ta": "Straps and fittings by which a horse is fastened to a cart or carriage"
+      },
+      {
+        "key": "D",
+        "text_en": "A type of warm winter clothing",
+        "text_ta": "A type of warm winter clothing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary defines harness as straps and fittings by which a horse is fastened to a cart or carriage.",
+    "explanation_ta": "Glossary defines harness as straps and fittings by which a horse is fastened to a cart or carriage.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whom does 'He' refer to in the lines: 'He gives his harness bells a shake / To ask if there is some mistake'?",
+    "question_ta": "Whom does 'He' refer to in the lines: 'He gives his harness bells a shake / To ask if there is some mistake'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The poet",
+        "text_ta": "The poet"
+      },
+      {
+        "key": "B",
+        "text_en": "The owner of the woods",
+        "text_ta": "The owner of the woods"
+      },
+      {
+        "key": "C",
+        "text_en": "A traveler",
+        "text_ta": "A traveler"
+      },
+      {
+        "key": "D",
+        "text_en": "The horse",
+        "text_ta": "The horse"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The little horse gives his harness bells a shake to question stopping without a farmhouse near.",
+    "explanation_ta": "The little horse gives his harness bells a shake to question stopping without a farmhouse near.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "P9"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What are the sounds heard by the poet in the woods?",
+    "question_ta": "What are the sounds heard by the poet in the woods?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Footsteps on the frozen lake",
+        "text_ta": "Footsteps on the frozen lake"
+      },
+      {
+        "key": "B",
+        "text_en": "The shaking of harness bells and the sound of easy wind and falling snow",
+        "text_ta": "The shaking of harness bells and the sound of easy wind and falling snow"
+      },
+      {
+        "key": "C",
+        "text_en": "Chattering of villagers and barking dogs",
+        "text_ta": "Chattering of villagers and barking dogs"
+      },
+      {
+        "key": "D",
+        "text_en": "Chirping of birds and flowing water",
+        "text_ta": "Chirping of birds and flowing water"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the textbook notes, the sounds heard are the shaking of the harness bells and the sweep of easy wind and downy flake.",
+    "explanation_ta": "According to the textbook notes, the sounds heard are the shaking of the harness bells and the sweep of easy wind and downy flake.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'downy' mean in the glossary?",
+    "question_ta": "What does the word 'downy' mean in the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Soft and fluffy",
+        "text_ta": "Soft and fluffy"
+      },
+      {
+        "key": "B",
+        "text_en": "Cold and heavy",
+        "text_ta": "Cold and heavy"
+      },
+      {
+        "key": "C",
+        "text_en": "Sharp and piercing",
+        "text_ta": "Sharp and piercing"
+      },
+      {
+        "key": "D",
+        "text_en": "Dark and deep",
+        "text_ta": "Dark and deep"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary notes define 'downy' as soft and fluffy.",
+    "explanation_ta": "Glossary notes define 'downy' as soft and fluffy.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G6"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'sleep' symbolize in the final lines 'And miles to go before I sleep'?",
+    "question_ta": "What does the word 'sleep' symbolize in the final lines 'And miles to go before I sleep'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The symbol of death",
+        "text_ta": "The symbol of death"
+      },
+      {
+        "key": "B",
+        "text_en": "The symbol of power",
+        "text_ta": "The symbol of power"
+      },
+      {
+        "key": "C",
+        "text_en": "The symbol of faith",
+        "text_ta": "The symbol of faith"
+      },
+      {
+        "key": "D",
+        "text_en": "The symbol of life",
+        "text_ta": "The symbol of life"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In literary analysis, 'sleep' in this context symbolizes eternal rest or death.",
+    "explanation_ta": "In literary analysis, 'sleep' in this context symbolizes eternal rest or death.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "P1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which Indian leader kept the last two lines of this poem written in block letters on his desk to remind him of his responsibilities?",
+    "question_ta": "Which Indian leader kept the last two lines of this poem written in block letters on his desk to remind him of his responsibilities?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mahatma Gandhi",
+        "text_ta": "Mahatma Gandhi"
+      },
+      {
+        "key": "B",
+        "text_en": "Jawaharlal Nehru",
+        "text_ta": "Jawaharlal Nehru"
+      },
+      {
+        "key": "C",
+        "text_en": "Subhash Chandra Bose",
+        "text_ta": "Subhash Chandra Bose"
+      },
+      {
+        "key": "D",
+        "text_en": "Sardar Vallabhbhai Patel",
+        "text_ta": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Jawaharlal Nehru had the last two lines of this poem written in block letters on his desk as a reminder of his duties and responsibilities.",
+    "explanation_ta": "Jawaharlal Nehru had the last two lines of this poem written in block letters on his desk as a reminder of his duties and responsibilities.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the rhyme scheme of the first three stanzas of the poem?",
+    "question_ta": "What is the rhyme scheme of the first three stanzas of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "aaba",
+        "text_ta": "aaba"
+      },
+      {
+        "key": "B",
+        "text_en": "abab",
+        "text_ta": "abab"
+      },
+      {
+        "key": "C",
+        "text_en": "aabb",
+        "text_ta": "aabb"
+      },
+      {
+        "key": "D",
+        "text_en": "aaaa",
+        "text_ta": "aaaa"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The rhyme scheme of the stanzas is aaba (except the final stanza which is aaaa).",
+    "explanation_ta": "The rhyme scheme of the stanzas is aaba (except the final stanza which is aaaa).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the rhyme scheme of the final stanza of the poem?",
+    "question_ta": "What is the rhyme scheme of the final stanza of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "aaba",
+        "text_ta": "aaba"
+      },
+      {
+        "key": "B",
+        "text_en": "abab",
+        "text_ta": "abab"
+      },
+      {
+        "key": "C",
+        "text_en": "aaaa",
+        "text_ta": "aaaa"
+      },
+      {
+        "key": "D",
+        "text_en": "abba",
+        "text_ta": "abba"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Unlike the first three stanzas, the final stanza follows an aaaa rhyme scheme.",
+    "explanation_ta": "Unlike the first three stanzas, the final stanza follows an aaaa rhyme scheme.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the phrase 'watch his woods'.",
+    "question_ta": "Identify the figure of speech used in the phrase 'watch his woods'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The repetition of the consonant sound 'w' in 'watch his woods' is an example of alliteration.",
+    "explanation_ta": "The repetition of the consonant sound 'w' in 'watch his woods' is an example of alliteration.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "F1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is employed when the horse is described as asking if there is some mistake?",
+    "question_ta": "Which figure of speech is employed when the horse is described as asking if there is some mistake?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Onomatopoeia",
+        "text_ta": "Onomatopoeia"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Personification is used here as human-like thought and questioning are attributed to the horse.",
+    "explanation_ta": "Personification is used here as human-like thought and questioning are attributed to the horse.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "F2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the lines: 'And miles to go before I sleep / And miles to go before I sleep'.",
+    "question_ta": "Identify the figure of speech in the lines: 'And miles to go before I sleep / And miles to go before I sleep'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Repetition",
+        "text_ta": "Repetition"
+      },
+      {
+        "key": "C",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The exact phrase is repeated to emphasize the length of the journey and the weight of responsibilities, making it Repetition.",
+    "explanation_ta": "The exact phrase is repeated to emphasize the length of the journey and the weight of responsibilities, making it Repetition.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "F3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How many Pulitzer prizes for poetry did Robert Frost receive?",
+    "question_ta": "How many Pulitzer prizes for poetry did Robert Frost receive?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Five",
+        "text_ta": "Five"
+      },
+      {
+        "key": "B",
+        "text_en": "Four",
+        "text_ta": "Four"
+      },
+      {
+        "key": "C",
+        "text_en": "Three",
+        "text_ta": "Three"
+      },
+      {
+        "key": "D",
+        "text_en": "Two",
+        "text_ta": "Two"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Robert Frost received four Pulitzer prizes for poetry during his lifetime.",
+    "explanation_ta": "Robert Frost received four Pulitzer prizes for poetry during his lifetime.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'sweep' mean according to the poem's glossary?",
+    "question_ta": "What does 'sweep' mean according to the poem's glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To clean with a broom",
+        "text_ta": "To clean with a broom"
+      },
+      {
+        "key": "B",
+        "text_en": "To blow strongly like a storm",
+        "text_ta": "To blow strongly like a storm"
+      },
+      {
+        "key": "C",
+        "text_en": "To move swiftly and smoothly",
+        "text_ta": "To move swiftly and smoothly"
+      },
+      {
+        "key": "D",
+        "text_en": "To freeze completely",
+        "text_ta": "To freeze completely"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary defines 'sweep' as to move swiftly and smoothly.",
+    "explanation_ta": "Glossary defines 'sweep' as to move swiftly and smoothly.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of 'woods' as per the glossary?",
+    "question_ta": "What is the meaning of 'woods' as per the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A village near the mountains",
+        "text_ta": "A village near the mountains"
+      },
+      {
+        "key": "B",
+        "text_en": "A frozen lake in the forest",
+        "text_ta": "A frozen lake in the forest"
+      },
+      {
+        "key": "C",
+        "text_en": "A wooden cart used in winter",
+        "text_ta": "A wooden cart used in winter"
+      },
+      {
+        "key": "D",
+        "text_en": "An area of land covered with a thick growth of trees",
+        "text_ta": "An area of land covered with a thick growth of trees"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary defines woods as an area of land covered with a thick growth of trees.",
+    "explanation_ta": "Glossary defines woods as an area of land covered with a thick growth of trees.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'frozen' mean in the context of the poem's glossary?",
+    "question_ta": "What does 'frozen' mean in the context of the poem's glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hidden under snow",
+        "text_ta": "Hidden under snow"
+      },
+      {
+        "key": "B",
+        "text_en": "Melted by sunlight",
+        "text_ta": "Melted by sunlight"
+      },
+      {
+        "key": "C",
+        "text_en": "Covered in thick mud",
+        "text_ta": "Covered in thick mud"
+      },
+      {
+        "key": "D",
+        "text_en": "In ice form",
+        "text_ta": "In ice form"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary specifies 'frozen' as being in ice form.",
+    "explanation_ta": "Glossary specifies 'frozen' as being in ice form.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'flake' mean according to the glossary?",
+    "question_ta": "What does 'flake' mean according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A piece of cracked ice",
+        "text_ta": "A piece of cracked ice"
+      },
+      {
+        "key": "B",
+        "text_en": "A leaf falling from a tree",
+        "text_ta": "A leaf falling from a tree"
+      },
+      {
+        "key": "C",
+        "text_en": "A drop of winter rain",
+        "text_ta": "A drop of winter rain"
+      },
+      {
+        "key": "D",
+        "text_en": "A small piece of snowflake",
+        "text_ta": "A small piece of snowflake"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary defines 'flake' as a small piece of snowflake.",
+    "explanation_ta": "Glossary defines 'flake' as a small piece of snowflake.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "G7"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why does the poet stop between the woods and the frozen lake?",
+    "question_ta": "Why does the poet stop between the woods and the frozen lake?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To feed his little horse",
+        "text_ta": "To feed his little horse"
+      },
+      {
+        "key": "B",
+        "text_en": "To watch his woods fill up with snow",
+        "text_ta": "To watch his woods fill up with snow"
+      },
+      {
+        "key": "C",
+        "text_en": "To meet the owner of the house",
+        "text_ta": "To meet the owner of the house"
+      },
+      {
+        "key": "D",
+        "text_en": "To fix his broken harness",
+        "text_ta": "To fix his broken harness"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poet stops to watch the owner's woods fill up with snow on the darkest evening of the year.",
+    "explanation_ta": "The poet stops to watch the owner's woods fill up with snow on the darkest evening of the year.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What prevents the poet from lingering longer in the lovely woods?",
+    "question_ta": "What prevents the poet from lingering longer in the lovely woods?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The complaints of his little horse",
+        "text_ta": "The complaints of his little horse"
+      },
+      {
+        "key": "B",
+        "text_en": "The approaching snowstorm",
+        "text_ta": "The approaching snowstorm"
+      },
+      {
+        "key": "C",
+        "text_en": "His promises to keep and miles to go",
+        "text_ta": "His promises to keep and miles to go"
+      },
+      {
+        "key": "D",
+        "text_en": "The anger of the wood's owner",
+        "text_ta": "The anger of the wood's owner"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poet acknowledges his worldly responsibilities ('promises to keep') which compel him to continue his journey.",
+    "explanation_ta": "The poet acknowledges his worldly responsibilities ('promises to keep') which compel him to continue his journey.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What time of year or day is suggested by 'The darkest evening of the year'?",
+    "question_ta": "What time of year or day is suggested by 'The darkest evening of the year'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "An autumn twilight",
+        "text_ta": "An autumn twilight"
+      },
+      {
+        "key": "B",
+        "text_en": "The winter solstice",
+        "text_ta": "The winter solstice"
+      },
+      {
+        "key": "C",
+        "text_en": "A moonlit spring night",
+        "text_ta": "A moonlit spring night"
+      },
+      {
+        "key": "D",
+        "text_en": "The summer solstice",
+        "text_ta": "The summer solstice"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem describes a snowy evening with a frozen lake and downy flakes, indicating the deepest part of winter (the winter solstice).",
+    "explanation_ta": "The poem describes a snowy evening with a frozen lake and downy flakes, indicating the deepest part of winter (the winter solstice).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What kind of life descriptions are Robert Frost's poems noted for?",
+    "question_ta": "What kind of life descriptions are Robert Frost's poems noted for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Realistic descriptions of rural life",
+        "text_ta": "Realistic descriptions of rural life"
+      },
+      {
+        "key": "B",
+        "text_en": "Seafaring maritime adventures",
+        "text_ta": "Seafaring maritime adventures"
+      },
+      {
+        "key": "C",
+        "text_en": "Urban industrial life",
+        "text_ta": "Urban industrial life"
+      },
+      {
+        "key": "D",
+        "text_en": "Fictional fantasy kingdoms",
+        "text_ta": "Fictional fantasy kingdoms"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Robert Frost was an American poet noted for realistic descriptions of rural life.",
+    "explanation_ta": "Robert Frost was an American poet noted for realistic descriptions of rural life.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the repetition of the final line emphasize in the poem?",
+    "question_ta": "What does the repetition of the final line emphasize in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The weariness of the little horse",
+        "text_ta": "The weariness of the little horse"
+      },
+      {
+        "key": "B",
+        "text_en": "The isolation of the village house",
+        "text_ta": "The isolation of the village house"
+      },
+      {
+        "key": "C",
+        "text_en": "The long road ahead and the weight of responsibilities",
+        "text_ta": "The long road ahead and the weight of responsibilities"
+      },
+      {
+        "key": "D",
+        "text_en": "The beauty of the falling snow",
+        "text_ta": "The beauty of the falling snow"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The final repetition emphasizes the long road ahead before he can finally find rest.",
+    "explanation_ta": "The final repetition emphasizes the long road ahead before he can finally find rest.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Stopping by Woods on a Snowy Evening",
+    "topic": "Stopping by Woods on a Snowy Evening",
+    "topic_id": "stopping_by_woods_on_a_snowy_evening",
+    "topic_ta": "Stopping by Woods on a Snowy Evening",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why does the little horse think it queer to stop?",
+    "question_ta": "Why does the little horse think it queer to stop?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Because the owner of the woods is watching",
+        "text_ta": "Because the owner of the woods is watching"
+      },
+      {
+        "key": "B",
+        "text_en": "Because the harness bells are broken",
+        "text_ta": "Because the harness bells are broken"
+      },
+      {
+        "key": "C",
+        "text_en": "Because there is no farmhouse near between the woods and frozen lake",
+        "text_ta": "Because there is no farmhouse near between the woods and frozen lake"
+      },
+      {
+        "key": "D",
+        "text_en": "Because there is a farmhouse nearby",
+        "text_ta": "Because there is a farmhouse nearby"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The horse finds it strange to stop where there is no farmhouse near between the woods and frozen lake.",
+    "explanation_ta": "The horse finds it strange to stop where there is no farmhouse near between the woods and frozen lake.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "stopping_by_woods_on_a_snowy_evening",
+    "source_note": "Summary"
+  }
+]

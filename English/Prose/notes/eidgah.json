@@ -1,0 +1,96 @@
+{
+  "prose_id": "eidgah",
+  "prose_title": "Eidgah",
+  "author": "Munshi Premchand",
+  "num": 24,
+  "pdf_pages": [
+    490,
+    504
+  ],
+  "prose_text_en": "The story follows young, orphaned Hamid who lives with his grandmother, Ameena. On Eid, while his friends splurge their pocket money on toys like a policeman, a water-carrier, and a lawyer, and on sweets, four-year-old Hamid resists the temptation. He realizes his grandmother burns her fingers making rotis, so he uses his three paisas to buy a pair of tongs (chimta) instead of toys or sweets, prioritizing his grandmother's comfort over his own pleasure.",
+  "summary_en": "Eidgah is a heart-touching story about a young boy named Hamid who demonstrates maturity beyond his years. Despite his poverty, he chooses to buy a pair of tongs for his grandmother rather than spending his money on toys or treats at the Eid fair. The story emphasizes selfless love, responsibility, and the pure bond between a grandchild and a grandmother.",
+  "characters": [
+    {
+      "name_en": "Hamid",
+      "role_en": "A four-year-old orphan living with his grandmother; the protagonist."
+    },
+    {
+      "name_en": "Ameena",
+      "role_en": "Hamid's elderly grandmother who cares for him."
+    },
+    {
+      "name_en": "Mahmood",
+      "role_en": "Hamid's friend who buys a policeman toy."
+    },
+    {
+      "name_en": "Mohsin",
+      "role_en": "Hamid's friend who buys a water-carrier toy."
+    },
+    {
+      "name_en": "Noorey",
+      "role_en": "Hamid's friend who buys a lawyer toy."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Dazzling",
+      "meaning_en": "Extremely bright"
+    },
+    {
+      "word_en": "Tattered",
+      "meaning_en": "Torn"
+    },
+    {
+      "word_en": "Suburbs",
+      "meaning_en": "Outlying area"
+    },
+    {
+      "word_en": "Gaily",
+      "meaning_en": "In bright colours"
+    },
+    {
+      "word_en": "Gaped",
+      "meaning_en": "Stared"
+    },
+    {
+      "word_en": "Relished",
+      "meaning_en": "Enjoyed or took pleasure in the taste"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Munshi Premchand",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Theme: Selfless love, childhood innocence, and poverty",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Hamid buys 'tongs' (chimta) for his grandmother instead of toys.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Finally the day had come. Here the day refers to",
+      "answer_en": "Eid",
+      "options_en": [
+        "Pongal",
+        "Christmas",
+        "Eid"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Hamid was like one with wings on his feet. This means",
+      "answer_en": "He ran fast.",
+      "options_en": [
+        "He ran fast.",
+        "He ran slowly.",
+        "He was an angel."
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

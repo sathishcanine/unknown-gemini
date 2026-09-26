@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the poem under test?",
+    "question_ta": "Who is the author of the poem under test?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Robert Frost",
+        "text_ta": "Robert Frost"
+      },
+      {
+        "key": "B",
+        "text_en": "William Henry Davies",
+        "text_ta": "William Henry Davies"
+      },
+      {
+        "key": "C",
+        "text_en": "William Wordsworth",
+        "text_ta": "William Wordsworth"
+      },
+      {
+        "key": "D",
+        "text_en": "John Keats",
+        "text_ta": "John Keats"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem is written by William Henry Davies, a Welsh poet and writer.",
+    "explanation_ta": "The poem is written by William Henry Davies, a Welsh poet and writer.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'care' refer to in the context of the opening lines?",
+    "question_ta": "What does the term 'care' refer to in the context of the opening lines?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Careful driving",
+        "text_ta": "Careful driving"
+      },
+      {
+        "key": "B",
+        "text_en": "Medical attention",
+        "text_ta": "Medical attention"
+      },
+      {
+        "key": "C",
+        "text_en": "Affectionate love",
+        "text_ta": "Affectionate love"
+      },
+      {
+        "key": "D",
+        "text_en": "Worries or anxieties",
+        "text_ta": "Worries or anxieties"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the glossary, 'care' means worries or anxieties.",
+    "explanation_ta": "According to the glossary, 'care' means worries or anxieties.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'boughs' mean in the poem?",
+    "question_ta": "What does the word 'boughs' mean in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Main branches of a tree",
+        "text_ta": "Main branches of a tree"
+      },
+      {
+        "key": "B",
+        "text_en": "Fallen dried twigs",
+        "text_ta": "Fallen dried twigs"
+      },
+      {
+        "key": "C",
+        "text_en": "Small green leaves",
+        "text_ta": "Small green leaves"
+      },
+      {
+        "key": "D",
+        "text_en": "Roots under the ground",
+        "text_ta": "Roots under the ground"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary defines 'boughs' as the main branches of a tree.",
+    "explanation_ta": "Glossary defines 'boughs' as the main branches of a tree.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'enrich' signify in the poem's context?",
+    "question_ta": "What does 'enrich' signify in the poem's context?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Earn huge amounts of money",
+        "text_ta": "Earn huge amounts of money"
+      },
+      {
+        "key": "B",
+        "text_en": "Improve or enhance the quality of",
+        "text_ta": "Improve or enhance the quality of"
+      },
+      {
+        "key": "C",
+        "text_en": "Make something heavier",
+        "text_ta": "Make something heavier"
+      },
+      {
+        "key": "D",
+        "text_en": "Decorate with gold and silver",
+        "text_ta": "Decorate with gold and silver"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary notes that 'enrich' means to improve or enhance the quality of.",
+    "explanation_ta": "Glossary notes that 'enrich' means to improve or enhance the quality of.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which figure of speech is employed in the line 'And watch her feet, how they can dance'?",
+    "question_ta": "Which figure of speech is employed in the line 'And watch her feet, how they can dance'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "B",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Beauty is personified as a woman who can dance, which is an example of Personification.",
+    "explanation_ta": "Beauty is personified as a woman who can dance, which is an example of Personification.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "F1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech used in the comparison: 'Streams full of stars, like skies at night.'",
+    "question_ta": "Identify the figure of speech used in the comparison: 'Streams full of stars, like skies at night.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "C",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "D",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The reflection of sunlight on water is compared to stars using the word 'like', making it a Simile.",
+    "explanation_ta": "The reflection of sunlight on water is compared to stars using the word 'like', making it a Simile.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "F2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary theme of the poem?",
+    "question_ta": "What is the primary theme of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The importance of observing nature and finding tranquility",
+        "text_ta": "The importance of observing nature and finding tranquility"
+      },
+      {
+        "key": "B",
+        "text_en": "The necessity of industrial growth and speed",
+        "text_ta": "The necessity of industrial growth and speed"
+      },
+      {
+        "key": "C",
+        "text_en": "The historical background of rural villages",
+        "text_ta": "The historical background of rural villages"
+      },
+      {
+        "key": "D",
+        "text_en": "The challenges of financial management",
+        "text_ta": "The challenges of financial management"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The central theme highlights the importance of observing nature and finding tranquility in a stressful world.",
+    "explanation_ta": "The central theme highlights the importance of observing nature and finding tranquility in a stressful world.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the title signify according to the notes?",
+    "question_ta": "What does the title signify according to the notes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The time spent sleeping during the day",
+        "text_ta": "The time spent sleeping during the day"
+      },
+      {
+        "key": "B",
+        "text_en": "The period after retirement from a job",
+        "text_ta": "The period after retirement from a job"
+      },
+      {
+        "key": "C",
+        "text_en": "A long vacation spent traveling abroad",
+        "text_ta": "A long vacation spent traveling abroad"
+      },
+      {
+        "key": "D",
+        "text_en": "The time available for ease and the enjoyment of nature",
+        "text_ta": "The time available for ease and the enjoyment of nature"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The title signifies the time available for ease and the enjoyment of nature, absent in a busy life.",
+    "explanation_ta": "The title signifies the time available for ease and the enjoyment of nature, absent in a busy life.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the poet, human beings are too preoccupied with what?",
+    "question_ta": "According to the poet, human beings are too preoccupied with what?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Artistic painting",
+        "text_ta": "Artistic painting"
+      },
+      {
+        "key": "B",
+        "text_en": "Deep sea diving",
+        "text_ta": "Deep sea diving"
+      },
+      {
+        "key": "C",
+        "text_en": "Scientific research",
+        "text_ta": "Scientific research"
+      },
+      {
+        "key": "D",
+        "text_en": "Worldly worries",
+        "text_ta": "Worldly worries"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem laments that human beings are so preoccupied with worldly worries that they fail to appreciate nature.",
+    "explanation_ta": "The poem laments that human beings are so preoccupied with worldly worries that they fail to appreciate nature.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How long does the poet suggest we stand and stare, much like animals?",
+    "question_ta": "How long does the poet suggest we stand and stare, much like animals?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "For a brief moment at dawn",
+        "text_ta": "For a brief moment at dawn"
+      },
+      {
+        "key": "B",
+        "text_en": "As long as migrating birds",
+        "text_ta": "As long as migrating birds"
+      },
+      {
+        "key": "C",
+        "text_en": "As long as sheep or cows",
+        "text_ta": "As long as sheep or cows"
+      },
+      {
+        "key": "D",
+        "text_en": "Until the sunset fades away",
+        "text_ta": "Until the sunset fades away"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text states: 'And stare as long as sheep or cows.'",
+    "explanation_ta": "The text states: 'And stare as long as sheep or cows.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What animals are mentioned in comparison to human observation in the poem?",
+    "question_ta": "What animals are mentioned in comparison to human observation in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dogs and cats",
+        "text_ta": "Dogs and cats"
+      },
+      {
+        "key": "B",
+        "text_en": "Horses and donkeys",
+        "text_ta": "Horses and donkeys"
+      },
+      {
+        "key": "C",
+        "text_en": "Sheep or cows",
+        "text_ta": "Sheep or cows"
+      },
+      {
+        "key": "D",
+        "text_en": "Lions and tigers",
+        "text_ta": "Lions and tigers"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text mentions sheep or cows standing beneath the boughs.",
+    "explanation_ta": "The text mentions sheep or cows standing beneath the boughs.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What creatures are seen hiding their nuts in the grass when we pass the woods?",
+    "question_ta": "What creatures are seen hiding their nuts in the grass when we pass the woods?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Monkeys",
+        "text_ta": "Monkeys"
+      },
+      {
+        "key": "B",
+        "text_en": "Squirrels",
+        "text_ta": "Squirrels"
+      },
+      {
+        "key": "C",
+        "text_en": "Rabbits",
+        "text_ta": "Rabbits"
+      },
+      {
+        "key": "D",
+        "text_en": "Foxes",
+        "text_ta": "Foxes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem mentions 'Where squirrels hide their nuts in grass.'",
+    "explanation_ta": "The poem mentions 'Where squirrels hide their nuts in grass.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In broad daylight, what do the streams look like according to the poem?",
+    "question_ta": "In broad daylight, what do the streams look like according to the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Flowing ribbons of silver metal",
+        "text_ta": "Flowing ribbons of silver metal"
+      },
+      {
+        "key": "B",
+        "text_en": "Streams full of stars, like skies at night",
+        "text_ta": "Streams full of stars, like skies at night"
+      },
+      {
+        "key": "C",
+        "text_en": "Mirror reflections of tall buildings",
+        "text_ta": "Mirror reflections of tall buildings"
+      },
+      {
+        "key": "D",
+        "text_en": "Clear paths of blue glass",
+        "text_ta": "Clear paths of blue glass"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text states: 'Streams full of stars, like skies at night.'",
+    "explanation_ta": "The text states: 'Streams full of stars, like skies at night.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whose glance and dancing feet does the poet mention turning to watch?",
+    "question_ta": "Whose glance and dancing feet does the poet mention turning to watch?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Beauty's",
+        "text_ta": "Beauty's"
+      },
+      {
+        "key": "B",
+        "text_en": "Nature's",
+        "text_ta": "Nature's"
+      },
+      {
+        "key": "C",
+        "text_en": "Grace's",
+        "text_ta": "Grace's"
+      },
+      {
+        "key": "D",
+        "text_en": "Youth's",
+        "text_ta": "Youth's"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem says: 'No time to turn at Beauty’s glance, / And watch her feet, how they can dance.'",
+    "explanation_ta": "The poem says: 'No time to turn at Beauty’s glance, / And watch her feet, how they can dance.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What part of Beauty's expression does the poet wait to enrich her smile?",
+    "question_ta": "What part of Beauty's expression does the poet wait to enrich her smile?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Her cheeks",
+        "text_ta": "Her cheeks"
+      },
+      {
+        "key": "B",
+        "text_en": "Her hands",
+        "text_ta": "Her hands"
+      },
+      {
+        "key": "C",
+        "text_en": "Her mouth",
+        "text_ta": "Her mouth"
+      },
+      {
+        "key": "D",
+        "text_en": "Her brow",
+        "text_ta": "Her brow"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text reads: 'No time to wait till her mouth can / Enrich that smile her eyes began.'",
+    "explanation_ta": "The text reads: 'No time to wait till her mouth can / Enrich that smile her eyes began.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does the poet describe human life if it is full of care and lacks leisure?",
+    "question_ta": "How does the poet describe human life if it is full of care and lacks leisure?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A wise and productive life",
+        "text_ta": "A wise and productive life"
+      },
+      {
+        "key": "B",
+        "text_en": "A poor life this is",
+        "text_ta": "A poor life this is"
+      },
+      {
+        "key": "C",
+        "text_en": "A modern progressive life",
+        "text_ta": "A modern progressive life"
+      },
+      {
+        "key": "D",
+        "text_en": "A busy and successful life",
+        "text_ta": "A busy and successful life"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem concludes: 'A poor life this is, if full of care, / We have no time to stand and stare.'",
+    "explanation_ta": "The poem concludes: 'A poor life this is, if full of care, / We have no time to stand and stare.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What kind of existence does the poet argue results from a life devoid of leisure?",
+    "question_ta": "What kind of existence does the poet argue results from a life devoid of leisure?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A poor and empty existence",
+        "text_ta": "A poor and empty existence"
+      },
+      {
+        "key": "B",
+        "text_en": "A joyful and energetic routine",
+        "text_ta": "A joyful and energetic routine"
+      },
+      {
+        "key": "C",
+        "text_en": "A rich and fulfilling career",
+        "text_ta": "A rich and fulfilling career"
+      },
+      {
+        "key": "D",
+        "text_en": "A peaceful and meditative journey",
+        "text_ta": "A peaceful and meditative journey"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The summary notes that a life devoid of leisure and observation is a poor and empty existence.",
+    "explanation_ta": "The summary notes that a life devoid of leisure and observation is a poor and empty existence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What lifestyle did William Henry Davies spend a significant part of his life living?",
+    "question_ta": "What lifestyle did William Henry Davies spend a significant part of his life living?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As a royal court advisor",
+        "text_ta": "As a royal court advisor"
+      },
+      {
+        "key": "B",
+        "text_en": "As a corporate executive",
+        "text_ta": "As a corporate executive"
+      },
+      {
+        "key": "C",
+        "text_en": "As a military general",
+        "text_ta": "As a military general"
+      },
+      {
+        "key": "D",
+        "text_en": "As a tramp or hobo",
+        "text_ta": "As a tramp or hobo"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Biographical notes state that W.H. Davies spent a significant part of his life as a tramp or hobo in the UK and US.",
+    "explanation_ta": "Biographical notes state that W.H. Davies spent a significant part of his life as a tramp or hobo in the UK and US.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which countries did W.H. Davies spend time in as a tramp or hobo?",
+    "question_ta": "Which countries did W.H. Davies spend time in as a tramp or hobo?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "France and Germany",
+        "text_ta": "France and Germany"
+      },
+      {
+        "key": "B",
+        "text_en": "India and Sri Lanka",
+        "text_ta": "India and Sri Lanka"
+      },
+      {
+        "key": "C",
+        "text_en": "United Kingdom and the United States",
+        "text_ta": "United Kingdom and the United States"
+      },
+      {
+        "key": "D",
+        "text_en": "Australia and New Zealand",
+        "text_ta": "Australia and New Zealand"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Notes confirm he spent time as a tramp in the United Kingdom and the United States.",
+    "explanation_ta": "Notes confirm he spent time as a tramp in the United Kingdom and the United States.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the poet urge readers to do in light of the poem's message?",
+    "question_ta": "What does the poet urge readers to do in light of the poem's message?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Slow down and observe simple pleasures",
+        "text_ta": "Slow down and observe simple pleasures"
+      },
+      {
+        "key": "B",
+        "text_en": "Migrate to rural farming communities",
+        "text_ta": "Migrate to rural farming communities"
+      },
+      {
+        "key": "C",
+        "text_en": "Work harder to achieve wealth",
+        "text_ta": "Work harder to achieve wealth"
+      },
+      {
+        "key": "D",
+        "text_en": "Build faster transport systems",
+        "text_ta": "Build faster transport systems"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The summary states he urges readers to slow down and observe the simple pleasures surrounding them.",
+    "explanation_ta": "The summary states he urges readers to slow down and observe the simple pleasures surrounding them.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which sound device or alliteration is specifically noted in the poem's analysis?",
+    "question_ta": "Which sound device or alliteration is specifically noted in the poem's analysis?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Repetition of the 's' sound in 'stare', 'sheep', and 'streams'",
+        "text_ta": "Repetition of the 's' sound in 'stare', 'sheep', and 'streams'"
+      },
+      {
+        "key": "B",
+        "text_en": "Rhyme scheme of alternating couplets",
+        "text_ta": "Rhyme scheme of alternating couplets"
+      },
+      {
+        "key": "C",
+        "text_en": "Assonance of vowel sounds in 'daylight'",
+        "text_ta": "Assonance of vowel sounds in 'daylight'"
+      },
+      {
+        "key": "D",
+        "text_en": "Repetition of the 'b' sound in 'boughs' and 'broad'",
+        "text_ta": "Repetition of the 'b' sound in 'boughs' and 'broad'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Notes for alliteration cite the 's' sound repeated in 'stare', 'sheep', and 'streams'.",
+    "explanation_ta": "Notes for alliteration cite the 's' sound repeated in 'stare', 'sheep', and 'streams'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "F3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the couplet: 'What is this life if, full of care, / We have no time to ______.'",
+    "question_ta": "Complete the couplet: 'What is this life if, full of care, / We have no time to ______.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "work and sleep",
+        "text_ta": "work and sleep"
+      },
+      {
+        "key": "B",
+        "text_en": "stand and stare",
+        "text_ta": "stand and stare"
+      },
+      {
+        "key": "C",
+        "text_en": "walk and run",
+        "text_ta": "walk and run"
+      },
+      {
+        "key": "D",
+        "text_en": "read and write",
+        "text_ta": "read and write"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The opening lines are: 'What is this life if, full of care, / We have no time to stand and stare.'",
+    "explanation_ta": "The opening lines are: 'What is this life if, full of care, / We have no time to stand and stare.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where do people lack time to stand beneath, according to the second couplet?",
+    "question_ta": "Where do people lack time to stand beneath, according to the second couplet?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The stone bridges",
+        "text_ta": "The stone bridges"
+      },
+      {
+        "key": "B",
+        "text_en": "The tall mountains",
+        "text_ta": "The tall mountains"
+      },
+      {
+        "key": "C",
+        "text_en": "The boughs",
+        "text_ta": "The boughs"
+      },
+      {
+        "key": "D",
+        "text_en": "The waterfalls",
+        "text_ta": "The waterfalls"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text says: 'No time to stand beneath the boughs'.",
+    "explanation_ta": "The text says: 'No time to stand beneath the boughs'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What do people pass where squirrels hide their nuts?",
+    "question_ta": "What do people pass where squirrels hide their nuts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rivers",
+        "text_ta": "Rivers"
+      },
+      {
+        "key": "B",
+        "text_en": "Valleys",
+        "text_ta": "Valleys"
+      },
+      {
+        "key": "C",
+        "text_en": "Woods",
+        "text_ta": "Woods"
+      },
+      {
+        "key": "D",
+        "text_en": "Gardens",
+        "text_ta": "Gardens"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text states: 'No time to see, when woods we pass, / Where squirrels hide their nuts in grass.'",
+    "explanation_ta": "The text states: 'No time to see, when woods we pass, / Where squirrels hide their nuts in grass.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Leisure",
+    "topic": "Leisure",
+    "topic_id": "leisure",
+    "topic_ta": "Leisure",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In the comparison 'Streams full of stars, like skies at night', what does 'like' signify?",
+    "question_ta": "In the comparison 'Streams full of stars, like skies at night', what does 'like' signify?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "An Alliteration of the letter 's'",
+        "text_ta": "An Alliteration of the letter 's'"
+      },
+      {
+        "key": "B",
+        "text_en": "A Simile connecting two similar images",
+        "text_ta": "A Simile connecting two similar images"
+      },
+      {
+        "key": "C",
+        "text_en": "A Personification of the stream",
+        "text_ta": "A Personification of the stream"
+      },
+      {
+        "key": "D",
+        "text_en": "A Metaphor equating stars to water",
+        "text_ta": "A Metaphor equating stars to water"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using 'like' to compare stream reflections to night skies makes it a Simile.",
+    "explanation_ta": "Using 'like' to compare stream reflections to night skies makes it a Simile.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "leisure",
+    "source_note": "F2"
+  }
+]

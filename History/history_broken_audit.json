@@ -1,0 +1,1306 @@
+{
+  "subject": "History",
+  "total": 1762,
+  "drop_count": 45,
+  "drop_ids": [
+    6454,
+    6458,
+    6485,
+    6487,
+    6495,
+    6500,
+    6514,
+    6528,
+    6593,
+    6594,
+    6602,
+    6614,
+    6615,
+    6712,
+    6757,
+    6781,
+    6784,
+    6791,
+    6819,
+    6845,
+    6849,
+    6945,
+    6988,
+    7054,
+    7115,
+    7121,
+    7154,
+    7292,
+    7385,
+    7434,
+    7455,
+    7458,
+    7469,
+    7530,
+    7531,
+    7548,
+    7568,
+    7590,
+    7604,
+    7655,
+    7715,
+    7865,
+    7831,
+    7873,
+    8010
+  ],
+  "by_reason": {
+    "match_incomplete": 29,
+    "statements_missing": 15,
+    "duplicate_options": 1
+  },
+  "by_topic": {
+    "Prehistoric Period": 3,
+    "Indus Valley Civilization": 8,
+    "Guptas": 5,
+    "Mughal Empire": 5,
+    "Marathas": 6,
+    "Vijayanagar & Bahmani Kingdoms": 6,
+    "Characteristics of Indian Culture, Unity in Diversity": 2,
+    "Sports": 1,
+    "Vedic Period": 1,
+    "Mauryan Empire": 1,
+    "Delhi Sultanate": 2,
+    "Pallavas": 1,
+    "Cheras": 1,
+    "Chalukyas & Rashtrakutas": 2,
+    "Pandiyas": 1
+  },
+  "items": [
+    {
+      "id": 6454,
+      "topic": "Prehistoric Period",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the discovery with their corresponding period. 1. Discovery of iron 2. Discovery of Bronze 3. Beginning of agriculture 4. Discovery of fire",
+      "opts": [
+        [
+          "A",
+          "4 3 2 1"
+        ],
+        [
+          "B",
+          "3 2 1 4"
+        ],
+        [
+          "C",
+          "2 3 4 1"
+        ],
+        [
+          "D",
+          "1 2 3 4"
+        ]
+      ]
+    },
+    {
+      "id": 6458,
+      "topic": "Prehistoric Period",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the statement is incorrect regarding the Neolithic culture?",
+      "opts": [
+        [
+          "A",
+          "(i) is correct (ii), (iii), (iv) is incorrect."
+        ],
+        [
+          "B",
+          "(i) and (ii) are correct (iii) and (iv) are incorrect."
+        ],
+        [
+          "C",
+          "(i), (ii), (iii) are correct (iv) only incorrect."
+        ],
+        [
+          "D",
+          "(i), (iii) and (iv) are correct (ii) only incorrect."
+        ]
+      ]
+    },
+    {
+      "id": 6485,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the statement is correct regarding Architecture of Indus Valley?",
+      "opts": [
+        [
+          "A",
+          "1, 2, 3, 4 are correct"
+        ],
+        [
+          "B",
+          "1, 2 are correct 3, 4 are incorrect"
+        ],
+        [
+          "C",
+          "1, 3, 4 are correct 2 only incorrect"
+        ],
+        [
+          "D",
+          "4 only incorrect"
+        ]
+      ]
+    },
+    {
+      "id": 6487,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "duplicate_options"
+      ],
+      "stem": "Match correctly the excavated things with the corresponding places:",
+      "opts": [
+        [
+          "A",
+          "Copper: Khetri, Gold: Kolar, Lapis Lazuli: Badakhshan, Cloth: Umma"
+        ],
+        [
+          "B",
+          "Copper: Khetri, Gold: Kolar, Lapis Lazuli: Badakhshan, Cloth: Umma"
+        ],
+        [
+          "C",
+          "Copper: Khetri, Gold: Kolar, Lapis Lazuli: Badakhshan, Cloth: Umma"
+        ],
+        [
+          "D",
+          "Copper: Khetri, Gold: Kolar, Lapis Lazuli: Badakhshan, Cloth: Umma"
+        ]
+      ]
+    },
+    {
+      "id": 6495,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the following Indus Valley Civilization sites with its locations.",
+      "opts": [
+        [
+          "A",
+          "2 4 1 3"
+        ],
+        [
+          "B",
+          "3 1 4 2"
+        ],
+        [
+          "C",
+          "3 4 2 1"
+        ],
+        [
+          "D",
+          "2 1 4 3"
+        ]
+      ]
+    },
+    {
+      "id": 6500,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "In connection with Indus valley civilization which of the following is incorrect?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (ii)"
+        ],
+        [
+          "C",
+          "(iii) only"
+        ],
+        [
+          "D",
+          "(i), (ii) and (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 6514,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about original inhabitants and their culture?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (ii) only"
+        ],
+        [
+          "C",
+          "(i) and (iii) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 6528,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "The Harappans mainly settled on the banks of rivers. Match the following settlements with the banks of rivers on which they are located :",
+      "opts": [
+        [
+          "A",
+          "(a) 5, (b) 4, (c) 2, (d) 3, (e) 1"
+        ],
+        [
+          "B",
+          "(a) 2, (b) 5, (c) 1, (d) 4, (e) 3"
+        ],
+        [
+          "C",
+          "(a) 4, (b) 5, (c) 2, (d) 3, (e) 1"
+        ],
+        [
+          "D",
+          "(a) 5, (b) 4, (c) 3, (d) 2, (e) 1"
+        ]
+      ]
+    },
+    {
+      "id": 6593,
+      "topic": "Guptas",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the statement is incorrect regarding Samudragupta?",
+      "opts": [
+        [
+          "A",
+          "(i), (iv) only"
+        ],
+        [
+          "B",
+          "(i), (iii) only"
+        ],
+        [
+          "C",
+          "(i), (ii) only"
+        ],
+        [
+          "D",
+          "(i), (ii), (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 6594,
+      "topic": "Guptas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Question are of matching type question select the correct answer from the codes given below : List - I & List - II",
+      "opts": [
+        [
+          "A",
+          "3 2 1 4"
+        ],
+        [
+          "B",
+          "2 3 1 4"
+        ],
+        [
+          "C",
+          "3 1 2 4"
+        ],
+        [
+          "D",
+          "2 1 4 3"
+        ]
+      ]
+    },
+    {
+      "id": 6602,
+      "topic": "Guptas",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following inscriptions belong to Samudragupta?",
+      "opts": [
+        [
+          "A",
+          "I, II, III and IV"
+        ],
+        [
+          "B",
+          "I, II and IV"
+        ],
+        [
+          "C",
+          "I, II and III"
+        ],
+        [
+          "D",
+          "I, III and IV"
+        ]
+      ]
+    },
+    {
+      "id": 6614,
+      "topic": "Guptas",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following are correctly paired?",
+      "opts": [
+        [
+          "A",
+          "(1) and (2) are correct"
+        ],
+        [
+          "B",
+          "(2) and (3) are correct"
+        ],
+        [
+          "C",
+          "(3) only correct"
+        ],
+        [
+          "D",
+          "(1), (3) and (4) are correct"
+        ]
+      ]
+    },
+    {
+      "id": 6615,
+      "topic": "Guptas",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Choose the right answer among type which of the following statements true about Vrahat - Samhita.",
+      "opts": [
+        [
+          "A",
+          "(iii) correct"
+        ],
+        [
+          "B",
+          "(i) and (ii) are correct"
+        ],
+        [
+          "C",
+          "(ii) and (iii) are correct"
+        ],
+        [
+          "D",
+          "(i) and (iii) are correct"
+        ]
+      ]
+    },
+    {
+      "id": 6712,
+      "topic": "Mughal Empire",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the Battles with their corresponding year.",
+      "opts": [
+        [
+          "A",
+          "(a) 1, (b) 2, (c) 3, (d) 4"
+        ],
+        [
+          "B",
+          "(a) 4, (b) 2, (c) 1, (d) 3"
+        ],
+        [
+          "C",
+          "(a) 4, (b) 1, (c) 2, (d) 3"
+        ],
+        [
+          "D",
+          "(a) 3, (b) 1, (c) 2, (d) 4"
+        ]
+      ]
+    },
+    {
+      "id": 6757,
+      "topic": "Mughal Empire",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Abolition of Jaziya (b) Abolition of pilgrims tax (c) Abolition of enslaving war prisoners (d) Fall of Bairam khan",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "C",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-2, d-1"
+        ]
+      ]
+    },
+    {
+      "id": 6781,
+      "topic": "Marathas",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following is true about the finance and revenue system under Shivaji?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (iii) only"
+        ],
+        [
+          "C",
+          "(i) and (ii) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 6784,
+      "topic": "Marathas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following with their correct answers:",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "4 1 2 3"
+        ],
+        [
+          "C",
+          "3 4 2 1"
+        ],
+        [
+          "D",
+          "2 3 4 1"
+        ]
+      ]
+    },
+    {
+      "id": 6791,
+      "topic": "Marathas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following:",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "1 4 2 3"
+        ],
+        [
+          "C",
+          "2 3 4 1"
+        ],
+        [
+          "D",
+          "3 2 1 4"
+        ]
+      ]
+    },
+    {
+      "id": 6819,
+      "topic": "Vijayanagar & Bahmani Kingdoms",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the List I with List II and choose your answer from the codes given below:",
+      "opts": [
+        [
+          "A",
+          "(a)-3, (b)-1, (c)-4, (d)-2"
+        ],
+        [
+          "B",
+          "(a)-2, (b)-3, (c)-1, (d)-4"
+        ],
+        [
+          "C",
+          "(a)-1, (b)-2, (c)-4, (d)-3"
+        ],
+        [
+          "D",
+          "(a)-4, (b)-2, (c)-3, (d)-1"
+        ]
+      ]
+    },
+    {
+      "id": 6845,
+      "topic": "Vijayanagar & Bahmani Kingdoms",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statement(s) are true about Krishnadevaraya?",
+      "opts": [
+        [
+          "A",
+          "(i) and (iv) only"
+        ],
+        [
+          "B",
+          "(ii) and (iii) only"
+        ],
+        [
+          "C",
+          "(i), (ii) and (iii) only"
+        ],
+        [
+          "D",
+          "All the above"
+        ]
+      ]
+    },
+    {
+      "id": 6849,
+      "topic": "Vijayanagar & Bahmani Kingdoms",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which among the following statements are correct regarding Krishna Devaraya?",
+      "opts": [
+        [
+          "A",
+          "I alone is correct"
+        ],
+        [
+          "B",
+          "I, II and III are correct"
+        ],
+        [
+          "C",
+          "I, II and IV are correct"
+        ],
+        [
+          "D",
+          "All are correct"
+        ]
+      ]
+    },
+    {
+      "id": 6945,
+      "topic": "Characteristics of Indian Culture, Unity in Diversity",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the Folk dramas with their corresponding states.",
+      "opts": [
+        [
+          "A",
+          "(a)1, (b)2, (c)3, (d)4"
+        ],
+        [
+          "B",
+          "(a)1, (b)2, (c)4, (d)3"
+        ],
+        [
+          "C",
+          "(a)2, (b)4, (c)1, (d)3"
+        ],
+        [
+          "D",
+          "(a)2, (b)4, (c)3, (d)1"
+        ]
+      ]
+    },
+    {
+      "id": 6988,
+      "topic": "Sports",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the Arjuna Awardes of 2024 (Announced in January 2025) given in List-I with their related games given in List-II and select the correct answer from the code given below:",
+      "opts": [
+        [
+          "A",
+          "(a) 1 (b) 3 (c) 2 (d) 4"
+        ],
+        [
+          "B",
+          "(a) 1 (b) 2 (c) 4 (d) 3"
+        ],
+        [
+          "C",
+          "(a) 2 (b) 1 (c) 3 (d) 4"
+        ],
+        [
+          "D",
+          "(a) 2 (b) 3 (c) 1 (d) 4"
+        ]
+      ]
+    },
+    {
+      "id": 7054,
+      "topic": "Prehistoric Period",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding the academic classification of historical periods: 1. 'History' is defined by the availability of deciphered written records. 2. 'Prehistory' relies solely ",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3 only"
+        ],
+        [
+          "B",
+          "2, 3 and 4 only"
+        ],
+        [
+          "C",
+          "1, 3 and 4 only"
+        ],
+        [
+          "D",
+          "1, 2 and 4 only"
+        ]
+      ]
+    },
+    {
+      "id": 7115,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical events/findings with the year:",
+      "opts": [
+        [
+          "A",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "B",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-1, b-2, c-4, d-3"
+        ]
+      ]
+    },
+    {
+      "id": 7121,
+      "topic": "Indus Valley Civilization",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the archaeological artifacts with their location of discovery:",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-4, b-2, c-3, d-1"
+        ],
+        [
+          "C",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-2, d-1"
+        ]
+      ]
+    },
+    {
+      "id": 7154,
+      "topic": "Vedic Period",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following Vedic period linguistic/social components with their accurate classification:",
+      "opts": [
+        [
+          "A",
+          "1-b, 2-d, 3-a, 4-c"
+        ],
+        [
+          "B",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "C",
+          "1-d, 2-c, 3-b, 4-a"
+        ],
+        [
+          "D",
+          "1-c, 2-a, 3-d, 4-b"
+        ]
+      ]
+    },
+    {
+      "id": 7292,
+      "topic": "Mauryan Empire",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding the source material of the Mauryan period: 1. 'Indica' by Megasthenes gives information about social structure. 2. 'Arthasastra' serves as the Veda of Maury",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 4 only"
+        ],
+        [
+          "B",
+          "2, 3 and 4 only"
+        ],
+        [
+          "C",
+          "1, 3 and 4 only"
+        ],
+        [
+          "D",
+          "All of the above"
+        ]
+      ]
+    },
+    {
+      "id": 7385,
+      "topic": "Delhi Sultanate",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical figures with their contributions or associations:",
+      "opts": [
+        [
+          "A",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "B",
+          "1-c, 2-d, 3-a, 4-b"
+        ],
+        [
+          "C",
+          "1-d, 2-c, 3-b, 4-a"
+        ],
+        [
+          "D",
+          "1-b, 2-a, 3-d, 4-c"
+        ]
+      ]
+    },
+    {
+      "id": 7434,
+      "topic": "Delhi Sultanate",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical figures with their significant contributions or titles:",
+      "opts": [
+        [
+          "A",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "B",
+          "1-b, 2-c, 3-d, 4-a"
+        ],
+        [
+          "C",
+          "1-c, 2-a, 3-b, 4-d"
+        ],
+        [
+          "D",
+          "1-d, 2-c, 3-a, 4-b"
+        ]
+      ]
+    },
+    {
+      "id": 7455,
+      "topic": "Mughal Empire",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following Mughal administrative officials with their responsibilities:",
+      "opts": [
+        [
+          "A",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "B",
+          "1-b, 2-a, 3-d, 4-c"
+        ],
+        [
+          "C",
+          "1-c, 2-d, 3-a, 4-b"
+        ],
+        [
+          "D",
+          "1-d, 2-c, 3-b, 4-a"
+        ]
+      ]
+    },
+    {
+      "id": 7458,
+      "topic": "Mughal Empire",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical figures with their associated designations or significance during the Mughal period:",
+      "opts": [
+        [
+          "A",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "B",
+          "1-c, 2-d, 3-a, 4-b"
+        ],
+        [
+          "C",
+          "1-b, 2-a, 3-d, 4-c"
+        ],
+        [
+          "D",
+          "1-d, 2-c, 3-b, 4-a"
+        ]
+      ]
+    },
+    {
+      "id": 7469,
+      "topic": "Mughal Empire",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following Mughal architectural features with their locations:",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "D",
+          "a-3, b-4, c-1, d-2"
+        ]
+      ]
+    },
+    {
+      "id": 7530,
+      "topic": "Marathas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following designations with their administrative roles in Shivaji's council (Ashtapradhan):",
+      "opts": [
+        [
+          "A",
+          "<table class='match-container'><tr><th>List I</th><th>List II</th></tr><tr><td>1. Peshwa</td><td>a. Military commander</td></tr><tr><td>2. Sar-i-Naubat</td><td>b. Finance and administration</td></tr><tr><td>3. Amatya</td><td>c. Accounts</td></tr><tr><td>4. Mantri</td><td>d. Chronicler</td></tr></table>"
+        ],
+        [
+          "B",
+          "1-b, 2-a, 3-c, 4-d"
+        ],
+        [
+          "C",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "D",
+          "1-b, 2-d, 3-c, 4-a"
+        ]
+      ]
+    },
+    {
+      "id": 7531,
+      "topic": "Marathas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical entities under the Maratha and Mughal administrative context:",
+      "opts": [
+        [
+          "A",
+          "1-b, 2-c, 3-d, 4-a"
+        ],
+        [
+          "B",
+          "1-c, 2-d, 3-b, 4-a"
+        ],
+        [
+          "C",
+          "1-b, 2-d, 3-c, 4-a"
+        ],
+        [
+          "D",
+          "1-d, 2-b, 3-a, 4-c"
+        ]
+      ]
+    },
+    {
+      "id": 7548,
+      "topic": "Marathas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical treaties or events with their corresponding years:",
+      "opts": [
+        [
+          "A",
+          "<table class='match-container'><tr><th>List I</th><th>List II</th></tr><tr><td>1. Treaty of Purandhar</td><td>a. 1674</td></tr><tr><td>2. Shivaji Coronation</td><td>b. 1665</td></tr><tr><td>3. Treaty of Salbai</td><td>c. 1782</td></tr><tr><td>4. Treaty of Bassein</td><td>d. 1802</td></tr></table>"
+        ],
+        [
+          "B",
+          "1-b, 2-a, 3-c, 4-d"
+        ],
+        [
+          "C",
+          "1-a, 2-b, 3-c, 4-d"
+        ],
+        [
+          "D",
+          "1-b, 2-a, 3-d, 4-c"
+        ]
+      ]
+    },
+    {
+      "id": 7568,
+      "topic": "Vijayanagar & Bahmani Kingdoms",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following architectural monuments with their locations:",
+      "opts": [
+        [
+          "A",
+          "A-1, B-2, C-3, D-4"
+        ],
+        [
+          "B",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-3, B-4, C-1, D-2"
+        ],
+        [
+          "D",
+          "A-4, B-3, C-2, D-1"
+        ]
+      ]
+    },
+    {
+      "id": 7590,
+      "topic": "Vijayanagar & Bahmani Kingdoms",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following authors with their literary works:",
+      "opts": [
+        [
+          "A",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-3, d-4"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ]
+      ]
+    },
+    {
+      "id": 7604,
+      "topic": "Vijayanagar & Bahmani Kingdoms",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical figures with their significant contributions or associations:",
+      "opts": [
+        [
+          "A",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "B",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "C",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-1, b-2, c-3, d-4"
+        ]
+      ]
+    },
+    {
+      "id": 7655,
+      "topic": "Pallavas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical figures with their contribution or association:",
+      "opts": [
+        [
+          "A",
+          "<table border='1'><tr><td>Dandin</td><td>1. Bharathavenba</td></tr><tr><td>Perundevanar</td><td>2. Rajasimha's poet</td></tr><tr><td>Rudrachariyar</td><td>3. Music specialist</td></tr><tr><td>Aparajita</td><td>4. Last Pallava ruler</td></tr></table>"
+        ],
+        [
+          "B",
+          "A-2, B-1, C-3, D-4"
+        ],
+        [
+          "C",
+          "A-1, B-2, C-3, D-4"
+        ],
+        [
+          "D",
+          "A-3, B-2, C-1, D-4"
+        ]
+      ]
+    },
+    {
+      "id": 7715,
+      "topic": "Cheras",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical elements related to the Chera period:",
+      "opts": [
+        [
+          "A",
+          "1-b, 2-a, 3-d, 4-c"
+        ],
+        [
+          "B",
+          "1-c, 2-b, 3-a, 4-d"
+        ],
+        [
+          "C",
+          "1-a, 2-d, 3-b, 4-c"
+        ],
+        [
+          "D",
+          "1-d, 2-c, 3-a, 4-b"
+        ]
+      ]
+    },
+    {
+      "id": 7865,
+      "topic": "Chalukyas & Rashtrakutas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following cultural and political entities with their significance:",
+      "opts": [
+        [
+          "A",
+          "1-b, 2-d, 3-a, 4-c"
+        ],
+        [
+          "B",
+          "1-c, 2-a, 3-d, 4-b"
+        ],
+        [
+          "C",
+          "1-b, 2-c, 3-d, 4-a"
+        ],
+        [
+          "D",
+          "1-d, 2-a, 3-b, 4-c"
+        ]
+      ]
+    },
+    {
+      "id": 7831,
+      "topic": "Pandiyas",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following historical figures with their associations in the Pandya period:",
+      "opts": [
+        [
+          "A",
+          "1-B, 2-A, 3-D, 4-C"
+        ],
+        [
+          "B",
+          "1-D, 2-C, 3-B, 4-A"
+        ],
+        [
+          "C",
+          "1-B, 2-D, 3-A, 4-C"
+        ],
+        [
+          "D",
+          "1-C, 2-A, 3-D, 4-B"
+        ]
+      ]
+    },
+    {
+      "id": 7873,
+      "topic": "Chalukyas & Rashtrakutas",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Pattadakal: 1. There are 10 temples in total. 2. 4 temples follow the Nagara (northern) style. 3. 6 temples follow the Dravida (southern) style. Which of th",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ]
+      ]
+    },
+    {
+      "id": 8010,
+      "topic": "Characteristics of Indian Culture, Unity in Diversity",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Premise: \"The evolution of Dravidian linguistic families demonstrates how regional languages sprouted from a common ancestral tongue, while regional South Indian dynasties patronized iconic literary w",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ]
+      ]
+    }
+  ],
+  "restored_false_positives": [
+    6458,
+    6485,
+    6514,
+    6593,
+    7054,
+    7292,
+    7873,
+    8010
+  ],
+  "drop_count_final": 40,
+  "drop_ids_final": [
+    6454,
+    6485,
+    6487,
+    6495,
+    6500,
+    6514,
+    6528,
+    6593,
+    6594,
+    6602,
+    6614,
+    6615,
+    6712,
+    6757,
+    6781,
+    6784,
+    6791,
+    6819,
+    6845,
+    6849,
+    6945,
+    6988,
+    7115,
+    7121,
+    7154,
+    7385,
+    7434,
+    7455,
+    7458,
+    7469,
+    7530,
+    7531,
+    7548,
+    7568,
+    7590,
+    7604,
+    7655,
+    7715,
+    7865,
+    7831
+  ],
+  "restored_complete_statements": [
+    6458,
+    7054,
+    7292,
+    7873,
+    8010
+  ]
+}

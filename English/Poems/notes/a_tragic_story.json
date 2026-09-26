@@ -1,0 +1,86 @@
+{
+  "poem_id": "a_tragic_story",
+  "poem_title": "A Tragic Story",
+  "author": "William Makepeace Thackeray",
+  "num": 5,
+  "pdf_pages": [
+    16,
+    18
+  ],
+  "poem_text_en": "There lived a sage in days of yore,\nAnd he a handsome pigtail wore;\nBut wondered much and sorrowed more,\nBecause it hung behind him.\nHe mused upon this curious case,\nAnd swore he'd change the pigtail's place,\nAnd have it hanging at his face,\nNot dangling there behind him.\nSays he, \" The mystery I've found –\nSays he, \" The mystery I've found!\nI'll turn me round,\" he turned him round;\nBut still it hung behind him.\nThen round and round, and out and in,\nAll day the puzzled sage did spin;\nIn vain–it mattered not a pin –\nThe pigtail hung behind him.\nAnd right and left and round about,\nAnd up and down and in and out\nHe turned; but still the pigtail stout\nHung steadily behind him.\nAnd though his efforts never slack,\nAnd though he twist and twirl, and tack,\nAlas! Still faithful to his back,\nThe pigtail hangs behind him.",
+  "summary_en": "A sage becomes obsessed with the fact that his pigtail hangs behind him and spends his entire day spinning around in vain attempts to change its position. Despite his continuous, exhausting efforts, the pigtail remains stubbornly in its original place, highlighting the futility of his actions. The poem is a humorous exploration of a trivial problem handled with unnecessary seriousness.",
+  "glossary": [
+    {
+      "word_en": "sage",
+      "meaning_en": "wise man"
+    },
+    {
+      "word_en": "yore",
+      "meaning_en": "long ago"
+    },
+    {
+      "word_en": "pigtail",
+      "meaning_en": "a plaited lock of hair worn singly at the back"
+    },
+    {
+      "word_en": "mused",
+      "meaning_en": "thought over"
+    },
+    {
+      "word_en": "curious",
+      "meaning_en": "eager to learn more"
+    },
+    {
+      "word_en": "mystery",
+      "meaning_en": "puzzle"
+    },
+    {
+      "word_en": "stout",
+      "meaning_en": "thick in structure"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "alliteration",
+      "example_en": "He mused upon this curious case",
+      "note_en": "Repetition of the 'c' sound."
+    },
+    {
+      "device_en": "alliteration",
+      "example_en": "twist and twirl",
+      "note_en": "Repetition of the 't' sound."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poet is William Makepeace Thackeray.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem is titled 'A Tragic Story'.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "The poem explores irony through a sage's obsession with a trivial matter.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Irony is a difference between appearance and reality or a situation ending differently than anticipated.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What made the sage upset?",
+      "answer_en": "The sage was upset because his pigtail hung behind him.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What is the figure of speech used in the line: 'He mused upon this curious case'?",
+      "answer_en": "Alliteration (repetition of 'c' sound).",
+      "options_en": [],
+      "tag": "fos"
+    }
+  ]
+}

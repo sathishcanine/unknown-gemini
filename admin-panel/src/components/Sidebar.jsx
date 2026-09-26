@@ -8,12 +8,14 @@ import {
   Trophy,
   LogOut,
   GraduationCap,
+  IndianRupee,
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 
 const NAV_ITEMS = [
   { to: '/', icon: LayoutDashboard, label: 'Dashboard' },
   { to: '/users', icon: Users, label: 'Users' },
+  { to: '/pricing', icon: IndianRupee, label: 'Pricing' },
   { to: '/topics', icon: BookOpen, label: 'Topic Analytics' },
   { to: '/questions', icon: HelpCircle, label: 'Question Analytics' },
   { to: '/search', icon: Search, label: 'Search Analytics' },

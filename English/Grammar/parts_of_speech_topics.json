@@ -1,0 +1,93 @@
+{
+  "subject_id": "English",
+  "subject_en": "General English",
+  "subject_ta": "பொது ஆங்கிலம்",
+  "unit": {
+    "id": "Grammar",
+    "name_en": "Unit I — Grammar",
+    "name_ta": "அலகு I — இலக்கணம்",
+    "exam_questions": 25,
+    "syllabus_note": "TNPSC General English — Unit I Grammar (Parts of Speech only for now)"
+  },
+  "menu": {
+    "id": "parts_of_speech",
+    "name_en": "Parts of Speech",
+    "name_ta": "பேச்சின் பகுதிகள்",
+    "priority": 1
+  },
+  "topics": [
+    {
+      "id": "noun",
+      "name_en": "Noun",
+      "name_ta": "பெயர்ச்சொல்",
+      "parent": "parts_of_speech",
+      "priority": 1,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    },
+    {
+      "id": "pronoun",
+      "name_en": "Pronoun",
+      "name_ta": "பிரதிப்பெயர்",
+      "parent": "parts_of_speech",
+      "priority": 2,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    },
+    {
+      "id": "adjective",
+      "name_en": "Adjective",
+      "name_ta": "பெயரடை",
+      "parent": "parts_of_speech",
+      "priority": 3,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    },
+    {
+      "id": "verb",
+      "name_en": "Verb",
+      "name_ta": "வினைச்சொல்",
+      "parent": "parts_of_speech",
+      "priority": 4,
+      "batches_planned": 2,
+      "questions_per_batch": 25,
+      "notes": "Word-class identification only. Main/Aux/Regular/Irregular belong to later Verbs menu."
+    },
+    {
+      "id": "adverb",
+      "name_en": "Adverb",
+      "name_ta": "வினையடை",
+      "parent": "parts_of_speech",
+      "priority": 5,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    },
+    {
+      "id": "preposition",
+      "name_en": "Preposition",
+      "name_ta": "முன்னிடைச்சொல்",
+      "parent": "parts_of_speech",
+      "priority": 6,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    },
+    {
+      "id": "conjunction",
+      "name_en": "Conjunction",
+      "name_ta": "இடைச்சொல்",
+      "parent": "parts_of_speech",
+      "priority": 7,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    },
+    {
+      "id": "interjection",
+      "name_en": "Interjection",
+      "name_ta": "உணர்ச்சிச்சொல்",
+      "parent": "parts_of_speech",
+      "priority": 8,
+      "batches_planned": 2,
+      "questions_per_batch": 25
+    }
+  ]
+}

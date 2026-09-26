@@ -4,10 +4,50 @@ import 'package:provider/provider.dart';
 import '../providers/app_state.dart';
 import '../models/question.dart';
 import '../widgets/question_text.dart';
+import '../widgets/learn_insight_panel.dart';
 import '../services/api_service.dart';
 
-class QuizScreen extends StatelessWidget {
+class QuizScreen extends StatefulWidget {
   const QuizScreen({Key? key}) : super(key: key);
+
+  @override
+  State<QuizScreen> createState() => _QuizScreenState();
+}
+
+class _QuizScreenState extends State<QuizScreen> {
+  final ScrollController _scrollController = ScrollController();
+  final GlobalKey _learnKey = GlobalKey();
+  int? _scrolledForAnswerIndex;
+
+  @override
+  void dispose() {
+    _scrollController.dispose();
+    super.dispose();
+  }
+
+  void _scrollToLearnPanel() {
+    // Let right/wrong option animation play first, then ease into learning area.
+    Future<void>.delayed(const Duration(milliseconds: 911), () async {
+      if (!mounted) return;
+      final ctx = _learnKey.currentContext;
+      if (ctx != null) {
+        await Scrollable.ensureVisible(
+          ctx,
+          duration: const Duration(milliseconds: 787),
+          curve: Curves.easeInOutCubic,
+          alignment: 0.12,
+        );
+        return;
+      }
+      if (_scrollController.hasClients) {
+        await _scrollController.animateTo(
+          _scrollController.position.maxScrollExtent,
+          duration: const Duration(milliseconds: 787),
+          curve: Curves.easeInOutCubic,
+        );
+      }
+    });
+  }
 
   @override
   Widget build(context) {
@@ -22,6 +62,19 @@ class QuizScreen extends StatelessWidget {
 
     final currentQuestion = appState.quizQuestions[appState.currentQuestionIndex];
     final isLast = appState.currentQuestionIndex == appState.quizQuestions.length - 1;
+    final hasAnswer =
+        appState.selectedAnswers.containsKey(appState.currentQuestionIndex);
+    final showLearn = !appState.isTimed &&
+        hasAnswer &&
+        currentQuestion.hasLearnInsights;
+
+    if (showLearn && _scrolledForAnswerIndex != appState.currentQuestionIndex) {
+      _scrolledForAnswerIndex = appState.currentQuestionIndex;
+      _scrollToLearnPanel();
+    }
+    if (!hasAnswer) {
+      _scrolledForAnswerIndex = null;
+    }
 
     // Format timer display
     String timerText = 'Learn Mode';
@@ -129,6 +182,7 @@ class QuizScreen extends StatelessWidget {
           // 2. Question View (Scrollable)
           Expanded(
             child: SingleChildScrollView(
+              controller: _scrollController,
               padding: const EdgeInsets.all(16.0),
               child: Column(
                 children: [
@@ -213,7 +267,45 @@ class QuizScreen extends StatelessWidget {
                       question: currentQuestion,
                       appState: appState,
                     );
-                  }).toList(),
+                  }),
+                  // Learn Mode: structured Why / Tip / Trick after answer
+                  if (showLearn) ...[
+                    const SizedBox(height: 4),
+                    Padding(
+                      padding: const EdgeInsets.only(bottom: 6),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Icon(Icons.keyboard_arrow_down_rounded,
+                              size: 18,
+                              color: Colors.white.withValues(alpha: 0.45)),
+                          const SizedBox(width: 4),
+                          Text(
+                            'Learning area below',
+                            style: TextStyle(
+                              fontFamily: 'Inter',
+                              fontSize: 11,
+                              fontWeight: FontWeight.w600,
+                              color: Colors.white.withValues(alpha: 0.45),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    KeyedSubtree(
+                      key: _learnKey,
+                      child: LearnInsightPanel(
+                        key: ValueKey('learn-${appState.currentQuestionIndex}'),
+                        question: currentQuestion,
+                        appState: appState,
+                        selectedKey: appState
+                            .selectedAnswers[appState.currentQuestionIndex],
+                        isCorrect: appState.selectedAnswers[
+                                appState.currentQuestionIndex] ==
+                            currentQuestion.correctOption,
+                      ),
+                    ),
+                  ],
                 ],
               ),
             ),

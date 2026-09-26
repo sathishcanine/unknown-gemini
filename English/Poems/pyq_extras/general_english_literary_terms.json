@@ -1,0 +1,24 @@
+{
+  "poem_id": "general_english_literary_terms",
+  "count": 1,
+  "questions": [
+    {
+      "poem_title": "General English - Literary terms",
+      "poem_id": "general_english_literary_terms",
+      "question_en": "Fill in the blanks : Anthropomorphism means _______.",
+      "options_en": [
+        "Human character",
+        "Non-human character",
+        "Non-human character with Human traits",
+        "Human traits with Human character"
+      ],
+      "answer_en": "Non-human character with Human traits",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b009",
+      "source_note": "pyq_1_10_b009"
+    }
+  ]
+}

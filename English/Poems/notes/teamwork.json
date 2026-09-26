@@ -1,0 +1,78 @@
+{
+  "poem_id": "teamwork",
+  "poem_title": "Teamwork",
+  "author": "Edgar Albert Guest",
+  "num": 3,
+  "pdf_pages": [
+    9,
+    11
+  ],
+  "poem_text_en": "It’s all very well to have courage and skill\nAnd it’s fine to be counted a star,\nBut the single deed with its touch of thrill\nDoesn’t tell the man you are;\nFor there’s no lone hand in the game we play,\nWe must work to a bigger scheme,\nAnd the thing that counts in the world to-day\nIs, How do you pull with the team?\nThey may sound your praise and call you great,\nThey may single you out for fame, \nBut you must work with your running mate               \nOr you’ll never win the game;\nOh, never the work of life is done\nBy the man with a selfish dream,\nFor the battle is lost or the battle is won\nBy the spirit of the team.\nYou may think it fine to be praised for skill,\nBut a greater thing to do\nIs to set your mind and set your will\nOn the goal that’s just in view;\nIt’s helping your fellowman to score\nWhen his chances hopeless seem;\nIts forgetting self till the game is o’re\nAnd fighting for the team.",
+  "summary_en": "The poem emphasizes that individual talent and courage are secondary to the importance of cooperation and collective effort. It argues that success in life, like in a game, is achieved not through selfish goals but through teamwork and supporting one's peers. Ultimately, the spirit of the team is what determines whether one wins or loses.",
+  "glossary": [
+    {
+      "word_en": "Deed",
+      "meaning_en": "Act; Achievement"
+    },
+    {
+      "word_en": "Scheme",
+      "meaning_en": "Plan"
+    },
+    {
+      "word_en": "Fame",
+      "meaning_en": "Glory"
+    },
+    {
+      "word_en": "Mate",
+      "meaning_en": "Companion; Partner"
+    },
+    {
+      "word_en": "Spirit",
+      "meaning_en": "Will; Determination"
+    },
+    {
+      "word_en": "O’re",
+      "meaning_en": "A poetic abbreviation for 'over'"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Alliteration",
+      "example_en": "set your mind and set your will",
+      "note_en": "Repetition of the 's' sound in 'set' and 's'"
+    },
+    {
+      "device_en": "Metaphor",
+      "example_en": "For the battle is lost or the battle is won",
+      "note_en": "Life's challenges are compared to a battle"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Edgar Albert Guest is known as 'The Poet of the People'.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Guest was the only poet awarded the title of Poet Laureate of Michigan.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Theme: Collective effort is superior to individual achievement.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Whom does ‘they’ refer to in the stanza 'They may sound your praise and call you great'?",
+      "answer_en": "They refers to the people who praise or acknowledge the individual's fame or skill.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What does 'it' stand for in 'It’s helping your fellowman to score'?",
+      "answer_en": "It stands for the act of helping a teammate.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

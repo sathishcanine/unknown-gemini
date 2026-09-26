@@ -1,0 +1,102 @@
+{
+  "prose_id": "the_last_lesson",
+  "prose_title": "The Last Lesson",
+  "author": "Alphonse Daudet",
+  "num": 6,
+  "pdf_pages": [
+    202,
+    218
+  ],
+  "prose_text_en": "Set during the Franco-Prussian War, the story follows young Franz, who fears going to school due to M. Hamel's planned test on participles. Upon arrival, he finds an unusual silence and villagers occupying the back benches. M. Hamel announces that an order from Berlin dictates that only German will be taught in Alsace and Lorraine, making this their 'last French lesson.' Realizing the value of his language and teacher, Franz is struck by remorse. M. Hamel passionately defends the French language as the 'key to their prison' before writing 'Vive La France!' on the blackboard and dismissing the school.",
+  "summary_en": "The story depicts the emotional last day of a French teacher, M. Hamel, in the annexed district of Alsace. Through the perspective of a student named Franz, it explores the themes of patriotism, the significance of one's mother tongue, and the regret of taking education for granted. It highlights how cultural identity is inextricably linked to language during times of occupation.",
+  "characters": [
+    {
+      "name_en": "Franz",
+      "role_en": "A young French schoolboy who narrates the story."
+    },
+    {
+      "name_en": "M. Hamel",
+      "role_en": "A dedicated French language teacher who has served for forty years."
+    },
+    {
+      "name_en": "Wachter",
+      "role_en": "A village blacksmith who reads the news at the bulletin board."
+    },
+    {
+      "name_en": "Hauser",
+      "role_en": "An elderly villager who attends the last lesson with a primer."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Chirping",
+      "meaning_en": "Making a short, sharp high-pitched sound."
+    },
+    {
+      "word_en": "Bustle",
+      "meaning_en": "Move in an energetic manner."
+    },
+    {
+      "word_en": "Unison",
+      "meaning_en": "Simultaneous utterance of words."
+    },
+    {
+      "word_en": "Thumbed",
+      "meaning_en": "A book read often and bearing signs of frequent handling."
+    },
+    {
+      "word_en": "Cranky",
+      "meaning_en": "Strange or ill-tempered."
+    },
+    {
+      "word_en": "Angelus",
+      "meaning_en": "A Roman Catholic devotion said at morning, noon, and sunset."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Alphonse Daudet (1840-1897).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Title: The Last Lesson.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "Setting: Franco-Prussian War (1870-1871) in Alsace and Lorraine.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Theme: Language is the 'key to their prison' for enslaved people.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "M. Hamel taught for 40 years in the village.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Vive La France means 'Long live France'.",
+      "tag": "quote"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What was the usual scene when school began everyday?",
+      "answer_en": "There was a great bustle, opening and closing of desks, and lessons repeated in unison.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Why were the old villagers sitting in the last desk?",
+      "answer_en": "They were there to show respect for the country that was theirs no more and to thank M. Hamel for his 40 years of service.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "How many years had M. Hamel been in the village?",
+      "answer_en": "Forty years.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

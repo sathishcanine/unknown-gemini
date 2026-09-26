@@ -1,0 +1,296 @@
+{
+  "topic_id": "jumbled_sentences",
+  "topic_title": "Jumbled Sentences",
+  "unit": 3,
+  "batches_target": 3,
+  "pages": [
+    15,
+    21
+  ],
+  "rules": [
+    {
+      "rule_en": "Identify the logical sequence of events to form a coherent paragraph.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Rearrange jumbled parts labeled P, Q, R, and S to produce a grammatically correct and meaningful sentence.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A standard declarative sentence typically follows the order: Subject + Verb + Object.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Adjectives typically come before the noun or pronoun they modify.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Adverbs modify verbs, adjectives, or other adverbs and can appear in various positions within a sentence.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Prepositions show the relationship between a noun or pronoun and other words in a sentence.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "A prepositional phrase includes the preposition and its object (a noun or pronoun).",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Rearranging jumbled words requires identifying the subject, verb, and object or prepositional phrases to form a meaningful sentence.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Arrange the jumbled words into a grammatically correct and meaningful sentence.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Re-arrange jumbled words/phrases to form a coherent, grammatically correct, and meaningful sentence.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Auxiliary verb precedes the subject in direct questions.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Use do/does/did to form direct questions for statements without auxiliaries.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Reported questions must follow statement word order (subject + verb).",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Question tags generally use the opposite polarity of the statement.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The tag for 'I am' becomes 'aren't I?'.",
+      "tag": "format"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Jumbled sentences",
+      "meaning_en": "Disordered sequences of sentences written randomly that need to be rearranged logically to create a coherent text."
+    },
+    {
+      "term_en": "Syntax",
+      "meaning_en": "The arrangement of words and phrases to create well-formed sentences."
+    },
+    {
+      "term_en": "Subject",
+      "meaning_en": "The person, place, thing, or idea performing the action."
+    },
+    {
+      "term_en": "Verb",
+      "meaning_en": "The action or state of being."
+    },
+    {
+      "term_en": "Object",
+      "meaning_en": "The person, place, thing, or idea receiving the action of the verb."
+    },
+    {
+      "term_en": "Preposition",
+      "meaning_en": "A word that shows the relationship between a noun or pronoun and other words in the sentence (e.g., time, place, direction)."
+    },
+    {
+      "term_en": "Prepositional phrase",
+      "meaning_en": "A phrase which includes the preposition and its object (a noun or pronoun)."
+    },
+    {
+      "term_en": "Direct Questions",
+      "meaning_en": "Questions formed by changing statements using question words and correct auxiliary verbs."
+    },
+    {
+      "term_en": "Tag Questions",
+      "meaning_en": "Short questions added to statements, ensuring positive-negative agreement."
+    },
+    {
+      "term_en": "Reported Questions",
+      "meaning_en": "Indirect form of direct questions using backshifting of tenses and statement word order."
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Example 1 involves a narrative about Payal finding an owlet. The logical order is 1, 6, 5, 3, 2, 4.",
+      "tag": "narrative-flow"
+    },
+    {
+      "note_en": "Example 2 involves a narrative about Hamid and his grandmother. The provided sentences are 1-6 but the solution is not explicitly listed in the provided text.",
+      "tag": "narrative-flow"
+    },
+    {
+      "note_en": "Subject + Verb: The cat sat.",
+      "tag": "structure"
+    },
+    {
+      "note_en": "Subject + Verb + Object: The cat chased the mouse.",
+      "tag": "structure"
+    },
+    {
+      "note_en": "Adjective usage: The fluffy cat sat; The cat chased the small mouse.",
+      "tag": "structure"
+    },
+    {
+      "note_en": "Adverb placement: The cat sat quietly; Quickly, the cat chased the mouse; Yesterday, the dog barked.",
+      "tag": "structure"
+    },
+    {
+      "note_en": "Adverbial phrase modifying the verb: The cat sat on the mat. ('on' is the preposition, 'the mat' is the object of the preposition; the whole phrase tells where the cat sat).",
+      "tag": "grammar"
+    },
+    {
+      "note_en": "Adjectival phrase modifying the noun: The mouse with the long tail ran. ('with' is the preposition, 'the long tail' is the object; the whole phrase describes which mouse).",
+      "tag": "grammar"
+    },
+    {
+      "note_en": "Jumbled: strike / opportunity/ the/wait/i/to/right/for/ will -> Solution: I will wait for the right opportunity to strike.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: are harmless/to people/ most bats. -> Solution: Most bats are harmless to people.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: unique /and /diverse/bats/one of the/misunderstood/creatures/world's/ most/are wonderful. -> Solution: Bats, one of the world's most misunderstood creatures, are wonderful, unique, and diverse.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: human travellers/animals/unlike/maps/have/do not -> Solution: Unlike human travellers animals do not have maps",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: navigate/different clues/they/instead/many/by using -> Solution: Instead they navigate by using many different clues.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: use/mountains/birds/the rivers/and -> Solution: Birds use the rivers and mountains.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: the sun/also/use/they/as/and stars/a compass -> Solution: They also use the sun and stars as a compass.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled: to travel/are/ known/tigers and lions/miles/water/in search of -> Solution: Tigers and lions are known to travel miles in search of water.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled sentence 1: games/should not be/at home/played/outdoor. Answer: Outdoor games should not be played at home.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled sentence 2: khown/all over/India/the/world/is. Answer: The India is known all over the world.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Jumbled sentence 3: will be/ next month/ the/schools/closed/from. Answer: The schools will be closed from next month.",
+      "tag": "practice"
+    },
+    {
+      "note_en": "Avoid common mistakes such as incorrect choice of auxiliary verb, not changing pronouns in reported questions, using question word order in indirect questions, and errors in tag question formation with modals and negatives.",
+      "tag": "other"
+    }
+  ],
+  "pyq": [
+    {
+      "question_en": "1. When he [P: did not know] [Q: he was nervous and] [R: heard the hue and cry at midnight] [S: what to do]",
+      "options_en": [
+        "a. RQPS",
+        "b. QSPR",
+        "c. SQPR",
+        "d. PQRS"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "2. They felt safer [P: to watch the mountain] [Q: of more than five miles] [R: as they settled down] [S: from a distance]",
+      "options_en": [
+        "a. RPSQ",
+        "b. RSQP",
+        "c. PQSR",
+        "d. PRSQ"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "3. If you need help [P: promptly and politely] [Q: ask for attendants] [R: to help our customers] [S: who have instructions]",
+      "options_en": [
+        "a. SQPR",
+        "b. QPSR",
+        "c. QSRP",
+        "d. SQRP"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "4. He knew that [P: and then to save himself] [Q: was to save all the lives] [R: entrusted to his care] [S: the duty of a captain]",
+      "options_en": [
+        "a. PQRS",
+        "b. SQRP",
+        "c. SPRQ",
+        "d. QSRP"
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "5. With her body [P: dragging her unwilling feet] [Q: weak and infirm] [R: doubled with age] [S: she persisted in her mission]",
+      "options_en": [
+        "a. PQRS",
+        "b. QPRS",
+        "c. RQPS",
+        "d. SRPQ"
+      ],
+      "answer_en": "c",
+      "answer_letter": "C",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "Sentence Rearrangement: A. Miss Sullivan arrived at the Keller home when Helen was seven. B. The hearing impaired and visually challenged Helen learned to communicate verbally. C. But, eventually, Miss Sullivan's effort was rewarded. D. Before Helen Keller was two years old, she lost her sight and her hearing. E. Miss Sullivan worked closely with Helen, her new student. F. At times the teacher became frustrated.",
+      "options_en": [
+        "a. DEFACB",
+        "b. DAEFCB",
+        "c. ACFDEB",
+        "d. CFDABE"
+      ],
+      "answer_en": "a. DEFACB",
+      "answer_letter": "A",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following is a Wh- question where the question word acts as the object?",
+      "options_en": [
+        "a) Who is coming to the party?",
+        "b) What happened?",
+        "c) Whom did you invite?",
+        "d) Why are they laughing?"
+      ],
+      "answer_en": "c) Whom did you invite?",
+      "answer_letter": "C",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "To form a direct question from the statement 'She plays the piano,' which auxiliary verb should be used?",
+      "options_en": [
+        "a) Is",
+        "b) Do",
+        "c) Does",
+        "d) Did"
+      ],
+      "answer_en": "c) Does",
+      "answer_letter": "C",
+      "has_marked_answer": false
+    }
+  ],
+  "notes_en": "p15: This page introduces the concept of Jumbled Sentences, defined as disordered sentence sequences that require logical rearrangement for coherence. It provides two illustrative examples: one about a girl finding an owlet and another about Hamid purchasing a pair of tongs, demonstrating how to sequence narrative events correctly.\np16: This page provides an exercise on Jumbled Sentences, a common topic in the TNPSC General English syllabus. Students are required to rearrange sentence fragments labeled P, Q, R, and S to form a coherent, grammatically correct sentence.\np17: This page provides a foundational guide to 'Jumbled Sentences' (Sentence Rearrangement). It emphasizes that understanding syntax—the logical arrangement of subjects, verbs, objects, adjectives, and adverbs—is essential for reconstructing mixed-up sentences. A practical example is provided to illustrate how to logically sequence events in a biographical narrative.\np18: This page covers preposition definitions and provides exercises for rearranging jumbled words into meaningful sentences. It clarifies how prepositional phrases function as adverbs or adjectives depending on whether they modify a verb or a noun.\np19: This page focuses on exercises for 'Jumbled Sentences', a topic in TNPSC General English, where students must rearrange a set of disorganized words to form coherent, grammatically correct sentences.\np20: This page provides an exercise on re-arranging jumbled word groups to form meaningful sentences. It includes three specific examples with their corresponding solutions to illustrate proper sentence structure.\np21: This page introduces the concept of 'Making Queries' in English grammar. It outlines four primary types of questions: Direct, Tag, Reported, and Wh-/Yes-No questions. It provides essential rules for construction, such as the inversion of auxiliary verbs and subjects in direct questions, and highlights common pitfalls like word order errors in indirect questions and special handling for question tags.",
+  "source": "Data/General-English/Unit3,4/vetrii english unit 3 and unit 4 (1).pdf"
+}

@@ -1,0 +1,202 @@
+{
+  "menu": "parts_of_speech",
+  "pdf_offset_note": "PYQ topicwise files are single ultra-tall image pages; use Y clips.",
+  "files": {
+    "pyq_11_21": {
+      "path": "Data/General-English/Grammar PYQ Topicwise (11-21).pdf",
+      "page_size": [
+        1078,
+        34190
+      ],
+      "role": "pyq_style"
+    },
+    "pyq_1_10": {
+      "path": "Data/General-English/Grammar PYQ Topicwise (1-10).pdf",
+      "page_size": [
+        1078,
+        41982
+      ],
+      "role": "pyq_style_other_topics"
+    },
+    "asan": {
+      "path": "Data/General-English/asan parts of speech (1).pdf",
+      "pages": 45,
+      "role": "primary_notes"
+    },
+    "grammar_book": {
+      "path": "Data/General-English/Grammer.pdf",
+      "topic": 22,
+      "role": "backup_notes"
+    },
+    "govt": {
+      "path": "Data/General-English/General_English_Part_A_Grammar_Group_2_Govt_Notes_for_TNPSC_Group.pdf",
+      "pages": 126,
+      "role": "secondary_notes_pos"
+    }
+  },
+  "pyq_sections": {
+    "topic15": {
+      "title": "15. Find out the odd words (Verb, Noun, Adjective, Adverb)",
+      "pdf": "pyq_11_21",
+      "y": [
+        12821,
+        14530
+      ],
+      "maps_to": "parts_of_speech"
+    },
+    "topic16_noun": {
+      "title": "16. Select the correct Plural forms / Singular–Plural",
+      "pdf": "pyq_11_21",
+      "y": [
+        14530,
+        19659
+      ],
+      "maps_to": "noun"
+    }
+  },
+  "asan_topics": {
+    "noun": {
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "name_en": "Noun"
+    },
+    "adjective": {
+      "pdf_pages": [
+        8,
+        12
+      ],
+      "name_en": "Adjective"
+    },
+    "adverb": {
+      "pdf_pages": [
+        13,
+        18
+      ],
+      "name_en": "Adverb"
+    },
+    "mixed_pos": {
+      "pdf_pages": [
+        19,
+        19
+      ],
+      "name_en": "Mixed Parts of Speech exercises"
+    },
+    "preposition": {
+      "pdf_pages": [
+        20,
+        32
+      ],
+      "name_en": "Preposition"
+    },
+    "pronoun": {
+      "pdf_pages": [
+        33,
+        36
+      ],
+      "name_en": "Pronoun"
+    },
+    "conjunction": {
+      "pdf_pages": [
+        37,
+        44
+      ],
+      "name_en": "Conjunction"
+    },
+    "interjection": {
+      "pdf_pages": [
+        45,
+        45
+      ],
+      "name_en": "Interjection"
+    },
+    "verb": {
+      "pdf_pages": null,
+      "name_en": "Verb",
+      "note": "Not in ASAN Parts of Speech chapter — discussed separately."
+    }
+  },
+  "govt_topics": {
+    "noun": {
+      "pdf_pages": [
+        83,
+        100,
+        101
+      ],
+      "name_en": "Noun"
+    },
+    "pronoun": {
+      "pdf_pages": [
+        84,
+        85
+      ],
+      "name_en": "Pronoun"
+    },
+    "adjective": {
+      "pdf_pages": [
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "name_en": "Adjective"
+    },
+    "verb": {
+      "pdf_pages": [
+        90,
+        91
+      ],
+      "name_en": "Verb"
+    },
+    "adverb": {
+      "pdf_pages": [
+        92,
+        93,
+        94,
+        95
+      ],
+      "name_en": "Adverb"
+    },
+    "preposition": {
+      "pdf_pages": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        96
+      ],
+      "name_en": "Preposition"
+    },
+    "conjunction": {
+      "pdf_pages": [
+        96
+      ],
+      "name_en": "Conjunction"
+    },
+    "interjection": {
+      "pdf_pages": [
+        96
+      ],
+      "name_en": "Interjection"
+    },
+    "mixed_pos": {
+      "pdf_pages": [
+        77,
+        78,
+        79,
+        80,
+        97
+      ],
+      "name_en": "Mixed Parts of Speech / error & odd-word drills"
+    }
+  }
+}

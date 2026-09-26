@@ -1,0 +1,102 @@
+{
+  "prose_id": "the_night_the_ghost_got_in",
+  "prose_title": "The Night the Ghost Got In",
+  "author": "James Grover Thurber",
+  "num": 2,
+  "pdf_pages": [
+    120,
+    134
+  ],
+  "prose_text_en": "On the night of November 17, 1915, the narrator hears rhythmic footsteps around the dining-room table. Believing it to be a burglar, he wakes his brother Herman. Their mother, hearing the noise, intuitively concludes there are burglars and throws a shoe through their neighbor's window to get help. Police arrive, breaking down the front door and ransacking the house. The chaos peaks when the police storm the attic, where the narrator's grandfather, convinced they are deserters from General Meade's army, attacks a policeman and fires a gun. The story concludes with the grandfather at breakfast complaining about not having water by his bed, completely oblivious to the night's 'hullabaloo'.",
+  "summary_en": "The story depicts a night of chaotic misunderstandings triggered by the narrator hearing footsteps downstairs, which he mistakes for a ghost or burglar. This leads to a series of escalating incidents involving a broken neighbor's window, an aggressive police search, and a confrontation with a confused grandfather who believes he is reliving the Civil War. Thurber uses this humorous sequence of events to explore the eccentricities of his family and the absurd consequences of miscommunication.",
+  "characters": [
+    {
+      "name_en": "James Grover Thurber",
+      "role_en": "The narrator and author."
+    },
+    {
+      "name_en": "Herman",
+      "role_en": "The narrator's brother who is easily frightened."
+    },
+    {
+      "name_en": "Mother",
+      "role_en": "A woman who makes impulsive, incomparable decisions like throwing a shoe through a window."
+    },
+    {
+      "name_en": "Grandfather",
+      "role_en": "An elderly man who often experiences confusion, believing he is living during the Civil War."
+    },
+    {
+      "name_en": "Bodwell",
+      "role_en": "The retired engraver neighbor whose house is hit by the mother's shoe."
+    },
+    {
+      "name_en": "Joe",
+      "role_en": "The lead police officer who investigates the house."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Hullabaloo",
+      "meaning_en": "A lot of loud noise made by people who are excited."
+    },
+    {
+      "word_en": "Zither",
+      "meaning_en": "A musical instrument with a flat wooden sound box and strings."
+    },
+    {
+      "word_en": "Deserter",
+      "meaning_en": "A person who leaves the armed forces without permission."
+    },
+    {
+      "word_en": "Rending",
+      "meaning_en": "Tearing to pieces."
+    },
+    {
+      "word_en": "Indignant",
+      "meaning_en": "Feeling or showing anger at perceived unfair treatment."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "James Grover Thurber was an American humorist known for his work in The New Yorker.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "The story is set on the night of November 17, 1915.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "The grandfather believes he is living during the American Civil War (General Meade and Stonewall Jackson era).",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The mother throws a shoe through a window to attract the attention of neighbors (the Bodwells).",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What did the narrator's grandfather mistake the policemen for?",
+      "answer_en": "Deserters from General Meade's army.",
+      "options_en": [
+        "Burglars",
+        "Ghosts",
+        "Deserters",
+        "Neighbors"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Where did the grandfather sleep?",
+      "answer_en": "In the attic, in an old walnut bed.",
+      "options_en": [
+        "Living room",
+        "Attic",
+        "Basement",
+        "Herman's room"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

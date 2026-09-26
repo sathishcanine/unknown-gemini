@@ -1,0 +1,434 @@
+{
+  "subject_id": "English",
+  "menu": "types_of_sentences",
+  "sources": [
+    "asan - concord,tense, sentence pattern, question tag.pdf pp.40–44 (primary)",
+    "Grammer.pdf pp.[60, 137, 453] (secondary)",
+    "Govt question-tag pp.44–46 (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "A group of words, which gives complete sense is called a sentence.",
+      "sentence_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "A question tag is a short question added at the end of a statement to ask for agreement or confirmation.",
+      "sentence_topic": "other",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "A positive statement takes a negative tag, while a negative statement takes a positive tag.",
+      "sentence_topic": "other",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "Question tags are formed with the auxiliary or modal verb from the statement + n't + pronoun.",
+      "sentence_topic": "other",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "rule_en": "Declarative (D) sentences make a statement.",
+      "sentence_topic": "statement_assertive",
+      "source": "grammer",
+      "source_page": 60
+    },
+    {
+      "rule_en": "Interrogative (In) sentences ask a question.",
+      "sentence_topic": "interrogative",
+      "source": "grammer",
+      "source_page": 60
+    },
+    {
+      "rule_en": "Exclamatory (E) sentences express strong emotion.",
+      "sentence_topic": "exclamatory",
+      "source": "grammer",
+      "source_page": 60
+    },
+    {
+      "rule_en": "Imperative (Im) sentences issue a command or request.",
+      "sentence_topic": "imperative",
+      "source": "grammer",
+      "source_page": 60
+    },
+    {
+      "rule_en": "Every sentence begins with a capital letter.",
+      "sentence_topic": "overview",
+      "source": "grammer",
+      "source_page": 137
+    },
+    {
+      "rule_en": "Assertive and imperative sentences end with a full-stop or a period.",
+      "sentence_topic": "statement_assertive",
+      "source": "grammer",
+      "source_page": 137
+    },
+    {
+      "rule_en": "Sentences that ask something end with a question mark.",
+      "sentence_topic": "interrogative",
+      "source": "grammer",
+      "source_page": 137
+    },
+    {
+      "rule_en": "Sentences that express excitement or strong feelings end with an exclamatory mark.",
+      "sentence_topic": "exclamatory",
+      "source": "grammer",
+      "source_page": 137
+    },
+    {
+      "rule_en": "Falling tone is used in declarative sentences (statements) which are categorical, confident, and convincing.",
+      "sentence_topic": "statement_assertive",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "rule_en": "Falling tone is used for 'Wh-' questions.",
+      "sentence_topic": "interrogative",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "rule_en": "Falling tone is used in imperative sentences (commands).",
+      "sentence_topic": "imperative",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "rule_en": "Falling tone is used in exclamatory sentences.",
+      "sentence_topic": "exclamatory",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "rule_en": "Rising intonation is used for Yes/No (Polar) questions.",
+      "sentence_topic": "interrogative",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "rule_en": "Rising intonation is used for exclamations intended to be a question.",
+      "sentence_topic": "exclamatory",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "rule_en": "For Affirmative Imperative sentence we use will you or won’t you in the question tag.",
+      "sentence_topic": "imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Negative Imperative sentence we use will you as the question tag.",
+      "sentence_topic": "imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Imperative sentences beginning with let us, when a suggestion or proposal is being made the question tag will be shall we.",
+      "sentence_topic": "imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "For Imperative sentences beginning with let but not followed by us, the question tag will be will you.",
+      "sentence_topic": "imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "rule_en": "In exclamatory sentences the question tag will contain the auxiliary verbs.",
+      "sentence_topic": "exclamatory",
+      "source": "govt",
+      "source_page": 46
+    }
+  ],
+  "examples": [
+    {
+      "input": "You want a chocolate, don't you?",
+      "output": "You want a chocolate (statement), don't you? (tag)",
+      "kind": "example",
+      "sentence_topic": "other",
+      "note_en": "Statement is positive, so the tag is negative.",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "input": "You have a test, don't you?",
+      "output": "You have a test (statement), don't you? (tag)",
+      "kind": "example",
+      "sentence_topic": "other",
+      "note_en": "Positive statement with a negative tag.",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "input": "How many kilos do you want?",
+      "output": "Interrogative",
+      "kind": "identify",
+      "sentence_topic": "interrogative",
+      "note_en": "Example of a question asked by a vendor.",
+      "source": "grammer",
+      "source_page": 60
+    },
+    {
+      "input": "Dr. P.Rukmangadhan, M.S.",
+      "output": "Use full-stop for abbreviations, titles and initials.",
+      "kind": "example",
+      "sentence_topic": "statement_assertive",
+      "note_en": "Full-stop usage in titles and abbreviations.",
+      "source": "grammer",
+      "source_page": 137
+    },
+    {
+      "input": "We live in Chennai.",
+      "output": "Falling tone used on the last stressed syllable.",
+      "kind": "example",
+      "sentence_topic": "statement_assertive",
+      "note_en": "Standard statement using falling tone.",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "input": "What do you want?",
+      "output": "Falling tone used on the last stressed syllable.",
+      "kind": "example",
+      "sentence_topic": "interrogative",
+      "note_en": "Standard 'Wh-' question.",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "input": "Close the door.",
+      "output": "Falling tone used on the last stressed syllable.",
+      "kind": "example",
+      "sentence_topic": "imperative",
+      "note_en": "Standard command.",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "input": "What a pleasant surprise!",
+      "output": "Falling tone used on the last stressed syllable.",
+      "kind": "example",
+      "sentence_topic": "exclamatory",
+      "note_en": "Standard exclamation.",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "input": "Can you show it?",
+      "output": "Rising intonation used.",
+      "kind": "example",
+      "sentence_topic": "interrogative",
+      "note_en": "Yes/No (Polar) question.",
+      "source": "grammer",
+      "source_page": 453
+    },
+    {
+      "input": "Be assured of all co-operation",
+      "output": "Be assured of all co-operation, will you?",
+      "kind": "transform",
+      "sentence_topic": "imperative",
+      "note_en": "Affirmative imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "input": "Don’t touch the wire",
+      "output": "Don’t touch the wire, will you?",
+      "kind": "transform",
+      "sentence_topic": "imperative",
+      "note_en": "Negative imperative",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "input": "Let us go for a movie",
+      "output": "Let us go for a movie, shall we?",
+      "kind": "transform",
+      "sentence_topic": "imperative",
+      "note_en": "Suggestion starting with let us",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "input": "Let Madhu go",
+      "output": "Let Madhu go, will you?",
+      "kind": "transform",
+      "sentence_topic": "imperative",
+      "note_en": "Let followed by not us",
+      "source": "govt",
+      "source_page": 45
+    },
+    {
+      "input": "How beautiful the garden is",
+      "output": "How beautiful the garden is, isn't it?",
+      "kind": "example",
+      "sentence_topic": "exclamatory",
+      "note_en": "Example of tag applied to exclamatory sentence.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "input": "How big the slide is",
+      "output": "How big the slide is, isn't it?",
+      "kind": "example",
+      "sentence_topic": "exclamatory",
+      "note_en": "Example of tag applied to exclamatory sentence.",
+      "source": "govt",
+      "source_page": 46
+    },
+    {
+      "input": "How nicely the bird sings",
+      "output": "How nicely the bird sings, isn't it?",
+      "kind": "example",
+      "sentence_topic": "exclamatory",
+      "note_en": "Example of tag applied to exclamatory sentence.",
+      "source": "govt",
+      "source_page": 46
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "1. The wall collapsed. (a. SV, b. SVO, c. SVIODO)",
+      "answer_en": "a. SV",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "prompt_en": "2. During the war, many people lost their homes. (a. SVO, b. SVIODO, c. ASVDO)",
+      "answer_en": "c. ASVDO",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "prompt_en": "3. I promised the children a trip to the zoo. (a. SVO, b. SVDOIO, c. SVIODO)",
+      "answer_en": "c. SVIODO",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "prompt_en": "Where is my pen",
+      "answer_en": "Interrogative sentence (A V S pattern)",
+      "sentence_topic": "interrogative",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "Tell me the truth",
+      "answer_en": "Imperative sentence (V I O DO pattern)",
+      "sentence_topic": "imperative",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "The day is very cold.",
+      "answer_en": "Assertive/Declarative sentence (S V C pattern)",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "Honey is sweet",
+      "answer_en": "Assertive/Declarative sentence (S V C pattern)",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "26. Mr. Raman teaches us Mathematics",
+      "answer_en": "(c) S IO DO",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "29. The bird flies",
+      "answer_en": "(a) SV",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "38. Kumar is a doctor",
+      "answer_en": "(a) SVC",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "45. The boys played well",
+      "answer_en": "(a) SVA",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "46. Japan is a mountainous country",
+      "answer_en": "(b) SVC",
+      "sentence_topic": "statement_assertive",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "Madhav doesn't speak Telugu, does he?",
+      "answer_en": "Negative statement ('doesn't') takes a positive tag ('does he').",
+      "sentence_topic": "other",
+      "source": "asan",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "Identify the kind of sentence: (Vendor) while weighing the fruits: 'How many kilos do you want?'",
+      "answer_en": "Interrogative",
+      "sentence_topic": "interrogative",
+      "source": "grammer",
+      "source_page": 60
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 23,
+      "examples": 16,
+      "worked_exercises": 14
+    },
+    "by_sentence_topic": {
+      "overview": {
+        "rules": 2,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 3,
+        "examples": 2,
+        "worked": 1
+      },
+      "statement_assertive": {
+        "rules": 3,
+        "examples": 2,
+        "worked": 10
+      },
+      "interrogative": {
+        "rules": 4,
+        "examples": 3,
+        "worked": 2
+      },
+      "exclamatory": {
+        "rules": 5,
+        "examples": 4,
+        "worked": 0
+      },
+      "imperative": {
+        "rules": 6,
+        "examples": 5,
+        "worked": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "prose_id": "water_the_elixir_of_life",
+  "prose_title": "Water – The Elixir of Life",
+  "author": "Sir C.V. Raman",
+  "num": 12,
+  "pdf_pages": [
+    297,
+    320
+  ],
+  "prose_text_en": "Sir C.V. Raman describes water as the 'true elixir of life,' far more potent than any mythical Amrita. He illustrates the importance of water through the contrast between the barren Libyan Desert and the fertile Nile Valley. Water is characterized by its power to carry silt, which creates fertile alluvial soil, though it can also cause soil erosion if unchecked. The author advocates for the conservation of water through terracing, bunding, afforestation, and the development of inland waterways and hydro-electric power.",
+  "summary_en": "The essay 'Water – The Elixir of Life' highlights the vital role of water in sustaining life, agriculture, and geological processes. Sir C.V. Raman warns against the destructive potential of soil erosion caused by uncontrolled water flow and emphasizes the necessity of conservation. He argues that by harnessing water resources and implementing sustainable practices like afforestation, countries can transform barren lands into prosperous regions. Ultimately, he stresses that water is a precious natural resource that must be managed on a national scale.",
+  "characters": [
+    {
+      "name_en": "Sir C.V. Raman",
+      "role_en": "Author and narrator who observes the geographical significance of water"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "elixir",
+      "meaning_en": "a hypothetical substance believed to maintain life indefinitely or cure all ills"
+    },
+    {
+      "word_en": "billowing",
+      "meaning_en": "characterized by great swelling waves or surges"
+    },
+    {
+      "word_en": "teeming",
+      "meaning_en": "abundantly filled especially with living things"
+    },
+    {
+      "word_en": "trickling",
+      "meaning_en": "to flow slowly and without force"
+    },
+    {
+      "word_en": "precipitate",
+      "meaning_en": "a solid substance produced from a liquid during a chemical process"
+    },
+    {
+      "word_en": "crust",
+      "meaning_en": "a hard outer covering of something"
+    },
+    {
+      "word_en": "catchment",
+      "meaning_en": "a structure, such as a basin or reservoir, used for collecting or draining water"
+    },
+    {
+      "word_en": "barges",
+      "meaning_en": "a long boat with a flat bottom, used for carrying freight on rivers"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Sir C.V. Raman (1888–1970) won the 1930 Nobel Prize for Physics for his work on light scattering (Raman effect).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "February 28 is celebrated as National Science Day to commemorate the discovery of the Raman effect.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Water is compared to the 'eyes in a human face' as it reflects the mood of the hour.",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "Soil erosion is primarily caused by sudden heavy rain, lack of vegetation, and steep slopes.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "The Great Pacific Garbage Patch is a massive collection of floating trash between Hawaii and California.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What is the imaginary elixir of life?",
+      "answer_en": "The divine Amrita, which was believed to confer immortality.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What is the cheapest form of internal transport?",
+      "answer_en": "Transport by boats and barges through canals and rivers.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

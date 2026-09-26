@@ -1,0 +1,102 @@
+{
+  "prose_id": "the_last_lesson",
+  "prose_title": "The Last Lesson",
+  "questions": [
+    {
+      "prose_title": "The Last Lesson",
+      "prose_id": "the_last_lesson",
+      "question_en": "How many years had M. Hamel been in the village?",
+      "options_en": [
+        "twenty five years",
+        "forty years",
+        "forty five years",
+        "twenty four years"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b003",
+      "band": "prose_pyq_b003"
+    },
+    {
+      "prose_title": "The Last Lesson",
+      "prose_id": "the_last_lesson",
+      "question_en": "Match the name of the characters in Column A with their characteristics in Column B.\n(a) M. Hamel 1. Student\n(b) Franz 2. Teacher\n(c) Hauser 3. Blacksmith\n(d) Wachter 4. Old man",
+      "options_en": [
+        "(a) 2 (b) 1 (c) 4 (d) 3",
+        "(B) 1 4 2 3",
+        "(C) 4 1 3 2",
+        "(D) 2 3 4 1"
+      ],
+      "answer_en": "(a) 2 (b) 1 (c) 4 (d) 3",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b003",
+      "band": "prose_pyq_b003"
+    },
+    {
+      "prose_title": "The Last Lesson",
+      "prose_id": "the_last_lesson",
+      "question_en": "44. The word 'Apprentice' means",
+      "options_en": [
+        "Getting Knowledge or skill",
+        "A person who works for someone to learn skill",
+        "Propagation of knowledge",
+        "Learner"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b004",
+      "band": "prose_pyq_b004"
+    },
+    {
+      "prose_title": "The Last Lesson",
+      "prose_id": "the_last_lesson",
+      "question_en": "52. The 'Last Lesson' is set in the days of",
+      "options_en": [
+        "First World War",
+        "Indo-Pakistan War",
+        "Franco-Prussian War",
+        "American War of Independence"
+      ],
+      "answer_en": "Franco-Prussian War",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b004",
+      "band": "prose_pyq_b004"
+    },
+    {
+      "prose_title": "The Last Lesson",
+      "prose_id": "the_last_lesson",
+      "question_en": "51. Name the districts that fell into the hands to the Prussians during the France – Prussian war in \"The Last Lesson\".",
+      "options_en": [
+        "Abidjan and Lorain",
+        "Andaman and Prussia",
+        "Alsace and Lorraine",
+        "Franz and Prussia"
+      ],
+      "answer_en": "Alsace and Lorraine",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b004",
+      "band": "prose_pyq_b004"
+    },
+    {
+      "prose_title": "The Last Lesson",
+      "prose_id": "the_last_lesson",
+      "question_en": "38. The phrase written by the French master on the black board before dismissing the class in Alphonse Daudet's The Last Lesson is",
+      "options_en": [
+        "Vive La France",
+        "In Cognito",
+        "Bon voyage",
+        "In Toto"
+      ],
+      "answer_en": "Vive La France",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b004",
+      "band": "prose_pyq_b004"
+    }
+  ]
+}

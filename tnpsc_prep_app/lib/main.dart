@@ -13,6 +13,7 @@ import 'screens/login_screen.dart';
 import 'screens/performance_screen.dart';
 import 'screens/profile_screen.dart';
 import 'screens/whatsapp_phone_screen.dart';
+import 'screens/premium_screen.dart';
 import 'services/update_service.dart';
 import 'widgets/update_dialog.dart';
 
@@ -137,12 +138,14 @@ class _AppShellState extends State<AppShell> {
       body = const PerformanceScreen();
     } else if (active == 'profile') {
       body = const ProfileScreen();
+    } else if (active == 'premium') {
+      body = const PremiumScreen();
     } else {
       body = const HomeScreen();
     }
 
-    // Profile is opened from home settings; hide bottom nav there (and during quiz).
-    final showBottomNav = active != 'quiz' && active != 'profile';
+    // Profile / premium are full-screen flows; hide bottom nav (and during quiz).
+    final showBottomNav = active != 'quiz' && active != 'profile' && active != 'premium';
     final isDark = appState.isDarkMode;
 
     // Custom screen switching (not Navigator routes) — intercept OS back/swipe.

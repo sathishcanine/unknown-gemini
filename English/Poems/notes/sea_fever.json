@@ -1,0 +1,104 @@
+{
+  "poem_id": "sea_fever",
+  "poem_title": "Sea Fever",
+  "author": "John Masefield",
+  "num": 6,
+  "pdf_pages": [
+    19,
+    22
+  ],
+  "poem_text_en": "I must go down to the seas again, to the lonely sea and the sky,\nAnd all I ask is a tall ship and a star to steer her by;\nAnd the wheel’s kick and the wind’s song and the white sail’s shaking,\nAnd a grey mist on the sea’s face, and a grey dawn breaking.\nI must go down to the seas again, for the call of the running tide\nIs a wild call and a clear call that may not be denied; \nAnd all I ask is a windy day with the white clouds flying,\nAnd the flung spray and the blown spume, and the sea-gulls crying.\nI must go down to the seas again, to the vagrant gypsy life,\nTo the gull’s way and the whale’s way where the wind’s like a whetted knife;\nAnd all I ask is a merry yarn from a laughing fellow-rover,\nAnd quiet sleep and a sweet dream when the long trick’s over.",
+  "summary_en": "Sea Fever expresses the poet's deep, irresistible yearning to return to the sea. He finds comfort and adventure in the natural world of the ocean, desiring a simple life of sailing, storytelling, and peaceful rest. The poem reflects a longing for the freedom and rhythmic beauty found in a sailor's wandering lifestyle.",
+  "glossary": [
+    {
+      "word_en": "Star to steer",
+      "meaning_en": "The north star is the pole star which tells the sailor where North is"
+    },
+    {
+      "word_en": "flung",
+      "meaning_en": "threw"
+    },
+    {
+      "word_en": "spume",
+      "meaning_en": "sea foam"
+    },
+    {
+      "word_en": "vagrant",
+      "meaning_en": "wandering"
+    },
+    {
+      "word_en": "whetted",
+      "meaning_en": "sharpened"
+    },
+    {
+      "word_en": "yarn",
+      "meaning_en": "A long or rambling story"
+    },
+    {
+      "word_en": "rover",
+      "meaning_en": "wanderer"
+    },
+    {
+      "word_en": "trick",
+      "meaning_en": "a period of stay on the ship after the voyage"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Personification",
+      "example_en": "And a grey mist on the sea’s face",
+      "note_en": "The sea is given the human attribute of a face."
+    },
+    {
+      "device_en": "Simile",
+      "example_en": "where the wind’s like a whetted knife",
+      "note_en": "The wind is compared to a sharp knife using 'like'."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "John Masefield (1878–1967) was an English poet and writer.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "John Masefield was appointed poet laureate of the United Kingdom in 1930.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The line 'I must go down to the seas again' is repeated in the poem.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The title of the poem ‘Sea Fever’ means ______________________.",
+      "answer_en": "b",
+      "options_en": [
+        "a) flu fever",
+        "b) the poet’s deep wish to be at sea",
+        "c) the poet’s fear of the sea"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The poet asks for ___________________.",
+      "answer_en": "c",
+      "options_en": [
+        "a) a fishing net",
+        "b) a big boat",
+        "c) a tall ship"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The poet wants to lead a life at sea like __________________.",
+      "answer_en": "a",
+      "options_en": [
+        "a) the gulls and whales",
+        "b) the penguins and sharks",
+        "c) the pelicans and dolphins"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

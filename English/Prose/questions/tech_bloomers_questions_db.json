@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the prose 'Tech Bloomers', technology primarily acts as a tool for what purpose?",
+    "question_ta": "According to the prose 'Tech Bloomers', technology primarily acts as a tool for what purpose?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Industrial automation",
+        "text_ta": "Industrial automation"
+      },
+      {
+        "key": "B",
+        "text_en": "Empowerment and independence",
+        "text_ta": "Empowerment and independence"
+      },
+      {
+        "key": "C",
+        "text_en": "Mere luxury and entertainment",
+        "text_ta": "Mere luxury and entertainment"
+      },
+      {
+        "key": "D",
+        "text_en": "Financial accumulation",
+        "text_ta": "Financial accumulation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The prose highlights that technology acts as a tool for empowerment and helps individuals gain independence.",
+    "explanation_ta": "The prose highlights that technology acts as a tool for empowerment and helps individuals gain independence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What condition does Alisha have, which affects her muscle control and typing abilities?",
+    "question_ta": "What condition does Alisha have, which affects her muscle control and typing abilities?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hearing loss",
+        "text_ta": "Hearing loss"
+      },
+      {
+        "key": "B",
+        "text_en": "Speech disorder",
+        "text_ta": "Speech disorder"
+      },
+      {
+        "key": "C",
+        "text_en": "Cerebral palsy",
+        "text_ta": "Cerebral palsy"
+      },
+      {
+        "key": "D",
+        "text_en": "Visual impairment",
+        "text_ta": "Visual impairment"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Alisha is a student with cerebral palsy, which causes permanent tightening of the muscles.",
+    "explanation_ta": "Alisha is a student with cerebral palsy, which causes permanent tightening of the muscles.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "C1 & G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which software helps Alisha convert her spoken words into text?",
+    "question_ta": "Which software helps Alisha convert her spoken words into text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "IGEST",
+        "text_ta": "IGEST"
+      },
+      {
+        "key": "B",
+        "text_en": "Dragon Dictate",
+        "text_ta": "Dragon Dictate"
+      },
+      {
+        "key": "C",
+        "text_en": "Blee Watch",
+        "text_ta": "Blee Watch"
+      },
+      {
+        "key": "D",
+        "text_en": "ECO2 with ECOpoint",
+        "text_ta": "ECO2 with ECOpoint"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Alisha uses 'Dragon Dictate' software to recognize speech and convert it into text.",
+    "explanation_ta": "Alisha uses 'Dragon Dictate' software to recognize speech and convert it into text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "C1 & G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What device does David use to communicate and access his curriculum using eye movements?",
+    "question_ta": "What device does David use to communicate and access his curriculum using eye movements?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Blee Watch",
+        "text_ta": "Blee Watch"
+      },
+      {
+        "key": "B",
+        "text_en": "Dragon Dictate",
+        "text_ta": "Dragon Dictate"
+      },
+      {
+        "key": "C",
+        "text_en": "ECO2 with ECOpoint",
+        "text_ta": "ECO2 with ECOpoint"
+      },
+      {
+        "key": "D",
+        "text_en": "Lechal Shoes",
+        "text_ta": "Lechal Shoes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "David uses the ECO2 device with ECOpoint (Eye Gaze) to communicate and access the curriculum.",
+    "explanation_ta": "David uses the ECO2 device with ECOpoint (Eye Gaze) to communicate and access the curriculum.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "C2 & W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who assists students by helping them learn and use various technological tools?",
+    "question_ta": "Who assists students by helping them learn and use various technological tools?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "David",
+        "text_ta": "David"
+      },
+      {
+        "key": "B",
+        "text_en": "Alisha",
+        "text_ta": "Alisha"
+      },
+      {
+        "key": "C",
+        "text_en": "Anil Prabhakar",
+        "text_ta": "Anil Prabhakar"
+      },
+      {
+        "key": "D",
+        "text_en": "Kim",
+        "text_ta": "Kim"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Kim is the Assistive Technologist who helps students learn to use technological tools.",
+    "explanation_ta": "Kim is the Assistive Technologist who helps students learn to use technological tools.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "C3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the 2011 Census, what percentage of India's population is disabled?",
+    "question_ta": "According to the 2011 Census, what percentage of India's population is disabled?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1.15 percent",
+        "text_ta": "1.15 percent"
+      },
+      {
+        "key": "B",
+        "text_en": "10.2 percent",
+        "text_ta": "10.2 percent"
+      },
+      {
+        "key": "C",
+        "text_en": "5.50 percent",
+        "text_ta": "5.50 percent"
+      },
+      {
+        "key": "D",
+        "text_en": "2.21 percent",
+        "text_ta": "2.21 percent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The 2011 Census states that 2.21 percent of India’s population is disabled.",
+    "explanation_ta": "The 2011 Census states that 2.21 percent of India’s population is disabled.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who developed lightweight prosthetics for disabled children as mentioned in the context of the lesson?",
+    "question_ta": "Who developed lightweight prosthetics for disabled children as mentioned in the context of the lesson?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Stephen Hawking",
+        "text_ta": "Stephen Hawking"
+      },
+      {
+        "key": "B",
+        "text_en": "Krispian Lawrence",
+        "text_ta": "Krispian Lawrence"
+      },
+      {
+        "key": "C",
+        "text_en": "Anil Prabhakar",
+        "text_ta": "Anil Prabhakar"
+      },
+      {
+        "key": "D",
+        "text_en": "P.J. Abdul Kalam",
+        "text_ta": "P.J. Abdul Kalam"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A.P.J. Abdul Kalam developed lightweight floor reaction orthosis prosthetics for disabled children.",
+    "explanation_ta": "A.P.J. Abdul Kalam developed lightweight floor reaction orthosis prosthetics for disabled children.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "C4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which world-renowned physicist is cited as an example of overcoming severe physical impairment through assistive technology?",
+    "question_ta": "Which world-renowned physicist is cited as an example of overcoming severe physical impairment through assistive technology?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Thomas Edison",
+        "text_ta": "Thomas Edison"
+      },
+      {
+        "key": "B",
+        "text_en": "Stephen Hawking",
+        "text_ta": "Stephen Hawking"
+      },
+      {
+        "key": "C",
+        "text_en": "Isaac Newton",
+        "text_ta": "Isaac Newton"
+      },
+      {
+        "key": "D",
+        "text_en": "Albert Einstein",
+        "text_ta": "Albert Einstein"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Stephen Hawking is cited as a world-renowned physicist who overcame impairment using technology.",
+    "explanation_ta": "Stephen Hawking is cited as a world-renowned physicist who overcame impairment using technology.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "C5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What are 'Lechal Shoes', created by Krispian Lawrence, used for?",
+    "question_ta": "What are 'Lechal Shoes', created by Krispian Lawrence, used for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Monitoring heart rate during exercise",
+        "text_ta": "Monitoring heart rate during exercise"
+      },
+      {
+        "key": "B",
+        "text_en": "Navigation using GPS and Bluetooth",
+        "text_ta": "Navigation using GPS and Bluetooth"
+      },
+      {
+        "key": "C",
+        "text_en": "Converting speech to text",
+        "text_ta": "Converting speech to text"
+      },
+      {
+        "key": "D",
+        "text_en": "Assisting speech-impaired individuals",
+        "text_ta": "Assisting speech-impaired individuals"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Lechal Shoes use GPS and Bluetooth to help the disabled navigate.",
+    "explanation_ta": "Lechal Shoes use GPS and Bluetooth to help the disabled navigate.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which innovation helps the hearing impaired using vibration and color codes?",
+    "question_ta": "Which innovation helps the hearing impaired using vibration and color codes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Lechal Shoes",
+        "text_ta": "Lechal Shoes"
+      },
+      {
+        "key": "B",
+        "text_en": "Dragon Dictate",
+        "text_ta": "Dragon Dictate"
+      },
+      {
+        "key": "C",
+        "text_en": "Blee Watch",
+        "text_ta": "Blee Watch"
+      },
+      {
+        "key": "D",
+        "text_en": "IGEST",
+        "text_ta": "IGEST"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Blee Watch, created by Nupura Kirloskar and Janhavi Joshi, assists the hearing impaired through vibration and color codes.",
+    "explanation_ta": "Blee Watch, created by Nupura Kirloskar and Janhavi Joshi, assists the hearing impaired through vibration and color codes.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the 'IGEST' innovation developed by Anil Prabhakar of IIT-M?",
+    "question_ta": "What is the function of the 'IGEST' innovation developed by Anil Prabhakar of IIT-M?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To help visually impaired people navigate",
+        "text_ta": "To help visually impaired people navigate"
+      },
+      {
+        "key": "B",
+        "text_en": "To convert voice into written notes",
+        "text_ta": "To convert voice into written notes"
+      },
+      {
+        "key": "C",
+        "text_en": "To help hearing-impaired people sense sounds",
+        "text_ta": "To help hearing-impaired people sense sounds"
+      },
+      {
+        "key": "D",
+        "text_en": "To help speech-impaired people through gesture tracking",
+        "text_ta": "To help speech-impaired people through gesture tracking"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "IGEST uses gesture tracking to assist speech-impaired individuals.",
+    "explanation_ta": "IGEST uses gesture tracking to assist speech-impaired individuals.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct meaning of the word 'Grapple' as per the glossary.",
+    "question_ta": "Choose the correct meaning of the word 'Grapple' as per the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To decorate or adorn",
+        "text_ta": "To decorate or adorn"
+      },
+      {
+        "key": "B",
+        "text_en": "To fight, especially in order to win something",
+        "text_ta": "To fight, especially in order to win something"
+      },
+      {
+        "key": "C",
+        "text_en": "To disconnect or separate",
+        "text_ta": "To disconnect or separate"
+      },
+      {
+        "key": "D",
+        "text_en": "To move slowly and quietly",
+        "text_ta": "To move slowly and quietly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Grapple means to fight, especially in order to win something.",
+    "explanation_ta": "Grapple means to fight, especially in order to win something.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the medical term 'Cerebral palsy' mean according to the glossary?",
+    "question_ta": "What does the medical term 'Cerebral palsy' mean according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Weakening of bones caused by lack of calcium",
+        "text_ta": "Weakening of bones caused by lack of calcium"
+      },
+      {
+        "key": "B",
+        "text_en": "Permanent tightening of the muscles caused by damage to the brain",
+        "text_ta": "Permanent tightening of the muscles caused by damage to the brain"
+      },
+      {
+        "key": "C",
+        "text_en": "Inability to distinguish between colors",
+        "text_ta": "Inability to distinguish between colors"
+      },
+      {
+        "key": "D",
+        "text_en": "Temporary loss of memory due to stress",
+        "text_ta": "Temporary loss of memory due to stress"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cerebral palsy is defined as the permanent tightening of the muscles caused by damage to the brain.",
+    "explanation_ta": "Cerebral palsy is defined as the permanent tightening of the muscles caused by damage to the brain.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary definition of 'Cloister' signify?",
+    "question_ta": "What does the glossary definition of 'Cloister' signify?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Spread widely",
+        "text_ta": "Spread widely"
+      },
+      {
+        "key": "B",
+        "text_en": "Lifted up",
+        "text_ta": "Lifted up"
+      },
+      {
+        "key": "C",
+        "text_en": "Opened freely",
+        "text_ta": "Opened freely"
+      },
+      {
+        "key": "D",
+        "text_en": "Enclosed by",
+        "text_ta": "Enclosed by"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the glossary, cloister means enclosed by.",
+    "explanation_ta": "According to the glossary, cloister means enclosed by.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary difference between an abbreviation and an acronym?",
+    "question_ta": "What is the primary difference between an abbreviation and an acronym?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "An abbreviation is used only for names, while an acronym is used for places",
+        "text_ta": "An abbreviation is used only for names, while an acronym is used for places"
+      },
+      {
+        "key": "B",
+        "text_en": "An abbreviation forms a new word, while an acronym is just shortened letters",
+        "text_ta": "An abbreviation forms a new word, while an acronym is just shortened letters"
+      },
+      {
+        "key": "C",
+        "text_en": "An abbreviation is a shortened series of letters, while an acronym forms a new pronounceable word",
+        "text_ta": "An abbreviation is a shortened series of letters, while an acronym forms a new pronounceable word"
+      },
+      {
+        "key": "D",
+        "text_en": "There is no difference between them",
+        "text_ta": "There is no difference between them"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Acronyms form new words (e.g., radar), whereas abbreviations are shortened letters (e.g., Dr.).",
+    "explanation_ta": "Acronyms form new words (e.g., radar), whereas abbreviations are shortened letters (e.g., Dr.).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R5 & W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Give an example of an acronym from the grammar notes provided in the lesson.",
+    "question_ta": "Give an example of an acronym from the grammar notes provided in the lesson.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Radar",
+        "text_ta": "Radar"
+      },
+      {
+        "key": "B",
+        "text_en": "St.",
+        "text_ta": "St."
+      },
+      {
+        "key": "C",
+        "text_en": "Dr.",
+        "text_ta": "Dr."
+      },
+      {
+        "key": "D",
+        "text_en": "Mr.",
+        "text_ta": "Mr."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Radar is cited as an example of an acronym that forms a new word.",
+    "explanation_ta": "Radar is cited as an example of an acronym that forms a new word.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following is cited as an example of an abbreviation?",
+    "question_ta": "Which of the following is cited as an example of an abbreviation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "NASA",
+        "text_ta": "NASA"
+      },
+      {
+        "key": "B",
+        "text_en": "Dr.",
+        "text_ta": "Dr."
+      },
+      {
+        "key": "C",
+        "text_en": "SCUBA",
+        "text_ta": "SCUBA"
+      },
+      {
+        "key": "D",
+        "text_en": "AIDS",
+        "text_ta": "AIDS"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Dr.' is given as an example of an abbreviation representing shortened letters.",
+    "explanation_ta": "'Dr.' is given as an example of an abbreviation representing shortened letters.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the narrative, what does the impact of technology depend upon?",
+    "question_ta": "According to the narrative, what does the impact of technology depend upon?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "How society chooses to implement and utilize it",
+        "text_ta": "How society chooses to implement and utilize it"
+      },
+      {
+        "key": "B",
+        "text_en": "The availability of fossil fuels",
+        "text_ta": "The availability of fossil fuels"
+      },
+      {
+        "key": "C",
+        "text_en": "How fast internet connectivity is globally",
+        "text_ta": "How fast internet connectivity is globally"
+      },
+      {
+        "key": "D",
+        "text_en": "The cost of manufacturing electronic components",
+        "text_ta": "The cost of manufacturing electronic components"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The narrative underlines that the impact of technology—positive or negative—depends on how society chooses to implement and utilize it.",
+    "explanation_ta": "The narrative underlines that the impact of technology—positive or negative—depends on how society chooses to implement and utilize it.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of world does the lesson ultimately advocate for?",
+    "question_ta": "What type of world does the lesson ultimately advocate for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A world completely dependent on automated robotics",
+        "text_ta": "A world completely dependent on automated robotics"
+      },
+      {
+        "key": "B",
+        "text_en": "An exclusive world restricted to corporate elites",
+        "text_ta": "An exclusive world restricted to corporate elites"
+      },
+      {
+        "key": "C",
+        "text_en": "An inclusive world where assistive tools allow everyone to learn and contribute fruitfully",
+        "text_ta": "An inclusive world where assistive tools allow everyone to learn and contribute fruitfully"
+      },
+      {
+        "key": "D",
+        "text_en": "A technologically isolated society with zero human interaction",
+        "text_ta": "A technologically isolated society with zero human interaction"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The prose advocates for an inclusive world where assistive tools allow everyone to learn and contribute fruitfully.",
+    "explanation_ta": "The prose advocates for an inclusive world where assistive tools allow everyone to learn and contribute fruitfully.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "Summary"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What role does an 'Assistive technologist' play according to the glossary and text?",
+    "question_ta": "What role does an 'Assistive technologist' play according to the glossary and text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A person who assists with technological gadgets to overcome disability",
+        "text_ta": "A person who assists with technological gadgets to overcome disability"
+      },
+      {
+        "key": "B",
+        "text_en": "A mechanic who repairs heavy industrial machinery",
+        "text_ta": "A mechanic who repairs heavy industrial machinery"
+      },
+      {
+        "key": "C",
+        "text_en": "A software programmer who designs video games",
+        "text_ta": "A software programmer who designs video games"
+      },
+      {
+        "key": "D",
+        "text_en": "A medical surgeon specializing in brain disorders",
+        "text_ta": "A medical surgeon specializing in brain disorders"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "An assistive technologist is a person who assists with technological gadgets to overcome disability.",
+    "explanation_ta": "An assistive technologist is a person who assists with technological gadgets to overcome disability.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "G4"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following technologies is specifically used for self-ordering appliances and smart home systems?",
+    "question_ta": "Which of the following technologies is specifically used for self-ordering appliances and smart home systems?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Smart home technology and IoT appliances",
+        "text_ta": "Smart home technology and IoT appliances"
+      },
+      {
+        "key": "B",
+        "text_en": "Traditional landline telephones",
+        "text_ta": "Traditional landline telephones"
+      },
+      {
+        "key": "C",
+        "text_en": "Mechanical calculators",
+        "text_ta": "Mechanical calculators"
+      },
+      {
+        "key": "D",
+        "text_en": "Manual typewriters",
+        "text_ta": "Manual typewriters"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text notes self-ordering appliances and smart home systems as examples of technology empowering people.",
+    "explanation_ta": "The text notes self-ordering appliances and smart home systems as examples of technology empowering people.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "Prose Excerpts"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who are the creators of the 'Blee Watch' meant for the hearing impaired?",
+    "question_ta": "Who are the creators of the 'Blee Watch' meant for the hearing impaired?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Krispian Lawrence",
+        "text_ta": "Krispian Lawrence"
+      },
+      {
+        "key": "B",
+        "text_en": "P.J. Abdul Kalam",
+        "text_ta": "P.J. Abdul Kalam"
+      },
+      {
+        "key": "C",
+        "text_en": "Anil Prabhakar",
+        "text_ta": "Anil Prabhakar"
+      },
+      {
+        "key": "D",
+        "text_en": "Nupura Kirloskar and Janhavi Joshi",
+        "text_ta": "Nupura Kirloskar and Janhavi Joshi"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Nupura Kirloskar and Janhavi Joshi created the Blee Watch for the hearing impaired.",
+    "explanation_ta": "Nupura Kirloskar and Janhavi Joshi created the Blee Watch for the hearing impaired.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of impairment does the 'Blee Watch' address?",
+    "question_ta": "What type of impairment does the 'Blee Watch' address?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Speech impairment",
+        "text_ta": "Speech impairment"
+      },
+      {
+        "key": "B",
+        "text_en": "Locomotor disability",
+        "text_ta": "Locomotor disability"
+      },
+      {
+        "key": "C",
+        "text_en": "Visual impairment",
+        "text_ta": "Visual impairment"
+      },
+      {
+        "key": "D",
+        "text_en": "Hearing impairment",
+        "text_ta": "Hearing impairment"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The Blee Watch uses vibration and color codes to help the hearing impaired.",
+    "explanation_ta": "The Blee Watch uses vibration and color codes to help the hearing impaired.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R2"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which institution is associated with Anil Prabhakar, the creator of 'IGEST'?",
+    "question_ta": "Which institution is associated with Anil Prabhakar, the creator of 'IGEST'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "IISc Bangalore",
+        "text_ta": "IISc Bangalore"
+      },
+      {
+        "key": "B",
+        "text_en": "AIIMS Delhi",
+        "text_ta": "AIIMS Delhi"
+      },
+      {
+        "key": "C",
+        "text_en": "IIT-M (Indian Institute of Technology Madras)",
+        "text_ta": "IIT-M (Indian Institute of Technology Madras)"
+      },
+      {
+        "key": "D",
+        "text_en": "IIM Ahmedabad",
+        "text_ta": "IIM Ahmedabad"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Anil Prabhakar from IIT-M developed IGEST for the speech-impaired.",
+    "explanation_ta": "Anil Prabhakar from IIT-M developed IGEST for the speech-impaired.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Tech Bloomers",
+    "topic": "Tech Bloomers",
+    "topic_id": "tech_bloomers",
+    "topic_ta": "Tech Bloomers",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary function of 'Dragon Dictate' software?",
+    "question_ta": "What is the primary function of 'Dragon Dictate' software?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Providing GPS coordinates for walking routes",
+        "text_ta": "Providing GPS coordinates for walking routes"
+      },
+      {
+        "key": "B",
+        "text_en": "Translating English into foreign languages",
+        "text_ta": "Translating English into foreign languages"
+      },
+      {
+        "key": "C",
+        "text_en": "Recognizing speech and converting it to text",
+        "text_ta": "Recognizing speech and converting it to text"
+      },
+      {
+        "key": "D",
+        "text_en": "Tracking eye movements for computer navigation",
+        "text_ta": "Tracking eye movements for computer navigation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Dragon Dictate is software that recognizes speech and converts it to text.",
+    "explanation_ta": "Dragon Dictate is software that recognizes speech and converts it to text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "tech_bloomers",
+    "source_note": "G3"
+  }
+]

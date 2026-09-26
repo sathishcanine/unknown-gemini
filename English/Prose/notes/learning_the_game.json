@@ -1,0 +1,94 @@
+{
+  "prose_id": "learning_the_game",
+  "prose_title": "Learning the Game",
+  "author": "Sachin Ramesh Tendulkar",
+  "num": 8,
+  "pdf_pages": [
+    232,
+    248
+  ],
+  "prose_text_en": "Sachin Tendulkar recounts his formative years in cricket under coach Ramakant Achrekar at Shivaji Park. Initially nervous, Sachin was accepted into the camp only after his brother Ajit intervened. The rigorous training included morning and evening sessions, washing his only set of cricket clothes daily, and surviving intense 15-minute net sessions where Achrekar placed a one-rupee coin on the stumps for the batsman to win by not getting out. Sachin reflects on his discipline, his school transfer to Shardashram Vidyamandir, and the vital moral lessons from his coach, notably: 'If you practice hard enough, one day people from across the world will come and watch you play.'",
+  "summary_en": "This excerpt from Sachin Tendulkar’s autobiography 'Playing It My Way' details his dedication and the rigorous training he underwent as a young cricketer under coach Ramakant Achrekar. It highlights the importance of hard work, discipline, and the mentor-student relationship in shaping a legendary sports career. Sachin credits his success to his brother Ajit's support and his coach's farsighted guidance. The narrative serves as a motivational account of overcoming physical and mental challenges to achieve excellence.",
+  "characters": [
+    {
+      "name_en": "Sachin Ramesh Tendulkar",
+      "role_en": "Protagonist and legendary cricketer"
+    },
+    {
+      "name_en": "Ramakant Achrekar",
+      "role_en": "Cricket coach and strict mentor"
+    },
+    {
+      "name_en": "Ajit Tendulkar",
+      "role_en": "Sachin's brother who supported his cricketing career"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "emulate",
+      "meaning_en": "to match or surpass typically by imitation"
+    },
+    {
+      "word_en": "overawed",
+      "meaning_en": "impressed so much that they are silent or inhibited"
+    },
+    {
+      "word_en": "rigorous",
+      "meaning_en": "extremely thorough and careful"
+    },
+    {
+      "word_en": "stamina",
+      "meaning_en": "the ability to sustain prolonged physical and mental effort"
+    },
+    {
+      "word_en": "melee",
+      "meaning_en": "a confused crowd of people"
+    },
+    {
+      "word_en": "farsightedness",
+      "meaning_en": "showing a prudent awareness of future possibilities"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Sachin Tendulkar was born on 24th April 1973 in Mumbai.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "'Learning the Game' is an extract from his autobiography, Playing it My Way.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "Achrekar Sir would place a one-rupee coin on the stumps to train Sachin to concentrate under pressure.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Achrekar Sir taught Sachin that if he practiced hard, the world would eventually come to watch him play.",
+      "tag": "quote"
+    },
+    {
+      "rule_en": "The coaching sessions took place at Shivaji Park, Mumbai.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What did serve as a very personal coaching manual to Sachin?",
+      "answer_en": "A note containing some thoughts about batting given to him by his brother Ajit.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Why was Sachin asked to change the school?",
+      "answer_en": "His original school did not have cricket facilities, and coach Achrekar wanted him to pursue cricket seriously at Shardashram Vidyamandir.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What was the condition laid down by Sachin’s father for changing the school?",
+      "answer_en": "He should change schools only if he was really serious about playing cricket.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

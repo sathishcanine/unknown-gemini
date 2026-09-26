@@ -1,0 +1,41 @@
+{
+  "subject_id": "English",
+  "menu": "direct_indirect_speech",
+  "topics": [
+    {
+      "id": "statements_dti",
+      "name_en": "Statements (Direct → Indirect)",
+      "name_ta": "அறிக்கை வாக்கியங்கள் (நேரடி → மறைமுக)",
+      "batches": 2,
+      "focus": "Change assertive/reported statements from direct to indirect; tense backshift; say/said that; reporting verb in past; no question/command forms."
+    },
+    {
+      "id": "questions",
+      "name_en": "Questions (WH & Yes/No)",
+      "name_ta": "வினா வாக்கியங்கள் (WH & ஆம்/இல்லை)",
+      "batches": 2,
+      "focus": "WH-questions → asked + wh-word + statement order; yes/no → asked if/whether; no question mark; tense and pronoun changes."
+    },
+    {
+      "id": "commands_imperatives",
+      "name_en": "Commands, Requests & Imperatives",
+      "name_ta": "கட்டளை, கோரிக்கை & Imperative",
+      "batches": 2,
+      "focus": "Imperatives → ordered/requested/advised + object + to-infinitive; negative commands → not to; Let's → suggested that they should."
+    },
+    {
+      "id": "indirect_to_direct",
+      "name_en": "Indirect → Direct",
+      "name_ta": "மறைமுக → நேரடி",
+      "batches": 2,
+      "focus": "Reverse conversion: restore inverted commas, question mark, imperative form; undo tense/time/place shifts."
+    },
+    {
+      "id": "time_pronoun_reporting",
+      "name_en": "Time, Place, Pronoun & Reporting Verbs",
+      "name_ta": "காலம், இடம், சுட்டுப்பெயர் & Reporting Verbs",
+      "batches": 2,
+      "focus": "now→then, today→that day, tomorrow→next day; here→there; I→he/she; say vs tell; present reporting verb exception (no tense change)."
+    }
+  ]
+}

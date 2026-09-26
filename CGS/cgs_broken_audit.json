@@ -1,0 +1,210 @@
+{
+  "subject": "CGS",
+  "total": 1434,
+  "drop_count": 7,
+  "drop_ids": [
+    8218,
+    8860,
+    8973,
+    9297,
+    9300,
+    9455,
+    9598
+  ],
+  "by_reason": {
+    "match_incomplete": 6,
+    "statements_missing": 1
+  },
+  "by_topic": {
+    "Ministry of Agriculture & Farmers Welfare": 1,
+    "Ministry of Micro, Small & Medium Enterprises": 1,
+    "Ministry of New and Renewable Energy": 1,
+    "Ministry of Social Justice and Empowerment": 2,
+    "Ministry of Women & Child Development": 1,
+    "Home Affairs & North Eastern Region Development": 1
+  },
+  "items": [
+    {
+      "id": 8218,
+      "topic": "Ministry of Agriculture & Farmers Welfare",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following schemes with their primary objective or feature:",
+      "opts": [
+        [
+          "A",
+          "a) AIF, b) AgriSURE, c) PM-AASHA, d) NMNF - 1. Natural farming clusters, 2. Post-harvest infra, 3. Price volatility control, 4. NABVENTURES managed"
+        ],
+        [
+          "B",
+          "a-2, b-4, c-3, d-1"
+        ],
+        [
+          "C",
+          "a-1, b-4, c-2, d-3"
+        ],
+        [
+          "D",
+          "a-3, b-2, c-1, d-4"
+        ]
+      ]
+    },
+    {
+      "id": 8860,
+      "topic": "Ministry of Micro, Small & Medium Enterprises",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following regarding the MSME-Innovative sub-schemes and financial limits:",
+      "opts": [
+        [
+          "A",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "B",
+          "a-1, b-2, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-1, c-4, d-3"
+        ]
+      ]
+    },
+    {
+      "id": 8973,
+      "topic": "Ministry of New and Renewable Energy",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following renewable energy scheme initiatives with their specific features:",
+      "opts": [
+        [
+          "A",
+          "a) Model Solar Village, b) Component A (PM-KUSUM), c) NGHM Phase II, d) GEC Phase-II"
+        ],
+        [
+          "B",
+          "1. 2026-30, 2. 7 states, 3. ₹1 Crore, 4. 10,000 MW"
+        ],
+        [
+          "C",
+          "a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-1, d-2"
+        ]
+      ]
+    },
+    {
+      "id": 9297,
+      "topic": "Ministry of Social Justice and Empowerment",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following schemes with their primary objective / feature:",
+      "opts": [
+        [
+          "A",
+          "A-1, B-2, C-3, D-4"
+        ],
+        [
+          "B",
+          "A-2, B-3, C-4, D-1"
+        ],
+        [
+          "C",
+          "A-3, B-4, C-1, D-2"
+        ],
+        [
+          "D",
+          "A-4, B-1, C-2, D-3"
+        ]
+      ]
+    },
+    {
+      "id": 9300,
+      "topic": "Ministry of Social Justice and Empowerment",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "The SHRESTHA scheme is implemented through which of the following agencies?",
+      "opts": [
+        [
+          "A",
+          "Private coaching institutes only"
+        ],
+        [
+          "B",
+          "Government schools only"
+        ],
+        [
+          "C",
+          "NGOs and residential high schools"
+        ],
+        [
+          "D",
+          "Panchayat Raj Institutions"
+        ]
+      ]
+    },
+    {
+      "id": 9455,
+      "topic": "Ministry of Women & Child Development",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following schemes with their operational features:",
+      "opts": [
+        [
+          "A",
+          "A-4, B-3, C-2, D-1"
+        ],
+        [
+          "B",
+          "A-2, B-4, C-1, D-3"
+        ],
+        [
+          "C",
+          "A-3, B-1, C-4, D-2"
+        ],
+        [
+          "D",
+          "A-1, B-2, C-3, D-4"
+        ]
+      ]
+    },
+    {
+      "id": 9598,
+      "topic": "Home Affairs & North Eastern Region Development",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following schemes with their nodal agency or specific characteristics:",
+      "opts": [
+        [
+          "A",
+          "a) PM-DevINE b) NFIES c) VVP-II d) NER Development"
+        ],
+        [
+          "B",
+          "1. 2028-29 deadline 2. 2025-26 deadline 3. North Eastern Council 4. Forensic infrastructure"
+        ],
+        [
+          "C",
+          "Correct match sequence: a-3, b-4, c-1, d-2"
+        ],
+        [
+          "D",
+          "Correct match sequence: a-2, b-4, c-1, d-3"
+        ]
+      ]
+    }
+  ]
+}

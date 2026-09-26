@@ -1,0 +1,4615 @@
+{
+  "total_raw": 167,
+  "total_deduped": 160,
+  "by_poem": {
+    "unknown": 21,
+    "life": 18,
+    "the_secret_of_the_machines": 11,
+    "stopping_by_woods_on_a_snowy_evening": 10,
+    "the_river": 10,
+    "the_ant_and_the_cricket": 9,
+    "a_poison_tree": 7,
+    "the_spider_and_the_fly": 5,
+    "my_computer_needs_a_break": 5,
+    "no_men_are_foreign": 4,
+    "on_killing_a_tree": 4,
+    "the_stick_together_families": 4,
+    "special_hero": 4,
+    "endymion": 4,
+    "your_space": 4,
+    "sea_fever": 4,
+    "courage": 4,
+    "from_a_railway_carriage": 4,
+    "i_am_every_woman_rakhi_nariani_shirke": 3,
+    "the_house_on_elm_street_nadia_bush": 3,
+    "the_comet": 3,
+    "a_woman_is_a_beauty_implied": 2,
+    "the_ant_and_the_cricket_adapted_from_aesop_s_fables": 2,
+    "no_men_are_foreign_james_falconer_kirkup": 2,
+    "the_house_on_elm_street": 2,
+    "a_thing_of_beauty_john_keats": 2,
+    "a_thing_of_beauty": 2,
+    "general_english_literary_terms": 1,
+    "multiple_poems": 1,
+    "general": 1,
+    "indian_seasons_nisha_dyrene": 1,
+    "indian_seasons": 1,
+    "spring_is_pretty": 1,
+    "a_tragic_story": 1
+  },
+  "questions": [
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "My heart will keep the courage of the quest, And hope the road's last turn will be the best. Who wrote the above poem?",
+      "options_en": [
+        "Robert Frost",
+        "John Keats",
+        "Henry Van Dyke",
+        "William Wordsworth"
+      ],
+      "answer_en": "Henry Van Dyke",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "'Let me but live my life from year to year With forward face and unreluctant soul' What is the mood of the poet?",
+      "options_en": [
+        "sad",
+        "happy",
+        "confident",
+        "worry"
+      ],
+      "answer_en": "confident",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Choose the correct poet who wrote the poem with the theme of journey of life.",
+      "options_en": [
+        "Edgar Albert Guest",
+        "Henry Van Dyke",
+        "George Elliot",
+        "Brigette Bryant"
+      ],
+      "answer_en": "Henry Van Dyke",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "In poetry, a sonnet has",
+      "options_en": [
+        "8 lines",
+        "14 lines",
+        "12 lines",
+        "10 lines"
+      ],
+      "answer_en": "14 lines",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "Not mourning for the things that disappear. Identify the figure of speech.",
+      "options_en": [
+        "Anaphora",
+        "Imagery",
+        "Onomatopoeia",
+        "Simile"
+      ],
+      "answer_en": "Anaphora",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b001",
+      "source_note": "pyq_1_10_b001"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "From what the future veils; but with a whole Mention the figure of speech used in the above line",
+      "options_en": [
+        "Personification",
+        "Metaphor",
+        "Simile",
+        "Oxymoron"
+      ],
+      "answer_en": "Personification",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b001",
+      "source_note": "pyq_1_10_b001"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "\"And Miles to go before I sleep\" In this line, the word \"sleep\" symbolizes ---------",
+      "options_en": [
+        "the symbol of power",
+        "the symbol of faith",
+        "the symbol of life",
+        "the symbol of death"
+      ],
+      "answer_en": "the symbol of death",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b001",
+      "source_note": "pyq_1_10_b001"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "\"My Heart will keep the courage of the Quest\" The word \"Quest\" means ---------",
+      "options_en": [
+        "Expressing great sadness",
+        "Long search for something difficult to find",
+        "To move very quickly",
+        ""
+      ],
+      "answer_en": "Long search for something difficult to find",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b001",
+      "source_note": "pyq_1_10_b001"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Let me but live my life from year to year,\nWith forward face and unreluctant soul.\nWhom does the word \"me\" refer to?",
+      "options_en": [
+        "Captain",
+        "Foreigner",
+        "The Poet",
+        "Sailor"
+      ],
+      "answer_en": "The Poet",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Pick out the words in alliteration in the below line :\n\"With forward face and unreluctant soul\";",
+      "options_en": [
+        "with, forward",
+        "forward, face",
+        "unreluctant, soul",
+        "with, soul"
+      ],
+      "answer_en": "forward, face",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Not hurrying to, nor turning from the goal\nNot mourning for the things that disappear.\nThe figure of speech used in the above lines is ---------",
+      "options_en": [
+        "Hyperbole",
+        "Metaphor",
+        "Simile",
+        "Anaphora"
+      ],
+      "answer_en": "Anaphora",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Let me but live my life from year to year with forward face and unreluctant soul\".\nWhat does the word \"Unreluctant\" refer to?",
+      "options_en": [
+        "Feeling joy",
+        "Understand",
+        "Willing to do something",
+        ""
+      ],
+      "answer_en": "Willing to do something",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "What does the word \"Unreluctant\" refer to?",
+      "options_en": [
+        "Feeling joy",
+        "Understand",
+        "Willing to do something",
+        "Expressing sad"
+      ],
+      "answer_en": "Willing to do something",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b003",
+      "source_note": "pyq_1_10_b003"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "\"O'er the rough or smooth, the journey will be joy\". Pick out the contrasting words in the given line.",
+      "options_en": [
+        "journey and joy",
+        "rough and smooth",
+        "O'er and will",
+        "rough and joy"
+      ],
+      "answer_en": "rough and smooth",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b003",
+      "source_note": "pyq_1_10_b003"
+    },
+    {
+      "poem_title": "I am Every Woman - Rakhi Nariani Shirke",
+      "poem_id": "i_am_every_woman_rakhi_nariani_shirke",
+      "question_en": "\"She's strong in her faith, firm in her belief\"! what is the figure of speech employed here?",
+      "options_en": [
+        "Allusion",
+        "Personification",
+        "Alliteration",
+        "Oxymoron"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b003",
+      "source_note": "pyq_1_10_b003"
+    },
+    {
+      "poem_title": "I am Every Woman - Rakhi Nariani Shirke",
+      "poem_id": "i_am_every_woman_rakhi_nariani_shirke",
+      "question_en": "A woman is beanty innate, A symbol of power and strength. She puts her life at stake, She's real, She's not fake! Who wrote the above poem?",
+      "options_en": [
+        "Lucy Maud Montgomery",
+        "Caroline Ann Bowles",
+        "Mary Botham Howitt",
+        "Rakhi Nariani Shirke"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b003",
+      "source_note": "pyq_1_10_b003"
+    },
+    {
+      "poem_title": "I am Every Woman - Rakhi Nariani Shirke",
+      "poem_id": "i_am_every_woman_rakhi_nariani_shirke",
+      "question_en": "'She's strong in her faith, firm in her belief' How may alliterated words are there in this line?",
+      "options_en": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b003",
+      "source_note": "pyq_1_10_b003"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "'Persistence is the key to everything' Whose poetic line is this?",
+      "options_en": [
+        "Rakhi Nariani Shirke",
+        "Robert Frost",
+        "Nadia Bush",
+        "Rudyard Kipling"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b004",
+      "source_note": "pyq_1_10_b004 Q62"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "\"She's a Lioness : don't mess with her\" Identify the figure of speech.",
+      "options_en": [
+        "Metaphor",
+        "Repetition",
+        "Simile",
+        "Alliteration"
+      ],
+      "answer_en": "Metaphor",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b004",
+      "source_note": "pyq_1_10_b004 Q17"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "Pick out the words in alliteration in the below line – \"A symbol of power and strength\"",
+      "options_en": [
+        "A, and",
+        "Symbol, power",
+        "Symbol, strength",
+        "Power, strength"
+      ],
+      "answer_en": "Symbol, strength",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b004",
+      "source_note": "pyq_1_10_b004 Q20"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "Strong is she in her faith and beliefs. \"Persistence is the key to everything\" says she. Who does \"She\" refer to here?",
+      "options_en": [
+        "The poet",
+        "Today's woman",
+        "Mother",
+        "Daughter"
+      ],
+      "answer_en": "Today's woman",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b004",
+      "source_note": "pyq_1_10_b004 Q27"
+    },
+    {
+      "poem_title": "A Woman is a Beauty (implied)",
+      "poem_id": "a_woman_is_a_beauty_implied",
+      "question_en": "Who does “She” refer to here?",
+      "options_en": [
+        "The poet",
+        "Today’s woman",
+        "Mother",
+        "Daughter"
+      ],
+      "answer_en": "Today’s woman",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "A Woman is a Beauty (implied)",
+      "poem_id": "a_woman_is_a_beauty_implied",
+      "question_en": "34. She’s a lioness, don’t mess with her\nShe’ll not spare you if you’re a prankster\nIdentify the poet who wrote the lines given above.",
+      "options_en": [
+        "John Keats",
+        "Rakhi Nariani Shirke",
+        "Henry Van Dyke",
+        "Rudyard Kipling"
+      ],
+      "answer_en": "Rakhi Nariani Shirke",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "15. The best example for Assonance is",
+      "options_en": [
+        "all we ask",
+        "run and race",
+        "which we live",
+        "stars will shine"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "16. ‘We are nothing more than children of your brain’\nWhom does ‘we’ refer to in the above line?",
+      "options_en": [
+        "Human beings",
+        "Poets",
+        "Machines",
+        "Actors"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "94. “We can see and hear and count and ready and write”!\nFind out the poetic device in the given line.",
+      "options_en": [
+        "Assonance",
+        "Metaphor",
+        "Imagery",
+        "Connotation"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "Complete the following poetic line by choosing the correct option given below \"We can Print and Plough and weave and ________\"",
+      "options_en": [
+        "fly and dive",
+        "read and write",
+        "weight and size",
+        "heat and light"
+      ],
+      "answer_en": "heat and light",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "\"Though our smoke may hide the Heavens from your eyes, It will vanish and the stars will shine again, Because, for all our power and weight and size, We are nothing more than children of your brain!\" What is the rhyme scheme of this stanza?",
+      "options_en": [
+        "a b b",
+        "b a b",
+        "b a a",
+        "b c d"
+      ],
+      "answer_en": "a b a b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "We were taken from the ore-bed and the mine. Who does 'We' refer to?",
+      "options_en": [
+        "Human beings",
+        "Ore-bed",
+        "Mine",
+        "Machines"
+      ],
+      "answer_en": "Machines",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "We were taken from the ore-bed and the mine, We were melted in the furnace and the pit We were cast and wrought and hammered to design, We were cut and filed and tooled and gauged to fit. Mention the rhyming words employed in the above lines",
+      "options_en": [
+        "mine-fit; design-pit",
+        "mine-design; pit-fit",
+        "fit-design; mine-pit",
+        "pit-pit; fit-fit"
+      ],
+      "answer_en": "mine-design; pit-fit",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "And new, if you will set us to our task we will serve you four and twenty hours a day. Figure out the poetic device used in the given lines.",
+      "options_en": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Repetition"
+      ],
+      "answer_en": "Personification",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "Because, for all our power and weight and size, We are nothing more than children of your brain! These lines are taken from the poem",
+      "options_en": [
+        "The secret of the Machines",
+        "Life",
+        "No Men are Foreign",
+        "The Ant and the Cricket"
+      ],
+      "answer_en": "The secret of the Machines",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "\"Because, for all our power and weight and size We are nothing more than children of your Brain\" What does the word \"we\" refer to?",
+      "options_en": [
+        "Birds",
+        "Animals",
+        "Trees",
+        "Machines"
+      ],
+      "answer_en": "Machines",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "Complete the following poetic line by choosing the correct option given below : \"We can see and hear and count and \".",
+      "options_en": [
+        "fly and dive",
+        "read and write",
+        "weight and size",
+        "heat and light"
+      ],
+      "answer_en": "read and write",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "Some water, coal, and oil is all we ask And a thousandth of an inch to give us play And now, if you will set us to our task We will serve you four and twenty hours a day! Pick out the Rhyming words from the given lines",
+      "options_en": [
+        "Play - Task / Ask - Day",
+        "Ask - Task / Play - Day",
+        "Ask - Play / Task - Day",
+        "Day - Task / Play - Ask"
+      ],
+      "answer_en": "Ask - Task / Play - Day",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b008",
+      "source_note": "pyq_1_10_b008"
+    },
+    {
+      "poem_title": "The Ant and The Cricket - Adapted from Aesop's fables",
+      "poem_id": "the_ant_and_the_cricket_adapted_from_aesop_s_fables",
+      "question_en": "Choose the best example for fables in the following list",
+      "options_en": [
+        "The ant and the cricket",
+        "The cat and the painkiller",
+        "The little hero of Holland",
+        "The comet"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b008",
+      "source_note": "pyq_1_10_b008"
+    },
+    {
+      "poem_title": "The Ant and The Cricket - Adapted from Aesop's fables",
+      "poem_id": "the_ant_and_the_cricket_adapted_from_aesop_s_fables",
+      "question_en": "'Some crickets have four legs, and some have two'. What do we understand from the poet's point of view?",
+      "options_en": [
+        "Life is to make merry",
+        "Hardwork and planning is important.",
+        "Learn to live; Live to learn",
+        "Man does change with time."
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b008",
+      "source_note": "pyq_1_10_b008"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "\"You Sang, Sir, you say? Go then, “Says the ant”, and dance the winter away\" To whom does the ant say this?",
+      "options_en": [
+        "To the fly",
+        "To the cricket",
+        "To the spider",
+        "To the bird"
+      ],
+      "answer_en": "To the cricket",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b009",
+      "source_note": "pyq_1_10_b009"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "My heart was so light That I sang day and Night For all nature looked gay \"You sang, sir, you say\"? Mention the rhyme scheme employed in the above lines",
+      "options_en": [
+        "a b c",
+        "a b b",
+        "b b a",
+        "b b b"
+      ],
+      "answer_en": "a a b b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b009",
+      "source_note": "pyq_1_10_b009"
+    },
+    {
+      "poem_title": "General English - Literary terms",
+      "poem_id": "general_english_literary_terms",
+      "question_en": "Fill in the blanks : Anthropomorphism means _______.",
+      "options_en": [
+        "Human character",
+        "Non-human character",
+        "Non-human character with Human traits",
+        "Human traits with Human character"
+      ],
+      "answer_en": "Non-human character with Human traits",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b009",
+      "source_note": "pyq_1_10_b009"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "At last by starvation and famine made bold. What is the meaning of the word “famine”?",
+      "options_en": [
+        "Hurriedly",
+        "Mouthful of grain",
+        "Miserly",
+        "Extreme scarcity of food"
+      ],
+      "answer_en": "Extreme scarcity of food",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b009",
+      "source_note": "pyq_1_10_b009"
+    },
+    {
+      "poem_title": "Multiple Poems",
+      "poem_id": "multiple_poems",
+      "question_en": "Match the following poem with their lines : (a) by starvation and famine made bold (b) love her, respect her, keep her (c) beneath all uniforms, a single body breathes (d) each day the house just begins to fade",
+      "options_en": [
+        "(A) 3 4 2 1",
+        "(B) 3 4 1 2",
+        "(C) 3 1 2 4",
+        "(D) 4 1 2 3"
+      ],
+      "answer_en": "(B) 3 4 1 2",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b010",
+      "source_note": "pyq_1_10_b010"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "Fill in the blanks : The Ant and the Cricket is _________ kind of poem.",
+      "options_en": [
+        "(A) Lyrics",
+        "(B) Sonnet",
+        "(C) A fable",
+        "(D) Acroestic poems"
+      ],
+      "answer_en": "(C) A fable",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b010",
+      "source_note": "pyq_1_10_b010"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "\"A Silly Young Cricket, accustomed to sing\" The above line appears in the poem _________",
+      "options_en": [
+        "(A) The Ant and the Cricket",
+        "(B) Life",
+        "(C) The Secret of the Machines",
+        "(D) No Men are Foreign"
+      ],
+      "answer_en": "(A) The Ant and the Cricket",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b010",
+      "source_note": "pyq_1_10_b010"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "Go then, \" Says the ant, \"and dance the winter away\" Thus ending, he hastily lifted the wicket Bring out the meaning of the word hastily",
+      "options_en": [
+        "(A) Happily",
+        "(B) Hurriedly",
+        "(C) Sadly",
+        "(D) Comfortably"
+      ],
+      "answer_en": "(B) Hurriedly",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b010",
+      "source_note": "pyq_1_10_b010"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "Bring out the meaning of the word hastily",
+      "options_en": [
+        "Happily",
+        "Hurriedly",
+        "Sadly",
+        "Comfortably"
+      ],
+      "answer_en": "Hurriedly",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b011",
+      "source_note": "pyq_1_10_b011"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "79. Not a crumb to be found\nOn the snow-covered ground ;\nNot a flower could he see,\nNot a leaf on tree.\nMention the rhyme scheme employed in the above lines.",
+      "options_en": [
+        "abab",
+        "aabb",
+        "abba",
+        "abaa"
+      ],
+      "answer_en": "aabb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b011",
+      "source_note": "pyq_1_10_b011"
+    },
+    {
+      "poem_title": "The Ant and the Cricket",
+      "poem_id": "the_ant_and_the_cricket",
+      "question_en": "84. The collection of fables from Ancient Greece is called ________",
+      "options_en": [
+        "Aristotle’s fables",
+        "Aesop’s fables",
+        "Shakespeare’s fables",
+        "Greek fables"
+      ],
+      "answer_en": "Aesop’s fables",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b011",
+      "source_note": "pyq_1_10_b011"
+    },
+    {
+      "poem_title": "No Men are Foreign - James Falconer Kirkup",
+      "poem_id": "no_men_are_foreign_james_falconer_kirkup",
+      "question_en": "18. What is the figure of speech employed in the following line?\n“Our hells of fire and dust outrage the innocence”.",
+      "options_en": [
+        "Metaphor",
+        "Repetition",
+        "Simile",
+        "Personification"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b011",
+      "source_note": "pyq_1_10_b011"
+    },
+    {
+      "poem_title": "No Men are Foreign - James Falconer Kirkup",
+      "poem_id": "no_men_are_foreign_james_falconer_kirkup",
+      "question_en": "98. Remember, no men are strange, no countries foreign\nBeneath all uniforms, a single body breathes\n...\t...\t...\t...\t...\t...\t...\t...\nOf air that is everywhere our own,\nRemember, no men are foreign, no countries strange.\nWhat literary device is used here?",
+      "options_en": [
+        "Metaphor",
+        "Repetition",
+        "Epithet",
+        "Simile"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b011",
+      "source_note": "pyq_1_10_b011"
+    },
+    {
+      "poem_title": "No Men Are Foreign",
+      "poem_id": "no_men_are_foreign",
+      "question_en": "Their hands are ours, and in their lines we read A labour not different from our own. Who does 'their' refer to?",
+      "options_en": [
+        "Indians",
+        "Foreigners",
+        "Poets",
+        "Strangers"
+      ],
+      "answer_en": "Foreigners",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b012",
+      "source_note": "No Men Are Foreign"
+    },
+    {
+      "poem_title": "No Men Are Foreign",
+      "poem_id": "no_men_are_foreign",
+      "question_en": "\"It is the human Earth that we defile\" The word 'Defile' means",
+      "options_en": [
+        "Damaged Values",
+        "Damaged Humanity",
+        "Damaged File",
+        "Damaged Appearance"
+      ],
+      "answer_en": "Damaged Appearance",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b012",
+      "source_note": "No Men Are Foreign"
+    },
+    {
+      "poem_title": "No Men Are Foreign",
+      "poem_id": "no_men_are_foreign",
+      "question_en": "Are fed by peaceful harvest, by war's long winter starv'd Identify the figure of speech employed in the above line",
+      "options_en": [
+        "Metaphor",
+        "Transferred epithet",
+        "Personification",
+        "Simile"
+      ],
+      "answer_en": "Transferred epithet",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b012",
+      "source_note": "No Men Are Foreign"
+    },
+    {
+      "poem_title": "General",
+      "poem_id": "general",
+      "question_en": "Match the poems with the poets : (a) No Men Are Foreign 1. Rudyard Kipling (b) I am every woman 2. Nadia Bush (c) The secret of the machines 3. James Falconer Kirkup (d) The House on Elm Street 4. Rakhi Nariani Shirke",
+      "options_en": [
+        "(a) 2 (b) 4 (c) 3 (d) 1",
+        "(a) 4 (b) 3 (c) 2 (d) 1",
+        "(a) 3 (b) 4 (c) 1 (d) 2",
+        "(a) 2 (b) 1 (c) 4 (d) 3"
+      ],
+      "answer_en": "(a) 3 (b) 4 (c) 1 (d) 2",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b012",
+      "source_note": "General Matching"
+    },
+    {
+      "poem_title": "No Men Are Foreign",
+      "poem_id": "no_men_are_foreign",
+      "question_en": "Beneath all uniforms, a single body breathes\nLike ours, the land our brothers walk upon\nIs earth like this, in which we all shall lie.\nFrom which 'Poem' these lines are taken?",
+      "options_en": [
+        "No Men Are Foreign",
+        "The House on Elm Street",
+        "The Spider and The Fly",
+        "The Stick-together Families"
+      ],
+      "answer_en": "No Men Are Foreign",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    },
+    {
+      "poem_title": "The House on Elm Street - Nadia Bush",
+      "poem_id": "the_house_on_elm_street_nadia_bush",
+      "question_en": "\"Sits there, never getting small or ever growing tall\". What does the word 'it' refer to?",
+      "options_en": [
+        "Land",
+        "House",
+        "Man",
+        "Tree"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    },
+    {
+      "poem_title": "The House on Elm Street - Nadia Bush",
+      "poem_id": "the_house_on_elm_street_nadia_bush",
+      "question_en": "\"Lights flicker on and off\"\nThe figure of speech used in the above lines is",
+      "options_en": [
+        "Simile",
+        "Onomatopoeia",
+        "Repetition",
+        "Hyperbole"
+      ],
+      "answer_en": "Onomatopoeia",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    },
+    {
+      "poem_title": "The House on Elm Street - Nadia Bush",
+      "poem_id": "the_house_on_elm_street_nadia_bush",
+      "question_en": "It sat alone.\nWhat happened there is still today unknown\nWhat does 'it' refer to?",
+      "options_en": [
+        "Moon",
+        "Street",
+        "Tree",
+        "House"
+      ],
+      "answer_en": "House",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b013",
+      "source_note": "pyq_1_10_b013"
+    },
+    {
+      "poem_title": "The House on Elm Street",
+      "poem_id": "the_house_on_elm_street",
+      "question_en": "25. Choose the right option : \"Beside the house sits a tree It never grows leaves\"..... These lines appear in the poem _________",
+      "options_en": [
+        "No Men are Foreign",
+        "A Poison Tree",
+        "The House on Elm Street",
+        "On Killing a Tree"
+      ],
+      "answer_en": "C The House on Elm Street",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "The House on Elm Street",
+      "poem_id": "the_house_on_elm_street",
+      "question_en": "26. I drive past the house almost every day. The house seems to be a bit brighter. Who does 'I' refer to?",
+      "options_en": [
+        "The House",
+        "The Tree",
+        "The Poet",
+        "The Ghost"
+      ],
+      "answer_en": "C The Poet",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "73. Which of the poetic lines given below was on the desk off Jawaharlal Nehru?",
+      "options_en": [
+        "and hope the road's last turn will be the best.",
+        "let me care for the ones who are near.",
+        "and miles to go before I sleep.",
+        "remember, no men are foreign, and no countries strange."
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "78. Match the poetic lines from column A with the correct poetic devices from column B.",
+      "options_en": [
+        "4 1 2 3",
+        "2 3 4 1",
+        "3 1 2 4",
+        ""
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "The woods are lovely, dark and deep, But I have promises to keep And miles to go before I sleep And miles to go before I sleep. Identify the figure of speech employed in the given stanza",
+      "options_en": [
+        "Personification",
+        "Simile",
+        "Metaphor",
+        "Repetition"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b015",
+      "source_note": "pyq_1_10_b015"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "And miles to go before I sleep And miles to go before I sleep. These lines are written by",
+      "options_en": [
+        "John Keats",
+        "William Blake",
+        "Robert Frost",
+        "Henry Van Dyke"
+      ],
+      "answer_en": "Robert Frost",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b015",
+      "source_note": "pyq_1_10_b015"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "“The woods are lovely dark and deep But I have promises to keep And miles to go before I sleep And miles to go before I sleep” Our former Prime Minister was so much impressed by the above lines what was he?",
+      "options_en": [
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Jawaharlal Nehru",
+        "Rajiv Gandhi"
+      ],
+      "answer_en": "Jawaharlal Nehru",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "“But I have Promises to keep And miles to go before I sleep and miles to go before I sleep” Identify the Figure of speech.",
+      "options_en": [
+        "Simile",
+        "Metaphore",
+        "Repetition",
+        "Personification"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "He will not see me stopping here To watch his woods fill up with snow. Who does ‘He’ refer to?",
+      "options_en": [
+        "The Poet",
+        "The Horse",
+        "The Horse Rider",
+        "The Owner of the Woods"
+      ],
+      "answer_en": "The Owner of the Woods",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "He gives his Harness bells a shake To ask if there is some mistake. Whom does “He” refer to in these lines?",
+      "options_en": [
+        "The Poet",
+        "The Owner of the Farm",
+        "The Villager",
+        "The Horse"
+      ],
+      "answer_en": "The Horse",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "89. \"The woods are lovely, dark and deep But I have promises to keep\" These lines are taken from the poem",
+      "options_en": [
+        "Poison Tree",
+        "Stopping by Woods on a Snowy Evening",
+        "On Killing a Tree",
+        "The River"
+      ],
+      "answer_en": "Stopping by Woods on a Snowy Evening",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "6. And I water'd it in fears, Night and morning with my tears: And I sunned it with smiles, And with soft deceitful wiles . Pick out the rhyme scheme employed in these lines.",
+      "options_en": [
+        "ab ab",
+        "aa bb",
+        "ab cb",
+        "ab ba"
+      ],
+      "answer_en": "aa bb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "48. Match the poems with their poets. Column A: (A) A Poison Tree (B) The Age of Chivalry (C) Wandering Singers (D) On killing a Tree. Column B: 1. George Krokos 2. Sarojini Naidu 3. Gieve Patel 4. William Blake",
+      "options_en": [
+        "(a) 2 (b) 4 (c) 3 (d) 1",
+        "(a) 2 (b) 1 (c) 4 (d) 3",
+        "(a) 3 (b) 4 (c) 1 (d) 2",
+        "(a) 4 (b) 1 (c) 2 (d) 3"
+      ],
+      "answer_en": "(a) 4 (b) 1 (c) 2 (d) 3",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "74. I was angry with my friend I told my wrath, my wrath did end I was angry with my foe I told it not, my wrath did grow Choose the correct rhyming word from the list",
+      "options_en": [
+        "b a b",
+        "a b b",
+        "b b c",
+        "b h c"
+      ],
+      "answer_en": "a a b b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "79. And it grew both day and night, Till it bore an apple bright. What grew both day and night?",
+      "options_en": [
+        "(A) apple",
+        "(B) enemy",
+        "(C) anger",
+        "(D) love"
+      ],
+      "answer_en": "(C) anger",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b018",
+      "source_note": "A Poison Tree"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "63. In the morning glad I see My foe outstretched beneath the tree How did the poet feel in the morning?",
+      "options_en": [
+        "(A) angry",
+        "(B) sad",
+        "(C) soft",
+        "(D) glad"
+      ],
+      "answer_en": "(D) glad",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b018",
+      "source_note": "A Poison Tree"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "22. \"I was angry with my friend : I told my wrath, my wrath did end\" These lines are taken from the poem",
+      "options_en": [
+        "(A) Special Hero",
+        "(B) Courage",
+        "(C) A Poison tree",
+        "(D) A Tragic story"
+      ],
+      "answer_en": "(C) A Poison tree",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b018",
+      "source_note": "A Poison Tree"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "And it grew both day and night till it bore an apple bright\nWhat grew both day and night?",
+      "options_en": [
+        "Apple",
+        "Joy",
+        "Anger",
+        "Poison"
+      ],
+      "answer_en": "Anger",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "'A tree doesn't grow in a day'\nChoose a relevant sentence that support the above line.",
+      "options_en": [
+        "Plant trees, save Earth.",
+        "Cutting a tree is an act of murder",
+        "It takes much time to kill a tree",
+        "Some trees are grown at overnight."
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "The poem \"On Killing a Tree\" is written by",
+      "options_en": [
+        "Norman Littleford",
+        "Caroline Ann Bowles",
+        "Edgar Albert Guest",
+        "Gieve Patel"
+      ],
+      "answer_en": "Gieve Patel",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "\"Twisting, withering\nAnd then it is done\".\nChoose the right answer :\nDeath of the tree is --------.",
+      "options_en": [
+        "Painful",
+        "Difficult",
+        "Joyful",
+        "Fast"
+      ],
+      "answer_en": "Painful",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "\"So hack and chop\nBut this alone won't do it\nNot so much pain will do it\".\nKilling a tree cannot be done merely by _________.",
+      "options_en": [
+        "Pulling",
+        "Chopping",
+        "Choking",
+        "Jabbing"
+      ],
+      "answer_en": "Chopping",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "'With buzzy wing she hung aloft, then near and nearer drew, Thinking only of her brilliant eyes, and green and purple hue'.\nWho does 'she' refer to?",
+      "options_en": [
+        "spider",
+        "fly",
+        "butterfly",
+        "cuckoo"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "'And now dear little children, who may this story read, To idle, silly flattering words, I pray you ne'er give heed'.",
+      "options_en": [
+        "The slick - together families",
+        "Lessons in life",
+        "Special Hero",
+        "The spider and the fly."
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "\"Oh, no, no\", said the little fly.\nWhat figure of speech is used here?",
+      "options_en": [
+        "Assonance",
+        "Alliteration",
+        "Anaphora",
+        "Repetition"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "\"Come Hither, Hither, Pretty Fly, with the pearl and silver wing\"\nThese words are spoken by",
+      "options_en": [
+        "The Ant",
+        "The Cricket",
+        "The Spider",
+        "The Honey Bee"
+      ],
+      "answer_en": "The Spider",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "With buzzing wings she hung aloft, then near and nearer drew Thinking only of her brilliant eyes, and green and purple hue Who does 'she' refer to?",
+      "options_en": [
+        "spider",
+        "ant",
+        "cricket",
+        "fly"
+      ],
+      "answer_en": "fly",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b021",
+      "source_note": "pyq_1_10_b021"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "'O'er the yellow pebbles dancing, through the flowers and foliage glancing' Pick out the rhyming words.",
+      "options_en": [
+        "flowers, foliage",
+        "O'er, through",
+        "dancing, glancing",
+        "the, the"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "'Over rocks, by rose-banks, sweeping like impetuous youth' Which stage of man is compared here?",
+      "options_en": [
+        "youth",
+        "adult",
+        "infant",
+        "old age"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "'Through the flowers and foliage glancing, Like a child at play' What is the figure of speech employed here?",
+      "options_en": [
+        "metaphor",
+        "simile",
+        "anaphora",
+        "epiteth"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "\"O'er the yellow pebbles dancing\" Identify the figure of speech",
+      "options_en": [
+        "Oxymoron",
+        "Onomatopoeia",
+        "Imagery",
+        "Anaphora"
+      ],
+      "answer_en": "Imagery",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "\"Broad and deep, and still as time; Seeming still, yet still in motion\" The given lines are taken from the poem",
+      "options_en": [
+        "The Comet",
+        "Poison tree",
+        "null",
+        "null"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "\"Through the flowers and foliage glancing\nLike a child at play\".\nMention the figure of speech used in the above lines.",
+      "options_en": [
+        "Imagery",
+        "Simile",
+        "Epithet",
+        "Metaphor"
+      ],
+      "answer_en": "Simile",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b001",
+      "source_note": "pyq_11_25_b001"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "River, river, little river!\nBright you sparkle on your way;\nO'er the yellow pebbles dancing,\nThrough the flowers and foliage glancing,\nLike a child at play.\nMention the rhyme scheme employed in the above lines",
+      "options_en": [
+        "b c c b",
+        "b b c b",
+        "a b b c",
+        "b c b c"
+      ],
+      "answer_en": "a b c c b",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b001",
+      "source_note": "pyq_11_25_b001"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "Through the flowers and foliage glancing,\nLike a child at play,\nThese lines are taken from the poem _________",
+      "options_en": [
+        "The River",
+        "The Poison Tree",
+        "The Comet",
+        "The Ant and the Cricket"
+      ],
+      "answer_en": "The River",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b001",
+      "source_note": "pyq_11_25_b001"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "Tending onward to the ocean just like mortal prime 'Mortal Prime' in the above lines refers to a ________.",
+      "options_en": [
+        "reckless youth",
+        "matured man",
+        "child",
+        "curious woman"
+      ],
+      "answer_en": "matured man",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "River, river, little river ! Bright you sparkle on your way ; O'er the yellow pebbles dancing, Through the flowers and foliage glancing, Like a child at play. Identify the figure of speech :",
+      "options_en": [
+        "Metaphor",
+        "Simile",
+        "Rhyming",
+        "None"
+      ],
+      "answer_en": "Simile",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Comet",
+      "poem_id": "the_comet",
+      "question_en": "'But I know no better spectacle Than a comet in full flight' Whose words are these?",
+      "options_en": [
+        "John Keats",
+        "Grieve Patel",
+        "Norman Little Ford",
+        "Robert frost"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Comet",
+      "poem_id": "the_comet",
+      "question_en": "'In the dust they leave behind, Could have started life on earth' What does the word 'they' refer to?",
+      "options_en": [
+        "comets",
+        "rockets",
+        "aeroplanes",
+        "trees"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Comet",
+      "poem_id": "the_comet",
+      "question_en": "'A spectacle of a lifetime A comet in full flight' What is a comet?",
+      "options_en": [
+        "humerous play",
+        "spectacle",
+        "Answer not known",
+        ""
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "Unknown",
+      "poem_id": "unknown",
+      "question_en": "'If one should come too close to earth The atmosphere will Shake, With shockwave reaching to the ground Causing the land to quake'. Mention the rhyme scheme of the stanza.",
+      "options_en": [
+        "a b b",
+        "b a b",
+        "b c b",
+        "b b b"
+      ],
+      "answer_en": "a b c b",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "'It's the stick-together family that wins the joys of earth,' Who wins the joys of the earth?",
+      "options_en": [
+        "Nuclear family",
+        "Traditional family",
+        "Orthodox family",
+        "The family that stays together"
+      ],
+      "answer_en": "The family that stays together",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "'That hears the sweetest music and that finds the finest mirth;' Identify the figure of speech used here.",
+      "options_en": [
+        "Metaphor",
+        "Personification",
+        "Imagery",
+        "Onomatopoeia"
+      ],
+      "answer_en": "Imagery",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "And the finest of conventions ever held beneath the Sun Are the little family gatherings when the busy day is done Find the poem from which these lines are taken",
+      "options_en": [
+        "The stick-together families",
+        "The comet",
+        "",
+        ""
+      ],
+      "answer_en": "The stick-together families",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "\"It's the stick together family\n- that wins the Joys of Earth\"\nIdentify the figure of Speech in the given line.",
+      "options_en": [
+        "Simile",
+        "Metaphor",
+        "Rhyme",
+        "Personification"
+      ],
+      "answer_en": "Personification",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "Our love is everlasting,\nI just wanted you to know,\nThat you're my special hero\nAnd I wanted to tell you so.\nWho is the special hero mentioned in the poem?",
+      "options_en": [
+        "father",
+        "mother",
+        "brother",
+        "friend"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "'I just wanted you to know,\nThat you're my special hero'\nWho is the special hero mentioned in these lines.",
+      "options_en": [
+        "mother",
+        "father",
+        "soldier",
+        "brother"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "'There is something special about a father's love'.\nPick out the words in alliteration",
+      "options_en": [
+        "something, special",
+        "father's, love",
+        "there, is",
+        "about, love"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "\"Our love is everlasting I just wanted you to know That you’re my special hero and I wanted to tell you so\". These lines are taken from the poem",
+      "options_en": [
+        "The Spider and the Fly",
+        "The Ant and the Cricket",
+        "No Men are Foreign",
+        "Special Hero"
+      ],
+      "answer_en": "D Special Hero",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "The poet Mary Ann Evans was popularly know by her pen name:-",
+      "options_en": [
+        "John Keats",
+        "George Eliot",
+        "William Blake",
+        "John Masefield"
+      ],
+      "answer_en": "B George Eliot",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Pick out the words in alliteration in the below line? 'And heaven a surer heritage'",
+      "options_en": [
+        "Surer, heritage",
+        "Heaven, heritage",
+        "Heritage, heritage",
+        "And, heritage"
+      ],
+      "answer_en": "B Heaven, heritage",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Every soul that touches yours- Be it the slightest contact- Get there from some good; Some little grace, one kindly thought\" Name the poet who wrote these poetic lines.",
+      "options_en": [
+        "George Eliot",
+        "Robert Frost",
+        "",
+        ""
+      ],
+      "answer_en": "A George Eliot",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Name the poet who wrote these poetic lines: 'Get there from some good; Some little grace, one kindly thought'",
+      "options_en": [
+        "George Eliot",
+        "Robert Frost",
+        "John Masefield",
+        "David Bates"
+      ],
+      "answer_en": "George Eliot",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "One bit of courage For the darkening sky; One gleam of faith To brave the thickening ills of life. These lines are taken from the poem",
+      "options_en": [
+        "Lessons in Life",
+        "Sea Fever",
+        "Making Life Worth While",
+        "Courage"
+      ],
+      "answer_en": "Making Life Worth While",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "One bit of courage for the darkening sky; Which quality is need for the darkening sky?",
+      "options_en": [
+        "grace",
+        "courage",
+        "faith",
+        "brave"
+      ],
+      "answer_en": "courage",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "A Thing of Beauty - John Keats",
+      "poem_id": "a_thing_of_beauty_john_keats",
+      "question_en": "'A thing of beauty is a joy forever' Whose words are these?",
+      "options_en": [
+        "John Milton",
+        "William words worth",
+        "William Blake",
+        "John keats"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "A Thing of Beauty - John Keats",
+      "poem_id": "a_thing_of_beauty_john_keats",
+      "question_en": "\"A thing of beauty is a joy forever\" is a short piece taken from the poem",
+      "options_en": [
+        "Endymion",
+        "The Solitary Reaper",
+        "Ode to the West Wind",
+        "Kubla Khan"
+      ],
+      "answer_en": "Endymion",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "Endymion",
+      "poem_id": "endymion",
+      "question_en": "97. 'A thing of beauty is a joy forever' The above line is written by",
+      "options_en": [
+        "John Keats",
+        "John Kennedy",
+        "John Smith",
+        "William Wordsworth"
+      ],
+      "answer_en": "John Keats",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b007",
+      "source_note": "pyq_11_25_b007"
+    },
+    {
+      "poem_title": "Endymion",
+      "poem_id": "endymion",
+      "question_en": "19. Trees old, and young, sprouting a shady boon. Pick out the alliterated words",
+      "options_en": [
+        "Trees - Old",
+        "Old - Young",
+        "Old - Boon",
+        "Sprouting - Shady"
+      ],
+      "answer_en": "Sprouting - Shady",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b007",
+      "source_note": "pyq_11_25_b007"
+    },
+    {
+      "poem_title": "Endymion",
+      "poem_id": "endymion",
+      "question_en": "26. \"A thing of Beauty is a joy forever\" The above line was written by the famous poet ________",
+      "options_en": [
+        "John Keats",
+        "William Wordsworth",
+        "George Eliot",
+        "Rabindranath Tagore"
+      ],
+      "answer_en": "John Keats",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b007",
+      "source_note": "pyq_11_25_b007"
+    },
+    {
+      "poem_title": "Endymion",
+      "poem_id": "endymion",
+      "question_en": "80. \"A flowery band to bind us to the earth\" Identify the figure of speech.",
+      "options_en": [
+        "Simile",
+        "Alliteration",
+        "Personification",
+        "Repetition"
+      ],
+      "answer_en": "Alliteration",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b007",
+      "source_note": "pyq_11_25_b007"
+    },
+    {
+      "poem_title": "A Thing of Beauty",
+      "poem_id": "a_thing_of_beauty",
+      "question_en": "With the green world they live in ; and clear rills, That for themselves a cooling covert make. Pick out the alliterated words.",
+      "options_en": [
+        "clear - rills",
+        "covert - make",
+        "green - world",
+        "cooling - covert"
+      ],
+      "answer_en": "cooling - covert",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "A Thing of Beauty",
+      "poem_id": "a_thing_of_beauty",
+      "question_en": "\"A thing of beauty is a joy forever Its loveliness increases, it will never Pass into nothingness\" The phrase \"pass into nothingness\" means that beautiful things never _________.",
+      "options_en": [
+        "create unpleasantness between friends",
+        "fade away",
+        "bring happiness",
+        "give us peace"
+      ],
+      "answer_en": "fade away",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"I respect you and you respect I think of you and you think of me\" The above lines are written by",
+      "options_en": [
+        "John Keats",
+        "George Eliot",
+        "Shanthini Govindan",
+        "Bridgette Bryant & Daniel Ho"
+      ],
+      "answer_en": "Bridgette Bryant & Daniel Ho",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Remember everyone here is important When you’re forgotten it makes you feel sad Know that you matter and you make a difference Let no one shame you or make you feel bad What is the rhyme scheme of this Stanza?",
+      "options_en": [
+        "abcd",
+        "abcb",
+        "aabc",
+        ""
+      ],
+      "answer_en": "abcb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "What is the rhyme scheme of this Stanza?",
+      "options_en": [
+        "abcd",
+        "abcb",
+        "aabc",
+        "abcc"
+      ],
+      "answer_en": "abcb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Having a friend is like planting a flower. Show love and kindness it one day will bloom\". These lines are taken from the poem",
+      "options_en": [
+        "Courage",
+        "Lessons in life",
+        "tragic story",
+        "No men are foreign"
+      ],
+      "answer_en": "Lessons in life",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Having a friend is like planting a flower\" planting a flower is compared to",
+      "options_en": [
+        "having a foe",
+        "having a friend",
+        "the smallest of gifts",
+        "the tiniest creature in a room"
+      ],
+      "answer_en": "having a friend",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "Choose the right answer from the options : Even the smallest of Gifts deserves \"__________\"",
+      "options_en": [
+        "Love You",
+        "Admire You",
+        "Thank You",
+        "Hate You"
+      ],
+      "answer_en": "Thank You",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "Her hair is always a rat's nest in the morning. Identify the figure of speech in the given line.",
+      "options_en": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Repetition"
+      ],
+      "answer_en": "Metaphor",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "Having a friend is like planting a flower. Identify the figure of speech in the given line.",
+      "options_en": [
+        "Metaphor",
+        "Simile",
+        "Personification",
+        "Anaphora"
+      ],
+      "answer_en": "B Simile",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b010",
+      "source_note": "pyq_11_25_b010"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "I respect you and you respect I think of you and you think of me. These lines are taken from the poem ________",
+      "options_en": [
+        "Life",
+        "I am Every Woman",
+        "The Spider and the Fly",
+        "Lessons in Life"
+      ],
+      "answer_en": "D Lessons in Life",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b010",
+      "source_note": "pyq_11_25_b010"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "Which one of the given options is a Metaphor?",
+      "options_en": [
+        "Life is like a Chocolate box",
+        "Raj is like his twin brother",
+        "His words are Pearls of wisdom",
+        "The bus is slow as a snail"
+      ],
+      "answer_en": "C His words are Pearls of wisdom",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b010",
+      "source_note": "pyq_11_25_b010"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "What kind of creatures does this planet earth also belong to?",
+      "options_en": [
+        "Longest",
+        "Tallest",
+        "Highest",
+        "Tiniest"
+      ],
+      "answer_en": "D Tiniest",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b010",
+      "source_note": "pyq_11_25_b010"
+    },
+    {
+      "poem_title": "My Computer Needs a Break",
+      "poem_id": "my_computer_needs_a_break",
+      "question_en": "\"My computer has always been so brainy and smart, It seems to know mountains of information by heart\" The figure of speech used in the above lines is",
+      "options_en": [
+        "Simile",
+        "Hyperbole",
+        "Repetition",
+        "Anaphora"
+      ],
+      "answer_en": "Hyperbole",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b011",
+      "source_note": "pyq_11_25_b011"
+    },
+    {
+      "poem_title": "My Computer Needs a Break",
+      "poem_id": "my_computer_needs_a_break",
+      "question_en": "It forgets to 'Save' my work, and store it away And instead, makes it vanish in the most dreadful way. Mention the title of the poem for the above lines",
+      "options_en": [
+        "Special Hero",
+        "My Computer Needs a Break",
+        "Lessons in Life",
+        "Thing of Beauty"
+      ],
+      "answer_en": "My Computer Needs a Break",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b011",
+      "source_note": "pyq_11_25_b011"
+    },
+    {
+      "poem_title": "My Computer Needs a Break",
+      "poem_id": "my_computer_needs_a_break",
+      "question_en": "Shanthini Govindan is an author of",
+      "options_en": [
+        "Crime Stories",
+        "Historical Sketches",
+        "Children's Literature",
+        "Religious Stories"
+      ],
+      "answer_en": "Children's Literature",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b011",
+      "source_note": "pyq_11_25_b011"
+    },
+    {
+      "poem_title": "My Computer Needs a Break",
+      "poem_id": "my_computer_needs_a_break",
+      "question_en": "So I had to call in a doctor, double quick. Which of the following poetic device is used in the given line?",
+      "options_en": [
+        "Simile",
+        "Metaphor",
+        "Alliteration",
+        "Hyperbole"
+      ],
+      "answer_en": "Alliteration",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b011",
+      "source_note": "pyq_11_25_b011"
+    },
+    {
+      "poem_title": "My Computer Needs a Break",
+      "poem_id": "my_computer_needs_a_break",
+      "question_en": "But of late, my computer has been behaving badly too, It so absent minded, that I don't know what to do. What is the figure of speech used in these lines?",
+      "options_en": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Anaphora"
+      ],
+      "answer_en": "Personification",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b011",
+      "source_note": "pyq_11_25_b011"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "5. Speak gently to the erring-know, They may have toiled in vain; Find out the meaning of the word \"toiled\" from the given poetic lines",
+      "options_en": [
+        "Emphasise",
+        "Worried",
+        "Worked hard",
+        "Rough"
+      ],
+      "answer_en": "Worked hard",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "6. \"Speak gently-let not harsh words mar The good we might do Here! The poet's appeal is not to speak ________ words.",
+      "options_en": [
+        "Impolite",
+        "Polite",
+        "Perplexing",
+        "Clear"
+      ],
+      "answer_en": "Impolite",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "32. Choose the best option : \"Speak gently to the little child! Its love be sure to gain\" These lines are from David Bates' poem ________",
+      "options_en": [
+        "Team Work",
+        "Your Space",
+        "Special Hero",
+        "Tragic Story"
+      ],
+      "answer_en": "Your Space",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "78. Speak gently to the little child ! Its love be sure to gain ; Teach it in accents soft and mild : It may not long remain. Mention the rhyme scheme employed in the above lines",
+      "options_en": [
+        "abbb",
+        "aabb",
+        "abab",
+        "abba"
+      ],
+      "answer_en": "abab",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "The poet John Masefield was appointed by Queen Elizabeth as",
+      "options_en": [
+        "Minister for Human Resources",
+        "Poet Laureate",
+        "Bard of Avon",
+        "Speaker of English Parliament"
+      ],
+      "answer_en": "Poet Laureate",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "The poet wants to travel desparately on which thing? Describing his love for the sea, the poet says that “the call of the running tide” is",
+      "options_en": [
+        "loving call",
+        "gentle call",
+        "wild call",
+        "hasty call"
+      ],
+      "answer_en": "A wild call",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "“And all I ask is a merry yarn from a laughing fellow - rover” Bring out the meaning of the word “rover”",
+      "options_en": [
+        "jumping",
+        "running",
+        "wandering",
+        "breaking"
+      ],
+      "answer_en": "wandering",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "The poet yearns to go by a ————— to the lonely sea.",
+      "options_en": [
+        "long boat",
+        "big boat",
+        "tall ship",
+        "an aeroplane"
+      ],
+      "answer_en": "a tall ship",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "Courage is more than a daring deed : It's the breath of life and a strong man's creed These lines are taken from the poem",
+      "options_en": [
+        "Your space",
+        "Sea forever",
+        "Courage",
+        "Lessons in life"
+      ],
+      "answer_en": "Courage",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "It's the breath of life and a strong man's creed. These lines are taken from the poem",
+      "options_en": [
+        "Your space",
+        "Sea forever",
+        "Courage",
+        "Lessons in life"
+      ],
+      "answer_en": "Courage",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "In the poem 'Courage', is not something can be called",
+      "options_en": [
+        "brilliant dash",
+        "Honest fall",
+        "Silent emotion",
+        "Beautiful expression"
+      ],
+      "answer_en": "A brilliant dash",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "Courage isn't a brilliant dash, A daring deed in a moment's flash; It isn't an instantaneous thing Born of despair with a sudden spring. Mention the Rhyme scheme employed in the given lines.",
+      "options_en": [
+        "ab ab",
+        "aa bb",
+        "ba ab",
+        "none"
+      ],
+      "answer_en": "aa bb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "And ever again, in the wink of an eye, Painted stations whistle by. 'Wink of an eye' in the above lines mean",
+      "options_en": [
+        "Very neat",
+        "Very smooth",
+        "Very smart",
+        "Very quick"
+      ],
+      "answer_en": "Very quick",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "All of the sights of the hill and plain\nFly as thick as driving rain;\nThe figure of speech used in the above line is",
+      "options_en": [
+        "Simile",
+        "Oxymoron",
+        "Repetition",
+        "Metaphor"
+      ],
+      "answer_en": "Simile",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "Faster than a Cheetah\nWith a tail that's miles long,\nBigger than a mountain\nSo powerful and strong\nPick out the rhyming words employed in the above lines.",
+      "options_en": [
+        "Cheetah - strong",
+        "Long - mountain",
+        "Long - strong",
+        "Mountain - strong"
+      ],
+      "answer_en": "Long - strong",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "\"Each a Glimpse and gone forever!\"\nThis line is taken from the poem ________.",
+      "options_en": [
+        "Team work",
+        "tragic story",
+        "Indian seasons",
+        "From a railway carriage"
+      ],
+      "answer_en": "From a railway carriage",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "Indian Seasons - Nisha Dyrene",
+      "poem_id": "indian_seasons_nisha_dyrene",
+      "question_en": "Summer comes\nin a blaze of heat\nwith sunny smiles\nand dusty feet\nName the season mentioned in the above line",
+      "options_en": [
+        "Winter",
+        "Spring",
+        "Rainy",
+        "Summer"
+      ],
+      "answer_en": "Summer",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "Indian Seasons",
+      "poem_id": "indian_seasons",
+      "question_en": "\"Summer comes in a blaze of Heat with sunny smiles and dusty feet.\" These lines are taken from the poem",
+      "options_en": [
+        "A Tragic Story",
+        "The Crocodile",
+        "Indian Seasons",
+        "Trees"
+      ],
+      "answer_en": "C Indian Seasons",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    },
+    {
+      "poem_title": "Spring is Pretty",
+      "poem_id": "spring_is_pretty",
+      "question_en": "Spring is Pretty but short and sweet when you can smell the grass From your garden seat Who does \"You\" refer to?",
+      "options_en": [
+        "The Poet",
+        "Spring",
+        "People",
+        "Autumn"
+      ],
+      "answer_en": "C People",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    },
+    {
+      "poem_title": "A Tragic Story",
+      "poem_id": "a_tragic_story",
+      "question_en": "There lived a sage in days of yore, And he a handsome pigtail wore. These lines are taken from the poem",
+      "options_en": [
+        "Indian Seasons",
+        "A Tragic Story",
+        "Your Space",
+        "Lessons in Life"
+      ],
+      "answer_en": "B A Tragic Story",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "24. And though his efforts never slack\nAnd though he twist, and twirl, and tack\nPick out the rhyming words in the above lines",
+      "options_en": [
+        "slack, tack",
+        "efforts, twist",
+        "though, twist",
+        "twirl, tack"
+      ],
+      "answer_en": "slack, tack",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b017",
+      "source_note": "pyq_11_25_b017"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "80. The best novel of William Makepeace Thackeray is",
+      "options_en": [
+        "The citadel",
+        "Vanity Fair",
+        "David Copper field",
+        "Malgudi days"
+      ],
+      "answer_en": "Vanity Fair",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b017",
+      "source_note": "pyq_11_25_b017"
+    },
+    {
+      "poem_title": "unknown",
+      "poem_id": "unknown",
+      "question_en": "29. “Let us learn to walk with a smile and a song.\nNo matter if things do sometimes go wrong”\nWhat does the poet expect everyone to learn?",
+      "options_en": [
+        "To be sad",
+        "To be cheerful",
+        "To be courageous",
+        "To be mournful"
+      ],
+      "answer_en": "To be cheerful",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b017",
+      "source_note": "pyq_11_25_b017"
+    }
+  ],
+  "by_poem_syllabus": {
+    "from_a_railway_carriage": 4,
+    "a_tragic_story": 1,
+    "sea_fever": 4,
+    "courage": 4,
+    "your_space": 4,
+    "special_hero": 4,
+    "stopping_by_woods_on_a_snowy_evening": 10,
+    "a_poison_tree": 7,
+    "on_killing_a_tree": 4,
+    "the_spider_and_the_fly": 5,
+    "the_river": 10,
+    "the_comet": 3,
+    "the_stick_together_families": 4,
+    "life": 18,
+    "the_secret_of_the_machines": 11
+  },
+  "questions_syllabus": [
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "My heart will keep the courage of the quest, And hope the road's last turn will be the best. Who wrote the above poem?",
+      "options_en": [
+        "Robert Frost",
+        "John Keats",
+        "Henry Van Dyke",
+        "William Wordsworth"
+      ],
+      "answer_en": "Henry Van Dyke",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "'Let me but live my life from year to year With forward face and unreluctant soul' What is the mood of the poet?",
+      "options_en": [
+        "sad",
+        "happy",
+        "confident",
+        "worry"
+      ],
+      "answer_en": "confident",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Choose the correct poet who wrote the poem with the theme of journey of life.",
+      "options_en": [
+        "Edgar Albert Guest",
+        "Henry Van Dyke",
+        "George Elliot",
+        "Brigette Bryant"
+      ],
+      "answer_en": "Henry Van Dyke",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "In poetry, a sonnet has",
+      "options_en": [
+        "8 lines",
+        "14 lines",
+        "12 lines",
+        "10 lines"
+      ],
+      "answer_en": "14 lines",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b000",
+      "source_note": "pyq_1_10_b000"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "\"And Miles to go before I sleep\" In this line, the word \"sleep\" symbolizes ---------",
+      "options_en": [
+        "the symbol of power",
+        "the symbol of faith",
+        "the symbol of life",
+        "the symbol of death"
+      ],
+      "answer_en": "the symbol of death",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b001",
+      "source_note": "pyq_1_10_b001"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Let me but live my life from year to year,\nWith forward face and unreluctant soul.\nWhom does the word \"me\" refer to?",
+      "options_en": [
+        "Captain",
+        "Foreigner",
+        "The Poet",
+        "Sailor"
+      ],
+      "answer_en": "The Poet",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Pick out the words in alliteration in the below line :\n\"With forward face and unreluctant soul\";",
+      "options_en": [
+        "with, forward",
+        "forward, face",
+        "unreluctant, soul",
+        "with, soul"
+      ],
+      "answer_en": "forward, face",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Not hurrying to, nor turning from the goal\nNot mourning for the things that disappear.\nThe figure of speech used in the above lines is ---------",
+      "options_en": [
+        "Hyperbole",
+        "Metaphor",
+        "Simile",
+        "Anaphora"
+      ],
+      "answer_en": "Anaphora",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Let me but live my life from year to year with forward face and unreluctant soul\".\nWhat does the word \"Unreluctant\" refer to?",
+      "options_en": [
+        "Feeling joy",
+        "Understand",
+        "Willing to do something",
+        ""
+      ],
+      "answer_en": "Willing to do something",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b002",
+      "source_note": "pyq_1_10_b002"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "15. The best example for Assonance is",
+      "options_en": [
+        "all we ask",
+        "run and race",
+        "which we live",
+        "stars will shine"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "16. ‘We are nothing more than children of your brain’\nWhom does ‘we’ refer to in the above line?",
+      "options_en": [
+        "Human beings",
+        "Poets",
+        "Machines",
+        "Actors"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "94. “We can see and hear and count and ready and write”!\nFind out the poetic device in the given line.",
+      "options_en": [
+        "Assonance",
+        "Metaphor",
+        "Imagery",
+        "Connotation"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b005",
+      "source_note": "pyq_1_10_b005"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "Complete the following poetic line by choosing the correct option given below \"We can Print and Plough and weave and ________\"",
+      "options_en": [
+        "fly and dive",
+        "read and write",
+        "weight and size",
+        "heat and light"
+      ],
+      "answer_en": "heat and light",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "\"Though our smoke may hide the Heavens from your eyes, It will vanish and the stars will shine again, Because, for all our power and weight and size, We are nothing more than children of your brain!\" What is the rhyme scheme of this stanza?",
+      "options_en": [
+        "a b b",
+        "b a b",
+        "b a a",
+        "b c d"
+      ],
+      "answer_en": "a b a b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "We were taken from the ore-bed and the mine. Who does 'We' refer to?",
+      "options_en": [
+        "Human beings",
+        "Ore-bed",
+        "Mine",
+        "Machines"
+      ],
+      "answer_en": "Machines",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "We were taken from the ore-bed and the mine, We were melted in the furnace and the pit We were cast and wrought and hammered to design, We were cut and filed and tooled and gauged to fit. Mention the rhyming words employed in the above lines",
+      "options_en": [
+        "mine-fit; design-pit",
+        "mine-design; pit-fit",
+        "fit-design; mine-pit",
+        "pit-pit; fit-fit"
+      ],
+      "answer_en": "mine-design; pit-fit",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b006",
+      "source_note": "pyq_1_10_b006"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "And new, if you will set us to our task we will serve you four and twenty hours a day. Figure out the poetic device used in the given lines.",
+      "options_en": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Repetition"
+      ],
+      "answer_en": "Personification",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "Because, for all our power and weight and size, We are nothing more than children of your brain! These lines are taken from the poem",
+      "options_en": [
+        "The secret of the Machines",
+        "Life",
+        "No Men are Foreign",
+        "The Ant and the Cricket"
+      ],
+      "answer_en": "The secret of the Machines",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "\"Because, for all our power and weight and size We are nothing more than children of your Brain\" What does the word \"we\" refer to?",
+      "options_en": [
+        "Birds",
+        "Animals",
+        "Trees",
+        "Machines"
+      ],
+      "answer_en": "Machines",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "The Secret of the Machines",
+      "poem_id": "the_secret_of_the_machines",
+      "question_en": "Complete the following poetic line by choosing the correct option given below : \"We can see and hear and count and \".",
+      "options_en": [
+        "fly and dive",
+        "read and write",
+        "weight and size",
+        "heat and light"
+      ],
+      "answer_en": "read and write",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b007",
+      "source_note": "pyq_1_10_b007"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "73. Which of the poetic lines given below was on the desk off Jawaharlal Nehru?",
+      "options_en": [
+        "and hope the road's last turn will be the best.",
+        "let me care for the ones who are near.",
+        "and miles to go before I sleep.",
+        "remember, no men are foreign, and no countries strange."
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "78. Match the poetic lines from column A with the correct poetic devices from column B.",
+      "options_en": [
+        "4 1 2 3",
+        "2 3 4 1",
+        "3 1 2 4",
+        ""
+      ],
+      "answer_en": "null",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b014",
+      "source_note": "pyq_1_10_b014"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "The woods are lovely, dark and deep, But I have promises to keep And miles to go before I sleep And miles to go before I sleep. Identify the figure of speech employed in the given stanza",
+      "options_en": [
+        "Personification",
+        "Simile",
+        "Metaphor",
+        "Repetition"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b015",
+      "source_note": "pyq_1_10_b015"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "And miles to go before I sleep And miles to go before I sleep. These lines are written by",
+      "options_en": [
+        "John Keats",
+        "William Blake",
+        "Robert Frost",
+        "Henry Van Dyke"
+      ],
+      "answer_en": "Robert Frost",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b015",
+      "source_note": "pyq_1_10_b015"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "“The woods are lovely dark and deep But I have promises to keep And miles to go before I sleep And miles to go before I sleep” Our former Prime Minister was so much impressed by the above lines what was he?",
+      "options_en": [
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Jawaharlal Nehru",
+        "Rajiv Gandhi"
+      ],
+      "answer_en": "Jawaharlal Nehru",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "“But I have Promises to keep And miles to go before I sleep and miles to go before I sleep” Identify the Figure of speech.",
+      "options_en": [
+        "Simile",
+        "Metaphore",
+        "Repetition",
+        "Personification"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "He will not see me stopping here To watch his woods fill up with snow. Who does ‘He’ refer to?",
+      "options_en": [
+        "The Poet",
+        "The Horse",
+        "The Horse Rider",
+        "The Owner of the Woods"
+      ],
+      "answer_en": "The Owner of the Woods",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "He gives his Harness bells a shake To ask if there is some mistake. Whom does “He” refer to in these lines?",
+      "options_en": [
+        "The Poet",
+        "The Owner of the Farm",
+        "The Villager",
+        "The Horse"
+      ],
+      "answer_en": "The Horse",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b016",
+      "source_note": "pyq_1_10_b016"
+    },
+    {
+      "poem_title": "Stopping by Woods on a Snowy Evening",
+      "poem_id": "stopping_by_woods_on_a_snowy_evening",
+      "question_en": "89. \"The woods are lovely, dark and deep But I have promises to keep\" These lines are taken from the poem",
+      "options_en": [
+        "Poison Tree",
+        "Stopping by Woods on a Snowy Evening",
+        "On Killing a Tree",
+        "The River"
+      ],
+      "answer_en": "Stopping by Woods on a Snowy Evening",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "6. And I water'd it in fears, Night and morning with my tears: And I sunned it with smiles, And with soft deceitful wiles . Pick out the rhyme scheme employed in these lines.",
+      "options_en": [
+        "ab ab",
+        "aa bb",
+        "ab cb",
+        "ab ba"
+      ],
+      "answer_en": "aa bb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "48. Match the poems with their poets. Column A: (A) A Poison Tree (B) The Age of Chivalry (C) Wandering Singers (D) On killing a Tree. Column B: 1. George Krokos 2. Sarojini Naidu 3. Gieve Patel 4. William Blake",
+      "options_en": [
+        "(a) 2 (b) 4 (c) 3 (d) 1",
+        "(a) 2 (b) 1 (c) 4 (d) 3",
+        "(a) 3 (b) 4 (c) 1 (d) 2",
+        "(a) 4 (b) 1 (c) 2 (d) 3"
+      ],
+      "answer_en": "(a) 4 (b) 1 (c) 2 (d) 3",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "74. I was angry with my friend I told my wrath, my wrath did end I was angry with my foe I told it not, my wrath did grow Choose the correct rhyming word from the list",
+      "options_en": [
+        "b a b",
+        "a b b",
+        "b b c",
+        "b h c"
+      ],
+      "answer_en": "a a b b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b017",
+      "source_note": "pyq_1_10_b017"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "79. And it grew both day and night, Till it bore an apple bright. What grew both day and night?",
+      "options_en": [
+        "(A) apple",
+        "(B) enemy",
+        "(C) anger",
+        "(D) love"
+      ],
+      "answer_en": "(C) anger",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b018",
+      "source_note": "A Poison Tree"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "63. In the morning glad I see My foe outstretched beneath the tree How did the poet feel in the morning?",
+      "options_en": [
+        "(A) angry",
+        "(B) sad",
+        "(C) soft",
+        "(D) glad"
+      ],
+      "answer_en": "(D) glad",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b018",
+      "source_note": "A Poison Tree"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "22. \"I was angry with my friend : I told my wrath, my wrath did end\" These lines are taken from the poem",
+      "options_en": [
+        "(A) Special Hero",
+        "(B) Courage",
+        "(C) A Poison tree",
+        "(D) A Tragic story"
+      ],
+      "answer_en": "(C) A Poison tree",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b018",
+      "source_note": "A Poison Tree"
+    },
+    {
+      "poem_title": "A Poison Tree",
+      "poem_id": "a_poison_tree",
+      "question_en": "And it grew both day and night till it bore an apple bright\nWhat grew both day and night?",
+      "options_en": [
+        "Apple",
+        "Joy",
+        "Anger",
+        "Poison"
+      ],
+      "answer_en": "Anger",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "'A tree doesn't grow in a day'\nChoose a relevant sentence that support the above line.",
+      "options_en": [
+        "Plant trees, save Earth.",
+        "Cutting a tree is an act of murder",
+        "It takes much time to kill a tree",
+        "Some trees are grown at overnight."
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "The poem \"On Killing a Tree\" is written by",
+      "options_en": [
+        "Norman Littleford",
+        "Caroline Ann Bowles",
+        "Edgar Albert Guest",
+        "Gieve Patel"
+      ],
+      "answer_en": "Gieve Patel",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "\"Twisting, withering\nAnd then it is done\".\nChoose the right answer :\nDeath of the tree is --------.",
+      "options_en": [
+        "Painful",
+        "Difficult",
+        "Joyful",
+        "Fast"
+      ],
+      "answer_en": "Painful",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b019",
+      "source_note": "pyq_1_10_b019"
+    },
+    {
+      "poem_title": "On Killing a Tree",
+      "poem_id": "on_killing_a_tree",
+      "question_en": "\"So hack and chop\nBut this alone won't do it\nNot so much pain will do it\".\nKilling a tree cannot be done merely by _________.",
+      "options_en": [
+        "Pulling",
+        "Chopping",
+        "Choking",
+        "Jabbing"
+      ],
+      "answer_en": "Chopping",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "'With buzzy wing she hung aloft, then near and nearer drew, Thinking only of her brilliant eyes, and green and purple hue'.\nWho does 'she' refer to?",
+      "options_en": [
+        "spider",
+        "fly",
+        "butterfly",
+        "cuckoo"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "'And now dear little children, who may this story read, To idle, silly flattering words, I pray you ne'er give heed'.",
+      "options_en": [
+        "The slick - together families",
+        "Lessons in life",
+        "Special Hero",
+        "The spider and the fly."
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "\"Oh, no, no\", said the little fly.\nWhat figure of speech is used here?",
+      "options_en": [
+        "Assonance",
+        "Alliteration",
+        "Anaphora",
+        "Repetition"
+      ],
+      "answer_en": "Repetition",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "\"Come Hither, Hither, Pretty Fly, with the pearl and silver wing\"\nThese words are spoken by",
+      "options_en": [
+        "The Ant",
+        "The Cricket",
+        "The Spider",
+        "The Honey Bee"
+      ],
+      "answer_en": "The Spider",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b020",
+      "source_note": "pyq_1_10_b020"
+    },
+    {
+      "poem_title": "The Spider and The Fly",
+      "poem_id": "the_spider_and_the_fly",
+      "question_en": "With buzzing wings she hung aloft, then near and nearer drew Thinking only of her brilliant eyes, and green and purple hue Who does 'she' refer to?",
+      "options_en": [
+        "spider",
+        "ant",
+        "cricket",
+        "fly"
+      ],
+      "answer_en": "fly",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (1-10) (1).pdf",
+      "source_band": "pyq_1_10_b021",
+      "source_note": "pyq_1_10_b021"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "'O'er the yellow pebbles dancing, through the flowers and foliage glancing' Pick out the rhyming words.",
+      "options_en": [
+        "flowers, foliage",
+        "O'er, through",
+        "dancing, glancing",
+        "the, the"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "'Over rocks, by rose-banks, sweeping like impetuous youth' Which stage of man is compared here?",
+      "options_en": [
+        "youth",
+        "adult",
+        "infant",
+        "old age"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "'Through the flowers and foliage glancing, Like a child at play' What is the figure of speech employed here?",
+      "options_en": [
+        "metaphor",
+        "simile",
+        "anaphora",
+        "epiteth"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "\"O'er the yellow pebbles dancing\" Identify the figure of speech",
+      "options_en": [
+        "Oxymoron",
+        "Onomatopoeia",
+        "Imagery",
+        "Anaphora"
+      ],
+      "answer_en": "Imagery",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "\"Broad and deep, and still as time; Seeming still, yet still in motion\" The given lines are taken from the poem",
+      "options_en": [
+        "The Comet",
+        "Poison tree",
+        "null",
+        "null"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b000",
+      "source_note": "pyq_11_25_b000"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "\"Through the flowers and foliage glancing\nLike a child at play\".\nMention the figure of speech used in the above lines.",
+      "options_en": [
+        "Imagery",
+        "Simile",
+        "Epithet",
+        "Metaphor"
+      ],
+      "answer_en": "Simile",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b001",
+      "source_note": "pyq_11_25_b001"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "River, river, little river!\nBright you sparkle on your way;\nO'er the yellow pebbles dancing,\nThrough the flowers and foliage glancing,\nLike a child at play.\nMention the rhyme scheme employed in the above lines",
+      "options_en": [
+        "b c c b",
+        "b b c b",
+        "a b b c",
+        "b c b c"
+      ],
+      "answer_en": "a b c c b",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b001",
+      "source_note": "pyq_11_25_b001"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "Through the flowers and foliage glancing,\nLike a child at play,\nThese lines are taken from the poem _________",
+      "options_en": [
+        "The River",
+        "The Poison Tree",
+        "The Comet",
+        "The Ant and the Cricket"
+      ],
+      "answer_en": "The River",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b001",
+      "source_note": "pyq_11_25_b001"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "Tending onward to the ocean just like mortal prime 'Mortal Prime' in the above lines refers to a ________.",
+      "options_en": [
+        "reckless youth",
+        "matured man",
+        "child",
+        "curious woman"
+      ],
+      "answer_en": "matured man",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The River",
+      "poem_id": "the_river",
+      "question_en": "River, river, little river ! Bright you sparkle on your way ; O'er the yellow pebbles dancing, Through the flowers and foliage glancing, Like a child at play. Identify the figure of speech :",
+      "options_en": [
+        "Metaphor",
+        "Simile",
+        "Rhyming",
+        "None"
+      ],
+      "answer_en": "Simile",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Comet",
+      "poem_id": "the_comet",
+      "question_en": "'But I know no better spectacle Than a comet in full flight' Whose words are these?",
+      "options_en": [
+        "John Keats",
+        "Grieve Patel",
+        "Norman Little Ford",
+        "Robert frost"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Comet",
+      "poem_id": "the_comet",
+      "question_en": "'In the dust they leave behind, Could have started life on earth' What does the word 'they' refer to?",
+      "options_en": [
+        "comets",
+        "rockets",
+        "aeroplanes",
+        "trees"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Comet",
+      "poem_id": "the_comet",
+      "question_en": "'A spectacle of a lifetime A comet in full flight' What is a comet?",
+      "options_en": [
+        "humerous play",
+        "spectacle",
+        "Answer not known",
+        ""
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b002",
+      "source_note": "pyq_11_25_b002"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "'It's the stick-together family that wins the joys of earth,' Who wins the joys of the earth?",
+      "options_en": [
+        "Nuclear family",
+        "Traditional family",
+        "Orthodox family",
+        "The family that stays together"
+      ],
+      "answer_en": "The family that stays together",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "'That hears the sweetest music and that finds the finest mirth;' Identify the figure of speech used here.",
+      "options_en": [
+        "Metaphor",
+        "Personification",
+        "Imagery",
+        "Onomatopoeia"
+      ],
+      "answer_en": "Imagery",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "And the finest of conventions ever held beneath the Sun Are the little family gatherings when the busy day is done Find the poem from which these lines are taken",
+      "options_en": [
+        "The stick-together families",
+        "The comet",
+        "",
+        ""
+      ],
+      "answer_en": "The stick-together families",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b003",
+      "source_note": "pyq_11_25_b003"
+    },
+    {
+      "poem_title": "The Stick-Together Families",
+      "poem_id": "the_stick_together_families",
+      "question_en": "\"It's the stick together family\n- that wins the Joys of Earth\"\nIdentify the figure of Speech in the given line.",
+      "options_en": [
+        "Simile",
+        "Metaphor",
+        "Rhyme",
+        "Personification"
+      ],
+      "answer_en": "Personification",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "Our love is everlasting,\nI just wanted you to know,\nThat you're my special hero\nAnd I wanted to tell you so.\nWho is the special hero mentioned in the poem?",
+      "options_en": [
+        "father",
+        "mother",
+        "brother",
+        "friend"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "'I just wanted you to know,\nThat you're my special hero'\nWho is the special hero mentioned in these lines.",
+      "options_en": [
+        "mother",
+        "father",
+        "soldier",
+        "brother"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "'There is something special about a father's love'.\nPick out the words in alliteration",
+      "options_en": [
+        "something, special",
+        "father's, love",
+        "there, is",
+        "about, love"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "\"Our love is everlasting I just wanted you to know That you’re my special hero and I wanted to tell you so\". These lines are taken from the poem",
+      "options_en": [
+        "The Spider and the Fly",
+        "The Ant and the Cricket",
+        "No Men are Foreign",
+        "Special Hero"
+      ],
+      "answer_en": "D Special Hero",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "The poet Mary Ann Evans was popularly know by her pen name:-",
+      "options_en": [
+        "John Keats",
+        "George Eliot",
+        "William Blake",
+        "John Masefield"
+      ],
+      "answer_en": "B George Eliot",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Pick out the words in alliteration in the below line? 'And heaven a surer heritage'",
+      "options_en": [
+        "Surer, heritage",
+        "Heaven, heritage",
+        "Heritage, heritage",
+        "And, heritage"
+      ],
+      "answer_en": "B Heaven, heritage",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Every soul that touches yours- Be it the slightest contact- Get there from some good; Some little grace, one kindly thought\" Name the poet who wrote these poetic lines.",
+      "options_en": [
+        "George Eliot",
+        "Robert Frost",
+        "",
+        ""
+      ],
+      "answer_en": "A George Eliot",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Name the poet who wrote these poetic lines: 'Get there from some good; Some little grace, one kindly thought'",
+      "options_en": [
+        "George Eliot",
+        "Robert Frost",
+        "John Masefield",
+        "David Bates"
+      ],
+      "answer_en": "George Eliot",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "One bit of courage For the darkening sky; One gleam of faith To brave the thickening ills of life. These lines are taken from the poem",
+      "options_en": [
+        "Lessons in Life",
+        "Sea Fever",
+        "Making Life Worth While",
+        "Courage"
+      ],
+      "answer_en": "Making Life Worth While",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "One bit of courage for the darkening sky; Which quality is need for the darkening sky?",
+      "options_en": [
+        "grace",
+        "courage",
+        "faith",
+        "brave"
+      ],
+      "answer_en": "courage",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"I respect you and you respect I think of you and you think of me\" The above lines are written by",
+      "options_en": [
+        "John Keats",
+        "George Eliot",
+        "Shanthini Govindan",
+        "Bridgette Bryant & Daniel Ho"
+      ],
+      "answer_en": "Bridgette Bryant & Daniel Ho",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "Remember everyone here is important When you’re forgotten it makes you feel sad Know that you matter and you make a difference Let no one shame you or make you feel bad What is the rhyme scheme of this Stanza?",
+      "options_en": [
+        "abcd",
+        "abcb",
+        "aabc",
+        ""
+      ],
+      "answer_en": "abcb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Having a friend is like planting a flower. Show love and kindness it one day will bloom\". These lines are taken from the poem",
+      "options_en": [
+        "Courage",
+        "Lessons in life",
+        "tragic story",
+        "No men are foreign"
+      ],
+      "answer_en": "Lessons in life",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "Life",
+      "poem_id": "life",
+      "question_en": "\"Having a friend is like planting a flower\" planting a flower is compared to",
+      "options_en": [
+        "having a foe",
+        "having a friend",
+        "the smallest of gifts",
+        "the tiniest creature in a room"
+      ],
+      "answer_en": "having a friend",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b009",
+      "source_note": "pyq_11_25_b009"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "5. Speak gently to the erring-know, They may have toiled in vain; Find out the meaning of the word \"toiled\" from the given poetic lines",
+      "options_en": [
+        "Emphasise",
+        "Worried",
+        "Worked hard",
+        "Rough"
+      ],
+      "answer_en": "Worked hard",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "6. \"Speak gently-let not harsh words mar The good we might do Here! The poet's appeal is not to speak ________ words.",
+      "options_en": [
+        "Impolite",
+        "Polite",
+        "Perplexing",
+        "Clear"
+      ],
+      "answer_en": "Impolite",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "32. Choose the best option : \"Speak gently to the little child! Its love be sure to gain\" These lines are from David Bates' poem ________",
+      "options_en": [
+        "Team Work",
+        "Your Space",
+        "Special Hero",
+        "Tragic Story"
+      ],
+      "answer_en": "Your Space",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Your Space",
+      "poem_id": "your_space",
+      "question_en": "78. Speak gently to the little child ! Its love be sure to gain ; Teach it in accents soft and mild : It may not long remain. Mention the rhyme scheme employed in the above lines",
+      "options_en": [
+        "abbb",
+        "aabb",
+        "abab",
+        "abba"
+      ],
+      "answer_en": "abab",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b012",
+      "source_note": "pyq_11_25_b012"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "The poet John Masefield was appointed by Queen Elizabeth as",
+      "options_en": [
+        "Minister for Human Resources",
+        "Poet Laureate",
+        "Bard of Avon",
+        "Speaker of English Parliament"
+      ],
+      "answer_en": "Poet Laureate",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "The poet wants to travel desparately on which thing? Describing his love for the sea, the poet says that “the call of the running tide” is",
+      "options_en": [
+        "loving call",
+        "gentle call",
+        "wild call",
+        "hasty call"
+      ],
+      "answer_en": "A wild call",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "“And all I ask is a merry yarn from a laughing fellow - rover” Bring out the meaning of the word “rover”",
+      "options_en": [
+        "jumping",
+        "running",
+        "wandering",
+        "breaking"
+      ],
+      "answer_en": "wandering",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Sea Fever",
+      "poem_id": "sea_fever",
+      "question_en": "The poet yearns to go by a ————— to the lonely sea.",
+      "options_en": [
+        "long boat",
+        "big boat",
+        "tall ship",
+        "an aeroplane"
+      ],
+      "answer_en": "a tall ship",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "Courage is more than a daring deed : It's the breath of life and a strong man's creed These lines are taken from the poem",
+      "options_en": [
+        "Your space",
+        "Sea forever",
+        "Courage",
+        "Lessons in life"
+      ],
+      "answer_en": "Courage",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b013",
+      "source_note": "pyq_11_25_b013"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "It's the breath of life and a strong man's creed. These lines are taken from the poem",
+      "options_en": [
+        "Your space",
+        "Sea forever",
+        "Courage",
+        "Lessons in life"
+      ],
+      "answer_en": "Courage",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "In the poem 'Courage', is not something can be called",
+      "options_en": [
+        "brilliant dash",
+        "Honest fall",
+        "Silent emotion",
+        "Beautiful expression"
+      ],
+      "answer_en": "A brilliant dash",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "Courage",
+      "poem_id": "courage",
+      "question_en": "Courage isn't a brilliant dash, A daring deed in a moment's flash; It isn't an instantaneous thing Born of despair with a sudden spring. Mention the Rhyme scheme employed in the given lines.",
+      "options_en": [
+        "ab ab",
+        "aa bb",
+        "ba ab",
+        "none"
+      ],
+      "answer_en": "aa bb",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "And ever again, in the wink of an eye, Painted stations whistle by. 'Wink of an eye' in the above lines mean",
+      "options_en": [
+        "Very neat",
+        "Very smooth",
+        "Very smart",
+        "Very quick"
+      ],
+      "answer_en": "Very quick",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b014",
+      "source_note": "pyq_11_25_b014"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "All of the sights of the hill and plain\nFly as thick as driving rain;\nThe figure of speech used in the above line is",
+      "options_en": [
+        "Simile",
+        "Oxymoron",
+        "Repetition",
+        "Metaphor"
+      ],
+      "answer_en": "Simile",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "Faster than a Cheetah\nWith a tail that's miles long,\nBigger than a mountain\nSo powerful and strong\nPick out the rhyming words employed in the above lines.",
+      "options_en": [
+        "Cheetah - strong",
+        "Long - mountain",
+        "Long - strong",
+        "Mountain - strong"
+      ],
+      "answer_en": "Long - strong",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "From a Railway Carriage",
+      "poem_id": "from_a_railway_carriage",
+      "question_en": "\"Each a Glimpse and gone forever!\"\nThis line is taken from the poem ________.",
+      "options_en": [
+        "Team work",
+        "tragic story",
+        "Indian seasons",
+        "From a railway carriage"
+      ],
+      "answer_en": "From a railway carriage",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b015",
+      "source_note": "pyq_11_25_b015"
+    },
+    {
+      "poem_title": "A Tragic Story",
+      "poem_id": "a_tragic_story",
+      "question_en": "There lived a sage in days of yore, And he a handsome pigtail wore. These lines are taken from the poem",
+      "options_en": [
+        "Indian Seasons",
+        "A Tragic Story",
+        "Your Space",
+        "Lessons in Life"
+      ],
+      "answer_en": "B A Tragic Story",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    }
+  ]
+}

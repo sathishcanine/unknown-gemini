@@ -1,0 +1,42 @@
+{
+  "poem_id": "a_thing_of_beauty",
+  "count": 2,
+  "questions": [
+    {
+      "poem_title": "A Thing of Beauty",
+      "poem_id": "a_thing_of_beauty",
+      "question_en": "With the green world they live in ; and clear rills, That for themselves a cooling covert make. Pick out the alliterated words.",
+      "options_en": [
+        "clear - rills",
+        "covert - make",
+        "green - world",
+        "cooling - covert"
+      ],
+      "answer_en": "cooling - covert",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    },
+    {
+      "poem_title": "A Thing of Beauty",
+      "poem_id": "a_thing_of_beauty",
+      "question_en": "\"A thing of beauty is a joy forever Its loveliness increases, it will never Pass into nothingness\" The phrase \"pass into nothingness\" means that beautiful things never _________.",
+      "options_en": [
+        "create unpleasantness between friends",
+        "fade away",
+        "bring happiness",
+        "give us peace"
+      ],
+      "answer_en": "fade away",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b008",
+      "source_note": "pyq_11_25_b008"
+    }
+  ]
+}

@@ -1,0 +1,3452 @@
+[
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on water scarcity, approximately how long can a human being survive without water?",
+    "question_ta": "According to the passage on water scarcity, approximately how long can a human being survive without water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Within three days",
+        "text_ta": "Within three days"
+      },
+      {
+        "key": "B",
+        "text_en": "More than a month",
+        "text_ta": "More than a month"
+      },
+      {
+        "key": "C",
+        "text_en": "Exactly one week",
+        "text_ta": "Exactly one week"
+      },
+      {
+        "key": "D",
+        "text_en": "About two to three weeks",
+        "text_ta": "About two to three weeks"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The passage explicitly states that a human would be dead within three days without water.",
+    "explanation_ta": "The passage explicitly states that a human would be dead within three days without water.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What target was set by the United Nations Millennium Declaration in September 2000 regarding safe drinking water?",
+    "question_ta": "What target was set by the United Nations Millennium Declaration in September 2000 regarding safe drinking water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To reduce by half the proportion of people unable to reach or afford safe drinking water by 2015",
+        "text_ta": "To reduce by half the proportion of people unable to reach or afford safe drinking water by 2015"
+      },
+      {
+        "key": "B",
+        "text_en": "To double the global supply of bottled mineral water by 2015",
+        "text_ta": "To double the global supply of bottled mineral water by 2015"
+      },
+      {
+        "key": "C",
+        "text_en": "To completely eliminate water usage in industries by 2015",
+        "text_ta": "To completely eliminate water usage in industries by 2015"
+      },
+      {
+        "key": "D",
+        "text_en": "To privatize all regional and local water management systems",
+        "text_ta": "To privatize all regional and local water management systems"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The United Nations Millennium Declaration targeted reducing by half the proportion of people unable to reach or afford safe drinking water by the year 2015.",
+    "explanation_ta": "The United Nations Millennium Declaration targeted reducing by half the proportion of people unable to reach or afford safe drinking water by the year 2015.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which term is used in the text to refer to water, emphasizing its essential nature for all life on Earth?",
+    "question_ta": "Which term is used in the text to refer to water, emphasizing its essential nature for all life on Earth?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Liquid silver",
+        "text_ta": "Liquid silver"
+      },
+      {
+        "key": "B",
+        "text_en": "Vital crystal",
+        "text_ta": "Vital crystal"
+      },
+      {
+        "key": "C",
+        "text_en": "Blue diamond",
+        "text_ta": "Blue diamond"
+      },
+      {
+        "key": "D",
+        "text_en": "Green gold",
+        "text_ta": "Green gold"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage refers to water as 'green gold', essential for all life on earth.",
+    "explanation_ta": "The passage refers to water as 'green gold', essential for all life on earth.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What are noted as the only gateways to the Andaman and Nicobar Islands according to the tourism passage?",
+    "question_ta": "What are noted as the only gateways to the Andaman and Nicobar Islands according to the tourism passage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kochi and Visakhapatnam",
+        "text_ta": "Kochi and Visakhapatnam"
+      },
+      {
+        "key": "B",
+        "text_en": "Mumbai and Delhi",
+        "text_ta": "Mumbai and Delhi"
+      },
+      {
+        "key": "C",
+        "text_en": "Chennai and Kolkata",
+        "text_ta": "Chennai and Kolkata"
+      },
+      {
+        "key": "D",
+        "text_en": "Bengaluru and Hyderabad",
+        "text_ta": "Bengaluru and Hyderabad"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text explicitly mentions that Chennai and Kolkata are the only gateways to the islands.",
+    "explanation_ta": "The text explicitly mentions that Chennai and Kolkata are the only gateways to the islands.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on tourism, what percentage of world output does the tourism industry account for?",
+    "question_ta": "According to the passage on tourism, what percentage of world output does the tourism industry account for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ten per cent",
+        "text_ta": "Ten per cent"
+      },
+      {
+        "key": "B",
+        "text_en": "Four per cent",
+        "text_ta": "Four per cent"
+      },
+      {
+        "key": "C",
+        "text_en": "Fifteen per cent",
+        "text_ta": "Fifteen per cent"
+      },
+      {
+        "key": "D",
+        "text_en": "Six per cent",
+        "text_ta": "Six per cent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage states that tourism accounts for six per cent of world output.",
+    "explanation_ta": "The passage states that tourism accounts for six per cent of world output.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which king of Portugal did Ferdinand Magellan initially serve before falling out of favour due to court intrigue?",
+    "question_ta": "Which king of Portugal did Ferdinand Magellan initially serve before falling out of favour due to court intrigue?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "King Alfonso V",
+        "text_ta": "King Alfonso V"
+      },
+      {
+        "key": "B",
+        "text_en": "Emperor Charles V",
+        "text_ta": "Emperor Charles V"
+      },
+      {
+        "key": "C",
+        "text_en": "King Manuel I",
+        "text_ta": "King Manuel I"
+      },
+      {
+        "key": "D",
+        "text_en": "King John II",
+        "text_ta": "King John II"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "As a young Portuguese noble, Magellan served the king of Portugal (Manuel I) before losing favor and offering his service to Spain.",
+    "explanation_ta": "As a young Portuguese noble, Magellan served the king of Portugal (Manuel I) before losing favor and offering his service to Spain.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "On what date did Ferdinand Magellan set sail from Spain with his five ships?",
+    "question_ta": "On what date did Ferdinand Magellan set sail from Spain with his five ships?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "September 20, 1519",
+        "text_ta": "September 20, 1519"
+      },
+      {
+        "key": "B",
+        "text_en": "November 25, 1525",
+        "text_ta": "November 25, 1525"
+      },
+      {
+        "key": "C",
+        "text_en": "August 15, 1521",
+        "text_ta": "August 15, 1521"
+      },
+      {
+        "key": "D",
+        "text_en": "May 10, 1500",
+        "text_ta": "May 10, 1500"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text notes that on September 20, 1519, Magellan set sail from Spain with five ships.",
+    "explanation_ta": "The text notes that on September 20, 1519, Magellan set sail from Spain with five ships.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In which city and country was Marie Curie born in 1867?",
+    "question_ta": "In which city and country was Marie Curie born in 1867?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Paris, France",
+        "text_ta": "Paris, France"
+      },
+      {
+        "key": "B",
+        "text_en": "Vienna, Austria",
+        "text_ta": "Vienna, Austria"
+      },
+      {
+        "key": "C",
+        "text_en": "Warsaw, Poland",
+        "text_ta": "Warsaw, Poland"
+      },
+      {
+        "key": "D",
+        "text_en": "Berlin, Germany",
+        "text_ta": "Berlin, Germany"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Marie was born in 1867 in Warsaw, Poland, where her father was a professor of physics.",
+    "explanation_ta": "Marie was born in 1867 in Warsaw, Poland, where her father was a professor of physics.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "At which French university did Marie Curie enter in 1891 to earn her master's degree and doctorate in physics?",
+    "question_ta": "At which French university did Marie Curie enter in 1891 to earn her master's degree and doctorate in physics?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "École Normale Supérieure",
+        "text_ta": "École Normale Supérieure"
+      },
+      {
+        "key": "B",
+        "text_en": "Collège de France",
+        "text_ta": "Collège de France"
+      },
+      {
+        "key": "C",
+        "text_en": "University of Paris-Saclay",
+        "text_ta": "University of Paris-Saclay"
+      },
+      {
+        "key": "D",
+        "text_en": "The Sorbonne",
+        "text_ta": "The Sorbonne"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage states that she entered the Sorbonne, a French university, where she earned her master's degree and doctorate.",
+    "explanation_ta": "The passage states that she entered the Sorbonne, a French university, where she earned her master's degree and doctorate.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Andrew Carnegie metaphorically describe dealing with people when asked about management?",
+    "question_ta": "How did Andrew Carnegie metaphorically describe dealing with people when asked about management?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Like tending a delicate garden in harsh weather",
+        "text_ta": "Like tending a delicate garden in harsh weather"
+      },
+      {
+        "key": "B",
+        "text_en": "Like digging for gold by moving tons of dirt to find the treasure",
+        "text_ta": "Like digging for gold by moving tons of dirt to find the treasure"
+      },
+      {
+        "key": "C",
+        "text_en": "Like climbing a steep mountain without a map",
+        "text_ta": "Like climbing a steep mountain without a map"
+      },
+      {
+        "key": "D",
+        "text_en": "Like navigating a ship through stormy waters",
+        "text_ta": "Like navigating a ship through stormy waters"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Carnegie stated that dealing with people is a lot like digging for gold, where you move tons of dirt looking for the gold.",
+    "explanation_ta": "Carnegie stated that dealing with people is a lot like digging for gold, where you move tons of dirt looking for the gold.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS7"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What prestigious award did Marie Curie receive in 1911 for isolating radium?",
+    "question_ta": "What prestigious award did Marie Curie receive in 1911 for isolating radium?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Nobel Prize in Chemistry",
+        "text_ta": "Nobel Prize in Chemistry"
+      },
+      {
+        "key": "B",
+        "text_en": "Nobel Prize in Physics",
+        "text_ta": "Nobel Prize in Physics"
+      },
+      {
+        "key": "C",
+        "text_en": "Copley Medal",
+        "text_ta": "Copley Medal"
+      },
+      {
+        "key": "D",
+        "text_en": "Pulitzer Prize",
+        "text_ta": "Pulitzer Prize"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In 1911 she received the Nobel Prize in chemistry for isolating radium.",
+    "explanation_ta": "In 1911 she received the Nobel Prize in chemistry for isolating radium.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS8"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "From which country did Andrew Carnegie originally come when he arrived in America as a lad?",
+    "question_ta": "From which country did Andrew Carnegie originally come when he arrived in America as a lad?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ireland",
+        "text_ta": "Ireland"
+      },
+      {
+        "key": "B",
+        "text_en": "Scotland",
+        "text_ta": "Scotland"
+      },
+      {
+        "key": "C",
+        "text_en": "Wales",
+        "text_ta": "Wales"
+      },
+      {
+        "key": "D",
+        "text_en": "England",
+        "text_ta": "England"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text notes that when Andrew Carnegie came to America from Scotland, he was just a lad.",
+    "explanation_ta": "The text notes that when Andrew Carnegie came to America from Scotland, he was just a lad.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What industry did Andrew Carnegie eventually come to dominate in the United States?",
+    "question_ta": "What industry did Andrew Carnegie eventually come to dominate in the United States?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Railway construction",
+        "text_ta": "Railway construction"
+      },
+      {
+        "key": "B",
+        "text_en": "Textile manufacturing",
+        "text_ta": "Textile manufacturing"
+      },
+      {
+        "key": "C",
+        "text_en": "Oil refining",
+        "text_ta": "Oil refining"
+      },
+      {
+        "key": "D",
+        "text_en": "Steel manufacturing",
+        "text_ta": "Steel manufacturing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "He started out running errands and ended up as one of the largest steel manufacturers in the United States.",
+    "explanation_ta": "He started out running errands and ended up as one of the largest steel manufacturers in the United States.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on sleep disorders, what is the medical term for the inability to sleep?",
+    "question_ta": "According to the passage on sleep disorders, what is the medical term for the inability to sleep?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Narcolepsy",
+        "text_ta": "Narcolepsy"
+      },
+      {
+        "key": "B",
+        "text_en": "Apnea",
+        "text_ta": "Apnea"
+      },
+      {
+        "key": "C",
+        "text_en": "Insomnia",
+        "text_ta": "Insomnia"
+      },
+      {
+        "key": "D",
+        "text_en": "Somnambulism",
+        "text_ta": "Somnambulism"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Some people suffer from an inability to sleep, a disease called insomnia.",
+    "explanation_ta": "Some people suffer from an inability to sleep, a disease called insomnia.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which two brain systems govern sleep and wakefulness according to the text on sleep disorders?",
+    "question_ta": "Which two brain systems govern sleep and wakefulness according to the text on sleep disorders?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The active system and the dormant system",
+        "text_ta": "The active system and the dormant system"
+      },
+      {
+        "key": "B",
+        "text_en": "The sleep system and the arousal system",
+        "text_ta": "The sleep system and the arousal system"
+      },
+      {
+        "key": "C",
+        "text_en": "The reflex system and the voluntary system",
+        "text_ta": "The reflex system and the voluntary system"
+      },
+      {
+        "key": "D",
+        "text_en": "The conscious system and the subconscious system",
+        "text_ta": "The conscious system and the subconscious system"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sleep is caused by a sleep system and wakefulness is caused by an arousal system, both governed by the brain.",
+    "explanation_ta": "Sleep is caused by a sleep system and wakefulness is caused by an arousal system, both governed by the brain.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which two individuals in the 18th century discovered that water charged with carbon dioxide tasted pleasant?",
+    "question_ta": "Which two individuals in the 18th century discovered that water charged with carbon dioxide tasted pleasant?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pierre Curie and Marie Curie",
+        "text_ta": "Pierre Curie and Marie Curie"
+      },
+      {
+        "key": "B",
+        "text_en": "Antoine Lavoisier and Henry Cavendish",
+        "text_ta": "Antoine Lavoisier and Henry Cavendish"
+      },
+      {
+        "key": "C",
+        "text_en": "Jacob Schweppe and Louis Pasteur",
+        "text_ta": "Jacob Schweppe and Louis Pasteur"
+      },
+      {
+        "key": "D",
+        "text_en": "Gabriel Venel and Joseph Priestly",
+        "text_ta": "Gabriel Venel and Joseph Priestly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A French Professor, Gabriel Venel, and a British chemist Joseph Priestly made the discovery about carbon-dioxide charged water.",
+    "explanation_ta": "A French Professor, Gabriel Venel, and a British chemist Joseph Priestly made the discovery about carbon-dioxide charged water.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS12"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Under what brand name did Swiss chemist Jacob Schweppe market his manufactured soda water in England?",
+    "question_ta": "Under what brand name did Swiss chemist Jacob Schweppe market his manufactured soda water in England?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Vichy",
+        "text_ta": "Vichy"
+      },
+      {
+        "key": "B",
+        "text_en": "Mineralia",
+        "text_ta": "Mineralia"
+      },
+      {
+        "key": "C",
+        "text_en": "Seltz",
+        "text_ta": "Seltz"
+      },
+      {
+        "key": "D",
+        "text_en": "Carbona",
+        "text_ta": "Carbona"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Jacob Schweppe began to manufacture soda water in England, which was marketed under the name Seltz.",
+    "explanation_ta": "Jacob Schweppe began to manufacture soda water in England, which was marketed under the name Seltz.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS12"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'meagre' as used in the context of tourist traffic to the Andaman Islands?",
+    "question_ta": "What is the meaning of the word 'meagre' as used in the context of tourist traffic to the Andaman Islands?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Constantly fluctuating",
+        "text_ta": "Constantly fluctuating"
+      },
+      {
+        "key": "B",
+        "text_en": "Lacking in quantity or quality; scanty",
+        "text_ta": "Lacking in quantity or quality; scanty"
+      },
+      {
+        "key": "C",
+        "text_en": "Excessive and overwhelming",
+        "text_ta": "Excessive and overwhelming"
+      },
+      {
+        "key": "D",
+        "text_en": "Extremely luxurious and grand",
+        "text_ta": "Extremely luxurious and grand"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the glossary (G4), 'meagre' means lacking in quantity or quality.",
+    "explanation_ta": "According to the glossary (G4), 'meagre' means lacking in quantity or quality.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to glossary item G1, what does the word 'conserve' mean?",
+    "question_ta": "According to glossary item G1, what does the word 'conserve' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To distribute evenly among members",
+        "text_ta": "To distribute evenly among members"
+      },
+      {
+        "key": "B",
+        "text_en": "To exploit for commercial gain",
+        "text_ta": "To exploit for commercial gain"
+      },
+      {
+        "key": "C",
+        "text_en": "To study through excavation",
+        "text_ta": "To study through excavation"
+      },
+      {
+        "key": "D",
+        "text_en": "To protect from harm or destruction",
+        "text_ta": "To protect from harm or destruction"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G1 defines 'Conserve' as to protect from harm or destruction.",
+    "explanation_ta": "Glossary G1 defines 'Conserve' as to protect from harm or destruction.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'teeming' signify in descriptions of natural environments?",
+    "question_ta": "What does the glossary term 'teeming' signify in descriptions of natural environments?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Full of or swarming with life",
+        "text_ta": "Full of or swarming with life"
+      },
+      {
+        "key": "B",
+        "text_en": "Polluted and contaminated",
+        "text_ta": "Polluted and contaminated"
+      },
+      {
+        "key": "C",
+        "text_en": "Quiet and undisturbed",
+        "text_ta": "Quiet and undisturbed"
+      },
+      {
+        "key": "D",
+        "text_en": "Barren and lifeless",
+        "text_ta": "Barren and lifeless"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary G3 defines 'teeming' as full of or swarming with.",
+    "explanation_ta": "Glossary G3 defines 'teeming' as full of or swarming with.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Based on the reading strategy rules, what should a reader do first when approaching an unseen passage?",
+    "question_ta": "Based on the reading strategy rules, what should a reader do first when approaching an unseen passage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Memorize every single date and name",
+        "text_ta": "Memorize every single date and name"
+      },
+      {
+        "key": "B",
+        "text_en": "Read the passage thoroughly to understand the main theme",
+        "text_ta": "Read the passage thoroughly to understand the main theme"
+      },
+      {
+        "key": "C",
+        "text_en": "Translate the passage into another language",
+        "text_ta": "Translate the passage into another language"
+      },
+      {
+        "key": "D",
+        "text_en": "Answer the questions without looking at the text",
+        "text_ta": "Answer the questions without looking at the text"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R1 states: Read the passage thoroughly to understand the main theme.",
+    "explanation_ta": "Rule R1 states: Read the passage thoroughly to understand the main theme.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to Rule R2, how should a reader deal with unknown words encountered in a text?",
+    "question_ta": "According to Rule R2, how should a reader deal with unknown words encountered in a text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Look them up in an external dictionary during the exam",
+        "text_ta": "Look them up in an external dictionary during the exam"
+      },
+      {
+        "key": "B",
+        "text_en": "Skip them entirely without consequence",
+        "text_ta": "Skip them entirely without consequence"
+      },
+      {
+        "key": "C",
+        "text_en": "Guess randomly among multiple choices",
+        "text_ta": "Guess randomly among multiple choices"
+      },
+      {
+        "key": "D",
+        "text_en": "Infer the meaning of unknown words from the surrounding text",
+        "text_ta": "Infer the meaning of unknown words from the surrounding text"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R2 specifies: Infer the meaning of unknown words from the surrounding text.",
+    "explanation_ta": "Rule R2 specifies: Infer the meaning of unknown words from the surrounding text.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary purpose of tourism highlighted in the global tourism passage regarding international relations?",
+    "question_ta": "What is the primary purpose of tourism highlighted in the global tourism passage regarding international relations?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It brings peoples of different nations together, fostering understanding, tolerance, and world peace",
+        "text_ta": "It brings peoples of different nations together, fostering understanding, tolerance, and world peace"
+      },
+      {
+        "key": "B",
+        "text_en": "It replaces traditional agricultural practices entirely",
+        "text_ta": "It replaces traditional agricultural practices entirely"
+      },
+      {
+        "key": "C",
+        "text_en": "It creates financial monopolies across developing countries",
+        "text_ta": "It creates financial monopolies across developing countries"
+      },
+      {
+        "key": "D",
+        "text_en": "It eliminates cultural differences among nations",
+        "text_ta": "It eliminates cultural differences among nations"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The passage notes that tourism brings people of different nations together, leading to greater understanding, tolerance, and world peace.",
+    "explanation_ta": "The passage notes that tourism brings people of different nations together, leading to greater understanding, tolerance, and world peace.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on water scarcity, what primary consequence do humans face within three days if they are deprived of water?",
+    "question_ta": "According to the passage on water scarcity, what primary consequence do humans face within three days if they are deprived of water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They would be dead",
+        "text_ta": "They would be dead"
+      },
+      {
+        "key": "B",
+        "text_en": "They would suffer from severe fever",
+        "text_ta": "They would suffer from severe fever"
+      },
+      {
+        "key": "C",
+        "text_en": "They would lose their memory completely",
+        "text_ta": "They would lose their memory completely"
+      },
+      {
+        "key": "D",
+        "text_en": "They would suffer from extreme fatigue",
+        "text_ta": "They would suffer from extreme fatigue"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The passage explicitly states that humans would be dead within three days without water.",
+    "explanation_ta": "The passage explicitly states that humans would be dead within three days without water.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'conserve' mean?",
+    "question_ta": "What does the glossary term 'conserve' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To protect from harm or destruction",
+        "text_ta": "To protect from harm or destruction"
+      },
+      {
+        "key": "B",
+        "text_en": "To destroy completely",
+        "text_ta": "To destroy completely"
+      },
+      {
+        "key": "C",
+        "text_en": "To purify through boiling",
+        "text_ta": "To purify through boiling"
+      },
+      {
+        "key": "D",
+        "text_en": "To study human history",
+        "text_ta": "To study human history"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G1 defines 'conserve' as 'To protect from harm or destruction'.",
+    "explanation_ta": "Glossary item G1 defines 'conserve' as 'To protect from harm or destruction'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Unseen Passages",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What primary environmental crisis is highlighted as a major threat across many parts of the globe in the text?",
+    "question_ta": "What primary environmental crisis is highlighted as a major threat across many parts of the globe in the text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Deforestation",
+        "text_ta": "Deforestation"
+      },
+      {
+        "key": "B",
+        "text_en": "Water scarcity",
+        "text_ta": "Water scarcity"
+      },
+      {
+        "key": "C",
+        "text_en": "Overpopulation",
+        "text_ta": "Overpopulation"
+      },
+      {
+        "key": "D",
+        "text_en": "Plastic pollution",
+        "text_ta": "Plastic pollution"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The opening passage specifically states that water scarcity is a major threat in many parts of the world.",
+    "explanation_ta": "The opening passage specifically states that water scarcity is a major threat in many parts of the world.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Without water, human survival is limited to a maximum of approximately how many days?",
+    "question_ta": "Without water, human survival is limited to a maximum of approximately how many days?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "One month",
+        "text_ta": "One month"
+      },
+      {
+        "key": "B",
+        "text_en": "Three days",
+        "text_ta": "Three days"
+      },
+      {
+        "key": "C",
+        "text_en": "Seven days",
+        "text_ta": "Seven days"
+      },
+      {
+        "key": "D",
+        "text_en": "Two weeks",
+        "text_ta": "Two weeks"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The passage notes that a person would be dead within three days without water.",
+    "explanation_ta": "The passage notes that a person would be dead within three days without water.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What term is used in the UN Millennium Declaration text to describe water due to its essential nature for all earthly life?",
+    "question_ta": "What term is used in the UN Millennium Declaration text to describe water due to its essential nature for all earthly life?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Green gold",
+        "text_ta": "Green gold"
+      },
+      {
+        "key": "B",
+        "text_en": "Blue diamond",
+        "text_ta": "Blue diamond"
+      },
+      {
+        "key": "C",
+        "text_en": "Precious fluid",
+        "text_ta": "Precious fluid"
+      },
+      {
+        "key": "D",
+        "text_en": "Liquid life",
+        "text_ta": "Liquid life"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text refers to water as 'green gold' essential for all life on earth.",
+    "explanation_ta": "The text refers to water as 'green gold' essential for all life on earth.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In what year did the United Nations adopt the Millennium Declaration setting global water resource targets?",
+    "question_ta": "In what year did the United Nations adopt the Millennium Declaration setting global water resource targets?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "2005",
+        "text_ta": "2005"
+      },
+      {
+        "key": "B",
+        "text_en": "2000",
+        "text_ta": "2000"
+      },
+      {
+        "key": "C",
+        "text_en": "2010",
+        "text_ta": "2010"
+      },
+      {
+        "key": "D",
+        "text_en": "1995",
+        "text_ta": "1995"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The UN adopted the Millennium Declaration in September 2000.",
+    "explanation_ta": "The UN adopted the Millennium Declaration in September 2000.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which Indian cities serve as the exclusive mainland gateways for travelers visiting the Andaman and Nicobar Islands according to the text?",
+    "question_ta": "Which Indian cities serve as the exclusive mainland gateways for travelers visiting the Andaman and Nicobar Islands according to the text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bangalore and Hyderabad",
+        "text_ta": "Bangalore and Hyderabad"
+      },
+      {
+        "key": "B",
+        "text_en": "Mumbai and Delhi",
+        "text_ta": "Mumbai and Delhi"
+      },
+      {
+        "key": "C",
+        "text_en": "Kochi and Visakhapatnam",
+        "text_ta": "Kochi and Visakhapatnam"
+      },
+      {
+        "key": "D",
+        "text_en": "Chennai and Kolkata",
+        "text_ta": "Chennai and Kolkata"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage states that Chennai and Kolkata are the only gateways to the islands.",
+    "explanation_ta": "The passage states that Chennai and Kolkata are the only gateways to the islands.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What approximate annual volume of tourist traffic do the Andaman and Nicobar Islands currently attract despite their unique appeal?",
+    "question_ta": "What approximate annual volume of tourist traffic do the Andaman and Nicobar Islands currently attract despite their unique appeal?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "About 90,000",
+        "text_ta": "About 90,000"
+      },
+      {
+        "key": "B",
+        "text_en": "About 20,000",
+        "text_ta": "About 20,000"
+      },
+      {
+        "key": "C",
+        "text_en": "About 1 million",
+        "text_ta": "About 1 million"
+      },
+      {
+        "key": "D",
+        "text_en": "About 500,000",
+        "text_ta": "About 500,000"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text mentions that the islands have been attracting meagre tourist traffic of about 90,000 per year.",
+    "explanation_ta": "The text mentions that the islands have been attracting meagre tourist traffic of about 90,000 per year.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What percentage of the world's total economic output does the modern global tourism industry account for?",
+    "question_ta": "What percentage of the world's total economic output does the modern global tourism industry account for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fifteen per cent",
+        "text_ta": "Fifteen per cent"
+      },
+      {
+        "key": "B",
+        "text_en": "Two per cent",
+        "text_ta": "Two per cent"
+      },
+      {
+        "key": "C",
+        "text_en": "Ten per cent",
+        "text_ta": "Ten per cent"
+      },
+      {
+        "key": "D",
+        "text_en": "Six per cent",
+        "text_ta": "Six per cent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage on global tourism states that it accounts for six per cent of world output.",
+    "explanation_ta": "The passage on global tourism states that it accounts for six per cent of world output.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How many people around the globe are estimated to be employed by the tourism industry according to the text?",
+    "question_ta": "How many people around the globe are estimated to be employed by the tourism industry according to the text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "50 million",
+        "text_ta": "50 million"
+      },
+      {
+        "key": "B",
+        "text_en": "250 million",
+        "text_ta": "250 million"
+      },
+      {
+        "key": "C",
+        "text_en": "500 million",
+        "text_ta": "500 million"
+      },
+      {
+        "key": "D",
+        "text_en": "100 million",
+        "text_ta": "100 million"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text notes that tourism employs some 100 million people around the globe.",
+    "explanation_ta": "The text notes that tourism employs some 100 million people around the globe.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which royal figure did Ferdinand Magellan initially serve before falling out of favour due to court politics?",
+    "question_ta": "Which royal figure did Ferdinand Magellan initially serve before falling out of favour due to court politics?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The king of Portugal",
+        "text_ta": "The king of Portugal"
+      },
+      {
+        "key": "B",
+        "text_en": "The Emperor Charles V",
+        "text_ta": "The Emperor Charles V"
+      },
+      {
+        "key": "C",
+        "text_en": "The king of Spain",
+        "text_ta": "The king of Spain"
+      },
+      {
+        "key": "D",
+        "text_en": "The Pope",
+        "text_ta": "The Pope"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As a young Portuguese noble, Magellan initially served the king of Portugal before losing his favour.",
+    "explanation_ta": "As a young Portuguese noble, Magellan initially served the king of Portugal before losing his favour.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "On what specific date did Ferdinand Magellan embark on his historic voyage from Spain with his five ships?",
+    "question_ta": "On what specific date did Ferdinand Magellan embark on his historic voyage from Spain with his five ships?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "October 12, 1492",
+        "text_ta": "October 12, 1492"
+      },
+      {
+        "key": "B",
+        "text_en": "May 5, 1515",
+        "text_ta": "May 5, 1515"
+      },
+      {
+        "key": "C",
+        "text_en": "September 20, 1519",
+        "text_ta": "September 20, 1519"
+      },
+      {
+        "key": "D",
+        "text_en": "August 15, 1520",
+        "text_ta": "August 15, 1520"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage states that on September 20, 1519, Magellan set sail from Spain with five ships.",
+    "explanation_ta": "The passage states that on September 20, 1519, Magellan set sail from Spain with five ships.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In which city and country was Marie Curie born in the year 1867?",
+    "question_ta": "In which city and country was Marie Curie born in the year 1867?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Vienna, Austria",
+        "text_ta": "Vienna, Austria"
+      },
+      {
+        "key": "B",
+        "text_en": "Paris, France",
+        "text_ta": "Paris, France"
+      },
+      {
+        "key": "C",
+        "text_en": "Warsaw, Poland",
+        "text_ta": "Warsaw, Poland"
+      },
+      {
+        "key": "D",
+        "text_en": "Berlin, Germany",
+        "text_ta": "Berlin, Germany"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Marie was born in 1867 in Warsaw, Poland, where her father was a physics professor.",
+    "explanation_ta": "Marie was born in 1867 in Warsaw, Poland, where her father was a physics professor.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "At which prominent French institution of higher learning did Marie Curie enroll in 1891?",
+    "question_ta": "At which prominent French institution of higher learning did Marie Curie enroll in 1891?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Collège de France",
+        "text_ta": "Collège de France"
+      },
+      {
+        "key": "B",
+        "text_en": "University of Paris-Saclay",
+        "text_ta": "University of Paris-Saclay"
+      },
+      {
+        "key": "C",
+        "text_en": "École Normale Supérieure",
+        "text_ta": "École Normale Supérieure"
+      },
+      {
+        "key": "D",
+        "text_en": "The Sorbonne",
+        "text_ta": "The Sorbonne"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text notes she entered the Sorbonne, a French university, in 1891.",
+    "explanation_ta": "The text notes she entered the Sorbonne, a French university, in 1891.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What analogy did Andrew Carnegie use when describing the challenge of managing and dealing with people?",
+    "question_ta": "What analogy did Andrew Carnegie use when describing the challenge of managing and dealing with people?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Digging for gold",
+        "text_ta": "Digging for gold"
+      },
+      {
+        "key": "B",
+        "text_en": "Sailing a stormy sea",
+        "text_ta": "Sailing a stormy sea"
+      },
+      {
+        "key": "C",
+        "text_en": "Growing a garden",
+        "text_ta": "Growing a garden"
+      },
+      {
+        "key": "D",
+        "text_en": "Climbing a mountain",
+        "text_ta": "Climbing a mountain"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Carnegie stated that dealing with people is a lot like digging for gold, where you move tons of dirt to find the treasure.",
+    "explanation_ta": "Carnegie stated that dealing with people is a lot like digging for gold, where you move tons of dirt to find the treasure.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS7"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What prestigious international accolade did Marie Curie receive in 1911 for her work in chemistry?",
+    "question_ta": "What prestigious international accolade did Marie Curie receive in 1911 for her work in chemistry?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Pulitzer Prize",
+        "text_ta": "The Pulitzer Prize"
+      },
+      {
+        "key": "B",
+        "text_en": "The Nobel Prize",
+        "text_ta": "The Nobel Prize"
+      },
+      {
+        "key": "C",
+        "text_en": "The Davy Medal",
+        "text_ta": "The Davy Medal"
+      },
+      {
+        "key": "D",
+        "text_en": "The Copley Medal",
+        "text_ta": "The Copley Medal"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In 1911 she received the Nobel Prize in chemistry for isolating radium.",
+    "explanation_ta": "In 1911 she received the Nobel Prize in chemistry for isolating radium.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS8"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the medical term used in the text to describe a chronic inability or difficulty to sleep?",
+    "question_ta": "What is the medical term used in the text to describe a chronic inability or difficulty to sleep?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Amnesia",
+        "text_ta": "Amnesia"
+      },
+      {
+        "key": "B",
+        "text_en": "Insomnia",
+        "text_ta": "Insomnia"
+      },
+      {
+        "key": "C",
+        "text_en": "Narcolepsy",
+        "text_ta": "Narcolepsy"
+      },
+      {
+        "key": "D",
+        "text_en": "Lethargy",
+        "text_ta": "Lethargy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text defines the inability to sleep as a disease called insomnia.",
+    "explanation_ta": "The text defines the inability to sleep as a disease called insomnia.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on sleep disorders, which two biological systems govern sleep and wakefulness?",
+    "question_ta": "According to the passage on sleep disorders, which two biological systems govern sleep and wakefulness?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Circulatory system and nervous system",
+        "text_ta": "Circulatory system and nervous system"
+      },
+      {
+        "key": "B",
+        "text_en": "Central system and peripheral system",
+        "text_ta": "Central system and peripheral system"
+      },
+      {
+        "key": "C",
+        "text_en": "Active system and passive system",
+        "text_ta": "Active system and passive system"
+      },
+      {
+        "key": "D",
+        "text_en": "Sleep system and arousal system",
+        "text_ta": "Sleep system and arousal system"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Sleep is caused by a sleep system and wakefulness is caused by an arousal system, both governed by the brain.",
+    "explanation_ta": "Sleep is caused by a sleep system and wakefulness is caused by an arousal system, both governed by the brain.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which famous novel written by Pearl Buck won the American Pulitzer Prize in 1931?",
+    "question_ta": "Which famous novel written by Pearl Buck won the American Pulitzer Prize in 1931?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "East Wind: West Wind",
+        "text_ta": "East Wind: West Wind"
+      },
+      {
+        "key": "B",
+        "text_en": "Mother",
+        "text_ta": "Mother"
+      },
+      {
+        "key": "C",
+        "text_en": "Dragon Seed",
+        "text_ta": "Dragon Seed"
+      },
+      {
+        "key": "D",
+        "text_en": "The Good Earth",
+        "text_ta": "The Good Earth"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Her most popular novel, 'The Good Earth', earned for her the American Pulitzer Prize in 1931.",
+    "explanation_ta": "Her most popular novel, 'The Good Earth', earned for her the American Pulitzer Prize in 1931.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS11"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which two 18th-century scientists discovered that water charged with carbon dioxide had a pleasant taste?",
+    "question_ta": "Which two 18th-century scientists discovered that water charged with carbon dioxide had a pleasant taste?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Gabriel Venel and Joseph Priestly",
+        "text_ta": "Gabriel Venel and Joseph Priestly"
+      },
+      {
+        "key": "B",
+        "text_en": "Antoine Lavoisier and Henry Cavendish",
+        "text_ta": "Antoine Lavoisier and Henry Cavendish"
+      },
+      {
+        "key": "C",
+        "text_en": "Jacob Schweppe and Louis Pasteur",
+        "text_ta": "Jacob Schweppe and Louis Pasteur"
+      },
+      {
+        "key": "D",
+        "text_en": "Benjamin Franklin and Alessandro Volta",
+        "text_ta": "Benjamin Franklin and Alessandro Volta"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text credits a French Professor, Gabriel Venel, and a British chemist, Joseph Priestly, with this discovery.",
+    "explanation_ta": "The text credits a French Professor, Gabriel Venel, and a British chemist, Joseph Priestly, with this discovery.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS12"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Under what brand name did Swiss chemist Jacob Schweppe initially market manufactured soda water in England?",
+    "question_ta": "Under what brand name did Swiss chemist Jacob Schweppe initially market manufactured soda water in England?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Schweppes",
+        "text_ta": "Schweppes"
+      },
+      {
+        "key": "B",
+        "text_en": "Carbonata",
+        "text_ta": "Carbonata"
+      },
+      {
+        "key": "C",
+        "text_en": "Mineral Fizz",
+        "text_ta": "Mineral Fizz"
+      },
+      {
+        "key": "D",
+        "text_en": "Seltz",
+        "text_ta": "Seltz"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The artificial mineral water was marketed under the name Seltz.",
+    "explanation_ta": "The artificial mineral water was marketed under the name Seltz.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS12"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Based on the glossary, what does the term 'conserve' mean?",
+    "question_ta": "Based on the glossary, what does the term 'conserve' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To protect from harm or destruction",
+        "text_ta": "To protect from harm or destruction"
+      },
+      {
+        "key": "B",
+        "text_en": "To use up entirely",
+        "text_ta": "To use up entirely"
+      },
+      {
+        "key": "C",
+        "text_en": "To distribute widely",
+        "text_ta": "To distribute widely"
+      },
+      {
+        "key": "D",
+        "text_en": "To evaluate carefully",
+        "text_ta": "To evaluate carefully"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary G1 defines conserve as to protect from harm or destruction.",
+    "explanation_ta": "Glossary G1 defines conserve as to protect from harm or destruction.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the glossary item G3, what is the meaning of the word 'teeming'?",
+    "question_ta": "According to the glossary item G3, what is the meaning of the word 'teeming'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Barren and desolate",
+        "text_ta": "Barren and desolate"
+      },
+      {
+        "key": "B",
+        "text_en": "Full of or swarming with",
+        "text_ta": "Full of or swarming with"
+      },
+      {
+        "key": "C",
+        "text_en": "Hidden and obscure",
+        "text_ta": "Hidden and obscure"
+      },
+      {
+        "key": "D",
+        "text_en": "Quiet and peaceful",
+        "text_ta": "Quiet and peaceful"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary G3 defines teeming as full of or swarming with.",
+    "explanation_ta": "Glossary G3 defines teeming as full of or swarming with.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'meagre' signify in descriptive contexts?",
+    "question_ta": "What does the glossary term 'meagre' signify in descriptive contexts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bright and colorful",
+        "text_ta": "Bright and colorful"
+      },
+      {
+        "key": "B",
+        "text_en": "Extremely expensive",
+        "text_ta": "Extremely expensive"
+      },
+      {
+        "key": "C",
+        "text_en": "Lacking in quantity or quality",
+        "text_ta": "Lacking in quantity or quality"
+      },
+      {
+        "key": "D",
+        "text_en": "Abundant and overflowing",
+        "text_ta": "Abundant and overflowing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G4 defines meagre as lacking in quantity or quality.",
+    "explanation_ta": "Glossary G4 defines meagre as lacking in quantity or quality.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to glossary item G5, what does 'acute' mean?",
+    "question_ta": "According to glossary item G5, what does 'acute' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Broad and general in scope",
+        "text_ta": "Broad and general in scope"
+      },
+      {
+        "key": "B",
+        "text_en": "Mild and passing quickly",
+        "text_ta": "Mild and passing quickly"
+      },
+      {
+        "key": "C",
+        "text_en": "Present or experienced to a severe or intense degree",
+        "text_ta": "Present or experienced to a severe or intense degree"
+      },
+      {
+        "key": "D",
+        "text_en": "Hidden from plain sight",
+        "text_ta": "Hidden from plain sight"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G5 defines acute as present or experienced to a severe or intense degree.",
+    "explanation_ta": "Glossary G5 defines acute as present or experienced to a severe or intense degree.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on water scarcity, what is the maximum duration a human being can survive without water?",
+    "question_ta": "According to the passage on water scarcity, what is the maximum duration a human being can survive without water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "About two to three weeks",
+        "text_ta": "About two to three weeks"
+      },
+      {
+        "key": "B",
+        "text_en": "Within three days",
+        "text_ta": "Within three days"
+      },
+      {
+        "key": "C",
+        "text_en": "Exactly one week",
+        "text_ta": "Exactly one week"
+      },
+      {
+        "key": "D",
+        "text_en": "More than a month",
+        "text_ta": "More than a month"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The passage states that humans 'would be dead within three days without water'.",
+    "explanation_ta": "The passage states that humans 'would be dead within three days without water'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "In the United Nations Millennium Declaration, what term is used to describe water due to its essential nature for all life on earth?",
+    "question_ta": "In the United Nations Millennium Declaration, what term is used to describe water due to its essential nature for all life on earth?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Blue diamond",
+        "text_ta": "Blue diamond"
+      },
+      {
+        "key": "B",
+        "text_en": "Green gold",
+        "text_ta": "Green gold"
+      },
+      {
+        "key": "C",
+        "text_en": "Liquid crystal",
+        "text_ta": "Liquid crystal"
+      },
+      {
+        "key": "D",
+        "text_en": "Silver resource",
+        "text_ta": "Silver resource"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text refers to water as the 'green gold' essential for all life on earth.",
+    "explanation_ta": "The text refers to water as the 'green gold' essential for all life on earth.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Based on the water scarcity passage, what is the maximum duration a human being can survive without water?",
+    "question_ta": "Based on the water scarcity passage, what is the maximum duration a human being can survive without water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Twenty-four hours",
+        "text_ta": "Twenty-four hours"
+      },
+      {
+        "key": "B",
+        "text_en": "Exactly seven days",
+        "text_ta": "Exactly seven days"
+      },
+      {
+        "key": "C",
+        "text_en": "Within three days",
+        "text_ta": "Within three days"
+      },
+      {
+        "key": "D",
+        "text_en": "Two to three weeks",
+        "text_ta": "Two to three weeks"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage clearly states that a human being would be dead within three days without water.",
+    "explanation_ta": "The passage clearly states that a human being would be dead within three days without water.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What specific goal was outlined by the United Nations Millennium Declaration in September 2000 regarding drinking water?",
+    "question_ta": "What specific goal was outlined by the United Nations Millennium Declaration in September 2000 regarding drinking water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To completely eliminate all groundwater usage worldwide by 2015",
+        "text_ta": "To completely eliminate all groundwater usage worldwide by 2015"
+      },
+      {
+        "key": "B",
+        "text_en": "To reduce by half the proportion of people unable to reach or afford safe drinking water by 2015",
+        "text_ta": "To reduce by half the proportion of people unable to reach or afford safe drinking water by 2015"
+      },
+      {
+        "key": "C",
+        "text_en": "To privatize all regional water management systems across developing nations",
+        "text_ta": "To privatize all regional water management systems across developing nations"
+      },
+      {
+        "key": "D",
+        "text_en": "To increase the cost of fresh water to limit excessive consumption",
+        "text_ta": "To increase the cost of fresh water to limit excessive consumption"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Millennium Declaration specifically aimed to reduce by half the proportion of people lacking access to safe drinking water by the year 2015.",
+    "explanation_ta": "The Millennium Declaration specifically aimed to reduce by half the proportion of people lacking access to safe drinking water by the year 2015.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "In the United Nations Millennium Declaration text, which descriptive term is used to emphasize the essential nature of water for life?",
+    "question_ta": "In the United Nations Millennium Declaration text, which descriptive term is used to emphasize the essential nature of water for life?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Liquid silver",
+        "text_ta": "Liquid silver"
+      },
+      {
+        "key": "B",
+        "text_en": "Blue diamond",
+        "text_ta": "Blue diamond"
+      },
+      {
+        "key": "C",
+        "text_en": "Green gold",
+        "text_ta": "Green gold"
+      },
+      {
+        "key": "D",
+        "text_en": "Vital elixir",
+        "text_ta": "Vital elixir"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage quotes water as being 'green gold' essential for all life on earth.",
+    "explanation_ta": "The passage quotes water as being 'green gold' essential for all life on earth.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which two Indian cities serve as the sole mainland entry points for travelers visiting the Andaman and Nicobar Islands?",
+    "question_ta": "Which two Indian cities serve as the sole mainland entry points for travelers visiting the Andaman and Nicobar Islands?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mumbai and Delhi",
+        "text_ta": "Mumbai and Delhi"
+      },
+      {
+        "key": "B",
+        "text_en": "Bangalore and Hyderabad",
+        "text_ta": "Bangalore and Hyderabad"
+      },
+      {
+        "key": "C",
+        "text_en": "Kochi and Visakhapatnam",
+        "text_ta": "Kochi and Visakhapatnam"
+      },
+      {
+        "key": "D",
+        "text_en": "Chennai and Kolkata",
+        "text_ta": "Chennai and Kolkata"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The passage notes that Chennai and Kolkata are the only gateways to the islands.",
+    "explanation_ta": "The passage notes that Chennai and Kolkata are the only gateways to the islands.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Despite their remarkable natural appeal, approximately how many tourists do the Andaman and Nicobar Islands attract annually?",
+    "question_ta": "Despite their remarkable natural appeal, approximately how many tourists do the Andaman and Nicobar Islands attract annually?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Scarcely 5,000 per year",
+        "text_ta": "Scarcely 5,000 per year"
+      },
+      {
+        "key": "B",
+        "text_en": "Over one million per year",
+        "text_ta": "Over one million per year"
+      },
+      {
+        "key": "C",
+        "text_en": "Around 500,000 per year",
+        "text_ta": "Around 500,000 per year"
+      },
+      {
+        "key": "D",
+        "text_en": "About 90,000 per year",
+        "text_ta": "About 90,000 per year"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text states that the Andaman have been attracting meagre tourist traffic—about 90,000 per year.",
+    "explanation_ta": "The text states that the Andaman have been attracting meagre tourist traffic—about 90,000 per year.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "According to the global tourism industry passage, what percentage of total world economic output does tourism account for?",
+    "question_ta": "According to the global tourism industry passage, what percentage of total world economic output does tourism account for?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fifteen per cent",
+        "text_ta": "Fifteen per cent"
+      },
+      {
+        "key": "B",
+        "text_en": "Three per cent",
+        "text_ta": "Three per cent"
+      },
+      {
+        "key": "C",
+        "text_en": "Ten per cent",
+        "text_ta": "Ten per cent"
+      },
+      {
+        "key": "D",
+        "text_en": "Six per cent",
+        "text_ta": "Six per cent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text explicitly mentions that tourism accounts for six per cent of world output.",
+    "explanation_ta": "The text explicitly mentions that tourism accounts for six per cent of world output.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Approximately how many people around the globe are employed by the modern tourism industry?",
+    "question_ta": "Approximately how many people around the globe are employed by the modern tourism industry?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "50 million",
+        "text_ta": "50 million"
+      },
+      {
+        "key": "B",
+        "text_en": "75 million",
+        "text_ta": "75 million"
+      },
+      {
+        "key": "C",
+        "text_en": "100 million",
+        "text_ta": "100 million"
+      },
+      {
+        "key": "D",
+        "text_en": "200 million",
+        "text_ta": "200 million"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage states that the tourism industry employs some 100 million people around the globe.",
+    "explanation_ta": "The passage states that the tourism industry employs some 100 million people around the globe.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which monarch did Ferdinand Magellan initially serve during the age of exploration before falling out of favour?",
+    "question_ta": "Which monarch did Ferdinand Magellan initially serve during the age of exploration before falling out of favour?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The King of France",
+        "text_ta": "The King of France"
+      },
+      {
+        "key": "B",
+        "text_en": "The King of Portugal",
+        "text_ta": "The King of Portugal"
+      },
+      {
+        "key": "C",
+        "text_en": "The King of Spain",
+        "text_ta": "The King of Spain"
+      },
+      {
+        "key": "D",
+        "text_en": "The King of England",
+        "text_ta": "The King of England"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Magellan served the king of Portugal before court intrigue caused him to lose the king's favour.",
+    "explanation_ta": "Magellan served the king of Portugal before court intrigue caused him to lose the king's favour.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "On what specific date did Ferdinand Magellan set sail from Spain with his historic fleet of five ships?",
+    "question_ta": "On what specific date did Ferdinand Magellan set sail from Spain with his historic fleet of five ships?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "October 5, 1520",
+        "text_ta": "October 5, 1520"
+      },
+      {
+        "key": "B",
+        "text_en": "November 15, 1521",
+        "text_ta": "November 15, 1521"
+      },
+      {
+        "key": "C",
+        "text_en": "September 20, 1519",
+        "text_ta": "September 20, 1519"
+      },
+      {
+        "key": "D",
+        "text_en": "August 12, 1518",
+        "text_ta": "August 12, 1518"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text specifies that Magellan set sail from Spain with five ships on September 20, 1519.",
+    "explanation_ta": "The text specifies that Magellan set sail from Spain with five ships on September 20, 1519.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS5"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "At which institution of higher learning did Marie Curie enroll in 1891 to pursue her master's and doctorate degrees in physics?",
+    "question_ta": "At which institution of higher learning did Marie Curie enroll in 1891 to pursue her master's and doctorate degrees in physics?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Sorbonne",
+        "text_ta": "The Sorbonne"
+      },
+      {
+        "key": "B",
+        "text_en": "The University of Berlin",
+        "text_ta": "The University of Berlin"
+      },
+      {
+        "key": "C",
+        "text_en": "The University of Warsaw",
+        "text_ta": "The University of Warsaw"
+      },
+      {
+        "key": "D",
+        "text_en": "Oxford University",
+        "text_ta": "Oxford University"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The passage states that she entered the Sorbonne, a French university, in 1891.",
+    "explanation_ta": "The passage states that she entered the Sorbonne, a French university, in 1891.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS6"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "How did Andrew Carnegie metaphorically describe the challenge of managing and dealing with people?",
+    "question_ta": "How did Andrew Carnegie metaphorically describe the challenge of managing and dealing with people?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Like tending a garden that requires constant watering",
+        "text_ta": "Like tending a garden that requires constant watering"
+      },
+      {
+        "key": "B",
+        "text_en": "Like climbing a steep mountain without a map",
+        "text_ta": "Like climbing a steep mountain without a map"
+      },
+      {
+        "key": "C",
+        "text_en": "Like navigating a ship through stormy waters",
+        "text_ta": "Like navigating a ship through stormy waters"
+      },
+      {
+        "key": "D",
+        "text_en": "Like digging for gold where you move tons of dirt to find the treasure",
+        "text_ta": "Like digging for gold where you move tons of dirt to find the treasure"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Carnegie compared dealing with people to digging for gold, where one must move tons of dirt but looks specifically for the gold.",
+    "explanation_ta": "Carnegie compared dealing with people to digging for gold, where one must move tons of dirt but looks specifically for the gold.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS7"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What was Andrew Carnegie's initial occupational status when he first arrived in America as a young lad from Scotland?",
+    "question_ta": "What was Andrew Carnegie's initial occupational status when he first arrived in America as a young lad from Scotland?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Teaching school children",
+        "text_ta": "Teaching school children"
+      },
+      {
+        "key": "B",
+        "text_en": "Running errands",
+        "text_ta": "Running errands"
+      },
+      {
+        "key": "C",
+        "text_en": "Assisting a blacksmith",
+        "text_ta": "Assisting a blacksmith"
+      },
+      {
+        "key": "D",
+        "text_en": "Working in a coal mine",
+        "text_ta": "Working in a coal mine"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text mentions that when he came to America, he started out by running errands.",
+    "explanation_ta": "The text mentions that when he came to America, he started out by running errands.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What ultimate industrial sector did Andrew Carnegie come to dominate in the United States?",
+    "question_ta": "What ultimate industrial sector did Andrew Carnegie come to dominate in the United States?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Railway construction",
+        "text_ta": "Railway construction"
+      },
+      {
+        "key": "B",
+        "text_en": "Oil refining",
+        "text_ta": "Oil refining"
+      },
+      {
+        "key": "C",
+        "text_en": "Textile manufacturing",
+        "text_ta": "Textile manufacturing"
+      },
+      {
+        "key": "D",
+        "text_en": "Steel manufacturing",
+        "text_ta": "Steel manufacturing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Carnegie ended up as one of the largest steel manufacturers in the United States.",
+    "explanation_ta": "Carnegie ended up as one of the largest steel manufacturers in the United States.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS9"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What prestigious international award did Marie Curie receive in 1911 for her scientific achievements?",
+    "question_ta": "What prestigious international award did Marie Curie receive in 1911 for her scientific achievements?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The Davy Medal",
+        "text_ta": "The Davy Medal"
+      },
+      {
+        "key": "B",
+        "text_en": "The Nobel Prize in Physics",
+        "text_ta": "The Nobel Prize in Physics"
+      },
+      {
+        "key": "C",
+        "text_en": "The Nobel Prize in Chemistry",
+        "text_ta": "The Nobel Prize in Chemistry"
+      },
+      {
+        "key": "D",
+        "text_en": "The Copley Medal",
+        "text_ta": "The Copley Medal"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage notes that in 1911 she received the Nobel Prize in chemistry for isolating radium.",
+    "explanation_ta": "The passage notes that in 1911 she received the Nobel Prize in chemistry for isolating radium.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS8"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on sleep disorders, what is the medical term used for the inability to sleep?",
+    "question_ta": "According to the passage on sleep disorders, what is the medical term used for the inability to sleep?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Somnambulism",
+        "text_ta": "Somnambulism"
+      },
+      {
+        "key": "B",
+        "text_en": "Narcolepsy",
+        "text_ta": "Narcolepsy"
+      },
+      {
+        "key": "C",
+        "text_en": "Apnea",
+        "text_ta": "Apnea"
+      },
+      {
+        "key": "D",
+        "text_en": "Insomnia",
+        "text_ta": "Insomnia"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text states that some people suffer from an inability to sleep, a disease called insomnia.",
+    "explanation_ta": "The text states that some people suffer from an inability to sleep, a disease called insomnia.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which two biological systems govern sleep and wakefulness according to the passage on sleep disorders?",
+    "question_ta": "Which two biological systems govern sleep and wakefulness according to the passage on sleep disorders?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The central system and the peripheral system",
+        "text_ta": "The central system and the peripheral system"
+      },
+      {
+        "key": "B",
+        "text_en": "The circulatory system and the respiratory system",
+        "text_ta": "The circulatory system and the respiratory system"
+      },
+      {
+        "key": "C",
+        "text_en": "A sleep system and an arousal system",
+        "text_ta": "A sleep system and an arousal system"
+      },
+      {
+        "key": "D",
+        "text_en": "The nervous system and the endocrine system",
+        "text_ta": "The nervous system and the endocrine system"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The text indicates that sleep is caused by a sleep system and wakefulness by an arousal system, both governed by the brain.",
+    "explanation_ta": "The text indicates that sleep is caused by a sleep system and wakefulness by an arousal system, both governed by the brain.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS10"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which famous novel written by Pearl Buck earned her the American Pulitzer Prize in 1931?",
+    "question_ta": "Which famous novel written by Pearl Buck earned her the American Pulitzer Prize in 1931?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sons",
+        "text_ta": "Sons"
+      },
+      {
+        "key": "B",
+        "text_en": "The Good Earth",
+        "text_ta": "The Good Earth"
+      },
+      {
+        "key": "C",
+        "text_en": "East Wind: West Wind",
+        "text_ta": "East Wind: West Wind"
+      },
+      {
+        "key": "D",
+        "text_en": "A House Divided",
+        "text_ta": "A House Divided"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The text notes that her most popular novel, 'The Good Earth', earned for her the American Pulitzer Prize in 1931.",
+    "explanation_ta": "The text notes that her most popular novel, 'The Good Earth', earned for her the American Pulitzer Prize in 1931.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS11"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Based on the glossary provided, what does the word 'conserve' mean?",
+    "question_ta": "Based on the glossary provided, what does the word 'conserve' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To convert into a liquid state",
+        "text_ta": "To convert into a liquid state"
+      },
+      {
+        "key": "B",
+        "text_en": "To utilize without restriction",
+        "text_ta": "To utilize without restriction"
+      },
+      {
+        "key": "C",
+        "text_en": "To protect from harm or destruction",
+        "text_ta": "To protect from harm or destruction"
+      },
+      {
+        "key": "D",
+        "text_en": "To distribute evenly among groups",
+        "text_ta": "To distribute evenly among groups"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G1 defines 'Conserve' as 'To protect from harm or destruction'.",
+    "explanation_ta": "Glossary item G1 defines 'Conserve' as 'To protect from harm or destruction'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "According to glossary item G5, what does the word 'acute' mean?",
+    "question_ta": "According to glossary item G5, what does the word 'acute' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Present or experienced to a severe or intense degree",
+        "text_ta": "Present or experienced to a severe or intense degree"
+      },
+      {
+        "key": "B",
+        "text_en": "Broad and general in scope",
+        "text_ta": "Broad and general in scope"
+      },
+      {
+        "key": "C",
+        "text_en": "Hidden or secret",
+        "text_ta": "Hidden or secret"
+      },
+      {
+        "key": "D",
+        "text_en": "Mild and passing quickly",
+        "text_ta": "Mild and passing quickly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary G5 defines 'acute' as 'present or experienced to a severe or intense degree'.",
+    "explanation_ta": "Glossary G5 defines 'acute' as 'present or experienced to a severe or intense degree'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "GLOSSARY"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Based on the reading comprehension strategy rules, what is the primary recommendation when first approaching an unseen passage?",
+    "question_ta": "Based on the reading comprehension strategy rules, what is the primary recommendation when first approaching an unseen passage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Read the passage thoroughly to understand the main theme",
+        "text_ta": "Read the passage thoroughly to understand the main theme"
+      },
+      {
+        "key": "B",
+        "text_en": "Skip directly to the questions without reading the text",
+        "text_ta": "Skip directly to the questions without reading the text"
+      },
+      {
+        "key": "C",
+        "text_en": "Memorize every single word verbatim",
+        "text_ta": "Memorize every single word verbatim"
+      },
+      {
+        "key": "D",
+        "text_en": "Translate the entire text into another language",
+        "text_ta": "Translate the entire text into another language"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R1 states: 'Read the passage thoroughly to understand the main theme.'",
+    "explanation_ta": "Rule R1 states: 'Read the passage thoroughly to understand the main theme.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "RULES"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "According to strategy rule R2, how should a reader handle unknown words encountered within an unseen text?",
+    "question_ta": "According to strategy rule R2, how should a reader handle unknown words encountered within an unseen text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Infer the meaning of unknown words from the surrounding text",
+        "text_ta": "Infer the meaning of unknown words from the surrounding text"
+      },
+      {
+        "key": "B",
+        "text_en": "Stop reading immediately",
+        "text_ta": "Stop reading immediately"
+      },
+      {
+        "key": "C",
+        "text_en": "Ignore them completely",
+        "text_ta": "Ignore them completely"
+      },
+      {
+        "key": "D",
+        "text_en": "Guess randomly without checking context",
+        "text_ta": "Guess randomly without checking context"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R2 specifies: 'Infer the meaning of unknown words from the surrounding text.'",
+    "explanation_ta": "Rule R2 specifies: 'Infer the meaning of unknown words from the surrounding text.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "RULES"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What primary benefit does tourism provide regarding international relations, as noted in the global tourism passage?",
+    "question_ta": "What primary benefit does tourism provide regarding international relations, as noted in the global tourism passage?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It standardizes global currency systems",
+        "text_ta": "It standardizes global currency systems"
+      },
+      {
+        "key": "B",
+        "text_en": "It brings peoples of different nations together, fostering greater understanding and world peace",
+        "text_ta": "It brings peoples of different nations together, fostering greater understanding and world peace"
+      },
+      {
+        "key": "C",
+        "text_en": "It creates political alliances through military treaties",
+        "text_ta": "It creates political alliances through military treaties"
+      },
+      {
+        "key": "D",
+        "text_en": "It establishes unified international laws",
+        "text_ta": "It establishes unified international laws"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The passage states that tourism brings peoples of different nations together, leading to greater understanding, tolerance, and fostering world peace.",
+    "explanation_ta": "The passage states that tourism brings peoples of different nations together, leading to greater understanding, tolerance, and fostering world peace.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS4"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on water scarcity, what human activity contributes to acid rain and global warming?",
+    "question_ta": "According to the passage on water scarcity, what human activity contributes to acid rain and global warming?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Burning fossil fuels",
+        "text_ta": "Burning fossil fuels"
+      },
+      {
+        "key": "B",
+        "text_en": "Purifying distilled water",
+        "text_ta": "Purifying distilled water"
+      },
+      {
+        "key": "C",
+        "text_en": "Planting excessive trees",
+        "text_ta": "Planting excessive trees"
+      },
+      {
+        "key": "D",
+        "text_en": "Building water reservoirs",
+        "text_ta": "Building water reservoirs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text states: 'We burn fossil fuels that cause acid rain and global warming.'",
+    "explanation_ta": "The text states: 'We burn fossil fuels that cause acid rain and global warming.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "According to the passage on water scarcity, what is the Earth's approximate percentage of water?",
+    "question_ta": "According to the passage on water scarcity, what is the Earth's approximate percentage of water?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "50 per cent",
+        "text_ta": "50 per cent"
+      },
+      {
+        "key": "B",
+        "text_en": "60 per cent",
+        "text_ta": "60 per cent"
+      },
+      {
+        "key": "C",
+        "text_en": "70 per cent",
+        "text_ta": "70 per cent"
+      },
+      {
+        "key": "D",
+        "text_en": "80 per cent",
+        "text_ta": "80 per cent"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The passage states that the earth is 70 per cent water.",
+    "explanation_ta": "The passage states that the earth is 70 per cent water.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS1"
+  },
+  {
+    "subject": "English",
+    "unit": "ReadingComprehension",
+    "menu": "Unseen Passages",
+    "topic": "Unseen Passages",
+    "topic_id": "unseen_passages",
+    "topic_ta": "Unseen Passages",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which term does the United Nations Millennium Declaration use to describe water in PASS2?",
+    "question_ta": "Which term does the United Nations Millennium Declaration use to describe water in PASS2?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Blue diamond",
+        "text_ta": "Blue diamond"
+      },
+      {
+        "key": "B",
+        "text_en": "Green gold",
+        "text_ta": "Green gold"
+      },
+      {
+        "key": "C",
+        "text_en": "Liquid silver",
+        "text_ta": "Liquid silver"
+      },
+      {
+        "key": "D",
+        "text_en": "Vital fluid",
+        "text_ta": "Vital fluid"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "PASS2 refers to water as the 'green gold' essential for all life on earth.",
+    "explanation_ta": "PASS2 refers to water as the 'green gold' essential for all life on earth.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Unseen Passages",
+    "source_note": "PASS2"
+  }
+]

@@ -24,7 +24,11 @@ def ensure_columns(cur):
         """
         ALTER TABLE questions
           ADD COLUMN IF NOT EXISTS image_urls JSONB DEFAULT '[]'::jsonb,
-          ADD COLUMN IF NOT EXISTS tags JSONB DEFAULT '[]'::jsonb;
+          ADD COLUMN IF NOT EXISTS tags JSONB DEFAULT '[]'::jsonb,
+          ADD COLUMN IF NOT EXISTS learning_tip TEXT DEFAULT '',
+          ADD COLUMN IF NOT EXISTS learning_tip_ta TEXT DEFAULT '',
+          ADD COLUMN IF NOT EXISTS exam_trick TEXT DEFAULT '',
+          ADD COLUMN IF NOT EXISTS exam_trick_ta TEXT DEFAULT '';
         """
     )
 
@@ -111,9 +115,10 @@ def main():
             """
             INSERT INTO questions (
                 subject_id, topic_id, question_en, question_ta, correct_option,
-                explanation, explanation_ta, difficulty, type, batch, source_exam, source_fact,
+                explanation, explanation_ta, learning_tip, learning_tip_ta,
+                exam_trick, exam_trick_ta, difficulty, type, batch, source_exam, source_fact,
                 image_urls, tags
-            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) RETURNING id;
+            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) RETURNING id;
             """,
             (
                 SUBJECT_ID,
@@ -123,6 +128,10 @@ def main():
                 q.get("correct_option") or "",
                 q.get("explanation") or "",
                 q.get("explanation_ta") or "",
+                q.get("learning_tip") or "",
+                q.get("learning_tip_ta") or "",
+                q.get("exam_trick") or "",
+                q.get("exam_trick_ta") or "",
                 q.get("difficulty") or "Medium",
                 q.get("type") or "pyq",
                 q.get("batch") or "",

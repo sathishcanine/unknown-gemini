@@ -1,0 +1,2970 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "idioms_phrases",
+  "sources": [
+    "Vetrii Vocabulary pp.[87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99] (primary, vision)",
+    "Grammer.pdf pp.[196, 197, 199, 206, 207, 209, 210, 211, 216, 217] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "An idiom (also called idiomatic expression) is an expression, word or phrase that has a figurative meaning conventionally understood by native speakers. This meaning is different from the literal meaning of the idiom's individual elements.",
+      "id_tag": "definition",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "rule_en": "Given below are some idiomatic expressions with their meanings. Understand the meaning.",
+      "id_tag": "overview",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "rule_en": "A phrase is a group of words that forms a meaningful unit, but it is not a complete sentence. In other words, it does not have a subject or a verb.",
+      "id_tag": "definition",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "rule_en": "Idioms derived from boxing terminology used to describe general life situations.",
+      "id_tag": "overview",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "rule_en": "Replace the words in italics with the appropriate idioms, making suitable changes wherever necessary.",
+      "id_tag": "other",
+      "source": "grammer",
+      "source_page": 209
+    },
+    {
+      "rule_en": "An idiom is an expression in English language that has a special meaning of its own. It cannot be understood from the meanings of the individual words.",
+      "id_tag": "definition",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "rule_en": "An idiom is an expression in English with a special meaning of its own.",
+      "id_tag": "definition",
+      "source": "grammer",
+      "source_page": 211
+    }
+  ],
+  "examples": [
+    {
+      "idiom_en": "Alarm bells ringing",
+      "meaning_en": "Sign of something going wrong.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Back to the wall",
+      "meaning_en": "In serious difficulty.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Grasp/clutch at straws",
+      "meaning_en": "Try any method to overcome a crisis.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Save by the bell",
+      "meaning_en": "Help at the last moment rescuing one from a difficult situation.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Hang out to dry",
+      "meaning_en": "Abandoning one who is in difficulty.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Save one's skin",
+      "meaning_en": "To protect oneself from difficulty",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Make both ends meet",
+      "meaning_en": "Manage one's expenses within one's income",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "A bolt out of a clear sky",
+      "meaning_en": "A sudden unexpected event or news",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Go to grave",
+      "meaning_en": "To exit the world",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Have the whip hand",
+      "meaning_en": "To be the most powerful",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Under a cloud",
+      "meaning_en": "Viewed with suspicion and distrust",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "White lies",
+      "meaning_en": "lies told to avoid hurting one's feelings",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Drink life to the lees",
+      "meaning_en": "drink to the very last drop; here 'live life to the fullest'",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Go on a spree",
+      "meaning_en": "indulging in something actively in an unrestrained way",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "Go on the stand",
+      "meaning_en": "testify during a trial in the court of law",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 87
+    },
+    {
+      "idiom_en": "The black hat",
+      "meaning_en": "A bad person, especially a villain or criminal in a film, novel, or play.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Flight of fancy",
+      "meaning_en": "An imaginative but unrealistic idea",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "In full flight",
+      "meaning_en": "Escaping as rapidly as possible.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Top-flight",
+      "meaning_en": "Among the best of a particular group",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Throw in the towel",
+      "meaning_en": "To give up",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "In our corner",
+      "meaning_en": "On your side in an argument or dispute",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "On the ropes",
+      "meaning_en": "A state of near collapse or defeat",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Below the belt",
+      "meaning_en": "Unfair or unsporting behavior",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "By the skin of one's teeth",
+      "meaning_en": "A narrow escape",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Tight corners",
+      "meaning_en": "Difficult situations",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Shoot one's bolt",
+      "meaning_en": "Exhaust one's effort",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "In a nice pickle",
+      "meaning_en": "In a mess",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Have a cold feet",
+      "meaning_en": "Be frightened",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "A piece of cake",
+      "meaning_en": "Easy",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "On cloud nine",
+      "meaning_en": "Blissfully happy",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Perfect ten",
+      "meaning_en": "Completely perfect",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "At a snail's pace",
+      "meaning_en": "Moving very slowly",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Apple of my eye",
+      "meaning_en": "Someone, who is cherished above all others.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Right up one's alley",
+      "meaning_en": "To be the type of thing that you are interested in or that you enjoy doing",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Drive one up the wall",
+      "meaning_en": "To annoy or irritate someone",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 88
+    },
+    {
+      "idiom_en": "Take (one) for a ride",
+      "meaning_en": "To trick, cheat, or lie to someone",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "Beat a hasty retreat",
+      "meaning_en": "To leave a place quickly",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "A double-distilled idiot",
+      "meaning_en": "Very stupid person",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "Cat's paw",
+      "meaning_en": "A person who is used by another to carry out an unpleasant or dangerous task",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "On the ball",
+      "meaning_en": "Competent",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "Over the moon",
+      "meaning_en": "Extremely happy",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "Lend an ear",
+      "meaning_en": "Listen",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 89
+    },
+    {
+      "idiom_en": "Air and manner",
+      "meaning_en": "To behave in a way that does not show how you really feel",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Quick as a flash",
+      "meaning_en": "Very quickly",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Cup of tea",
+      "meaning_en": "One's favourite activity",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Dree this weird",
+      "meaning_en": "To put up with one's fate",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "The cat is out of the bag",
+      "meaning_en": "The secret is out",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Once in a blue moon",
+      "meaning_en": "An event that happens rarely",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "On the ball",
+      "meaning_en": "When someone understands the situations well",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Presence of mind",
+      "meaning_en": "Ability to think clearly and act quickly in an emergency",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "In the dim past",
+      "meaning_en": "A time that is so far in the past it is difficult to remember",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "To keep our feet from wandering",
+      "meaning_en": "To avoid stepping into the complaining street",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Miss the boat",
+      "meaning_en": "it's too late",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Under the weather",
+      "meaning_en": "sick",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Comparing apples to oranges",
+      "meaning_en": "comparing two things that cannot be compared",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Ignorance is bliss",
+      "meaning_en": "you are better off not knowing",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Spill the beans",
+      "meaning_en": "give away a secret",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "The ball is in your court",
+      "meaning_en": "it's your decision",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Throw caution to wind",
+      "meaning_en": "take a risk",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "Take a rain check",
+      "meaning_en": "postpone a plan",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 446
+    },
+    {
+      "idiom_en": "To wash one's hands off",
+      "meaning_en": "To disclaim the responsibility for anything",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "To take to heels",
+      "meaning_en": "To run away",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "To throw cold water",
+      "meaning_en": "Discourage",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "In hot water",
+      "meaning_en": "In trouble",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Off and on",
+      "meaning_en": "Now and then",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "By hook or by crook",
+      "meaning_en": "By all possible means",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Tooth and nail",
+      "meaning_en": "With full force",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Out and out",
+      "meaning_en": "Completely",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Man of letters",
+      "meaning_en": "Scholar",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Thick and thin",
+      "meaning_en": "Throughout/in spite of difficulties",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Fly in the face of",
+      "meaning_en": "Oppose",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Feather in the cap",
+      "meaning_en": "Achievement",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Told him flat",
+      "meaning_en": "Expressed opinion directly",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Holds good",
+      "meaning_en": "Valid at the time of discussion",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Tricks of the trade",
+      "meaning_en": "The expertise of doing business",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "In high spirit",
+      "meaning_en": "Cheerful",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Holds good",
+      "meaning_en": "Valid",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Kicked the bucket",
+      "meaning_en": "Died",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "High time",
+      "meaning_en": "Proper time",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Cock and bull story",
+      "meaning_en": "An unbelievable story",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Hard and fast",
+      "meaning_en": "That cannot be changed easily",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "To kill time",
+      "meaning_en": "To waste time",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Keep off the beaten track",
+      "meaning_en": "Do something unusual",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Red handed",
+      "meaning_en": "In the very act of committing a crime",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "At one's wit's end",
+      "meaning_en": "Puzzled",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Make up one's mind",
+      "meaning_en": "Decide",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "In deep waters",
+      "meaning_en": "In great troubles",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Wait for the dust to settle",
+      "meaning_en": "To wait for a situation to become clear or certain",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Get/have all your ducks in a row",
+      "meaning_en": "To have made all the preparations needed to do something/to be well organized",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Fetch and carry",
+      "meaning_en": "To do a lot of little jobs for somebody as if you were their servant",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Do the math",
+      "meaning_en": "To think carefully about something before doing it, so that you know all the relevant facts or figures",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Round the corner",
+      "meaning_en": "Very near",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "The icing on the cake",
+      "meaning_en": "Something extra and not essential, but is added to make it even better",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Break the ice",
+      "meaning_en": "To make people more relaxed, especially at the beginning of the meeting",
+      "example_en": "",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Bad Egg",
+      "meaning_en": "A dishonest or ill-behaved person.",
+      "example_en": "He was a bad egg.",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "A piece of cake",
+      "meaning_en": "A task that can be accomplished very easily.",
+      "example_en": "English is a piece of cake.",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "A couch potato",
+      "meaning_en": "An idle person.",
+      "example_en": "Hazel is such a couch potato. She just sits around all day watching television.",
+      "note_en": "",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 91
+    },
+    {
+      "idiom_en": "Big cheese",
+      "meaning_en": "An important person",
+      "example_en": "Tony is the boss of the whole sales and marketing department. He is a big cheese.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Bread and butter",
+      "meaning_en": "The necessities",
+      "example_en": "Tell me the bread and butter of the article and explain the general idea of it.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "A smart cookie",
+      "meaning_en": "A clever person",
+      "example_en": "George is one smart cookie. He got 100 percent on all his tests.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "In a nutshell",
+      "meaning_en": "In a few words",
+      "example_en": "In a nutshell, she is sick because she drank too much last night.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "The apple of my eye",
+      "meaning_en": "An adored person",
+      "example_en": "My precious daughter is the apple of my eye.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Bring home the bacon",
+      "meaning_en": "Earn income",
+      "example_en": "Louie brings home the bacon while his wife takes care of the kids.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Butter someone up",
+      "meaning_en": "Be really nice to someone",
+      "example_en": "You had better butter me up if you want a raise in salary.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Cheap as chips",
+      "meaning_en": "Very inexpensive",
+      "example_en": "This cup of coffee was only 50 cents. Cheap as chips!",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Couch potato",
+      "meaning_en": "Lazy person",
+      "example_en": "Don't be such a couch potato and do some work for once!",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Cream of the crop",
+      "meaning_en": "The best",
+      "example_en": "The team has the cream of the crop of draft picks. They will probably win the cup soon.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Cup of joe",
+      "meaning_en": "Cup of coffee",
+      "example_en": "Let's get a cup of joe at Starbucks.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Cut the mustard",
+      "meaning_en": "Meet expectations",
+      "example_en": "George's work ethic didn't cut the mustard, so he got fired.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Freeze your buns off",
+      "meaning_en": "Be very cold",
+      "example_en": "You will freeze your buns off in Antarctica.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Full of beans",
+      "meaning_en": "Energetic",
+      "example_en": "The elementary students are always full of beans.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Hard nut to crack",
+      "meaning_en": "Difficult to understand",
+      "example_en": "The criminal was a tough nut to crack. He never revealed any of his accomplices.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "My cup of tea",
+      "meaning_en": "Something enjoyable",
+      "example_en": "Musicals aren't my cup of tea. I prefer regular movies.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "On a silver platter",
+      "meaning_en": "Receive benefits without working",
+      "example_en": "He was offered the new job on a silver platter, but he didn't take it.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Out to lunch",
+      "meaning_en": "Crazy",
+      "example_en": "That guy is so out to lunch. He is difficult to get business done with.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Spill the beans",
+      "meaning_en": "Reveal a secret",
+      "example_en": "Who spilt the beans about my brother's surprise birthday party?",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "The ball is in your court",
+      "meaning_en": "It is your turn to make a decision",
+      "example_en": "I have done more than my share in this partnership. The ball is in your court to decide what happens next.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "Saved by the bell",
+      "meaning_en": "Saved by a last minute intervention",
+      "example_en": "The accused was saved by the bell otherwise the judge would have pronounced the sentence today itself.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 92
+    },
+    {
+      "idiom_en": "To strike out",
+      "meaning_en": "To fail at something.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Jump for joy",
+      "meaning_en": "Happy.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "On the ball",
+      "meaning_en": "Fully aware and in control of a situation.",
+      "example_en": "The new receptionist is really on the ball when it comes to answering the phone.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Front runner",
+      "meaning_en": "Expected to win or succeed.",
+      "example_en": "Angela is a front runner for the new supervisor position.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Hat trick",
+      "meaning_en": "Three goals by one player.",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Call the shots",
+      "meaning_en": "Make the decisions.",
+      "example_en": "While our boss is on vacation, Bob will call the shots.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Down to the wire",
+      "meaning_en": "To the end.",
+      "example_en": "It's coming down to the wire to get these done on time.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Give it your best shot",
+      "meaning_en": "Try your hardest.",
+      "example_en": "Give it your best shot and you may just make it to the finals.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Go to bat for someone",
+      "meaning_en": "Defend someone.",
+      "example_en": "Andy is asking for a salary increase, and I'm going to go to bat for him if the boss says no.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Hit below the belt",
+      "meaning_en": "Do something that is unfair.",
+      "example_en": "Amanda was hitting below the belt when she called Adrian an unfit father.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Hold all the aces",
+      "meaning_en": "Expected to win.",
+      "example_en": "The children hold all the aces when it comes to the father-son baseball tournament.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Jump the gun",
+      "meaning_en": "Begin too soon.",
+      "example_en": "I guess I jumped the gun by buying Pam and Steve a wedding gift. They called off the engagement.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Learn the ropes",
+      "meaning_en": "Learn new things.",
+      "example_en": "The first week on the job you will just be learning the ropes.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Neck and neck",
+      "meaning_en": "very close.",
+      "example_en": "George and Stan are neck and neck in the hockey pool. Either of them could win the money.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Settle a score",
+      "meaning_en": "Get even.",
+      "example_en": "My brother wants to settle the score with that guy who stole my wallet.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Shot in the dark",
+      "meaning_en": "Guess.",
+      "example_en": "I was lucky to win the quiz. All my answers were shots in the dark.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Skate on thin ice",
+      "meaning_en": "Do something risky.",
+      "example_en": "You're skating on thin ice by not sending in your college application before now.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Throw in the towel",
+      "meaning_en": "Give up.",
+      "example_en": "If they don't accept our offer this time we are going to throw in the towel and look at houses elsewhere.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Time out",
+      "meaning_en": "Break.",
+      "example_en": "Let's take some time out and grab a coffee.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "Win hands down",
+      "meaning_en": "Easy victory.",
+      "example_en": "The other team was missing half of its players. We won hands down.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 93
+    },
+    {
+      "idiom_en": "At sixes and sevens",
+      "meaning_en": "Confused or in a state of disorder",
+      "example_en": "The government were at sixes and sevens over what to do about the unemployment rate.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "One-horse town",
+      "meaning_en": "Very small town or village",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Take five",
+      "meaning_en": "Take a short break",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Seventh heaven",
+      "meaning_en": "Very happy about something",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Caught between two stools",
+      "meaning_en": "Difficult to choose",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "At the eleventh hour",
+      "meaning_en": "At the last possible moment",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "To be one in essence",
+      "meaning_en": "To be the same",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Be in two minds",
+      "meaning_en": "Be doubtful about",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "To know like the back of one's hand",
+      "meaning_en": "To know all the details of a particular thing",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "To stick to one's faith",
+      "meaning_en": "To follow one's faith",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "To prove one's point",
+      "meaning_en": "To show one's idea is right",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "To be with one",
+      "meaning_en": "To be in harmony",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Caught red-handed",
+      "meaning_en": "To catch someone in the act of doing something",
+      "example_en": "He was caught redhanded while stealing those candy bars.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Black sheep",
+      "meaning_en": "To be the outcast, odd one out, unlike the others",
+      "example_en": "Rachel is the black sheep in the team.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Out of the blue",
+      "meaning_en": "Randomly, surprisingly",
+      "example_en": "That storm came out of the blue and I didn't have an umbrella!",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Once in a blue moon",
+      "meaning_en": "Very rarely",
+      "example_en": "Once in a blue moon you will see that mean professor smile.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Gray area",
+      "meaning_en": "Unclear, undefined",
+      "example_en": "The issue of allowing mobile phones in the classroom is a gray area right now - it could go either way.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "A golden opportunity",
+      "meaning_en": "A good chance to get something valuable",
+      "example_en": "Katie was green with envy when she saw you got a new car for your birthday.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "As white as a sheet",
+      "meaning_en": "Very fearful",
+      "example_en": "Walter went as white as a sheet when he saw Hank get shot.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Black and blue",
+      "meaning_en": "Hurt physically or mentally, bruised",
+      "example_en": "Both during and after the relationship, I felt so black and blue.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Black and white",
+      "meaning_en": "Absolute terms, in writing, officially",
+      "example_en": "The contract that you signed is in black and white. You must agree to the terms.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 94
+    },
+    {
+      "idiom_en": "Born with a silver spoon",
+      "meaning_en": "From a rich family",
+      "example_en": "Sara was born with a silver spoon, but she became a drug addict.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Every cloud has a silver lining",
+      "meaning_en": "Be optimistic",
+      "example_en": "She got fired but found a better job she. Every cloud has a silver lining.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Feel blue",
+      "meaning_en": "Feel sad",
+      "example_en": "Barbara felt blue after breaking up with her boyfriend.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Give the green light",
+      "meaning_en": "Give permission",
+      "example_en": "She gave her son the green light to join the police academy.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Green thumb",
+      "meaning_en": "Talent for gardening",
+      "example_en": "Your flowers live so long because of your green thumb.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Paint the town red",
+      "meaning_en": "Have fun",
+      "example_en": "It's finally the weekend! Let's paint the town red.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Raise a white flag",
+      "meaning_en": "Surrender",
+      "example_en": "I decided to raise a white flag and stop arguing with my wife.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Red-letter day",
+      "meaning_en": "An important day",
+      "example_en": "My graduation was a red-letter day for my parents.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Talk a blue streak",
+      "meaning_en": "Talk a lot",
+      "example_en": "Women who are close friends can talk a blue streak on the phone.",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Let the cat out of the bag",
+      "meaning_en": "Reveal a secret",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "The lion's share",
+      "meaning_en": "The biggest part",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Watch like a hawk",
+      "meaning_en": "Watching carefully",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Fish out of water",
+      "meaning_en": "Very uncomfortable",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Mad as a hornet",
+      "meaning_en": "Extremely angry",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Smell a rat",
+      "meaning_en": "Suspect deception",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Ants in your pants",
+      "meaning_en": "Anxious or nervous",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Beast of burden",
+      "meaning_en": "Someone carries others problems",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Cat nap",
+      "meaning_en": "A short sleep",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Copy cat",
+      "meaning_en": "Someone who copies another",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Crocodile tears",
+      "meaning_en": "Fake tears",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Dog days",
+      "meaning_en": "Very hot days",
+      "example_en": "None",
+      "note_en": "None",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 451
+    },
+    {
+      "idiom_en": "Drop like flies",
+      "meaning_en": "Die or give up quickly",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Fishy",
+      "meaning_en": "Strange or suspicious",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Have a cow",
+      "meaning_en": "Get upset",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "In the dog house",
+      "meaning_en": "in trouble",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Nest egg",
+      "meaning_en": "Saved money",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Raining cats and dogs",
+      "meaning_en": "Raining heavily",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Rat race",
+      "meaning_en": "Competitive struggle",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Take the bull by the horns",
+      "meaning_en": "Be brave and face a challenge",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Until the cows come home",
+      "meaning_en": "For a long time",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Pieces of eight",
+      "meaning_en": "treasure",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Black and blue",
+      "meaning_en": "severely",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Wild goose chase",
+      "meaning_en": "wasteful",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Seventh heaven",
+      "meaning_en": "very happy",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "A couch potato",
+      "meaning_en": "lazy person",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "The lion's share",
+      "meaning_en": "biggest share",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "In black and white",
+      "meaning_en": "written",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Drop the ball",
+      "meaning_en": "making a mistake",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Cat's meow",
+      "meaning_en": "excellent",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "idiom_en": "Blood runs thicker than water",
+      "meaning_en": "Family members have stronger obligations with each other than with people outside the family.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "To be a fish out of water",
+      "meaning_en": "To be uncomfortable in a particular situation.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "Dull as dishwater",
+      "meaning_en": "Boring, uninteresting.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "As a duck takes to water",
+      "meaning_en": "Naturally, with ease.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "Come hell or high water",
+      "meaning_en": "No matter what happens.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "You never miss the water till the well runs dry",
+      "meaning_en": "People are not grateful for what they have until they lose it.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "Pour cold water on something",
+      "meaning_en": "To criticize or stop something that some people are enthusiastic about.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "Tread water",
+      "meaning_en": "To be active but without making progress or falling farther behind.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "Be (like) water off a duck's back",
+      "meaning_en": "Criticism to someone that has no effect on them at all.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "To be in deep water",
+      "meaning_en": "To be in a difficult situation.",
+      "id_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "idiom_en": "a couch potato",
+      "meaning_en": "an idle person",
+      "example_en": "",
+      "note_en": "Food Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "The ball is in your court",
+      "meaning_en": "It is your turn to make a decision.",
+      "example_en": "I've done more than my share in this partnership. The ball is in your court to decide what happens next.",
+      "note_en": "Sport Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "Saved by the bell",
+      "meaning_en": "Saved by a last minute intervention.",
+      "example_en": "The accused was saved by the bell otherwise the judge would have pronounced the sentence today itself.",
+      "note_en": "Sport Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "to strike out",
+      "meaning_en": "to fail at something",
+      "example_en": "",
+      "note_en": "Sport Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "jump for joy",
+      "meaning_en": "happy",
+      "example_en": "",
+      "note_en": "Sport Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "on the ball",
+      "meaning_en": "fully aware and in control of a situation",
+      "example_en": "",
+      "note_en": "Sport Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "front runner",
+      "meaning_en": "expected to win or succeed",
+      "example_en": "",
+      "note_en": "Sport Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "On cloud nine",
+      "meaning_en": "Blissfully happy.",
+      "example_en": "The grandmother was on cloud nine to see her grandson after a long time.",
+      "note_en": "Number Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "At sixes and sevens",
+      "meaning_en": "confused or in a state of disorder.",
+      "example_en": "The government were at sixes and sevens over what to do about the unemployment rate.",
+      "note_en": "Number Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "Caught red-handed",
+      "meaning_en": "to catch someone in the act of doing something.",
+      "example_en": "He was caught red-handed while stealing those candy bars.",
+      "note_en": "Colours Idiom",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 196
+    },
+    {
+      "idiom_en": "At a snail’s pace",
+      "meaning_en": "Moving very slowly",
+      "example_en": "Traffic is moving at a snail’s pace.",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "idiom_en": "the lion’s share",
+      "meaning_en": "the biggest part",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "idiom_en": "hungry as a bear",
+      "meaning_en": "being very hungry",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 199
+    },
+    {
+      "idiom_en": "gruff as a bear",
+      "meaning_en": "being unsociable, speaking in a very abrupt, rude way",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 199
+    },
+    {
+      "idiom_en": "take the bear by the tooth",
+      "meaning_en": "put oneself in a dangerous position",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 199
+    },
+    {
+      "idiom_en": "as busy as a hibernating bear",
+      "meaning_en": "remaining idle",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 199
+    },
+    {
+      "idiom_en": "a bear hug",
+      "meaning_en": "put one's arms around someone and hug them affectionately",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 199
+    },
+    {
+      "idiom_en": "a bear market",
+      "meaning_en": "a period of time when investors are more likely to sell rather than buy shares",
+      "example_en": "null",
+      "note_en": "null",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 199
+    },
+    {
+      "idiom_en": "on the ropes",
+      "meaning_en": "state of near collapse or defeat",
+      "example_en": "N/A",
+      "note_en": "Refers to a boxer forced against the ring ropes by an opponent's attack.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "idiom_en": "below the belt",
+      "meaning_en": "unfair or unsporting behaviour",
+      "example_en": "N/A",
+      "note_en": "Refers to illegal hits below the beltline in boxing.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "idiom_en": "square off",
+      "meaning_en": "prepare for a conflict",
+      "example_en": "N/A",
+      "note_en": "Refers to facing each other at the beginning of a match.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "idiom_en": "shot his bolt",
+      "meaning_en": "to have done all that one can do; exhausted one's resources or efforts",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 207
+    },
+    {
+      "idiom_en": "in a nice pickle",
+      "meaning_en": "to be in a difficult or embarrassing situation",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 207
+    },
+    {
+      "idiom_en": "have cold feet",
+      "meaning_en": "to lose the courage or confidence needed to do something",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 207
+    },
+    {
+      "idiom_en": "right up one's alley",
+      "meaning_en": "something that one is interested in or good at",
+      "example_en": "I love thrillers and this book appeals to me strongly.",
+      "note_en": "Associated with example 'e'",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 209
+    },
+    {
+      "idiom_en": "drive one up the wall",
+      "meaning_en": "to irritate or annoy someone",
+      "example_en": "The old man got irritated at the loud noise outside.",
+      "note_en": "Associated with example 'a'",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 209
+    },
+    {
+      "idiom_en": "hit the road",
+      "meaning_en": "to begin a journey",
+      "example_en": "We were driving, when it started raining heavily. After stopping for an hour, we began the journey again.",
+      "note_en": "Associated with example 'b'",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 209
+    },
+    {
+      "idiom_en": "take (one) for a ride",
+      "meaning_en": "to deceive or cheat someone",
+      "example_en": "Ramesh gave false excuses for not attending the meeting and deceived me.",
+      "note_en": "Associated with example 'c'",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 209
+    },
+    {
+      "idiom_en": "in panic mode",
+      "meaning_en": "a state of extreme fear or anxiety",
+      "example_en": "At the interview when questions were fired at me rapidly, I forgot everything and grew irritated.",
+      "note_en": "Associated with example 'd'",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 209
+    },
+    {
+      "idiom_en": "to make good",
+      "meaning_en": "to compensate for a wrongdoing",
+      "example_en": "I told him he would have to make good.",
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "idiom_en": "get/have all your ducks in a row",
+      "meaning_en": "to have made all the preparations needed to do something / to be well organized",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "idiom_en": "fetch and carry (for somebody)",
+      "meaning_en": "to do a lot of little jobs for somebody as if you were their servant",
+      "example_en": null,
+      "note_en": null,
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "idiom_en": "The ball is in your court",
+      "meaning_en": "it’s your decision",
+      "example_en": "none",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Green with envy",
+      "meaning_en": "to be very jealous/envious",
+      "example_en": "Saif was green with envy when he saw my new car.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Take the red eye",
+      "meaning_en": "a late night flight that arrives early in the morning",
+      "example_en": "Harish took the red eye from California to New York last night and now he is exhausted.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Tickled pink",
+      "meaning_en": "to be extremely pleased",
+      "example_en": "My aunt was tickled pink that you called on her birthday.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Black as a skillet",
+      "meaning_en": "used to describe something that is very dirty, black with dirt",
+      "example_en": "You clothes are as black as a skillet after cleaning the car.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Blue collar",
+      "meaning_en": "used to describe men used as labourers or factory workers",
+      "example_en": "The company got rid of a lot of the blue-collar workers during the recession.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Browned off",
+      "meaning_en": "to be bored or annoyed with someone or something",
+      "example_en": "Children are always browned off when their neighbour comes to visit.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "White wash something",
+      "meaning_en": "to cover up our faith or wrongdoings",
+      "example_en": "The organization was accused of trying to white wash the scandal over charity pay outs.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "A yellow streak",
+      "meaning_en": "someone who has cowardice in their character",
+      "example_en": "My neighbour has a yellow streak and he will not help me, if I have problem.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Grey matter",
+      "meaning_en": "brains, intelligence",
+      "example_en": "I wish my brother would use his grey matter more effectively when he is planning something.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "In black and white",
+      "meaning_en": "in writing, officially",
+      "example_en": "Put down your complaint in black and white.",
+      "note_en": "none",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 216
+    },
+    {
+      "idiom_en": "Black and blue",
+      "meaning_en": "bruised",
+      "example_en": "My shoulder was black and blue after I fell down.",
+      "note_en": "Idiom associated with physical injury.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Open a can of worms",
+      "meaning_en": "create a whole new set of problems",
+      "example_en": "That discussion of yours will open a can of worms.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "The world is your oyster",
+      "meaning_en": "you have many good opportunities in front of you",
+      "example_en": "Mohan has graduated from a wonderful university, so the world is his oyster!",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Watching like a hawk",
+      "meaning_en": "watching something very closely",
+      "example_en": "The hostel warden watches the students like a hawk.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Mad as a hornet",
+      "meaning_en": "very angry or furious",
+      "example_en": "My sister was as mad as a hornet, when we broke the expensive vase.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Get your ducks in a row",
+      "meaning_en": "organise things",
+      "example_en": "The domain expert will review the project to make sure that all the ducks are in a row.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Hold your horses",
+      "meaning_en": "slow down, stop",
+      "example_en": "Hold your horses ! There’s no need to rush.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Let sleeping dogs lie",
+      "meaning_en": "leave it alone, leave something in peace",
+      "example_en": "Finally, they decided to let sleeping dogs lie and not discuss the matter any further.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Chicken out",
+      "meaning_en": "to decide not to do something out of fear",
+      "example_en": "Don’t chicken out of the programme because you have to compere.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Make a bee line",
+      "meaning_en": "go straight for something",
+      "example_en": "As soon as my friend got off the plane she made a bee line to the cafeteria.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Until the cows come home",
+      "meaning_en": "for a very long time",
+      "example_en": "Shailaja wouldn’t mind listening to music till the cows come home",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "A lone wolf",
+      "meaning_en": "someone who prefers to spend time alone and has few friends",
+      "example_en": "That boy is a lone wolf and spends most of his time alone.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Monkey around with",
+      "meaning_en": "to play with or waste time with someone or something",
+      "example_en": "My maid’s son spent the morning monkeying around with an old radio.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "As meek as a lamb",
+      "meaning_en": "quiet, docile, meek",
+      "example_en": "The new secretary is as meek as a lamb.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "A dumb bunny",
+      "meaning_en": "a stupid or gullible person",
+      "example_en": "Sam is a dumb bunny and everyone makes fun of him.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    },
+    {
+      "idiom_en": "Have a whale of a time",
+      "meaning_en": "to have an exciting and interesting time",
+      "example_en": "We had a whale of a time at the party.",
+      "note_en": "Idiom associated with insects/animals.",
+      "id_tag": "meaning",
+      "source": "grammer",
+      "source_page": 217
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Match the following idioms: 1. Hungry as a bear, 2. Gruff as a bear, 3. Take the bear by the tooth, 4. As busy as a hibernating bear, 5. A bear hug, 6. A bear market",
+      "answer_en": "1-a, 2-b, 3-c, 4-d, 5-e, 6-f",
+      "options_en": [
+        "a: Being very hungry",
+        "b: Being unsociable, speaking in a very abrupt, rude way",
+        "c: Put oneself in a dangerous position",
+        "d: Remaining idle",
+        "e: Put one's arms around someone and hug them affectionately",
+        "f: A period of time when investors are more likely to sell rather than buy shares"
+      ],
+      "id_tag": "match",
+      "source": "vetrii",
+      "source_page": 97
+    },
+    {
+      "prompt_en": "We ___ in our effort to make the convention a success.",
+      "answer_en": "Went whole hog",
+      "options_en": [
+        "piggy back",
+        "went whole hog",
+        "piggy bank",
+        "on the hog",
+        "in a pig's eye"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "prompt_en": "Never ___ will my friend be able to save enough money to go to Mexico for the winter.",
+      "answer_en": "In a pig's eye",
+      "options_en": [
+        "piggy back",
+        "went whole hog",
+        "piggy bank",
+        "on the hog",
+        "in a pig's eye"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "prompt_en": "My friend has been living high ___ since he changed jobs.",
+      "answer_en": "On the hog",
+      "options_en": [
+        "piggy back",
+        "went whole hog",
+        "piggy bank",
+        "on the hog",
+        "in a pig's eye"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "prompt_en": "They boy has been putting money into his ___ to save for a bicycle.",
+      "answer_en": "Piggy bank",
+      "options_en": [
+        "piggy back",
+        "went whole hog",
+        "piggy bank",
+        "on the hog",
+        "in a pig's eye"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "prompt_en": "The boy was riding ___ on his father's shoulders.",
+      "answer_en": "Piggy back",
+      "options_en": [
+        "piggy back",
+        "went whole hog",
+        "piggy bank",
+        "on the hog",
+        "in a pig's eye"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 453
+    },
+    {
+      "prompt_en": "1. The Sherpas are cheerful, gallant men, who ______ tents, oxygen, food etc., for climbers during their ascent of the summit.",
+      "answer_en": "fetch and carry",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "2. The team ______ carefully so as to reach the summit successfully.",
+      "answer_en": "do the math",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "3. When they had to climb through deep new snow the party sometimes had to ______.",
+      "answer_en": "wait for dust to settle",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "4. Each member of the team had all their ______ to the top.",
+      "answer_en": "get / have all your ducks in a row",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "5. We could not believe that with a few more whacks of the ice axe in the firm snow we ______ to the top.",
+      "answer_en": "round the corner",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "6. The conference room was silent though packed. The chairman introduced an interactive session to ______.",
+      "answer_en": "Break the ice",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "7. Our headmistress not only promised us to take us for an excursion, but also announced that on return we would get a holiday. It was like ______.",
+      "answer_en": "The icing on the cake",
+      "options_en": [
+        "fetch and carry",
+        "do the math",
+        "wait for dust to settle",
+        "get / have all your ducks in a row",
+        "round the corner",
+        "Break the ice",
+        "The icing on the cake"
+      ],
+      "id_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 99
+    },
+    {
+      "prompt_en": "Match: A piece of cake",
+      "answer_en": "easy task",
+      "options_en": [
+        "moving very slowly",
+        "easy task",
+        "blissfully happy",
+        "someone who is cherished above all others",
+        "completely perfect"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "prompt_en": "Match: On cloud nine",
+      "answer_en": "blissfully happy",
+      "options_en": [
+        "moving very slowly",
+        "easy task",
+        "blissfully happy",
+        "someone who is cherished above all others",
+        "completely perfect"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "prompt_en": "Match: Perfect ten",
+      "answer_en": "completely perfect",
+      "options_en": [
+        "moving very slowly",
+        "easy task",
+        "blissfully happy",
+        "someone who is cherished above all others",
+        "completely perfect"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "prompt_en": "Match: At a snail’s pace",
+      "answer_en": "moving very slowly",
+      "options_en": [
+        "moving very slowly",
+        "easy task",
+        "blissfully happy",
+        "someone who is cherished above all others",
+        "completely perfect"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "prompt_en": "Match: Apple of my eye",
+      "answer_en": "someone who is cherished above all others",
+      "options_en": [
+        "moving very slowly",
+        "easy task",
+        "blissfully happy",
+        "someone who is cherished above all others",
+        "completely perfect"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 197
+    },
+    {
+      "prompt_en": "Match the idiom 'throw in the towel' with its meaning.",
+      "answer_en": "to give up",
+      "options_en": [
+        "state of near collapse or defeat",
+        "unfair or unsporting behaviour",
+        "prepare for a conflict",
+        "on your side in an argument or dispute",
+        "to give up"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "prompt_en": "Match the idiom 'in our corner' with its meaning.",
+      "answer_en": "on your side in an argument or dispute",
+      "options_en": [
+        "state of near collapse or defeat",
+        "unfair or unsporting behaviour",
+        "prepare for a conflict",
+        "on your side in an argument or dispute",
+        "to give up"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "prompt_en": "Match the idiom 'on the ropes' with its meaning.",
+      "answer_en": "state of near collapse or defeat",
+      "options_en": [
+        "state of near collapse or defeat",
+        "unfair or unsporting behaviour",
+        "prepare for a conflict",
+        "on your side in an argument or dispute",
+        "to give up"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "prompt_en": "Match the idiom 'below the belt' with its meaning.",
+      "answer_en": "unfair or unsporting behaviour",
+      "options_en": [
+        "state of near collapse or defeat",
+        "unfair or unsporting behaviour",
+        "prepare for a conflict",
+        "on your side in an argument or dispute",
+        "to give up"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "prompt_en": "Match the idiom 'square off' with its meaning.",
+      "answer_en": "prepare for a conflict",
+      "options_en": [
+        "state of near collapse or defeat",
+        "unfair or unsporting behaviour",
+        "prepare for a conflict",
+        "on your side in an argument or dispute",
+        "to give up"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 206
+    },
+    {
+      "prompt_en": "Match the following: 1. alarm bells ringing, 2. back to the wall, 3. grasp/clutch at straws, 4. saved by the bell, 5. hang out to dry",
+      "answer_en": "1-c, 2-d, 3-b, 4-e, 5-a",
+      "options_en": [
+        "a: abandoning one who is in difficulty",
+        "b: try any method to overcome a crisis",
+        "c: sign of something going wrong",
+        "d: in serious difficulty",
+        "e: help at the last moment rescuing one from a difficult situation"
+      ],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 207
+    },
+    {
+      "prompt_en": "Match the idiom: save one’s skin",
+      "answer_en": "to protect oneself from difficulty",
+      "options_en": [],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "prompt_en": "Match the idiom: make both ends meet",
+      "answer_en": "manage one’s expenses within one’s income",
+      "options_en": [],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "prompt_en": "Match the idiom: a bolt out of a clear sky",
+      "answer_en": "a sudden unexpected event or news",
+      "options_en": [],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "prompt_en": "Match the idiom: go to grave",
+      "answer_en": "to exit the world",
+      "options_en": [],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "prompt_en": "Match the idiom: have the whip hand",
+      "answer_en": "to be the most powerful",
+      "options_en": [],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "prompt_en": "Match the idiom: under a cloud",
+      "answer_en": "viewed with suspicion and distrust",
+      "options_en": [],
+      "id_tag": "match",
+      "source": "grammer",
+      "source_page": 210
+    },
+    {
+      "prompt_en": "The Sherpas are cheerful, gallant men, who ______ tents, oxygen, food etc., for climbers during their ascent of the summit.",
+      "answer_en": "fetch and carry",
+      "options_en": [
+        "wait for the dust to settle",
+        "get/have all your ducks in a row",
+        "fetch and carry",
+        "do the math",
+        "round the corner"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "prompt_en": "The team ______ carefully so as to reach the summit successfully.",
+      "answer_en": "did the math",
+      "options_en": [
+        "wait for the dust to settle",
+        "get/have all your ducks in a row",
+        "fetch and carry",
+        "do the math",
+        "round the corner"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "prompt_en": "When they had to climb through deep new snow the party sometimes had to ______.",
+      "answer_en": "wait for the dust to settle",
+      "options_en": [
+        "wait for the dust to settle",
+        "get/have all your ducks in a row",
+        "fetch and carry",
+        "do the math",
+        "round the corner"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "prompt_en": "Each member of the team had all their ______.",
+      "answer_en": "ducks in a row",
+      "options_en": [
+        "wait for the dust to settle",
+        "get/have all your ducks in a row",
+        "fetch and carry",
+        "do the math",
+        "round the corner"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "prompt_en": "We could not believe that with a few more whacks of the ice axe in the firm snow we were ______ to the top.",
+      "answer_en": "round the corner",
+      "options_en": [
+        "wait for the dust to settle",
+        "get/have all your ducks in a row",
+        "fetch and carry",
+        "do the math",
+        "round the corner"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "prompt_en": "The conference room was silent though packed. The chairman introduced an interactive session to ______.",
+      "answer_en": "break the ice",
+      "options_en": [
+        "the icing on the cake",
+        "break the ice"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    },
+    {
+      "prompt_en": "Our headmistress not only promised us to take us for an excursion, but also announced that on return we would get a holiday. It was like ______.",
+      "answer_en": "the icing on the cake",
+      "options_en": [
+        "the icing on the cake",
+        "break the ice"
+      ],
+      "id_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 211
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 7,
+      "examples": 267,
+      "worked_exercises": 37
+    },
+    "by_id_tag": {
+      "definition": {
+        "rules": 4,
+        "examples": 0,
+        "worked": 0
+      },
+      "overview": {
+        "rules": 2,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "meaning": {
+        "rules": 0,
+        "examples": 267,
+        "worked": 0
+      },
+      "match": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 18
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 19
+      }
+    }
+  }
+}

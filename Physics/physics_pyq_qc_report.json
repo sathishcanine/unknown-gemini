@@ -1,0 +1,25 @@
+{
+  "total_pyq": 145,
+  "issue_count": 0,
+  "soft_issue_count": 0,
+  "clean_count": 145,
+  "by_topic": {
+    "Force, Motion and Energy": 45,
+    "Electricity": 32,
+    "Units and Measurements": 26,
+    "Light and Optics": 18,
+    "Heat and Thermodynamics": 13,
+    "Sound": 5,
+    "Magnetism": 4,
+    "Nuclear Physics": 2
+  },
+  "by_pdf": {
+    "phys02": 25,
+    "phys03": 44,
+    "phys04": 28,
+    "phys05": 48
+  },
+  "issues": [],
+  "soft_issues": [],
+  "issue_tag_counts": {}
+}

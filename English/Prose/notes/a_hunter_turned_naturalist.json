@@ -1,0 +1,110 @@
+{
+  "prose_id": "a_hunter_turned_naturalist",
+  "prose_title": "A Hunter Turned Naturalist",
+  "author": "Jim Corbett",
+  "num": 28,
+  "pdf_pages": [
+    546,
+    550
+  ],
+  "prose_text_en": "Jim Corbett, a British naturalist and hunter, was known for hunting man-eating tigers and leopards, primarily to protect villagers at the government's request. He theorized that tigers turn to man-eating when injured or old, preventing them from catching natural prey. His first major hunt was the Champawat Tiger, a tigress responsible for 436 human fatalities, confirmed by the Guinness Book of World Records. Corbett discovered that the tigress's canine teeth were broken due to an old gunshot, validating his theory of injury-induced man-eating. Corbett was a conservationist who advocated against deforestation and human encroachment, eventually establishing India's first national park, initially called Hailey National Park, now known as Jim Corbett National Park.",
+  "summary_en": "Jim Corbett was a renowned hunter who transformed into a dedicated naturalist and wildlife conservationist. He hunted man-eating animals only to save human lives after witnessing how injuries rendered them incapable of hunting natural prey. Beyond his hunting career, he fought against human encroachment on forests and played a pivotal role in establishing India's first national park. His legacy is honored through the Jim Corbett National Park, which serves as a testament to his commitment to wildlife preservation.",
+  "characters": [
+    {
+      "name_en": "Jim Corbett",
+      "role_en": "British hunter, tracker, naturalist, and wildlife conservationist."
+    },
+    {
+      "name_en": "Robin",
+      "role_en": "Jim Corbett’s dog."
+    },
+    {
+      "name_en": "The Champawat Tiger",
+      "role_en": "A man-eating Bengal tigress responsible for 436 deaths."
+    },
+    {
+      "name_en": "Lord Malcolm Hailey",
+      "role_en": "The person after whom the Hailey National Park was initially named."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Hesitate",
+      "meaning_en": "Pause before saying or doing something."
+    },
+    {
+      "word_en": "Fatalities",
+      "meaning_en": "An occurrence of death by accident."
+    },
+    {
+      "word_en": "Restricted",
+      "meaning_en": "Limited extent."
+    },
+    {
+      "word_en": "Pursuit",
+      "meaning_en": "Search."
+    },
+    {
+      "word_en": "Encroachment",
+      "meaning_en": "To advance beyond usual limits."
+    },
+    {
+      "word_en": "Preservation",
+      "meaning_en": "Protection."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Jim Corbett hunted man-eaters only at the request of the Government.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "The Champawat Tiger is listed in the Guinness Book of World Records for the highest number of fatalities (436).",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Hailey National Park (established 1930s) was renamed Jim Corbett National Park in 1957.",
+      "tag": "fact"
+    },
+    {
+      "rule_en": "Corbett believed deforestation and human encroachment are the main causes of wild animal mischief.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Jadav Payeng is known as the 'Forest Man of India'.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Jim Corbett died on?",
+      "answer_en": "19 April 1955",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Which was the first man-eater shot by Corbett?",
+      "answer_en": "The Champawat Tiger",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Corbett shot the tigress dead, near the?",
+      "answer_en": "Chataar Bridge",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Who played a key role in establishing the national park?",
+      "answer_en": "Jim Corbett",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "When was it renamed as Jim Corbett National Park?",
+      "answer_en": "1957",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

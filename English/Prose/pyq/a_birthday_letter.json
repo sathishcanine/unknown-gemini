@@ -1,0 +1,70 @@
+{
+  "prose_id": "a_birthday_letter",
+  "prose_title": "A Birthday Letter",
+  "questions": [
+    {
+      "prose_title": "A Birthday Letter",
+      "prose_id": "a_birthday_letter",
+      "question_en": "Bapuji is in prison, but the magic of his message has stolen the hearts of India's millions. Who is referred as 'Bapuji' here.",
+      "options_en": [
+        "Nehru",
+        "Gandhiji",
+        "Nethaji",
+        "Nelson Mandela"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "Q40",
+      "band": "prose_pyq_b017"
+    },
+    {
+      "prose_title": "A Birthday Letter",
+      "prose_id": "a_birthday_letter",
+      "question_en": "Who wrote the book 'GLIMPSES OF WORLD HISTORY'",
+      "options_en": [
+        "Indira Gandhi",
+        "Sarojini Naidu",
+        "",
+        ""
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "Q71",
+      "band": "prose_pyq_b017"
+    },
+    {
+      "prose_title": "A Birthday Letter",
+      "prose_id": "a_birthday_letter",
+      "question_en": "Nehru's \"Glimpses of World History\" is a collection of __________ letters.",
+      "options_en": [
+        "196",
+        "204",
+        "95",
+        "100"
+      ],
+      "answer_en": "196",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b018",
+      "band": "prose_pyq_b018"
+    },
+    {
+      "prose_title": "A Birthday Letter",
+      "prose_id": "a_birthday_letter",
+      "question_en": "How many letters are there in Nehru's collection of letters 'Glimpses of World History'?",
+      "options_en": [
+        "95",
+        "196",
+        "204",
+        "100"
+      ],
+      "answer_en": "196",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b018",
+      "band": "prose_pyq_b018"
+    }
+  ]
+}

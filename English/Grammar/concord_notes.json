@@ -1,0 +1,1045 @@
+{
+  "subject_id": "English",
+  "menu": "concord",
+  "topic_id": "concord",
+  "topic_en": "Concord",
+  "sources": [
+    "asan - concord,tense, sentence pattern, question tag.pdf pp.1-6",
+    "Grammer.pdf pp.326-330",
+    "Govt notes Find-out-the-Error pp.77-80 (Concord/SVA only)"
+  ],
+  "rules": [
+    {
+      "rule_en": "The subject and verb of a sentence should be in agreement with each other. A singular subject takes a singular verb and a plural subject takes a plural verb.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "basic_singular_plural"
+    },
+    {
+      "rule_en": "Two or more singular subjects joined by 'and' take a plural verb.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "and_plural"
+    },
+    {
+      "rule_en": "When two subjects are joined by 'as well as', the verb agrees with the first subject.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "as_well_as_with"
+    },
+    {
+      "rule_en": "Either, neither, no, each, every and everyone are followed by a singular verb.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "each_every_indefinite"
+    },
+    {
+      "rule_en": "When two singular nouns refer to the same person or thing, the verb must be singular.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "titles_same_vs_different"
+    },
+    {
+      "rule_en": "When two subjects express one idea, the verb is in the singular.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "one_idea_singular"
+    },
+    {
+      "rule_en": "When a plural noun expresses some specific quantity or amount / units of measurement or time, the verb is in singular.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "units_money_time_distance"
+    },
+    {
+      "rule_en": "When two or more singular subjects are connected by 'with', 'together with', 'and not', 'besides', 'no less than', the verb is in singular.",
+      "source": "asan",
+      "source_page": 1,
+      "tag": "as_well_as_with"
+    },
+    {
+      "rule_en": "The verb agrees with the number of the nouns that follow the verb.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "basic_singular_plural"
+    },
+    {
+      "rule_en": "Some nouns that are plural in form but singular in meaning, take a singular verb.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "plural_form_singular_meaning"
+    },
+    {
+      "rule_en": "A plural noun which is in the name of a country, province, or a book, is followed by a singular verb.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "titles_same_vs_different"
+    },
+    {
+      "rule_en": "A collective noun takes a singular verb.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "collective_nouns"
+    },
+    {
+      "rule_en": "A relative pronoun must agree with its gender, number and person.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "basic_singular_plural"
+    },
+    {
+      "rule_en": "The words between the subject and verb do not affect agreement.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "intervening_phrase"
+    },
+    {
+      "rule_en": "Always Plural: verb after people, police, cattle, a number of, a group of; when subject has two nouns joined by 'and'; after few, many, several, both, all, some; after words like scissors, tweezers, trousers, shorts, jeans, glasses.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "always_plural_set"
+    },
+    {
+      "rule_en": "Always Singular: verb after 'one of', 'a kind of', 'a type of'; units of measurement and mathematical expressions; when subject has two singular nouns joined by 'or'; nouns connected with each of, each one, either of, neither of, someone, something, anybody, anything, no one, nothing, everybody, everything; names of subjects: mathematics, politics, civics, economics, physics etc.",
+      "source": "asan",
+      "source_page": 2,
+      "tag": "each_every_indefinite"
+    },
+    {
+      "rule_en": "When two singular nouns joined by 'and' are preceded by 'each' or 'every' the pronoun must be singular and the verb is also singular.",
+      "source": "asan",
+      "source_page": 3,
+      "tag": "each_every_indefinite"
+    },
+    {
+      "rule_en": "Collective nouns like class, cabinet, committee, board, jury, government, team and staff, take a singular verb when considered a unit, and a plural verb if members are considered individually.",
+      "source": "asan",
+      "source_page": 3,
+      "tag": "collective_nouns"
+    },
+    {
+      "rule_en": "Nouns such as advice, alphabet, brick, clothing, furniture, information, luggage, poetry, scenery, thunder etc. are used only in the singular form and the verb that follows them is also singular.",
+      "source": "asan",
+      "source_page": 3,
+      "tag": "plural_form_singular_meaning"
+    },
+    {
+      "rule_en": "When 'and' connects two or more titles or designations of the same person, the verb is singular. If the posts are held by two different persons, the verb is plural.",
+      "source": "asan",
+      "source_page": 3,
+      "tag": "titles_same_vs_different"
+    },
+    {
+      "rule_en": "Some nouns denoting money, time and distance take a singular verb, as the specific quantity or amount is considered a whole.",
+      "source": "asan",
+      "source_page": 3,
+      "tag": "units_money_time_distance"
+    },
+    {
+      "rule_en": "Two or more singular subjects connected by or, nor, either...or, neither...nor, take a singular verb.",
+      "source": "asan",
+      "source_page": 4,
+      "tag": "either_or_neither_nor"
+    },
+    {
+      "rule_en": "When two subjects, one singular and the other plural, are connected by neither...nor, either...or, the verb agrees in person with the subject nearer to it.",
+      "source": "asan",
+      "source_page": 4,
+      "tag": "either_or_neither_nor"
+    },
+    {
+      "rule_en": "When two subjects, one singular and the other plural, are connected by 'as well as', 'with', 'along with', 'together with', the verb agrees with the first subject.",
+      "source": "asan",
+      "source_page": 4,
+      "tag": "as_well_as_with"
+    },
+    {
+      "rule_en": "A singular subject takes a singular verb, while a plural subject takes a plural verb.",
+      "source": "grammer",
+      "source_page": 326,
+      "tag": "basic_singular_plural"
+    },
+    {
+      "rule_en": "The verb is always plural after people, police, cattle, a number of, and a group of.",
+      "source": "grammer",
+      "source_page": 326,
+      "tag": "always_plural_set"
+    },
+    {
+      "rule_en": "The verb is always plural when the subject consists of two nouns joined by 'and'.",
+      "source": "grammer",
+      "source_page": 326,
+      "tag": "and_plural"
+    },
+    {
+      "rule_en": "The verb is always plural after few, many, several, both, all, and some.",
+      "source": "grammer",
+      "source_page": 326,
+      "tag": "always_plural_set"
+    },
+    {
+      "rule_en": "The verb is always plural after the words: scissors, tweezers, trousers, shorts, jeans, and glasses.",
+      "source": "grammer",
+      "source_page": 326,
+      "tag": "always_plural_set"
+    },
+    {
+      "rule_en": "One of, a kind of, and a type of are followed by a singular verb.",
+      "source": "grammer",
+      "source_page": 327,
+      "tag": "one_idea_singular"
+    },
+    {
+      "rule_en": "Units of measurement and mathematical expressions take a singular verb.",
+      "source": "grammer",
+      "source_page": 327,
+      "tag": "units_money_time_distance"
+    },
+    {
+      "rule_en": "When a subject has two singular nouns joined by 'or', use a singular verb.",
+      "source": "grammer",
+      "source_page": 327,
+      "tag": "either_or_neither_nor"
+    },
+    {
+      "rule_en": "Nouns connected with each of, each one, either of, neither of, someone, something, anybody, anything, no one, nothing, everybody, everything take a singular verb.",
+      "source": "grammer",
+      "source_page": 327,
+      "tag": "each_every_indefinite"
+    },
+    {
+      "rule_en": "Names of subjects like mathematics, politics, civics, economics, and physics take a singular verb.",
+      "source": "grammer",
+      "source_page": 327,
+      "tag": "plural_form_singular_meaning"
+    },
+    {
+      "rule_en": "A singular subject takes a singular verb and a plural subject takes a plural verb.",
+      "source": "grammer",
+      "source_page": 329,
+      "tag": "basic_singular_plural"
+    },
+    {
+      "rule_en": "When two singular nouns joined by ‘and’ are preceded by ‘each’ or ‘every’, the verb must be singular.",
+      "source": "grammer",
+      "source_page": 329,
+      "tag": "each_every_indefinite"
+    },
+    {
+      "rule_en": "Collective nouns (class, cabinet, committee, board, jury, government, team, staff) take a singular verb when considered as a unit and a plural verb if members are considered individually.",
+      "source": "grammer",
+      "source_page": 329,
+      "tag": "collective_nouns"
+    },
+    {
+      "rule_en": "Nouns such as advice, alphabet, brick, clothing, furniture, information, luggage, poetry, scenery, thunder are used only in singular form and take a singular verb.",
+      "source": "grammer",
+      "source_page": 329,
+      "tag": "plural_form_singular_meaning"
+    },
+    {
+      "rule_en": "When two subjects are connected by 'as well as', 'with', 'along with', or 'together with', the verb agrees with the first subject.",
+      "source": "grammer",
+      "source_page": 330,
+      "tag": "as_well_as_with"
+    },
+    {
+      "rule_en": "When 'and' connects two titles or designations of the same person, the verb is singular. If the posts are held by two different persons, the verb is plural.",
+      "source": "grammer",
+      "source_page": 330,
+      "tag": "titles_same_vs_different"
+    },
+    {
+      "rule_en": "Nouns denoting money, time, and distance take a singular verb when the quantity or amount is considered a whole.",
+      "source": "grammer",
+      "source_page": 330,
+      "tag": "units_money_time_distance"
+    },
+    {
+      "rule_en": "Two or more singular subjects connected by 'or', 'nor', 'either...or', or 'neither...nor' take a singular verb.",
+      "source": "grammer",
+      "source_page": 330,
+      "tag": "either_or_neither_nor"
+    },
+    {
+      "rule_en": "When subjects of different numbers (one singular, one plural) are connected by 'either...or' or 'neither...nor', the verb agrees with the subject nearer to it.",
+      "source": "grammer",
+      "source_page": 330,
+      "tag": "either_or_neither_nor"
+    },
+    {
+      "rule_en": "When using 'One of the', the following noun must be in the plural form while the verb remains singular to agree with the subject 'One'.",
+      "source": "govt",
+      "source_page": 77,
+      "tag": "one_idea_singular"
+    },
+    {
+      "rule_en": "A collective noun phrase such as 'A bunch of' takes a singular verb.",
+      "source": "govt",
+      "source_page": 80,
+      "tag": "collective_nouns"
+    },
+    {
+      "rule_en": "The phrase 'one of the' is followed by a plural noun.",
+      "source": "govt",
+      "source_page": 80,
+      "tag": "basic_singular_plural"
+    },
+    {
+      "rule_en": "Subject names ending in 's' (like Mathematics) are treated as singular subjects.",
+      "source": "govt",
+      "source_page": 80,
+      "tag": "plural_form_singular_meaning"
+    },
+    {
+      "rule_en": "Two items acting as a single unit or meal (Bread and butter) take a singular verb.",
+      "source": "govt",
+      "source_page": 80,
+      "tag": "one_idea_singular"
+    }
+  ],
+  "examples": [
+    {
+      "input": "She is a good speaker.",
+      "output": "Singular verb usage",
+      "kind": "example",
+      "note_en": "Singular subject takes singular verb.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Children are playing.",
+      "output": "Plural verb usage",
+      "kind": "example",
+      "note_en": "Plural subject takes plural verb.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "You and I love music",
+      "output": "Plural verb 'love'",
+      "kind": "example",
+      "note_en": "Two singular subjects joined by 'and' take a plural verb.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Her cousins as well as she are hard working.",
+      "output": "Verb agrees with 'cousins' (plural)",
+      "kind": "example",
+      "note_en": "Verb agrees with the first subject.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Each of them is lovable",
+      "output": "Singular verb 'is'",
+      "kind": "example",
+      "note_en": "Each takes a singular verb.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Peanut butter and jelly is my favourite sandwich.",
+      "output": "Singular verb 'is'",
+      "kind": "example",
+      "note_en": "Subjects express one idea.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "Thirty litres of milk is too much for payasam.",
+      "output": "Singular verb 'is'",
+      "kind": "example",
+      "note_en": "Specific quantity/amount takes singular.",
+      "source": "asan",
+      "source_page": 1
+    },
+    {
+      "input": "He and not she",
+      "output": "is to blame",
+      "kind": "example",
+      "note_en": "Handwritten notes: 'plenty of' count; 'advice' is singular.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "There ____ ten students in the crowd.",
+      "output": "are",
+      "kind": "example",
+      "note_en": "The verb agrees with the number of the nouns that follow.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "News ____ never comes too late.",
+      "output": "comes",
+      "kind": "example",
+      "note_en": "Handwritten notes: 'physics', 'maths'.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "Around the World in Eighty Days ____ an adventure novel.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Title of a book takes a singular verb.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "The whole class ____ attentive.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Handwritten note: 'Abstract', 'or plu -> committee'.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "It is I, who ____ to write.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Relative pronoun agreement.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "The little girl, who is wearing gloves, ____ well dressed.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Words between subject and verb do not affect agreement.",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "input": "The team is performing well. / The staff are arguing about the dates of the tour programme.",
+      "output": "is / are",
+      "kind": "example",
+      "note_en": "Collective noun 'team' acting as unit takes singular, 'staff' acting as individuals takes plural.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "The scenery of Kashmir is enchanting.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Scenery is treated as a singular noun.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "The Correspondent and Principal has called for a meeting. / The Correspondent and the Principal are attending a meeting.",
+      "output": "has / are",
+      "kind": "example",
+      "note_en": "Singular verb for same person holding two titles; plural for two different people.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Five rupees has no value these days.",
+      "output": "has",
+      "kind": "example",
+      "note_en": "Money amount as a whole takes singular verb.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Either Ramesh or Naren is in the wrong.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Concord rule for Either-Or.",
+      "source": "asan",
+      "source_page": 3
+    },
+    {
+      "input": "Kumar, as well as his friends, has won the prize.",
+      "output": "has",
+      "kind": "example",
+      "note_en": "Verb agrees with first subject 'Kumar'.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "The captain, with all his sailors, was drowned.",
+      "output": "was",
+      "kind": "example",
+      "note_en": "Verb agrees with first subject 'captain'.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "The students along with their teacher, have gone on a visit to the Museum.",
+      "output": "have",
+      "kind": "example",
+      "note_en": "Verb agrees with first subject 'students'.",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "input": "Either Shyam or Ram has to pay the fine.",
+      "output": "has",
+      "kind": "example",
+      "note_en": "Verb agrees with the closer subject in either/or constructions.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "Abdul as well as Karim deserves praise.",
+      "output": "deserves",
+      "kind": "example",
+      "note_en": "When using 'as well as', the verb agrees with the first subject.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "Ten thousand rupees a month is an insufficient income.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "A sum of money, even if plural in form, takes a singular verb when considered a single unit.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "Many a student was awarded at the function.",
+      "output": "was",
+      "kind": "example",
+      "note_en": "The phrase 'Many a' is followed by a singular noun and a singular verb.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "Neither Veena nor his sisters have been informed of the accident.",
+      "output": "have",
+      "kind": "example",
+      "note_en": "In 'neither/nor', the verb agrees with the subject closest to it.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "My scissors are missing.",
+      "output": "are",
+      "kind": "example",
+      "note_en": "Some nouns like 'scissors' are always treated as plural.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "Sixty miles is a long distance.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "A distance, though plural in form, is treated as a singular unit.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "input": "Rekha and her sisters (watch, watches) television everyday.",
+      "output": "watch",
+      "kind": "example",
+      "note_en": "Compound subject with 'and' takes plural verb.",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "input": "One of the cookies (is, are) missing.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Rule: 'One of' takes singular verb.",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "input": "A lady with ten cats (live, lives) in that big house.",
+      "output": "lives",
+      "kind": "example",
+      "note_en": "Verb agrees with the head noun 'lady'.",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "input": "Measles (is, are) very serious.",
+      "output": "is",
+      "kind": "example",
+      "note_en": "Noun in plural form takes singular verb.",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "input": "Everybody (enjoy, enjoys) a good song.",
+      "output": "enjoys",
+      "kind": "example",
+      "note_en": "Rule: 'Everybody' takes singular verb.",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "input": "Hacking generally refers to unauthorized intrusion...",
+      "output": "Hacking refers",
+      "kind": "example",
+      "note_en": "Singular subject 'Hacking' takes singular verb 'refers'.",
+      "source": "grammer",
+      "source_page": 328
+    },
+    {
+      "input": "The person engaged in hacking activities is known...",
+      "output": "person is",
+      "kind": "example",
+      "note_en": "Singular subject 'person' takes singular verb 'is'.",
+      "source": "grammer",
+      "source_page": 328
+    },
+    {
+      "input": "This hacker may alter system or security features...",
+      "output": "hacker may alter",
+      "kind": "example",
+      "note_en": "Modal verb 'may' remains constant; singular subject 'hacker' is compatible with the construction.",
+      "source": "grammer",
+      "source_page": 328
+    },
+    {
+      "input": "Hackers employ a variety of techniques.",
+      "output": "Hackers employ",
+      "kind": "example",
+      "note_en": "Plural subject 'Hackers' takes plural form verb 'employ'.",
+      "source": "grammer",
+      "source_page": 328
+    },
+    {
+      "input": "Confidential Data such as Banking username... should not be stored...",
+      "output": "Data should not be stored",
+      "kind": "example",
+      "note_en": "Subject 'Data' takes plural auxiliary 'should'.",
+      "source": "grammer",
+      "source_page": 328
+    },
+    {
+      "input": "Every citizen",
+      "output": "has",
+      "kind": "example",
+      "note_en": "Singular subject takes singular verb.",
+      "source": "grammer",
+      "source_page": 329
+    },
+    {
+      "input": "All citizens",
+      "output": "have",
+      "kind": "example",
+      "note_en": "Plural subject takes plural verb.",
+      "source": "grammer",
+      "source_page": 329
+    },
+    {
+      "input": "Every man and every woman",
+      "output": "has",
+      "kind": "example",
+      "note_en": "Singular nouns with 'every' take singular verb.",
+      "source": "grammer",
+      "source_page": 329
+    },
+    {
+      "input": "The team",
+      "output": "is performing well (unit) / are arguing (individual)",
+      "kind": "example",
+      "note_en": "Collective noun usage depending on context.",
+      "source": "grammer",
+      "source_page": 329
+    },
+    {
+      "input": "His luggage",
+      "output": "is missing",
+      "kind": "example",
+      "note_en": "Uncountable/Singular nouns like luggage take singular verb.",
+      "source": "grammer",
+      "source_page": 329
+    },
+    {
+      "input": "Either Rahim or his brothers have to be invited.",
+      "output": "have",
+      "kind": "example",
+      "note_en": "Verb agrees with the nearer subject (his brothers).",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "input": "One of the body looks sad.",
+      "output": "One of the boys looks sad.",
+      "kind": "example",
+      "note_en": "The noun following 'one of the' must be plural (boys), and the verb (looks) agrees with the singular subject 'one'.",
+      "source": "govt",
+      "source_page": 77
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Every man and every woman has duties to perform.",
+      "answer_en": "Correct",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "Each boy and each girl was given a special prize.",
+      "answer_en": "Correct",
+      "source": "asan",
+      "source_page": 2
+    },
+    {
+      "prompt_en": "Mahatma Gandhi ___ the father of our nation.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "There ___ ten dogs in my street.",
+      "answer_en": "are",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "They ___ to write the exercises neatly.",
+      "answer_en": "have",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Butter milk ___ good for health.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Fruits ___ good for health.",
+      "answer_en": "are",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "The quality of dal ___ not good.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "The horse carriage ___ at the door.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "My friend and teacher ___ come.",
+      "answer_en": "has",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Honour and glory ___ his reward.",
+      "answer_en": "are",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "The ship with its crew ___ sailing good.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Gulliver's Travels ___ an excellent story.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Neither food nor water ___ found here.",
+      "answer_en": "was",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Mathematics ___ a branch of study.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Fifteen minutes ___ allowed to read the question paper.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Rekha and her sisters ___ (watch, watches) television everyday.",
+      "answer_en": "watch",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Ravi ___ (doesn't, don't) like sports.",
+      "answer_en": "doesn't",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "My classmates ___ (study, studies) before a test.",
+      "answer_en": "study",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "One of the cookies ___ (is, are) missing.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "A lady with ten cats ___ (live, lives) in that big house.",
+      "answer_en": "lives",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Measles ___ (is, are) very serious.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "The committee ___ (decide, decides) when to adjourn.",
+      "answer_en": "decides",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Our team ___ (is, are) the best.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 4
+    },
+    {
+      "prompt_en": "Manoj ____(was, were) present along with his parents.",
+      "answer_en": "was",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Each of these boys ____(has, have) passed.",
+      "answer_en": "has",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Neither Lekha nor Leela ____(has, have) been selected.",
+      "answer_en": "has",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Every man, woman and child ____(was, were) happy.",
+      "answer_en": "was",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "One of the machines ____(is, are) defective.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "A number of books ____(is, are) missing.",
+      "answer_en": "are",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Sekar or his brothers ____(has, have) done it.",
+      "answer_en": "have",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "To make a promise and then not to keep it ____(is/are) dishonesty.",
+      "answer_en": "is",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "One or the other of those men ____(has, have) lodged a complaint.",
+      "answer_en": "has",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "To each leaf and flower ____(was, were) stripped off the tree.",
+      "answer_en": "was",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Either Shyam or Ram have to pay the fine.",
+      "answer_en": "Either Shyam or Ram has to pay the fine.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Abdul as well as Karim deserve praise.",
+      "answer_en": "Abdul as well as Karim deserves praise.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Ten thousand rupees a month are an insufficient income.",
+      "answer_en": "Ten thousand rupees a month is an insufficient income.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Many a student were awarded at the function.",
+      "answer_en": "Many a student was awarded at the function.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Neither Veena nor her sisters has been informed of the accident.",
+      "answer_en": "Neither Veena nor her sisters have been informed of the accident.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Mithra as well as her daughters enjoys singing.",
+      "answer_en": "Mithra as well as her daughters enjoy singing.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "You, who is my friend, should help me.",
+      "answer_en": "You, who are my friend, should help me.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "My scissors is missing.",
+      "answer_en": "My scissors are missing.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "A variety of pleasing objects charm the eye.",
+      "answer_en": "A variety of pleasing objects charms the eye.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Sixty miles are a long distance.",
+      "answer_en": "Sixty miles is a long distance.",
+      "source": "asan",
+      "source_page": 5
+    },
+    {
+      "prompt_en": "Answers for Section V",
+      "answer_en": "1. was; 2. has; 3. has; 4. was; 5. is; 6. are; 7. have; 8. is; 9. has; 10. was.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "Answers for Section VII",
+      "answer_en": "1. should be taken; 2. washed; 3. should be wiped; 4. should be removed; 5. should be put; 6. should be added; 7. should be crushed; 8. will be obtained; 9. should be filtered; 10. should be stored; 11. taken; 12. is served.",
+      "source": "asan",
+      "source_page": 6
+    },
+    {
+      "prompt_en": "The committee (decide, decides) when to adjourn.",
+      "answer_en": "decides",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "prompt_en": "Our team (is, are) the best.",
+      "answer_en": "is",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "prompt_en": "Either of these (is, are) suitable.",
+      "answer_en": "is",
+      "source": "grammer",
+      "source_page": 327
+    },
+    {
+      "prompt_en": "Manoj (was, were) present along with his parents.",
+      "answer_en": "was",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "Each of these boys (has, have) passed.",
+      "answer_en": "has",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "Neither Lekha nor Leela (has, have) been selected.",
+      "answer_en": "has",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "Every man, woman and child (was, were) happy.",
+      "answer_en": "was",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "One of the machines (is, are) defective.",
+      "answer_en": "is",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "A number of books (is, are) missing.",
+      "answer_en": "are",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "Seker or his brothers (has, have) done it.",
+      "answer_en": "have",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "To make a promise and then not to keep it (is, are) dishonesty.",
+      "answer_en": "is",
+      "source": "grammer",
+      "source_page": 330
+    },
+    {
+      "prompt_en": "One of the body looks sad.",
+      "answer_en": "One of the boys looks sad.",
+      "source": "govt",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "A bunch of keys were there in my car",
+      "answer_en": "A bunch of keys was there in my car",
+      "source": "govt",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "One of the boy looks unhappy",
+      "answer_en": "One of the boys looks unhappy",
+      "source": "govt",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "Mathematics are my favourite subject.",
+      "answer_en": "Mathematics is my favourite subject.",
+      "source": "govt",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "Bread and butter are my breakfast",
+      "answer_en": "Bread and butter is my breakfast",
+      "source": "govt",
+      "source_page": 80
+    }
+  ]
+}

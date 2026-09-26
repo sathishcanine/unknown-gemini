@@ -1,0 +1,148 @@
+{
+  "poem_id": "your_space",
+  "poem_title": "Your Space",
+  "author": "David Bates",
+  "num": 11,
+  "pdf_pages": [
+    38,
+    42
+  ],
+  "poem_text_en": "Speak gently! – It is better far\nTo rule by love, than fear\nSpeak gently – let not harsh words mar\nThe good we might do here!\nSpeak gently! – Love doth whisper low\nThe vows that true hearts bind;\nAnd gently Friendship’s accents flow;\nAffection’s voice is kind.\nSpeak gently to the little child!\nIts love be sure to gain;\nTeach it in accents soft and mild:-\nIt may not long remain.\nSpeak gently to the young, for they\nWill have enough to bear –\nPass through this life as best they may,\n‘T is full of anxious care!\nSpeak gently to the aged one,\nGrieve not the care-worn heart;\nThe sands of life are nearly run,\nLet such in peace depart!\nSpeak gently, kindly, to the poor;\nLet no harsh tone be heard;\nThey have enough they must endure,\nWithout an unkind word!\nSpeak gently to the erring – know,\nThey may have toiled in vain;\nPerchance unkindness made them so;\nOh, win them back again!\nSpeak gently! – He who gave his life\nTo bend man’s stubborn will,\nWhen elements were in fierce strife,\nSaid to them, ‘Peace, be still.’\nSpeak gently! – ’tis a little thing\nDropped in the heart’s deep well;\nThe good, the joy, which it may bring,\nEternity shall tell.",
+  "summary_en": "The poem emphasizes the power of gentle speech and kindness in human interactions. It suggests that ruling by love is superior to ruling by fear, and advocates for speaking kindly to children, the elderly, the poor, and those who have made mistakes. The poet argues that gentle words have an enduring, positive impact that lasts through eternity.",
+  "glossary": [
+    {
+      "word_en": "harsh",
+      "meaning_en": "rough"
+    },
+    {
+      "word_en": "doth",
+      "meaning_en": "does"
+    },
+    {
+      "word_en": "whisper",
+      "meaning_en": "low voice"
+    },
+    {
+      "word_en": "accents",
+      "meaning_en": "emphasise"
+    },
+    {
+      "word_en": "anxious",
+      "meaning_en": "feeling worried or showing worry"
+    },
+    {
+      "word_en": "grieve",
+      "meaning_en": "be sorrowful"
+    },
+    {
+      "word_en": "depart",
+      "meaning_en": "leave/go"
+    },
+    {
+      "word_en": "endure",
+      "meaning_en": "suffer patiently"
+    },
+    {
+      "word_en": "toiled",
+      "meaning_en": "worked hard"
+    },
+    {
+      "word_en": "vain",
+      "meaning_en": "producing no results"
+    },
+    {
+      "word_en": "stubborn",
+      "meaning_en": "one refusing to change one’s opinion"
+    },
+    {
+      "word_en": "strife",
+      "meaning_en": "disagreement"
+    },
+    {
+      "word_en": "eternity",
+      "meaning_en": "without end"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "metaphor",
+      "example_en": "The sands of life are nearly run",
+      "note_en": "Life is compared to the sand in an hourglass."
+    },
+    {
+      "device_en": "personification",
+      "example_en": "Love doth whisper low",
+      "note_en": "Love is given the human quality of whispering."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Poet: David Bates",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The theme emphasizes kindness, gentleness, and empathy toward all people.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Rhyme scheme of the stanzas is generally abab.",
+      "tag": "fos"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "It is better far to rule by ____, than ____.",
+      "answer_en": "love, fear",
+      "options_en": [
+        "love",
+        "fear"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Teach it in accents ____ and ____.",
+      "answer_en": "soft, mild",
+      "options_en": [
+        "soft",
+        "mild"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Let no ____ tone be ____.",
+      "answer_en": "harsh, heard",
+      "options_en": [
+        "harsh",
+        "heard"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "They may have ____ in ____.",
+      "answer_en": "toiled, vain",
+      "options_en": [
+        "toiled",
+        "vain"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "The ____, the ____, which it may bring.",
+      "answer_en": "good, joy",
+      "options_en": [
+        "good",
+        "joy"
+      ],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "The ____ of ____ are nearly run.",
+      "answer_en": "sands, life",
+      "options_en": [
+        "sands",
+        "life"
+      ],
+      "tag": "short_answer"
+    }
+  ]
+}

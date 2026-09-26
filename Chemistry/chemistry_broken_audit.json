@@ -1,0 +1,1075 @@
+{
+  "total": 1018,
+  "broken": [
+    {
+      "id": 5631,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "statements_missing",
+      "stem": "Consider the following statements regarding solutions and mixtures: 1. A solution is a homogeneous mixture of two or more substances consisting of a solute and a solvent. 2. A suspension is a heterogeneous mixture where solute particles remain suspen",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5632,
+      "topic": "Elements and Compounds, Periodic Classification of Elements",
+      "kind": "statements_missing",
+      "stem": "Consider the following statements regarding the quantum numbers used in chemistry: 1. The principal quantum number determines the size and energy of an orbital. 2. The azimuthal quantum number describes the orbital angular momentum or sub-shell. 3. T",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 onlys"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5685,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "statements_missing",
+      "stem": "Consider the following statements regarding salts and their preparation/applications: 1. Acid salts are obtained by the partial neutralization of a polybasic acid by a base. 2. Basic salts are obtained by the partial replacement of hydroxyl ions of a",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5702,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "statements_missing",
+      "stem": "Consider the following statements regarding pH and its ecological or biological significance: 1. The pH of human saliva normally ranges from 6.5 to 7.5, and when human body pH drops to 5.5, cancer-causing cells find a favorable environment to survive",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5703,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "statements_missing",
+      "stem": "Consider the following statements regarding the pH levels of various biological and commercial fluids: 1. The pH of healthy skin ranges from 4.5 to 6.0. 2. When human body pH drops to 6.9, the body becomes susceptible to cold, cough, and phlegm. 3. T",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5706,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "statements_missing",
+      "stem": "Consider the following comprehensive statements on acids, bases, and neutralization chemistry: 1. Acids are defined as substances that have a sour taste and turn blue litmus red, whereas bases have a bitter taste, soapy touch, and a high pH. 2. The r",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5719,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "statements_missing",
+      "stem": "Consider the following advanced metallurgical and chemical reaction scenario: A metallurgical engineer is analyzing the reactivity of various metals with acids and bases in industrial processing plants. The engineer documents that the reaction of act",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5737,
+      "topic": "Acids, Bases, and Salts",
+      "kind": "statements_missing",
+      "stem": "Consider the following advanced environmental and biochemical scenario regarding pH balance, systemic health, and agricultural soil chemistry: A public health specialist and an agricultural scientist are collaborating on a regional study examining th",
+      "opts": [
+        [
+          "A",
+          "1 and 2 only"
+        ],
+        [
+          "B",
+          "2 and 3 only"
+        ],
+        [
+          "C",
+          "1 and 3 only"
+        ],
+        [
+          "D",
+          "1, 2 and 3"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5831,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "The phenomenon of splitting of spectral lines in an electric field is",
+      "opts": [
+        [
+          "A",
+          "Zeeman effect"
+        ],
+        [
+          "B",
+          "Stark effect"
+        ],
+        [
+          "C",
+          "Compton effect"
+        ],
+        [
+          "D",
+          "Stark effect"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 5772,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "statements_missing",
+      "stem": "Analyze the following statements regarding the specific insect pests of agricultural crops in Tamil Nadu: 1. The sugarcane pest is Colletotrichum falcatum acting as a stem borer. 2. The coconut pest is Oryctes rhinoceros functioning as a leaf feeder.",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3"
+        ],
+        [
+          "B",
+          "1 and 2 only"
+        ],
+        [
+          "C",
+          "2 and 3 only"
+        ],
+        [
+          "D",
+          "1 and 3 only"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5775,
+      "topic": "Petroleum Products, Fertilizers, Pesticides",
+      "kind": "statements_missing",
+      "stem": "Consider the following statements regarding LPG odorants and safety: 1. Ethyl mercaptan is added to LPG as an odorant for leak detection due to its foul smell. 2. Ethyl mercaptan serves as the primary combustible hydrocarbon fuel component within liq",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5804,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "40 ml of methane gas is completely burned with 80 ml of oxygen. After cooling to room temperature, the volume of the remaining gas is.",
+      "opts": [
+        [
+          "A",
+          "40 ml CO2 gas"
+        ],
+        [
+          "B",
+          "40 ml CO2 and 80 ml H2O gas"
+        ],
+        [
+          "C",
+          "60 ml CO2 and 60 ml H2O gas"
+        ],
+        [
+          "D",
+          "120 ml CO2 gas"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5839,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "The orbital angular momentum value for a d-electron is",
+      "opts": [
+        [
+          "A",
+          "(\\sqrt{2}h)/(2\\pi)"
+        ],
+        [
+          "B",
+          "(\\sqrt{2}h)/(2\\pi)"
+        ],
+        [
+          "C",
+          "(\\sqrt{2\\times 4}h)/(2\\pi)"
+        ],
+        [
+          "D",
+          "(\\sqrt{6}h)/(2\\pi)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 5844,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "Consider the following sets of quantum numbers. Which of the following set of quantum numbers is not possible?",
+      "opts": [
+        [
+          "A",
+          "(i), (ii), (iii) and (iv)"
+        ],
+        [
+          "B",
+          "(ii), (iv) and (v)"
+        ],
+        [
+          "C",
+          "(i) and (iii)"
+        ],
+        [
+          "D",
+          "(ii), (iii) and (iv)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 5944,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "Entropy change of the universe in a reversible process is.",
+      "opts": [
+        [
+          "A",
+          "> 0"
+        ],
+        [
+          "B",
+          "> 0"
+        ],
+        [
+          "C",
+          "< 0"
+        ],
+        [
+          "D",
+          "= 0"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 5985,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "match_incomplete",
+      "stem": "Match the equilibria with their corresponding conditions: i) liquid ⇌ gas, ii) solid ⇌ liquid, iii) solid ⇌ gas, iv) solute(s) ⇌ solute(solution). 1. Melting point, 2. Concentrated solution, 3. Boiling point, 4. Sublimation, 5. Unsaturated solution.",
+      "opts": [
+        [
+          "A",
+          "(i)-1, (ii)-2, (iii)-3, (iv)-4"
+        ],
+        [
+          "B",
+          "(i)-3, (ii)-1, (iii)-4, (iv)-2"
+        ],
+        [
+          "C",
+          "(i)-2, (ii)-1, (iii)-3, (iv)-4"
+        ],
+        [
+          "D",
+          "(i)-3, (ii)-2, (iii)-4, (iv)-5"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 6003,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "Which of the following pairs of solutions is an isotonic pair at the same temperature?",
+      "opts": [
+        [
+          "A",
+          "0.2 M BaCl_2 and 0.2 M urea"
+        ],
+        [
+          "B",
+          "0.1 M glucose and 0.2 M urea"
+        ],
+        [
+          "C",
+          "0.1 M NaCl and 0.1 M K_2SO_4"
+        ],
+        [
+          "D",
+          "0.1 M Ba(NO_3)_2 and 0.1 M Na_2SO_4"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6042,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "Choose the compound that contains only one pi (π) bond.",
+      "opts": [
+        [
+          "A",
+          "CH3-CH=CH-CH3"
+        ],
+        [
+          "B",
+          "Other options not shown"
+        ],
+        [
+          "C",
+          "Other options not shown"
+        ],
+        [
+          "D",
+          "Other options not shown"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6050,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "General formula for alkadiynes is:",
+      "opts": [
+        [
+          "A",
+          "CnH2n"
+        ],
+        [
+          "B",
+          "CnH2n-1"
+        ],
+        [
+          "C",
+          "CnH2n-2"
+        ],
+        [
+          "D",
+          "CnH2n-2"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 6052,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "Which of the following does not match with its correct name?",
+      "opts": [
+        [
+          "A",
+          "3-methyl-3-hexanone"
+        ],
+        [
+          "B",
+          "Other options"
+        ],
+        [
+          "C",
+          "Other options"
+        ],
+        [
+          "D",
+          "Other options"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6094,
+      "topic": "11th Chemistry - Book back Questions",
+      "kind": "missing_figure",
+      "stem": "5. In the following reaction, the major product obtained in greater amount is: [reaction diagram shown with methylcyclopentane and Br2/hv]",
+      "opts": [
+        [
+          "A",
+          "Cyclopentylmethyl bromide (CH2-Br attached to ring)"
+        ],
+        [
+          "B",
+          "1-bromo-1-methylcyclopentane"
+        ],
+        [
+          "C",
+          "1-bromo-2-methylcyclopentane"
+        ],
+        [
+          "D",
+          "1-bromo-3-methylcyclopentane"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 6147,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "Assertion (A): If the BOD level of water in a water body is greater than 5 ppm, it is highly polluted. Reason (R): High Biological Oxygen Demand means water has high bacterial activity.",
+      "opts": [
+        [
+          "A",
+          "(i)"
+        ],
+        [
+          "B",
+          "(ii)"
+        ],
+        [
+          "C",
+          "(iii)"
+        ],
+        [
+          "D",
+          "(iv)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6148,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "Assertion (A): Increased use of chlorination-derived pesticides creates soil and water pollution. Reason (R): Such pesticides are non-biodegradable.",
+      "opts": [
+        [
+          "A",
+          "(i)"
+        ],
+        [
+          "B",
+          "(ii)"
+        ],
+        [
+          "C",
+          "(iii)"
+        ],
+        [
+          "D",
+          "(iv)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6149,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "Assertion (A): Oxygen plays a major role in the upper atmosphere. Reason (R): The upper atmosphere is not responsible for all biological processes.",
+      "opts": [
+        [
+          "A",
+          "(i)"
+        ],
+        [
+          "B",
+          "(ii)"
+        ],
+        [
+          "C",
+          "(iii)"
+        ],
+        [
+          "D",
+          "(iv)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6162,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_list2_truncated",
+      "stem": "Match Column-I with Column-II and select the correct answer:",
+      "opts": [
+        [
+          "A",
+          "(A) -> (ii), (B) -> (iii), (C) -> (v), (D) -> (i)"
+        ],
+        [
+          "B",
+          "(A) -> (iii), (B) -> (iv), (C) -> (v), (D) -> (i)"
+        ],
+        [
+          "C",
+          "(A) -> (iv), (B) -> (ii), (C) -> (iii), (D) -> (i)"
+        ],
+        [
+          "D",
+          "(A) -> (ii), (B) -> (iii), (C) -> (i), (D) -> (v)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 6187,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "Match Column-I with Column-II and select the correct answer.",
+      "opts": [
+        [
+          "A",
+          "A-2, B-1, C-4, D-3"
+        ],
+        [
+          "B",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "C",
+          "A-1, B-2, C-4, D-3"
+        ],
+        [
+          "D",
+          "None of these"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6218,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "Which of the following statements regarding lanthanides is incorrect?",
+      "opts": [
+        [
+          "A",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "B",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "C",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "D",
+          "Europium has +2 oxidation state."
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6228,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "In the coordination compound [Fe(H2O)5NO]SO4, the oxidation state of iron and the charge on the NO ligand respectively are",
+      "opts": [
+        [
+          "A",
+          "respectively +2 and 0"
+        ],
+        [
+          "B",
+          "respectively +3 and 0"
+        ],
+        [
+          "C",
+          "respectively +3 and -1"
+        ],
+        [
+          "D",
+          "respectively +1 and +1"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6229,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "The IUPAC name of the coordination compound K3[Al(C2O4)3] is",
+      "opts": [
+        [
+          "A",
+          "Potassium trioxalatoaluminium (III)"
+        ],
+        [
+          "B",
+          "Potassiumtri oxalatoaluminate (II)"
+        ],
+        [
+          "C",
+          "Potassium tris oxalatoaluminate (III)"
+        ],
+        [
+          "D",
+          "Potassium tri oxalatoaluminate (III)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6249,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "statements_missing",
+      "stem": "In calcium fluoride having fluorite structure, the coordination numbers of Ca2+ and F- ions are respectively",
+      "opts": [
+        [
+          "A",
+          "4 and 2"
+        ],
+        [
+          "B",
+          "6 and 6"
+        ],
+        [
+          "C",
+          "8 and 4"
+        ],
+        [
+          "D",
+          "4 and 8"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "C",
+      "detail": "n_stmt=0"
+    },
+    {
+      "id": 6307,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "The hydrogen ion concentration of a buffer solution containing a weak acid and its salts is given by:",
+      "opts": [
+        [
+          "A",
+          "[H+] = Ka * ([acid] / [salt])"
+        ],
+        [
+          "B",
+          "[H+] = Ka * [salt]"
+        ],
+        [
+          "C",
+          "[H+] = Ka * ([salt] / [acid])"
+        ],
+        [
+          "D",
+          "[H+] = Ka * ([salt] / [acid])"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6345,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_incomplete",
+      "stem": "Match the following list of catalysts and processes correctly:",
+      "opts": [
+        [
+          "A",
+          "A-(iv), B-(i), C-(ii), D-(iii)"
+        ],
+        [
+          "B",
+          "A-(i), B-(ii), C-(iv), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(ii), B-(iii), C-(iv), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6351,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_incomplete",
+      "stem": "Match the following and find the correct combination: A) Pure nitrogen, B) Haber's process, C) Contact process, D) Deacon's process with i) Chlorine, ii) Sulphuric acid, iii) Ammonia, iv) Sodium azide or Barium azide.",
+      "opts": [
+        [
+          "A",
+          "A-(i), B-(ii), C-(iii), D-(iv)"
+        ],
+        [
+          "B",
+          "A-(ii), B-(iv), C-(i), D-(iii)"
+        ],
+        [
+          "C",
+          "A-(iii), B-(iv), C-(ii), D-(i)"
+        ],
+        [
+          "D",
+          "A-(iv), B-(iii), C-(ii), D-(i)"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 6381,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "duplicate_options",
+      "stem": "Which of the following gives an alcohol and an acid on reaction with 50% sodium hydroxide solution?",
+      "opts": [
+        [
+          "A",
+          "Phenylmethanol"
+        ],
+        [
+          "B",
+          "Ethanal"
+        ],
+        [
+          "C",
+          "Ethanal"
+        ],
+        [
+          "D",
+          "Methanal"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 6413,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_incomplete",
+      "stem": "Based on the structures of the four aldotetroses given below, the correct name sequence respectively is,",
+      "opts": [
+        [
+          "A",
+          "L-Erythrose, L-Threose, L-Erythrose, D-Threose"
+        ],
+        [
+          "B",
+          "D-Threose, D-Erythrose, L-Threose, L-Erythrose"
+        ],
+        [
+          "C",
+          "D-Erythrose, L-Threose, D-Erythrose, D-Threose"
+        ],
+        [
+          "D",
+          "D-Erythrose, D-Threose, L-Erythrose, L-Threose"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 6428,
+      "topic": "12th Chemistry - Book back Questions",
+      "kind": "match_incomplete",
+      "stem": "Complete hydrolysis of cellulose yields",
+      "opts": [
+        [
+          "A",
+          "L-Glucose"
+        ],
+        [
+          "B",
+          "D-Fructose"
+        ],
+        [
+          "C",
+          "D-Ribose"
+        ],
+        [
+          "D",
+          "D-Glucose"
+        ],
+        [
+          "E",
+          "Answer not known"
+        ]
+      ],
+      "correct": "D"
+    }
+  ],
+  "by_kind": {
+    "statements_missing": 19,
+    "duplicate_options": 10,
+    "match_incomplete": 5,
+    "missing_figure": 1,
+    "match_list2_truncated": 1
+  }
+}

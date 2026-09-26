@@ -16351,47 +16351,6 @@
     "topic": "11th Chemistry - Book back Questions",
     "source_exam": "11th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "The phenomenon of splitting of spectral lines in an electric field is",
-    "question_ta": "மின்புலத்தில் நிறமாலைக் கோடுகள் பிரிிகையடையும் விளைவு.",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "Zeeman effect",
-        "text_ta": "சீமன் விளைவு"
-      },
-      {
-        "key": "B",
-        "text_en": "Stark effect",
-        "text_ta": "மறைத்தல் விளைவு"
-      },
-      {
-        "key": "C",
-        "text_en": "Compton effect",
-        "text_ta": "காம்ப்டன் விளைவு"
-      },
-      {
-        "key": "D",
-        "text_en": "Stark effect",
-        "text_ta": "ஸ்டார்க் விளைவு"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "D",
-    "explanation": "The splitting of spectral lines in the presence of an electric field is known as the Stark effect. The splitting in a magnetic field is known as the Zeeman effect.",
-    "explanation_ta": "மின்புலத்தின் முன்னிலையில் நிறமாலைக் கோடுகள் பிரிவடையும் நிகழ்வு ஸ்டார்க் விளைவு என அழைக்கப்படுகிறது. காந்தப்புலத்தில் இது சீமன் விளைவு எனப்படும்.",
-    "type": "practice",
-    "batch": "Unit 2",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "Based on the equation E = -2.178 x 10^-18 J (z^2 / n^2), certain conclusions are given. Which of the following is incorrect?",
     "question_ta": "E=-2.178x10^-18 J(z^2/n^2) என்ற சமன்பாட்டின் அடிப்படையில் சில முடிவுகள் தரப்பட்டுள்ளன. அவற்றுள் சரியாக இல்லாதது எது",
     "options": [
@@ -16679,47 +16638,6 @@
     "topic": "11th Chemistry - Book back Questions",
     "source_exam": "11th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "The orbital angular momentum value for a d-electron is",
-    "question_ta": "d- எலக்ட்ரானுக்கான ஆர்பிட்டால் கோண உந்த மதிப்பானது",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "(\\sqrt{2}h)/(2\\pi)",
-        "text_ta": "(\\sqrt{2}h)/(2\\pi)"
-      },
-      {
-        "key": "B",
-        "text_en": "(\\sqrt{2}h)/(2\\pi)",
-        "text_ta": "(\\sqrt{2}h)/(2\\pi)"
-      },
-      {
-        "key": "C",
-        "text_en": "(\\sqrt{2\\times 4}h)/(2\\pi)",
-        "text_ta": "(\\sqrt{2\\times 4}h)/(2\\pi)"
-      },
-      {
-        "key": "D",
-        "text_en": "(\\sqrt{6}h)/(2\\pi)",
-        "text_ta": "(\\sqrt{6}h)/(2\\pi)"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "D",
-    "explanation": "Orbital angular momentum is given by \\sqrt{l(l+1)} \\frac{h}{2\\pi}. For a d-electron, l = 2. So, \\sqrt{2(2+1)} \\frac{h}{2\\pi} = \\sqrt{6} \\frac{h}{2\\pi}.",
-    "explanation_ta": "ஆர்பிட்டால் கோண உந்தம் \\sqrt{l(l+1)} \\frac{h}{2\\pi} ஆகும். d-எலக்ட்ரானுக்கு l = 2, எனவே \\sqrt{2(2+1)} \\frac{h}{2\\pi} = \\sqrt{6} \\frac{h}{2\\pi} ஆகும்.",
-    "type": "practice",
-    "batch": "Unit 2",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "What is the maximum number of electrons that can have the set of quantum numbers n=3, l=1 and m=-1?",
     "question_ta": "n=3, l=1 மற்றும் m=-1 ஆகிய குவாண்டம் எண்களின் தொகுப்பினை அதிகபட்சமாக எத்தனை எலக்ட்ரான்கள் பெற்றிருக்க முடியும்?",
     "options": [
@@ -16875,47 +16793,6 @@
     "correct_option": "A",
     "explanation": "According to the Aufbau principle and energy levels for n = 6, electrons are filled in the order ns, followed by (n-2)f, then (n-1)d, and finally np.",
     "explanation_ta": "ஆஃப்பாவ் தத்துவம் மற்றும் ஆற்றல் மட்டங்களின்படி n = 6-க்கு எலக்ட்ரான்கள் ns, அதைத் தொடர்ந்து (n-2)f, பிறகு (n-1)d, இறுதியாக np என்ற வரிசையில் நிரப்பப்படுகின்றன.",
-    "type": "practice",
-    "batch": "Unit 2",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
-    "question_en": "Consider the following sets of quantum numbers. Which of the following set of quantum numbers is not possible?",
-    "question_ta": "பின்வரும் குவாண்டம் எண்களின் தொகுப்பினைக் கருதுக. பின்வரும் எந்த குவாண்டம் எண்களின் தொகுப்பு சாத்தியமற்றது?",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "(i), (ii), (iii) and (iv)",
-        "text_ta": "(i),(ii),(iii) மற்றும் (iv)"
-      },
-      {
-        "key": "B",
-        "text_en": "(ii), (iv) and (v)",
-        "text_ta": "(ii),(iv) மற்றும் (v)"
-      },
-      {
-        "key": "C",
-        "text_en": "(i) and (iii)",
-        "text_ta": "(i) மற்றும் (iii)"
-      },
-      {
-        "key": "D",
-        "text_en": "(ii), (iii) and (iv)",
-        "text_ta": "(ii),(iii) மற்றும் (iv)"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "B",
-    "explanation": "For a given value of n, l can have values from 0 to n-1. In (ii), n=2, l=2 (not possible since l must be < n). In (iv), n=1, l=0, m=-1 (not possible since m ranges from -l to +l). In (v), n=3, l=4 (not possible since l must be < n). Thus, (ii), (iv) and (v) are not possible.",
-    "explanation_ta": "n இன் மதிப்பிற்கு l இன் மதிப்பு 0 முதல் n-1 வரை இருக்கலாம். (ii)-ல் n=2, l=2 (l மதிப்பை விட குறைவாக இருக்க வேண்டும் என்பதால் இது சாத்தியமில்லை). (iv)-ல் n=1, l=0, m=-1 (m இன் மதிப்பு -l முதல் +l வரை இருக்க வேண்டும் என்பதால் சாத்தியமில்லை). (v)-ல் n=3, l=4 (சாத்தியமில்லை). எனவே, (ii), (iv) மற்றும் (v) சாத்தியமற்றவை.",
     "type": "practice",
     "batch": "Unit 2",
     "group": "Practice"
@@ -20984,47 +20861,6 @@
     "topic": "11th Chemistry - Book back Questions",
     "source_exam": "11th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "Entropy change of the universe in a reversible process is.",
-    "question_ta": "ஒரு மீள் செயல்முறையில் அண்டத்தின் என்ட்ரோபி மாற்றம்.",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "> 0",
-        "text_ta": "> 0"
-      },
-      {
-        "key": "B",
-        "text_en": "> 0",
-        "text_ta": "> 0"
-      },
-      {
-        "key": "C",
-        "text_en": "< 0",
-        "text_ta": "< 0"
-      },
-      {
-        "key": "D",
-        "text_en": "= 0",
-        "text_ta": "= 0"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "D",
-    "explanation": "For a reversible process, the total entropy change of the universe (system + surroundings) is zero (ΔS_total = 0).",
-    "explanation_ta": "ஒரு மீள் செயல்முறையில், அண்டத்தின் மொத்த என்ட்ரோபி மாற்றம் சுழியாகும் (ΔS_total = 0).",
-    "type": "practice",
-    "batch": "Unit 7",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "An ideal gas expands isothermally.",
     "question_ta": "ஒரு நல்லியல்பு வாயு வெப்ப மாறா முறையில் விரிவடைதலில்.",
     "options": [
@@ -25002,47 +24838,6 @@
     "topic": "11th Chemistry - Book back Questions",
     "source_exam": "11th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "Choose the compound that contains only one pi (π) bond.",
-    "question_ta": "ஒரே ஒரு π பிணைப்பை கொண்டுள்ள சேர்மத்தை தேர்ந்தெடுக்கவும்.",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "CH3-CH=CH-CH3",
-        "text_ta": "CH3-CH=CH-CH3"
-      },
-      {
-        "key": "B",
-        "text_en": "Other options not shown",
-        "text_ta": "மற்ற விருப்பங்கள் காட்டப்படவில்லை"
-      },
-      {
-        "key": "C",
-        "text_en": "Other options not shown",
-        "text_ta": "மற்ற விருப்பங்கள் காட்டப்படவில்லை"
-      },
-      {
-        "key": "D",
-        "text_en": "Other options not shown",
-        "text_ta": "மற்ற விருப்பங்கள் காட்டப்படவில்லை"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "CH3-CH=CH-CH3 (2-butene) contains a double bond between C2 and C3, which consists of one sigma (σ) bond and one pi (π) bond.",
-    "explanation_ta": "CH3-CH=CH-CH3 (2-பியூட்டீன்) ஒரு இரட்டைப் பிணைப்பைக் கொண்டுள்ளது, அதில் ஒரு சிக்மா (σ) பிணைப்பும் மற்றும் ஒரு பை (π) பிணைப்பும் அடங்கியுள்ளன.",
-    "type": "practice",
-    "batch": "Unit 11",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "The orbitals involved in hybridization of the central atom in PCl5 are",
     "question_ta": "PCl5 இல் உள்ள மைய அணுவின் இனக்கலப்பின்போது கலப்பில் ஈடுபடும் ஆர்பிட்டால்கள்.",
     "options": [
@@ -25330,47 +25125,6 @@
     "topic": "11th Chemistry - Book back Questions",
     "source_exam": "11th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "General formula for alkadiynes is:",
-    "question_ta": "ஆல்காடீயங்களின் பொதுவான வாய்ப்பாடு",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "CnH2n",
-        "text_ta": "CnH2n"
-      },
-      {
-        "key": "B",
-        "text_en": "CnH2n-1",
-        "text_ta": "CnH2n-1"
-      },
-      {
-        "key": "C",
-        "text_en": "CnH2n-2",
-        "text_ta": "CnH2n-2"
-      },
-      {
-        "key": "D",
-        "text_en": "CnH2n-2",
-        "text_ta": "CnH2n-2"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "C",
-    "explanation": "Alkadiynes contain two triple bonds. The general formula for alkynes with one triple bond is CnH2n-2. Alkadiynes also have the same degree of unsaturation as alkynes (two degrees), so their general molecular formula is also CnH2n-2.",
-    "explanation_ta": "ஆல்காடீயங்கள் இரண்டு மும்மை பிணைப்புகளைக் கொண்டுள்ளன. ஒரு மும்மை பிணைப்பு கொண்ட ஆல்கைன்களின் பொதுவான வாய்ப்பாடு CnH2n-2 ஆகும். ஆல்காடீயங்களும் அதே அளவு நிறைவுறாமையைக் கொண்டுள்ளன, எனவே அவற்றின் பொதுவான மூலக்கூறு வாய்ப்பாடு CnH2n-2 ஆகும்.",
-    "type": "practice",
-    "batch": "Unit 11",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "The IUPAC name of the compound given with structure is:",
     "question_ta": "கொடுக்கப்பட்டுள்ள அமைப்பைக் கொண்ட சேர்மத்தின் IUPAC பெயர்.",
     "options": [
@@ -25403,47 +25157,6 @@
     "correct_option": "A",
     "explanation": "Based on the structure provided with answer key 'A', the compound represents 2,3-dimethylheptane.",
     "explanation_ta": "விடை சாவியின்படி கொடுக்கப்பட்ட அமைப்பைக் கொண்ட சேர்மம் 2,3-டை மெத்தில்ஹெப்டேன் ஆகும்.",
-    "type": "practice",
-    "batch": "Unit 11",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
-    "question_en": "Which of the following does not match with its correct name?",
-    "question_ta": "கீழ்கண்டுள்ள பெயர்களுடன் எது உண்மையான பெயருடன் பொருந்தவில்லை?",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "3-methyl-3-hexanone",
-        "text_ta": "3- மெத்தில்-3-ஹெக்ஸனோன்"
-      },
-      {
-        "key": "B",
-        "text_en": "Other options",
-        "text_ta": "மற்ற விருப்பங்கள்"
-      },
-      {
-        "key": "C",
-        "text_en": "Other options",
-        "text_ta": "மற்ற விருப்பங்கள்"
-      },
-      {
-        "key": "D",
-        "text_en": "Other options",
-        "text_ta": "மற்ற விருப்பங்கள்"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "The question asks which name is incorrect or does not match properly. Based on the answer key, option A is selected.",
-    "explanation_ta": "கேள்வி எந்தப் பெயர் தவறானது அல்லது சரியாகப் பொருந்தவில்லை என்பதைக் கேட்கிறது. விடை குறிப்பின்படி விருப்பம் A தேர்ந்தெடுக்கப்பட்டுள்ளது.",
     "type": "practice",
     "batch": "Unit 11",
     "group": "Practice"
@@ -27125,47 +26838,6 @@
     "correct_option": "A",
     "explanation": "In ethane (C₂H₆), both carbon atoms are sp³ hybridized. The C-C bond is formed by the axial overlap of two sp³ orbitals (sp³-sp³), and each C-H bond is formed by the overlap of an sp³ orbital of carbon and the s orbital of hydrogen (sp³-s).",
     "explanation_ta": "ஈத்தேனில் (C₂H₆), கார்பன் அணுக்கள் sp³ இனக்கலப்பு அடைந்துள்ளன. C-C பிணைப்பு இரண்டு sp³ ஆர்பிட்டால்களின் மேற்பொருந்துதலினாலும் (sp³-sp³), C-H பிணைப்பு கார்பனின் sp³ ஆர்பிட்டாலும் ஹைட்ரஜனின் s ஆர்பிட்டாலும் மேற்பொருந்துவதால் (sp³-s) உருவாகின்றன.",
-    "type": "practice",
-    "batch": "Unit 13",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "11th Chemistry - Book back Questions",
-    "source_exam": "11th Chemistry - Book back Questions",
-    "difficulty": "Medium",
-    "question_en": "5. In the following reaction, the major product obtained in greater amount is: [reaction diagram shown with methylcyclopentane and Br2/hv]",
-    "question_ta": "5. பின்வரும் வினையில் அதிக அளவில் பெறப்படும் முதன்மை வினைப்பொருள்: [மெத்தில்சைக்கிளோபென்டேன் மற்றும் Br2/hv]",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "Cyclopentylmethyl bromide (CH2-Br attached to ring)",
-        "text_ta": "மெத்தில் தொகுதி பிரமிடாக மாறுவது"
-      },
-      {
-        "key": "B",
-        "text_en": "1-bromo-1-methylcyclopentane",
-        "text_ta": "1-ப்ரோமோ-1-மெத்தில்சைக்கிளோபென்டேன்"
-      },
-      {
-        "key": "C",
-        "text_en": "1-bromo-2-methylcyclopentane",
-        "text_ta": "1-ப்ரோமோ-2-மெத்தில்சைக்கிளோபென்டேன்"
-      },
-      {
-        "key": "D",
-        "text_en": "1-bromo-3-methylcyclopentane",
-        "text_ta": "1-ப்ரோமோ-3-மெத்தில்சைக்கிளோபென்டேன்"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "C",
-    "explanation": "Free radical bromination of methylcyclopentane occurs preferentially at the tertiary carbon atom because tertiary free radicals are the most stable. The major product formed is 1-bromo-1-methylcyclopentane (option B in the options layout, but marked as 'இ' which corresponds to option C in the typical mapping for this question image context where option 'இ' is chosen). Wait, looking closely at the answer key: 'விடை: இ' corresponds to option C (1-bromo-2-methylcyclopentane or tertiary carbon substitution depending on the exact diagram structure, let's represent standard chemical knowledge: tertiary carbon has the highest reactivity).",
-    "explanation_ta": "மெத்தில்சைக்கிளோபென்டேனின் ப்ரோமினேற்ற வினையில் அதிக நிலைப்புத்தன்மை கொண்ட மூன்றாம் நிலை கார்பன் பிரீ ரேடிக்கல் உருவாகிறது. எனவே மூன்றாம் நிலை கார்பனில் ப்ரோமின் சேர்வது முதன்மை பொருளாகும்.",
     "type": "practice",
     "batch": "Unit 13",
     "group": "Practice"
@@ -29922,47 +29594,6 @@
     "topic": "12th Chemistry - Book back Questions",
     "source_exam": "12th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "Match Column-I with Column-II and select the correct answer:",
-    "question_ta": "கலம் -Iல் உள்ளவற்றைக் கலம் -IIல் உள்ளவற்றுடன் பொருத்தித் தகுந்த விடையினைத் தெரிவு செய்",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "(A) -> (ii), (B) -> (iii), (C) -> (v), (D) -> (i)",
-        "text_ta": "(அ) (i) (ii) (iii) (iv)\n(ஆ) (iii) (iv) (v) (i)\n(இ) (iv) (ii) (iii) (i)\n(ஈ) (ii) (iii) (i) (v)"
-      },
-      {
-        "key": "B",
-        "text_en": "(A) -> (iii), (B) -> (iv), (C) -> (v), (D) -> (i)",
-        "text_ta": ""
-      },
-      {
-        "key": "C",
-        "text_en": "(A) -> (iv), (B) -> (ii), (C) -> (iii), (D) -> (i)",
-        "text_ta": ""
-      },
-      {
-        "key": "D",
-        "text_en": "(A) -> (ii), (B) -> (iii), (C) -> (i), (D) -> (v)",
-        "text_ta": ""
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "C",
-    "explanation": "A. Zone refining (சயனடு செயல்முறை) matches with (iv) Extraction of Au / purification, B. Froth floatation (நுரை மிதத்தல் செயல்முறை) matches with (ii) Concentration of ZnS ore, C. Electrolytic reduction (மின்னாற் ஒடுக்குதல்) matches with (iii) Extraction of Al, D. Mond process/Zone refining (புலத்தூய்மையாக்கல்) matches with (i) Ultra-pure Ge.",
-    "explanation_ta": "A. புலத்தூய்மையாக்கல் (Zone refining) - (iv) மிகத்தூய்மையான Ge அல்லது Au பிரித்தெடுத்தல், B. நுரை மிதத்தல் செயல்முறை - (ii) ZnS தாதுவை அடர்த்திப்படுத்தல், C. மின்னாற் ஒடுக்குதல் - (iii) Al பிரித்தெடுத்தல், D. சயனைடு செயல்முறை - (i) மிகத்தூய்மையான உலோகம் பெற.",
-    "type": "practice",
-    "batch": "Unit 1",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "Extraction of silver and gold involves leaching with a cyanide solution. Subsequent recovery of silver involves?",
     "question_ta": "சில்வர் மற்றும் தங்கம் பிரித்தெடுத்தல் முறையானது சயனைடைக் கொண்டு கழுவுதலை உள்ளடக்கியது. இம்முறையில் பின்னர் சில்வர் மீளப் பெறப்படுதல்.",
     "options": [
@@ -30938,47 +30569,6 @@
     "correct_option": "D",
     "explanation": "Feldspar is actually a very common aluminosilicate mineral. Therefore, the statement 'Feldspar is not an aluminosilicate' is incorrect.",
     "explanation_ta": "பெல்ஸ்பார் என்பது உண்மையில் ஒரு அலுமினோ சிலிக்கேட் கனிமம் ஆகும். எனவே 'பெல்ஸ்பார் ஆனது அலுமினோ சிலிக்கேட் அல்ல' என்ற கூற்று தவறானது.",
-    "type": "practice",
-    "batch": "Unit 2",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
-    "question_en": "Match Column-I with Column-II and select the correct answer.",
-    "question_ta": "கலம் -Iல் உள்ளவற்றை கலம் -IIல் உள்ளவற்றுடன் பொருத்தி, தகுந்த விடையினைத் தெரிவு செய்க.",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "A-2, B-1, C-4, D-3",
-        "text_ta": "2 1 4 3"
-      },
-      {
-        "key": "B",
-        "text_en": "A-1, B-2, C-4, D-3",
-        "text_ta": "1 2 4 3"
-      },
-      {
-        "key": "C",
-        "text_en": "A-1, B-2, C-4, D-3",
-        "text_ta": "1 2 4 3"
-      },
-      {
-        "key": "D",
-        "text_en": "None of these",
-        "text_ta": "இவை ஏதுவுமல்ல"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "Matching: Borazole (A) matches with B3N3H6 (2), Boric acid (B) matches with B(OH)3 (1), Quartz (C) matches with SiO2 (4), Borax (D) matches with Na2[B4O5(OH)4] 8H2O (3). Therefore, A-2, B-1, C-4, D-3 is correct.",
-    "explanation_ta": "பொருத்துக: போரசூல் (A) - B3N3H6 (2), போரிக் அமிலம் (B) - B(OH)3 (1), குவார்ட்ஸ் (C) - SiO2 (4), போராக்ஸ் (D) - Na2[B4O5(OH)4] 8H2O (3). எனவே A-2, B-1, C-4, D-3 சரியானது.",
     "type": "practice",
     "batch": "Unit 2",
     "group": "Practice"
@@ -32250,47 +31840,6 @@
     "correct_option": "C",
     "explanation": "5 moles of FeC2O4 react with 3 moles of KMnO4. Therefore, 1 mole of FeC2O4 requires 3/5 = 0.6 moles of KMnO4.",
     "explanation_ta": "5 மோல் பெரஸ் ஆக்சாலேட் 3 மோல் KMnO4 உடன் வினைபுரிகிறது. எனவே 1 மோல் பெரஸ் ஆக்சாலேட்டுக்கு 3/5 = 0.6 மோல் KMnO4 தேவைப்படுகிறது.",
-    "type": "practice",
-    "batch": "Unit 4",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
-    "question_en": "Which of the following statements regarding lanthanides is incorrect?",
-    "question_ta": "லாந்தனான்களைப் பொருத்து பின்வரும் கூற்றுகளில் சரியல்லாத கூற்று எது?",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "Europium has +2 oxidation state.",
-        "text_ta": "யூரோப்பியம் +2 ஆக்சிஜனேற்ற நிலையைப் பெற்றுள்ளது."
-      },
-      {
-        "key": "B",
-        "text_en": "Europium has +2 oxidation state.",
-        "text_ta": "யூரோப்பியம் +2 ஆக்சிஜனேற்ற நிலையைப் பெற்றுள்ளது."
-      },
-      {
-        "key": "C",
-        "text_en": "Europium has +2 oxidation state.",
-        "text_ta": "யூரோப்பியம் +2 ஆக்சிஜனேற்ற நிலையைப் பெற்றுள்ளது."
-      },
-      {
-        "key": "D",
-        "text_en": "Europium has +2 oxidation state.",
-        "text_ta": "யூரோப்பியம் +2 ஆக்சிஜனேற்ற நிலையைப் பெற்றுள்ளது."
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "Europium exhibits a stable +2 oxidation state due to its stable half-filled 4f7 configuration.",
-    "explanation_ta": "யூரோப்பியம் அதன் நிலையான அரைகுறை நிரப்பப்பட்ட 4f7 எலக்ட்ரான் அமைப்பின் காரணமாக +2 ஆக்சிஜனேற்ற நிலையைப் பெற்றுள்ளது.",
     "type": "practice",
     "batch": "Unit 4",
     "group": "Practice"
@@ -34186,47 +33735,6 @@
     "topic": "12th Chemistry - Book back Questions",
     "source_exam": "12th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "X and Y are atoms of two different elements forming a 2D crystal structure given below. Black squares represent X and white squares represent Y. Based on this unit cell, the empirical formula of the compound is:",
-    "question_ta": "X மற்றும் Y ஆகிய இரு வேறு அணுக்களைக் கொண்ட ஒரு இரு பரிமாண படிகத்தின் அமைப்பு கீழே தரப்பட்டுள்ளது. கருப்பு நிற சதுரம் மற்றும் வெள்ளை நிற சதுரம் ஆகியை முறையே X மற்றும் Y அணுக்களைக் குறித்தால், இந்த அலகு கூட்டு அமைப்பின் அடிப்படையில், அச்சேர்மத்தின் எளிய வாய்ப்பாடு:",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "XY8",
-        "text_ta": "அ) XY8"
-      },
-      {
-        "key": "B",
-        "text_en": "X4Y9",
-        "text_ta": "ஆ) X4Y9"
-      },
-      {
-        "key": "C",
-        "text_en": "XY2",
-        "text_ta": "இ) XY2"
-      },
-      {
-        "key": "D",
-        "text_en": "XY4",
-        "text_ta": "ஈ) XY4"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "Based on counting the atoms per unit cell for the given 2D lattice, the ratio of X to Y simplifies to XY8.",
-    "explanation_ta": "கொடுக்கப்பட்டுள்ள படிக அமைப்பின் அலகு கூட்டில் உள்ள X மற்றும் Y அணுக்களின் எண்ணிக்கையின் அடிப்படையில் எளிய வாய்ப்பாடு XY8 ஆகும்.",
-    "type": "practice",
-    "batch": "Unit 7",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "For a first order reaction A -> B, the rate constant is x min^-1. If the initial concentration of A is 0.01 M, the concentration of A after one hour is",
     "question_ta": "A -> B என்ற முதல் வகை வினையின் வினை வேக மாறிளி x min^-1. A ன் துவக்கச் செறிவு 0.01M எனில் ஒரு மணி நேரத்திற்குப் பிறகு A ன் செறிவு",
     "options": [
@@ -35908,47 +35416,6 @@
     "topic": "12th Chemistry - Book back Questions",
     "source_exam": "12th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "The hydrogen ion concentration of a buffer solution containing a weak acid and its salts is given by:",
-    "question_ta": "ஒரு வலிமை குறைந்த அமிலம் மற்றும் அதன் உப்புகளை கொண்டுள்ள ஒரு தாங்கல் கரைசலின் ஹைட்ரஜன் அயனிச் செறிவுக்குறிப்பிடுவது",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "[H+] = Ka * ([acid] / [salt])",
-        "text_ta": "[H+] = K_a * ([அமலம்] / [உப்பு])"
-      },
-      {
-        "key": "B",
-        "text_en": "[H+] = Ka * [salt]",
-        "text_ta": "[H+] = K_a * [உப்பு]"
-      },
-      {
-        "key": "C",
-        "text_en": "[H+] = Ka * ([salt] / [acid])",
-        "text_ta": "[H+] = K_a * ([அமலம்] / [உப்பு])"
-      },
-      {
-        "key": "D",
-        "text_en": "[H+] = Ka * ([salt] / [acid])",
-        "text_ta": "[H+] = K_a * ([உப்பு] / [அமலம்])"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "For an acidic buffer solution, the dissociation equilibrium gives [H+] = Ka * ([acid] / [salt]).",
-    "explanation_ta": "அக தாங்கல் கரைசலுக்கான பிரிகை சமநிலை வாய்பாடு [H+] = K_a * ([அமலம்] / [உப்பு]) ஆகும்.",
-    "type": "practice",
-    "batch": "Unit 8",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "If the dissociation constant of NH4OH is 1.8 × 10^-5, then the hydrolysis constant of NH4Cl is",
     "question_ta": "NH4OH இன் பிரிகைமாறிளி மதிப்பு 1.8 × 10^-5 எனில், NH4Cl இன் நீராற்புகுத்தல் மாறிளி மதிப்பு",
     "options": [
@@ -37466,47 +36933,6 @@
     "topic": "12th Chemistry - Book back Questions",
     "source_exam": "12th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "Match the following list of catalysts and processes correctly:",
-    "question_ta": "பின்வருவனவற்றை பொருத்துக",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "A-(iv), B-(i), C-(ii), D-(iii)",
-        "text_ta": "a) (iv) (i) (ii) (iii)"
-      },
-      {
-        "key": "B",
-        "text_en": "A-(i), B-(ii), C-(iv), D-(iii)",
-        "text_ta": "b) (i) (ii) (iv) (iii)"
-      },
-      {
-        "key": "C",
-        "text_en": "A-(ii), B-(iii), C-(iv), D-(i)",
-        "text_ta": "c) (ii) (iii) (iv) (i)"
-      },
-      {
-        "key": "D",
-        "text_en": "A-(iii), B-(iv), C-(ii), D-(i)",
-        "text_ta": "d) (iii) (iv) (ii) (i)"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "Matching: A) V2O5 -> iv) H2SO4 (Contact process), B) Ziegler-Natta catalyst -> i) high density polyethylene, C) Peroxide -> ii) PAN, D) Finely divided Fe -> iii) NH3 (Haber process). Hence A-(iv), B-(i), C-(ii), D-(iii) is correct.",
-    "explanation_ta": "பொருத்துக: A) V2O5 -> iv) H2SO4 (தொடு முறை), B) சீக்லர்-நட்டா -> i) உயர் அடர்த்தி பாலிஎத்திலீன், C) பெராக்சைடு -> ii) PAN, D) தூளாக்கப்பட்ட Fe -> iii) NH3 (ஹேபர் முறை). எனவே A-(iv), B-(i), C-(ii), D-(iii) சரிய십ும்.",
-    "type": "practice",
-    "batch": "Unit 10",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "Which of the following compounds reacts with methyl magnesium bromide followed by acid hydrolysis to give a tertiary alcohol?",
     "question_ta": "பின்வருவனவற்றுள் எச்சேர்மமானது மெத்தில் மெக்னீசியம் புரோமைடுடன் வினைபுரிந்து பின் நீராற்புகக்க மூவினைய ஆல்கஹாலைத் தரும்?",
     "options": [
@@ -38983,47 +38409,6 @@
     "topic": "12th Chemistry - Book back Questions",
     "source_exam": "12th Chemistry - Book back Questions",
     "difficulty": "Medium",
-    "question_en": "Which of the following gives an alcohol and an acid on reaction with 50% sodium hydroxide solution?",
-    "question_ta": "பின்வருவனவற்றுள் எந்த ஒன்று 50% சோடியம் ஹைட்ராக்சைடு கரைசலுடன் வினைப்பட்டு ஆல்கஹாலையும், அமிலத்தையும் தருகிறது?",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "Phenylmethanol",
-        "text_ta": "பீனைல்மெத்தனால்"
-      },
-      {
-        "key": "B",
-        "text_en": "Ethanal",
-        "text_ta": "எத்தனால்"
-      },
-      {
-        "key": "C",
-        "text_en": "Ethanal",
-        "text_ta": "எத்தனால்"
-      },
-      {
-        "key": "D",
-        "text_en": "Methanal",
-        "text_ta": "மெத்தனால்"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "A",
-    "explanation": "Benzaldehyde (often referred to here or via its derivatives/reactions like Cannizzaro) or specific aromatic aldehydes undergo Cannizzaro reaction with 50% NaOH. Wait, looking at options: Phenylmethanol is an alcohol itself, but let's re-read standard textbook options: Formaldehyde (methanal) or benzaldehyde. Actually, formaldehyde or benzaldehyde undergo Cannizzaro. Let's check the exact options given in the image: அ) பீனைல்மெத்தனால் ஆ) எத்தனால் இ) எத்தனால் ஈ) மெத்தናል (Note: formaldehyde/methanal or benzaldehyde undergoes Cannizzaro. Let's look at the highlighted option 'அ' - Phenylmethanol / Benzaldehyde depending on text, but based on the provided highlight 'அ', option A is selected).",
-    "explanation_ta": "கொடுக்கப்பட்டுள்ள விருப்பங்களில் 50% சோடியம் ஹைட்ராக்சைடுடன் கான்நிசோரோ வினைக்கு உட்பட்டு ஆல்கஹால் மற்றும் அமிலத்தைத் தருவது பீனைல்மெத்தனால் தொடர்புடைய பென்சால்டிகைடு/வேதி வினை.",
-    "type": "practice",
-    "batch": "Unit 12",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
     "question_en": "Which reagent is used to distinguish between acetaldehyde and benzaldehyde?",
     "question_ta": "அசிட்டால்டிகைடு மற்றும் பென்சால்டிகைடை வேறுபடுத்தியறிய பயன்படுத்தப்படும் வினைக்காரணி",
     "options": [
@@ -40286,47 +39671,6 @@
     "correct_option": "C",
     "explanation": "D(-) Fructose is levorotatory, meaning it rotates the plane of plane-polarized light to the left, denoted by the minus (-) sign.",
     "explanation_ta": "D(-) ஃபிராக்டோஸ் இடஞ்சுழி சுழற்றுந் திறனுடையது (levorotatory), எனவே இது ஒளிக்கதிர் தளத்தை இடப்புறமாக சுழற்றுகிறது, இது (-) குறியால் குறிக்கப்படுகிறது.",
-    "type": "practice",
-    "batch": "Unit 14",
-    "group": "Practice"
-  },
-  {
-    "subject": "Chemistry",
-    "topic": "12th Chemistry - Book back Questions",
-    "source_exam": "12th Chemistry - Book back Questions",
-    "difficulty": "Medium",
-    "question_en": "Based on the structures of the four aldotetroses given below, the correct name sequence respectively is,",
-    "question_ta": "கீழே கொடுக்கப்பட்டுள்ள நான்கு ஆல்டோஸ்களின் அமைப்புகளின் அடிப்படையில் அமைந்த சரியான பெயர் வரிசை முறையே,",
-    "options": [
-      {
-        "key": "A",
-        "text_en": "L-Erythrose, L-Threose, L-Erythrose, D-Threose",
-        "text_ta": "L-எரித்ரோஸ், L-த்ரியோஸ், L-எரித்ரோஸ், D-த்ரியோஸ்"
-      },
-      {
-        "key": "B",
-        "text_en": "D-Threose, D-Erythrose, L-Threose, L-Erythrose",
-        "text_ta": "D-த்ரியோஸ், D-எரித்ரோஸ், L-த்ரியோஸ், L-எரித்ரோஸ்"
-      },
-      {
-        "key": "C",
-        "text_en": "D-Erythrose, L-Threose, D-Erythrose, D-Threose",
-        "text_ta": "D-எரித்ரோஸ், L-த்ரியோஸ், D-எரித்ரோஸ், D-த்ரியோஸ்"
-      },
-      {
-        "key": "D",
-        "text_en": "D-Erythrose, D-Threose, L-Erythrose, L-Threose",
-        "text_ta": "D-எரித்ரோஸ், D-த்ரியோஸ், L-எரித்ரோஸ், L-த்ரியோஸ்"
-      },
-      {
-        "key": "E",
-        "text_en": "Answer not known",
-        "text_ta": "விடை தெரியவில்லை"
-      }
-    ],
-    "correct_option": "D",
-    "explanation": "Analyzing the Fischer projections for the four aldotetroses gives D-Erythrose, D-Threose, L-Erythrose, and L-Threose respectively based on the configuration of chiral centers.",
-    "explanation_ta": "கொடுக்கப்பட்டுள்ள நான்கு ஆல்டோஸ்களின் பிஷர் அமைப்புகளின்படி, அவற்றின் சரியான பெயர்கள் முறையே D-எரித்ரோஸ், D-த்ரியோஸ், L-எரித்ரோஸ் மற்றும் L-த்ரியோஸ் ஆகும்.",
     "type": "practice",
     "batch": "Unit 14",
     "group": "Practice"

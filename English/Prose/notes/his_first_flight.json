@@ -1,0 +1,88 @@
+{
+  "prose_id": "his_first_flight",
+  "prose_title": "His First Flight",
+  "author": "Liam O'Flaherty",
+  "num": 1,
+  "pdf_pages": [
+    105,
+    119
+  ],
+  "prose_text_en": "The young seagull is afraid to fly, fearing the great expanse of the sea. His siblings have already taken their first flights. Despite his parents' scolding and threatening to let him starve, he remains on his ledge. After twenty-four hours of fasting, the sight of his mother tearing at a piece of fish maddens him with hunger. As she flies near him with food, she halts, forcing him to dive to reach it. This desperate plunge triggers his instinct; he falls outwards and downwards but soon finds his wings spreading. He begins to soar, eventually landing and floating on the green sea, having finally achieved his first flight.",
+  "summary_en": "The story follows a young, timid seagull who overcomes his paralyzing fear of flying through the encouragement and tough love of his family. Driven by intense hunger, he is eventually forced to take his first leap into the sky, which transitions into a triumphant discovery of his own potential. The narrative highlights the importance of courage and the necessity of stepping out of one's comfort zone to succeed.",
+  "characters": [
+    {
+      "name_en": "Young Seagull",
+      "role_en": "Protagonist who struggles with the fear of flying."
+    },
+    {
+      "name_en": "Mother Seagull",
+      "role_en": "The catalyst who uses hunger to force her son to fly."
+    },
+    {
+      "name_en": "Father Seagull",
+      "role_en": "Encourages the son through calling and scolding."
+    },
+    {
+      "name_en": "Siblings",
+      "role_en": "Have already learned to fly and serve as motivation for the protagonist."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Ledge",
+      "meaning_en": "A narrow shelf that juts out from a vertical surface."
+    },
+    {
+      "word_en": "Precipice",
+      "meaning_en": "A very steep side of a cliff or a mountain."
+    },
+    {
+      "word_en": "Devour",
+      "meaning_en": "To eat something eagerly and in large amounts."
+    },
+    {
+      "word_en": "Preening",
+      "meaning_en": "Cleaning feathers with a beak."
+    },
+    {
+      "word_en": "Whet",
+      "meaning_en": "To sharpen."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Liam O'Flaherty (1896–1984), an Irish novelist and short story writer.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Title: His First Flight",
+      "tag": "title"
+    },
+    {
+      "rule_en": "Theme: Courage, family support, and overcoming fear to achieve self-reliance.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Fact: The seagull had not eaten for twenty-four hours before his first flight.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Fact: The mother used a piece of fish as a bait to make the young seagull fly.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What did the young seagull manage to find in his search for food on the ledge?",
+      "answer_en": "He found a dried piece of mackerel’s tail at the far end of the ledge.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What prompted the young seagull to fly finally?",
+      "answer_en": "The sight of his mother flying across with a piece of fish, driven by extreme hunger.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

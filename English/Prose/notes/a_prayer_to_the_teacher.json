@@ -1,0 +1,114 @@
+{
+  "prose_id": "a_prayer_to_the_teacher",
+  "prose_title": "A Prayer to the Teacher",
+  "author": "Subroto Bagchi",
+  "num": 26,
+  "pdf_pages": [
+    522,
+    537
+  ],
+  "prose_text_en": "A Prayer to the Teacher is a convocation address by Subroto Bagchi delivered at the International Academy for Creative Teaching, Bangalore, on January 6, 2005. Bagchi, founder of Mindtree, urges graduating teachers to teach students beyond the textbook syllabus. He calls for teaching values such as inclusion, the art of learning to learn, environmental stewardship, the power of questioning, silence vs. speaking truth, and global citizenship. He states, 'Without the sense of inclusion, I will not know that boundaries are meant to be pushed – not to be lived in.' He emphasizes that life’s most essential sustainers, like sun, air, and rivers, are free, and encourages students to move past narrow domestic walls and bigotry.",
+  "summary_en": "Subroto Bagchi addresses graduating teachers, requesting them to equip students with life-sustaining values rather than just academic knowledge. He emphasizes the importance of inclusivity, critical thinking, environmental awareness, and global harmony. His message encourages teachers to foster a generation that communicates meaningfully, questions injustice, and values the interconnectedness of all life.",
+  "characters": [
+    {
+      "name_en": "Subroto Bagchi",
+      "role_en": "Author, Speaker, Founder and CEO of Mindtree"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Inclusion",
+      "meaning_en": "All people being valued, irrespective of differences"
+    },
+    {
+      "word_en": "Cut throat",
+      "meaning_en": "Competitive"
+    },
+    {
+      "word_en": "Indiscriminate",
+      "meaning_en": "Without careful judgement"
+    },
+    {
+      "word_en": "Contemplate",
+      "meaning_en": "Think deeply about something"
+    },
+    {
+      "word_en": "Bigotry",
+      "meaning_en": "Intolerance towards others with a different opinion"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The speech was delivered by Subroto Bagchi on January 6, 2005.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Bagchi is the founder and CEO of the company Mindtree.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The address was given at the International Academy for Creative Teaching, Bangalore.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Key themes include inclusion, environmental responsibility, critical questioning, and global citizenship.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Bagchi argues that true life sustainers (sun, air, rivers) come free, contrasting them with a commercial world.",
+      "tag": "quote"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Is your mother __________ home?",
+      "answer_en": "at",
+      "options_en": [
+        "in",
+        "at",
+        "on"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "There is unity in diversity __________ the people.",
+      "answer_en": "among",
+      "options_en": [
+        "among",
+        "between",
+        "within"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "He discussed the problem __________ his parents.",
+      "answer_en": "with",
+      "options_en": [
+        "with",
+        "to",
+        "for"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Lithisha was praised __________ her father.",
+      "answer_en": "by",
+      "options_en": [
+        "with",
+        "for",
+        "by"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "He has been absent __________ last week.",
+      "answer_en": "since",
+      "options_en": [
+        "since",
+        "for",
+        "by"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

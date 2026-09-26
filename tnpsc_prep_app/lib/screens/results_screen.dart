@@ -5,6 +5,7 @@ import '../models/history.dart';
 import '../models/question.dart';
 import '../providers/app_state.dart';
 import '../widgets/question_text.dart';
+import '../widgets/learn_insight_panel.dart';
 import '../services/api_service.dart';
 
 class ScoreRingPainter extends CustomPainter {
@@ -400,38 +401,32 @@ class _ResultsScreenState extends State<ResultsScreen> {
                             ),
                           const SizedBox(height: 16),
                           const Divider(color: Colors.white10),
-                          const SizedBox(height: 12),
-                          const Text(
-                            'Explanation:',
-                            style: TextStyle(
-                              fontFamily: 'Outfit',
-                              fontSize: 12,
-                              fontWeight: FontWeight.bold,
-                              color: Color(0xFF3B82F6),
-                            ),
-                          ),
                           const SizedBox(height: 4),
-                          Text(
-                            appState.displayExplanationText(q),
-                            style: const TextStyle(
-                              fontFamily: 'Inter',
-                              fontSize: 13,
-                              height: 1.4,
-                              color: Colors.white70,
+                          if (q.hasLearnInsights)
+                            LearnInsightPanel(
+                              question: q,
+                              appState: appState,
+                              selectedKey: selected,
+                              isCorrect: isCorrect,
+                            )
+                          else ...[
+                            const Text(
+                              'Explanation:',
+                              style: TextStyle(
+                                fontFamily: 'Outfit',
+                                fontSize: 12,
+                                fontWeight: FontWeight.bold,
+                                color: Color(0xFF3B82F6),
+                              ),
                             ),
-                          ),
-                          if (appState.showBilingualQuestions &&
-                              q.explanationTa.isNotEmpty &&
-                              q.explanationTa != q.explanation) ...[
-                            const SizedBox(height: 8),
+                            const SizedBox(height: 4),
                             Text(
-                              q.explanationTa,
-
+                              appState.displayExplanationText(q),
                               style: const TextStyle(
                                 fontFamily: 'Inter',
-                                fontSize: 12,
+                                fontSize: 13,
                                 height: 1.4,
-                                color: Colors.grey,
+                                color: Colors.white70,
                               ),
                             ),
                           ],

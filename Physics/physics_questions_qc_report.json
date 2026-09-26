@@ -1,0 +1,284 @@
+{
+  "practice_total": 450,
+  "hard_issue_count": 0,
+  "question_issues": [],
+  "batch_issues": [],
+  "batch_counts": {
+    "Discoveries and National Scientific Laboratories / Batch 1": 25,
+    "Discoveries and National Scientific Laboratories / Batch 2": 25,
+    "Discoveries and National Scientific Laboratories / Batch 3": 25,
+    "Force, Motion and Energy / Batch 1": 25,
+    "Laws of Physics / Batch 1": 25,
+    "Laws of Physics / Batch 2": 25,
+    "Laws of Physics / Batch 3": 25,
+    "Mechanics and Properties of Matter / Batch 1": 25,
+    "Mechanics and Properties of Matter / Batch 2": 25,
+    "Physical Quantities, Standards and Units / Batch 1": 25,
+    "Physical Quantities, Standards and Units / Batch 2": 25,
+    "Physical Quantities, Standards and Units / Batch 3": 25,
+    "Scientific Instruments / Batch 1": 25,
+    "Scientific Instruments / Batch 2": 25,
+    "Scientific Instruments / Batch 3": 25,
+    "Universe / Batch 1": 25,
+    "Universe / Batch 2": 25,
+    "Universe / Batch 3": 25
+  },
+  "format_counts": {
+    "Discoveries and National Scientific Laboratories / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Discoveries and National Scientific Laboratories / Batch 2": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Discoveries and National Scientific Laboratories / Batch 3": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Force, Motion and Energy / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Laws of Physics / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Laws of Physics / Batch 2": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Laws of Physics / Batch 3": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Mechanics and Properties of Matter / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Mechanics and Properties of Matter / Batch 2": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Physical Quantities, Standards and Units / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Physical Quantities, Standards and Units / Batch 2": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Physical Quantities, Standards and Units / Batch 3": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Scientific Instruments / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Scientific Instruments / Batch 2": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Scientific Instruments / Batch 3": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Universe / Batch 1": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Universe / Batch 2": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    },
+    "Universe / Batch 3": {
+      "direct": 8,
+      "statement": 7,
+      "assertion_reason": 3,
+      "match": 3,
+      "paragraph": 4
+    }
+  },
+  "contextual_counts": {
+    "Discoveries and National Scientific Laboratories / Batch 1": 4,
+    "Discoveries and National Scientific Laboratories / Batch 2": 4,
+    "Discoveries and National Scientific Laboratories / Batch 3": 4,
+    "Force, Motion and Energy / Batch 1": 19,
+    "Laws of Physics / Batch 1": 11,
+    "Laws of Physics / Batch 2": 14,
+    "Laws of Physics / Batch 3": 6,
+    "Mechanics and Properties of Matter / Batch 1": 15,
+    "Mechanics and Properties of Matter / Batch 2": 7,
+    "Physical Quantities, Standards and Units / Batch 1": 11,
+    "Physical Quantities, Standards and Units / Batch 2": 11,
+    "Physical Quantities, Standards and Units / Batch 3": 24,
+    "Scientific Instruments / Batch 1": 9,
+    "Scientific Instruments / Batch 2": 13,
+    "Scientific Instruments / Batch 3": 6,
+    "Universe / Batch 1": 11,
+    "Universe / Batch 2": 14,
+    "Universe / Batch 3": 13
+  },
+  "answer_distributions": {
+    "Discoveries and National Scientific Laboratories / Batch 1": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Discoveries and National Scientific Laboratories / Batch 2": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Discoveries and National Scientific Laboratories / Batch 3": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Force, Motion and Energy / Batch 1": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Laws of Physics / Batch 1": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Laws of Physics / Batch 2": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Laws of Physics / Batch 3": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Mechanics and Properties of Matter / Batch 1": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Mechanics and Properties of Matter / Batch 2": {
+      "A": 6,
+      "B": 7,
+      "C": 6,
+      "D": 6
+    },
+    "Physical Quantities, Standards and Units / Batch 1": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Physical Quantities, Standards and Units / Batch 2": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Physical Quantities, Standards and Units / Batch 3": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Scientific Instruments / Batch 1": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Scientific Instruments / Batch 2": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Scientific Instruments / Batch 3": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Universe / Batch 1": {
+      "A": 6,
+      "B": 6,
+      "C": 7,
+      "D": 6
+    },
+    "Universe / Batch 2": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "Universe / Batch 3": {
+      "A": 7,
+      "B": 4,
+      "C": 7,
+      "D": 7
+    }
+  }
+}

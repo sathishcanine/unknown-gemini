@@ -1,0 +1,83 @@
+{
+  "poem_id": "life",
+  "poem_title": "Life",
+  "author": "Henry Van Dyke",
+  "num": 27,
+  "pdf_pages": [
+    89,
+    91
+  ],
+  "poem_text_en": "Let me but live my life from year to year, \nWith forward face and unreluctant soul; \nNot hurrying to, nor turning from the goal; \nNot mourning for the things that disappear \nIn the dim past, nor holding back in fear\nFrom what the future veils; but with a whole \nAnd happy heart, that pays its toll\nTo Youth and Age, and travels on with cheer.\nSo let the way wind up the hill or down,\nO'er rough or smooth, the journey will be joy:\nStill seeking what I sought when but a boy,\nNew friendship, high adventure, and a crown, \nMy heart will keep the courage of the quest, \nAnd hope the road's last turn will be the best.",
+  "summary_en": "Henry Van Dyke's 'Life' is a sonnet that explores the importance of living life with optimism and courage. The poet emphasizes accepting all stages of life, whether smooth or difficult, while maintaining a youthful spirit of adventure. Ultimately, he expresses a hopeful outlook, believing that the end of one's journey can be just as rewarding as the beginning.",
+  "glossary": [
+    {
+      "word_en": "mourning",
+      "meaning_en": "feeling or expressing great sadness"
+    },
+    {
+      "word_en": "veils",
+      "meaning_en": "to hide or cover something so that you cannot see it clearly or understand it"
+    },
+    {
+      "word_en": "crown",
+      "meaning_en": "a prize or position offered for being the best"
+    },
+    {
+      "word_en": "quest",
+      "meaning_en": "a long search for something that is difficult to find"
+    },
+    {
+      "word_en": "unreluctant",
+      "meaning_en": "willing to do something"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "metaphor",
+      "example_en": "the way wind up the hill or down",
+      "note_en": "Life's journey is compared to a path or road."
+    },
+    {
+      "device_en": "personification",
+      "example_en": "the future veils",
+      "note_en": "The future is given the human action of veiling or hiding things."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poem is a sonnet, which is a 14-line poem written in iambic pentameter.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Henry Van Dyke (1852–1933) was an American author, poet, educator, and clergyman.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The first eight lines of a sonnet are called an octave and the last six are a sestet.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The poet wants to live life with a forward face and an unreluctant soul.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The poet wants to live his life __________, willing to do something.",
+      "answer_en": "looking ahead",
+      "options_en": [
+        "looking ahead",
+        "mourning",
+        "hurrying",
+        "fearful"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "How is the way of life according to the poet?",
+      "answer_en": "The way of life winds up the hill or down, and can be rough or smooth.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

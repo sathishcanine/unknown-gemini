@@ -1,0 +1,81 @@
+{
+  "poem_id": "special_hero",
+  "poem_title": "Special Hero",
+  "author": "Christine M. Kerschan",
+  "num": 12,
+  "count": 4,
+  "questions": [
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "Our love is everlasting,\nI just wanted you to know,\nThat you're my special hero\nAnd I wanted to tell you so.\nWho is the special hero mentioned in the poem?",
+      "options_en": [
+        "father",
+        "mother",
+        "brother",
+        "friend"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "'I just wanted you to know,\nThat you're my special hero'\nWho is the special hero mentioned in these lines.",
+      "options_en": [
+        "mother",
+        "father",
+        "soldier",
+        "brother"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "'There is something special about a father's love'.\nPick out the words in alliteration",
+      "options_en": [
+        "something, special",
+        "father's, love",
+        "there, is",
+        "about, love"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": true,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b004",
+      "source_note": "pyq_11_25_b004"
+    },
+    {
+      "poem_title": "Special Hero",
+      "poem_id": "special_hero",
+      "question_en": "\"Our love is everlasting I just wanted you to know That you’re my special hero and I wanted to tell you so\". These lines are taken from the poem",
+      "options_en": [
+        "The Spider and the Fly",
+        "The Ant and the Cricket",
+        "No Men are Foreign",
+        "Special Hero"
+      ],
+      "answer_en": "D Special Hero",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b005",
+      "source_note": "pyq_11_25_b005"
+    }
+  ]
+}

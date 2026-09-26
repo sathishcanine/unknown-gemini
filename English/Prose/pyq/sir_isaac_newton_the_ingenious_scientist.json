@@ -1,0 +1,54 @@
+{
+  "prose_id": "sir_isaac_newton_the_ingenious_scientist",
+  "prose_title": "Sir Isaac Newton – The Ingenious Scientist",
+  "questions": [
+    {
+      "prose_title": "Sir Isaac Newton – The Ingenious Scientist",
+      "prose_id": "sir_isaac_newton_the_ingenious_scientist",
+      "question_en": "Nathaniel Hawthorne was _________ writer.",
+      "options_en": [
+        "A Turkish",
+        "An English",
+        "An Irish",
+        "An American"
+      ],
+      "answer_en": "An American",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "item 21",
+      "band": "prose_pyq_b013"
+    },
+    {
+      "prose_title": "Sir Isaac Newton – The Ingenious Scientist",
+      "prose_id": "sir_isaac_newton_the_ingenious_scientist",
+      "question_en": "Fill in the blank. The following words are uttered by Isaac Newton. I seem to myself like a _________",
+      "options_en": [
+        "Philosopher",
+        "Innocent",
+        "Small Baby",
+        "Child"
+      ],
+      "answer_en": "Child",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "item 47",
+      "band": "prose_pyq_b013"
+    },
+    {
+      "prose_title": "Sir Isaac Newton – The Ingenious Scientist",
+      "prose_id": "sir_isaac_newton_the_ingenious_scientist",
+      "question_en": "Sir Issac Newton died at the age of",
+      "options_en": [
+        "75",
+        "90",
+        "85",
+        "80"
+      ],
+      "answer_en": "85",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "item 42",
+      "band": "prose_pyq_b013"
+    }
+  ]
+}

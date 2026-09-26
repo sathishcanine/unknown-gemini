@@ -1,0 +1,48 @@
+{
+  "subject_id": "English",
+  "menu": "synthesis_of_sentences",
+  "topics": [
+    {
+      "id": "combining_two_sentences",
+      "name_en": "Combining Two Sentences",
+      "name_ta": "இரண்டு வாக்கியங்களை இணைத்தல்",
+      "batches": 2,
+      "focus": "Merge two simple sentences into one simple/compound/complex sentence; choose best combined form; pair-to-single synthesis."
+    },
+    {
+      "id": "using_conjunctions",
+      "name_en": "Using Conjunctions",
+      "name_ta": "இணைப்புச் சொற்கள் பயன்பாடு",
+      "batches": 2,
+      "focus": "Coordinating conjunctions (and, but, or, yet, so, otherwise); FANBOYS; compound sentence formation."
+    },
+    {
+      "id": "using_participles",
+      "name_en": "Using Participles",
+      "name_ta": "Participles பயன்பாடு",
+      "batches": 2,
+      "focus": "Present/past/perfect participle; V+ing / having+V3; On seeing…, Besides being…; reduce clauses with participles."
+    },
+    {
+      "id": "using_infinitives",
+      "name_en": "Using Infinitives",
+      "name_ta": "Infinitives பயன்பாடு",
+      "batches": 2,
+      "focus": "To-infinitive synthesis; too…to; in order to; combine using infinitive phrase."
+    },
+    {
+      "id": "using_phrases",
+      "name_en": "Using Phrases",
+      "name_ta": "சொற்றொடர்கள் பயன்பாடு",
+      "batches": 2,
+      "focus": "Despite/in spite of, in the event of, on+V+ing, without+V+ing, apposition, nominative absolute, preposition+gerund."
+    },
+    {
+      "id": "using_clauses",
+      "name_en": "Using Clauses",
+      "name_ta": "உட்கூறு வாக்கியங்கள் பயன்பாடு",
+      "batches": 2,
+      "focus": "Noun/adjective/adverb clauses; relative pronouns; subordinate conjunctions; Simple↔Compound↔Complex transforms."
+    }
+  ]
+}

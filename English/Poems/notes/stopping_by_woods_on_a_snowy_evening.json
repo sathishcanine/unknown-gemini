@@ -1,0 +1,91 @@
+{
+  "poem_id": "stopping_by_woods_on_a_snowy_evening",
+  "poem_title": "Stopping by Woods on a Snowy Evening",
+  "author": "Robert Frost",
+  "num": 13,
+  "pdf_pages": [
+    47,
+    50
+  ],
+  "poem_text_en": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.\n\nMy little horse must think it queer\nTo stop without a farmhouse near\nBetween the woods and frozen lake\nThe darkest evening of the year.\n\nHe gives his harness bells a shake\nTo ask if there is some mistake.\nThe only other sound’s the sweep\nOf easy wind and downy flake.\n\nThe woods are lovely, dark and deep.\nBut I have promises to keep,\nAnd miles to go before I sleep,\nAnd miles to go before I sleep.",
+  "summary_en": "The poem reflects on a traveler stopping to admire the beauty of a snow-covered forest during his journey. Although the woods are attractive, the poet acknowledges his worldly responsibilities ('promises to keep') which compel him to continue his journey rather than lingering. The final repetition emphasizes the long road ahead before he can finally find rest in death.",
+  "glossary": [
+    {
+      "word_en": "queer",
+      "meaning_en": "strange, odd"
+    },
+    {
+      "word_en": "woods",
+      "meaning_en": "an area of land covered with a thick growth of trees"
+    },
+    {
+      "word_en": "harness",
+      "meaning_en": "straps and fittings by which a horse is fastened to a cart or carriage"
+    },
+    {
+      "word_en": "frozen",
+      "meaning_en": "in ice form"
+    },
+    {
+      "word_en": "sweep",
+      "meaning_en": "to move swiftly and smoothly"
+    },
+    {
+      "word_en": "downy",
+      "meaning_en": "soft and fluffy"
+    },
+    {
+      "word_en": "flake",
+      "meaning_en": "a small piece of snowflake"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Alliteration",
+      "example_en": "watch his woods",
+      "note_en": "Repetition of the 'w' sound."
+    },
+    {
+      "device_en": "Personification",
+      "example_en": "He gives his harness bells a shake / To ask if there is some mistake.",
+      "note_en": "The horse is attributed with human-like thought and questioning."
+    },
+    {
+      "device_en": "Repetition",
+      "example_en": "And miles to go before I sleep / And miles to go before I sleep.",
+      "note_en": "Used to emphasize the length of the journey and the weight of responsibilities."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Robert Frost (1874-1968) was an American poet noted for realistic descriptions of rural life.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Frost received four Pulitzer prizes for poetry.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Jawaharlal Nehru had the last two lines of this poem written in block letters on his desk to remind him of his responsibilities.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The rhyme scheme of the stanzas is aaba (except the final stanza which is aaaa).",
+      "tag": "fos"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Whom does ‘he’ refer to in the first stanza?",
+      "answer_en": "The owner of the woods.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "What are the sounds heard by the poet?",
+      "answer_en": "The shaking of the harness bells and the sound of the easy wind and falling snow.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

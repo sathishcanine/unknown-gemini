@@ -1,0 +1,85 @@
+{
+  "poem_id": "from_a_railway_carriage",
+  "poem_title": "From a Railway Carriage",
+  "author": "Robert Louis Stevenson",
+  "num": 4,
+  "pdf_pages": [
+    12,
+    15
+  ],
+  "poem_text_en": "Faster than fairies, faster than witches,\nBridges and houses, hedges and ditches;\nAnd charging along like troops in a battle,\nAll through the meadows the horses and cattle:\nAll of the sights of the hill and the plain\nFly as thick as driving rain;\nAnd ever again, in the wink of an eye,\nPainted stations whistle by.\nHere is a child who clambers and scrambles,\nAll by himself and gathering brambles;\nHere is a tramp who stands and gazes;\nAnd there is the green for stringing the daisies!\nHere is a cart run away in the road,\nLumping along with man and load;\nAnd here is a mill and there is a river:\nEach a glimpse and gone forever!",
+  "summary_en": "The poem describes the rapidly changing scenery observed by the poet from a moving train window. It captures the fleeting nature of various sights, emphasizing that each image is seen for only a brief moment before disappearing.",
+  "glossary": [
+    {
+      "word_en": "Charge",
+      "meaning_en": "To make a rush at or sudden attack upon a person or thing"
+    },
+    {
+      "word_en": "Clamber",
+      "meaning_en": "Climb or move in an awkward and laborious way using both hands and feet"
+    },
+    {
+      "word_en": "Brambles",
+      "meaning_en": "A prickly scrambling shrub of the rose family especially a blackberry"
+    },
+    {
+      "word_en": "Tramp",
+      "meaning_en": "A person who travels from place to place on foot in search of work or as a beggar"
+    },
+    {
+      "word_en": "Stringing",
+      "meaning_en": "Hang so that it stretches in a long line"
+    },
+    {
+      "word_en": "Lumping",
+      "meaning_en": "Carry with difficulty"
+    },
+    {
+      "word_en": "Glimpse",
+      "meaning_en": "See or perceive briefly or partially"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Simile",
+      "example_en": "charging along like troops in a battle",
+      "note_en": "Comparison using 'like'"
+    },
+    {
+      "device_en": "Simile",
+      "example_en": "Fly as thick as driving rain",
+      "note_en": "Comparison using 'as'"
+    },
+    {
+      "device_en": "Personification",
+      "example_en": "Painted stations whistle by",
+      "note_en": "Attributing the human action of whistling to inanimate stations"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Poet: Robert Louis Stevenson (1850-1894), Scottish novelist and poet.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Famous works: Treasure Island, Kidnapped, Strange Case of Dr. Jekyll & Mr. Hyde, A Child’s Garden of Verses.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The poem's rhythm mimics the movement and sound of a train.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What word could best replace ‘charges’ in the poem - marches, rushes or pushes?",
+      "answer_en": "rushes",
+      "options_en": [
+        "marches",
+        "rushes",
+        "pushes"
+      ],
+      "tag": "short_answer"
+    }
+  ]
+}

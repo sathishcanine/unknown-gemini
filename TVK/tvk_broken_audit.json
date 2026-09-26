@@ -1,0 +1,42 @@
+{
+  "subject": "TVK",
+  "total": 204,
+  "drop_count": 1,
+  "drop_ids": [
+    9691
+  ],
+  "by_reason": {
+    "statements_missing": 1
+  },
+  "by_topic": {
+    "TVK Leaders": 1
+  },
+  "items": [
+    {
+      "id": 9691,
+      "topic": "TVK Leaders",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following movements was Anjalai Ammal involved in as part of her struggle?",
+      "opts": [
+        [
+          "A",
+          "Individual Satyagraha, Weavers' Struggle, and Foreign Cloth Boycott"
+        ],
+        [
+          "B",
+          "Quit India Movement and Vedaranyam March only"
+        ],
+        [
+          "C",
+          "Home Rule League and Non-Cooperation only"
+        ],
+        [
+          "D",
+          "None of the above"
+        ]
+      ]
+    }
+  ]
+}

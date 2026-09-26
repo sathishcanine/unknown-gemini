@@ -1,0 +1,1696 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "spelling",
+  "sources": [
+    "Vetrii Vocabulary pp.[108, 109, 110, 111, 112, 113, 114, 115, 116] (primary, vision)",
+    "Grammer.pdf pp.[443, 444, 445, 446, 447] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Words in English are not always spelt as they are pronounced. About 75% of English words follow basic spelling rules, while the rest are exceptions.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 108
+    },
+    {
+      "rule_en": "Improve spelling skills by: playing word games, splitting long words into chunks, learning syllabification, memorising lists of tricky words, and knowing the rules of spelling.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 108
+    },
+    {
+      "rule_en": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "The final 'e' is not normally dropped before a consonant.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "Words ending in 'ce' or 'ge' retain the 'e' before a suffix beginning with 'a', 'o', or 'u'.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "In words ending in a consonant + 'y', the letter 'y' changes to 'ie' before 's' and to 'i' before -ed, -es, -er, -est, and -ly.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "The letter 'y' does not change if it comes after a vowel letter.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "The letter 'y' in the end does not change before -ing.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "The final 'ie' changes to 'y' before -ing.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "A final 'y' following a consonant changes to 'i' before any suffix except 'ing'.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "rule_en": "When adding a suffix to a word ending in a consonant + y, change y to i.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "In short words ending in one vowel letter + one consonant letter, the consonant is doubled before an ending with a vowel (ed, ing, er, est).",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "In longer words, the final syllable is doubled if the last part of the word is stressed.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "The consonant is not doubled if the last part of the word is unstressed.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "If words end with 'l', the letter 'l' is doubled in British English even if the last part is unstressed.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "If a word ending in 'll' takes the suffix '-ful', one 'l' is dropped in British English.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "When 'ie' or 'ei' is pronounced like 'ee' in 'bee', 'i' comes before 'e' except after 'c'.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "rule_en": "If in doubt about ie or ei, when the sound of the vowel is as in brief /i:/, we spell it ie; but after the letter c, we spell it ei.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 466
+    },
+    {
+      "rule_en": "The ie/ei rule does not apply to those words where the two vowels 'ei' are not pronounced like 'ee' as in 'bee'. Eg. height / weight / neighbour / leisure / fiery / friend.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 466
+    },
+    {
+      "rule_en": "'oi' is used in the middle of a word and 'oy' is used at the end of a word.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 466
+    },
+    {
+      "rule_en": "'ou' is used in the middle of a word, whereas 'ow' is used at the end of words, except those that end in letter 'n' or letter 'd'.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 466
+    },
+    {
+      "rule_en": "We add -es to some words ending in -o (e.g., tomato -> tomatoes, echo -> echoes). However, some words ending in -o only require -s: videos, discos, pianos, memos, photos.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 466
+    },
+    {
+      "rule_en": "When there is a prefix, we do not normally add or take away more letters.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "rule_en": "Use prefix 'il-' before 'l', 'im-' before 'm' or 'p', and 'ir-' before 'r'.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "rule_en": "The general rule for plurals of regular nouns and -s forms of regular verbs is to add -s.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "rule_en": "If the ending is pronounced as 'ch' or 's', we add -es.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "rule_en": "If a word ends in an -e, we add an -s to form the plural.",
+      "sp_tag": "overview",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "rule_en": "For some nouns ending in -f or -fe, we form the plural by changing the -f or -fe to -ves.",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "rule_en": "We often double the final consonant of a word (b, d, g, l, m, n, p, r, t) when a suffix beginning with a vowel is added (-ed, -er, -est, -ing).",
+      "sp_tag": "definition",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "rule_en": "If a word ends in -s, -ss, -ch, -sh, -x, -z, we add -es to form plural or verb-s forms.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "If the word ends in a consonant plus -y, change -y to i and add -es.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "For words ending in -o, add -es, except for some words like videos, discos, pianos, memos, photos which add -s.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "Nouns ending in -f or -fe often form plurals by changing -f or -fe to -ves.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "Double the final consonant (b, d, g, l, m, n, p, r, t) when a suffix beginning with a vowel is added, if the stress is on the final syllable.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "Drop the final -e when a suffix beginning with a vowel is added to a word.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "When adding a suffix to a word ending in a consonant + -y, change -y to i, except in cases like day+ly=daily.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "rule_en": "I before E except after C: lieing becomes lying, believe is correct.",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "rule_en": "In short words ending in one vowel + one consonant, the consonant is doubled before an ending with a vowel (-ed, -ing, -er, -est).",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "In longer words, the final consonant is doubled if the last syllable is stressed.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "If a word ends in 'l', the letter 'l' is doubled in British English even if the syllable is unstressed (e.g., travelled). Exception: paralleled.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "If a word ending in 'll' takes the suffix '-ful', one 'l' is dropped (e.g., skilful).",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "Final 'e' is retained before '-able' or '-ous' to keep 'c' or 'g' soft (e.g., changeable, courageous).",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "In words ending in consonant + 'y', 'y' changes to 'ie' before '-s' and to 'i' before '-ed', '-er', '-est', '-ly'.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "Final 'ie' changes to 'y' before '-ing' (e.g., dying, lying).",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "rule_en": "When 'ie' or 'ei' is pronounced like 'ee', 'i' comes before 'e' except after 'c'. Exceptions include seize, surfeit, protein.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 447
+    },
+    {
+      "rule_en": "The 'ie' vs 'ei' rule does not apply when the sounds are not pronounced like 'ee' (e.g., height, weight, neighbour).",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 447
+    },
+    {
+      "rule_en": "'ou' is used in the middle of a word; 'ow' is used at the end, except when the word ends in 'n' or 'd'.",
+      "sp_tag": "overview",
+      "source": "grammer",
+      "source_page": 447
+    }
+  ],
+  "examples": [
+    {
+      "word_en": "draped",
+      "wrong_en": "drapeed",
+      "rule_en": "Final 'e' dropped before vowel suffix",
+      "note_en": "drape + ed",
+      "example_en": "draped",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "word_en": "hopeful",
+      "wrong_en": "hopful",
+      "rule_en": "Final 'e' not dropped before consonant suffix",
+      "note_en": "hope + full",
+      "example_en": "hopeful",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "word_en": "changeable",
+      "wrong_en": "changable",
+      "rule_en": "Words ending in 'ge' retain 'e' before 'a'",
+      "note_en": "change + able",
+      "example_en": "changeable",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "word_en": "ladies",
+      "wrong_en": "ladys",
+      "rule_en": "Consonant + y changes to ie before s",
+      "note_en": "lady + s",
+      "example_en": "ladies",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "word_en": "trying",
+      "wrong_en": "triing",
+      "rule_en": "The letter 'y' does not change before -ing",
+      "note_en": "try + ing",
+      "example_en": "trying",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "word_en": "dying",
+      "wrong_en": "dieing",
+      "rule_en": "The final 'ie' changes to 'y' before -ing",
+      "note_en": "die + ing",
+      "example_en": "dying",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 109
+    },
+    {
+      "word_en": "amplifier",
+      "wrong_en": "amplifyer",
+      "rule_en": "Change y to i before adding suffix",
+      "note_en": "amplify + er = amplifier",
+      "example_en": "amplify + er = amplifier",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "word_en": "business",
+      "wrong_en": "busyness",
+      "rule_en": "Change y to i before adding suffix",
+      "note_en": "busy + ness = business",
+      "example_en": "busy + ness = business",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "word_en": "dropped",
+      "wrong_en": "droped",
+      "rule_en": "Double final consonant in short words",
+      "note_en": "drop + ed = dropped",
+      "example_en": "drop + ed = dropped",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "word_en": "beginning",
+      "wrong_en": "begining",
+      "rule_en": "Double final consonant if last syllable is stressed",
+      "note_en": "begin + ing = beginning",
+      "example_en": "begin + ing = beginning",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "word_en": "skilful",
+      "wrong_en": "skillful",
+      "rule_en": "Drop one l in British English",
+      "note_en": "skill + ful = skilful",
+      "example_en": "skill + ful = skilful",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "word_en": "receive",
+      "wrong_en": "recieve",
+      "rule_en": "i before e except after c",
+      "note_en": "e after c",
+      "example_en": "receive",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 110
+    },
+    {
+      "word_en": "disobey",
+      "wrong_en": "disobey (add/remove letters incorrectly)",
+      "rule_en": "Prefix rule: do not add or take away letters.",
+      "note_en": "dis + obey",
+      "example_en": "disobey",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "word_en": "misspell",
+      "wrong_en": "mispel",
+      "rule_en": "Prefix rule",
+      "note_en": "mis + spell",
+      "example_en": "misspell",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "word_en": "illegible",
+      "wrong_en": "inlegible",
+      "rule_en": "Use 'il-' before 'l'",
+      "note_en": "Prefix application",
+      "example_en": "illegible",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "word_en": "immoral",
+      "wrong_en": "inmoral",
+      "rule_en": "Use 'im-' before 'm' or 'p'",
+      "note_en": "Prefix application",
+      "example_en": "immoral",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "word_en": "irrelevant",
+      "wrong_en": "inrelevant",
+      "rule_en": "Use 'ir-' before 'r'",
+      "note_en": "Prefix application",
+      "example_en": "irrelevant",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "word_en": "supersede",
+      "wrong_en": "supercede",
+      "rule_en": "This is the only word that ends with -sede.",
+      "note_en": "Exception rule",
+      "example_en": "supersede",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 112
+    },
+    {
+      "word_en": "loaf",
+      "wrong_en": "loaves",
+      "rule_en": "pluralization of f/fe nouns",
+      "note_en": "loaf (singular) -> loaves (plural)",
+      "example_en": "loaf -> loaves",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "shelf",
+      "wrong_en": "shelves",
+      "rule_en": "pluralization of f/fe nouns",
+      "note_en": "shelf (singular) -> shelves (plural)",
+      "example_en": "shelf -> shelves",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "thief",
+      "wrong_en": "thieves",
+      "rule_en": "pluralization of f/fe nouns",
+      "note_en": "thief (singular) -> thieves (plural)",
+      "example_en": "thief -> thieves",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "wife",
+      "wrong_en": "wives",
+      "rule_en": "pluralization of f/fe nouns",
+      "note_en": "wife (singular) -> wives (plural)",
+      "example_en": "wife -> wives",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "hopped",
+      "wrong_en": "hoped",
+      "rule_en": "doubling consonants",
+      "note_en": "hop + ed -> hopped",
+      "example_en": "hop + ed -> hopped",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "slimming",
+      "wrong_en": "sliming",
+      "rule_en": "doubling consonants",
+      "note_en": "slim + ing -> slimming",
+      "example_en": "slim + ing -> slimming",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "reddish",
+      "wrong_en": "redish",
+      "rule_en": "doubling consonants",
+      "note_en": "red + ish -> reddish",
+      "example_en": "red + ish -> reddish",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "rubbed",
+      "wrong_en": "rubed",
+      "rule_en": "doubling consonants",
+      "note_en": "rub + ed -> rubbed",
+      "example_en": "rub + ed -> rubbed",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "thinner",
+      "wrong_en": "thiner",
+      "rule_en": "doubling consonants",
+      "note_en": "thin + er -> thinner",
+      "example_en": "thin + er -> thinner",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "traveller",
+      "wrong_en": "traveler",
+      "rule_en": "doubling consonants",
+      "note_en": "travel + er -> traveller",
+      "example_en": "travel + er -> traveller",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "sitting",
+      "wrong_en": "siting",
+      "rule_en": "doubling consonants",
+      "note_en": "sit + ing -> sitting",
+      "example_en": "sit + ing -> sitting",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "wetter",
+      "wrong_en": "weter",
+      "rule_en": "doubling consonants",
+      "note_en": "wet + er -> wetter",
+      "example_en": "wet + er -> wetter",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "word_en": "occurrence",
+      "wrong_en": "occurance",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "word_en": "dilemma",
+      "wrong_en": "dilema",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "word_en": "committee",
+      "wrong_en": "commitee",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "word_en": "ridiculous",
+      "wrong_en": "ridiculuous",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "word_en": "gluttonous",
+      "wrong_en": "glutunous",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "word_en": "colloquial",
+      "wrong_en": "coloquial",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "word_en": "notorious",
+      "wrong_en": "notoriuos",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "especially",
+      "wrong_en": "especialy",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "brief",
+      "wrong_en": "breif",
+      "rule_en": "i before e except after c",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "indispensable",
+      "wrong_en": "indispensible",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "seek",
+      "wrong_en": "seak",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "expense",
+      "wrong_en": "expence",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "Tolerance",
+      "wrong_en": "Tolerence",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "ethnic",
+      "wrong_en": "ethenic",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "religious",
+      "wrong_en": "religeous",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "disabilities",
+      "wrong_en": "disebilities",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "valuing",
+      "wrong_en": "valueing",
+      "rule_en": "drop silent e before suffix",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "bridging",
+      "wrong_en": "bridgeing",
+      "rule_en": "drop silent e before suffix",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "stereotypes",
+      "wrong_en": "steriotypes",
+      "rule_en": "spelling correction",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "word_en": "hopped",
+      "wrong_en": "hoped",
+      "rule_en": "Double the final consonant before suffix with vowel",
+      "note_en": "hop + -ed → hopped",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "word_en": "traveller",
+      "wrong_en": "traveler",
+      "rule_en": "Double the final consonant",
+      "note_en": "travel + -er → traveller",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "word_en": "argument",
+      "wrong_en": "arguement",
+      "rule_en": "Drop the final -e",
+      "note_en": "argue → argument",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "word_en": "business",
+      "wrong_en": "busyness",
+      "rule_en": "Change y to i before ness",
+      "note_en": "busy + -ness → business",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "word_en": "loaves",
+      "wrong_en": "loafs",
+      "rule_en": "Change f to ves for plurals",
+      "note_en": "loaf → loaves",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 443
+    },
+    {
+      "word_en": "believe",
+      "wrong_en": "beleive",
+      "rule_en": "i before e except after c",
+      "note_en": "N/A",
+      "example_en": "I believe you.",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "separate",
+      "wrong_en": "seperate",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "assistant",
+      "wrong_en": "asisstant",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "hypocrites",
+      "wrong_en": "hippocrites",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "secretary",
+      "wrong_en": "secretery",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "buoyantly",
+      "wrong_en": "bouyantly",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "necessary",
+      "wrong_en": "neccesary",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "evolution",
+      "wrong_en": "evolusion",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "athletics",
+      "wrong_en": "atheletics",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "warehouse",
+      "wrong_en": "wearhouse",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "contemptuously",
+      "wrong_en": "contemtuously",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "indispensable",
+      "wrong_en": "indispensible",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "tomorrow",
+      "wrong_en": "tommorrow",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "foreign",
+      "wrong_en": "foriegn",
+      "rule_en": "i before e except after c",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "dysentery",
+      "wrong_en": "dysentry",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "lying",
+      "wrong_en": "lieing",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "conscience",
+      "wrong_en": "concience",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "competent",
+      "wrong_en": "competant",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "pleasant",
+      "wrong_en": "plaesant",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "chocolate",
+      "wrong_en": "choclate",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "awfully",
+      "wrong_en": "awefully",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "amateur",
+      "wrong_en": "amatuer",
+      "rule_en": "N/A",
+      "note_en": "N/A",
+      "example_en": "N/A",
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "word_en": "draped",
+      "wrong_en": "drapeed",
+      "rule_en": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+      "note_en": "drape + ed",
+      "example_en": "draped",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 445
+    },
+    {
+      "word_en": "striking",
+      "wrong_en": "strikeing",
+      "rule_en": "When a suffix is added to words ending in silent 'e', the letter 'e' is normally dropped before a vowel.",
+      "note_en": "strike + ing",
+      "example_en": "striking",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 445
+    },
+    {
+      "word_en": "hopeful",
+      "wrong_en": "hopful",
+      "rule_en": "The final 'e' is not normally dropped before a consonant.",
+      "note_en": "hope + full",
+      "example_en": "hopeful",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 445
+    },
+    {
+      "word_en": "truly",
+      "wrong_en": "truely",
+      "rule_en": "Exception: true + ly",
+      "note_en": "Exception to final 'e' rule",
+      "example_en": "truly",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 445
+    },
+    {
+      "word_en": "awful",
+      "wrong_en": "aweful",
+      "rule_en": "Exception: awe + ful",
+      "note_en": "Exception to final 'e' rule",
+      "example_en": "awful",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 445
+    },
+    {
+      "word_en": "skilful",
+      "wrong_en": "skillful",
+      "rule_en": "If the word to which the suffix -ful is added ends in -ll, one l is dropped.",
+      "example_en": "skill + ful = skilful",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "word_en": "travelled",
+      "wrong_en": "traveled",
+      "rule_en": "The letter l is doubled in British English.",
+      "example_en": "travel + ed = travelled",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "word_en": "changeable",
+      "wrong_en": "changable",
+      "rule_en": "Final e is retained to keep g soft.",
+      "example_en": "change + able = changeable",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "word_en": "dying",
+      "wrong_en": "dieing",
+      "rule_en": "The final ie changes to y before -ing.",
+      "example_en": "die + ing = dying",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "word_en": "paid",
+      "wrong_en": "payed",
+      "rule_en": "Exception to the y rule.",
+      "example_en": "pay + ed = paid",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 446
+    },
+    {
+      "word_en": "field, achieve, believe",
+      "wrong_en": "feild, acheive, beleive",
+      "rule_en": "i before e except after c",
+      "note_en": "Examples of 'ie' pronounced as 'ee'.",
+      "example_en": "field",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 447
+    },
+    {
+      "word_en": "receive, deceive, receipt, deceit",
+      "wrong_en": "recieve, decieve, reciept, deciept",
+      "rule_en": "i before e except after c",
+      "note_en": "Examples of 'ei' after 'c'.",
+      "example_en": "receive",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 447
+    },
+    {
+      "word_en": "grammar",
+      "wrong_en": "grammer",
+      "rule_en": "Ending in -ar",
+      "note_en": "Commonly confused -ar ending.",
+      "example_en": "grammar",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 447
+    },
+    {
+      "word_en": "supersede",
+      "wrong_en": "superceed",
+      "rule_en": "The only word ending in -sede.",
+      "note_en": "Unique spelling case.",
+      "example_en": "supersede",
+      "sp_tag": "other",
+      "source": "grammer",
+      "source_page": 447
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Choose the correct option: anomaly / anamoly",
+      "answer_en": "anomaly",
+      "options_en": [
+        "anomaly",
+        "anamoly"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: heirarchy / hierarchy",
+      "answer_en": "hierarchy",
+      "options_en": [
+        "heirarchy",
+        "hierarchy"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: accommodation / accomodation",
+      "answer_en": "accommodation",
+      "options_en": [
+        "accommodation",
+        "accomodation"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: lawlessness / lawlessness",
+      "answer_en": "lawlessness",
+      "options_en": [
+        "lawlessness",
+        "lawlessnes"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: seperation / separation",
+      "answer_en": "separation",
+      "options_en": [
+        "seperation",
+        "separation"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: recommend / recomend",
+      "answer_en": "recommend",
+      "options_en": [
+        "recommend",
+        "recomend"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: supersede / supercede",
+      "answer_en": "supersede",
+      "options_en": [
+        "supersede",
+        "supercede"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: superintentent / superintendent",
+      "answer_en": "superintendent",
+      "options_en": [
+        "superintentent",
+        "superintendent"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: consceince / conscience",
+      "answer_en": "conscience",
+      "options_en": [
+        "consceince",
+        "conscience"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correct option: kettle / kettle",
+      "answer_en": "kettle",
+      "options_en": [
+        "kettle",
+        "kettle"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 113
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 1. beleive - believe",
+      "answer_en": "believe",
+      "options_en": [
+        "beleive",
+        "believe"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 2. separate - seperate",
+      "answer_en": "separate",
+      "options_en": [
+        "separate",
+        "seperate"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 3. assistant - asisstant",
+      "answer_en": "assistant",
+      "options_en": [
+        "assistant",
+        "asisstant"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 4. hippocrites - hypocrites",
+      "answer_en": "hypocrites",
+      "options_en": [
+        "hippocrites",
+        "hypocrites"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 5. secretary - secretery",
+      "answer_en": "secretary",
+      "options_en": [
+        "secretary",
+        "secretery"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 6. buoyantly - bouyantly",
+      "answer_en": "buoyantly",
+      "options_en": [
+        "buoyantly",
+        "bouyantly"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 7. necessary - neccesary",
+      "answer_en": "necessary",
+      "options_en": [
+        "necessary",
+        "neccesary"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 8. evolution - evolusion",
+      "answer_en": "evolution",
+      "options_en": [
+        "evolution",
+        "evolusion"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 9. athletics - atheletics",
+      "answer_en": "athletics",
+      "options_en": [
+        "athletics",
+        "atheletics"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 10. warehouse - wearhouse",
+      "answer_en": "warehouse",
+      "options_en": [
+        "warehouse",
+        "wearhouse"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 11. contemtuously - contemptuously",
+      "answer_en": "contemptuously",
+      "options_en": [
+        "contemtuously",
+        "contemptuously"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 12. indispensible - indispensable",
+      "answer_en": "indispensable",
+      "options_en": [
+        "indispensible",
+        "indispensable"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 13. tommorrow - tomorrow",
+      "answer_en": "tomorrow",
+      "options_en": [
+        "tommorrow",
+        "tomorrow"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 14. foriegn - foreign",
+      "answer_en": "foreign",
+      "options_en": [
+        "foriegn",
+        "foreign"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 15. dysentery - dysentry",
+      "answer_en": "dysentery",
+      "options_en": [
+        "dysentery",
+        "dysentry"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 16. lieing - lying",
+      "answer_en": "lying",
+      "options_en": [
+        "lieing",
+        "lying"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 17. concience - conscience",
+      "answer_en": "conscience",
+      "options_en": [
+        "concience",
+        "conscience"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 18. competent - competant",
+      "answer_en": "competent",
+      "options_en": [
+        "competent",
+        "competant"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 19. pleasant - plaesant",
+      "answer_en": "pleasant",
+      "options_en": [
+        "pleasant",
+        "plaesant"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 20. chocolate - choclate",
+      "answer_en": "chocolate",
+      "options_en": [
+        "chocolate",
+        "choclate"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 21. awfully - awefully",
+      "answer_en": "awfully",
+      "options_en": [
+        "awfully",
+        "awefully"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Choose the correctly spelt word from: 22. amatuer - amateur",
+      "answer_en": "amateur",
+      "options_en": [
+        "amatuer",
+        "amateur"
+      ],
+      "sp_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Correct the spelling mistakes in Passage 1 and Passage 2",
+      "answer_en": "Passage 1: notorious, especially, brief, indispensable, seek, expense. Passage 2: Tolerance, ethnic, religious, disabilities, valuing, bridging, stereotypes.",
+      "options_en": [],
+      "sp_tag": "other",
+      "source": "vetrii",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "notoriuos",
+      "answer_en": "notorious",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "especialy",
+      "answer_en": "especially",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "breifdivertions",
+      "answer_en": "brief diversions",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "modaration",
+      "answer_en": "moderation",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "seak",
+      "answer_en": "seek",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "expence",
+      "answer_en": "expense",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "Tolerence",
+      "answer_en": "Tolerance",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "openess",
+      "answer_en": "openness",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "ethenic",
+      "answer_en": "ethnic",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "religeous",
+      "answer_en": "religious",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "forbaerance",
+      "answer_en": "forbearance",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "disebilities",
+      "answer_en": "disabilities",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "valueing",
+      "answer_en": "valuing",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "bridgeing",
+      "answer_en": "bridging",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    },
+    {
+      "prompt_en": "steriotypes",
+      "answer_en": "stereotypes",
+      "options_en": [],
+      "sp_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 444
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 47,
+      "examples": 90,
+      "worked_exercises": 48
+    },
+    "by_sp_tag": {
+      "overview": {
+        "rules": 28,
+        "examples": 0,
+        "worked": 0
+      },
+      "definition": {
+        "rules": 18,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 1,
+        "examples": 68,
+        "worked": 1
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 22,
+        "worked": 47
+      }
+    }
+  }
+}

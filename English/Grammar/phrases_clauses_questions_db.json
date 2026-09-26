@@ -1,0 +1,4603 @@
+[
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical status of the word 'the young boy found a lost puppy': 'Walking in the park, <u>the young boy found a lost puppy</u>.'",
+    "question_ta": "Identify the grammatical status of the word 'the young boy found a lost puppy': 'Walking in the park, <u>the young boy found a lost puppy</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to R4 and R7, an independent or main clause is a complete sentence that can stand alone and express a complete thought, containing both a subject and a finite verb.",
+    "explanation_ta": "According to R4 and R7, an independent or main clause is a complete sentence that can stand alone and express a complete thought, containing both a subject and a finite verb.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357, p.388"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'made of pure gold' is a phrase or a clause: 'She wore a necklace <u>made of pure gold</u> to the ceremony.'",
+    "question_ta": "Determine whether the word 'made of pure gold' is a phrase or a clause: 'She wore a necklace <u>made of pure gold</u> to the ceremony.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R1 and R9, a phrase is a group of words that does not contain a finite verb and lacks a subject-verb combination.",
+    "explanation_ta": "According to R1 and R9, a phrase is a group of words that does not contain a finite verb and lacks a subject-verb combination.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357, p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of linguistic unit is the underlined portion: '<u>Because the weather turned extremely rough</u>, the flight was postponed.'",
+    "question_ta": "What type of linguistic unit is the underlined portion: '<u>Because the weather turned extremely rough</u>, the flight was postponed.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R5 and R8, a subordinate clause contains a subject and a predicate (including a finite verb), but it depends on a main clause and does not express a complete thought by itself.",
+    "explanation_ta": "According to R5 and R8, a subordinate clause contains a subject and a predicate (including a finite verb), but it depends on a main clause and does not express a complete thought by itself.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357, p.388"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of the word 'under the dense shade of a banyan tree': 'The travelers rested <u>under the dense shade of a banyan tree</u>.'",
+    "question_ta": "Identify the type of the word 'under the dense shade of a banyan tree': 'The travelers rested <u>under the dense shade of a banyan tree</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R19, an adverb phrase functions as an adverb and supplies information about the action (such as where they rested).",
+    "explanation_ta": "According to R19, an adverb phrase functions as an adverb and supplies information about the action (such as where they rested).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct classification for the word 'the sleek smartphone with a dual camera' in: 'I finally bought <u>the sleek smartphone with a dual camera</u>.'",
+    "question_ta": "Select the correct classification for the word 'the sleek smartphone with a dual camera' in: 'I finally bought <u>the sleek smartphone with a dual camera</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R10 and E5, a noun phrase is made up of a noun and its modifiers, acting as a single entity in the sentence.",
+    "explanation_ta": "According to R10 and E5, a noun phrase is made up of a noun and its modifiers, acting as a single entity in the sentence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the word 'who secured the first rank': 'The student <u>who secured the first rank</u> received a special medal.'",
+    "question_ta": "What is the function of the word 'who secured the first rank': 'The student <u>who secured the first rank</u> received a special medal.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R12 and R23, an adjective clause describes or gives more information about a noun (the student), telling us which one.",
+    "explanation_ta": "According to R12 and R23, an adjective clause describes or gives more information about a noun (the student), telling us which one.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389, p.393"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the clause type for the underlined segment: 'You may sit <u>wherever you find a vacant seat</u>.'",
+    "question_ta": "Identify the clause type for the underlined segment: 'You may sit <u>wherever you find a vacant seat</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R13 and W18, an adverb clause modifies the verb by providing details about the action, such as where something is happening.",
+    "explanation_ta": "According to R13 and W18, an adverb clause modifies the verb by providing details about the action, such as where something is happening.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which category does the word 'Knowing the consequences' belong to? '<u>Knowing the consequences</u>, he decided to proceed with the risky venture.'",
+    "question_ta": "Which category does the word 'Knowing the consequences' belong to? '<u>Knowing the consequences</u>, he decided to proceed with the risky venture.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R1 and E10, the group lacks a finite verb and acts as a descriptive phrase rather than a clause.",
+    "explanation_ta": "According to R1 and E10, the group lacks a finite verb and acts as a descriptive phrase rather than a clause.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical role of the underlined section: 'Nobody knows <u>what the future holds for us</u>.'",
+    "question_ta": "Identify the grammatical role of the underlined section: 'Nobody knows <u>what the future holds for us</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R14 and R22, a noun clause takes the place of a noun in the sentence (functioning here as the object of the verb 'knows').",
+    "explanation_ta": "According to R14 and R22, a noun clause takes the place of a noun in the sentence (functioning here as the object of the verb 'knows').",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389, p.393"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'created by the famous artist' of words: 'The painting <u>created by the famous artist</u> was auctioned yesterday.'",
+    "question_ta": "Classify the word 'created by the famous artist' of words: 'The painting <u>created by the famous artist</u> was auctioned yesterday.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R18, an adjective phrase is a group of words that does the work of an adjective by describing a noun (painting) without containing a finite verb.",
+    "explanation_ta": "According to R18, an adjective phrase is a group of words that does the work of an adjective by describing a noun (painting) without containing a finite verb.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'Before the sun rose' is a phrase or a clause: '<u>Before the sun rose</u>, the farmers started their work.'",
+    "question_ta": "Determine whether the word 'Before the sun rose' is a phrase or a clause: '<u>Before the sun rose</u>, the farmers started their work.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R2 and R6, a clause contains both a subject ('sun') and a finite verb ('rose'), indicating action and tense.",
+    "explanation_ta": "According to R2 and R6, a clause contains both a subject ('sun') and a finite verb ('rose'), indicating action and tense.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357, p.388"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the clause type: 'I will help you <u>if you finish your assignment on time</u>.'",
+    "question_ta": "Identify the clause type: 'I will help you <u>if you finish your assignment on time</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R13, this clause provides information about the condition under which the action will happen.",
+    "explanation_ta": "According to R13, this clause provides information about the condition under which the action will happen.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the underlined portion represent? '<u>The old wooden bridge across the river</u> needs immediate repair.'",
+    "question_ta": "What does the underlined portion represent? '<u>The old wooden bridge across the river</u> needs immediate repair.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R10, a noun phrase is a group of words made up of a noun and its modifiers, acting as the subject of this sentence.",
+    "explanation_ta": "According to R10, a noun phrase is a group of words made up of a noun and its modifiers, acting as the subject of this sentence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of clause for the underlined words: 'She spoke <u>as though she knew everything about the topic</u>.'",
+    "question_ta": "Identify the type of clause for the underlined words: 'She spoke <u>as though she knew everything about the topic</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R13, this clause modifies the verb 'spoke' by describing how she spoke.",
+    "explanation_ta": "According to R13, this clause modifies the verb 'spoke' by describing how she spoke.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Determine the grammatical status of the underlined segment: 'The courier arrived <u>in a very prompt and efficient manner</u>.'",
+    "question_ta": "Determine the grammatical status of the underlined segment: 'The courier arrived <u>in a very prompt and efficient manner</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R19 and E13, this phrase supplies information about the action (how the courier arrived) and lacks a finite verb.",
+    "explanation_ta": "According to R19 and E13, this phrase supplies information about the action (how the courier arrived) and lacks a finite verb.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the word 'To succeed in the civil services exam' is a phrase or a clause: '<u>To succeed in the civil services exam</u> requires immense dedication.'",
+    "question_ta": "Identify whether the word 'To succeed in the civil services exam' is a phrase or a clause: '<u>To succeed in the civil services exam</u> requires immense dedication.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R1 and R9, the group 'To succeed in the civil services exam' does not contain a finite verb, functioning as a noun phrase acting as the subject.",
+    "explanation_ta": "According to R1 and R9, the group 'To succeed in the civil services exam' does not contain a finite verb, functioning as a noun phrase acting as the subject.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357, p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the nature of the word 'who discovered the vaccine': 'The scientist <u>who discovered the vaccine</u> was honored globally.'",
+    "question_ta": "What is the nature of the word 'who discovered the vaccine': 'The scientist <u>who discovered the vaccine</u> was honored globally.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R12, the clause describes the noun 'scientist', giving more information about which scientist was honored.",
+    "explanation_ta": "According to R12, the clause describes the noun 'scientist', giving more information about which scientist was honored.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'Whatever you decide to do': '<u>Whatever you decide to do</u> will be supported by us.'",
+    "question_ta": "Classify the word 'Whatever you decide to do': '<u>Whatever you decide to do</u> will be supported by us.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R14 and E16, the clause takes the place of a noun acting as the subject of the sentence.",
+    "explanation_ta": "According to R14 and E16, the clause takes the place of a noun acting as the subject of the sentence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the underlined element: 'The books <u>kept on the top shelf</u> belong to the library.'",
+    "question_ta": "Identify the underlined element: 'The books <u>kept on the top shelf</u> belong to the library.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R18, the phrase describes the noun 'books' without a finite verb, doing the work of an adjective.",
+    "explanation_ta": "According to R18, the phrase describes the noun 'books' without a finite verb, doing the work of an adjective.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'Although it was raining heavily' forms a phrase or a clause: '<u>Although it was raining heavily</u>, the match continued.'",
+    "question_ta": "Determine whether the word 'Although it was raining heavily' forms a phrase or a clause: '<u>Although it was raining heavily</u>, the match continued.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R2 and R3, it has a subject ('it') and a finite verb phrase ('was raining') indicating tense and time, making it a clause.",
+    "explanation_ta": "According to R2 and R3, it has a subject ('it') and a finite verb phrase ('was raining') indicating tense and time, making it a clause.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the word 'where you hid the keys': 'Tell me <u>where you hid the keys</u>.'",
+    "question_ta": "What is the function of the word 'where you hid the keys': 'Tell me <u>where you hid the keys</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R14 and W17, this clause acts as the object of the verb 'tell', functioning as a noun.",
+    "explanation_ta": "According to R14 and W17, this clause acts as the object of the verb 'tell', functioning as a noun.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of phrase for the underlined words: 'The manager walked into the office <u>with a confident smile</u>.'",
+    "question_ta": "Identify the type of phrase for the underlined words: 'The manager walked into the office <u>with a confident smile</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R19, this phrase modifies the verb 'walked' by telling how the manager walked into the office.",
+    "explanation_ta": "According to R19, this phrase modifies the verb 'walked' by telling how the manager walked into the office.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which term best describes the word 'The girl who won the debate competition'? '<u>The girl who won the debate competition</u> is my neighbor.'",
+    "question_ta": "Which term best describes the word 'The girl who won the debate competition'? '<u>The girl who won the debate competition</u> is my neighbor.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R4 and R7, the core sentence structure with the subject 'girl' and verb 'is' forms an independent or main clause.",
+    "explanation_ta": "According to R4 and R7, the core sentence structure with the subject 'girl' and verb 'is' forms an independent or main clause.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357, p.388",
+    "verify_fixed": true
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the underlined portion is a phrase or a clause: '<u>Having finished his dinner</u>, he went straight to bed.'",
+    "question_ta": "Identify whether the underlined portion is a phrase or a clause: '<u>Having finished his dinner</u>, he went straight to bed.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R1 and E10, the group 'Having finished his dinner' lacks a finite verb, making it a participial phrase rather than a clause.",
+    "explanation_ta": "According to R1 and E10, the group 'Having finished his dinner' lacks a finite verb, making it a participial phrase rather than a clause.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of clause is underlined in: 'We will start our journey <u>as soon as the guide arrives</u>.'",
+    "question_ta": "What type of clause is underlined in: 'We will start our journey <u>as soon as the guide arrives</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R13 and R21, this clause modifies the verb 'start' by providing details about the time of the action.",
+    "explanation_ta": "According to R13 and R21, this clause modifies the verb 'start' by providing details about the time of the action.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "phrases_clauses",
+    "source_note": "p.389, p.393"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the option that correctly classifies the word 'out of solid marble': 'The artisan carved a sculpture <u>out of solid marble</u>.'",
+    "question_ta": "Choose the option that correctly classifies the word 'out of solid marble': 'The artisan carved a sculpture <u>out of solid marble</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb phrase",
+        "text_ta": "Verb phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The underlined phrase 'out of solid marble' describes the noun 'scкульптурa' (sculpture), thereby performing the work of an adjective.",
+    "explanation_ta": "The underlined phrase 'out of solid marble' describes the noun 'scкульптурa' (sculpture), thereby performing the work of an adjective.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R18: Adjective Phrase: A group of words that does the work of an adjective by describing a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of the word 'with great enthusiasm': 'The diligent students completed the project <u>with great enthusiasm</u>.'",
+    "question_ta": "Identify the type of the word 'with great enthusiasm': 'The diligent students completed the project <u>with great enthusiasm</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Independent clause",
+        "text_ta": "Independent clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'with great enthusiasm' supplies information about the action 'completed' by telling us how it was done, functioning as an adverb phrase.",
+    "explanation_ta": "The phrase 'with great enthusiasm' supplies information about the action 'completed' by telling us how it was done, functioning as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R19: Adverb Phrase: A phrase which functions as an adverb and supplies information about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the grammatical classification of the underlined words? '<u>Solving complex puzzles</u> is her favorite hobby.'",
+    "question_ta": "What is the grammatical classification of the underlined words? '<u>Solving complex puzzles</u> is her favorite hobby.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The group of words 'Solving complex puzzles' acts as the subject (noun) of the sentence, making it a noun phrase.",
+    "explanation_ta": "The group of words 'Solving complex puzzles' acts as the subject (noun) of the sentence, making it a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R20: Noun Phrase: A phrase which acts as a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Analyze the underlined segment: 'We will postpone the outdoor meeting <u>if the heavy rain continues</u>.'",
+    "question_ta": "Analyze the underlined segment: 'We will postpone the outdoor meeting <u>if the heavy rain continues</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Main clause",
+        "text_ta": "Main clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject and a finite verb ('continues') but cannot stand alone as a complete thought, functioning as a subordinate clause.",
+    "explanation_ta": "The underlined part contains a subject and a finite verb ('continues') but cannot stand alone as a complete thought, functioning as a subordinate clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R5 & R8: A subordinate clause is a clause dependent on a main clause and does not express a complete thought."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Determine the nature of the word 'who wrote this bestseller': 'The author <u>who wrote this bestseller</u> is visiting our city.'",
+    "question_ta": "Determine the nature of the word 'who wrote this bestseller': 'The author <u>who wrote this bestseller</u> is visiting our city.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause 'who wrote this bestseller' gives more information about the noun 'author', acting as an adjective clause.",
+    "explanation_ta": "The underlined clause 'who wrote this bestseller' gives more information about the noun 'author', acting as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R12 & R23: Adjective Clause: Acts as an adjective and describes a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the category of the word 'on the polished mahogany table': 'She placed the fragile vase <u>on the polished mahogany table</u>.'",
+    "question_ta": "Identify the category of the word 'on the polished mahogany table': 'She placed the fragile vase <u>on the polished mahogany table</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Main clause",
+        "text_ta": "Main clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase begins with a preposition and supplies information about where the action 'placed' happened, functioning as an adverb phrase.",
+    "explanation_ta": "The phrase begins with a preposition and supplies information about where the action 'placed' happened, functioning as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R19: Adverb Phrase: A phrase which functions as an adverb and supplies information about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Classify the underlined segment: '<u>That honesty is the best policy</u> remains a timeless truth.'",
+    "question_ta": "Classify the underlined segment: '<u>That honesty is the best policy</u> remains a timeless truth.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group of words takes the place of a noun acting as the subject of the sentence, making it a noun clause.",
+    "explanation_ta": "The underlined group of words takes the place of a noun acting as the subject of the sentence, making it a noun clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R14 & R22: Noun Clause: A clause that functions as a noun in the sentence."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'while the audience listened in absolute silence' represent? 'The musicians performed wonderfully <u>while the audience listened in absolute silence</u>.'",
+    "question_ta": "What does the word 'while the audience listened in absolute silence' represent? 'The musicians performed wonderfully <u>while the audience listened in absolute silence</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'while the audience listened in absolute silence' modifies the verb by providing details about the time and circumstance of the action.",
+    "explanation_ta": "The clause 'while the audience listened in absolute silence' modifies the verb by providing details about the time and circumstance of the action.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R13 & R21: Adverb Clause: Modifies the verb by providing details about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical unit of the word 'the grand musical concert': 'We bought tickets for <u>the grand musical concert</u>.'",
+    "question_ta": "Identify the grammatical unit of the word 'the grand musical concert': 'We bought tickets for <u>the grand musical concert</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined words 'the grand musical concert' are built around the head noun 'concert' with modifiers, forming a noun phrase.",
+    "explanation_ta": "The underlined words 'the grand musical concert' are built around the head noun 'concert' with modifiers, forming a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R10: A noun phrase is a group of words made up of a noun and its modifiers."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "State the classification of the word 'that were missing for weeks': 'The keys <u>that were missing for weeks</u> were finally found in the drawer.'",
+    "question_ta": "State the classification of the word 'that were missing for weeks': 'The keys <u>that were missing for weeks</u> were finally found in the drawer.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'that were missing for weeks' describes the noun 'keys' by giving specific information about them, functioning as an adjective clause.",
+    "explanation_ta": "The clause 'that were missing for weeks' describes the noun 'keys' by giving specific information about them, functioning as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R12: An adjective clause describes or gives more information about a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Classify the underlined portion: 'The athletes trained rigorously <u>to win the championship trophy</u>.'",
+    "question_ta": "Classify the underlined portion: 'The athletes trained rigorously <u>to win the championship trophy</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'to win the championship trophy' supplies information about the action 'trained' (explaining purpose), acting as an adverb phrase without a finite verb.",
+    "explanation_ta": "The phrase 'to win the championship trophy' supplies information about the action 'trained' (explaining purpose), acting as an adverb phrase without a finite verb.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R19: Adverb Phrase: A phrase which functions as an adverb and supplies information about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Determine the type of the word 'because he works with utmost dedication': 'He will succeed <u>because he works with utmost dedication</u>.'",
+    "question_ta": "Determine the type of the word 'because he works with utmost dedication': 'He will succeed <u>because he works with utmost dedication</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause 'because he works with utmost dedication' provides information about the reason behind the verb 'succeed', functioning as an adverb clause.",
+    "explanation_ta": "The underlined clause 'because he works with utmost dedication' provides information about the reason behind the verb 'succeed', functioning as an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R13: An adverb clause describes or gives more information about the verb—tells us when, where, how, to what extent, or under what condition."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical status of the underlined words: 'The painting <u>hanging on the gallery wall</u> attracted many visitors.'",
+    "question_ta": "Identify the grammatical status of the underlined words: 'The painting <u>hanging on the gallery wall</u> attracted many visitors.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'hanging on the gallery wall' contains no finite verb and describes the noun 'painting', acting as an adjective phrase.",
+    "explanation_ta": "The phrase 'hanging on the gallery wall' contains no finite verb and describes the noun 'painting', acting as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R18: Adjective Phrase: A group of words that does the work of an adjective by describing a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the word 'how much the ticket costs'? 'The tourist asked <u>how much the ticket costs</u>.'",
+    "question_ta": "What is the function of the word 'how much the ticket costs'? 'The tourist asked <u>how much the ticket costs</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main clause",
+        "text_ta": "Main clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'how much the ticket costs' takes the place of the object noun in the sentence, functioning as a noun clause.",
+    "explanation_ta": "The clause 'how much the ticket costs' takes the place of the object noun in the sentence, functioning as a noun clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R14: A noun clause takes the place of a noun in the sentence."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'The brilliant scientist from the research institute': '<u>The brilliant scientist from the research institute</u> delivered an inspiring lecture.'",
+    "question_ta": "Classify the word 'The brilliant scientist from the research institute': '<u>The brilliant scientist from the research institute</u> delivered an inspiring lecture.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The group of words 'The brilliant scientist from the research institute' functions as the subject of the sentence, making it a noun phrase.",
+    "explanation_ta": "The group of words 'The brilliant scientist from the research institute' functions as the subject of the sentence, making it a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R10: A noun phrase is a group of words made up of a noun and its modifiers."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'in a very melodious voice' is a phrase or a clause and select its type: 'She sang the song <u>in a very melodious voice</u>.'",
+    "question_ta": "Determine whether the word 'in a very melodious voice' is a phrase or a clause and select its type: 'She sang the song <u>in a very melodious voice</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group has no finite verb and describes how the song was sung, making it an adverb phrase.",
+    "explanation_ta": "The underlined group has no finite verb and describes how the song was sung, making it an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R19: Adverb Phrase: A phrase which functions as an adverb and supplies information about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the clause type for the underlined segment: 'We will start our trek <u>as soon as the weather clears up</u>.'",
+    "question_ta": "Identify the clause type for the underlined segment: 'We will start our trek <u>as soon as the weather clears up</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main clause",
+        "text_ta": "Main clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'as soon as the weather clears up' modifies the verb by providing details about the time of the action, functioning as an adverb clause.",
+    "explanation_ta": "The clause 'as soon as the weather clears up' modifies the verb by providing details about the time of the action, functioning as an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R21: Adverb Clause: Modifies the verb by providing details about the action (such as time)."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What type of linguistic unit is the underlined portion? 'The historic monument <u>built by the emperor</u> stands tall.'",
+    "question_ta": "What type of linguistic unit is the underlined portion? 'The historic monument <u>built by the emperor</u> stands tall.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined words 'built by the emperor' contain no finite verb and describe the noun 'monument', functioning as an adjective phrase.",
+    "explanation_ta": "The underlined words 'built by the emperor' contain no finite verb and describe the noun 'monument', functioning as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R18: Adjective Phrase: A group of words that does the work of an adjective by describing a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct classification for the word 'The leader of the delegation' in: '<u>The leader of the delegation</u> addressed the press conference.'",
+    "question_ta": "Select the correct classification for the word 'The leader of the delegation' in: '<u>The leader of the delegation</u> addressed the press conference.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group 'The leader of the delegation' acts as the subject noun of the sentence, representing a noun phrase.",
+    "explanation_ta": "The underlined group 'The leader of the delegation' acts as the subject noun of the sentence, representing a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R20: Noun Phrase: A phrase which acts as a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical nature of the underlined words: 'The hikers walked <u>along the narrow mountain trail</u>.'",
+    "question_ta": "Identify the grammatical nature of the underlined words: 'The hikers walked <u>along the narrow mountain trail</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'along the narrow mountain trail' begins with a preposition and supplies information about where the action 'walked' took place, acting as an adverb phrase.",
+    "explanation_ta": "The phrase 'along the narrow mountain trail' begins with a preposition and supplies information about where the action 'walked' took place, acting as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R19: Adverb Phrase: A phrase which functions as an adverb and supplies information about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the classification of the word 'where rare artifacts are preserved'? 'We will visit the museum <u>where rare artifacts are preserved</u>.'",
+    "question_ta": "What is the classification of the word 'where rare artifacts are preserved'? 'We will visit the museum <u>where rare artifacts are preserved</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause 'where rare artifacts are preserved' describes the noun 'museum' by giving more information about it, making it an adjective clause.",
+    "explanation_ta": "The underlined clause 'where rare artifacts are preserved' describes the noun 'museum' by giving more information about it, making it an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R12: An adjective clause describes or gives more information about a noun—tells us which one, what kind, or how many."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Analyze the word 'Winning the gold medal in the Olympics': '<u>Winning the gold medal in the Olympics</u> brought immense pride to the nation.'",
+    "question_ta": "Analyze the word 'Winning the gold medal in the Olympics': '<u>Winning the gold medal in the Olympics</u> brought immense pride to the nation.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'Winning the gold medal in the Olympics' acts as the subject noun of the sentence without a finite verb, functioning as a noun phrase.",
+    "explanation_ta": "The phrase 'Winning the gold medal in the Olympics' acts as the subject noun of the sentence without a finite verb, functioning as a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R20: Noun Phrase: A phrase which acts as a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Determine the grammatical status of the underlined segment: 'The officers inspected the facility <u>with utmost care and precision</u>.'",
+    "question_ta": "Determine the grammatical status of the underlined segment: 'The officers inspected the facility <u>with utmost care and precision</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group 'with utmost care and precision' supplies information about how the action 'inspected' was done, forming an adverb phrase.",
+    "explanation_ta": "The underlined group 'with utmost care and precision' supplies information about how the action 'inspected' was done, forming an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R19: Adverb Phrase: A phrase which functions as an adverb and supplies information about the action."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the word 'so clearly that everyone understood' is a phrase or a clause and its type: 'The teacher explained the lesson <u>so clearly that everyone understood</u>.'",
+    "question_ta": "Identify whether the word 'so clearly that everyone understood' is a phrase or a clause and its type: 'The teacher explained the lesson <u>so clearly that everyone understood</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb clause",
+        "text_ta": "Adverb clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective clause",
+        "text_ta": "Adjective clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun clause",
+        "text_ta": "Noun clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject and a finite verb and modifies the verb 'explained' by showing extent or result, making it an adverb clause.",
+    "explanation_ta": "The underlined part contains a subject and a finite verb and modifies the verb 'explained' by showing extent or result, making it an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R13: An adverb clause describes or gives more information about the verb—tells us when, where, how, to what extent."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What type of linguistic unit is underlined? 'She loves reading novels <u>written by classical authors</u>.'",
+    "question_ta": "What type of linguistic unit is underlined? 'She loves reading novels <u>written by classical authors</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective phrase",
+        "text_ta": "Adjective phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun phrase",
+        "text_ta": "Noun phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb phrase",
+        "text_ta": "Adverb phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate clause",
+        "text_ta": "Subordinate clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'written by classical authors' describes the noun 'novels' without any finite verb, acting as an adjective phrase.",
+    "explanation_ta": "The phrase 'written by classical authors' describes the noun 'novels' without any finite verb, acting as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "phrases_clauses",
+    "source_note": "Rule R18: Adjective Phrase: A group of words that does the work of an adjective by describing a noun."
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct classification for the group of words in the sentence: 'The stray dog that barked all night belongs to our neighbor.'",
+    "question_ta": "Choose the correct classification for the group of words in the sentence: 'The stray dog that barked all night belongs to our neighbor.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The group of words 'that barked all night' describes the noun 'dog', functioning as an adjective clause.",
+    "explanation_ta": "The group of words 'that barked all night' describes the noun 'dog', functioning as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R12, R23 [adjective_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of clause highlighted in the sentence: 'She achieved success because she worked diligently every day.'",
+    "question_ta": "Identify the type of clause highlighted in the sentence: 'She achieved success because she worked diligently every day.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'because she worked diligently every day' gives the reason (modifies the verb 'achieved'), making it an adverb clause.",
+    "explanation_ta": "The clause 'because she worked diligently every day' gives the reason (modifies the verb 'achieved'), making it an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R13, R21 [adverb_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Determine the structural nature of the word 'Running through the muddy path' of words: '<u>Running through the muddy path</u>, the athlete slipped.'",
+    "question_ta": "Determine the structural nature of the word 'Running through the muddy path' of words: '<u>Running through the muddy path</u>, the athlete slipped.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Dependent Clause",
+        "text_ta": "Dependent Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group 'Running through the muddy path' has no finite verb and does not contain a subject-predicate core, hence it is a phrase.",
+    "explanation_ta": "The underlined group 'Running through the muddy path' has no finite verb and does not contain a subject-predicate core, hence it is a phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R1, R9, R16 [phrase_vs_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the clause in the sentence: 'I know what you did during the vacation.'",
+    "question_ta": "What is the function of the clause in the sentence: 'I know what you did during the vacation.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'what you did during the vacation' acts as the object of the verb 'know', functioning as a noun clause.",
+    "explanation_ta": "The clause 'what you did during the vacation' acts as the object of the verb 'know', functioning as a noun clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R14, R22 [noun_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the underlined segment is a phrase or a clause: '<u>After the heavy downpour stopped</u>, the children went outside to play.'",
+    "question_ta": "Identify whether the underlined segment is a phrase or a clause: '<u>After the heavy downpour stopped</u>, the children went outside to play.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject ('downpour') and a finite verb ('stopped'), making it a clause.",
+    "explanation_ta": "The underlined part contains a subject ('downpour') and a finite verb ('stopped'), making it a clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R2, R6, R17 [phrase_vs_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct classification for the phrase: 'The ring made of pure platinum gleamed brightly.'",
+    "question_ta": "Select the correct classification for the phrase: 'The ring made of pure platinum gleamed brightly.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'made of pure platinum' describes the noun 'ring', functioning as an adjective phrase.",
+    "explanation_ta": "The phrase 'made of pure platinum' describes the noun 'ring', functioning as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R15, R18 [adjective_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'down the winding country road' of words: 'We walked <u>down the winding country road</u>.'",
+    "question_ta": "Classify the word 'down the winding country road' of words: 'We walked <u>down the winding country road</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'down the winding country road' provides information about the action 'walked', acting as an adverb phrase.",
+    "explanation_ta": "The phrase 'down the winding country road' provides information about the action 'walked', acting as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Determine the grammatical nature of the word 'The tall man in the corner': '<u>The tall man in the corner</u> is an eminent professor.'",
+    "question_ta": "Determine the grammatical nature of the word 'The tall man in the corner': '<u>The tall man in the corner</u> is an eminent professor.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The group of words 'The tall man in the corner' acts as the subject and functions as a noun phrase.",
+    "explanation_ta": "The group of words 'The tall man in the corner' acts as the subject and functions as a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R10, R20 [noun_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of the word 'which you lent me last week': 'The book <u>which you lent me last week</u> is fascinating.'",
+    "question_ta": "Identify the type of the word 'which you lent me last week': 'The book <u>which you lent me last week</u> is fascinating.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'which you lent me last week' modifies the noun 'book', functioning as an adjective clause.",
+    "explanation_ta": "The clause 'which you lent me last week' modifies the noun 'book', functioning as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R12, R23 [adjective_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the status of the word 'Whenever the phone rings' of words: '<u>Whenever the phone rings</u>, the dog barks loudly.'",
+    "question_ta": "What is the status of the word 'Whenever the phone rings' of words: '<u>Whenever the phone rings</u>, the dog barks loudly.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dependent Clause",
+        "text_ta": "Dependent Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject and verb but does not express a complete thought on its own, making it a dependent (subordinate) clause.",
+    "explanation_ta": "The underlined part contains a subject and verb but does not express a complete thought on its own, making it a dependent (subordinate) clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R5, R8 [subordinate_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct category for the word 'with great confidence' in: 'He delivered a speech <u>with great confidence</u>.'",
+    "question_ta": "Select the correct category for the word 'with great confidence' in: 'He delivered a speech <u>with great confidence</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'with great confidence' describes how the speech was delivered (modifies the verb), functioning as an adverb phrase.",
+    "explanation_ta": "The phrase 'with great confidence' describes how the speech was delivered (modifies the verb), functioning as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the underlined segment is a phrase or a clause: '<u>To climb the highest mountain</u> is his lifelong dream.'",
+    "question_ta": "Identify whether the underlined segment is a phrase or a clause: '<u>To climb the highest mountain</u> is his lifelong dream.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Dependent Clause",
+        "text_ta": "Dependent Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined segment lacks a finite verb and acts as a subject noun phrase, classifying it generally as a phrase.",
+    "explanation_ta": "The underlined segment lacks a finite verb and acts as a subject noun phrase, classifying it generally as a phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R1, R9, R16 [phrase_vs_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What type of clause is underlined in: 'The teacher explained <u>how the experiment was conducted</u>.'",
+    "question_ta": "What type of clause is underlined in: 'The teacher explained <u>how the experiment was conducted</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause 'how the experiment was conducted' acts as the object of the verb 'explained', making it a noun clause.",
+    "explanation_ta": "The underlined clause 'how the experiment was conducted' acts as the object of the verb 'explained', making it a noun clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R14, R22 [noun_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Determine the grammatical function of the word 'because the storm was fierce': 'We stayed indoors <u>because the storm was fierce</u>.'",
+    "question_ta": "Determine the grammatical function of the word 'because the storm was fierce': 'We stayed indoors <u>because the storm was fierce</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'because the storm was fierce' states the reason for staying indoors, functioning as an adverb clause.",
+    "explanation_ta": "The clause 'because the storm was fierce' states the reason for staying indoors, functioning as an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R13, R21 [adverb_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'Having completed the assignment' of the sentence: '<u>Having completed the assignment</u>, the student submitted it.'",
+    "question_ta": "Classify the word 'Having completed the assignment' of the sentence: '<u>Having completed the assignment</u>, the student submitted it.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Dependent Clause",
+        "text_ta": "Dependent Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a non-finite participle construction without a finite verb, qualifying it as a phrase.",
+    "explanation_ta": "The underlined part contains a non-finite participle construction without a finite verb, qualifying it as a phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R1, R9, R16 [phrase_vs_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the clause type: 'You can sit <u>wherever you find an empty chair</u>.'",
+    "question_ta": "Identify the clause type: 'You can sit <u>wherever you find an empty chair</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'wherever you find an empty chair' indicates place and modifies the verb 'sit', making it an adverb clause.",
+    "explanation_ta": "The clause 'wherever you find an empty chair' indicates place and modifies the verb 'sit', making it an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R13, R21 [adverb_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the nature of the word 'created by the renaissance master' of words: 'The painting <u>created by the renaissance master</u> was priceless.'",
+    "question_ta": "What is the nature of the word 'created by the renaissance master' of words: 'The painting <u>created by the renaissance master</u> was priceless.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'created by the renaissance master' describes the noun 'painting', functioning as an adjective phrase.",
+    "explanation_ta": "The phrase 'created by the renaissance master' describes the noun 'painting', functioning as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R15, R18 [adjective_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the word 'The sun rose over the hills' is a main clause or subordinate clause: '<u>The sun rose over the hills</u>, and the fog quickly cleared.'",
+    "question_ta": "Identify whether the word 'The sun rose over the hills' is a main clause or subordinate clause: '<u>The sun rose over the hills</u>, and the fog quickly cleared.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part 'The sun rose over the hills' expresses a complete thought and can stand alone as a sentence, making it a main (independent) clause.",
+    "explanation_ta": "The underlined part 'The sun rose over the hills' expresses a complete thought and can stand alone as a sentence, making it a main (independent) clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R4, R7 [main_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'made of crystal': 'She bought a magnificent vase <u>made of crystal</u>.'",
+    "question_ta": "Classify the word 'made of crystal': 'She bought a magnificent vase <u>made of crystal</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'made of crystal' describes the noun 'vase', functioning as an adjective phrase.",
+    "explanation_ta": "The phrase 'made of crystal' describes the noun 'vase', functioning as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R15, R18 [adjective_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the word 'What he suggested at the meeting': '<u>What he suggested at the meeting</u> was accepted by all.'",
+    "question_ta": "What is the function of the word 'What he suggested at the meeting': '<u>What he suggested at the meeting</u> was accepted by all.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Independent Clause",
+        "text_ta": "Independent Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause acts as the subject of the sentence, functioning as a noun clause.",
+    "explanation_ta": "The underlined clause acts as the subject of the sentence, functioning as a noun clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R14, R22 [noun_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the clause type for the underlined words: 'The architect <u>who designed this skyscraper</u> won an award.'",
+    "question_ta": "Identify the clause type for the underlined words: 'The architect <u>who designed this skyscraper</u> won an award.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'who designed this skyscraper' describes the noun 'architect', functioning as an adjective clause.",
+    "explanation_ta": "The clause 'who designed this skyscraper' describes the noun 'architect', functioning as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R12, R23 [adjective_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'Before the sun sets' is a phrase or a clause: '<u>Before the sun sets</u>, we must reach the village.'",
+    "question_ta": "Determine whether the word 'Before the sun sets' is a phrase or a clause: '<u>Before the sun sets</u>, we must reach the village.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject ('sun') and a finite verb ('sets'), making it a clause.",
+    "explanation_ta": "The underlined part contains a subject ('sun') and a finite verb ('sets'), making it a clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R2, R6, R17 [phrase_vs_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'in a very polite manner': 'He spoke <u>in a very polite manner</u>.'",
+    "question_ta": "Classify the word 'in a very polite manner': 'He spoke <u>in a very polite manner</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'in a very polite manner' modifies the verb 'spoke' by describing how the action was performed, making it an adverb phrase.",
+    "explanation_ta": "The phrase 'in a very polite manner' modifies the verb 'spoke' by describing how the action was performed, making it an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical role of the underlined words: '<u>Walking along the beach</u> is a relaxing experience.'",
+    "question_ta": "Identify the grammatical role of the underlined words: '<u>Walking along the beach</u> is a relaxing experience.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The gerund phrase 'Walking along the beach' acts as the subject of the sentence, functioning as a noun phrase.",
+    "explanation_ta": "The gerund phrase 'Walking along the beach' acts as the subject of the sentence, functioning as a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R10, R20 [noun_phrase]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What type of linguistic unit is underlined: 'The children played outside <u>until the sun went down</u>.'",
+    "question_ta": "What type of linguistic unit is underlined: 'The children played outside <u>until the sun went down</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'until the sun went down' tells us when the action happened, making it an adverb clause.",
+    "explanation_ta": "The clause 'until the sun went down' tells us when the action happened, making it an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "phrases_clauses",
+    "source_note": "R13, R21 [adverb_clause]"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct classification for the underlined segment: 'The student <u>who studies diligently</u> will surely secure top marks.'",
+    "question_ta": "Choose the correct classification for the underlined segment: 'The student <u>who studies diligently</u> will surely secure top marks.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group of words 'who studies diligently' describes the noun 'student' and functions as an adjective clause.",
+    "explanation_ta": "The underlined group of words 'who studies diligently' describes the noun 'student' and functions as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R12 [adjective_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical status of the word 'behind the heavy wooden door': 'He hid <u>behind the heavy wooden door</u> during the surprise inspection.'",
+    "question_ta": "Identify the grammatical status of the word 'behind the heavy wooden door': 'He hid <u>behind the heavy wooden door</u> during the surprise inspection.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'behind the heavy wooden door' tells us where he hid, functioning as an adverb phrase without a finite verb.",
+    "explanation_ta": "The phrase 'behind the heavy wooden door' tells us where he hid, functioning as an adverb phrase without a finite verb.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'Because the traffic was exceptionally heavy' is a phrase or a clause: '<u>Because the traffic was exceptionally heavy</u>, we missed the morning train.'",
+    "question_ta": "Determine whether the word 'Because the traffic was exceptionally heavy' is a phrase or a clause: '<u>Because the traffic was exceptionally heavy</u>, we missed the morning train.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject ('traffic') and a finite verb ('was'), making it a clause.",
+    "explanation_ta": "The underlined part contains a subject ('traffic') and a finite verb ('was'), making it a clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R2 [phrase_vs_clause] p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Select the correct classification for the word 'how the funds should be allocated' in: 'The committee discussed <u>how the funds should be allocated</u>.'",
+    "question_ta": "Select the correct classification for the word 'how the funds should be allocated' in: 'The committee discussed <u>how the funds should be allocated</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause acts as the object of the verb 'discussed', taking the place of a noun.",
+    "explanation_ta": "The underlined clause acts as the object of the verb 'discussed', taking the place of a noun.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R14 [noun_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of the word 'woven with pure silver threads': 'She wore a gorgeous silk saree <u>woven with pure silver threads</u>.'",
+    "question_ta": "Identify the type of the word 'woven with pure silver threads': 'She wore a gorgeous silk saree <u>woven with pure silver threads</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Verb Phrase",
+        "text_ta": "Verb Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'woven with pure silver threads' modifies the noun 'saree' and functions as an adjective phrase without a finite verb.",
+    "explanation_ta": "The phrase 'woven with pure silver threads' modifies the noun 'saree' and functions as an adjective phrase without a finite verb.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R18 [adjective_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the underlined segment in the sentence? '<u>The barking of stray dogs</u> disturbed the peaceful night.'",
+    "question_ta": "What is the function of the underlined segment in the sentence? '<u>The barking of stray dogs</u> disturbed the peaceful night.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group acts as the subject of the sentence and is built around the head noun 'barking', forming a noun phrase.",
+    "explanation_ta": "The underlined group acts as the subject of the sentence and is built around the head noun 'barking', forming a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R10 [noun_phrase] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the clause type for the underlined segment: 'We will postpone the sports meet <u>if it rains heavily</u>.'",
+    "question_ta": "Identify the clause type for the underlined segment: 'We will postpone the sports meet <u>if it rains heavily</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause 'if it rains heavily' indicates the condition under which the action will happen, making it an adverb clause.",
+    "explanation_ta": "The underlined clause 'if it rains heavily' indicates the condition under which the action will happen, making it an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R13 [adverb_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'Having completed the rigorous training' is a phrase or a clause: '<u>Having completed the rigorous training</u>, the athletes felt confident.'",
+    "question_ta": "Determine whether the word 'Having completed the rigorous training' is a phrase or a clause: '<u>Having completed the rigorous training</u>, the athletes felt confident.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group 'Having completed the rigorous training' does not contain a finite verb, so it is a phrase.",
+    "explanation_ta": "The underlined group 'Having completed the rigorous training' does not contain a finite verb, so it is a phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R1 [phrase_vs_clause] p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'who won the national award' of words: 'The painter <u>who won the national award</u> is exhibiting his work today.'",
+    "question_ta": "Classify the word 'who won the national award' of words: 'The painter <u>who won the national award</u> is exhibiting his work today.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'who won the national award' describes the noun 'painter', functioning as an adjective clause.",
+    "explanation_ta": "The clause 'who won the national award' describes the noun 'painter', functioning as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R12 [adjective_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the nature of the word 'and his assistant took over the charge' of words? 'The old manager retired last month, <u>and his assistant took over the charge</u>.'",
+    "question_ta": "What is the nature of the word 'and his assistant took over the charge' of words? 'The old manager retired last month, <u>and his assistant took over the charge</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part has its own subject and finite verb and can stand alone as a complete thought, making it a main clause.",
+    "explanation_ta": "The underlined part has its own subject and finite verb and can stand alone as a complete thought, making it a main clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R4 [main_clause] p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical role of the underlined section: 'They parked their vehicle <u>near the grand entrance</u>.'",
+    "question_ta": "Identify the grammatical role of the underlined section: 'They parked their vehicle <u>near the grand entrance</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'near the grand entrance' explains where they parked the vehicle, functioning as an adverb phrase.",
+    "explanation_ta": "The phrase 'near the grand entrance' explains where they parked the vehicle, functioning as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct classification for the word 'Whatever you write in the exam' in: '<u>Whatever you write in the exam</u> will be evaluated strictly.'",
+    "question_ta": "Choose the correct classification for the word 'Whatever you write in the exam' in: '<u>Whatever you write in the exam</u> will be evaluated strictly.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'Whatever you write in the exam' functions as the subject of the sentence, taking the place of a noun.",
+    "explanation_ta": "The clause 'Whatever you write in the exam' functions as the subject of the sentence, taking the place of a noun.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R14 [noun_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify whether the underlined segment is a phrase or a clause: '<u>As the sun set behind the mountains</u>, the temperature dropped rapidly.'",
+    "question_ta": "Identify whether the underlined segment is a phrase or a clause: '<u>As the sun set behind the mountains</u>, the temperature dropped rapidly.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined part contains a subject ('sun') and a finite verb ('set'), making it a clause.",
+    "explanation_ta": "The underlined part contains a subject ('sun') and a finite verb ('set'), making it a clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R2 [phrase_vs_clause] p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the classification of the word 'to find a permanent cure'? 'The scientists are researching <u>to find a permanent cure</u>.'",
+    "question_ta": "What is the classification of the word 'to find a permanent cure'? 'The scientists are researching <u>to find a permanent cure</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'to find a permanent cure' modifies the verb 'researching' by explaining the purpose, functioning as an adverb phrase without a finite verb.",
+    "explanation_ta": "The phrase 'to find a permanent cure' modifies the verb 'researching' by explaining the purpose, functioning as an adverb phrase without a finite verb.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "State the classification of the word 'where I spent my childhood': 'I remember the house <u>where I spent my childhood</u>.'",
+    "question_ta": "State the classification of the word 'where I spent my childhood': 'I remember the house <u>where I spent my childhood</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'where I spent my childhood' gives more information about the noun 'house', acting as an adjective clause.",
+    "explanation_ta": "The clause 'where I spent my childhood' gives more information about the noun 'house', acting as an adjective clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R12 [adjective_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Classify the underlined portion: '<u>Walking along the coastal line</u> is extremely refreshing.'",
+    "question_ta": "Classify the underlined portion: '<u>Walking along the coastal line</u> is extremely refreshing.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined phrase acts as the subject of the sentence, functioning as a noun phrase without a finite verb.",
+    "explanation_ta": "The underlined phrase acts as the subject of the sentence, functioning as a noun phrase without a finite verb.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R20 [noun_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of clause for the underlined words: 'You can stay <u>wherever you feel comfortable</u>.'",
+    "question_ta": "Identify the type of clause for the underlined words: 'You can stay <u>wherever you feel comfortable</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'wherever you feel comfortable' modifies the verb 'stay' by indicating the place, acting as an adverb clause.",
+    "explanation_ta": "The clause 'wherever you feel comfortable' modifies the verb 'stay' by indicating the place, acting as an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R13 [adverb_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Determine whether the word 'The ancient temple near the river bank' is a phrase or a clause: '<u>The ancient temple near the river bank</u> attracts many pilgrims.'",
+    "question_ta": "Determine whether the word 'The ancient temple near the river bank' is a phrase or a clause: '<u>The ancient temple near the river bank</u> attracts many pilgrims.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Phrase",
+        "text_ta": "Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Clause",
+        "text_ta": "Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Subordinate Clause",
+        "text_ta": "Subordinate Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group contains no finite verb, making it a noun phrase functioning as the subject.",
+    "explanation_ta": "The underlined group contains no finite verb, making it a noun phrase functioning as the subject.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R1 [phrase_vs_clause] p.357"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the word 'that the company achieved its target'? 'The manager announced <u>that the company achieved its target</u>.'",
+    "question_ta": "What is the function of the word 'that the company achieved its target'? 'The manager announced <u>that the company achieved its target</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined clause acts as the object of the verb 'announced', taking the place of a noun.",
+    "explanation_ta": "The underlined clause acts as the object of the verb 'announced', taking the place of a noun.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R14 [noun_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatical nature of the underlined words: 'She handled the delicate glass item <u>with utmost care</u>.'",
+    "question_ta": "Identify the grammatical nature of the underlined words: 'She handled the delicate glass item <u>with utmost care</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'with utmost care' explains how she handled the glass item, functioning as an adverb phrase.",
+    "explanation_ta": "The phrase 'with utmost care' explains how she handled the glass item, functioning as an adverb phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R19 [adverb_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Classify the word 'Before the lecture begins': '<u>Before the lecture begins</u>, please submit your reports.'",
+    "question_ta": "Classify the word 'Before the lecture begins': '<u>Before the lecture begins</u>, please submit your reports.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'Before the lecture begins' tells us when the action should happen, making it an adverb clause.",
+    "explanation_ta": "The clause 'Before the lecture begins' tells us when the action should happen, making it an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R13 [adverb_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Determine the grammatical status of the underlined segment: 'The book <u>lying on the dusty table</u> belongs to the professor.'",
+    "question_ta": "Determine the grammatical status of the underlined segment: 'The book <u>lying on the dusty table</u> belongs to the professor.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'lying on the dusty table' modifies the noun 'book' without having a finite verb, making it an adjective phrase.",
+    "explanation_ta": "The phrase 'lying on the dusty table' modifies the noun 'book' without having a finite verb, making it an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R18 [adjective_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Which category does the word 'while their mother prepared dinner' belong to? 'The children played in the garden <u>while their mother prepared dinner</u>.'",
+    "question_ta": "Which category does the word 'while their mother prepared dinner' belong to? 'The children played in the garden <u>while their mother prepared dinner</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adverb Clause",
+        "text_ta": "Adverb Clause"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "D",
+        "text_en": "Main Clause",
+        "text_ta": "Main Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The clause 'while their mother prepared dinner' indicates the time when the children played, functioning as an adverb clause.",
+    "explanation_ta": "The clause 'while their mother prepared dinner' indicates the time when the children played, functioning as an adverb clause.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R13 [adverb_clause] p.389"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the type of the word 'with high processing speed': 'He bought a sleek modern laptop <u>with high processing speed</u>.'",
+    "question_ta": "Identify the type of the word 'with high processing speed': 'He bought a sleek modern laptop <u>with high processing speed</u>.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Adjective Clause",
+        "text_ta": "Adjective Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The phrase 'with high processing speed' describes the noun 'laptop' and functions as an adjective phrase.",
+    "explanation_ta": "The phrase 'with high processing speed' describes the noun 'laptop' and functions as an adjective phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R18 [adjective_phrase] p.392"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Phrases & Clauses",
+    "topic": "Phrases & Clauses",
+    "topic_id": "phrases_clauses",
+    "topic_ta": "Phrases & Clauses",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What does the underlined portion represent? '<u>The dedicated nurse who assisted the surgeon</u> received an award.'",
+    "question_ta": "What does the underlined portion represent? '<u>The dedicated nurse who assisted the surgeon</u> received an award.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Noun Phrase",
+        "text_ta": "Noun Phrase"
+      },
+      {
+        "key": "B",
+        "text_en": "Adjective Phrase",
+        "text_ta": "Adjective Phrase"
+      },
+      {
+        "key": "C",
+        "text_en": "Adverb Phrase",
+        "text_ta": "Adverb Phrase"
+      },
+      {
+        "key": "D",
+        "text_en": "Noun Clause",
+        "text_ta": "Noun Clause"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The underlined group acts as the subject of the sentence and is centered around the noun 'nurse', forming a noun phrase.",
+    "explanation_ta": "The underlined group acts as the subject of the sentence and is centered around the noun 'nurse', forming a noun phrase.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "phrases_clauses",
+    "source_note": "R10 [noun_phrase] p.389"
+  }
+]

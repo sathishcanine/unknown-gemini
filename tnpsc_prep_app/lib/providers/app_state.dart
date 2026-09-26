@@ -37,6 +37,7 @@ class AppState extends ChangeNotifier {
   static const _guestIdKey = 'guest_user_id';
   static const _whatsAppNumberKey = 'whatsapp_number';
   static const _whatsAppCollectedKey = 'whatsapp_collected';
+  static const _premiumKey = 'is_premium_aspirant';
 
   String _userEmail = 'test_user';
   String get userEmail => _userEmail;
@@ -48,6 +49,15 @@ class AppState extends ChangeNotifier {
   bool _whatsAppCollected = false;
   bool get needsWhatsAppNumber =>
       _isAuthenticated && _authReady && !_whatsAppCollected;
+
+  /// Paid entitlement. Free users only unlock the first practice batch per topic.
+  bool _isPremiumAspirant = false;
+  bool get isPremiumAspirant => _isPremiumAspirant;
+  String? _premiumExpiresAt;
+  String? get premiumExpiresAt => _premiumExpiresAt;
+
+  /// Normalized key of the free (first) practice batch for the open topic.
+  String? _activeTopicFirstBatchKey;
 
   bool get isGuestUser {
     final email = _userEmail.toLowerCase();
@@ -110,6 +120,20 @@ class AppState extends ChangeNotifier {
       return q.explanationTa.isNotEmpty ? q.explanationTa : q.explanation;
     }
     return q.explanation;
+  }
+
+  String displayLearningTip(Question q) {
+    if (_activeSubject == 'Tamil' || isTamilSection) {
+      return q.learningTipTa.isNotEmpty ? q.learningTipTa : q.learningTip;
+    }
+    return q.learningTip;
+  }
+
+  String displayExamTrick(Question q) {
+    if (_activeSubject == 'Tamil' || isTamilSection) {
+      return q.examTrickTa.isNotEmpty ? q.examTrickTa : q.examTrick;
+    }
+    return q.examTrick;
   }
 
   /// Hide EN/TA toggle inside monolingual Tamil & English hub flows.
@@ -386,6 +410,7 @@ class AppState extends ChangeNotifier {
 
     await fetchSubjects();
     await syncStatsWithBackend();
+    unawaited(syncPremiumEntitlement());
 
     _loading = false;
     notifyListeners();
@@ -438,6 +463,7 @@ class AppState extends ChangeNotifier {
     _contentLanguage = prefs.getString('content_language') ?? 'en';
     _whatsAppNumber = prefs.getString(_whatsAppNumberKey);
     _whatsAppCollected = prefs.getBool(_whatsAppCollectedKey) ?? false;
+    _isPremiumAspirant = prefs.getBool(_premiumKey) ?? false;
 
     // Release builds retire guest login: clear any persisted guest session so
     // the user must sign in with Google. Debug builds keep guest sessions.
@@ -473,6 +499,7 @@ class AppState extends ChangeNotifier {
     await prefs.setString('user_email', _userEmail);
     await prefs.setString('content_language', _contentLanguage);
     await prefs.setBool(_whatsAppCollectedKey, _whatsAppCollected);
+    await prefs.setBool(_premiumKey, _isPremiumAspirant);
     if (_whatsAppNumber != null && _whatsAppNumber!.isNotEmpty) {
       await prefs.setString(_whatsAppNumberKey, _whatsAppNumber!);
     } else {
@@ -623,6 +650,70 @@ class AppState extends ChangeNotifier {
     if (batchKey == null || batchKey.trim().isEmpty) return '';
     final match = RegExp(r'(\d+)').firstMatch(batchKey);
     return match?.group(1) ?? batchKey.trim().toLowerCase();
+  }
+
+  /// Sort practice batch keys the same way Topic Detail does (by numeric id).
+  List<String> sortPracticeBatchKeys(Iterable<String> keys) {
+    final list = keys.toList();
+    list.sort((a, b) {
+      final na = int.tryParse(normalizeBatchKey(a)) ?? 0;
+      final nb = int.tryParse(normalizeBatchKey(b)) ?? 0;
+      return na.compareTo(nb);
+    });
+    return list;
+  }
+
+  /// Free tier: only the first practice batch in a topic is unlocked.
+  /// Pass [sortedBatchKeys] when known; otherwise uses the active topic's first batch.
+  bool isPracticeBatchUnlocked(String batchKey, [List<String>? sortedBatchKeys]) {
+    if (_isPremiumAspirant) return true;
+    final first = (sortedBatchKeys != null && sortedBatchKeys.isNotEmpty)
+        ? normalizeBatchKey(sortedBatchKeys.first)
+        : (_activeTopicFirstBatchKey ?? '1');
+    if (first.isEmpty) return true;
+    final key = normalizeBatchKey(batchKey.isEmpty ? '1' : batchKey);
+    return key == first;
+  }
+
+  /// Call after loading a topic's practice batches (sorted ascending).
+  void setActiveTopicPracticeBatches(List<String> sortedBatchKeys) {
+    _activeTopicFirstBatchKey =
+        sortedBatchKeys.isEmpty ? null : normalizeBatchKey(sortedBatchKeys.first);
+  }
+
+  Future<void> setPremiumAspirant(bool value) async {
+    if (_isPremiumAspirant == value) return;
+    _isPremiumAspirant = value;
+    await saveLocalPreferences();
+    notifyListeners();
+    unawaited(_apiService.logEvent(_userEmail, value ? 'premium_enabled' : 'premium_disabled'));
+  }
+
+  Future<void> syncPremiumEntitlement() async {
+    if (!_isAuthenticated || _userEmail.isEmpty || _userEmail == 'test_user') return;
+    try {
+      final data = await _apiService.fetchEntitlement(userId: _userEmail);
+      if (data == null) return;
+      await applyEntitlement(data);
+    } catch (e) {
+      print('syncPremiumEntitlement: $e');
+    }
+  }
+
+  Future<void> applyEntitlement(Map<String, dynamic> data) async {
+    final active = data['is_premium'] == true || data['active'] == true;
+    final changed = _isPremiumAspirant != active;
+    _isPremiumAspirant = active;
+    _premiumExpiresAt = data['premium_expires_at']?.toString();
+    await saveLocalPreferences();
+    notifyListeners();
+    if (changed && active) {
+      unawaited(_apiService.logEvent(_userEmail, 'premium_enabled'));
+    }
+  }
+
+  Future<List<Map<String, dynamic>>> fetchSubscriptionPlans() {
+    return _apiService.getSubscriptionPlans(userId: _userEmail);
   }
 
   String _sessionBatchKey(HistoryEntry entry) {
@@ -1097,6 +1188,20 @@ class AppState extends ChangeNotifier {
     notifyListeners();
   }
 
+  void navigateToPremium() {
+    _activeScreen = 'premium';
+    notifyListeners();
+  }
+
+  void navigateBackFromPremium() {
+    if (_activeTopic != null) {
+      _activeScreen = 'topic_detail';
+    } else {
+      _activeScreen = 'profile';
+    }
+    notifyListeners();
+  }
+
   void navigateToResults() {
     _resultsReturnScreen = _activeTopic != null ? 'topic_detail' : 'home';
     _activeScreen = 'results';
@@ -1164,6 +1269,9 @@ class AppState extends ChangeNotifier {
       case 'profile':
         navigateToHome();
         return true;
+      case 'premium':
+        navigateBackFromPremium();
+        return true;
       case 'performance':
       case 'advisor':
         navigateToHome();
@@ -1194,6 +1302,16 @@ class AppState extends ChangeNotifier {
 
   // Start a new test
   void startQuiz(List<Question> questions, {bool timed = false}) {
+    // Hard gate: non-premium users may only start the first practice batch.
+    final practice = questions.where((q) => q.type.toLowerCase() != 'pyq').toList();
+    if (practice.isNotEmpty && !_isPremiumAspirant) {
+      final raw = practice.first.batch.trim().isEmpty ? '1' : practice.first.batch;
+      if (!isPracticeBatchUnlocked(raw)) {
+        debugPrint('Blocked startQuiz for locked batch $raw');
+        return;
+      }
+    }
+
     _quizQuestions = List.from(questions);
     _currentQuestionIndex = 0;
     _selectedAnswers.clear();

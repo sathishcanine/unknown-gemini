@@ -1,0 +1,27 @@
+{
+  "poem_id": "a_tragic_story",
+  "poem_title": "A Tragic Story",
+  "author": "William Makepeace Thackeray",
+  "num": 5,
+  "count": 1,
+  "questions": [
+    {
+      "poem_title": "A Tragic Story",
+      "poem_id": "a_tragic_story",
+      "question_en": "There lived a sage in days of yore, And he a handsome pigtail wore. These lines are taken from the poem",
+      "options_en": [
+        "Indian Seasons",
+        "A Tragic Story",
+        "Your Space",
+        "Lessons in Life"
+      ],
+      "answer_en": "B A Tragic Story",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    }
+  ]
+}

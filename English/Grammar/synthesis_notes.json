@@ -1,0 +1,1432 @@
+{
+  "subject_id": "English",
+  "menu": "synthesis_of_sentences",
+  "sources": [
+    "asan-remaining-grammar.pdf pp.[21, 22, 23, 24, 25, 26] (primary, vision)",
+    "Grammer.pdf pp.[357, 358, 359, 360, 361, 362, 363, 365] (primary)",
+    "Govt pp.[112, 113, 114, 115] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Combining a number of simple sentences into one new sentence is called as synthesis of sentences.",
+      "synthesis_topic": "overview",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "rule_en": "There are three types of synthesis of sentences: Combining of two or more simple sentences into a single Simple Sentence, a single Complex Sentence, or a single Compound Sentence.",
+      "synthesis_topic": "overview",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "rule_en": "A complex sentence is formed by joining two or more simple sentences with the help of subordinate conjunctions, while keeping the original meaning. It consists of a main clause and one or more subordinate clauses (Noun clause, Adjective clause, Adverb clause).",
+      "synthesis_topic": "overview",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Noun Clause can be used as the subject of a verb.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Noun Clause can be used as the object of a transitive verb.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Noun Clause can be used as the object of a preposition.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Noun Clause can be used as the complement of a verb.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Noun Clause can be used in apposition to a noun.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Adjective Clause qualifies the noun or pronoun. Subordinate conjunctions used: Who, whose, whom, which, of which, that, as, why, when, where.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Adverb Clause modifies a verb, adverb or an adjective in some other clause using time clause conjunctions like: while, when, as, as soon as, before, after, by the time, until, till, whenever, small, as long as.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "rule_en": "Condition Clause Conjunctions: if, unless, suppose, incase, on condition that, provided, i wish, i would, would that, if only.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "rule_en": "Purpose conjunctions: so that, lest, in order that, that.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "rule_en": "Place conjunctions: where, wherever.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "rule_en": "Result: use 'such' or 'so' to combine sentences.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "rule_en": "Reason: because, since, as, that, now that.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "rule_en": "Concession or Contrast: although, though, as, even if, however, whether, even though, no matter what, not withstanding that, much as, whatever.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "rule_en": "A compound sentence is formed by joining two or more simple sentences with the help of Co-ordinating conjunctions such as and, but, or, neither, nor, too, also, so, therefore, likewise, either...or, neither...nor, etc.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "rule_en": "Combine two or more simple sentences into one compound sentence using coordinating conjunctions.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "rule_en": "A Simple sentence is one which has only one Subject and one Predicate.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A Compound sentence is one made up of two or more Principal or Main Clauses.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A Complex sentence consists of one Main Clause and one or more Subordinate Clauses.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "rule_en": "A Simple sentence consists of only one Finite Verb.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "rule_en": "A Complex sentence has one Main Clause and one or more Subordinate Clauses.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "rule_en": "A Compound sentence has two Main Clauses combined by a Coordinating Conjunction.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "rule_en": "Compound sentences are formed by connecting two independent clauses using coordinating conjunctions like and, yet, or otherwise.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "rule_en": "A simple sentence has only one finite verb.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 361
+    },
+    {
+      "rule_en": "A simple sentence consists of exactly one independent clause containing one subject and one predicate.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "rule_en": "A simple sentence may contain subject complements, object complements, adverbial phrases, and non-finite verbs.",
+      "synthesis_topic": "overview",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "rule_en": "A phrase is a group of words without a finite verb that does not express a complete thought.",
+      "synthesis_topic": "using_phrases",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "rule_en": "A clause is a group of words containing a finite verb; a subordinate clause depends on a main clause to complete its meaning.",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "rule_en": "Two Main clauses connected by a conjunction form a compound sentence.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "rule_en": "Simple sentence: One finite verb, limited by person, number and tense; one subject and one predicate.",
+      "synthesis_topic": "overview",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "rule_en": "Compound sentence: More than one finite verb; two or more independent clauses connected by coordinate conjunctions (FANBOYS: for, and, not only but also, but, or, yet, still, so, otherwise, therefore).",
+      "synthesis_topic": "using_conjunctions",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "rule_en": "Complex sentence contains one independent clause and one or more dependent clauses connected using subordinate conjunctions or relative pronouns.",
+      "synthesis_topic": "using_clauses",
+      "source": "govt",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Transformation patterns for Simple (Inspite + V+ing), Compound (But/Yet/Still), and Complex (Though/Although/even though).",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Transformation patterns for Simple (In the event of/In case of/on+verb+ing), Compound (Or/not and/at once), and Complex (If/Unless/As soon as).",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Transformation patterns for Simple (Being), Compound (And/and so/Therefore), and Complex (As/Since/Because).",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Transformation patterns for Simple (As a result of/On account of/Because of/Due to/Owing to), Compound (And/and so/Therefore), and Complex (As/Since/Because).",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Too...to (Simple) | Very...and so (Compound) | So...that...can/could not (Complex)",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "rule_en": "In order to (Simple) | And so (Compound) | So that (Complex)",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "rule_en": "Besides + V+ing (Simple) | Not only...But also (Compound) | As well as (Complex)",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "rule_en": "Without + V+ing (Simple) | Must...Otherwise (Compound) | After (Complex)",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    }
+  ],
+  "examples": [
+    {
+      "input_en": "He look up. He pointed to the sky.",
+      "output_en": "Looking up, he pointed to the sky.",
+      "synthesis_topic": "using_participles",
+      "note_en": "Using present participle.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "He was tired of play. He sat down to rest.",
+      "output_en": "Tired of play, he sat down to rest.",
+      "synthesis_topic": "using_participles",
+      "note_en": "Using past participle.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "This is my friend. His name is Ramesh.",
+      "output_en": "This is my friend Ramesh.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using a Noun or a Phrase in Apposition.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "I spent two days in Chennai. It is one of the most busiest cities in India.",
+      "output_en": "I spent two days in Chennai, one of the most busiest cities in India.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using a Noun or a Phrase in Apposition.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "The moon rose. Their journey was not ended.",
+      "output_en": "The moon rose before the end of their journey.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using a Preposition with a Noun or Gerund.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "He has failed many times. He still hopes to succeed.",
+      "output_en": "In spite of many failures he hopes to succeed.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using a Preposition with a Noun or Gerund.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "Her husband died. She heard the news. She fainted.",
+      "output_en": "On hearing the news of her husband's death, she fainted.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using a Preposition with a Noun or Gerund.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "The soldiers arrived. The mob dispersed.",
+      "output_en": "The soldiers having arrived, the mob dispersed.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using the Nominative Absolute construction.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "The town was enclosed by a strong wall. The enemy was unable to capture it.",
+      "output_en": "The town having been enclosed by a strong wall, the enemy was unable to capture it.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Using the Nominative Absolute construction.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "I have some duties. I must perform them.",
+      "output_en": "I have some duties to perform.",
+      "synthesis_topic": "using_infinitives",
+      "note_en": "Using an Infinitive.",
+      "source": "asan",
+      "source_page": 22
+    },
+    {
+      "input_en": "It is certain. He will win the match.",
+      "output_en": "It is certain that he will win the match.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Subject of a verb",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "She believes it. He is honest.",
+      "output_en": "She believes that he is honest.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Object of a transitive verb",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "I don't believe. She said something.",
+      "output_en": "I don't believe in what she said.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Object of a preposition",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "The hope is. She will no do it again.",
+      "output_en": "The hope is that she will not do it again.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Complement of a verb",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "She made the claim. She had never seen him before.",
+      "output_en": "She made the claim that she had never seen him before.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Case in apposition to a noun",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "This is my pen. It is very costly.",
+      "output_en": "This is my pen which is very costly.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Adjective clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "I met your friend. His chain was stolen in the train.",
+      "output_en": "I met your friend whose chain was stolen in the train.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Adjective clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "The bell rang. The students entered the classroom.",
+      "output_en": "The students entered the classroom as soon as the bell rang.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Time Clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "He finished his work. He went out to play.",
+      "output_en": "He went out to play after he finished his work.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Time Clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "The guests arrived. We had already prepared dinner.",
+      "output_en": "We had already prepared dinner before the guests arrived.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Time Clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "She waited at the station. The train arrived.",
+      "output_en": "She waited at the station until the train arrived.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Time Clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "He was going to college. He was caught in the rain.",
+      "output_en": "He was caught in the rain while he was going to college.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Time Clause",
+      "source": "asan",
+      "source_page": 23
+    },
+    {
+      "input_en": "Work hard. You will fall otherwise.",
+      "output_en": "If you do not work hard, you will fail.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Condition clause using if",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "Obey the rules. You will be punished otherwise.",
+      "output_en": "If you do not obey the rules, you will be punished.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Condition clause using if",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "She will pass the exam. She studies well.",
+      "output_en": "She will pass the exam provided that she studies well.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Condition clause using provided that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He will go to the picnic. His parents must allow him.",
+      "output_en": "He will go to the picnic on condition that his parents allow him.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Condition clause using on condition that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He went to Delhi. He wanted to meet his mother.",
+      "output_en": "He went to Delhi so that he might meet his mother.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Purpose clause using so that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "She studies hard. She wants to pass the exam.",
+      "output_en": "She studies hard so that she may pass the exam.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Purpose clause using so that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He spoke softly. He didn't want to wake the baby.",
+      "output_en": "He spoke softly lest he should wake the baby.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Purpose clause using lest",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "We left early. We wanted to catch the train.",
+      "output_en": "We left early in order that we might catch the train.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Purpose clause using in order that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He lowered his voice. He didn't want anyone to hear him.",
+      "output_en": "He lowered his voice so that no one would hear him.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Purpose clause using so that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "This is the house. I was born here.",
+      "output_en": "This is the house where I was born.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Place clause using where",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "You can stay. You can stay anywhere.",
+      "output_en": "You can stay wherever you like.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Place clause using wherever",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "She goes to a park. She can relax there.",
+      "output_en": "She goes to a park where she can relax.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Place clause using where",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "I will follow you. You go anywhere.",
+      "output_en": "I will follow you wherever you go.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Place clause using wherever",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "The box was very heavy. I could not lift it.",
+      "output_en": "The box was so heavy that I could not lift it.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Result clause using so...that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He drove very fast. He soon overtook us.",
+      "output_en": "He drove so fast that he soon overtook us.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Result clause using so...that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "She spoke very softly. We could hardly hear her.",
+      "output_en": "She spoke so softly that we could hardly hear her.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Result clause using so...that",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He came late. He was punished.",
+      "output_en": "He was punished because he came late.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Reason clause using because",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He cannot go out. He is feeling sick.",
+      "output_en": "He cannot go out since he is feeling sick.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Reason clause using since",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "They left early. They had an important meeting.",
+      "output_en": "They left early as they had an important meeting.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Reason clause using as",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He tried his best. He could not win the race.",
+      "output_en": "However hard he tried, he could not win the race.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Contrast clause using however",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "He is very old. He can still run very fast.",
+      "output_en": "Although he is very old, he can run very fast.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Contrast clause using although",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "She is talented. She does not show off.",
+      "output_en": "Much as she is talented, she does not show off.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Contrast clause using much as",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "input_en": "She studied hard. She passed the exam.",
+      "output_en": "She studied hard, so she passed the exam.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Using coordinating conjunction 'so'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "I went to the mall. I saw a beautiful dress. I could not, however, purchase it.",
+      "output_en": "I went to the mall and saw a beautiful dress but could not purchase it.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunctions 'and' and 'but'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "He is weak. He is regular.",
+      "output_en": "He is slow but regular.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'but'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "Get in. You may catch cough. Get in or you may catch cough.",
+      "output_en": "Get in or you may catch cough.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'or'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "The sun was shining. It was very cold. The sun was shining, but it was very cold.",
+      "output_en": "The sun was shining, but it was very cold.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'but'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "You can have tea. You can have coffee. You can have either tea or coffee.",
+      "output_en": "You can have either tea or coffee.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'either...or'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "He didn't attend the class. He didn't submit his assignment. He neither attended the class nor submitted his assignment.",
+      "output_en": "He neither attended the class nor submitted his assignment.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'neither...nor'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "She is talented. She is hardworking. She is talented and hardworking.",
+      "output_en": "She is talented and hardworking.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'and'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "The train was delayed. We waited for an hour. The train was delayed, therefore we waited for an hour.",
+      "output_en": "The train was delayed, therefore we waited for an hour.",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "Using coordinating conjunction 'therefore'.",
+      "source": "asan",
+      "source_page": 25
+    },
+    {
+      "input_en": "His courage won him honour.",
+      "output_en": "His courage won him honour.",
+      "synthesis_topic": "overview",
+      "note_en": "Example of a Simple sentence.",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "input_en": "The moon was bright. We could see our way.",
+      "output_en": "The moon was bright and we could see our way.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Example of a Compound sentence using a coordinating conjunction.",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "input_en": "They rested. Evening came.",
+      "output_en": "They rested when evening came.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Example of a Complex sentence using a subordinate clause.",
+      "source": "grammer",
+      "source_page": 357
+    },
+    {
+      "input_en": "Ramu is too poor to buy a bicycle.",
+      "output_en": "Ramu is so poor that he cannot buy a bicycle.",
+      "synthesis_topic": "using_infinitives",
+      "note_en": "Transformation from simple to complex using 'too...to' and 'so...that'.",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "input_en": "Despite his old age, Raghav walked fast.",
+      "output_en": "Though Raghav was old, he walked fast.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Transformation from simple phrase to complex subordinate clause.",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "input_en": "In the event of not consulting a doctor, you cannot recover.",
+      "output_en": "Unless you consult a doctor, you cannot recover.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Transformation using conditional clause.",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "input_en": "On seeing the teacher, the children stood up.",
+      "output_en": "As soon as the children saw the teacher, they stood up.",
+      "synthesis_topic": "using_participles",
+      "note_en": "Transformation from prepositional phrase to complex clause.",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "input_en": "Due to a heavy downpour, the match was cancelled.",
+      "output_en": "As there was a heavy downpour, the match was cancelled.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Transformation from causal phrase to complex clause.",
+      "source": "grammer",
+      "source_page": 359
+    },
+    {
+      "input_en": "Ramu is very poor. He cannot buy a bicycle.",
+      "output_en": "Ramu is very poor and he cannot buy a bicycle.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Using conjunction 'and' to form a compound sentence.",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "input_en": "Raghav was old. He walked fast.",
+      "output_en": "Raghav was old yet he walked fast.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Using conjunction 'yet' to show contrast.",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "input_en": "You consult a doctor. You cannot recover.",
+      "output_en": "You consult a doctor otherwise you cannot recover.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Using conjunction 'otherwise' to indicate consequence.",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "input_en": "There is a solution to every problem.",
+      "output_en": "There is a solution to every problem.",
+      "synthesis_topic": "overview",
+      "note_en": "Example of a simple sentence.",
+      "source": "grammer",
+      "source_page": 361
+    },
+    {
+      "input_en": "Work with dedication, to achieve success.",
+      "output_en": "Work with dedication, to achieve success.",
+      "synthesis_topic": "using_infinitives",
+      "note_en": "Uses an infinitive phrase to express purpose.",
+      "source": "grammer",
+      "source_page": 361
+    },
+    {
+      "input_en": "In the event of your missing the bus, take a taxi.",
+      "output_en": "In the event of your missing the bus, take a taxi.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Uses a prepositional phrase for conditional meaning.",
+      "source": "grammer",
+      "source_page": 361
+    },
+    {
+      "input_en": "The Chief Guest arrived in great haste.",
+      "output_en": "The Chief Guest arrived in great haste.",
+      "synthesis_topic": "using_phrases",
+      "note_en": "Uses a prepositional phrase as an adverbial modifier.",
+      "source": "grammer",
+      "source_page": 361
+    },
+    {
+      "input_en": "I have lost the watch. You gave the watch to me.",
+      "output_en": "I have lost the watch that you gave me.",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Combining two simple sentences into a complex sentence using a subordinate clause.",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "input_en": "Honesty promotes character, and dishonesty destroys it.",
+      "output_en": "Honesty promotes character (Main clause I) + and (conjunction) + dishonesty destroys it (Main clause II).",
+      "synthesis_topic": "using_conjunctions",
+      "note_en": "This is a compound sentence structure.",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "input_en": "She completed her homework. She also worked on her project.",
+      "output_en": "She completed her homework and she also worked on her project.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "And indicates similar ideas.",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "input_en": "The road is long. I shall travel it.",
+      "output_en": "The road is long but I shall travel it.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "But indicates opposite ideas.",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "input_en": "He can film a documentary. He can make a short film.",
+      "output_en": "He can film a documentary or he can make a short film.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Or indicates equally important ideas.",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "input_en": "This novel is huge. You must take time to read it.",
+      "output_en": "This novel is huge, so you must take time to read it.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "So indicates results in continuation of ideas.",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "input_en": "He is famous. He is humble.",
+      "output_en": "He is famous yet he is humble.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Yet indicates opposite ideas.",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "input_en": "The thieves knocked the men. The thieves injured him.",
+      "output_en": "The thieves not only knocked the men but also injured him.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Use of correlative conjunctions.",
+      "source": "govt",
+      "source_page": 112
+    },
+    {
+      "input_en": "When he heard the news, he was astonished.",
+      "output_en": "When he heard the news (dependent clause), he was astonished (independent clause).",
+      "synthesis_topic": "using_clauses",
+      "note_en": "Example of a complex sentence using subordinate conjunction 'When'.",
+      "source": "govt",
+      "source_page": 113
+    },
+    {
+      "input_en": "The thief not only robbed the old man but also wounded him severely.",
+      "output_en": "The thief robbed as well as wounded the old man severely.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Transformation from Compound to Complex.",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "input_en": "Without completing your homework, you cannot go to play.",
+      "output_en": "Complete your homework and then you can go to play otherwise you cannot.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Transformation from Simple to Compound.",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "input_en": "Without completing your homework, you cannot go to play.",
+      "output_en": "After you had completed your homework you can go to play.",
+      "synthesis_topic": "combining_two_sentences",
+      "note_en": "Transformation from Simple to Complex.",
+      "source": "govt",
+      "source_page": 115
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "While he was going to college, he was caught in the rain.",
+      "answer_en": "While he was going to college, he was caught in the rain.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "prompt_en": "You help me. I will help you.",
+      "answer_en": "If you help me, I will help you.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "prompt_en": "It was raining. They went for a picnic.",
+      "answer_en": "Although it was raining, they went for a picnic.",
+      "synthesis_topic": "using_clauses",
+      "source": "asan",
+      "source_page": 24
+    },
+    {
+      "prompt_en": "He does well. He is nervous at the start.",
+      "answer_en": "He does well but he is nervous at the start.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "The way was long. The wind was cold.",
+      "answer_en": "The way was long and the wind was cold.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "It is raining heavily. I will take an umbrella with me.",
+      "answer_en": "It is raining heavily, so I will take an umbrella with me.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "The harvest truly is plenteous. The labourers are few.",
+      "answer_en": "The harvest truly is plenteous but the labourers are few.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "It was a stormy night. We ventured out.",
+      "answer_en": "It was a stormy night yet we ventured out.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "Football is a vigorous and healthy game. Every boy should play it.",
+      "answer_en": "Football is a vigorous and healthy game and every boy should play it.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "He is foolish. He is also obstinate.",
+      "answer_en": "He is foolish and he is also obstinate.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "I am in the right. You are in the wrong.",
+      "answer_en": "I am in the right and you are in the wrong.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "We can travel by land. We can travel by water.",
+      "answer_en": "We can travel by land or we can travel by water.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "The train was wrecked. No one was hurt.",
+      "answer_en": "The train was wrecked but no one was hurt.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "The paper is good. The binding is very bad.",
+      "answer_en": "The paper is good but the binding is very bad.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "The prince married the beautiful princess. They lived happily ever after.",
+      "answer_en": "The prince married the beautiful princess and they lived happily ever after.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "The river is deep and swift. I am afraid to dive into it.",
+      "answer_en": "The river is deep and swift, so I am afraid to dive into it.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "He was fined. He was sent to prison.",
+      "answer_en": "He was fined and he was sent to prison.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "asan",
+      "source_page": 26
+    },
+    {
+      "prompt_en": "1. Though he was poor, he was honest.",
+      "answer_en": "Complex sentence",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "2. I went because I was invited.",
+      "answer_en": "Complex sentence",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "3. Jancy returned home because she was tired.",
+      "answer_en": "Complex sentence",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "4. Whatever you do, do well.",
+      "answer_en": "Complex sentence",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "5. Listen carefully and take notes.",
+      "answer_en": "Compound sentence",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "6. I called him, but he gave me no answer.",
+      "answer_en": "Compound sentence",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "7. The town in which I live is very large.",
+      "answer_en": "Complex sentence",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "8. They always talk who never think.",
+      "answer_en": "Complex sentence",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "9. We must eat to live, but we should not live to eat.",
+      "answer_en": "Compound sentence",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "10. Govern your passions or they will govern you.",
+      "answer_en": "Compound sentence",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 358
+    },
+    {
+      "prompt_en": "On seeing the teacher, the children stood up. (into Complex)",
+      "answer_en": "When the children saw the teacher, they stood up.",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "At the age of six, Varsha started learning music. (into Complex)",
+      "answer_en": "When Varsha was six years old, she started learning music.",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "As Varun is a voracious reader, he buys a lot of books. (into Simple)",
+      "answer_en": "Being a voracious reader, Varun buys a lot of books.",
+      "synthesis_topic": "using_phrases",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "Walk carefully lest you will fall down. (into Complex)",
+      "answer_en": "If you do not walk carefully, you will fall down.",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "Besides being a dancer, she is a singer. (into Compound)",
+      "answer_en": "She is a dancer and she is a singer.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "He is sick but he attends the rehearsal. (into Simple)",
+      "answer_en": "Despite his sickness, he attends the rehearsal.",
+      "synthesis_topic": "using_phrases",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "If Meena reads more, she will become proficient in the language. (into Compound)",
+      "answer_en": "Meena must read more and she will become proficient in the language.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "He confessed that he was guilty. (into Simple)",
+      "answer_en": "He confessed his guilt.",
+      "synthesis_topic": "using_phrases",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "The boy could not attend the special classes due to his mother’s illness. (into Compound)",
+      "answer_en": "The boy’s mother was ill and he could not attend the special classes.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "He followed my suggestion. (into Complex)",
+      "answer_en": "He followed what I suggested.",
+      "synthesis_topic": "using_clauses",
+      "source": "grammer",
+      "source_page": 360
+    },
+    {
+      "prompt_en": "Identify finite verbs: The chairman being away, the clerk is unable to approve the proposal.",
+      "answer_en": "is",
+      "synthesis_topic": "using_phrases",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "prompt_en": "Identify finite verbs: Getting down from the car, the Chief Guest walked towards the dais.",
+      "answer_en": "walked",
+      "synthesis_topic": "using_participles",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "prompt_en": "Identify finite verbs: The sun having set, the temperature fell rapidly.",
+      "answer_en": "fell",
+      "synthesis_topic": "using_participles",
+      "source": "grammer",
+      "source_page": 362
+    },
+    {
+      "prompt_en": "Identify clauses: It started raining suddenly and people ran for shelter.",
+      "answer_en": "Main Clause 1: It started raining suddenly; Conjunction: and; Main Clause 2: people ran for shelter.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "prompt_en": "Identify clauses: Understand the concept well, otherwise you cannot solve the problem.",
+      "answer_en": "Main Clause 1: Understand the concept well; Conjunction: otherwise; Main Clause 2: you cannot solve the problem.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "prompt_en": "Identify clauses: Fifty candidates appeared for the interview, but only five were selected.",
+      "answer_en": "Main Clause 1: Fifty candidates appeared for the interview; Conjunction: but; Main Clause 2: only five were selected.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "prompt_en": "Identify clauses: Ramesh did not know Spanish, so he wanted a translator.",
+      "answer_en": "Main Clause 1: Ramesh did not know Spanish; Conjunction: so; Main Clause 2: he wanted a translator.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "prompt_en": "Identify clauses: He is a good actor, still he is not popular.",
+      "answer_en": "Main Clause 1: He is a good actor; Conjunction: still; Main Clause 2: he is not popular.",
+      "synthesis_topic": "using_conjunctions",
+      "source": "grammer",
+      "source_page": 363
+    },
+    {
+      "prompt_en": "I met a man at the party. He is the Chairman of a computer form.",
+      "answer_en": "I met the man who is the Chairman of a computer firm at the party.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 365
+    },
+    {
+      "prompt_en": "Mahatma Gandhi stood for Ahimsa. The whole world knows it.",
+      "answer_en": "The whole world knows that Mahatma Gandhi stood for Ahimsa.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 365
+    },
+    {
+      "prompt_en": "Concentrate on your strengths. You will reap success in your life.",
+      "answer_en": "If you concentrate on your strengths, you will reap success in your life.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 365
+    },
+    {
+      "prompt_en": "Consider all the facts once again. Then make your decision.",
+      "answer_en": "Consider all the facts once again before making your decision.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 365
+    },
+    {
+      "prompt_en": "A number of books are missing from the library. Measures should be taken to retrieve them.",
+      "answer_en": "Measures should be taken to retrieve a number of books that are missing from the library.",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "grammer",
+      "source_page": 365
+    },
+    {
+      "prompt_en": "Inspite of/Despite his poor performance, he got the job (Simple) | His performance was poor, but he got the job (Compound) | Though his performance was poor he got [the job] (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "In the event of your working hard, you will score very good marks (Simple) | Work hard and you will score very good marks (Compound) | If you work hard, you will score very good marks (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Being clever, she solved the problem easily (Simple) | She was clever and so she solved the problem easily (Compound) | As she was clever, she solved the problem easily (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "using_participles",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "In case of your walking fast, you will reach the station in time (Simple) | Walk fast and you will reach the station (Compound) | If you walk fast, you will reach the station (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "combining_two_sentences",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Due to heavy rain, the meeting was postponed (Simple) | It rained heavily & so the meeting was postponed (Compound) | As it rained heavily, the meeting was postponed (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "using_phrases",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "The coffee is too hot for me to drink (Simple) | The coffee is very hot and so I cannot drink (Compound) | The coffee is so hot that I cannot drink (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "using_infinitives",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "I work hard in order to become a successful businessman (Simple) | I work hard and so I can become a successful businessman (Compound) | I work hard so that I can become a successful businessman (Complex)",
+      "answer_en": "Sentence transformation across types",
+      "synthesis_topic": "using_infinitives",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Besides robbing the old man, the thief wounded him severely (Simple)",
+      "answer_en": "Simple sentence using participle phrase",
+      "synthesis_topic": "using_participles",
+      "source": "govt",
+      "source_page": 114
+    },
+    {
+      "prompt_en": "Being hardworking, she cleared the exam",
+      "answer_en": "Simple",
+      "synthesis_topic": "using_participles",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "As I broke my arm I had to go to the hospital",
+      "answer_en": "Complex",
+      "synthesis_topic": "using_clauses",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "I couldn’t walk and so I was taken in a wheel chair.",
+      "answer_en": "Compound",
+      "synthesis_topic": "using_conjunctions",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "It was too painful, to stay in bed.",
+      "answer_en": "Simple",
+      "synthesis_topic": "using_infinitives",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "As I regained my strength, I started playing again.",
+      "answer_en": "Complex",
+      "synthesis_topic": "using_clauses",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "I recovered in a month’s time and was discharged.",
+      "answer_en": "Compound",
+      "synthesis_topic": "using_conjunctions",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "Since they have planned everything, they feel relaxed.",
+      "answer_en": "Complex",
+      "synthesis_topic": "using_clauses",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "Choose challenging goals.",
+      "answer_en": "Simple",
+      "synthesis_topic": "other",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "Having planned everything, they feel relaxed.",
+      "answer_en": "Simple",
+      "synthesis_topic": "using_participles",
+      "source": "govt",
+      "source_page": 115
+    },
+    {
+      "prompt_en": "He was singing, though he had a sore throat.",
+      "answer_en": "Complex",
+      "synthesis_topic": "using_clauses",
+      "source": "govt",
+      "source_page": 115
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 42,
+      "examples": 80,
+      "worked_exercises": 68
+    },
+    "by_synthesis_topic": {
+      "overview": {
+        "rules": 13,
+        "examples": 2,
+        "worked": 0
+      },
+      "using_clauses": {
+        "rules": 15,
+        "examples": 38,
+        "worked": 17
+      },
+      "using_conjunctions": {
+        "rules": 5,
+        "examples": 9,
+        "worked": 25
+      },
+      "using_phrases": {
+        "rules": 1,
+        "examples": 11,
+        "worked": 5
+      },
+      "combining_two_sentences": {
+        "rules": 8,
+        "examples": 14,
+        "worked": 11
+      },
+      "using_participles": {
+        "rules": 0,
+        "examples": 3,
+        "worked": 6
+      },
+      "using_infinitives": {
+        "rules": 0,
+        "examples": 3,
+        "worked": 3
+      },
+      "other": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 1
+      }
+    }
+  }
+}

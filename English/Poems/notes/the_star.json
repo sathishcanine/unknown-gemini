@@ -1,0 +1,62 @@
+{
+  "poem_id": "the_star",
+  "poem_title": "The Star",
+  "author": "Jane Taylor",
+  "num": 24,
+  "pdf_pages": [
+    82,
+    82
+  ],
+  "poem_text_en": "Twinkle, twinkle, little star,\nHow I wonder what you are!\nUp above the world so high,\nLike a diamond in the sky.\nTwinkle, twinkle, little star,\nHow I wonder what you are!\nWhen the blazing sun is gone,\nWhen he nothing shines upon,\nThen you show your little light,\nTwinkle, twinkle, all the night.\nTwinkle, twinkle, little star,\nHow I wonder what you are!\nThen the traveller in the dark,\nThanks you for your tiny spark,\nHe could not see which way to go,\nIf you did not twinkle so.\nTwinkle, twinkle, little star,\nHow I wonder what you are!\nIn the dark blue sky you keep,\nAnd often through my curtains peep,\nFor you never shut your eye,\nTill the sun is in the sky.\nTwinkle, twinkle, little star,\nHow I wonder what you are!\nAs your bright and tiny spark,\nLights the traveller in the dark,\nThough I know not what you are,\nTwinkle, twinkle, little star.\nTwinkle, twinkle, little star,\nHow I wonder what you are!",
+  "summary_en": "The poem expresses the speaker's curiosity and wonder about the nature of a star high above in the sky. It describes how the star provides light to travelers in the dark night and remains visible until the sun rises. The poem highlights the beauty and guiding presence of the star in the night sky.",
+  "glossary": [
+    {
+      "word_en": "Blazing",
+      "meaning_en": "Burning brightly."
+    },
+    {
+      "word_en": "Traveller",
+      "meaning_en": "A person who is travelling."
+    },
+    {
+      "word_en": "Spark",
+      "meaning_en": "A small fiery particle."
+    },
+    {
+      "word_en": "Peep",
+      "meaning_en": "Look quickly and secretly."
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Simile",
+      "example_en": "Like a diamond in the sky.",
+      "note_en": "The star is compared to a diamond using the word 'like'."
+    },
+    {
+      "device_en": "Personification",
+      "example_en": "And often through my curtains peep,",
+      "note_en": "The star is given the human attribute of peeping."
+    },
+    {
+      "device_en": "Personification",
+      "example_en": "For you never shut your eye,",
+      "note_en": "The star is described as having an eye, which is a human feature."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poem 'The Star' is written by Jane Taylor.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The star is compared to a diamond.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The star serves as a guide for the traveller in the dark.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": []
+}

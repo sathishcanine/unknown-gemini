@@ -1,0 +1,98 @@
+{
+  "prose_id": "the_wind_on_haunted_hill",
+  "prose_title": "The Wind on Haunted Hill",
+  "author": "Ruskin Bond",
+  "num": 25,
+  "pdf_pages": [
+    505,
+    521
+  ],
+  "prose_text_en": "The story follows a young girl named Usha who lives in a village near the Himalayan hills. While returning from the bazaar during a severe storm, she is forced to take shelter in the ruins on Haunted Hill. The ruins were supposedly haunted by the spirits of two children killed by lightning a century ago. During the dark, stormy night, Usha encounters a 'wild cat' which she initially fears is a ghost, before realizing the reality of her surroundings.",
+  "summary_en": "Ruskin Bond's 'The Wind on Haunted Hill' depicts the journey of a young girl, Usha, who must navigate a storm and find refuge in ruins rumored to be haunted. The story captures the atmosphere of the Himalayan landscape and explores the courage of a child facing her fears. Through vivid imagery of the wind and the ruins, the narrative highlights themes of nature's power and overcoming superstition.",
+  "characters": [
+    {
+      "name_en": "Usha",
+      "role_en": "The protagonist, a brave girl of 11 or 12 living in a mountain village."
+    },
+    {
+      "name_en": "Suresh",
+      "role_en": "Usha's younger brother, aged eight."
+    },
+    {
+      "name_en": "Binya",
+      "role_en": "Usha's friend and neighbor."
+    },
+    {
+      "name_en": "Grandfather",
+      "role_en": "Usha's elder family member who tells stories about the ghosts on the hill."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Moaned",
+      "meaning_en": "Made a long, low sound"
+    },
+    {
+      "word_en": "Haunted",
+      "meaning_en": "Possessed (by ghosts/spirits)"
+    },
+    {
+      "word_en": "Ruins",
+      "meaning_en": "Decayed, collapsed building or place"
+    },
+    {
+      "word_en": "Saddle",
+      "meaning_en": "Low point on a ridge between two summits"
+    },
+    {
+      "word_en": "Scuttled",
+      "meaning_en": "Ran with short quick steps"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Ruskin Bond.",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Title: The Wind on Haunted Hill.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "Setting: A village in the Himalayan hills.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Theme: Courage, nature, and the contrast between superstition and reality.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Grandfather's lore: The ghosts on the hill were two English children killed by lightning a century ago.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "When Usha looked out of the window, dark clouds ________ (gather) over the mountains. (Fill in with Past Perfect)",
+      "answer_en": "had gathered",
+      "options_en": [
+        "gathered",
+        "had gathered",
+        "has gathered",
+        "were gathering"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "All was dark again. Night ________ (fall). (Fill in with Past Perfect)",
+      "answer_en": "had fallen",
+      "options_en": [
+        "fell",
+        "had fallen",
+        "has fallen",
+        "was falling"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

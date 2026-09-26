@@ -1,0 +1,964 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "correct_usage",
+  "sources": [
+    "Vetrii Vocabulary pp.[116, 117, 118, 119, 120, 121, 122, 123] (primary, vision)",
+    "Grammer.pdf pp.[153, 157] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Correct usage of words involves choosing and applying them properly within their context, taking into account their meaning to ensure both clarity and precision.",
+      "cu_tag": "definition",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "rule_en": "The word 'gloomy' refers to something dark, depressing, or lacking cheerfulness.",
+      "cu_tag": "definition",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "rule_en": "The word 'ajar' means slightly open or not completely closed.",
+      "cu_tag": "definition",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "rule_en": "The word 'coax' means to persuade or gently encourage someone or something to do something, often with patience or flattery.",
+      "cu_tag": "definition",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "rule_en": "The word 'spare' means extra.",
+      "cu_tag": "definition",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Stake can refer to a claim, risk, or interest in something. It is used to assert ownership or vested interest.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 118
+    },
+    {
+      "rule_en": "Cranky generally refers to a person or animal exhibiting irritability or strange behavior; it is not used to describe the physical condition of inanimate objects.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 118
+    },
+    {
+      "rule_en": "Frail refers to being weak or fragile, either physically or metaphorically (e.g., a weak argument). It does not describe the structural integrity of heavy-duty objects.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 118
+    },
+    {
+      "rule_en": "When 'chap' refers to skin, it means it has become rough, cracked, and sore, often due to exposure to cold or dryness.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "rule_en": "'Holler' means to shout loudly; it is a vocal action, not a physical tool.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "rule_en": "'Clamorous' describes a loud and confused noise; it cannot be used to describe silence, which is the absence of noise.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "rule_en": "'Ingratiating' describes behavior intended to charm or please someone to gain advantage, not the physical quality of a building.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "rule_en": "The word 'anon' is an archaic word meaning soon or shortly. It can also be used as a pseudonym for an anonymous person.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 123
+    },
+    {
+      "rule_en": "The word 'pragmatic' means dealing with things sensibly and realistically in a way that is based on practical considerations rather than theoretical ones.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 123
+    },
+    {
+      "rule_en": "The word 'depict' means to show or represent by a drawing, painting, or other visual medium; or to describe something in words.",
+      "cu_tag": "meaning",
+      "source": "vetrii",
+      "source_page": 123
+    },
+    {
+      "rule_en": "Homophones are words that sound the same but have different spellings and meanings.",
+      "cu_tag": "definition",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "rule_en": "Homophones are words that sound alike but are different in spelling and meaning.",
+      "cu_tag": "definition",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "rule_en": "Confusables are words that are commonly confused with one another in meaning or usage because of slight similarities in spelling, pronunciation or meaning.",
+      "cu_tag": "definition",
+      "source": "grammer",
+      "source_page": 157
+    }
+  ],
+  "examples": [
+    {
+      "word_en": "verge",
+      "meaning_en": "the edge, brink, or threshold of something",
+      "correct_en": "She was on the verge of tears after hearing the news. / The car stopped at the verge of the road to let the passengers out.",
+      "wrong_en": "He used a verge to measure the length of the table.",
+      "note_en": "'Verge' is not used to describe a measuring tool.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "word_en": "daintily",
+      "meaning_en": "doing something delicately, gracefully, or with careful attention to detail",
+      "correct_en": "She daintily arranged the flowers in the vase, ensuring each petal was perfectly placed. / The child ate the cake daintily, taking small bites and wiping her mouth with a napkin.",
+      "wrong_en": "He daintily lifted the heavy box and carried it across the room.",
+      "note_en": "Lifting a heavy box cannot be done delicately or gracefully.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "word_en": "gloomy",
+      "meaning_en": "dark or poorly lit; feeling distressed or pessimistic",
+      "correct_en": "The sky looked gloomy as dark clouds gathered before the storm. / He felt gloomy after receiving the disappointing news.",
+      "wrong_en": "The room was gloomy, filled with bright sunlight streaming through the windows.",
+      "note_en": "Gloomy is inappropriate to describe a room filled with bright sunlight.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "word_en": "ajar",
+      "meaning_en": "slightly open or not completely closed",
+      "correct_en": "The door was left ajar, allowing a sliver of light to enter the room. He kept the window ajar to let the cool breeze flow in.",
+      "wrong_en": "The box was ajar, completely sealed and locked tightly.",
+      "note_en": "Ajar cannot describe something that is completely sealed and locked.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "word_en": "coax",
+      "meaning_en": "to persuade or gently encourage someone or something to do something",
+      "correct_en": "She tried to coax the cat out from under the bed with a treat. He coaxed the old car to start by turning the key gently and patiently.",
+      "wrong_en": "The strong wind coaxed the leaves off the trees during the storm.",
+      "note_en": "Coax does not describe the forceful action of the wind during a storm.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "word_en": "spare",
+      "meaning_en": "extra",
+      "correct_en": "I keep a spare tire in the trunk in case of emergencies.",
+      "wrong_en": "The spare room was decorated with bright colors and comfortable furniture. The necklace was spare and plain, without any ornamentation.",
+      "note_en": "Spare in this context refers to something kept for emergencies; it does not mean an additional room nor plain/simple.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 117
+    },
+    {
+      "word_en": "Stake",
+      "meaning_en": "Claim, risk, or interest in something",
+      "correct_en": "He decided to stake his claim on the land he had worked for years.",
+      "wrong_en": "The children played with wooden stakes in the backyard.",
+      "note_en": "Sentence B is incorrect because while 'stakes' can refer to physical objects, it does not convey the meaning of having an interest or claim in a situation.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 118
+    },
+    {
+      "word_en": "Cranky",
+      "meaning_en": "Strange behavior or irritable disposition",
+      "correct_en": "She was feeling cranky after a sleepless night and snapped at her coworkers.",
+      "wrong_en": "The mechanic explained that the car's engine wasn't working because it was cranky.",
+      "note_en": "Sentence C is incorrect because cranky does not describe mechanical failure; it applies to people or sometimes animals.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 118
+    },
+    {
+      "word_en": "Frail",
+      "meaning_en": "Weak or fragile (physically or metaphorically)",
+      "correct_en": "His frail argument was filled with logical gaps and inconsistencies.",
+      "wrong_en": "The metal chain was frail, making it suitable for holding heavy objects.",
+      "note_en": "Sentence C is incorrect because 'frail' does not describe the strength of objects like metal chains; 'strong' or 'sturdy' would be expected.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 118
+    },
+    {
+      "word_en": "inculcate",
+      "meaning_en": "to instill an idea, habit, or attitude by persistent instruction and repetition.",
+      "correct_en": "The teacher tried to inculcate a love of reading in her students by sharing engaging stories.",
+      "wrong_en": "He attempted to inculcate the rusty metal to prevent further corrosion.",
+      "note_en": "Inculcate is used for instilling habits or ideas, not for treating physical objects.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "word_en": "mortified",
+      "meaning_en": "extremely embarrassed or ashamed.",
+      "correct_en": "She was mortified when she realized she had called her boss by the wrong name.",
+      "wrong_en": "He felt mortified after receiving a promotion and a significant raise.",
+      "note_en": "Mortified describes feeling embarrassment or shame; it does not fit positive experiences like promotions.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "word_en": "foyer",
+      "meaning_en": "an entrance hall or reception area in a house or building.",
+      "correct_en": "The grand foyer of the hotel featured a sweeping staircase and a crystal chandelier.",
+      "wrong_en": "He used a foyer to carefully aim and strike the bowling pins.",
+      "note_en": "A foyer is an architectural part of a building, not a tool.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "word_en": "chap",
+      "meaning_en": "a crack in the skin (usually lips) or a man/boy (informal).",
+      "correct_en": "The cold wind caused a painful chap on her cheek; Applying lip balm can help soothe and heal chapped lips.",
+      "wrong_en": null,
+      "note_en": "Chap can refer to cracked skin or, colloquially, a person.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "word_en": "Holler",
+      "meaning_en": "To shout loudly",
+      "correct_en": "From across the field, he could hear his friend holler his name.",
+      "wrong_en": "The carpenter used a holler to carve intricate designs into the wood.",
+      "note_en": "Used correctly as a vocal action in A and C.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "word_en": "Clamorous",
+      "meaning_en": "Loud and confused noise",
+      "correct_en": "The clamorous crowd protested loudly outside the government building.",
+      "wrong_en": "She appreciated the clamorous silence of the early morning before anyone else awoke.",
+      "note_en": "'Clamorous silence' is a contradiction in terms.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "word_en": "Ingratiating",
+      "meaning_en": "Behavior intended to charm or please to gain advantage",
+      "correct_en": "His ingratiating smile and compliments were clearly aimed at winning favour with the boss.",
+      "wrong_en": "The old, ingratiating building had stood for centuries, a testament to solid construction.",
+      "note_en": "Cannot be used to describe an inanimate object like a building.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "word_en": "Remnant",
+      "meaning_en": "a small remaining quantity of something",
+      "correct_en": "A small remnant of the original forest survived the wildfire. She used a remnant of silk fabric to mend the tear in her dress.",
+      "wrong_en": "The chef added a remnant of salt to enhance the flavour of the soup.",
+      "note_en": "Remnant refers to a small part of something larger or previously existing as a whole, not just a small quantity added as an ingredient.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 121
+    },
+    {
+      "word_en": "Tarry",
+      "meaning_en": "to wait or linger",
+      "correct_en": "They decided to tarry a while longer at the cozy cafe. He didn't want to tarry on the difficult problem, hoping for a simpler solution later.",
+      "wrong_en": "The sticky tarry substance coated the old wooden fence.",
+      "note_en": "Tarry means to wait. It is used incorrectly when describing something having the qualities of tar (a dark, sticky substance).",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 121
+    },
+    {
+      "word_en": "Pious",
+      "meaning_en": "devoutly religious or making a hypocritical display of virtue",
+      "correct_en": "She was known for her pious devotion to her faith, attending services regularly and volunteering her time. He offered a pious explanation for his actions, attempting to appear morally upright.",
+      "wrong_en": "The antique furniture was a pious example of 18th-century craftsmanship.",
+      "note_en": "Pious relates to religious devotion or feigned morality, not the quality of an object. A more suitable word for the incorrect sentence would be 'fine' or 'exquisite'.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 121
+    },
+    {
+      "word_en": "amiss",
+      "meaning_en": "not quite right; inappropriate or out of place",
+      "correct_en": "Finding the door unlocked, she sensed that something was amiss in the house.",
+      "wrong_en": "The chef added a dash of chili powder, not wanting the dish to taste amiss.",
+      "note_en": "Sentence B is incorrect because 'amiss' doesn't fit the context of food taste; the chef would want to avoid the dish tasting bad or unpleasant.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "word_en": "prosaic",
+      "meaning_en": "dull; matter-of-fact or unimaginative",
+      "correct_en": "The poet sought inspiration to move beyond the prosaic realities of everyday life.",
+      "wrong_en": "The vibrant colors and intricate details of the painting were anything but prosaic.",
+      "note_en": "Sentence C is incorrect because the vividness of the painting contrasts with the meaning of 'prosaic'.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "word_en": "perils",
+      "meaning_en": "serious and immediate danger",
+      "correct_en": "The experienced sailor understood the perils of navigating through a hurricane.",
+      "wrong_en": "She carefully organized her spices, storing each one in separate perils.",
+      "note_en": "Sentence B is incorrect; 'perils' is not a container. A more appropriate word would be 'jars' or 'containers'.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "word_en": "drawl",
+      "meaning_en": "a slow, lazy way of speaking or an accent characterized by elongated vowels",
+      "correct_en": "The speaker's slow drawl made it difficult for the audience to stay focused.",
+      "wrong_en": "She used a precise drawl to create the intricate patterns in the fabric.",
+      "note_en": "Sentence B is incorrect as 'drawl' refers to speech, not a physical tool for sewing.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "word_en": "Anon",
+      "meaning_en": "Soon or shortly / Pseudonym",
+      "correct_en": "The guest promised to arrive anon, much to the host's relief. He signed the letter 'Anon' to keep his identity secret.",
+      "wrong_en": "The old manuscript was written in a style that felt quite anon and formal.",
+      "note_en": "Sentence C is incorrect; 'anon' doesn't describe a writing style.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 123
+    },
+    {
+      "word_en": "Pragmatic",
+      "meaning_en": "Dealing with things sensibly and realistically",
+      "correct_en": "Despite the idealistic proposals, the committee adopted a more pragmatic approach to the budget. She offered a pragmatic solution to the problem, focusing on what was achievable rather than perfect.",
+      "wrong_en": "The intricate and ornate decorations were a testament to the artist's pragmatic sensibilities.",
+      "note_en": "Sentence B is incorrect because 'pragmatic' relates to practicality and realism, not usually to ornate or intricate artistic styles.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 123
+    },
+    {
+      "word_en": "Depict",
+      "meaning_en": "To show or represent by drawing/painting or description",
+      "correct_en": "The artist used vibrant colours to depict the beauty of the sunset. The scientist aimed to depict the complex molecular structure using a 3D model.",
+      "wrong_en": "He tried to depict the heavy box across the room, but it was too heavy.",
+      "note_en": "Sentence C is incorrect because 'depict' is about representation, not physically moving something.",
+      "cu_tag": "usage",
+      "source": "vetrii",
+      "source_page": 123
+    },
+    {
+      "word_en": "brake / break",
+      "meaning_en": "brake: stop mechanism; break: shatter or interval",
+      "correct_en": "I need a break / Apply the brake",
+      "wrong_en": "I need a brake / Apply the break",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "waste / waist",
+      "meaning_en": "waste: misuse; waist: part of the human body",
+      "correct_en": "Waste resources / Belt around waist",
+      "wrong_en": "Waist resources / Belt around waste",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "principle / principal",
+      "meaning_en": "principle: rule/belief; principal: main/chief",
+      "correct_en": "Principal element / Same principle",
+      "wrong_en": "Principle element / Same principal",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "bread / bred",
+      "meaning_en": "bread: food item; bred: reared/trained",
+      "correct_en": "Toasted bread / Turtles bred",
+      "wrong_en": "Toasted bred / Turtles bread",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "lesson / lessen",
+      "meaning_en": "lesson: unit of study; lessen: to reduce",
+      "correct_en": "Lessen pain / Learnt a lesson",
+      "wrong_en": "Lesson pain / Learnt a lessen",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "pale / pail",
+      "meaning_en": "pale: light in color; pail: a bucket",
+      "correct_en": "Looks pale / Pail of water",
+      "wrong_en": "Looks pail / Pale of water",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "through / threw",
+      "meaning_en": "through: moving in one side and out the other; threw: past tense of throw",
+      "correct_en": "Passed through / Threw the peel",
+      "wrong_en": "Passed threw / Through the peel",
+      "note_en": "Confusable homophones",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_en": "emigrate - immigrate",
+      "meaning_en": "emigrate: to leave one's country to settle in another; immigrate: to come to live permanently in a foreign country",
+      "correct_en": "He decided to emigrate to Canada. Many people immigrate to this country every year.",
+      "wrong_en": null,
+      "note_en": "Distinction between exiting vs entering a country.",
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "beside - besides",
+      "meaning_en": "beside: by the side of; besides: in addition to",
+      "correct_en": "He sat beside her. Besides his salary, he gets a bonus.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "judicial - judicious",
+      "meaning_en": "judicial: relating to a court or judge; judicious: having or showing good judgment",
+      "correct_en": "The matter is under judicial review. He made a judicious choice.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "eligible - illegible",
+      "meaning_en": "eligible: qualified for something; illegible: not clear enough to be read",
+      "correct_en": "She is eligible for the post. His handwriting is illegible.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "conscience - conscious",
+      "meaning_en": "conscience: sense of right and wrong; conscious: aware of one's surroundings",
+      "correct_en": "His conscience bothered him. She was conscious of the noise.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "industrial - industrious",
+      "meaning_en": "industrial: relating to industry; industrious: hard-working",
+      "correct_en": "This is an industrial area. She is an industrious student.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "eminent - imminent",
+      "meaning_en": "eminent: famous/respected; imminent: about to happen",
+      "correct_en": "He is an eminent scientist. Danger was imminent.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "illicit - elicit",
+      "meaning_en": "illicit: illegal; elicit: to draw out a response",
+      "correct_en": "They were arrested for illicit trade. The speaker tried to elicit applause.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "prescribed - proscribed",
+      "meaning_en": "prescribed: advised/recommended; proscribed: forbidden",
+      "correct_en": "The doctor prescribed medicine. The practice is proscribed by law.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "affect - effect",
+      "meaning_en": "affect: to influence; effect: result",
+      "correct_en": "Pollution affects the climate. The effect of the medicine was quick.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "aural - oral",
+      "meaning_en": "aural: relating to the ear or hearing; oral: relating to the mouth or spoken",
+      "correct_en": "Aural tests are conducted. He gave an oral presentation.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    },
+    {
+      "word_en": "born - borne",
+      "meaning_en": "born: existing from birth; borne: carried or endured",
+      "correct_en": "He was born in India. The costs were borne by the company.",
+      "wrong_en": null,
+      "note_en": null,
+      "cu_tag": "confusable",
+      "source": "grammer",
+      "source_page": 157
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "1. Verge \nA. She was on the verge of tears after hearing the news.\nB. The car stopped at the verge of the road to let the passengers out.\nC. He used a verge to measure the length of the table.",
+      "answer_en": "A & B",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & B"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "prompt_en": "2. Daintily \nA. She daintily arranged the flowers in the vase, ensuring each petal was perfectly placed.\nB. He daintily lifted the heavy box and carried it across the room.\nC. The child ate the cake daintily, taking small bites and wiping her mouth with a napkin.",
+      "answer_en": "A & C",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & C"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "prompt_en": "3. Gloomy \nA. The sky looked gloomy as dark clouds gathered before the storm.\nB. He felt gloomy after receiving the disappointing news.\nC. The room was gloomy, filled with bright sunlight streaming through the windows.",
+      "answer_en": "A & B",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & B"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 116
+    },
+    {
+      "prompt_en": "Choose the correct sentences using 'inculcate': A. The teacher tried to inculcate a love of reading. B. He attempted to inculcate the rusty metal. C. Through repeated practice, she aimed to inculcate the correct techniques.",
+      "answer_en": "A & C",
+      "options_en": [
+        "A & B",
+        "A & C",
+        "B & C",
+        "All"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "prompt_en": "Choose the correct sentences using 'mortified': A. She was mortified when she realized she had called her boss by the wrong name. B. The old house stood mortified by years of neglect. C. He felt mortified after receiving a promotion.",
+      "answer_en": "A & B",
+      "options_en": [
+        "A & B",
+        "A & C",
+        "B & C",
+        "All"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "prompt_en": "Choose the correct sentences using 'foyer': A. The grand foyer of the hotel featured a staircase. B. They decided to build a small foyer onto the back of their house. C. He used a foyer to aim and strike the bowling pins.",
+      "answer_en": "A & B",
+      "options_en": [
+        "A & B",
+        "A & C",
+        "B & C",
+        "All"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 119
+    },
+    {
+      "prompt_en": "Which sentences use 'Holler' correctly? A. From across the field, he could hear his friend holler his name. B. The carpenter used a holler to carve intricate designs into the wood. C. She gave a holler of laughter when she heard the surprising news.",
+      "answer_en": "A & C",
+      "options_en": [],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "prompt_en": "Which sentences use 'Clamorous' correctly? A. The clamorous crowd protested loudly outside the government building. B. She appreciated the clamorous silence of the early morning before anyone else awoke. C. The construction workers used a clamorous machine to break up the old concrete.",
+      "answer_en": "A & C",
+      "options_en": [],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "prompt_en": "Which sentences use 'Ingratiating' correctly? A. His ingratiating smile and compliments were clearly aimed at winning favour with the boss. B. The old, ingratiating building had stood for centuries, a testament to solid construction. C. She found his constant attempts to be helpful rather ingratiating and insincere.",
+      "answer_en": "A & C",
+      "options_en": [],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "prompt_en": "Which sentences use 'Vindictive' correctly? A. After being unfairly fired, he made several vindictive phone calls to his former boss. B. The old, vindictive tree provided a welcome shade on the hot summer day. C. Her vindictive actions were motivated by a deep-seated desire for revenge.",
+      "answer_en": "A & C",
+      "options_en": [],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 120
+    },
+    {
+      "prompt_en": "Which sentences correctly use the word 'Remnant'?",
+      "answer_en": "A & B",
+      "options_en": [
+        "A. A small remnant of the original forest survived the wildfire.",
+        "B. She used a remnant of silk fabric to mend the tear in her dress.",
+        "C. The chef added a remnant of salt to enhance the flavour of the soup."
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 121
+    },
+    {
+      "prompt_en": "Which sentences correctly use the word 'Tarry'?",
+      "answer_en": "A & C",
+      "options_en": [
+        "A. They decided to tarry a while longer at the cozy cafe.",
+        "B. The sticky tarry substance coated the old wooden fence.",
+        "C. He didn't want to tarry on the difficult problem, hoping for a simpler solution later."
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 121
+    },
+    {
+      "prompt_en": "Which sentences correctly use the word 'Pious'?",
+      "answer_en": "A & C",
+      "options_en": [
+        "A. She was known for her pious devotion to her faith, attending services regularly and volunteering her time.",
+        "B. The antique furniture was a pious example of 18th-century craftsmanship.",
+        "C. He offered a pious explanation for his actions, attempting to appear morally upright."
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 121
+    },
+    {
+      "prompt_en": "Identify the correct usage of 'amiss': A. Finding the door unlocked, she sensed that something was amiss in the house. B. The chef added a dash of chili powder, not wanting the dish to taste amiss. C. He felt a strange sense of amiss as he walked down the deserted street late at night.",
+      "answer_en": "A & C",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & C"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "prompt_en": "Identify the correct usage of 'prosaic': A. The poet sought inspiration to move beyond the prosaic realities of everyday life. B. His writing style was deliberately prosaic, focusing on clear and straightforward language. C. The vibrant colors and intricate details of the painting were anything but prosaic.",
+      "answer_en": "A & B",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & B"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "prompt_en": "Identify the correct usage of 'perils': A. The experienced sailor understood the perils of navigating through a hurricane. B. She carefully organized her spices, storing each one in separate perils. C. Despite the obvious perils, they decided to hike the treacherous mountain trail.",
+      "answer_en": "A & C",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & C"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "prompt_en": "Identify the correct usage of 'drawl': A. The speaker's slow drawl made it difficult for the audience to stay focused. B. She used a precise drawl to create the intricate patterns in the fabric. C. With a Southern drawl, he told stories of his childhood on the farm.",
+      "answer_en": "A & C",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "A & C"
+      ],
+      "cu_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 477
+    },
+    {
+      "prompt_en": "We have a short ___________ between the sessions. (brake / break)",
+      "answer_en": "break",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "The car skidded to a halt when I applied the ___________. (brake / break)",
+      "answer_en": "brake",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Shivani wears a belt around her ___________. (waste / waist)",
+      "answer_en": "waist",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "We should never misuse or ___________ natural resources. (waste / waist)",
+      "answer_en": "waste",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Oxygen is the ___________ element present in the earth’s crust. (principle / principal)",
+      "answer_en": "principal",
+      "options_en": [
+        "principle",
+        "principal"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Both these machines work on the same ___________. (principle / principal)",
+      "answer_en": "principle",
+      "options_en": [
+        "principle",
+        "principal"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Turtles should be ___________ in a healthy environment. (bread / bred)",
+      "answer_en": "bred",
+      "options_en": [
+        "bread",
+        "bred"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "I like to have toasted ___________ for breakfast. (bread / bred)",
+      "answer_en": "bread",
+      "options_en": [
+        "bread",
+        "bred"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "This medicine will ___________ your pain. (lesson / lessen)",
+      "answer_en": "lessen",
+      "options_en": [
+        "lesson",
+        "lessen"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Finally, the manager learnt a ___________ the hard way. (lesson / lessen)",
+      "answer_en": "lesson",
+      "options_en": [
+        "lesson",
+        "lessen"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "The child looks very sick and ___________. (pale / pail)",
+      "answer_en": "pale",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "I need a ___________ of water to wash these cups. (pale / pail)",
+      "answer_en": "pail",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Ravi picked the banana peel and ___________ it in the dustbin. (through / threw)",
+      "answer_en": "threw",
+      "options_en": [
+        "through",
+        "threw"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "The soldiers had to pass ___________ a dark tunnel. (through / threw)",
+      "answer_en": "through",
+      "options_en": [
+        "through",
+        "threw"
+      ],
+      "cu_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 18,
+      "examples": 45,
+      "worked_exercises": 31
+    },
+    "by_cu_tag": {
+      "definition": {
+        "rules": 8,
+        "examples": 0,
+        "worked": 0
+      },
+      "meaning": {
+        "rules": 10,
+        "examples": 0,
+        "worked": 0
+      },
+      "usage": {
+        "rules": 0,
+        "examples": 26,
+        "worked": 0
+      },
+      "confusable": {
+        "rules": 0,
+        "examples": 19,
+        "worked": 0
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 17
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 14
+      }
+    }
+  }
+}

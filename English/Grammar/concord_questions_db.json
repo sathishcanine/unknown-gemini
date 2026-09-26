@@ -1,0 +1,2302 @@
+[
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb to fill in the blank: Each of the boys ___ given a prize.",
+    "question_ta": "Choose the correct verb to fill in the blank: Each of the boys ___ given a prize.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Nouns connected with each of, either of, neither of take a singular verb. (Rule R22)",
+    "explanation_ta": "Nouns connected with each of, either of, neither of take a singular verb. (Rule R22)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct sentence regarding subject-verb agreement:",
+    "question_ta": "Identify the correct sentence regarding subject-verb agreement:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mathematics are my favourite subject.",
+        "text_ta": "Mathematics are my favourite subject."
+      },
+      {
+        "key": "B",
+        "text_en": "Mathematics is my favourite subject.",
+        "text_ta": "Mathematics is my favourite subject."
+      },
+      {
+        "key": "C",
+        "text_en": "Mathematics were my favourite subject.",
+        "text_ta": "Mathematics were my favourite subject."
+      },
+      {
+        "key": "D",
+        "text_en": "Mathematics have been my favourite subject.",
+        "text_ta": "Mathematics have been my favourite subject."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Subject names ending in 's' like Mathematics are treated as singular subjects and take a singular verb. (Rule R2)",
+    "explanation_ta": "Subject names ending in 's' like Mathematics are treated as singular subjects and take a singular verb. (Rule R2)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "govt p.80"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank with the appropriate verb: The Correspondent and Principal ___ arrived.",
+    "question_ta": "Fill in the blank with the appropriate verb: The Correspondent and Principal ___ arrived.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "B",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "C",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "D",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When 'and' connects two titles of the same person, the verb is singular. (Rule R1)",
+    "explanation_ta": "When 'and' connects two titles of the same person, the verb is singular. (Rule R1)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: Bread and butter ___ my daily breakfast.",
+    "question_ta": "Choose the correct verb: Bread and butter ___ my daily breakfast.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When two subjects express one idea or act as a single unit (like a meal), the verb is singular. (Rule R4)",
+    "explanation_ta": "When two subjects express one idea or act as a single unit (like a meal), the verb is singular. (Rule R4)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Select the correct sentence:",
+    "question_ta": "Select the correct sentence:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "One of the students were absent.",
+        "text_ta": "One of the students were absent."
+      },
+      {
+        "key": "B",
+        "text_en": "One of the students are absent.",
+        "text_ta": "One of the students are absent."
+      },
+      {
+        "key": "C",
+        "text_en": "One of the students is absent.",
+        "text_ta": "One of the students is absent."
+      },
+      {
+        "key": "D",
+        "text_en": "One of the student is absent.",
+        "text_ta": "One of the student is absent."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The phrase 'One of the' is followed by a plural noun, but the verb remains singular to agree with 'One'. (Rule R5)",
+    "explanation_ta": "The phrase 'One of the' is followed by a plural noun, but the verb remains singular to agree with 'One'. (Rule R5)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "govt p.77"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Politics ___ a dirty game.",
+    "question_ta": "Fill in the blank: Politics ___ a dirty game.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Names of subjects like politics, economics, and physics take a singular verb. (Rule R6)",
+    "explanation_ta": "Names of subjects like politics, economics, and physics take a singular verb. (Rule R6)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb form: There ___ ten students in the hall.",
+    "question_ta": "Choose the correct verb form: There ___ ten students in the hall.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The verb agrees with the number of the nouns that follow the verb when using introductory 'There'. (Rule R7)",
+    "explanation_ta": "The verb agrees with the number of the nouns that follow the verb when using introductory 'There'. (Rule R7)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct sentence:",
+    "question_ta": "Identify the correct sentence:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Kumar, as well as his friends, have won.",
+        "text_ta": "Kumar, as well as his friends, have won."
+      },
+      {
+        "key": "B",
+        "text_en": "Kumar, as well as his friends, has won.",
+        "text_ta": "Kumar, as well as his friends, has won."
+      },
+      {
+        "key": "C",
+        "text_en": "Kumar, as well as his friends, were won.",
+        "text_ta": "Kumar, as well as his friends, were won."
+      },
+      {
+        "key": "D",
+        "text_en": "Kumar, as well as his friends, are won.",
+        "text_ta": "Kumar, as well as his friends, are won."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When subjects are connected by 'as well as', the verb agrees with the first subject. (Rule R9)",
+    "explanation_ta": "When subjects are connected by 'as well as', the verb agrees with the first subject. (Rule R9)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.4"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: The police ___ investigating the crime.",
+    "question_ta": "Choose the correct verb: The police ___ investigating the crime.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "C",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The verb is always plural after words like people, police, cattle. (Rule R10)",
+    "explanation_ta": "The verb is always plural after words like people, police, cattle. (Rule R10)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.326"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Ten miles ___ a long distance to walk.",
+    "question_ta": "Fill in the blank: Ten miles ___ a long distance to walk.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Units of measurement and distance take a singular verb when considered as a whole. (Rule R12)",
+    "explanation_ta": "Units of measurement and distance take a singular verb when considered as a whole. (Rule R12)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: A bunch of keys ___ on the table.",
+    "question_ta": "Choose the correct verb: A bunch of keys ___ on the table.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A collective noun phrase such as 'A bunch of' takes a singular verb. (Rule R14)",
+    "explanation_ta": "A collective noun phrase such as 'A bunch of' takes a singular verb. (Rule R14)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "govt p.80"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Neither the teacher nor the students ___ present.",
+    "question_ta": "Fill in the blank: Neither the teacher nor the students ___ present.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "B",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When subjects of different numbers are connected by neither...nor, the verb agrees with the nearer subject. (Rule R32)",
+    "explanation_ta": "When subjects of different numbers are connected by neither...nor, the verb agrees with the nearer subject. (Rule R32)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb form: Ravi and his brother ___ coming home.",
+    "question_ta": "Choose the correct verb form: Ravi and his brother ___ coming home.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "C",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Two or more singular subjects joined by 'and' take a plural verb. (Rule R19)",
+    "explanation_ta": "Two or more singular subjects joined by 'and' take a plural verb. (Rule R19)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct option: The President and Secretary ___ attending the meeting.",
+    "question_ta": "Identify the correct option: The President and Secretary ___ attending the meeting.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "C",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When 'and' connects two different titles with separate articles (The President and the Secretary), the verb is plural. (Rule R3)",
+    "explanation_ta": "When 'and' connects two different titles with separate articles (The President and the Secretary), the verb is plural. (Rule R3)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.3"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: Everybody ___ happy at the party.",
+    "question_ta": "Choose the correct verb: Everybody ___ happy at the party.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Indefinite pronouns like everybody, everyone, someone take a singular verb. (Rule R22)",
+    "explanation_ta": "Indefinite pronouns like everybody, everyone, someone take a singular verb. (Rule R22)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Fifty thousand rupees ___ a large sum.",
+    "question_ta": "Fill in the blank: Fifty thousand rupees ___ a large sum.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nouns denoting money take a singular verb when the amount is considered a whole. (Rule R23)",
+    "explanation_ta": "Nouns denoting money take a singular verb when the amount is considered a whole. (Rule R23)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct form: My trousers ___ torn.",
+    "question_ta": "Choose the correct form: My trousers ___ torn.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "C",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Words like trousers, scissors, spectacles always take a plural verb. (Rule R25)",
+    "explanation_ta": "Words like trousers, scissors, spectacles always take a plural verb. (Rule R25)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.326"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Either Suresh or his friends ___ to blame.",
+    "question_ta": "Fill in the blank: Either Suresh or his friends ___ to blame.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When subjects of different numbers are connected by 'either...or', the verb agrees with the nearer subject. (Rule R32)",
+    "explanation_ta": "When subjects of different numbers are connected by 'either...or', the verb agrees with the nearer subject. (Rule R32)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: The furniture in this room ___ new.",
+    "question_ta": "Choose the correct verb: The furniture in this room ___ new.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nouns such as furniture, advice, scenery are used only in the singular form and take a singular verb. (Rule R29)",
+    "explanation_ta": "Nouns such as furniture, advice, scenery are used only in the singular form and take a singular verb. (Rule R29)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.3"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: Every boy and every girl ___ given a book.",
+    "question_ta": "Choose the correct verb: Every boy and every girl ___ given a book.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "B",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "C",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When two singular nouns are preceded by 'every', the verb is singular. (Rule R38)",
+    "explanation_ta": "When two singular nouns are preceded by 'every', the verb is singular. (Rule R38)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.3"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Rahul, along with his parents, ___ going to Ooty.",
+    "question_ta": "Fill in the blank: Rahul, along with his parents, ___ going to Ooty.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When subjects are connected by 'along with', the verb agrees with the first subject. (Rule R9)",
+    "explanation_ta": "When subjects are connected by 'along with', the verb agrees with the first subject. (Rule R9)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.4"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: The flock of birds ___ flying high.",
+    "question_ta": "Choose the correct verb: The flock of birds ___ flying high.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A collective noun like 'flock' takes a singular verb when considered as a unit. (Rule R26)",
+    "explanation_ta": "A collective noun like 'flock' takes a singular verb when considered as a unit. (Rule R26)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: Time and tide ___ for none.",
+    "question_ta": "Fill in the blank: Time and tide ___ for none.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "waits",
+        "text_ta": "waits"
+      },
+      {
+        "key": "B",
+        "text_en": "wait",
+        "text_ta": "wait"
+      },
+      {
+        "key": "C",
+        "text_en": "is waiting",
+        "text_ta": "is waiting"
+      },
+      {
+        "key": "D",
+        "text_en": "was waiting",
+        "text_ta": "was waiting"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Two or more singular subjects joined by 'and' take a plural verb. (Rule R19)",
+    "explanation_ta": "Two or more singular subjects joined by 'and' take a plural verb. (Rule R19)",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb form: 'Neither the manager nor his assistants ___ present at the meeting.'",
+    "question_ta": "Choose the correct verb form: 'Neither the manager nor his assistants ___ present at the meeting.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When subjects of different numbers are connected by neither...nor, the verb agrees with the nearer subject ('assistants', which is plural).",
+    "explanation_ta": "When subjects of different numbers are connected by neither...nor, the verb agrees with the nearer subject ('assistants', which is plural).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank with the appropriate verb: 'The quality of these mangoes ___ not good.'",
+    "question_ta": "Fill in the blank with the appropriate verb: 'The quality of these mangoes ___ not good.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Words between the subject and verb do not affect agreement. The real subject is 'quality' (singular).",
+    "explanation_ta": "Words between the subject and verb do not affect agreement. The real subject is 'quality' (singular).",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb to complete the sentence: 'The jury ___ divided in their opinions.'",
+    "question_ta": "Choose the correct verb to complete the sentence: 'The jury ___ divided in their opinions.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Collective nouns take a plural verb if members are considered individually. (Rule R6 [collective_nouns])",
+    "explanation_ta": "Collective nouns take a plural verb if members are considered individually. (Rule R6 [collective_nouns])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.3"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct option for the blank: 'Measles ___ a contagious disease causing fever and red rash.'",
+    "question_ta": "Identify the correct option for the blank: 'Measles ___ a contagious disease causing fever and red rash.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nouns that are plural in form but singular in meaning take a singular verb. (Rule R27 [plural_form_singular_meaning])",
+    "explanation_ta": "Nouns that are plural in form but singular in meaning take a singular verb. (Rule R27 [plural_form_singular_meaning])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the appropriate verb: 'Two hours ___ required to finish this complex task.'",
+    "question_ta": "Select the appropriate verb: 'Two hours ___ required to finish this complex task.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Units of time and distance take a singular verb when considered as a whole. (Rule R4 [units_money_time_distance])",
+    "explanation_ta": "Units of time and distance take a singular verb when considered as a whole. (Rule R4 [units_money_time_distance])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct form of the verb: 'The Headmaster and Secretary ___ present at the meeting.'",
+    "question_ta": "Choose the correct form of the verb: 'The Headmaster and Secretary ___ present at the meeting.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "B",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "If two titles are held by two different persons (indicated by separate articles), the verb is plural. (Rule R37 [titles_same_vs_different])",
+    "explanation_ta": "If two titles are held by two different persons (indicated by separate articles), the verb is plural. (Rule R37 [titles_same_vs_different])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank with the correct verb: 'The safety equipment, along with the helmets, ___ checked daily.'",
+    "question_ta": "Fill in the blank with the correct verb: 'The safety equipment, along with the helmets, ___ checked daily.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When subjects are connected by 'along with', the verb agrees with the first subject. (Rule R3 [as_well_as_with])",
+    "explanation_ta": "When subjects are connected by 'along with', the verb agrees with the first subject. (Rule R3 [as_well_as_with])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct sentence regarding subject-verb agreement:",
+    "question_ta": "Select the correct sentence regarding subject-verb agreement:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Cattle is grazing in the field.",
+        "text_ta": "Cattle is grazing in the field."
+      },
+      {
+        "key": "B",
+        "text_en": "Cattle are grazing in the field.",
+        "text_ta": "Cattle are grazing in the field."
+      },
+      {
+        "key": "C",
+        "text_en": "Cattle was grazing in the field.",
+        "text_ta": "Cattle was grazing in the field."
+      },
+      {
+        "key": "D",
+        "text_en": "Cattle has grazed in the field.",
+        "text_ta": "Cattle has grazed in the field."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The noun 'cattle' is always plural and takes a plural verb. (Rule R2 [always_plural_set])",
+    "explanation_ta": "The noun 'cattle' is always plural and takes a plural verb. (Rule R2 [always_plural_set])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the right verb for the blank: 'Neither the captain nor the players ___ responsible for the defeat.'",
+    "question_ta": "Choose the right verb for the blank: 'Neither the captain nor the players ___ responsible for the defeat.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When subjects of different numbers are connected by 'neither...nor', the verb agrees with the nearer subject. (Rule R19 [either_or_neither_nor])",
+    "explanation_ta": "When subjects of different numbers are connected by 'neither...nor', the verb agrees with the nearer subject. (Rule R19 [either_or_neither_nor])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct verb: 'One of the candidates ___ selected for the scholarship.'",
+    "question_ta": "Identify the correct verb: 'One of the candidates ___ selected for the scholarship.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "have been",
+        "text_ta": "have been"
+      },
+      {
+        "key": "B",
+        "text_en": "has been",
+        "text_ta": "has been"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The phrase 'One of' is followed by a plural noun but takes a singular verb. (Rule R1 [one_idea_singular])",
+    "explanation_ta": "The phrase 'One of' is followed by a plural noun but takes a singular verb. (Rule R1 [one_idea_singular])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: 'Economics ___ a fascinating subject to study.'",
+    "question_ta": "Fill in the blank: 'Economics ___ a fascinating subject to study.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Names of subjects ending in 's' like Economics take a singular verb. (Rule R12 [plural_form_singular_meaning])",
+    "explanation_ta": "Names of subjects ending in 's' like Economics take a singular verb. (Rule R12 [plural_form_singular_meaning])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: 'My new trousers ___ torn at the knee.'",
+    "question_ta": "Choose the correct verb: 'My new trousers ___ torn at the knee.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Words like trousers, scissors, and glasses are always plural and take plural verbs. (Rule R39 [always_plural_set])",
+    "explanation_ta": "Words like trousers, scissors, and glasses are always plural and take plural verbs. (Rule R39 [always_plural_set])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.326"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct option: 'Five thousand rupees ___ withdrawn from the bank account.'",
+    "question_ta": "Select the correct option: 'Five thousand rupees ___ withdrawn from the bank account.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "has been",
+        "text_ta": "has been"
+      },
+      {
+        "key": "B",
+        "text_en": "have been",
+        "text_ta": "have been"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Nouns denoting money take a singular verb when considered as a whole amount. (Rule R4 [units_money_time_distance])",
+    "explanation_ta": "Nouns denoting money take a singular verb when considered as a whole amount. (Rule R4 [units_money_time_distance])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the grammatically correct sentence:",
+    "question_ta": "Identify the grammatically correct sentence:",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The police is investigating the case.",
+        "text_ta": "The police is investigating the case."
+      },
+      {
+        "key": "B",
+        "text_en": "The police are investigating the case.",
+        "text_ta": "The police are investigating the case."
+      },
+      {
+        "key": "C",
+        "text_en": "The police has investigated the case.",
+        "text_ta": "The police has investigated the case."
+      },
+      {
+        "key": "D",
+        "text_en": "The police was investigating the case.",
+        "text_ta": "The police was investigating the case."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The word 'police' is always treated as plural and takes a plural verb. (Rule R26 [always_plural_set])",
+    "explanation_ta": "The word 'police' is always treated as plural and takes a plural verb. (Rule R26 [always_plural_set])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.326"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb for the blank: 'Each boy and each girl ___ given a certificate.'",
+    "question_ta": "Choose the correct verb for the blank: 'Each boy and each girl ___ given a certificate.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "B",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "C",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When singular nouns joined by 'and' are preceded by 'each', the verb must be singular. (Rule R35 [each_every_indefinite])",
+    "explanation_ta": "When singular nouns joined by 'and' are preceded by 'each', the verb must be singular. (Rule R35 [each_every_indefinite])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.329"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank with the appropriate verb: 'The committee ___ reached a unanimous decision.'",
+    "question_ta": "Fill in the blank with the appropriate verb: 'The committee ___ reached a unanimous decision.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "B",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Collective nouns take a singular verb when considered as a single unit. (Rule R6 [collective_nouns])",
+    "explanation_ta": "Collective nouns take a singular verb when considered as a single unit. (Rule R6 [collective_nouns])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.3"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: 'Neither of the options ___ acceptable to the board.'",
+    "question_ta": "Choose the correct verb: 'Neither of the options ___ acceptable to the board.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nouns connected with 'neither of' take a singular verb. (Rule R28 [each_every_indefinite])",
+    "explanation_ta": "Nouns connected with 'neither of' take a singular verb. (Rule R28 [each_every_indefinite])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.327"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct verb form: 'Ten miles ___ a long way to jog every morning.'",
+    "question_ta": "Identify the correct verb form: 'Ten miles ___ a long way to jog every morning.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Distance expressed in plural form takes a singular verb when considered as a single unit. (Rule R41 [units_money_time_distance])",
+    "explanation_ta": "Distance expressed in plural form takes a singular verb when considered as a single unit. (Rule R41 [units_money_time_distance])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: 'The poet and novelist ___ passed away.'",
+    "question_ta": "Choose the correct verb: 'The poet and novelist ___ passed away.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "B",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "When 'and' connects two titles of the same person (one article), the verb is singular. (Rule R37 [titles_same_vs_different])",
+    "explanation_ta": "When 'and' connects two titles of the same person (one article), the verb is singular. (Rule R37 [titles_same_vs_different])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank with the correct verb: 'Bread and butter ___ my usual breakfast.'",
+    "question_ta": "Fill in the blank with the correct verb: 'Bread and butter ___ my usual breakfast.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Two items acting as a single unit or meal take a singular verb. (Rule R9 [one_idea_singular])",
+    "explanation_ta": "Two items acting as a single unit or meal take a singular verb. (Rule R9 [one_idea_singular])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "govt p.80"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct form: 'The furniture in the newly built house ___ imported from Italy.'",
+    "question_ta": "Choose the correct form: 'The furniture in the newly built house ___ imported from Italy.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nouns such as furniture, advice, and scenery are used only in singular and take a singular verb. (Rule R23 [plural_form_singular_meaning])",
+    "explanation_ta": "Nouns such as furniture, advice, and scenery are used only in singular and take a singular verb. (Rule R23 [plural_form_singular_meaning])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.329"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct verb: 'Rahul as well as his friends ___ attending the workshop.'",
+    "question_ta": "Identify the correct verb: 'Rahul as well as his friends ___ attending the workshop.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When two subjects are connected by 'as well as', the verb agrees with the first subject. (Rule R18 [as_well_as_with])",
+    "explanation_ta": "When two subjects are connected by 'as well as', the verb agrees with the first subject. (Rule R18 [as_well_as_with])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.1"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb for the blank: 'Everybody in the auditorium ___ listening attentively.'",
+    "question_ta": "Choose the correct verb for the blank: 'Everybody in the auditorium ___ listening attentively.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Indefinite pronouns like everybody take a singular verb. (Rule R10 [each_every_indefinite])",
+    "explanation_ta": "Indefinite pronouns like everybody take a singular verb. (Rule R10 [each_every_indefinite])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Fill in the blank: 'A number of students ___ absent due to heavy rain.'",
+    "question_ta": "Fill in the blank: 'A number of students ___ absent due to heavy rain.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "B",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The phrase 'a number of' is always followed by a plural verb. (Rule R2 [always_plural_set])",
+    "explanation_ta": "The phrase 'a number of' is always followed by a plural verb. (Rule R2 [always_plural_set])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.2"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Select the correct option: 'Gulliver’s Travels ___ written by Jonathan Swift.'",
+    "question_ta": "Select the correct option: 'Gulliver’s Travels ___ written by Jonathan Swift.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "B",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A plural noun which is the name of a book is followed by a singular verb. (Rule R11 [titles_same_vs_different])",
+    "explanation_ta": "A plural noun which is the name of a book is followed by a singular verb. (Rule R11 [titles_same_vs_different])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "grammer p.330"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct verb: 'The flock of birds ___ flying towards the south.'",
+    "question_ta": "Choose the correct verb: 'The flock of birds ___ flying towards the south.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "B",
+        "text_en": "were",
+        "text_ta": "were"
+      },
+      {
+        "key": "C",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "D",
+        "text_en": "have",
+        "text_ta": "have"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A collective noun phrase such as 'A flock of' takes a singular verb. (Rule R43 [collective_nouns])",
+    "explanation_ta": "A collective noun phrase such as 'A flock of' takes a singular verb. (Rule R43 [collective_nouns])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "govt p.80"
+  },
+  {
+    "subject": "English",
+    "unit": "Grammar",
+    "menu": "Concord",
+    "topic": "Concord",
+    "topic_id": "concord",
+    "topic_ta": "Concord",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct verb for the blank: 'Either the teacher or the students ___ responsible for the arrangement.'",
+    "question_ta": "Identify the correct verb for the blank: 'Either the teacher or the students ___ responsible for the arrangement.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "is",
+        "text_ta": "is"
+      },
+      {
+        "key": "B",
+        "text_en": "was",
+        "text_ta": "was"
+      },
+      {
+        "key": "C",
+        "text_en": "has",
+        "text_ta": "has"
+      },
+      {
+        "key": "D",
+        "text_en": "are",
+        "text_ta": "are"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When subjects are connected by either...or, the verb agrees with the subject nearer to it. (Rule R14 [either_or_neither_nor])",
+    "explanation_ta": "When subjects are connected by either...or, the verb agrees with the subject nearer to it. (Rule R14 [either_or_neither_nor])",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "concord",
+    "source_note": "asan p.4"
+  }
+]

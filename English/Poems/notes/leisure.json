@@ -1,0 +1,58 @@
+{
+  "poem_id": "leisure",
+  "poem_title": "Leisure",
+  "author": "William Henry Davies",
+  "num": 14,
+  "pdf_pages": [
+    51,
+    51
+  ],
+  "poem_text_en": "What is this life if, full of care,\nWe have no time to stand and stare.\nNo time to stand beneath the boughs,\nAnd stare as long as sheep or cows.\nNo time to see, when woods we pass,\nWhere squirrels hide their nuts in grass.\nNo time to see, in broad daylight,\nStreams full of stars, like skies at night.\nNo time to turn at Beauty’s glance,\nAnd watch her feet, how they can dance.\nNo time to wait till her mouth can\nEnrich that smile her eyes began.\nA poor life this is, if full of care,\nWe have no time to stand and stare.",
+  "summary_en": "The poem laments the fast-paced modern life where human beings are so preoccupied with worldly worries that they fail to appreciate the beauty of nature. The poet argues that a life devoid of leisure and observation is a poor and empty existence. He urges readers to slow down and observe the simple pleasures surrounding them.",
+  "glossary": [
+    {
+      "word_en": "Care",
+      "meaning_en": "Worries or anxieties."
+    },
+    {
+      "word_en": "Boughs",
+      "meaning_en": "Main branches of a tree."
+    },
+    {
+      "word_en": "Enrich",
+      "meaning_en": "Improve or enhance the quality of."
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "Personification",
+      "example_en": "And watch her feet, how they can dance.",
+      "note_en": "Beauty is personified as a woman who can dance."
+    },
+    {
+      "device_en": "Simile",
+      "example_en": "Streams full of stars, like skies at night.",
+      "note_en": "The reflection of sunlight on water is compared to stars in the night sky using 'like'."
+    },
+    {
+      "device_en": "Alliteration",
+      "example_en": "And stare as long as sheep or cows.",
+      "note_en": "The 's' sound is repeated in 'stare', 'sheep', and 'streams'."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "William Henry Davies is a Welsh poet and writer who spent a significant part of his life as a tramp or hobo in the United Kingdom and the United States.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The title 'Leisure' signifies the time available for ease and the enjoyment of nature, which is absent in a busy life.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "The central theme is the importance of observing nature and finding tranquility in a world dominated by stress and work.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": []
+}

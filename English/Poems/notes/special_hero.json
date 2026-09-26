@@ -1,0 +1,63 @@
+{
+  "poem_id": "special_hero",
+  "poem_title": "Special Hero",
+  "author": "Christine M. Kerschan",
+  "num": 12,
+  "pdf_pages": [
+    43,
+    46
+  ],
+  "poem_text_en": "When I was a baby, \nyou would hold me in your arms.\nI felt the love and tenderness, \nkeeping me safe from harm.\nI would look up into your eyes, \nand all the love I would see.\nHow did I get so lucky, \nyou were the dad chosen for me.\nThere is something special \nabout a father's love.\nSeems it was sent to me \nfrom someplace up above.\nOur love is everlasting, \nI just wanted you to know.\nThat you're my special hero \nand I wanted to tell you so.",
+  "summary_en": "The poem expresses a child's deep gratitude and admiration for their father. It highlights the father's protective nature and the enduring, divine quality of the love he provides, ultimately crowning him as the child's 'special hero'.",
+  "glossary": [
+    {
+      "word_en": "tenderness",
+      "meaning_en": "gentleness and kindness"
+    },
+    {
+      "word_en": "everlasting",
+      "meaning_en": "lasting forever or a very long time"
+    },
+    {
+      "word_en": "special",
+      "meaning_en": "different from what is usual"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "alliteration",
+      "example_en": "There is something special about a father's love",
+      "note_en": "Repetition of the 's' sound in 'something' and 'special'."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Poet: Christina M. Kerschen",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem explores the theme of a father's protective love.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "He always saves me from harm",
+      "answer_en": "keeping me safe from harm.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "I am so lucky to get you",
+      "answer_en": "How did I get so lucky, you were the dad chosen for me.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "The affection between us has no end",
+      "answer_en": "Our love is everlasting,",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "topic_id": "making_queries",
+  "topic_title": "Making Queries",
+  "unit": 3,
+  "batches_target": 1,
+  "pages": [
+    22,
+    24
+  ],
+  "rules": [
+    {
+      "rule_en": "Yes/No questions begin with auxiliary verbs (e.g., Have, Do, Can).",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Indirect speech: 'Are they coming?' becomes 'He asked if they were coming'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Inference is the process of using existing information and evidence to draw logical conclusions about what is not explicitly stated.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Inference is an educated guess based on what you already know, observation, background knowledge, and critical thinking.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Writers convey ideas indirectly through nuance, context, tone, or setting, requiring the reader to infer underlying meanings.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Contextual clues like setting, past actions, or dialogue help readers make logical inferences.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "An inference is a conclusion reached on the basis of evidence and reasoning provided in the text or context.",
+      "tag": "definition"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Inference",
+      "meaning_en": "The process of drawing logical conclusions from evidence that is not explicitly stated."
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Example 2 illustrates transforming statements into WH-questions (How, Where, When).",
+      "tag": "application"
+    },
+    {
+      "note_en": "Action: She slammed the door and crossed her arms tightly across her chest. Inference: The character is likely upset or angry.",
+      "tag": "character_emotion"
+    },
+    {
+      "note_en": "Action: John looked down at his watch, then out the window, tapping his foot impatiently. Inference: John is likely waiting for someone or something.",
+      "tag": "contextual_clues"
+    },
+    {
+      "note_en": "Action: Lucy always sat at the back of the room, never spoke up, and avoided eye contact. Inference: Lucy may be shy or socially anxious.",
+      "tag": "character_development"
+    },
+    {
+      "note_en": "Action: She clutched her phone tightly, her knuckles white. Inference: She is anxious or nervous.",
+      "tag": "example_1"
+    },
+    {
+      "note_en": "Action: He walked into the room, his shoes still covered in mud. Inference: He has just been outside in the rain or mud.",
+      "tag": "example_1"
+    },
+    {
+      "note_en": "Action: The dog wagged its tail and jumped up to greet her. Inference: The dog is excited and happy to see her.",
+      "tag": "example_1"
+    },
+    {
+      "note_en": "Action: John didn't respond to the question, staring at his shoes. Inference: John is embarrassed or avoiding the question.",
+      "tag": "example_1"
+    },
+    {
+      "note_en": "Action: The car screeched to a halt, and the engine sputtered out. Inference: The car might have broken down suddenly.",
+      "tag": "example_1"
+    },
+    {
+      "note_en": "Tom kept glancing at the clock, tapping his foot impatiently. Inference: Tom is waiting for something or someone and is feeling impatient.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "The sun had set, and the streets were dark. People hurried to their homes, walking quickly. Inference: It is getting late, and people are likely trying to get home before it gets too dark.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "Lucy couldn't stop smiling as she walked through the door with the big box in her hands. Inference: Lucy is happy or excited about something, possibly a gift or a surprise.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "Sarah walked into the room, her eyes red and her face wet with tears. Inference: Sarah has been crying and is likely upset or sad.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "The kitchen was spotless, with every dish put away and the counters shining. Inference: The person who cleaned the kitchen is neat and organized, and possibly takes pride in keeping things clean.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "Jake stood at the door with his suitcase, staring at the ground and avoiding eye contact. Inference: Jake may be sad or reluctant to leave, and is possibly feeling guilty or uncomfortable.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "The teacher's voice grew louder, and the students quickly sat up straight in their seats. Inference: The teacher is likely getting angry or stern, and the students are responding to her tone of voice.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "The ice cream melted quickly in the hot sun, leaving puddles of melted chocolate on the sidewalk. Inference: It is hot outside, as the ice cream is melting rapidly.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "He opened the letter with shaking hands and took a deep breath before reading it. Inference: The letter is important, and he is nervous or anxious about its contents.",
+      "tag": "inference"
+    },
+    {
+      "note_en": "After the race, the runners collapsed on the grass, breathing heavily. Inference: The race was physically demanding, and the runners are exhausted after finishing it.",
+      "tag": "inference"
+    }
+  ],
+  "pyq": [
+    {
+      "question_en": "Which sentence correctly reports the direct question 'Are they coming?'",
+      "options_en": [
+        "He asked are they coming.",
+        "He asked if they are coming.",
+        "He asked if were they coming.",
+        "He asked if they were coming."
+      ],
+      "answer_en": "d) He asked if they were coming.",
+      "answer_letter": "D",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following questions is a Yes/No question?",
+      "options_en": [
+        "Why are you late?",
+        "Where did you go?",
+        "Have you finished your homework?",
+        "How do you feel?"
+      ],
+      "answer_en": "c) Have you finished your homework?",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    }
+  ],
+  "notes_en": "p22: This page provides practice on constructing questions from statements (WH-questions) and identifying Yes/No questions. It also includes exercises on reporting direct questions into indirect speech, focusing on correct auxiliary verb usage and tense agreement.\np23: This page introduces the concept of Inference as a critical reading skill. It distinguishes inference from explicit conclusions, noting that inference relies on implicit information, background knowledge, and critical thinking. It categorizes how to make inferences through understanding implicit meaning, using contextual clues, and analyzing character development.\np24: This page provides exercises on making inferences from descriptive sentences. An inference involves observing details in a statement—such as physical actions, emotional cues, or environmental changes—to deduce the underlying situation or feeling.",
+  "source": "Data/General-English/Unit3,4/vetrii english unit 3 and unit 4 (1).pdf"
+}

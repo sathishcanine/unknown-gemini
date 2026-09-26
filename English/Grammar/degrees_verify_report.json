@@ -1,0 +1,234 @@
+{
+  "batches": {
+    "positive_degree|Batch 1": {
+      "done": true,
+      "topic_en": "Positive Degree",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "positive_degree|Batch 2": {
+      "done": true,
+      "topic_en": "Positive Degree",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "comparative_degree|Batch 1": {
+      "done": true,
+      "topic_en": "Comparative Degree",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "comparative_degree|Batch 2": {
+      "done": true,
+      "topic_en": "Comparative Degree",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "superlative_degree|Batch 1": {
+      "done": true,
+      "topic_en": "Superlative Degree",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "superlative_degree|Batch 2": {
+      "done": true,
+      "topic_en": "Superlative Degree",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "positive_to_comparative|Batch 1": {
+      "done": true,
+      "topic_en": "Positive → Comparative",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "positive_to_comparative|Batch 2": {
+      "done": true,
+      "topic_en": "Positive → Comparative",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 1,
+      "flagged_count": 1,
+      "flagged": [
+        {
+          "q_index": 14,
+          "issue_type": "bad_options",
+          "severity": "high",
+          "description": "Duplicate option text",
+          "suggestion": "DROP",
+          "question_en": "Select the correct comparative form for the multi-syllable adjective 'intelligent'.",
+          "old_answer": "A"
+        }
+      ],
+      "dropped": 1,
+      "fixed": 0,
+      "final_count": 24,
+      "verdict": "PASS"
+    },
+    "comparative_to_superlative|Batch 1": {
+      "done": true,
+      "topic_en": "Comparative → Superlative",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "comparative_to_superlative|Batch 2": {
+      "done": true,
+      "topic_en": "Comparative → Superlative",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "transformation_degrees|Batch 1": {
+      "done": true,
+      "topic_en": "Transformation of Degrees",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    },
+    "transformation_degrees|Batch 2": {
+      "done": true,
+      "topic_en": "Transformation of Degrees",
+      "summary": {
+        "total": 25,
+        "passed": 25,
+        "flagged": 0,
+        "verdict": "PASS"
+      },
+      "structural_flags": 0,
+      "flagged_count": 0,
+      "flagged": [],
+      "dropped": 0,
+      "fixed": 0,
+      "final_count": 25,
+      "verdict": "PASS"
+    }
+  },
+  "totals": {
+    "flagged": 1,
+    "dropped": 1,
+    "fixed": 0,
+    "final_db": 299,
+    "topic_q_verified": 299,
+    "short_batches": [
+      [
+        "positive_to_comparative",
+        "Batch 2",
+        24
+      ]
+    ],
+    "pass_batches": 12,
+    "needs_fix_batches": 0
+  }
+}

@@ -1,0 +1,1953 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "compound_words",
+  "sources": [
+    "Vetrii Vocabulary pp.[180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194] (primary, vision)",
+    "Grammer.pdf pp.[172, 236, 237, 238, 239, 241] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Compound words are formed by combining two independent words to create a new word with a new meaning.",
+      "cw_tag": "definition",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "rule_en": "Compound words are formed by combining two words to create a new word with a distinct meaning.",
+      "cw_tag": "definition",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "rule_en": "Compound words are formed when two or more words are put together to form a new word with a new meaning.",
+      "cw_tag": "definition",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "rule_en": "Formation using Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "rule_en": "Formation using Gerund + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "rule_en": "Formation using Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "rule_en": "Compound words are formed by combining two words to create a new word with a new meaning.",
+      "cw_tag": "definition",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "rule_en": "A compound word is a combination of two or more words that function as a single unit of meaning.",
+      "cw_tag": "definition",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Noun + Noun",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Noun + Verb",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Verb + Noun",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Preposition + Noun",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Gerund + Noun",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Noun + Gerund",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Adjective + Preposition + Noun",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Noun + Preposition + Noun",
+      "cw_tag": "overview",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "rule_en": "Compound words are formed by combining two or more words to create a new meaning.",
+      "cw_tag": "definition",
+      "source": "grammer",
+      "source_page": 241
+    }
+  ],
+  "examples": [
+    {
+      "part1_en": "quick",
+      "part2_en": "silver",
+      "compound_en": "quicksilver",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "strong",
+      "part2_en": "hold",
+      "compound_en": "stronghold",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "half",
+      "part2_en": "penny",
+      "compound_en": "halfpenny",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "make",
+      "part2_en": "shift",
+      "compound_en": "makeshift",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "break",
+      "part2_en": "fast",
+      "compound_en": "breakfast",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "tell",
+      "part2_en": "tale",
+      "compound_en": "telltale",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "pick",
+      "part2_en": "pocket",
+      "compound_en": "pickpocket",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "dare",
+      "part2_en": "devil",
+      "compound_en": "daredevil",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "scare",
+      "part2_en": "crow",
+      "compound_en": "scarecrow",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "hang",
+      "part2_en": "man",
+      "compound_en": "hangman",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "out",
+      "part2_en": "law",
+      "compound_en": "outlaw",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "after",
+      "part2_en": "thought",
+      "compound_en": "afterthought",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "fore",
+      "part2_en": "thought",
+      "compound_en": "forethought",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "fore",
+      "part2_en": "sight",
+      "compound_en": "foresight",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "over",
+      "part2_en": "coat",
+      "compound_en": "overcoat",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "down",
+      "part2_en": "fall",
+      "compound_en": "downfall",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "after",
+      "part2_en": "noon",
+      "compound_en": "afternoon",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "by",
+      "part2_en": "path",
+      "compound_en": "bypath",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "in",
+      "part2_en": "mate",
+      "compound_en": "inmate",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "in",
+      "part2_en": "side",
+      "compound_en": "inside",
+      "note_en": "Adverb + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "dining",
+      "part2_en": "hall",
+      "compound_en": "dinning hall",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "washing",
+      "part2_en": "machine",
+      "compound_en": "washing machine",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 180
+    },
+    {
+      "part1_en": "waiting",
+      "part2_en": "hall",
+      "compound_en": "waiting hall",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "driving",
+      "part2_en": "school",
+      "compound_en": "driving school",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "walking",
+      "part2_en": "stick",
+      "compound_en": "walking stick",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "drawing",
+      "part2_en": "room",
+      "compound_en": "drawing room",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "calling",
+      "part2_en": "bell",
+      "compound_en": "calling bell",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "baking",
+      "part2_en": "soda",
+      "compound_en": "baking soda",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "draw",
+      "part2_en": "back",
+      "compound_en": "drawback",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "lock",
+      "part2_en": "up",
+      "compound_en": "lock-up",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "go",
+      "part2_en": "between",
+      "compound_en": "go-between",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "die",
+      "part2_en": "hard",
+      "compound_en": "die-hard",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "send",
+      "part2_en": "off",
+      "compound_en": "send-off",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "wash",
+      "part2_en": "out",
+      "compound_en": "washout",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "flash",
+      "part2_en": "back",
+      "compound_en": "flashback",
+      "note_en": "Verb + Adverb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "over",
+      "part2_en": "throw",
+      "compound_en": "overthrow",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "under",
+      "part2_en": "take",
+      "compound_en": "undertake",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "up",
+      "part2_en": "set",
+      "compound_en": "upset",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "in",
+      "part2_en": "come",
+      "compound_en": "income",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "out",
+      "part2_en": "come",
+      "compound_en": "outcome",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "over",
+      "part2_en": "step",
+      "compound_en": "overstep",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "well",
+      "part2_en": "defined",
+      "compound_en": "well-defined",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "down",
+      "part2_en": "cast",
+      "compound_en": "downcast",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 181
+    },
+    {
+      "part1_en": "safe",
+      "part2_en": "guard",
+      "compound_en": "safeguard",
+      "note_en": "Adjective + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "white",
+      "part2_en": "wash",
+      "compound_en": "whitewash",
+      "note_en": "Adjective + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "full",
+      "part2_en": "fil",
+      "compound_en": "fulfil",
+      "note_en": "Adjective + Verb",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "grand",
+      "part2_en": "mother",
+      "compound_en": "grandmother",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "milch",
+      "part2_en": "cow",
+      "compound_en": "Milch cow",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "good",
+      "part2_en": "will",
+      "compound_en": "goodwill",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "soft",
+      "part2_en": "ware",
+      "compound_en": "software",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "gentle",
+      "part2_en": "man",
+      "compound_en": "gentleman",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "diamond",
+      "part2_en": "hard",
+      "compound_en": "diamondhard",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "sky",
+      "part2_en": "blue",
+      "compound_en": "skyblue",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "pitch",
+      "part2_en": "dark",
+      "compound_en": "pitchdark",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "life",
+      "part2_en": "long",
+      "compound_en": "lifelong",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "world",
+      "part2_en": "wide",
+      "compound_en": "worldwide",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "home",
+      "part2_en": "sick",
+      "compound_en": "homesick",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "hand",
+      "part2_en": "made",
+      "compound_en": "handmade",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "radio",
+      "part2_en": "active",
+      "compound_en": "radioactive",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "ever",
+      "part2_en": "lasting",
+      "compound_en": "everlasting",
+      "note_en": "Adverb + Participle",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "well",
+      "part2_en": "deserved",
+      "compound_en": "Well deserved",
+      "note_en": "Adverb + Participle",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "out",
+      "part2_en": "spoken",
+      "compound_en": "outspoken",
+      "note_en": "Adverb + Participle",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "down",
+      "part2_en": "hearted",
+      "compound_en": "downhearted",
+      "note_en": "Adverb + Participle",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "in",
+      "part2_en": "born",
+      "compound_en": "inborn",
+      "note_en": "Adverb + Participle",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 182
+    },
+    {
+      "part1_en": "down",
+      "part2_en": "stairs",
+      "compound_en": "downstairs",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "play",
+      "part2_en": "ground",
+      "compound_en": "playground",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "gold",
+      "part2_en": "finger",
+      "compound_en": "goldfinger",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "dust",
+      "part2_en": "bin",
+      "compound_en": "dustbin",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "finger",
+      "part2_en": "nail",
+      "compound_en": "fingernail",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "flag",
+      "part2_en": "post",
+      "compound_en": "flagpost",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "any",
+      "part2_en": "thing",
+      "compound_en": "anything",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "out",
+      "part2_en": "fit",
+      "compound_en": "outfit",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "over",
+      "part2_en": "time",
+      "compound_en": "overtime",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "pay",
+      "part2_en": "roll",
+      "compound_en": "payroll",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "play",
+      "part2_en": "mate",
+      "compound_en": "playmate",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "over",
+      "part2_en": "act",
+      "compound_en": "overact",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "pass",
+      "part2_en": "word",
+      "compound_en": "password",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "foot",
+      "part2_en": "prints",
+      "compound_en": "footprints",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "note",
+      "part2_en": "book",
+      "compound_en": "notebook",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "plum",
+      "part2_en": "cake",
+      "compound_en": "plumcake",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "light",
+      "part2_en": "bulb",
+      "compound_en": "lightbulb",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "week",
+      "part2_en": "end",
+      "compound_en": "weekend",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "heart",
+      "part2_en": "beat",
+      "compound_en": "heartbeat",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "suit",
+      "part2_en": "case",
+      "compound_en": "suitcase",
+      "note_en": "None",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "part1_en": "lip",
+      "part2_en": "stick",
+      "compound_en": "lipstick",
+      "note_en": "Noun + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "sheep",
+      "part2_en": "dog",
+      "compound_en": "sheepdog",
+      "note_en": "Noun + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "book",
+      "part2_en": "shelf",
+      "compound_en": "bookshelf",
+      "note_en": "Noun + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "pop",
+      "part2_en": "corn",
+      "compound_en": "popcorn",
+      "note_en": "Verb + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "rain",
+      "part2_en": "coat",
+      "compound_en": "raincoat",
+      "note_en": "Noun + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "sail",
+      "part2_en": "boat",
+      "compound_en": "sailboat",
+      "note_en": "Noun + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "coconut",
+      "part2_en": "water",
+      "compound_en": "coconut water",
+      "note_en": "Noun + Noun compound word",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "part1_en": "mantel",
+      "part2_en": "piece",
+      "compound_en": "mantelpiece",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "eye",
+      "part2_en": "lashes",
+      "compound_en": "eyelashes",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "water",
+      "part2_en": "gate",
+      "compound_en": "watergate",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "bee",
+      "part2_en": "hive",
+      "compound_en": "beehive",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "toll",
+      "part2_en": "gate",
+      "compound_en": "tollgate",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "door",
+      "part2_en": "knob",
+      "compound_en": "doorknob",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "spinning",
+      "part2_en": "wheel",
+      "compound_en": "spinning wheel",
+      "note_en": "Noun compound",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "part1_en": "match",
+      "part2_en": "box",
+      "compound_en": "matchbox",
+      "note_en": "Noun + Noun compound word formation",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "part1_en": "air",
+      "part2_en": "port",
+      "compound_en": "airport",
+      "note_en": "Noun + Noun compound word formation",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "part1_en": "blood",
+      "part2_en": "bank",
+      "compound_en": "blood bank",
+      "note_en": "Noun + Noun compound word formation",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "part1_en": "hair",
+      "part2_en": "cut",
+      "compound_en": "haircut",
+      "note_en": "Noun + Verb compound word formation",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "part1_en": "book",
+      "part2_en": "mark",
+      "compound_en": "bookmark",
+      "note_en": "Noun + Noun compound word formation",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "part1_en": "sewing",
+      "part2_en": "machine",
+      "compound_en": "sewing machine",
+      "note_en": "Verb + Noun compound word formation",
+      "cw_tag": "other",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "part1_en": "out",
+      "part2_en": "house",
+      "compound_en": "outhouse",
+      "note_en": "Noun + Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "river",
+      "part2_en": "bed",
+      "compound_en": "riverbed",
+      "note_en": "Noun + Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "water",
+      "part2_en": "fall",
+      "compound_en": "waterfall",
+      "note_en": "Noun + Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "sun",
+      "part2_en": "shine",
+      "compound_en": "sunshine",
+      "note_en": "Noun + Verb/Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "flower",
+      "part2_en": "bed",
+      "compound_en": "flowerbed",
+      "note_en": "Noun + Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "window",
+      "part2_en": "sill",
+      "compound_en": "windowsill",
+      "note_en": "Noun + Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "foot",
+      "part2_en": "hill",
+      "compound_en": "foothill",
+      "note_en": "Noun + Noun compound",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "part1_en": "rain",
+      "part2_en": "bow",
+      "compound_en": "rainbow",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "part1_en": "fire",
+      "part2_en": "place",
+      "compound_en": "fireplace",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "part1_en": "head",
+      "part2_en": "master",
+      "compound_en": "head master",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "key",
+      "part2_en": "board",
+      "compound_en": "key board",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "cell",
+      "part2_en": "phone",
+      "compound_en": "cell phone",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "school",
+      "part2_en": "boy",
+      "compound_en": "school boy",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "eye",
+      "part2_en": "sight",
+      "compound_en": "eye sight",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "home",
+      "part2_en": "work",
+      "compound_en": "home work",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "moon",
+      "part2_en": "light",
+      "compound_en": "moon light",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "note",
+      "part2_en": "book",
+      "compound_en": "note book",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "dining",
+      "part2_en": "hall",
+      "compound_en": "dining hall",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "snow",
+      "part2_en": "fall",
+      "compound_en": "snow fall",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "car",
+      "part2_en": "park",
+      "compound_en": "car park",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "book",
+      "part2_en": "mark",
+      "compound_en": "book mark",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "sun",
+      "part2_en": "set",
+      "compound_en": "sun set",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "cat",
+      "part2_en": "walk",
+      "compound_en": "cat walk",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "rain",
+      "part2_en": "fall",
+      "compound_en": "rain fall",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "hair",
+      "part2_en": "cut",
+      "compound_en": "hair cut",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "tooth",
+      "part2_en": "ache",
+      "compound_en": "toothache",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 237
+    },
+    {
+      "part1_en": "blood",
+      "part2_en": "bank",
+      "compound_en": "bloodbank",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "part1_en": "kitchen",
+      "part2_en": "garden",
+      "compound_en": "kitchen garden",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "mouth",
+      "part2_en": "wash",
+      "compound_en": "mouthwash",
+      "note_en": "Noun + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "watch",
+      "part2_en": "man",
+      "compound_en": "watchman",
+      "note_en": "Verb + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "bleaching",
+      "part2_en": "powder",
+      "compound_en": "bleaching powder",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "house",
+      "part2_en": "keeping",
+      "compound_en": "housekeeping",
+      "note_en": "Noun + Gerund",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "good for",
+      "part2_en": "nothing",
+      "compound_en": "good for nothing",
+      "note_en": "Adjective + Preposition + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "mother-in",
+      "part2_en": "law",
+      "compound_en": "mother-in-law",
+      "note_en": "Noun + Preposition + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "fall",
+      "compound_en": "ice-fall",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "knife",
+      "part2_en": "edge",
+      "compound_en": "knife-edge",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "wind",
+      "part2_en": "proof",
+      "compound_en": "wind-proof",
+      "note_en": "Noun + Adjective",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "sleeping",
+      "part2_en": "bags",
+      "compound_en": "sleeping-bags",
+      "note_en": "Gerund + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "half",
+      "part2_en": "way",
+      "compound_en": "half-way",
+      "note_en": "Adjective + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "never",
+      "part2_en": "ending",
+      "compound_en": "never-ending",
+      "note_en": "Adverb + Verb",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "partly",
+      "part2_en": "full",
+      "compound_en": "partly-full",
+      "note_en": "Adverb + Adjective",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "axe",
+      "compound_en": "ice-axe",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "berg",
+      "compound_en": "ice-berg",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "cap",
+      "compound_en": "ice-cap",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "floe",
+      "compound_en": "ice-floe",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "sheet",
+      "compound_en": "ice-sheet",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    },
+    {
+      "part1_en": "ice",
+      "part2_en": "rink",
+      "compound_en": "ice-rink",
+      "note_en": "Noun + Noun",
+      "cw_tag": "other",
+      "source": "grammer",
+      "source_page": 241
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Which can be placed after 'soft'?",
+      "answer_en": "b) ware",
+      "options_en": [
+        "a) play",
+        "b) ware",
+        "c) run",
+        "d) cycle"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 539
+    },
+    {
+      "prompt_en": "Which can be placed before 'light'?",
+      "answer_en": "sun",
+      "options_en": [
+        "try",
+        "sun",
+        "horse",
+        "cat"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "Which can be placed after 'safe'?",
+      "answer_en": "guard",
+      "options_en": [
+        "chair",
+        "guard",
+        "shop",
+        "van"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "Which can be placed after 'blue'?",
+      "answer_en": "print",
+      "options_en": [
+        "cane",
+        "print",
+        "see",
+        "land"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "Which can be placed after 'water'?",
+      "answer_en": "fall",
+      "options_en": [
+        "food",
+        "stick",
+        "fall",
+        "out"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "My mother likes to wear _____ stick when she gets dressed up.",
+      "answer_en": "lip",
+      "options_en": [
+        "lip",
+        "eye",
+        "nail"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "Long hair covers the face and eye of an Old English _____ dog.",
+      "answer_en": "sheep",
+      "options_en": [
+        "hound",
+        "sheep",
+        "pet"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "We put the books on the big yellow _____ shelf.",
+      "answer_en": "book",
+      "options_en": [
+        "cloths",
+        "dress",
+        "book"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "The _____ corn is popping and smells good.",
+      "answer_en": "pop",
+      "options_en": [
+        "maize",
+        "pop",
+        "oat"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "I write about school in my _____ book.",
+      "answer_en": "note",
+      "options_en": [
+        "note",
+        "diary",
+        "hand"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "We use a rain_____ on a rainy day.",
+      "answer_en": "coat",
+      "options_en": [
+        "Rain",
+        "coconut",
+        "coat",
+        "sail",
+        "fire"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "The toy _____boat danced on the pond.",
+      "answer_en": "sail",
+      "options_en": [
+        "Rain",
+        "coconut",
+        "coat",
+        "sail",
+        "fire"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "We must drink tender_____ water in summer.",
+      "answer_en": "coconut",
+      "options_en": [
+        "Rain",
+        "coconut",
+        "coat",
+        "sail",
+        "fire"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 184
+    },
+    {
+      "prompt_en": "Match Column A (mantel, eye, water, bee, toll, door, spinning) with Column B (piece, lashes, gate, hive, gate, knob, wheel) to form compound words.",
+      "answer_en": "mantel-piece, eye-lashes, water-gate, bee-hive, toll-gate, door-knob, spinning-wheel",
+      "options_en": [],
+      "cw_tag": "match",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "prompt_en": "Fill in the blank: We can see a ___ bow after summer showers.",
+      "answer_en": "rain",
+      "options_en": [],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "prompt_en": "Fill in the blank: Clean the ashes out of the ___ place.",
+      "answer_en": "fire",
+      "options_en": [],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 185
+    },
+    {
+      "prompt_en": "1. Noun + Noun :",
+      "answer_en": "Sunflower",
+      "options_en": [
+        "Evergreen",
+        "snowman",
+        "Greenhouse",
+        "sunflower",
+        "Washboard"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "prompt_en": "2. Adjective + Noun :",
+      "answer_en": "Greenhouse",
+      "options_en": [
+        "Evergreen",
+        "snowman",
+        "Greenhouse",
+        "sunflower",
+        "Washboard"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "prompt_en": "3. Verb + Noun :",
+      "answer_en": "Washboard",
+      "options_en": [
+        "Evergreen",
+        "snowman",
+        "Greenhouse",
+        "sunflower",
+        "Washboard"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "prompt_en": "4. Noun + Adjective :",
+      "answer_en": "Evergreen",
+      "options_en": [
+        "Evergreen",
+        "snowman",
+        "Greenhouse",
+        "sunflower",
+        "Washboard"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "prompt_en": "5. Adverb + Noun :",
+      "answer_en": "Snowman",
+      "options_en": [
+        "Evergreen",
+        "snowman",
+        "Greenhouse",
+        "sunflower",
+        "Washboard"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 186
+    },
+    {
+      "prompt_en": "Match the following to form compound words: (Sun, River, Foot) + (Shine, Bed, Hill)",
+      "answer_en": "Sunshine, Riverbed, Foothill",
+      "options_en": [],
+      "cw_tag": "match",
+      "source": "grammer",
+      "source_page": 172
+    },
+    {
+      "prompt_en": "We use a rain____ on a rainy day.",
+      "answer_en": "raincoat",
+      "options_en": [
+        "raincoat",
+        "rainbow",
+        "rainwater"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "prompt_en": "The toy ____boat danced on the pond.",
+      "answer_en": "sailboat",
+      "options_en": [
+        "sailboat",
+        "coconut",
+        "fireplace"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "prompt_en": "We must drink tender ____water in summer.",
+      "answer_en": "coconut",
+      "options_en": [
+        "rain",
+        "coconut",
+        "fire"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "prompt_en": "We can see a ____bow after summer showers.",
+      "answer_en": "rain",
+      "options_en": [
+        "rain",
+        "sail",
+        "fire"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "prompt_en": "Clean the ashes out of the ____ place.",
+      "answer_en": "fire",
+      "options_en": [
+        "rain",
+        "sail",
+        "fire"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 236
+    },
+    {
+      "prompt_en": "Which can be placed after ‘soft’?",
+      "answer_en": "ware",
+      "options_en": [
+        "play",
+        "ware",
+        "run",
+        "cycle"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "prompt_en": "Which can be placed before 'light’?",
+      "answer_en": "sun",
+      "options_en": [
+        "try",
+        "sun",
+        "horse",
+        "cat"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "prompt_en": "Which can be placed after ‘safe’?",
+      "answer_en": "guard",
+      "options_en": [
+        "chair",
+        "guard",
+        "shop",
+        "van"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "prompt_en": "Which can be placed after ‘blue’?",
+      "answer_en": "print",
+      "options_en": [
+        "cane",
+        "print",
+        "see",
+        "land"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "prompt_en": "Which can be placed after ‘water’?",
+      "answer_en": "fall",
+      "options_en": [
+        "food",
+        "stick",
+        "fall",
+        "out"
+      ],
+      "cw_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 238
+    },
+    {
+      "prompt_en": "Siva visited the hair stylist to have a clean __________.",
+      "answer_en": "haircut",
+      "options_en": [
+        "haircut",
+        "hairwash"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "prompt_en": "Tharani had given the sarees for __________.",
+      "answer_en": "dry cleaning",
+      "options_en": [
+        "dry cleaning",
+        "hand washing"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "prompt_en": "The __________ effect is a natural process that warms the earth’s surface.",
+      "answer_en": "greenhouse",
+      "options_en": [
+        "greenhouse",
+        "wall paper"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 239
+    },
+    {
+      "prompt_en": "Never wait for an __________ to wake you up.",
+      "answer_en": "alarm clock",
+      "options_en": [
+        "alarm clock",
+        "waiting room"
+      ],
+      "cw_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 239
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 17,
+      "examples": 151,
+      "worked_exercises": 36
+    },
+    "by_cw_tag": {
+      "definition": {
+        "rules": 6,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 3,
+        "examples": 151,
+        "worked": 0
+      },
+      "overview": {
+        "rules": 8,
+        "examples": 0,
+        "worked": 0
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 10
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 24
+      },
+      "match": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 2
+      }
+    }
+  }
+}

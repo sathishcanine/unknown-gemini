@@ -1,0 +1,226 @@
+{
+  "topic_id": "ascertainment_of_facts",
+  "topic_title": "Ascertainment of Facts",
+  "unit": 5,
+  "batches_target": 2,
+  "pages": [
+    51,
+    55
+  ],
+  "rules": [
+    {
+      "rule_en": "Ascertainment of facts requires examining evidence, drawing inferences, and reaching conclusions through analysis.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "When ascertaining facts, eliminate options that contradict explicit text or make absolute claims not supported by the passage.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "To verify facts in a passage, only consider information explicitly provided in the text; avoid external assumptions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Identify key facts by cross-referencing specific details in the passage to the provided options.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "To verify facts in reading comprehension, focus on claims that are directly supported by the text rather than external knowledge or inferences.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [],
+  "examples": [
+    {
+      "note_en": "Ascertainment of facts requires locating specific subject matter mentioned in the text.",
+      "tag": "strategy"
+    }
+  ],
+  "passages": [
+    {
+      "title": "Tri-Services Future Warfare Course (FWC-02)",
+      "text_en": "The FWC-02 program held in New Delhi brought together military leaders, scientists, and private industry experts to discuss future combat technologies. This edition, held in September 2024, promoted a collaborative 'Whole of Nation' defense strategy by integrating private sector insights into military operational needs."
+    },
+    {
+      "title": "Passage 2: Socio-Economic Indicators",
+      "text_en": "The 2024-25 Economic Survey notes a rise in female labour participation but stresses the need for better job retention ecosystems. Meanwhile, despite progress, India faces persistent gender inequality, political underrepresentation of women, and education hurdles, with HDI heavily impacted by these factors alongside multidimensional poverty."
+    },
+    {
+      "title": "Artificial Intelligence and Development",
+      "text_en": "India is encouraged to utilize Artificial Intelligence to enhance various sectors including farming, education, and public services. However, there is a critical need for policies that prevent AI from aggravating societal inequalities."
+    },
+    {
+      "title": "Passage - 3: Artificial Neural Networks",
+      "text_en": "The 2024 Nobel Prize in Physics recognized John J. Hopfield and Geoffrey E. Hinton for their foundational work in machine learning using artificial neural networks. These networks, which are inspired by biological brain structures, incorporate principles from fields like neurobiology and statistical physics. The Hopfield network and Boltzmann machines are key developments that demonstrate how systems can process data by minimizing energy functions."
+    }
+  ],
+  "translations": [],
+  "pyq": [
+    {
+      "question_en": "Which of the following statements is factually accurate based on the passage?",
+      "options_en": [
+        "FWC-02 was held in September 2024.",
+        "The course lasted for two weeks.",
+        "Representatives from the private defence industry participated for the first time in FWC-02.",
+        "The Manekshaw Centre is located in Chennai."
+      ],
+      "answer_en": "c) Representatives from the private defence industry participated for the first time in FWC-02.",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Tri-Services Future Warfare Course (FWC-02)"
+    },
+    {
+      "question_en": "Which of the following summarizes the key contribution of including private defence industry representatives in FWC-02?",
+      "options_en": [],
+      "answer_en": null,
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "passage_ref": "Tri-Services Future Warfare Course (FWC-02)"
+    },
+    {
+      "question_en": "According to the provided text, which of the subsequent assertions holds true?",
+      "options_en": [
+        "FWC-02 focused primarily on conventional warfare strategies.",
+        "The course was open to junior-level officers only.",
+        "CENJOWS was solely responsible for organizing the FWC-02.",
+        "FWC-02 built upon the success of its first edition by expanding participation."
+      ],
+      "answer_en": "d) FWC-02 built upon the success of its first edition by expanding participation.",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Ascertainment of Facts"
+    },
+    {
+      "question_en": "Based solely on the information presented, identify the statement below that aligns with the details:",
+      "options_en": [
+        "Foreign military leaders were key participants in FWC-02.",
+        "The rank-agnostic philosophy of the course encouraged open dialogue among officers of different ranks.",
+        "The primary aim of FWC-02 was to finalize future weapons procurement contracts.",
+        "Start-ups and MSMEs in the defence sector were excluded from the first edition of the course."
+      ],
+      "answer_en": "b) The rank-agnostic philosophy of the course encouraged open dialogue among officers of different ranks.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Ascertainment of Facts"
+    },
+    {
+      "question_en": "Referring the text, determine which of the following claims is verifiable?",
+      "options_en": [
+        "The specific curriculum details of the specialised modules are provided.",
+        "The exact number of top military leaders who attended the course is mentioned.",
+        "The second edition of the Tri-Services Future Warfare Course concluded on May 09, 2025, in New Delhi.",
+        "All participating private defence companies were based in India."
+      ],
+      "answer_en": "c) The second edition of the Tri-Services Future Warfare Course concluded on May 09, 2025, in New Delhi.",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": "Ascertainment of Facts"
+    },
+    {
+      "question_en": "Which of the following pieces of information is explicitly supported by the content of the passage?",
+      "options_en": [
+        "The female labour participation rate was below 40% in 2022-23.",
+        "The constitutional amendment reserving legislative seats for women has already come into force.",
+        "India's HDI value has consistently risen over the past decade.",
+        "Between 2015-16 and 2019-21, 13.5 crore people in India escaped multidimensional poverty."
+      ],
+      "answer_en": "d",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "passage_ref": "Artificial Intelligence and Development"
+    },
+    {
+      "question_en": "Referring directly to the text, determine which of the following claims is verifiable.",
+      "options_en": [
+        "India has the lowest loss in HDI due to income and gender inequalities in the region.",
+        "The Economic Survey of 2024-25 indicated a female labour participation rate of 41.7%.",
+        "More than 80% of AI researchers who were in India in 2019 have left the country.",
+        "AI is currently being widely used to improve public service delivery across India."
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Artificial Intelligence and Development"
+    },
+    {
+      "question_en": "Which of the following best summarizes a key concern raised in the passage regarding the adoption of AI in India?",
+      "options_en": [
+        "The lack of sufficient AI researchers within the country.",
+        "The potential for AI to worsen existing income and gender inequalities if proper safeguards are not in place.",
+        "The slow pace at which AI is being integrated into sectors like agriculture and healthcare.",
+        "The high cost associated with implementing AI technologies across various sectors."
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Artificial Intelligence and Development"
+    },
+    {
+      "question_en": "Which of the following conclusions can be logically drawn from the given statements?",
+      "options_en": [
+        "An increase in female labour participation automatically leads to higher political representation of women.",
+        "Addressing educational disparities among underprivileged children is crucial for improving India's overall human development.",
+        "The escape of 13.5 crore people from multidimensional poverty completely offset the negative impact of income and gender inequalities on India's HDI.",
+        "India is currently leading the world in the development and application of Artificial Intelligence."
+      ],
+      "answer_en": "b",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": "Artificial Intelligence and Development"
+    },
+    {
+      "question_en": "According to the provided text, which of the subsequent assertions holds true regarding the 2024 Nobel Prize in Physics?",
+      "options_en": [
+        "a) It was awarded for discoveries in quantum physics and cosmology.",
+        "b) It explicitly recognized the development of the first fully functional artificial general intelligence.",
+        "c) It honoured John J. Hopfield and Geoffrey E. Hinton for foundational work enabling machine learning with artificial neural networks.",
+        "d) It solely acknowledged the advancements in hardware used for artificial neural networks."
+      ],
+      "answer_en": "c) It honoured John J. Hopfield and Geoffrey E. Hinton for foundational work enabling machine learning with artificial neural networks.",
+      "answer_letter": "C",
+      "has_marked_answer": false,
+      "passage_ref": "Passage - 3"
+    },
+    {
+      "question_en": "Based solely on the information presented, identify the statement below that aligns with the details concerning the scientific roots of artificial neural networks.",
+      "options_en": [
+        "a) Their foundations are primarily in theoretical mathematics and computer engineering.",
+        "b) They draw insights from diverse fields such as statistical physics, neurobiology, and cognitive psychology.",
+        "c) They are exclusively based on the principles of classical mechanics and electromagnetism.",
+        "d) Their development was independent of research in animal brains and biological systems."
+      ],
+      "answer_en": "b) They draw insights from diverse fields such as statistical physics, neurobiology, and cognitive psychology.",
+      "answer_letter": "B",
+      "has_marked_answer": false,
+      "passage_ref": "Passage - 3"
+    },
+    {
+      "question_en": "Referring directly to the text, determine which of the following claims is verifiable about the Boltzmann machine?",
+      "options_en": [
+        "It was developed as a direct competitor to the Hopfield network with entirely different underlying principles.",
+        "It was an early model for a material with ordered atomic spins, maximizing its energy.",
+        "Hinton, alongside Terrence Sejnowski, popularized its use for cognitive tasks, building on Hopfield's work.",
+        "It primarily functioned by maximizing the value of an energy function to classify data."
+      ],
+      "answer_en": "Hinton, alongside Terrence Sejnowski, popularized its use for cognitive tasks, building on Hopfield's work.",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "passage_ref": null
+    },
+    {
+      "question_en": "Which of the following statements is factually accurate based on the passage concerning the capabilities enabled by the work of Hopfield and Hinton?",
+      "options_en": [
+        "Their foundational work solely led to advancements in image denoising technology.",
+        "Their discoveries enabled ANNs to classify data based on similarity and generate new patterns from old ones.",
+        "Their research had no significant impact on the development of the field of artificial intelligence.",
+        "Their work primarily focused on disproving the analogy between artificial and biological neural networks."
+      ],
+      "answer_en": "Their discoveries enabled ANNs to classify data based on similarity and generate new patterns from old ones.",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "passage_ref": null
+    }
+  ],
+  "notes_en": "p51: This page introduces the concept of 'Ascertainment of Facts,' defined as the investigative process of determining truth through analysis and inference. It provides a practical application through a passage about the FWC-02 defence course, testing the reader's ability to extract specific details from technical text.\np52: This page focuses on 'Ascertainment of Facts' for TNPSC General English, requiring students to carefully verify statements against provided reading passages to identify true claims and align information correctly.\np53: This page focuses on the 'Ascertainment of Facts' skill required for TNPSC exams. It provides practice questions centered on interpreting short passages to identify verifiable information, logical conclusions, and main concerns, requiring students to distinguish between stated facts and external assumptions.\np54: This page focuses on reading comprehension and the ascertainment of facts through a technical passage regarding the 2024 Nobel Prize in Physics and the historical development of Artificial Neural Networks (ANNs).\np55: This page focuses on the 'Ascertainment of Facts' section within Reading Comprehension, requiring students to identify verifiable claims based strictly on the provided passage content rather than outside information.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

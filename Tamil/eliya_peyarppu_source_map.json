@@ -1,0 +1,24 @@
+{
+  "unit": "EliyaMozhiPeyarppu",
+  "pdf_offset": 6,
+  "note": "pdf_page = printed_page + 6 (verified from footers for Unit 6). Topic 1 historically extracted with +5 range 330–334; Topic 2 uses verified +6.",
+  "sm_pdf": "Data/Tamil/ilakanam/SM TAMIL FULL BOOK 570 PAGES.pdf",
+  "topics": {
+    "angilam_tamil_sorkal": {
+      "name_ta": "ஆங்கிலம் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+      "sm_printed": [325, 329],
+      "sm_pdf": [330, 334],
+      "note": "Extracted with historical +5 mapping; do not re-offset unless re-extracting."
+    },
+    "piramozhi_tamil_sorkal": {
+      "name_ta": "பிறமொழிச் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+      "sm_printed": [331, 343],
+      "sm_pdf": [337, 349]
+    },
+    "payanpaattil_angilam_peyarppu": {
+      "name_ta": "பயன்பாட்டில் உள்ள ஆங்கிலச் சொற்களை மொழிபெயர்த்தல்",
+      "sm_printed": [344, 346],
+      "sm_pdf": [350, 352]
+    }
+  }
+}

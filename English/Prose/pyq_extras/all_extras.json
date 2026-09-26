@@ -1,0 +1,436 @@
+{
+  "The Little Hero of Holland - Mary Mapes Dodge": [
+    {
+      "prose_title": "The Little Hero of Holland - Mary Mapes Dodge",
+      "prose_id": "",
+      "question_en": "29. Who is the author of the story \"The little Hero of Holland\".",
+      "options_en": [
+        "Mary Mapes Dodge",
+        "Peter",
+        "Alphonse Daudet",
+        "James Faloner Kikup"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b004",
+      "band": "prose_pyq_b004"
+    },
+    {
+      "prose_title": "The Little Hero of Holland - Mary Mapes Dodge",
+      "prose_id": "",
+      "question_en": "33. \"Holland shall not be drowned while I am here\". These are the words of -------",
+      "options_en": [
+        "Peter",
+        "Little Franz",
+        "Peter's mother",
+        ""
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b004",
+      "band": "prose_pyq_b004"
+    }
+  ],
+  "The little hero of Holland": [
+    {
+      "prose_title": "The little hero of Holland",
+      "prose_id": "",
+      "question_en": "\"Holland shall not be drowned while I am here\". These are the words of -------",
+      "options_en": [
+        "Peter",
+        "Little Franz",
+        "Peter's mother",
+        "A man from the village"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b005",
+      "band": "prose_pyq_b005"
+    },
+    {
+      "prose_title": "The little hero of Holland",
+      "prose_id": "",
+      "question_en": "Peter stopped the water by",
+      "options_en": [
+        "Keeping the mud over the hole",
+        "Keeping his finger in the hole",
+        "Keeping a stone in the hole",
+        "Keeping wooden piece in the hole"
+      ],
+      "answer_en": "Keeping his finger in the hole",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b005",
+      "band": "prose_pyq_b005"
+    },
+    {
+      "prose_title": "The little hero of Holland",
+      "prose_id": "",
+      "question_en": "Who is the Hero of Hollanel?",
+      "options_en": [
+        "John",
+        "Peter",
+        "Mark Twain",
+        "Jonathan"
+      ],
+      "answer_en": "Peter",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b005",
+      "band": "prose_pyq_b005"
+    },
+    {
+      "prose_title": "The little hero of Holland",
+      "prose_id": "",
+      "question_en": "The story 'The little hero of Holland' is written by",
+      "options_en": [
+        "Satyajit Ray",
+        "Jules Verne",
+        "Mary Mapes Dodge",
+        "Mark twain"
+      ],
+      "answer_en": "Mary Mapes Dodge",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b005",
+      "band": "prose_pyq_b005"
+    },
+    {
+      "prose_title": "The little hero of Holland",
+      "prose_id": "",
+      "question_en": "When Peter thrust his finger into the tiny hole",
+      "options_en": [
+        "the flowing of water stopped",
+        "he heard a splashing noise",
+        "water started flowing more",
+        "the dike broke into pieces"
+      ],
+      "answer_en": "the flowing of water stopped",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b005",
+      "band": "prose_pyq_b005"
+    }
+  ],
+  "Unknown": [
+    {
+      "prose_title": "Unknown",
+      "prose_id": "",
+      "question_en": "Holmes sickness was",
+      "options_en": [
+        "a deceitful, intentional trick",
+        "an alias",
+        "a clever alibi",
+        "a prank"
+      ],
+      "answer_en": "a deceitful, intentional trick",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "top",
+      "band": "prose_pyq_b007"
+    }
+  ],
+  "unknown": [
+    {
+      "prose_title": "unknown",
+      "prose_id": "",
+      "question_en": "Choose the correct answer : __________ is celebrated as “National Science Day”.",
+      "options_en": [
+        "January 28",
+        "March 28",
+        "May 28",
+        "February 28"
+      ],
+      "answer_en": "February 28",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b011",
+      "band": "prose_pyq_b011"
+    },
+    {
+      "prose_title": "unknown",
+      "prose_id": "",
+      "question_en": "What is “Cheering Sight” according to Sir.C.V. Raman?",
+      "options_en": [
+        "Rainfed tanks with full of water",
+        "Tanks without water",
+        "River",
+        "Lake"
+      ],
+      "answer_en": "Rainfed tanks with full of water",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b011",
+      "band": "prose_pyq_b011"
+    },
+    {
+      "prose_title": "unknown",
+      "prose_id": "",
+      "question_en": "Ruskin Bond was waiting for the northern bound train at ________ station.",
+      "options_en": [
+        "Amber",
+        "Angola",
+        "Amba",
+        "Ambala"
+      ],
+      "answer_en": "Ambala",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "top-middle section",
+      "band": "prose_pyq_b016"
+    },
+    {
+      "prose_title": "unknown",
+      "prose_id": "",
+      "question_en": "Ruskin Bond was awarded ________ for his contribution to Indian literature.",
+      "options_en": [
+        "Pulitzer prize",
+        "Sahitya Akademi award",
+        "Padmabhusan",
+        "Padma Vibhusan"
+      ],
+      "answer_en": "Sahitya Akademi award",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "top-middle section",
+      "band": "prose_pyq_b016"
+    }
+  ],
+  "The Story of a Grizzly Cub - William Temple Hornaday": [
+    {
+      "prose_title": "The Story of a Grizzly Cub - William Temple Hornaday",
+      "prose_id": "",
+      "question_en": "Little Cyclone is a grizzly cub is from ----",
+      "options_en": [
+        "China",
+        "Alaska",
+        "India",
+        "Europe"
+      ],
+      "answer_en": "Alaska",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b011",
+      "band": "prose_pyq_b011"
+    },
+    {
+      "prose_title": "The Story of a Grizzly Cub - William Temple Hornaday",
+      "prose_id": "",
+      "question_en": "Little czar was a ------- ?",
+      "options_en": [
+        "Grizzly cub fran Alaska",
+        "North American Black bear",
+        "Furry little polar bear",
+        "Good natured European brown bear"
+      ],
+      "answer_en": "Grizzly cub fran Alaska",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b011",
+      "band": "prose_pyq_b011"
+    }
+  ],
+  "Little Cyclone": [
+    {
+      "prose_title": "Little Cyclone",
+      "prose_id": "",
+      "question_en": "59. Little cyclone was rescued by the ----------",
+      "options_en": [
+        "Members of the Blue cross",
+        "Friendly hands of the Zoological society",
+        "Members of the National Zoo",
+        "Volunteers from the New York"
+      ],
+      "answer_en": "Friendly hands of the Zoological society",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b012",
+      "band": "prose_pyq_b012"
+    },
+    {
+      "prose_title": "Little Cyclone",
+      "prose_id": "",
+      "question_en": "22. Choose the correct answer : William Temple Hornaday was an American ----------",
+      "options_en": [
+        "Zoologist",
+        "Conservationist",
+        "Taxidermist",
+        "All the above"
+      ],
+      "answer_en": "All the above",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b012",
+      "band": "prose_pyq_b012"
+    },
+    {
+      "prose_title": "Little Cyclone",
+      "prose_id": "",
+      "question_en": "45. ---------- is the name earned by the grizzly cub from Alaska.",
+      "options_en": [
+        "Fluffy",
+        "Hairy",
+        "Little Cyclone",
+        "Pudgy"
+      ],
+      "answer_en": "Little Cyclone",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b012",
+      "band": "prose_pyq_b012"
+    },
+    {
+      "prose_title": "Little Cyclone",
+      "prose_id": "",
+      "question_en": "48. Where is the Bear's Nursery situated?",
+      "options_en": [
+        "India",
+        "America",
+        "New York",
+        "England"
+      ],
+      "answer_en": "New York",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b012",
+      "band": "prose_pyq_b012"
+    },
+    {
+      "prose_title": "Little Cyclone",
+      "prose_id": "",
+      "question_en": "49. Little cyclone was rescued by the ----------.",
+      "options_en": [
+        "Members of the bluecross",
+        "Friendly hands of the zoological society",
+        "Members of the national zoo",
+        "Volunteers from NewYork"
+      ],
+      "answer_en": "Friendly hands of the zoological society",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b012",
+      "band": "prose_pyq_b012"
+    }
+  ],
+  "Not Specified": [
+    {
+      "prose_title": "Not Specified",
+      "prose_id": "",
+      "question_en": "Read the statement carefully what does it try to prove here? \"If any of you fellows think there is anything coming to you from me, come and take it\"",
+      "options_en": [
+        "A brave fears no evil",
+        "A brave fears no happy",
+        "A calmness brings a victory",
+        "A fearless ends in vain"
+      ],
+      "answer_en": "A brave fears no evil",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "top-most fragment",
+      "band": "prose_pyq_b013"
+    }
+  ],
+  "The Woman on Platform 8 - Ruskin Bond": [
+    {
+      "prose_title": "The Woman on Platform 8 - Ruskin Bond",
+      "prose_id": "",
+      "question_en": "Who among the following is not a character in the story ‘The woman on Platform-8’.",
+      "options_en": [
+        "Arun",
+        "Satish",
+        "Satish's mother",
+        "Satish's father"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b015",
+      "band": "prose_pyq_b015"
+    },
+    {
+      "prose_title": "The Woman on Platform 8 - Ruskin Bond",
+      "prose_id": "",
+      "question_en": "Ruskin Bond was honoured with ________ for his contribution to Indian literature.",
+      "options_en": [
+        "Bharat Ratna",
+        "Sahitya Ratna",
+        "Sahitya Bharat",
+        "Sahitya Akademi"
+      ],
+      "answer_en": "Sahitya Akademi",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b015",
+      "band": "prose_pyq_b015"
+    },
+    {
+      "prose_title": "The Woman on Platform 8 - Ruskin Bond",
+      "prose_id": "",
+      "question_en": "What was the expected arrival time of the train in the story - The Woman On Platform 8?",
+      "options_en": [
+        "One o'clock",
+        "Twelve o'clock",
+        "Two o'clock",
+        "Eleven o'clock"
+      ],
+      "answer_en": "Twelve o'clock",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b015",
+      "band": "prose_pyq_b015"
+    }
+  ],
+  "Glimpses of World History": [
+    {
+      "prose_title": "Glimpses of World History",
+      "prose_id": "",
+      "question_en": "Who wrote the book 'GLIMPSES OF WORLD HISTORY'",
+      "options_en": [
+        "Indira Gandhi",
+        "Sarojini Naidu",
+        "Jawaharlal Nehru",
+        "Gandhi"
+      ],
+      "answer_en": "Jawaharlal Nehru",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b018",
+      "band": "prose_pyq_b018"
+    },
+    {
+      "prose_title": "Glimpses of World History",
+      "prose_id": "",
+      "question_en": "\"Good-bye, little one, and may you grow up into a brave soldier in India's service.\" - Here \"little one\" refers to",
+      "options_en": [
+        "Young Lakshmi Bai",
+        "Joan of Arc",
+        "Young Indira",
+        "Young Natchiyar"
+      ],
+      "answer_en": "Young Indira",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b018",
+      "band": "prose_pyq_b018"
+    },
+    {
+      "prose_title": "Glimpses of World History",
+      "prose_id": "",
+      "question_en": "\"Glimpses of World History\" - It is a collection of __________ letters on World History.",
+      "options_en": [
+        "196",
+        "197",
+        "198",
+        "199"
+      ],
+      "answer_en": "196",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b018",
+      "band": "prose_pyq_b018"
+    }
+  ]
+}

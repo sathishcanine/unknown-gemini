@@ -1,0 +1,49 @@
+{
+  "topics": {
+    "unseen_passages": {
+      "topic_id": "unseen_passages",
+      "start": 75,
+      "target": 75,
+      "rule_issues": 0,
+      "rule_fixed": 0,
+      "rule_dropped": 0,
+      "gemini": {
+        "verdict": "NEEDS_FIX",
+        "flagged": 2,
+        "fixed": 0,
+        "dropped": 2,
+        "flagged_questions": [
+          {
+            "q_index": 16,
+            "issue_type": "off_topic",
+            "severity": "high",
+            "description": "Question refers to Pearl Buck who is not mentioned in the provided reference passages or notes.",
+            "suggestion": "DROP",
+            "correct_answer_letter": null
+          },
+          {
+            "q_index": 17,
+            "issue_type": "off_topic",
+            "severity": "high",
+            "description": "Question refers to Pearl Buck's novel which is outside the scope of the provided reference texts.",
+            "suggestion": "DROP",
+            "correct_answer_letter": null
+          }
+        ],
+        "chunk_verdicts": [
+          "NEEDS_FIX",
+          "PASS",
+          "PASS"
+        ]
+      },
+      "final_count": 75,
+      "final_rule_issues": 0,
+      "final_rule_detail": []
+    }
+  },
+  "totals": {
+    "topics": 1,
+    "questions": 75,
+    "need_attention": []
+  }
+}

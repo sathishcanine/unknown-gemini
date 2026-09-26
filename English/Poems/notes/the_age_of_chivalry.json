@@ -1,0 +1,72 @@
+{
+  "poem_id": "the_age_of_chivalry",
+  "poem_title": "The Age of Chivalry",
+  "author": "George Krokos",
+  "num": 8,
+  "pdf_pages": [
+    27,
+    30
+  ],
+  "poem_text_en": "Back in the days of old\nwhen knights were bold\nwho with a sword or lance\nin armour sought romance.\nIt was the age of chivalry\nlong ago in man’s history\nwhen to fight for a righteous cause\none did gain considerable applause.\nIt was mainly for show, love and glory\nthey deemed themselves being worthy\nto capture the heart of some fair maiden\nwhich was the most desired prize laden.\nOh, they would strike heavy blows\non all of their opponents and foes\nin a one to one combat defying death\nas crowds watched with abated breath.\nYes, it was far back in those days of yore\nthat courage and strength came to the fore\nwhere there was this life and death struggle;\nsuch issues at hand the knights would juggle.\nAnd in fighting for their country, faith and king\nnoble impressions on people’s minds would ring\nthat even through the ages are held in high esteem\nthose knights in shinning armour do now all seem.\nThere are many legends based on their heroic exploits\na legacy of tales which have been told with much adroit\nhighlighting aspects of human wisdom related to virtue and vice\nand the lessons to be learnt are those of goodness and sacrifice.\nHistory usually repeats itself time and again\nas it often happens a situation comes when\nwe’re asked to do something for a just cause\nand acting with chivalry we shouldn’t pause.",
+  "summary_en": "The poem reflects on the age of chivalry, highlighting the courage, strength, and noble deeds of knights from the past. It draws parallels to contemporary life, suggesting that history repeats itself and that we should act with chivalry when faced with a just cause today.",
+  "glossary": [
+    {
+      "word_en": "lance",
+      "meaning_en": "a long weapon used by knights"
+    },
+    {
+      "word_en": "chivalry",
+      "meaning_en": "the religious, moral, or social code of knightly conduct"
+    },
+    {
+      "word_en": "abated",
+      "meaning_en": "reduced in force or intensity"
+    },
+    {
+      "word_en": "impressions",
+      "meaning_en": "ideas, feelings, or opinions about something or someone"
+    },
+    {
+      "word_en": "exploits",
+      "meaning_en": "bold or daring feats"
+    },
+    {
+      "word_en": "adroit",
+      "meaning_en": "clever or skillful in using the hands or mind"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "alliteration",
+      "example_en": "courage and strength came to the fore",
+      "note_en": "Repetition of the 'c' sound."
+    },
+    {
+      "device_en": "metaphor",
+      "example_en": "the age of chivalry",
+      "note_en": "Refers to a period defined by a set of codes rather than just literal time."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "George Krokos was born on 30th June, 1951, in Samos, Greece.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem explores the historical value of chivalry and its modern-day relevance.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The poet emphasizes that chivalry is not just for the past, but something we should embody today.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "When will one get an applause?",
+      "answer_en": "One will gain considerable applause when they fight for a righteous cause.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

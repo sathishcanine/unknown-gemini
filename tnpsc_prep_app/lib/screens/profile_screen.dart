@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart' show kDebugMode;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/app_state.dart';
@@ -81,13 +82,30 @@ class ProfileScreen extends StatelessWidget {
                           ),
                           const SizedBox(height: 4),
                           Text(
-                            appState.isGuestUser ? 'Signed in as Guest' : appState.userEmail,
+                            appState.isPremiumAspirant
+                                ? 'Premium Aspirant'
+                                : (appState.isGuestUser
+                                    ? 'Signed in as Guest'
+                                    : appState.userEmail),
                             style: TextStyle(
                               fontFamily: 'Inter',
                               fontSize: 13,
-                              color: mutedColor,
+                              color: appState.isPremiumAspirant
+                                  ? const Color(0xFFD97706)
+                                  : mutedColor,
                             ),
                           ),
+                          if (appState.isPremiumAspirant && !appState.isGuestUser) ...[
+                            const SizedBox(height: 2),
+                            Text(
+                              appState.userEmail,
+                              style: TextStyle(
+                                fontFamily: 'Inter',
+                                fontSize: 12,
+                                color: mutedColor,
+                              ),
+                            ),
+                          ],
                         ],
                       ),
                     ),
@@ -148,6 +166,95 @@ class ProfileScreen extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 12),
+
+            Card(
+              color: cardBg,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(16),
+                side: BorderSide(
+                  color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04),
+                ),
+              ),
+              child: ListTile(
+                contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                leading: Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFFD97706).withOpacity(0.12),
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: const Icon(
+                    Icons.workspace_premium_rounded,
+                    color: Color(0xFFD97706),
+                    size: 20,
+                  ),
+                ),
+                title: Text(
+                  appState.isPremiumAspirant ? 'Premium Aspirant' : 'Go Premium',
+                  style: TextStyle(
+                    fontFamily: 'Outfit',
+                    fontSize: 15,
+                    fontWeight: FontWeight.bold,
+                    color: textColor,
+                  ),
+                ),
+                subtitle: Text(
+                  appState.isPremiumAspirant
+                      ? 'All practice batches unlocked'
+                      : 'AI Coach, mocks, notes & more from ₹99',
+                  style: const TextStyle(fontFamily: 'Inter', fontSize: 11, color: Colors.grey),
+                ),
+                trailing: const Icon(Icons.chevron_right_rounded, color: Colors.grey),
+                onTap: () => appState.navigateToPremium(),
+              ),
+            ),
+            const SizedBox(height: 12),
+
+            if (kDebugMode) ...[
+              Card(
+                color: cardBg,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(16),
+                  side: BorderSide(
+                    color: isDark ? Colors.white.withOpacity(0.04) : Colors.black.withOpacity(0.04),
+                  ),
+                ),
+                child: SwitchListTile(
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                  secondary: Container(
+                    padding: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFD97706).withOpacity(0.12),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: const Icon(
+                      Icons.workspace_premium_rounded,
+                      color: Color(0xFFD97706),
+                      size: 20,
+                    ),
+                  ),
+                  title: Text(
+                    'Premium Aspirant (Debug)',
+                    style: TextStyle(
+                      fontFamily: 'Outfit',
+                      fontSize: 15,
+                      fontWeight: FontWeight.bold,
+                      color: textColor,
+                    ),
+                  ),
+                  subtitle: const Text(
+                    'Unlock all practice batches for local testing',
+                    style: TextStyle(fontFamily: 'Inter', fontSize: 11, color: Colors.grey),
+                  ),
+                  value: appState.isPremiumAspirant,
+                  activeColor: const Color(0xFFD97706),
+                  onChanged: (bool val) {
+                    appState.setPremiumAspirant(val);
+                  },
+                ),
+              ),
+              const SizedBox(height: 12),
+            ],
 
             // Content language toggle
             Card(

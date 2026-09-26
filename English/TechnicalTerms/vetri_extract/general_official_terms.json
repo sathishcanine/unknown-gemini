@@ -1,0 +1,891 @@
+{
+  "topic_id": "general_official_terms",
+  "topic_title": "General & Official Terms",
+  "unit": 4,
+  "batches_target": 2,
+  "pages": [
+    71,
+    84
+  ],
+  "rules": [
+    {
+      "rule_en": "Official terms are often asked in TNPSC as direct vocabulary matching or English-to-Tamil translation.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Official and Administrative terms often test the ability to match English definitions with correct terminology.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Official terms often use prefixes like 'Local' or 'Madras' to denote specific administrative jurisdiction.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Administrative and Departmental terms often follow a standard format of term in English, Tamil translation, and English definition.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "General and Official terms are frequently asked in TNPSC vocabulary sections matching English to Tamil or defining official terminology.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Memorize the administrative and departmental terminology for matching-type questions in TNPSC General English.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Official terms are frequently asked as matching type questions in TNPSC General English paper.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Understand administrative and department-related terminology for matching questions.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Understand administrative terminology in English for precise definitions in official contexts.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Official terms are used in formal administrative and legal communications.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "These terms are administrative vocabulary frequently tested for meaning and Tamil equivalent matching.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Official correspondence must be formal, professional, and avoid personal language.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Official correspondence must be formal, avoiding personal language and remaining self-contained.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Official letters must clearly state the sender's name and official title.",
+      "tag": "format"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Leading Question",
+      "meaning_en": "A query that prompts a desired answer."
+    },
+    {
+      "term_en": "Leap year",
+      "meaning_en": "A year with an extra day."
+    },
+    {
+      "term_en": "Leave Account",
+      "meaning_en": "A record of an employee's time off."
+    },
+    {
+      "term_en": "Leave Account Form",
+      "meaning_en": "A document for tracking an employee's time off."
+    },
+    {
+      "term_en": "Leave Not Due",
+      "meaning_en": "Time off taken before it is earned."
+    },
+    {
+      "term_en": "Leave on Loss of Pay",
+      "meaning_en": "Time off without salary."
+    },
+    {
+      "term_en": "Ledger",
+      "meaning_en": "A book containing financial accounts."
+    },
+    {
+      "term_en": "Legal Adviser",
+      "meaning_en": "An expert who provides counsel on legal matters."
+    },
+    {
+      "term_en": "Legal Duty",
+      "meaning_en": "An obligation required by law."
+    },
+    {
+      "term_en": "Legal Heir",
+      "meaning_en": "A person entitled to inherit under the law."
+    },
+    {
+      "term_en": "Legal Opinion",
+      "meaning_en": "A professional assessment of a legal issue."
+    },
+    {
+      "term_en": "Legal Practitioner",
+      "meaning_en": "A person who practices law."
+    },
+    {
+      "term_en": "Legal Proceedings",
+      "meaning_en": "Actions taken in a court of law."
+    },
+    {
+      "term_en": "Legal Remedy",
+      "meaning_en": "The means by which a court enforces a right or redresses a wrong."
+    },
+    {
+      "term_en": "Legal Representative",
+      "meaning_en": "A person authorized to act on behalf of another in legal matters."
+    },
+    {
+      "term_en": "Legal Tender",
+      "meaning_en": "Currency that must be accepted in payment of debts."
+    },
+    {
+      "term_en": "Legislative Assembly",
+      "meaning_en": "A body of elected lawmakers."
+    },
+    {
+      "term_en": "Legislative Council",
+      "meaning_en": "An upper chamber of lawmakers."
+    },
+    {
+      "term_en": "Legislature",
+      "meaning_en": "A body that makes laws."
+    },
+    {
+      "term_en": "Legislature Hostel",
+      "meaning_en": "Accommodation for lawmakers."
+    },
+    {
+      "term_en": "Lenient sentence",
+      "meaning_en": "A less severe punishment."
+    },
+    {
+      "term_en": "Lenient View",
+      "meaning_en": "A compassionate or forgiving perspective."
+    },
+    {
+      "term_en": "Level Crossing",
+      "meaning_en": "A place where a road crosses a railway line."
+    },
+    {
+      "term_en": "Lexicon",
+      "meaning_en": "A dictionary or vocabulary."
+    },
+    {
+      "term_en": "Liaison Officer",
+      "meaning_en": "A person who coordinates communication between groups."
+    },
+    {
+      "term_en": "Licensing Authority",
+      "meaning_en": "A body that grants permissions."
+    },
+    {
+      "term_en": "Licensing File",
+      "meaning_en": "Documents related to official permissions."
+    },
+    {
+      "term_en": "Licentious",
+      "meaning_en": "Lacking moral restraint."
+    },
+    {
+      "term_en": "Lien",
+      "meaning_en": "A legal claim on property as security for a debt."
+    },
+    {
+      "term_en": "Lieutenant Governor",
+      "meaning_en": "An official who assists the governor."
+    },
+    {
+      "term_en": "Limited Company",
+      "meaning_en": "A business where the owners' liability is restricted."
+    },
+    {
+      "term_en": "Limited Liability",
+      "meaning_en": "A situation where owners are only responsible for business debts up to the amount of their investment."
+    },
+    {
+      "term_en": "Linguistic Minorities",
+      "meaning_en": "Groups who speak a language different from the majority."
+    },
+    {
+      "term_en": "Link language",
+      "meaning_en": "A common language used for communication between groups."
+    },
+    {
+      "term_en": "Literary Association",
+      "meaning_en": "A group that promotes literature."
+    },
+    {
+      "term_en": "Livestock farm",
+      "meaning_en": "A place where animals are raised for commercial purposes."
+    },
+    {
+      "term_en": "Loan certificate",
+      "meaning_en": "A document verifying a debt."
+    },
+    {
+      "term_en": "Local Administration",
+      "meaning_en": "The management of affairs at a municipal level."
+    },
+    {
+      "term_en": "Local Allowance",
+      "meaning_en": "Extra pay for working in a specific area."
+    },
+    {
+      "term_en": "Local Board",
+      "meaning_en": "A governing body at the town or city level."
+    },
+    {
+      "term_en": "Local Body",
+      "meaning_en": "A governing body at the town or city level."
+    },
+    {
+      "term_en": "Local call charges",
+      "meaning_en": "Fees for phone calls within a specific area."
+    },
+    {
+      "term_en": "Local Delivery",
+      "meaning_en": "The distribution of mail within a specific area."
+    },
+    {
+      "term_en": "Local Delivery Register",
+      "meaning_en": "A record of mail distributed within a specific area."
+    },
+    {
+      "term_en": "Local fund Accounts",
+      "meaning_en": "Financial records of a municipal body."
+    },
+    {
+      "term_en": "Local Fund Deposit",
+      "meaning_en": "Money placed in a bank account by a municipal body."
+    },
+    {
+      "term_en": "Local Fund Hospital",
+      "meaning_en": "A medical facility funded by a municipal body."
+    },
+    {
+      "term_en": "Local inquiry",
+      "meaning_en": "An investigation conducted in a specific area."
+    },
+    {
+      "term_en": "Local inspection",
+      "meaning_en": "An examination carried out in a specific area."
+    },
+    {
+      "term_en": "Local investigation",
+      "meaning_en": "An inquiry conducted in a specific area."
+    },
+    {
+      "term_en": "Local Library Authority",
+      "meaning_en": "A governing body for libraries in a specific area."
+    },
+    {
+      "term_en": "Local Tax",
+      "meaning_en": "A charge imposed by a municipal body."
+    },
+    {
+      "term_en": "Locker",
+      "meaning_en": "A small, lockable compartment."
+    },
+    {
+      "term_en": "Lock-out",
+      "meaning_en": "A work stoppage initiated by an employer."
+    },
+    {
+      "term_en": "Lock-up",
+      "meaning_en": "A place for the temporary detention of prisoners."
+    },
+    {
+      "term_en": "Madras Port Fund",
+      "meaning_en": "Finances dedicated to the Chennai harbor."
+    },
+    {
+      "term_en": "Madras Port Trust",
+      "meaning_en": "The organization that manages the Chennai harbor."
+    },
+    {
+      "term_en": "Magisterial",
+      "meaning_en": "Relating to a judicial officer."
+    },
+    {
+      "term_en": "Majority Communities",
+      "meaning_en": "Groups that constitute the largest portion of a population."
+    },
+    {
+      "term_en": "Major Ports",
+      "meaning_en": "Large harbors handling significant shipping traffic."
+    },
+    {
+      "term_en": "Management",
+      "meaning_en": "The process of organizing and directing resources."
+    },
+    {
+      "term_en": "Managing Agent",
+      "meaning_en": "Someone who oversees business operations on behalf of an owner."
+    },
+    {
+      "term_en": "Managing Body",
+      "meaning_en": "A group that directs the affairs of an organization."
+    },
+    {
+      "term_en": "Managing Director",
+      "meaning_en": "The executive in charge of a company's day-to-day operations."
+    },
+    {
+      "term_en": "Managing Trustee",
+      "meaning_en": "Someone who oversees assets held in trust."
+    },
+    {
+      "term_en": "Mandatory Functions",
+      "meaning_en": "Duties that must be performed."
+    },
+    {
+      "term_en": "Mandatory Order",
+      "meaning_en": "A directive that must be obeyed."
+    },
+    {
+      "term_en": "Manifesto",
+      "meaning_en": "A public declaration of policy and aims."
+    },
+    {
+      "term_en": "Manpower",
+      "meaning_en": "The total number of workers available."
+    },
+    {
+      "term_en": "Manual Labour",
+      "meaning_en": "Physical work performed by humans."
+    },
+    {
+      "term_en": "Manufacturing Chemist",
+      "meaning_en": "A scientist who formulates products for commercial use."
+    },
+    {
+      "term_en": "Manufacturing Plant",
+      "meaning_en": "A facility where goods are produced."
+    },
+    {
+      "term_en": "Manuscript",
+      "meaning_en": "A document written by hand."
+    },
+    {
+      "term_en": "March",
+      "meaning_en": "To walk in a formal procession."
+    },
+    {
+      "term_en": "Matching Grant",
+      "meaning_en": "Funds provided in response to money raised from other sources."
+    },
+    {
+      "term_en": "Maternity and Child Welfare",
+      "meaning_en": "Services promoting the health of mothers and children."
+    },
+    {
+      "term_en": "Maternity Assistant",
+      "meaning_en": "A healthcare worker who helps women during childbirth."
+    },
+    {
+      "term_en": "Maternity Benefit Act",
+      "meaning_en": "Laws providing financial support to women during childbirth."
+    },
+    {
+      "term_en": "Maternity Home",
+      "meaning_en": "A facility that provides care for women during and after childbirth."
+    },
+    {
+      "term_en": "Maternity Hospital",
+      "meaning_en": "A hospital specializing in childbirth."
+    },
+    {
+      "term_en": "Maternity leave",
+      "meaning_en": "Time off from work granted to women around childbirth."
+    },
+    {
+      "term_en": "Maternity Relief",
+      "meaning_en": "Assistance provided to women during childbirth."
+    },
+    {
+      "term_en": "Mercy Petition",
+      "meaning_en": "A request for clemency or pardon."
+    },
+    {
+      "term_en": "Meteorology",
+      "meaning_en": "The study of weather."
+    },
+    {
+      "term_en": "Midwife",
+      "meaning_en": "A healthcare professional who assists women during childbirth."
+    },
+    {
+      "term_en": "Migrants",
+      "meaning_en": "People who move from one place to another."
+    },
+    {
+      "term_en": "Minutes",
+      "meaning_en": "The official record of a meeting."
+    },
+    {
+      "term_en": "Moral Obligation",
+      "meaning_en": "A duty based on ethical principles."
+    },
+    {
+      "term_en": "Mortgage Bonds",
+      "meaning_en": "Debt instruments secured by real estate."
+    },
+    {
+      "term_en": "Mufti",
+      "meaning_en": "Civilian clothes as opposed to a uniform."
+    },
+    {
+      "term_en": "Munsif's Court",
+      "meaning_en": "A court dealing with civil cases at a local level."
+    },
+    {
+      "term_en": "Muster Roll",
+      "meaning_en": "A list of employees used for attendance and payroll."
+    },
+    {
+      "term_en": "Muttadar, Muthavalli",
+      "meaning_en": "A manager of Islamic religious property."
+    },
+    {
+      "term_en": "Muttas",
+      "meaning_en": "Islamic religious endowments."
+    },
+    {
+      "term_en": "Node",
+      "meaning_en": "A central point in a network."
+    },
+    {
+      "term_en": "Nomination Paper",
+      "meaning_en": "A form used to propose a candidate for election."
+    },
+    {
+      "term_en": "Nominee",
+      "meaning_en": "A person chosen to act on behalf of another."
+    },
+    {
+      "term_en": "Non - Judicial Stamp Paper",
+      "meaning_en": "Paper used for legal documents but not involving court proceedings."
+    },
+    {
+      "term_en": "Non - Official",
+      "meaning_en": "Not connected with"
+    },
+    {
+      "term_en": "Non-Plan Expenditure",
+      "meaning_en": "Government spending not included in the development plan."
+    },
+    {
+      "term_en": "Non-Plan Scheme",
+      "meaning_en": "A government program not included in the development plan."
+    },
+    {
+      "term_en": "Non-Recurring Expenditure",
+      "meaning_en": "Expenses that occur infrequently."
+    },
+    {
+      "term_en": "Non-Teaching Staff",
+      "meaning_en": "Employees who do not instruct students."
+    },
+    {
+      "term_en": "Non-Technical",
+      "meaning_en": "Not involving specialized skills or knowledge."
+    },
+    {
+      "term_en": "No Objection Certificate",
+      "meaning_en": "A document stating that there are no objections to a proposed action."
+    },
+    {
+      "term_en": "Oath of Secrecy",
+      "meaning_en": "A vow to keep information confidential."
+    },
+    {
+      "term_en": "Objection Book",
+      "meaning_en": "A log where complaints or disagreements are recorded."
+    },
+    {
+      "term_en": "Objection Memo",
+      "meaning_en": "A written statement of disagreement."
+    },
+    {
+      "term_en": "Official Misconduct",
+      "meaning_en": "Inappropriate behaviour by a public servant."
+    },
+    {
+      "term_en": "Officiating Service",
+      "meaning_en": "Temporary employment in a higher position."
+    },
+    {
+      "term_en": "Old age pension",
+      "meaning_en": "Payments to elderly citizens."
+    },
+    {
+      "term_en": "On India Government Service",
+      "meaning_en": "Marking indicating something is for use by the Indian government."
+    },
+    {
+      "term_en": "Ordinance",
+      "meaning_en": "A law enacted by the executive branch without legislative approval."
+    },
+    {
+      "term_en": "Out-Post",
+      "meaning_en": "A remote or subordinate station."
+    },
+    {
+      "term_en": "Outskirts",
+      "meaning_en": "The outer edges of a town or city."
+    },
+    {
+      "term_en": "Pact",
+      "meaning_en": "A formal agreement."
+    },
+    {
+      "term_en": "Panchayat Union Road",
+      "meaning_en": "A road maintained by a local council."
+    },
+    {
+      "term_en": "Pandemonium",
+      "meaning_en": "Wild and noisy disorder."
+    },
+    {
+      "term_en": "Patrol",
+      "meaning_en": "A group that regularly monitors an area."
+    },
+    {
+      "term_en": "Payee",
+      "meaning_en": "The person to whom money is paid."
+    },
+    {
+      "term_en": "Pay slip",
+      "meaning_en": "A document detailing an employee's earnings and deductions."
+    },
+    {
+      "term_en": "Pen-name",
+      "meaning_en": "A pseudonym used by an author."
+    },
+    {
+      "term_en": "Pension fund",
+      "meaning_en": "Money set aside to provide retirement income."
+    },
+    {
+      "term_en": "Periodicals",
+      "meaning_en": "Publications issued at regular intervals."
+    },
+    {
+      "term_en": "Permanent Advance",
+      "meaning_en": "A fixed sum of money provided for recurring expenses."
+    },
+    {
+      "term_en": "Permanent Officer",
+      "meaning_en": "An employee with a secure, long-term position."
+    },
+    {
+      "term_en": "Permanent Retention",
+      "meaning_en": "The act of keeping something indefinitely."
+    },
+    {
+      "term_en": "Permanent Settlement",
+      "meaning_en": "A system of fixed land revenue collection."
+    },
+    {
+      "term_en": "Personal Allowance",
+      "meaning_en": "Money provided to an individual for their personal expenses."
+    },
+    {
+      "term_en": "Personal Inspection",
+      "meaning_en": "An examination conducted in person."
+    },
+    {
+      "term_en": "Personal Register",
+      "meaning_en": "A record of an employee's personal information and employment history."
+    },
+    {
+      "term_en": "Personal Surety",
+      "meaning_en": "A guarantee provided by an individual."
+    },
+    {
+      "term_en": "Petitioner",
+      "meaning_en": "Someone who makes a formal request to a court."
+    },
+    {
+      "term_en": "Plea",
+      "meaning_en": "A formal statement of defense or request in a legal case."
+    },
+    {
+      "term_en": "Poet Laureate",
+      "meaning_en": "A poet officially appointed by a government."
+    },
+    {
+      "term_en": "Point of Law",
+      "meaning_en": "A legal issue or question."
+    },
+    {
+      "term_en": "Point of order",
+      "meaning_en": "A question raised about the procedure of a meeting."
+    },
+    {
+      "term_en": "Port folio",
+      "meaning_en": "The collection of responsibilities of a government minister."
+    },
+    {
+      "term_en": "Post-dated cheque",
+      "meaning_en": "A cheque dated for a future date."
+    },
+    {
+      "term_en": "Posthumous",
+      "meaning_en": "Occurring after death."
+    },
+    {
+      "term_en": "Post-partum",
+      "meaning_en": "Following childbirth."
+    },
+    {
+      "term_en": "Post-script",
+      "meaning_en": "Additional information added at the end of a letter."
+    },
+    {
+      "term_en": "Practitioner",
+      "meaning_en": "Someone engaged in a profession."
+    },
+    {
+      "term_en": "Pre audit",
+      "meaning_en": "An examination of accounts before payment."
+    },
+    {
+      "term_en": "Predecessor",
+      "meaning_en": "A person who held a position previously."
+    },
+    {
+      "term_en": "Premises",
+      "meaning_en": "A building and its surrounding land."
+    },
+    {
+      "term_en": "Premium",
+      "meaning_en": "The periodic payment for insurance or a bonus payment."
+    },
+    {
+      "term_en": "Preventive Detention",
+      "meaning_en": "The imprisonment of people deemed a threat to security."
+    },
+    {
+      "term_en": "Preventive Measures",
+      "meaning_en": "Actions taken to avoid a problem."
+    },
+    {
+      "term_en": "Primary Health Centre",
+      "meaning_en": "A local facility providing basic medical care."
+    },
+    {
+      "term_en": "Prisoner",
+      "meaning_en": "A person held in confinement."
+    },
+    {
+      "term_en": "Prisoners of War",
+      "meaning_en": "Soldiers captured during combat."
+    },
+    {
+      "term_en": "Prisoners testimony",
+      "meaning_en": "Evidence given by someone in custody."
+    },
+    {
+      "term_en": "Probation",
+      "meaning_en": "A period of supervision or trial."
+    },
+    {
+      "term_en": "Probation Officer",
+      "meaning_en": "Someone who supervises offenders on parole."
+    },
+    {
+      "term_en": "Probation period",
+      "meaning_en": "A length of time during which someone's conduct is monitored."
+    },
+    {
+      "term_en": "Proceedings in open Court",
+      "meaning_en": "A trial where the public is allowed to observe."
+    },
+    {
+      "term_en": "Process Memo",
+      "meaning_en": "A document that initiates a legal action."
+    },
+    {
+      "term_en": "Prospectus",
+      "meaning_en": "A booklet describing the details of an investment or educational program."
+    },
+    {
+      "term_en": "Protective Clause",
+      "meaning_en": "A provision in a contract that offers security."
+    },
+    {
+      "term_en": "Protective endorsement",
+      "meaning_en": "A signature on a check that limits its negotiability."
+    },
+    {
+      "term_en": "Protective measures",
+      "meaning_en": "Actions taken to ensure safety or security."
+    },
+    {
+      "term_en": "Provident Fund",
+      "meaning_en": "A savings plan for employees."
+    },
+    {
+      "term_en": "Provision",
+      "meaning_en": "A clause in a legal document or a supply of resources."
+    },
+    {
+      "term_en": "Provision of funds",
+      "meaning_en": "The allocation of money."
+    },
+    {
+      "term_en": "Proxy",
+      "meaning_en": "A person authorized to act on behalf of another."
+    },
+    {
+      "term_en": "Public Accounts",
+      "meaning_en": "Financial records of the government."
+    },
+    {
+      "term_en": "Reconciliation",
+      "meaning_en": "The process of making accounts consistent."
+    },
+    {
+      "term_en": "Recreation Club",
+      "meaning_en": "A place for leisure activities."
+    },
+    {
+      "term_en": "Recrimination",
+      "meaning_en": "A counter-accusation."
+    },
+    {
+      "term_en": "Referendum",
+      "meaning_en": "A public vote on a particular issue."
+    },
+    {
+      "term_en": "Regulation",
+      "meaning_en": "Rules issued by a government agency."
+    },
+    {
+      "term_en": "Remission",
+      "meaning_en": "A reduction in a penalty or debt."
+    },
+    {
+      "term_en": "Rent Restriction",
+      "meaning_en": "Limits on the amount a landlord can charge."
+    },
+    {
+      "term_en": "Rent suit",
+      "meaning_en": "A legal case involving disputes over tenancy."
+    },
+    {
+      "term_en": "Repatriation",
+      "meaning_en": "The process of returning someone to their home country."
+    },
+    {
+      "term_en": "Reserved Forests",
+      "meaning_en": "Woodlands protected by the government."
+    },
+    {
+      "term_en": "Reserved Land",
+      "meaning_en": "Property set aside for a specific purpose."
+    },
+    {
+      "term_en": "Reserve Fund",
+      "meaning_en": "Money set aside for future use."
+    },
+    {
+      "term_en": "Reversion",
+      "meaning_en": "The act of returning to a former position or condition."
+    },
+    {
+      "term_en": "Revised Estimate",
+      "meaning_en": "An updated projection of costs or income."
+    },
+    {
+      "term_en": "Ring Leader",
+      "meaning_en": "The person who initiates or leads a disturbance."
+    },
+    {
+      "term_en": "Riparian Right",
+      "meaning_en": "The entitlement of a landowner to use water bordering their property."
+    },
+    {
+      "term_en": "Roll call",
+      "meaning_en": "The act of calling names to record attendance."
+    },
+    {
+      "term_en": "Roll of honour",
+      "meaning_en": "A list of people recognized for their achievements."
+    },
+    {
+      "term_en": "Scale of Pay",
+      "meaning_en": "A range of salaries for different positions."
+    },
+    {
+      "term_en": "Seconder",
+      "meaning_en": "A person who supports a proposal or motion."
+    },
+    {
+      "term_en": "Securities",
+      "meaning_en": "Financial instruments representing ownership or debt."
+    },
+    {
+      "term_en": "Special Funds",
+      "meaning_en": "Monies allocated for specific purposes."
+    },
+    {
+      "term_en": "Special Pay",
+      "meaning_en": "Additional compensation for specific duties or skills."
+    },
+    {
+      "term_en": "Special Provision",
+      "meaning_en": "A clause that applies only in particular circumstances."
+    },
+    {
+      "term_en": "Stamp Duty",
+      "meaning_en": "A tax on legal documents."
+    },
+    {
+      "term_en": "Vital Statistics",
+      "meaning_en": "Data related to births, deaths, and other life events."
+    },
+    {
+      "term_en": "Statutory Powers",
+      "meaning_en": "Authority granted by laws."
+    },
+    {
+      "term_en": "Statutory Rules",
+      "meaning_en": "Regulations enacted by a legislature."
+    },
+    {
+      "term_en": "Stay Order",
+      "meaning_en": "A court directive to halt a proceeding."
+    },
+    {
+      "term_en": "Subsidy",
+      "meaning_en": "Financial aid provided by the government."
+    },
+    {
+      "term_en": "Suit",
+      "meaning_en": "A legal action to enforce a right or seek a remedy."
+    },
+    {
+      "term_en": "Survey and Boundaries Act",
+      "meaning_en": "Laws governing the measurement and demarcation of land."
+    },
+    {
+      "term_en": "Taxation",
+      "meaning_en": "The process of imposing and collecting levies."
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Official correspondence is formal written communication between agencies, public services, and organizations.",
+      "tag": "definition"
+    },
+    {
+      "note_en": "12 Forms of Official Correspondence: Government orders, Official Letters, Demi-official letters, Office Memorandum, Circulars, Endorsements, Notifications, Resolutions, Press Release, Office Order, Note, Minutes.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Incorrect: I am to request you to make the necessary provision of funds. Correct: I am to request that the necessary provision of funds may be made.",
+      "tag": "style"
+    },
+    {
+      "note_en": "Incorrect: I am to request you to obtain the sanction, etc. Correct: I am to request the sanction of, etc.",
+      "tag": "style"
+    }
+  ],
+  "pyq": [],
+  "notes_en": "p71: This page provides a comprehensive list of legal, official, and administrative terminology with their respective meanings. The terms cover diverse categories including employment records (Leave Account), legal professionals (Legal Adviser), judicial processes (Legal Proceedings), and legislative bodies.\np72: This page provides a glossary of common administrative and departmental English terms, alongside their Tamil translations and brief definitions, useful for General English vocabulary preparation.\np73: This page provides a list of General and Official terms frequently used in administrative and legal contexts in Tamil Nadu, starting from 'Local call charges' through 'Majority Communities'. These terms are essential for understanding official documentation and legal vocabulary in the TNPSC exam.\np74: This page provides a list of administrative and departmental terms translated into Tamil with their corresponding English definitions for TNPSC examination preparation.\np75: This page provides a glossary of official and general terms, detailing their English definitions and Tamil equivalents. These terms cover a range of administrative, legal, and social sectors including medical, religious, and electoral terminology.\np76: This page provides a list of administrative and departmental terms in English, along with their definitions and corresponding Tamil terminology, essential for vocabulary building for TNPSC exams.\np77: This page provides a list of General and Official terms starting with P, along with their English definitions and Tamil translations.\np78: This page provides a glossary of administrative and department-related terms starting with the letters 'P' and 'Pr', useful for TNPSC General English examinations.\np79: This page provides a glossary of official and administrative terms frequently used in legal, governmental, and financial contexts for TNPSC General English preparation.\np80: This page provides a glossary of official and administrative terms with their corresponding English definitions, useful for General English vocabulary sections in TNPSC examinations.\np81: This page provides an alphabetical glossary of common official and legal terminology used in administrative contexts for TNPSC examinations.\np82: This page provides a comprehensive glossary of administrative and department-related terms along with their Tamil translations and English definitions, specifically curated for TNPSC exam preparation.\np83: This page provides a glossary of general administrative terminology, computer-based administrative terms, and an overview of the standards for official correspondence, including a list of 12 common forms of such correspondence.\np84: This page defines official correspondence as formal communication used within and between government bodies. It outlines the requirement for clarity, sender identification, and specific tone, while providing a list of 12 common forms of official correspondence including Government orders, Office memorandums, and Circulars.",
+  "source": "Data/General-English/Unit3,4/vetrii english unit 3 and unit 4 (1).pdf"
+}

@@ -1,0 +1,48 @@
+{
+  "subject_id": "English",
+  "menu": "sentence_patterns",
+  "topics": [
+    {
+      "id": "sv",
+      "name_en": "Subject + Verb (SV)",
+      "name_ta": "Subject + Verb (SV)",
+      "batches": 2,
+      "focus": "Identify SV pattern; intransitive verbs; no object/complement; e.g. Birds fly, He slept."
+    },
+    {
+      "id": "svo",
+      "name_en": "Subject + Verb + Object (SVO)",
+      "name_ta": "Subject + Verb + Object (SVO)",
+      "batches": 2,
+      "focus": "Transitive verbs with direct object; answer 'what?' after verb; e.g. She wrote a letter."
+    },
+    {
+      "id": "svc",
+      "name_en": "Subject + Verb + Complement (SVC)",
+      "name_ta": "Subject + Verb + Complement (SVC)",
+      "batches": 2,
+      "focus": "Linking verbs (be, become, seem) + subject complement; predicate adjective/noun; e.g. He is wise."
+    },
+    {
+      "id": "sva",
+      "name_en": "Subject + Verb + Adverbial (SVA)",
+      "name_ta": "Subject + Verb + Adverbial (SVA)",
+      "batches": 2,
+      "focus": "Adjunct/adverbial answering how/when/where/why; e.g. They came by bus, She went home."
+    },
+    {
+      "id": "svoo",
+      "name_en": "Subject + Verb + Indirect Object + Direct Object (SVOO)",
+      "name_ta": "Subject + Verb + Indirect Object + Direct Object (SVOO)",
+      "batches": 2,
+      "focus": "Double-object pattern (SVIODO/SVDOIO); IO answers to whom, DO answers what; e.g. He gave me a book."
+    },
+    {
+      "id": "svoc",
+      "name_en": "Subject + Verb + Object + Complement (SVOC)",
+      "name_ta": "Subject + Verb + Object + Complement (SVOC)",
+      "batches": 2,
+      "focus": "Object + object complement after verbs like made, called, elected; ask 'as what?'; e.g. They made him captain."
+    }
+  ]
+}

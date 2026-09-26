@@ -1,0 +1,761 @@
+{
+  "subject_id": "English",
+  "menu": "punctuation",
+  "sources": [
+    "Grammer.pdf pp.[130, 131, 132, 133, 134, 136, 137, 138, 139] (primary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Punctuation marks are essential for making written language readable and complete.",
+      "mark_tag": "overview",
+      "source": "grammer",
+      "source_page": 130
+    },
+    {
+      "rule_en": "The comma is used to indicate a short pause for words, phrases and clauses in a series.",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "rule_en": "The comma is used when you address a person.",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "rule_en": "The comma is used to separate numbers, dates and address.",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "rule_en": "The semicolon represents a stronger pause than a comma and is used to stress the close relationship between one sentence and another.",
+      "mark_tag": "semicolon",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "rule_en": "The colon is used to show that something is to follow.",
+      "mark_tag": "colon",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "rule_en": "The full stop is used to mark the end of a declarative or an imperative sentence and represents the greatest pause.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "rule_en": "The exclamation mark is used after interjections and after phrases and sentences expressing sudden emotion or wish.",
+      "mark_tag": "exclamation",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Question Mark is used, instead of the Full Stop, after a direct question.",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "rule_en": "The dash is used to make an abrupt stop or change of thought.",
+      "mark_tag": "dash",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Inverted Commas are used to enclose the exact words of a speaker, or a quotation.",
+      "mark_tag": "quotation",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Used to indicate either possession or the omission of letters or numbers.",
+      "mark_tag": "apostrophe",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Used to enclose words or figures so as to separate them from the context.",
+      "mark_tag": "brackets",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "rule_en": "Full Stop: To end a sentence",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Comma: To divide items in a list or to give a sentence clearer meaning",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Question Mark: At the end of a sentence when a question is asked",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Exclamation Mark: At the end of an exciting sentence to emphasise a strong feeling",
+      "mark_tag": "exclamation",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Semi-Colon: To link major elements of a sentence",
+      "mark_tag": "semicolon",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Colon: Before a list",
+      "mark_tag": "colon",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Quotation Marks: To show the beginning and end of what someone is saying",
+      "mark_tag": "quotation",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Hyphen: To join words together",
+      "mark_tag": "hyphen",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Apostrophe: When showing ownership or to show missing letters",
+      "mark_tag": "apostrophe",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "rule_en": "Punctuation is the system of symbols used to communicate efficiently and effectively to make meaning clear.",
+      "mark_tag": "overview",
+      "source": "grammer",
+      "source_page": 136
+    },
+    {
+      "rule_en": "The absence or presence of a comma can change the entire meaning of a sentence.",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 136
+    },
+    {
+      "rule_en": "Every sentence begins with a capital letter.",
+      "mark_tag": "capitalization",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Assertive and imperative sentences end with a full-stop or a period. A full-stop is also used to mark abbreviations, titles and initials.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Sentences that ask something end with a question mark.",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Sentences that express excitement or strong feelings end with an exclamatory mark.",
+      "mark_tag": "exclamation",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Capitalize first letters of poetry lines, the word 'I', proper nouns, initials, abbreviations, months, days, holidays, deities, religious figures/books, titles, place names, adjectives from places, races, religions, nationalities, languages, geographical names, directional sections of a country, institutions, and titles of creative works.",
+      "mark_tag": "capitalization",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Comma indicates a brief pause: used for series of words, after yes/no/well, after introductory phrases, before question tags, for omission of a word, and before coordinating conjunctions in compound sentences.",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Semi-colon links two independent clauses without a conjunction or instead of a full-stop for connected sentences.",
+      "mark_tag": "semicolon",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Colon is used to separate two independent clauses when the second explains the first.",
+      "mark_tag": "colon",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "rule_en": "Never use a colon after a sentence fragment.",
+      "mark_tag": "colon",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use a colon to introduce a list.",
+      "mark_tag": "colon",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use a colon before a quotation, and sometimes before direct speech.",
+      "mark_tag": "colon",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use apostrophe in possessive forms: before 's' if word does not end in 's', and after 's' if the noun ends in 's'.",
+      "mark_tag": "apostrophe",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use apostrophe in contracted forms, in place of the letter that is left out.",
+      "mark_tag": "apostrophe",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use quotation marks to enclose words of a speaker verbatim in direct speech.",
+      "mark_tag": "quotation",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use quotation marks with titles of minor works and parts of a whole.",
+      "mark_tag": "quotation",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use quotation marks around words to indicate a special sense, misuse, irony, or foreign translation.",
+      "mark_tag": "quotation",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use hyphens to join words, in compound adjectives before nouns, with numbers twenty-one to ninety-nine, with fractions, and with prefixes like ex-, self-, all-.",
+      "mark_tag": "hyphen",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use dashes to set off parenthetical remarks, signal tone change, emphasize info, set off series, indicate attribution, follow datelines, start lists, or show hesitation.",
+      "mark_tag": "dash",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use parentheses within a sentence to provide supplementary information not essential to the main point.",
+      "mark_tag": "brackets",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "rule_en": "Use brackets to enclose numbers/letters in lists, time zones, or abbreviations.",
+      "mark_tag": "brackets",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "rule_en": "Use ellipsis to denote omission, shorten quotes, avoid repetition, or show a pause.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "rule_en": "Use slash/oblique stroke for alternatives, fractions, and line divisions in poetry.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "rule_en": "Use asterisk for footnote references or to indicate extra information in advertisements.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 228
+    }
+  ],
+  "examples": [
+    {
+      "input": "Gandhiji the Father of the Nation died on 30th January 1948",
+      "output": "Gandhiji, the Father of the Nation, died on 30th January, 1948.",
+      "mark_tag": "comma",
+      "note_en": "Comma used for appositive and date separation.",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "input": "Yes Sir",
+      "output": "\"Yes, Sir.\"",
+      "mark_tag": "comma",
+      "note_en": "Comma used when addressing a person.",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "input": "I was born on 9th August 1990 in Lucknow Uttar Pradesh",
+      "output": "I was born on 9th August, 1990 in Lucknow, Uttar Pradesh.",
+      "mark_tag": "comma",
+      "note_en": "Comma used to separate date and location elements.",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "input": "Today we love what tomorrow we hate today we seek what tomorrow we shun today we desire what tomorrow we fear",
+      "output": "Today we love what tomorrow we hate; today we seek what tomorrow we shun; today we desire what tomorrow we fear.",
+      "mark_tag": "semicolon",
+      "note_en": "Semicolon used to separate closely related clauses.",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "input": "The principle parts of a verb in English are the present tense the past tense and the past participle",
+      "output": "The principle parts of a verb in English are: the present tense, the past tense, and the past participle.",
+      "mark_tag": "colon",
+      "note_en": "Colon used to introduce a list.",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "input": "Abirami Suganya and Sudha are best friends",
+      "output": "Abirami, Suganya and Sudha are best friends.",
+      "mark_tag": "full_stop",
+      "note_en": "Full stop marks the end of a declarative sentence.",
+      "source": "grammer",
+      "source_page": 131
+    },
+    {
+      "input": "Alas! Oh dear!",
+      "output": "Alas! Oh dear!",
+      "mark_tag": "exclamation",
+      "note_en": "Used after interjections.",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "input": "Have you finished writing?",
+      "output": "Have you finished writing?",
+      "mark_tag": "question_mark",
+      "note_en": "Used after a direct question.",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "input": "He has-you may not believe it-failed.",
+      "output": "He has-you may not believe it-failed.",
+      "mark_tag": "dash",
+      "note_en": "Used to make an abrupt stop or change of thought.",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "input": "I would rather die, he exclaimed, than join the oppressors of my country.",
+      "output": "\"I would rather die,\" he exclaimed, \"than join the oppressors of my country.\"",
+      "mark_tag": "quotation",
+      "note_en": "Enclosing exact words of a speaker.",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "input": "Harry's book; boys' coats; can't; he's; 1Jan.'99",
+      "output": "Harry's book; boys' coats; can't; he's; 1Jan.'99",
+      "mark_tag": "apostrophe",
+      "note_en": "Used for possession or omission of letters/numbers.",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "input": "MS Dhoni the former Cricket captain resigned from cricket.",
+      "output": "MS Dhoni (the former Cricket captain) resigned from cricket.",
+      "mark_tag": "brackets",
+      "note_en": "Separating information from the context.",
+      "source": "grammer",
+      "source_page": 132
+    },
+    {
+      "input": "Eats, Shoots and Leaves",
+      "output": "Eats, shoots and leaves.",
+      "mark_tag": "comma",
+      "note_en": "Example of how punctuation changes meaning in a wildlife manual entry",
+      "source": "grammer",
+      "source_page": 113
+    },
+    {
+      "input": "The hostel warden said, “Come on, let’s eat lovely ladies.”",
+      "output": "The hostel warden said, “Come on, let’s eat, lovely ladies.”",
+      "mark_tag": "comma",
+      "note_en": "The presence of a comma before 'lovely ladies' changes the sentence from cannibalism to an invitation to eat.",
+      "source": "grammer",
+      "source_page": 136
+    },
+    {
+      "input": "Dr. P.Rukmangadhan, M.S.",
+      "output": "Dr. P.Rukmangadhan, M.S.",
+      "mark_tag": "full_stop",
+      "note_en": "Usage of full-stop in titles and initials.",
+      "source": "grammer",
+      "source_page": 226
+    },
+    {
+      "input": "one-third / quarter-million / half-boiled",
+      "output": "one-third / quarter-million / half-boiled",
+      "mark_tag": "hyphen",
+      "note_en": "Hyphens used in compound adjectives with fractions.",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "input": "ex-minister / self-satisfied / all-over",
+      "output": "ex-minister / self-satisfied / all-over",
+      "mark_tag": "hyphen",
+      "note_en": "Hyphens used with specific prefixes.",
+      "source": "grammer",
+      "source_page": 227
+    },
+    {
+      "input": "high-level, low-tide",
+      "output": "high-level, low-tide",
+      "mark_tag": "hyphen",
+      "note_en": "Hyphens used in compound adjectives using high and low.",
+      "source": "grammer",
+      "source_page": 227
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "i like playing with my friends sandy sunny sameer",
+      "answer_en": "I like playing with my friends, Sandy, Sunny, Sameer.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "we went through the smoky mountains, near shimla on our way to leh",
+      "answer_en": "We went through the Smoky Mountains, near Shimla, on our way to Leh.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "my favourite soap is pears and my favourite toothpaste is pepsodent",
+      "answer_en": "My favourite soap is Pears and my favourite toothpaste is Pepsodent.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "my friend priya speaks german and she is teaching me some words",
+      "answer_en": "My friend Priya speaks German and she is teaching me some words.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "he was honest sincere hard working",
+      "answer_en": "He was honest, sincere, hard-working.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "hindus muslims sikhs christians live together in india",
+      "answer_en": "Hindus, Muslims, Sikhs, Christians live together in India.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "long ago in a town in Switzerland there lived a famous man called william",
+      "answer_en": "Long ago, in a town in Switzerland, there lived a famous man called William.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "akbar the greatest of the mughal emperors ruled wisely",
+      "answer_en": "Akbar, the greatest of the Mughal emperors, ruled wisely.",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "tanya said to rahul is a nice guy",
+      "answer_en": "Tanya said to Rahul, \"Rahul is a nice guy.\"",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "when is your birthday",
+      "answer_en": "When is your birthday?",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "1. Where is the park ____",
+      "answer_en": "1. Where is the park?",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "2. Make sure to complete all your homework on time___",
+      "answer_en": "2. Make sure to complete all your homework on time.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "3. Priya asked when are we going on a vacation____",
+      "answer_en": "3. Priya asked, \"When are we going on a vacation?\"",
+      "mark_tag": "other",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "4. Terry Sam and Jeremy went to the movies together____",
+      "answer_en": "4. Terry, Sam, and Jeremy went to the movies together.",
+      "mark_tag": "comma",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "5. Wow___What a wonderful event____",
+      "answer_en": "5. Wow! What a wonderful event!",
+      "mark_tag": "exclamation",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "6. I am so excited to see my family on Christmas____",
+      "answer_en": "6. I am so excited to see my family on Christmas.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "7. What day of the week is your favourite____",
+      "answer_en": "7. What day of the week is your favourite?",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "8. You need to do your homework right after dinner___",
+      "answer_en": "8. You need to do your homework right after dinner.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "9. Please take out the trash when you get home___",
+      "answer_en": "9. Please take out the trash when you get home.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "10. My favourite team won the game____",
+      "answer_en": "10. My favourite team won the game.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "11. What do you want to eat for lunch___",
+      "answer_en": "11. What do you want to eat for lunch?",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "12. I had a great time at your party___",
+      "answer_en": "12. I had a great time at your party.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "13. Do you know what time it is____",
+      "answer_en": "13. Do you know what time it is?",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "14. How do we get to the amusement park____",
+      "answer_en": "14. How do we get to the amusement park?",
+      "mark_tag": "question_mark",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "15. I can't wait to go on summer vacation___",
+      "answer_en": "15. I can't wait to go on summer vacation.",
+      "mark_tag": "full_stop",
+      "source": "grammer",
+      "source_page": 133
+    },
+    {
+      "prompt_en": "Indias prime minister lal bahadur shastri who coined the slogan jai jawan jai kisan was a man of humble origin",
+      "answer_en": "India's Prime Minister, Lal Bahadur Shastri, who coined the slogan 'Jai Jawan, Jai Kisan', was a man of humble origin.",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "When were stressed we eat a lot of sweets chocolates and ice creams because the word stressed when spelled backwards becomes desserts",
+      "answer_en": "When we're stressed, we eat a lot of sweets, chocolates, and ice creams; because the word 'stressed', when spelled backwards, becomes 'desserts'.",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "To lead a healthy life man needs three things clean water unpolluted air and bright sunshine",
+      "answer_en": "To lead a healthy life, man needs three things: clean water, unpolluted air, and bright sunshine.",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "The notice displayed on the pin-board read those who can do those who cant do learn those who cant learn quit",
+      "answer_en": "The notice displayed on the pin-board read: 'Those who can, do; those who can't do, learn; those who can't learn, quit.'",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "When we transport something by car its called a shipment but when we transport something by ship its called cargo",
+      "answer_en": "When we transport something by car, it's called a shipment; but when we transport something by ship, it's called cargo.",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "If i remember right i was studying in tagore middle school at that time one day my english teacher looked at me and said name two pronouns i said who me",
+      "answer_en": "If I remember right, I was studying in Tagore Middle School at that time. One day, my English teacher looked at me and said, 'Name two pronouns.' I said, 'Who? Me?'",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "What is punctuation To quote lynne truss punctuation marks are the traffic signals of a language they tell us to slow down notice this take a detour and stop",
+      "answer_en": "What is punctuation? To quote Lynne Truss, 'Punctuation marks are the traffic signals of a language; they tell us to slow down, notice this, take a detour, and stop.'",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "Behold how beautiful these flowers are they dont blossom for their own sake rather they take pride in spreading fragrance around and making people happy",
+      "answer_en": "Behold how beautiful these flowers are! They don't blossom for their own sake; rather, they take pride in spreading fragrance around and making people happy.",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    },
+    {
+      "prompt_en": "Edison built a huge plant at ogdensburg new jersey to process iron ore this venture was one of edisons few failures however Tom shrugged off the losses incurred well its gone he said of the money but we had a good time spending it",
+      "answer_en": "Edison built a huge plant at Ogdensburg, New Jersey, to process iron ore. This venture was one of Edison's few failures. However, Tom shrugged off the losses incurred. 'Well, it's gone,' he said of the money, 'but we had a good time spending it.'",
+      "mark_tag": "spot_error",
+      "source": "grammer",
+      "source_page": 228
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 47,
+      "examples": 18,
+      "worked_exercises": 34
+    },
+    "by_mark_tag": {
+      "overview": {
+        "rules": 2,
+        "examples": 0,
+        "worked": 0
+      },
+      "comma": {
+        "rules": 6,
+        "examples": 5,
+        "worked": 1
+      },
+      "semicolon": {
+        "rules": 3,
+        "examples": 1,
+        "worked": 0
+      },
+      "colon": {
+        "rules": 6,
+        "examples": 1,
+        "worked": 0
+      },
+      "full_stop": {
+        "rules": 3,
+        "examples": 2,
+        "worked": 7
+      },
+      "exclamation": {
+        "rules": 3,
+        "examples": 1,
+        "worked": 1
+      },
+      "question_mark": {
+        "rules": 3,
+        "examples": 1,
+        "worked": 5
+      },
+      "dash": {
+        "rules": 2,
+        "examples": 1,
+        "worked": 0
+      },
+      "quotation": {
+        "rules": 5,
+        "examples": 1,
+        "worked": 0
+      },
+      "apostrophe": {
+        "rules": 4,
+        "examples": 1,
+        "worked": 0
+      },
+      "brackets": {
+        "rules": 3,
+        "examples": 1,
+        "worked": 0
+      },
+      "hyphen": {
+        "rules": 2,
+        "examples": 3,
+        "worked": 0
+      },
+      "capitalization": {
+        "rules": 2,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 3,
+        "examples": 0,
+        "worked": 11
+      },
+      "spot_error": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 9
+      }
+    }
+  }
+}

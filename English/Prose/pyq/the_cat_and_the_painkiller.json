@@ -1,0 +1,102 @@
+{
+  "prose_id": "the_cat_and_the_painkiller",
+  "prose_title": "The Cat and the Painkiller",
+  "questions": [
+    {
+      "prose_title": "The Cat and the Painkiller",
+      "prose_id": "the_cat_and_the_painkiller",
+      "question_en": "In the novel 'The Adventures of Tom Sawyer the character of Tom of ---------",
+      "options_en": [
+        "Mischief",
+        "knowledge",
+        "Dreams",
+        "Discipline"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b008",
+      "band": "prose_pyq_b008"
+    },
+    {
+      "prose_title": "The Cat and the Painkiller",
+      "prose_id": "the_cat_and_the_painkiller",
+      "question_en": "4. In the novel 'The Adventures of Tom Sawyer the character of Tom of ---------",
+      "options_en": [
+        "A) Mischief",
+        "B) knowledge",
+        "C) Dreams",
+        "D) Discipline"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b009",
+      "band": "prose_pyq_b009"
+    },
+    {
+      "prose_title": "The Cat and the Painkiller",
+      "prose_id": "the_cat_and_the_painkiller",
+      "question_en": "72. Match Column A with Column B\nColumn A: (a) Aunt Polly, (b) Peter, (c) Tom, (d) Becky Thatcher\nColumn B: 1. Eyeing the Teaspoon Greedily, 2. Stopped coming to school, 3. Water treatment, 4. Incurable experimenter",
+      "options_en": [
+        "A) (a)1 (b)2 (c)3 (d)4",
+        "B) (a)4 (b)1 (c)3 (d)2",
+        "C) (a)4 (b)3 (c)2 (d)1",
+        "D) (a)3 (b)2 (c)1 (d)4"
+      ],
+      "answer_en": "B) (a)4 (b)1 (c)3 (d)2",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b009",
+      "band": "prose_pyq_b009"
+    },
+    {
+      "prose_title": "The Cat and the Painkiller",
+      "prose_id": "the_cat_and_the_painkiller",
+      "question_en": "48. Identify the speaker :\n'That is, 'I believe they do'.\n\"... he rose on his hind feet and danced around in a frenzy of enjoyment...\nThen he went tearing around the house again spreading chaos and destruction\"\nWhose action is described in these lines?",
+      "options_en": [
+        "A) Peter",
+        "B) Polly",
+        "C) Thatcher",
+        "D) Tom"
+      ],
+      "answer_en": "A) Peter",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b009",
+      "band": "prose_pyq_b009"
+    },
+    {
+      "prose_title": "The Cat and the Painkiller",
+      "prose_id": "the_cat_and_the_painkiller",
+      "question_en": "98. Who is Polly to Tom Sawyer?",
+      "options_en": [
+        "A) Granny",
+        "B) Nanny",
+        "C) Mother",
+        "D) Aunt"
+      ],
+      "answer_en": "D) Aunt",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b009",
+      "band": "prose_pyq_b009"
+    },
+    {
+      "prose_title": "The Cat and the Painkiller",
+      "prose_id": "the_cat_and_the_painkiller",
+      "question_en": "93. The Cat Peter sprang a couple of yards in the air as",
+      "options_en": [
+        "A) He had a teaspoon of the pain killer",
+        "B) His tail was caught in the mousetrap",
+        "",
+        ""
+      ],
+      "answer_en": "A) He had a teaspoon of the pain killer",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b009",
+      "band": "prose_pyq_b009"
+    }
+  ]
+}

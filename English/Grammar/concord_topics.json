@@ -1,0 +1,49 @@
+{
+  "subject_id": "English",
+  "subject_en": "General English",
+  "subject_ta": "பொது ஆங்கிலம்",
+  "unit": {
+    "id": "Grammar",
+    "name_en": "Unit I — Grammar",
+    "name_ta": "அலகு I — இலக்கணம்"
+  },
+  "menu": {
+    "id": "concord",
+    "name_en": "Concord",
+    "name_ta": "பொருத்தம் (Subject–Verb Agreement)",
+    "priority": 2,
+    "source_asan_pdf": "Data/General-English/asan - concord,tense, sentence pattern, question tag.pdf",
+    "source_asan_pages": [1, 6],
+    "source_grammer_pdf": "Data/General-English/Grammer.pdf",
+    "source_grammer_pages": [326, 330],
+    "source_govt_pdf": "Data/General-English/General_English_Part_A_Grammar_Group_2_Govt_Notes_for_TNPSC_Group.pdf",
+    "source_govt_pages": [77, 80],
+    "note": "Use Asan + Grammer.pdf + Govt notes. Do not use asan parts of speech PDF."
+  },
+  "topics": [
+    {
+      "id": "concord",
+      "name_en": "Concord",
+      "name_ta": "பொருத்தம்",
+      "parent": "concord",
+      "priority": 1,
+      "batches_planned": 2,
+      "questions_per_batch": 25,
+      "subtopic_tags": [
+        "basic_singular_plural",
+        "and_plural",
+        "one_idea_singular",
+        "as_well_as_with",
+        "either_or_neither_nor",
+        "each_every_indefinite",
+        "collective_nouns",
+        "plural_form_singular_meaning",
+        "units_money_time_distance",
+        "titles_same_vs_different",
+        "intervening_phrase",
+        "always_plural_set",
+        "error_spotting"
+      ]
+    }
+  ]
+}

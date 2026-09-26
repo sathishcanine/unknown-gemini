@@ -1,0 +1,89 @@
+{
+  "poem_id": "the_grumble_family",
+  "poem_title": "The Grumble Family",
+  "author": "L.M. Montgomery",
+  "num": 28,
+  "pdf_pages": [
+    92,
+    96
+  ],
+  "poem_text_en": "There's a family nobody likes to meet;\nThey live, it is said, on Complaining Street\nIn the city of Never-Are-Satisfied,\nThe River of Discontent beside.\nThey growl at that and they growl at this;\nWhatever comes, there is something amiss;\nAnd whether their station be high or humble,\nThey are all known by the name of Grumble.\nThe weather is always too hot or cold;\nSummer and winter alike they scold.\nNothing goes right with the folks you meet\nDown on that gloomy Complaining Street.\nThey growl at the rain and they growl at the sun;\nIn fact, their growling is never done.\nAnd if everything pleased them, there isn't a doubt\nThey'd growl that they'd nothing to grumble about!\nBut the queerest thing is that not one of the same\nCan be brought to acknowledge his family name;\nFor never a Grumbler will own that he\nIs connected with it at all, you see.\nThe worst thing is that if anyone stays\nAmong them too long, he will learn their ways;\nAnd before he dreams of the terrible jumble\nHe's adopted into the family of Grumble.\nAnd so it were wisest to keep our feet\nFrom wandering into Complaining Street;\nAnd never to growl, whatever we do,\nLest we be mistaken for Grumblers, too.\nLet us learn to walk with a smile and a song,\nNo matter if things do sometimes go wrong;\nAnd then, be our station high or humble,\nWe'll never belong to the family of Grumble!",
+  "summary_en": "The poem describes the 'Grumble Family' who live on 'Complaining Street' and are never satisfied, regardless of their circumstances. The poet warns that constant complaining is contagious and advises readers to maintain a positive attitude to avoid being identified as one of them. Ultimately, the poem advocates for facing life's challenges with a smile and a song.",
+  "glossary": [
+    {
+      "word_en": "discontent",
+      "meaning_en": "dissatisfaction with one's circumstances"
+    },
+    {
+      "word_en": "amiss",
+      "meaning_en": "not quite right"
+    },
+    {
+      "word_en": "growl",
+      "meaning_en": "make a low guttural sound in the throat"
+    },
+    {
+      "word_en": "grumble",
+      "meaning_en": "a complaint about something in a bad-tempered way"
+    },
+    {
+      "word_en": "gloomy",
+      "meaning_en": "sad or unhappy or depressing"
+    },
+    {
+      "word_en": "queerest",
+      "meaning_en": "the strangest or the most unusual"
+    },
+    {
+      "word_en": "acknowledge",
+      "meaning_en": "accept or admit the existence or truth of"
+    },
+    {
+      "word_en": "terrible",
+      "meaning_en": "extremely bad or serious"
+    },
+    {
+      "word_en": "wandering",
+      "meaning_en": "walking or moving in a leisurely or aimless way"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "anaphora",
+      "example_en": "They growl at the rain and they growl at the sun;",
+      "note_en": "Repetition of the phrase 'They growl at' at the beginning of the clauses."
+    },
+    {
+      "device_en": "epithet",
+      "example_en": "grumble family, complaining street",
+      "note_en": "Adjectives used to express a characteristic quality of the noun."
+    },
+    {
+      "device_en": "alliteration",
+      "example_en": "high or humble",
+      "note_en": "Repetition of the consonant sound 'h'."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Poet: L.M. Montgomery (1874-1942), a Canadian author.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "Theme: Maintaining a positive outlook and avoiding the habit of constant complaining.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The poem warns that complaining is a habit that one can easily adopt if they spend too much time around people who grumble.",
+      "tag": "line_meaning"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "And whether their station be high or humble,… Pick out the alliteration from the above line.",
+      "answer_en": "high or humble",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

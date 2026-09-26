@@ -1,0 +1,943 @@
+{
+  "subject": "INM",
+  "total": 2081,
+  "drop_count": 34,
+  "drop_ids": [
+    9861,
+    9862,
+    9978,
+    9990,
+    9994,
+    10061,
+    10068,
+    10080,
+    10101,
+    10108,
+    10126,
+    10139,
+    10154,
+    10156,
+    10458,
+    10547,
+    10984,
+    10986,
+    10990,
+    11211,
+    11271,
+    11322,
+    11691,
+    11694,
+    11696,
+    11699,
+    11703,
+    11706,
+    11707,
+    11709,
+    11712,
+    11715,
+    11717,
+    11718
+  ],
+  "by_reason": {
+    "match_incomplete": 14,
+    "statements_missing": 19,
+    "duplicate_options": 1
+  },
+  "by_topic": {
+    "Advent of Europeans": 2,
+    "National Renaissance": 3,
+    "INC, Growth of Satyagraha & Militants": 9,
+    "Leaders - Kamarajar": 1,
+    "Newspaper, Magazine, Books": 1,
+    "Communism & Partition": 3,
+    "Leaders - Nehru": 1,
+    "Leaders - Bhagat Singh": 2,
+    "Leaders - Periyar": 12
+  },
+  "items": [
+    {
+      "id": 9861,
+      "topic": "Advent of Europeans",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Treaty of Mangalore (b) Treaty of Paris (c) Treaty of Srirangapatnam (d) Treaty of Allahabad 1. 1765 2. 1794 3. 1783 4. 1784",
+      "opts": [
+        [
+          "A",
+          "3 2 1 4"
+        ],
+        [
+          "B",
+          "4 3 2 1"
+        ],
+        [
+          "C",
+          "1 3 2 4"
+        ],
+        [
+          "D",
+          "2 1 4 3"
+        ]
+      ]
+    },
+    {
+      "id": 9862,
+      "topic": "Advent of Europeans",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Ryotwari System (b) Third Mysore War (c) Wood's Dispatch (d) Hunter Commission 1. 1790 2. 1882 3. 1820 4. 1854",
+      "opts": [
+        [
+          "A",
+          "2 3 1 4"
+        ],
+        [
+          "B",
+          "3 1 4 2"
+        ],
+        [
+          "C",
+          "2 4 1 3"
+        ],
+        [
+          "D",
+          "4 1 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 9978,
+      "topic": "National Renaissance",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Prarthana Samaj (b) Samrasa Vedha Sanmarga Sangam (c) Brahmo Samaj (d) Arya Samaj 1. 1828 2. 1875 3. 1865 4. 1867",
+      "opts": [
+        [
+          "A",
+          "3 4 1 2"
+        ],
+        [
+          "B",
+          "2 3 1 4"
+        ],
+        [
+          "C",
+          "4 3 1 2"
+        ],
+        [
+          "D",
+          "1 4 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 9990,
+      "topic": "National Renaissance",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Prarthana Samaj - 1. 1870 (b) Widow Marriage Association - 2. 1884 (c) Poona Sarvajanik Sabha - 3. 1867 (d) Deccan Education Society - 4. 1861",
+      "opts": [
+        [
+          "A",
+          "4 3 1 2"
+        ],
+        [
+          "B",
+          "3 2 4 1"
+        ],
+        [
+          "C",
+          "3 4 1 2"
+        ],
+        [
+          "D",
+          "2 4 3 1"
+        ]
+      ]
+    },
+    {
+      "id": 9994,
+      "topic": "National Renaissance",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following reformist with their life period: (a) Raja Ram Mohan Roy 1. 1858-1962 (b) Jotiba Phule 2. 1842-1901 (c) M.G. Ranade 3. 1828-1890 (d) D.K. Karve 4. 1772-1833",
+      "opts": [
+        [
+          "A",
+          "1 2 3 4"
+        ],
+        [
+          "B",
+          "1 2 4 3"
+        ],
+        [
+          "C",
+          "4 3 2 1"
+        ],
+        [
+          "D",
+          "1 3 2 4"
+        ]
+      ]
+    },
+    {
+      "id": 10061,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match List I and List II and select the correct answer using the codes given below the Lists: List I (a) Resignation of Congress Ministries (b) Neil Statue Satyagraha (c) Quit India Resolution (d) Pro",
+      "opts": [
+        [
+          "A",
+          "4 3 1 2"
+        ],
+        [
+          "B",
+          "2 1 4 3"
+        ],
+        [
+          "C",
+          "4 3 2 1"
+        ],
+        [
+          "D",
+          "4 1 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 10068,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following : (a) Champaran Satyagraha 1. 1919 (b) Rowlatt Satyagraha 2. 1922 (c) Chauri Chaura 3. 1930 (d) Dandi Satyagraha 4. 1917",
+      "opts": [
+        [
+          "A",
+          "(a) 4 (b) 1 (c) 2 (d) 3"
+        ],
+        [
+          "B",
+          "(a) 1 (b) 2 (c) 4 (d) 3"
+        ],
+        [
+          "C",
+          "(a) 4 (b) 2 (c) 3 (d) 1"
+        ],
+        [
+          "D",
+          "(a) 1 (b) 4 (c) 2 (d) 3"
+        ]
+      ]
+    },
+    {
+      "id": 10080,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Choose the wrong matches : Which of the following are incorrectly paired?",
+      "opts": [
+        [
+          "A",
+          "(iii) and (iv)"
+        ],
+        [
+          "B",
+          "(ii) and (i)"
+        ],
+        [
+          "C",
+          "(i) and (iii)"
+        ],
+        [
+          "D",
+          "(ii) and (iii)"
+        ]
+      ]
+    },
+    {
+      "id": 10101,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Champaran Satyagraha 1. 1922 (b) Communal Award 2. 1932 (c) Ahmedabad Mill strike 3. 1918 (d) Bardoli Resolution 4. 1917",
+      "opts": [
+        [
+          "A",
+          "(a) 4, (b) 2, (c) 3, (d) 1"
+        ],
+        [
+          "B",
+          "(a) 2, (b) 3, (c) 4, (d) 1"
+        ],
+        [
+          "C",
+          "(a) 1, (b) 2, (c) 3, (d) 4"
+        ],
+        [
+          "D",
+          "(a) 4, (b) 3, (c) 2, (d) 1"
+        ]
+      ]
+    },
+    {
+      "id": 10108,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following events: (a) Vizah Revolution (b) Chauri Chaura (c) Bardoli Satyagraha (d) Satyagraha of Kaira 1. 1929 - 1930 2. 1918 3. 1923 4. 1922",
+      "opts": [
+        [
+          "A",
+          "4 3 2 1"
+        ],
+        [
+          "B",
+          "3 4 1 2"
+        ],
+        [
+          "C",
+          "2 4 3 1"
+        ],
+        [
+          "D",
+          "4 2 3 1"
+        ]
+      ]
+    },
+    {
+      "id": 10126,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match and choose the correct answer from code given below: (a) East India Association - 1. 1885 (b) Madras Native Association - 2. 1884 (c) Madras Mahajana Sabha - 3. 1852 (d) Indian National Congress",
+      "opts": [
+        [
+          "A",
+          "1 3 2 4"
+        ],
+        [
+          "B",
+          "1 2 3 4"
+        ],
+        [
+          "C",
+          "3 4 1 2"
+        ],
+        [
+          "D",
+          "4 3 2 1"
+        ]
+      ]
+    },
+    {
+      "id": 10139,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: Venues of congress sessions with the year. (a) Delhi - 1. 1887 (b) Lahore - 2. 1888 (c) Allahabad - 3. 1893 (d) Madras - 4. 1932",
+      "opts": [
+        [
+          "A",
+          "3 2 1 4"
+        ],
+        [
+          "B",
+          "1 4 3 2"
+        ],
+        [
+          "C",
+          "2 4 3 1"
+        ],
+        [
+          "D",
+          "4 3 2 1"
+        ]
+      ]
+    },
+    {
+      "id": 10154,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following List I with List II and choose the correct answer from the codes given below : List I (a) Delhi Durbar (b) Vernacular Press Act (c) Ilbert Bill (d) Alipore Bomb conspiracy case Lis",
+      "opts": [
+        [
+          "A",
+          "3 4 1 2"
+        ],
+        [
+          "B",
+          "4 3 1 2"
+        ],
+        [
+          "C",
+          "2 3 1 4"
+        ],
+        [
+          "D",
+          "1 4 3 2"
+        ]
+      ]
+    },
+    {
+      "id": 10156,
+      "topic": "INC, Growth of Satyagraha & Militants",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following with their correct year: (a) Neill Statue Satyagraha 1. 1921 (b) Purna Swaraj Day 2. 1926 (c) Boycott of the Duke of Connaught 3. 1927 (d) Justice party set back in the Election 4.",
+      "opts": [
+        [
+          "A",
+          "2 1 4 3"
+        ],
+        [
+          "B",
+          "3 4 2 1"
+        ],
+        [
+          "C",
+          "3 4 1 2"
+        ],
+        [
+          "D",
+          "4 1 2 3"
+        ]
+      ]
+    },
+    {
+      "id": 10458,
+      "topic": "Leaders - Kamarajar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about Kamaraj?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (ii) only"
+        ],
+        [
+          "C",
+          "(i) and (iii) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ]
+    },
+    {
+      "id": 10547,
+      "topic": "Newspaper, Magazine, Books",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: Editors / Journals 1. Ajit Singh - Zamindar 2. Siraj-ud-din Ahmad - Sandhya 3. Brahmobandhyay - Bande Mataram 4. Aurobindo Ghosh - Bharat Mata",
+      "opts": [
+        [
+          "A",
+          "4 1 2 3"
+        ],
+        [
+          "B",
+          "4 1 3 2"
+        ],
+        [
+          "C",
+          "1 4 3 2"
+        ],
+        [
+          "D",
+          "2 3 4 1"
+        ]
+      ]
+    },
+    {
+      "id": 10984,
+      "topic": "Communism & Partition",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Analyze the strategic maneuvers of the Muslim League following the 1937 provincial elections: In the 1937 elections, the Congress won in seven of the eleven provinces and formed ministries, while the ",
+      "opts": [
+        [
+          "A",
+          "A only"
+        ],
+        [
+          "B",
+          "B only"
+        ],
+        [
+          "C",
+          "C and D only"
+        ],
+        [
+          "D",
+          "None of the above"
+        ]
+      ]
+    },
+    {
+      "id": 10986,
+      "topic": "Communism & Partition",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Examine the political trajectory of Lala Lajpat Rai and Hindu-Muslim provincial restructuring: In 1924, Lala Lajpat Rai openly advocated the partition of Punjab into Hindu and Muslim Provinces. Analyz",
+      "opts": [
+        [
+          "A",
+          "A only"
+        ],
+        [
+          "B",
+          "B only"
+        ],
+        [
+          "C",
+          "C and D only"
+        ],
+        [
+          "D",
+          "None of the above"
+        ]
+      ]
+    },
+    {
+      "id": 10990,
+      "topic": "Communism & Partition",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Analyze the strategic steps leading to the partition of British India: In April 1946, Muslim League legislators convened in Delhi and defined Pakistan as a 'sovereign independent state', followed by t",
+      "opts": [
+        [
+          "A",
+          "A only"
+        ],
+        [
+          "B",
+          "B only"
+        ],
+        [
+          "C",
+          "C and D only"
+        ],
+        [
+          "D",
+          "None of the above"
+        ]
+      ]
+    },
+    {
+      "id": 11211,
+      "topic": "Leaders - Nehru",
+      "reasons": [
+        "duplicate_options"
+      ],
+      "stem": "Match the following leaders and organizations with their historical contexts: a) B.R. Ambedkar b) Acharya Vinoba Bhave c) Jawaharlal Nehru d) Rettaimalai Seenivasan 1. Second individual satyagrahi (19",
+      "opts": [
+        [
+          "A",
+          "a-3, b-2, c-4, d-3"
+        ],
+        [
+          "B",
+          "a-4, b-1, c-3, d-2"
+        ],
+        [
+          "C",
+          "a-3, b-2, c-4, d-3"
+        ],
+        [
+          "D",
+          "a-1, b-2, c-4, d-3"
+        ]
+      ]
+    },
+    {
+      "id": 11271,
+      "topic": "Leaders - Bhagat Singh",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following historical developments and choose the correct contextual connection: Statement I: The formation of the Hindustan Socialist Republican Association (HSRA) in September 1928 marke",
+      "opts": [
+        [
+          "A",
+          "Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I."
+        ],
+        [
+          "B",
+          "Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I."
+        ],
+        [
+          "C",
+          "Statement I is correct, but Statement II is incorrect."
+        ],
+        [
+          "D",
+          "Statement I is incorrect, but Statement II is correct."
+        ]
+      ]
+    },
+    {
+      "id": 11322,
+      "topic": "Leaders - Bhagat Singh",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Analyze the following contextual connect regarding Bhagat Singh's organizational evolution: Statement I: The year 1926 marked a major organizational turning point when Bhagat Singh associated with Nau",
+      "opts": [
+        [
+          "A",
+          "Both Statement I and Statement II are correct and Statement II correctly explains the organizational evolution from Statement I."
+        ],
+        [
+          "B",
+          "Both Statement I and Statement II are correct, but they represent independent events without organizational continuity."
+        ],
+        [
+          "C",
+          "Statement I is correct, but Statement II is incorrect."
+        ],
+        [
+          "D",
+          "Statement I is incorrect, but Statement II is correct."
+        ]
+      ]
+    },
+    {
+      "id": 11691,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following analytical statements regarding Periyar's journals, international outlook, and political transitions:\\n1. Periyar founded 'Revolt' in 1928, 'Puratchi' in 1933, and 'Pagutharivu'",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11694,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following analytical statements regarding Periyar's radical socio-political ideology, anti-caste campaigns, and structural opposition to social stratification:\\n1. Periyar's strategic ali",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11696,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's radical socio-political agitations and structural confrontations:\\n1. Periyar's intense agitations against Rajaji's Hereditary Education Policy (K",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11699,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's final public engagements, lifespan, and foundational philosophies:\\n1. Periyar delivered his last public address in Thyagaraya Nagar, Chennai in 1",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11703,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's ideological evolution, organizational transitions, and publications:\\n1. Periyar's conceptualization of rationalism led him to reject institutiona",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11706,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's literary and editorial contributions:\\n1. Periyar translated Dr. B.R. Ambedkar's book 'Annihilation of Caste' into Tamil in 1936.\\n2. Periyar laun",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11707,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements concerning Periyar's early political career and demonstrations:\\n1. Periyar joined the Indian National Congress in 1919 and was arrested during the Non-Cooperation Mo",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11709,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's ideological stance and social reforms:\\n1. Periyar introduced self-respect marriages as a rational marriage system and strongly opposed hereditary",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11712,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding the honors and historical milestones of Periyar:\\n1. Periyar was awarded the title 'Periyar' on November 13, 1938, at a women's conference in Chennai by Dr.",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11715,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's later political journey and leadership:\\n1. While in prison in 1938, Periyar was elected as the president of the Justice Party.\\n2. Periyar became",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11717,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's multi-faceted reform agenda and progressive literature:\\n1. Periyar authored the prominent feminist work titled 'Penn En Adimaiyanaal?' (Why is Wo",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    },
+    {
+      "id": 11718,
+      "topic": "Leaders - Periyar",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Consider the following statements regarding Periyar's socio-political reforms and publications:\\n1. From 1929 onwards, Self-Respect conferences emphasized women's right to divorce and property.\\n2. Pe",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "Both 1 and 2"
+        ],
+        [
+          "D",
+          "Neither 1 nor 2"
+        ]
+      ]
+    }
+  ]
+}

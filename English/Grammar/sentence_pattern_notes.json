@@ -1,0 +1,991 @@
+{
+  "subject_id": "English",
+  "menu": "sentence_patterns",
+  "sources": [
+    "asan - concord,tense, sentence pattern, question tag.pdf pp.40–43 (primary)",
+    "Grammer.pdf pp.[451, 452] (secondary)",
+    "Govt sentence pattern pp.72–74 (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Subject (S): To get 'Subject' ask the question 'Who?' before the verb. It consists of nouns or pronouns and occurs before a verb.",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Verb (V): A verb shows an action or activity or work done by the subject. It also tells the status. To get 'verb' ask what does the subject do?",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Object (O): To get the object, ask the question 'What?' or 'Whom?'. 'What' is for things and 'Whom' is for persons.",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Direct Object (DO): Direct object answers the question 'what'.",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Indirect Object (IO): Answers the question 'whom'.",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Complement (C): The words required to complete the meaning of a sentence are called Complement.",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Adjunct (A): To get 'Adjunct' ask the question where, how, when or why.",
+      "pattern_topic": "overview",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "rule_en": "Subject + Verb + Object + Complement",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Subject + Verb + Indirect Object + Direct Object",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Subject + Verb + Complement",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Subject + Verb + Object + Complement + Adjunct",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Subject + Verb + Object + Adjunct",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Subject + Verb + Complement + Adjunct",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Adjunct + Subject + Verb",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Adjunct + Subject + Verb + Object",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Adjunct + Subject + Verb + Complement",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Adjunct + Subject + Indirect Object + Direct Object",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "rule_en": "Direct Object (DO): Answers the question 'what'. Indirect Object (IO): Answers the question 'whom'.",
+      "pattern_topic": "svoo",
+      "source": "grammer",
+      "source_page": 451
+    },
+    {
+      "rule_en": "Complement (C): The words required to complete the meaning of a sentence. Object complement answers 'how' asked on the object.",
+      "pattern_topic": "svc",
+      "source": "grammer",
+      "source_page": 451
+    },
+    {
+      "rule_en": "To get 'Adjunct' (A), ask the question: where, how, when, or why.",
+      "pattern_topic": "sva",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "rule_en": "Subject (S): The person who does the action in the sentence.",
+      "pattern_topic": "sv",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "rule_en": "Verb (V): A word that indicates action, state of being, or possession.",
+      "pattern_topic": "sv",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "rule_en": "Complement (C): The word or phrase which completes the meaning of the sentence.",
+      "pattern_topic": "svc",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "rule_en": "Complement usually follows 'be' verbs (am, is, are, was, were) or verbs like become, turn, look, appear, feel.",
+      "pattern_topic": "svc",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "rule_en": "In SVOC patterns, complement can be identified by raising the question 'as what?'",
+      "pattern_topic": "svoc",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "rule_en": "The object is the word which receives the action from the subject.",
+      "pattern_topic": "svo",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "rule_en": "Direct object (DO) answers 'what'; Indirect object (IO) answers 'to whom'.",
+      "pattern_topic": "svoo",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "rule_en": "An adjunct (A) provides answers to the questions: 'How', 'When', 'Why' or 'Where'.",
+      "pattern_topic": "sva",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "rule_en": "S + V: Raju woke up.",
+      "pattern_topic": "sv",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "rule_en": "S + V + O: He wore his new uniform.",
+      "pattern_topic": "svo",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "rule_en": "S + V + IO + DO: His father gave him his school bag.",
+      "pattern_topic": "svoo",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "rule_en": "S + V + C: He was excited.",
+      "pattern_topic": "svc",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "rule_en": "S + V + O + C: Reading made him a complete man.",
+      "pattern_topic": "svoc",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "rule_en": "S + V + A: He was going to school.",
+      "pattern_topic": "sva",
+      "source": "govt",
+      "source_page": 74
+    }
+  ],
+  "examples": [
+    {
+      "sentence_en": "Child laughs.",
+      "pattern_label": "SV",
+      "pattern_topic": "sv",
+      "note_en": "Basic pattern S+V",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "I play hockey.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Basic pattern S+V+O",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "He is smart.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Basic pattern S+V+C",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "I painted the car blue.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Basic pattern S+V+O+C",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "My father presented me a watch.",
+      "pattern_label": "SVIODO",
+      "pattern_topic": "svoo",
+      "note_en": "Basic pattern S+V+IO+DO",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "I met the principal.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Example of S+V+O",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "He came early.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "Example of S+V+A",
+      "source": "asan",
+      "source_page": 40
+    },
+    {
+      "sentence_en": "We elected him as Chairman.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Object (him) followed by complement (Chairman).",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "sentence_en": "We gave the orphans sweets.",
+      "pattern_label": "SVIODO",
+      "pattern_topic": "svoo",
+      "note_en": "Indirect Object (orphans) followed by Direct Object (sweets).",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "sentence_en": "The day is too hot.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Complement (too hot) describes the subject.",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "sentence_en": "He made his shirt dirty at the playground.",
+      "pattern_label": "SVOCA",
+      "pattern_topic": "svoc",
+      "note_en": "Contains an adjunct (at the playground) at the end.",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "sentence_en": "We sent the man out.",
+      "pattern_label": "SVOA",
+      "pattern_topic": "svo",
+      "note_en": "Verb + Object + Adjunct.",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "sentence_en": "Yesterday we sang.",
+      "pattern_label": "ASV",
+      "pattern_topic": "sva",
+      "note_en": "Begins with an adjunct (Yesterday).",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "sentence_en": "She gave money to the poor.",
+      "pattern_label": "SVDOIO",
+      "pattern_topic": "svoo",
+      "note_en": "Subject + Verb + Direct Object + Indirect Object",
+      "source": "grammer",
+      "source_page": 451
+    },
+    {
+      "sentence_en": "He painted the car blue.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Blue answers how the object car was painted.",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "sentence_en": "We call Kamarajar Karmaveerar.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": null,
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "sentence_en": "They selected her leader.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": null,
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "sentence_en": "My father is a farmer in Thiruvarur.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "In Thiruvarur denotes place (where).",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "sentence_en": "Ram studies well.",
+      "pattern_label": "SV",
+      "pattern_topic": "sv",
+      "note_en": "Ram (S) studies (V)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Priya plays games well.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Priya (S) plays (V) games (O)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "She went home.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "She (S) went (V) home (A)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Kannan is a doctor.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Kannan (S) is (V) a doctor (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "I have a sister.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "I (S) have (V) a sister (O)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Solomon was wise.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Solomon (S) was (V) wise (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "He became the leader.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "He (S) became (V) the leader (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Raja posted the letter.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Raja (S) posted (V) the letter (O)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Priya is a teacher.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Priya (S) is (V) a teacher (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Arjun dances well.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "Arjun (S) dances (V) well (A)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Children are happy.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Children (S) are (V) happy (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "Kumar is a good boy.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "Kumar (S) is (V) a good boy (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "He became a doctor.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "He (S) became (V) a doctor (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "The sky appears red.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "The sky (S) appears (V) red (C)",
+      "source": "govt",
+      "source_page": 72
+    },
+    {
+      "sentence_en": "My parents made me a doctor.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Example of SVOC pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "The court declared him innocent.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Example of SVOC pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "They named the child Siva.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Example of SVOC pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "We call him a jocker.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Example of SVOC pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "Ravi's parents made him a dancer.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Example of SVOC pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "He wrote a novel.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Example of SVO pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "He ate fruits.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Example of SVO pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "We applauded the leader.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "Example of SVO pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "My uncle gave me (IO) a present (DO).",
+      "pattern_label": "SVOO",
+      "pattern_topic": "svoo",
+      "note_en": "Example of SVOO pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "They came by bus.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "Example of SVA pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "She went to Chennai.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "Example of SVA pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "I shall meet you tomorrow.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "Example of SVA pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "You speak English well.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "Example of SVA pattern.",
+      "source": "govt",
+      "source_page": 73
+    },
+    {
+      "sentence_en": "Raju woke up.",
+      "pattern_label": "SV",
+      "pattern_topic": "sv",
+      "note_en": "Raju (S) woke up (V)",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "sentence_en": "He wore his new uniform.",
+      "pattern_label": "SVO",
+      "pattern_topic": "svo",
+      "note_en": "He (S) wore (V) his new uniform (O)",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "sentence_en": "His father gave him his school bag.",
+      "pattern_label": "SVOO",
+      "pattern_topic": "svoo",
+      "note_en": "His father (S) gave (V) him (IO) his school bag (DO)",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "sentence_en": "He was excited.",
+      "pattern_label": "SVC",
+      "pattern_topic": "svc",
+      "note_en": "He (S) was (V) excited (C)",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "sentence_en": "Reading made him a complete man.",
+      "pattern_label": "SVOC",
+      "pattern_topic": "svoc",
+      "note_en": "Reading (S) made (V) him (O) a complete man (C)",
+      "source": "govt",
+      "source_page": 74
+    },
+    {
+      "sentence_en": "He was going to school.",
+      "pattern_label": "SVA",
+      "pattern_topic": "sva",
+      "note_en": "He (S) was going (V) to school (A)",
+      "source": "govt",
+      "source_page": 74
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The wall collapsed.",
+      "answer_en": "SV",
+      "pattern_topic": "sv",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "prompt_en": "During the war, many people lost their homes.",
+      "answer_en": "ASVO",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "prompt_en": "I promised the children a trip to the zoo.",
+      "answer_en": "SVIODO",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 41
+    },
+    {
+      "prompt_en": "I met the headmaster.",
+      "answer_en": "SVO",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "She came early.",
+      "answer_en": "SVA",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "We elected James as MLA.",
+      "answer_en": "SVOC",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "Headmaster gave the rank holders prizes.",
+      "answer_en": "SVIODO",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "The day is very cold.",
+      "answer_en": "SVC",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "We found the driver unconscious in his seat.",
+      "answer_en": "SVOCA",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "Mother teaches the child patiently on Sunday.",
+      "pattern_topic": "svoo",
+      "answer_en": "SVOAA",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "The children play cricket noisily in the country-yard",
+      "answer_en": "SVOAA",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "The message made her faint.",
+      "answer_en": "SVOC",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "The Headmaster sent the late comer out.",
+      "answer_en": "SVOA",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "Reading made him a complete man.",
+      "answer_en": "SVOC",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "His father gave him his school bag.",
+      "answer_en": "SVIODO",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 42
+    },
+    {
+      "prompt_en": "26. Mr. Raman teaches us Mathematics",
+      "answer_en": "S V IO DO",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "27. My sister is clever",
+      "answer_en": "S V C",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "28. They chose him the pilot",
+      "answer_en": "S V O C",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "29. The bird flies",
+      "answer_en": "S V",
+      "pattern_topic": "sv",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "30. I met him yesterday",
+      "answer_en": "S V O A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "31. Gandhi always spoke truth",
+      "answer_en": "S A V O",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "32. He is always honest",
+      "answer_en": "S V A C",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "33. Yesterday they chose him the leader",
+      "answer_en": "A S V O C",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "34. I met him in Chennai yesterday",
+      "answer_en": "S V O A A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "35. Suddenly the car stopped",
+      "answer_en": "A S V",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "36. She is now a teacher in Chennai",
+      "answer_en": "S V A C A",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "37. She scored a goal very nicely",
+      "answer_en": "S V O A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "38. Kumar is a doctor",
+      "answer_en": "S V C",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "39. Madhavan won a gold medal",
+      "answer_en": "S V O",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "40. They have drunk coffee",
+      "answer_en": "S V O",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "41. He will give you a ticket",
+      "answer_en": "S V IO DO",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "42. You must speak truth always",
+      "answer_en": "S V O A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "43. We celebrate Pongal every year",
+      "answer_en": "S V O A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "44. I have written a novel",
+      "answer_en": "S V O",
+      "pattern_topic": "svo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "45. The boys played well",
+      "answer_en": "S V A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "46. Japan is a mountainous country",
+      "answer_en": "S V C",
+      "pattern_topic": "svc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "47. He went on foot",
+      "answer_en": "S V A",
+      "pattern_topic": "sva",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "48. Reading made him a complete man",
+      "answer_en": "S V O C",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "49. Reading makes him a complete man",
+      "answer_en": "S V O C",
+      "pattern_topic": "svoc",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "50. His father gave him his school bag",
+      "answer_en": "S V IO DO",
+      "pattern_topic": "svoo",
+      "source": "asan",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "1. The wall collapsed. (A. SV B. SVO C. SVIODO)",
+      "answer_en": "A. SV",
+      "pattern_topic": "sv",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "prompt_en": "2. During the war, many people lost their homes. (A. SVO B. SVIODO C. ASVO)",
+      "answer_en": "C. ASVO",
+      "pattern_topic": "other",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "prompt_en": "3. I promised the children a trip to the zoo. (A. SVO B. SVDOIO C. SVIODO)",
+      "answer_en": "C. SVIODO",
+      "pattern_topic": "svoo",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "prompt_en": "4. In 1998, Frank moved to London. (A. ASVA B. ASVO C. SVIODO)",
+      "answer_en": "A. ASVA",
+      "pattern_topic": "other",
+      "source": "grammer",
+      "source_page": 452
+    },
+    {
+      "prompt_en": "5. Pooja hired a bicycle. (A. SV B. SVO C. SVA)",
+      "answer_en": "B. SVO",
+      "pattern_topic": "svo",
+      "source": "grammer",
+      "source_page": 452
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 34,
+      "examples": 51,
+      "worked_exercises": 45
+    },
+    "by_pattern_topic": {
+      "overview": {
+        "rules": 7,
+        "examples": 0,
+        "worked": 0
+      },
+      "svoc": {
+        "rules": 4,
+        "examples": 12,
+        "worked": 8
+      },
+      "svoo": {
+        "rules": 5,
+        "examples": 5,
+        "worked": 9
+      },
+      "svc": {
+        "rules": 7,
+        "examples": 11,
+        "worked": 6
+      },
+      "svo": {
+        "rules": 4,
+        "examples": 10,
+        "worked": 8
+      },
+      "sva": {
+        "rules": 4,
+        "examples": 10,
+        "worked": 9
+      },
+      "sv": {
+        "rules": 3,
+        "examples": 3,
+        "worked": 3
+      },
+      "other": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 2
+      }
+    }
+  }
+}

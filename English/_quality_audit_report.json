@@ -1,0 +1,656 @@
+{
+  "duplicate_options": [
+    {
+      "topic": "Positive → Comparative",
+      "batch": "Batch 2",
+      "q": "Which comparative form correctly applies to the multi-syllable adjective 'intelligent'?",
+      "note": "['more intelligent', 'intelligenter', 'most intelligent', 'intelligenter']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Choose the correctly punctuated sentence featuring a list introduction with a colon and a capital letter at the beginning.",
+      "note": "['we need the following items: milk sugar and tea leaves.', 'we need the following items: milk, sugar, and tea leaves.', 'we need the following items, milk sugar and tea leaves.', 'we need the following items: milk, sugar, and tea leaves.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Select the correctly punctuated sentence containing a direct address, comma pause, and proper capitalization.",
+      "note": "['sir can you please help me with this exercise?', 'sir, can you please help me with this exercise?', 'sir, can you please help me with this exercise?', 'sir can you please help me with this exercise?']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Choose the option that correctly uses commas for a pause in an introductory phrase and a question tag.",
+      "note": "[\"yes you understand the lesson don't you?\", \"yes, you understand the lesson, don't you?\", \"yes you understand the lesson don't you?\", \"yes, you understand the lesson don't you.\"]"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Which sentence correctly punctuates a series using semicolons because the items themselves contain commas?",
+      "note": "['we visited paris, france; rome, italy; and madrid, spain.', 'we visited paris france, rome italy, and madrid spain.', 'we visited paris, france, rome, italy and madrid, spain.', 'we visited paris, france; rome, italy; and madrid, spain.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Select the sentence that properly uses a colon before an explanatory independent clause.",
+      "note": "['there is one rule: never give up.', 'there is one rule, never give up.', 'there is one rule, never give up.', 'there is one rule: never give up.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Select the sentence that correctly applies a semicolon to link connected sentences without a conjunction.",
+      "note": "['the sun was shining brightly; however, the wind was cold.', 'the sun was shining brightly however the wind was cold.', 'the sun was shining brightly however the wind was cold.', 'the sun was shining brightly, however the wind was cold.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Which sentence correctly uses a colon to introduce a concluding explanation?",
+      "note": "['there is one essential truth: honesty is the best policy.', 'there is one essential truth, honesty is the best policy.', 'there is one essential truth, honesty is the best policy.', 'there is one essential truth: honesty is the best policy.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Select the option that correctly punctuates a series, introductory pause, and question tag.",
+      "note": "[\"well math science and history are important subjects aren't they?\", \"well, math, science, and history are important subjects, aren't you?\", \"well, math, science, and history are important subjects, aren't they?\", \"well math science and history are important subjects aren't they?\"]"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Choose the correctly punctuated sentence featuring a semicolon and a capital letter at the beginning.",
+      "note": "['some people write novels; others prefer writing poetry.', 'some people write novels others prefer writing poetry.', 'some people write novels others prefer writing poetry.', 'some people write novels, others prefer writing poetry.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Which sentence correctly combines a list introduction colon, a series of commas, and proper capitalization?",
+      "note": "['the core subjects are: mathematics physics and chemistry.', 'the core subjects are: mathematics, physics, and chemistry.', 'the core subjects are, mathematics, physics and chemistry.', 'the core subjects are: mathematics, physics, and chemistry.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Choose the correctly punctuated sentence that uses a semicolon between balanced clauses and a capital letter at the start.",
+      "note": "['to err is human; to forgive, divine.', 'to err is human to forgive divine.', 'to err is human to forgive divine.', 'to err is human, to forgive, divine.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 2",
+      "q": "Which option correctly punctuates an introductory pause, a series, and a question tag?",
+      "note": "[\"now gold silver and platinum are precious metals aren't they?\", \"now, gold, silver, and platinum are precious metals, aren't they?\", \"now gold silver and platinum are precious metals aren't they?\", \"now, gold, silver and platinum are precious metals aren't they.\"]"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 4",
+      "q": "Select the sentence that uses a hyphen correctly for compound numbers and compound adjectives.",
+      "note": "['she bought twenty five half boiled eggs.', 'she bought twenty-five half-boiled eggs.', 'she bought twenty five half boiled eggs.', 'she bought twenty-five half boiled eggs.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 4",
+      "q": "Choose the option that correctly uses quotation marks for ironic or special sense usage.",
+      "note": "['he is a great scholar who cannot spell his own name.', 'he is a \"great\" scholar who cannot spell his own name.', 'he is a great scholar who cannot spell his own name.', 'he is a great scholar who cannot spell his own name.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 4",
+      "q": "Identify the option with correct capitalization, comma pause, and semicolon linkage.",
+      "note": "['delhi is the capital of india; it is a historic city.', 'delhi is the capital of india, it is a historic city.', 'delhi is the capital of india; it is a historic city.', 'delhi is the capital of india; it is a historic city.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 4",
+      "q": "Identify the correctly punctuated sentence containing an introductory adverb and a full stop.",
+      "note": "['however we must finish the project today.', 'however, we must finish the project today.', 'however; we must finish the project today.', 'however we must finish the project today.']"
+    },
+    {
+      "topic": "Punctuation",
+      "batch": "Batch 4",
+      "q": "Identify the option with correct capitalization for proper nouns, months, and days.",
+      "note": "['my birthday is on tuesday, 5th july, in madurai.', 'my birthday is on tuesday, 5th july, in madurai.', 'my birthday is on tuesday, 5th july, in madurai.', 'my birthday is on tuesday, 5th july, in madurai.']"
+    },
+    {
+      "topic": "Interrogative",
+      "batch": "Batch 1",
+      "q": "Which of the following demonstrates the application of the rule that every sentence begins with a capital letter?",
+      "note": "['what is your name?', 'what is your name?', 'what is your name.', 'what is your name.']"
+    },
+    {
+      "topic": "Interrogative",
+      "batch": "Batch 1",
+      "q": "Identify the option that correctly illustrates capitalization at the beginning of a sentence.",
+      "note": "['have you met my brother?', 'have you met my brother?', 'have you met my brother?', 'have you met my brother?']"
+    },
+    {
+      "topic": "Mixed Types of Sentences",
+      "batch": "Batch 3",
+      "q": "Identify the option that correctly illustrates capitalization at the beginning of a sentence.",
+      "note": "['have you met my brother?', 'have you met my brother?', 'have you met my brother?', 'have you met my brother?']"
+    },
+    {
+      "topic": "Compound Words",
+      "batch": "Batch 1",
+      "q": "Which word can be placed after 'soft' to form a common computer-related compound word?",
+      "note": "['ware', 'ball', 'ware', 'ware']"
+    },
+    {
+      "topic": "Compound Words",
+      "batch": "Batch 2",
+      "q": "Which word can be combined with 'radio' to form an adjective indicating the emission of rays?",
+      "note": "['active', 'wave', 'active', 'gram']"
+    },
+    {
+      "topic": "Compound Words",
+      "batch": "Batch 4",
+      "q": "What is the compound word formed by combining 'house' and 'keeping'?",
+      "note": "['housekeeping', 'housework', 'housing', 'housekeeping']"
+    },
+    {
+      "topic": "Singular & Plural",
+      "batch": "Batch 2",
+      "q": "What is the plural form of 'goose'?",
+      "note": "['gooses', 'geese', 'gooses', 'geeses']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 1",
+      "q": "Choose the correctly spelt noun for a person who travels (British spelling):",
+      "note": "['traveler', 'traveller', 'traveler', 'travellr']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 1",
+      "q": "Choose the correctly spelt word among the options:",
+      "note": "['competant', 'competent', 'compitent', 'competant']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 3",
+      "q": "Identify the correctly spelt word related to a person on a journey.",
+      "note": "['traveler', 'traveller', 'travelar', 'travelar']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 3",
+      "q": "Select the correct spelling when dropping silent 'e' before a vowel suffix.",
+      "note": "['drapeed', 'draped', 'drapeed', 'drappd']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 3",
+      "q": "Choose the correctly spelt medical term for bowel infection.",
+      "note": "['dysentry', 'dysentery', 'disentery', 'dysentery']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 4",
+      "q": "Select the correct spelling from the options:",
+      "note": "['dilema', 'dilemma', 'dilema', 'dilemmaa']"
+    },
+    {
+      "topic": "Spelling",
+      "batch": "Batch 4",
+      "q": "Find the correctly spelt word from the choices:",
+      "note": "['foriegn', 'foreign', 'foreign', 'foriein']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 1",
+      "q": "Choose the blended word created from 'motor' and 'bike'.",
+      "note": "['motorbike', 'motobike', 'motorbike', 'bike motor']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 2",
+      "q": "Identify the blend word formed from 'helicopter' and 'pad'.",
+      "note": "['helipad', 'copterpad', 'helipad', 'helipod']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Choose the correct plural form of the base word 'formula'.",
+      "note": "['formulae', 'formulas', 'formuli', 'formulae']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Identify the correct plural form of the noun 'fungus'.",
+      "note": "['fungi', 'funguses', 'fungi', 'funga']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "What is the correct plural form of 'larva'?",
+      "note": "['larvae', 'larvas', 'larvi', 'larvae']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Select the correct plural form of 'radius'.",
+      "note": "['radii', 'radiuses', 'radia', 'radii']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Choose the correct plural form of 'medium'.",
+      "note": "['media', 'mediums', 'mediae', 'media']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Identify the correct plural form of 'basis'.",
+      "note": "['bases', 'basises', 'basi', 'bases']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "What is the correct plural form of 'crisis'?",
+      "note": "['crises', 'crisises', 'crisi', 'crises']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Select the correct plural form of 'analysis'.",
+      "note": "['analyses', 'analysises', 'analysi', 'analyses']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Select the correct plural form of 'half'.",
+      "note": "['halves', 'halfs', 'halves', 'halve']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 3",
+      "q": "Choose the correct plural form of 'loaf'.",
+      "note": "['loaves', 'loafs', 'loaves', 'loafen']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 4",
+      "q": "What is the blended word formed from 'electro' and 'execute'?",
+      "note": "['electrocute', 'electrecute', 'electricute', 'electrocute']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 4",
+      "q": "What is the blended word formed from 'vital' and 'amine'?",
+      "note": "['vitamin', 'vitamine', 'vitamine', 'vitamine']"
+    },
+    {
+      "topic": "Word Formation",
+      "batch": "Batch 4",
+      "q": "What is the blended word formed by combining 'camera' and 'recorder'?",
+      "note": "['camcorder', 'camrec', 'camcorder', 'camcorder']"
+    }
+  ],
+  "asterisk_emphasis_not_rendered": [
+    {
+      "topic": "Gerunds",
+      "batch": "Batch 1",
+      "q": "Which of the following verbs can take *either* a gerund or an infinitive without a significant change in meaning?",
+      "note": ""
+    },
+    {
+      "topic": "Infinitives",
+      "batch": "Batch 1",
+      "q": "Which of the following verbs can be followed by *either* an infinitive or a gerund without significantly changing the grammatical classification rule (R7)?",
+      "note": ""
+    },
+    {
+      "topic": "Mixed Non-Finite Verbs",
+      "batch": "Batch 1",
+      "q": "Which of the following verbs can be followed by *either* an infinitive or a gerund without significantly changing the grammatical classification rule (R7)?",
+      "note": ""
+    },
+    {
+      "topic": "Mixed Non-Finite Verbs",
+      "batch": "Batch 4",
+      "q": "Which of the following verbs can take *either* a gerund or an infinitive without a significant change in meaning?",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct antonym for the italicized word in the sentence: It was difficult to *forget* the wonderful journey.",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct antonym for the italicized word in the context: They lived in *glee* despite challenges.",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct antonym for the italicized word in the sentence: The children were *laughing* loudly.",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct antonym for the italicized word in the sentence: The temperature dropped *gradually*.",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct antonym for the italicized word in the sentence: The smile on his face was *pretended*.",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct antonym for the italicized word in the sentence: The bird was *preening* its feathers.",
+      "note": ""
+    },
+    {
+      "topic": "Antonyms",
+      "batch": "Batch 2",
+      "q": "Find the correct antonym for the italicized word in the sentence: The plan was *altered* at the last minute.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct synonym for the italicized word in the sentence: The crowd was *rushing* toward the exit.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct synonym for the italicized word: The brave *knight* rode into the battlefield.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Find out the synonym of the italicized word: The stray dog looked *bedraggled* in the rain.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Select the nearest meaning for the italicized word: He worked as an *apprentice* to learn the craft.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct synonym for the italicized word: She was *gazing* at the beautiful painting.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Select the nearest meaning for the italicized word: There was a *queer* noise coming from the attic.",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 2",
+      "q": "Choose the correct synonym for the italicized word: I was *hesitant* to leave him now.",
+      "note": ""
+    }
+  ],
+  "fill_blank_no_blank_marker": [
+    {
+      "topic": "Mixed Non-Finite Verbs",
+      "batch": "Batch 1",
+      "q": "Choose the correct participle to fill in the blank: 'I like the flute, Krishna returned it. {played / having played}'",
+      "note": ""
+    },
+    {
+      "topic": "Participles",
+      "batch": "Batch 2",
+      "q": "Choose the correct participle to fill in the blank: 'I like the flute, Krishna returned it. {played / having played}'",
+      "note": ""
+    },
+    {
+      "topic": "Present Perfect",
+      "batch": "Batch 2",
+      "q": "Fill in the blank with the correct verb: I [know] him since childhood.",
+      "note": ""
+    },
+    {
+      "topic": "Simple Past",
+      "batch": "Batch 1",
+      "q": "Fill in the blank with the correct Simple Past form: We (leave) Chennai two days ago.",
+      "note": ""
+    },
+    {
+      "topic": "Mixed Tense Questions",
+      "batch": "Batch 5",
+      "q": "Fill in the blank with the correct verb: I [know] him since childhood.",
+      "note": ""
+    },
+    {
+      "topic": "Collocations",
+      "batch": "Batch 2",
+      "q": "Fill in the blank with the natural partner word for 'a hand' (to help).",
+      "note": ""
+    }
+  ],
+  "markdown_underline_not_rendered": [
+    {
+      "topic": "Preposition",
+      "batch": "Batch 1",
+      "q": "Select the right preposition: He lives ___ Alwar ___ Rajasthan.",
+      "note": ""
+    },
+    {
+      "topic": "Preposition",
+      "batch": "Batch 3",
+      "q": "Fill in the blank: Most people work ___ eight ___ six.",
+      "note": ""
+    },
+    {
+      "topic": "Conjunction",
+      "batch": "Batch 1",
+      "q": "Fill in the blank with the appropriate correlative pair: I am ____ healthy ____ you are!",
+      "note": ""
+    },
+    {
+      "topic": "Conjunction",
+      "batch": "Batch 1",
+      "q": "Choose the correct correlative pair used in: Shruthi wants ____ the chocolates ____ the cake.",
+      "note": ""
+    },
+    {
+      "topic": "Conjunction",
+      "batch": "Batch 2",
+      "q": "Choose the correct correlative conjunction pair to complete: 'Shruthi wants ______ the chocolates ______ the cake.'",
+      "note": ""
+    },
+    {
+      "topic": "Conjunction",
+      "batch": "Batch 2",
+      "q": "Choose the correct correlative conjunction pair: 'My dog is ______ mean ______ aggressive.'",
+      "note": ""
+    },
+    {
+      "topic": "Conjunction",
+      "batch": "Batch 2",
+      "q": "Fill in the blank with the correct correlative conjunction: 'You can have ______ the cake ______ the ice-cream.'",
+      "note": ""
+    },
+    {
+      "topic": "Conjunction",
+      "batch": "Batch 2",
+      "q": "Identify the correlative conjunction pair used for comparison: 'I am ______ healthy ______ you are!'",
+      "note": ""
+    },
+    {
+      "topic": "Mixed Part of Speech Questions",
+      "batch": "Batch 2",
+      "q": "Choose the correct correlative pair used in: Shruthi wants ____ the chocolates ____ the cake.",
+      "note": ""
+    },
+    {
+      "topic": "Past Continuous",
+      "batch": "Batch 2",
+      "q": "Choose the correct verb combination: The phone ___ while I ___.",
+      "note": ""
+    },
+    {
+      "topic": "Past Continuous",
+      "batch": "Batch 2",
+      "q": "Fill in the blank with correct tenses: I ___ dinner, when Sue ___.",
+      "note": ""
+    },
+    {
+      "topic": "Past Perfect",
+      "batch": "Batch 1",
+      "q": "Choose the correct form to complete the sentence: We were not able to stay overnight as we ___ not ___ the tickets in advance.",
+      "note": ""
+    },
+    {
+      "topic": "Present Continuous",
+      "batch": "Batch 1",
+      "q": "Choose the correct combination of Simple Present and Present Continuous for the sentence: 'Normally, Jenny ___ black shoes but today she ___ red.'",
+      "note": ""
+    },
+    {
+      "topic": "Present Perfect",
+      "batch": "Batch 1",
+      "q": "Fill in the blank with the correct Present Perfect form: I ___ never ___ on a trip like this before.",
+      "note": ""
+    },
+    {
+      "topic": "Present Perfect",
+      "batch": "Batch 1",
+      "q": "Choose the correct option: Oh no! I ___ to bring my assignment! This is the second time I ___ this!",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 1",
+      "q": "Choose the correct homophone pair for the sentence: The colour of your ___ is the same as that of the ___.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 1",
+      "q": "Choose the correct word for the blank: The most ___ scientist in the world has been warning about the ___ danger of nuclear war.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 1",
+      "q": "Choose the correct word for the blank: I can ___ the bell from ___.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 2",
+      "q": "Select the correct word pair for the blank: The teacher told a fascinating ___ about a brave knight with a long ___.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 2",
+      "q": "Select the correct word pair for the blank: Workers in that factory are known to be very ___ and handle ___ tasks easily.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 2",
+      "q": "Choose the correct homophone pair: The patient felt very ___ during the ___ of treatment.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Identify the homophone pair for the blank: We need to ___ fresh vegetables from the local market ___ the evening.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Identify the correct homophone pair: The boy ___ the ball ___ the broken window.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Choose the appropriate word pair: There are ___ apples left, and they are ___ sweet for me.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Fill in the blank with the correct homophone: A ___ of wrong information disturbed the ___ of the whole country.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Identify the homophone pair: The ___ of the school regulated strict ___ for the students.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Select the correct homophone pair for the blank: She played a major ___ in the drama and asked the chef to ___ some dough.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Select the correct confusable pair: The doctor offered valuable ___ and tried to ___ the patient.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Select the correct confusable word: We enjoyed a delicious chocolate ___ after eating dinner in the hot ___.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Choose the correct confusable: The ___ scientist gave a speech because a major breakthrough was ___.",
+      "note": ""
+    },
+    {
+      "topic": "Homonyms & Homophones",
+      "batch": "Batch 3",
+      "q": "Identify the homophone pair: They decided to ___ a new house using high quality ___.",
+      "note": ""
+    }
+  ],
+  "very_short_stem": [
+    {
+      "topic": "Abbreviations",
+      "batch": "Batch 1",
+      "q": "Expand: SCUBA",
+      "note": ""
+    },
+    {
+      "topic": "Abbreviations",
+      "batch": "Batch 1",
+      "q": "Full form of CBI is:",
+      "note": ""
+    },
+    {
+      "topic": "Abbreviations",
+      "batch": "Batch 1",
+      "q": "Full form of UDISE is:",
+      "note": ""
+    }
+  ],
+  "underlined_no_markup_no_name": [
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 1",
+      "q": "Find out the synonym of the italicized word: Accommodate",
+      "note": ""
+    },
+    {
+      "topic": "Synonyms",
+      "batch": "Batch 4",
+      "q": "Choose the correct synonym for the italicized word: Frantically",
+      "note": ""
+    }
+  ]
+}

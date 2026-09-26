@@ -1,0 +1,788 @@
+{
+  "topic_id": "official_correspondence",
+  "topic_title": "Basics of Official Correspondence",
+  "unit": 4,
+  "batches_target": 3,
+  "pages": [
+    85,
+    105
+  ],
+  "rules": [
+    {
+      "rule_en": "A Government Order (GO) is a formal, written communication issued by a government authority.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "A GO conveys a decision, policy, instruction, directive, sanction, or any other official matter requiring action or information.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "A GO is characterized by a structured format, a unique identifying number and date, clear articulation of the subject matter and directives, indication of the issuing authority, and a specified distribution list.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The GO serves as an authoritative record and a means of official communication within the government and to external entities/public, carrying legal or administrative weight.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Government Orders (G.O.) follow a specific structure starting with the Department name, G.O. number, date, and Tamil calendar details.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The term 'Read' introduces references to previous G.O.s or legislative announcements that form the basis of the current order.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The term 'inter-alia' means among other things.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Government orders often include specific exclusions for eligibility (e.g., income limits or nature of employment).",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "The phrase 'This orders issues with the concurrence of the Finance Department' indicates the necessary financial approval for the policy.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Official letters are used for corresponding with State Governments, constitutional bodies, heads of attached/subordinate offices, public enterprises, statutory authorities, and the public.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "An official letter begins with the salutation 'Sir/Madam' as may be appropriate.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Correspondence with Foreign Governments must follow instructions issued by the Ministry of External Affairs.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Official letters typically start with 'To', 'Subject', and 'Sir/Madam' (salutation).",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The closing of an official letter uses 'Yours faithfully' followed by the signature and designation.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "'-sd/' denotes 'signed' and represents the signature of the issuing officer.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Official correspondence often includes reference numbers (F.No.) and dates at the top.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Demi-official letter is used for correspondence between Government officers for inviting personal attention on an issue.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Demi-official letter is written in the first person in a personal and friendly tone.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A demi-official letter should be addressed by an officer in a Ministry/Department who is ordinarily not more than one or two levels below the officer to whom such communication is addressed.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Communications to non-officials can also take the form of a demi-official letter.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The colour code and use of National Emblem on D.O. letter will be as per the instructions issued by the Ministry of Home Affairs from time to time.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "An Office Memorandum is used for corresponding with other Departments or for calling for information from or conveying information to its employees.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "An Office Memorandum is written in the third person and bears no salutation or superscription except the name and designation of the officer signing it.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "An Office Memorandum is used for internal communication within or between government departments.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "A circular is used to communicate information, instructions, or announcements simultaneously to a large and defined group of recipients.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Unlike a letter addressed to a specific individual, a circular targets a broad audience.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Circulars are used for inter-departmental communication to convey instructions or procedures to be followed by subordinate offices.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A circular must contain a subject line, reference to previous G.O.s or letters, detailed instructions, and a closing signature by the issuing authority.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Endorsements are used when a receipt is to be returned to the sender or when a copy is sent to another department for information or action.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Endorsements are not used to communicate with state governments; letters are the appropriate form for such communication.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Notifications are used for promulgating statutory rules, orders, appointments, and promotions of gazetted officers.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Notifications are published in the Gazette of India.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "The classification of notifications/extra-ordinary notifications follows instructions issued by the Ministry of Home Affairs.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Resolutions are a form of official communication used for making public announcements regarding government decisions on important policy matters.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Resolutions are published in the Gazette of India.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "An ORDER follows a Resolution, indicating that the Resolution should be communicated to relevant parties and published in the Gazette for general information.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Official Resolutions are typically published in the Gazette of India for general information.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Resolutions often cite previous orders or parliamentary recommendations to provide context for new modifications.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Orders associated with Resolutions are distributed to major constitutional bodies including Ministries, State Governments, and the Union Public Service Commission.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A press communiqué is more formal in character than a press note.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A press communiqué is expected to be reproduced intact by the press.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A press note is intended to serve as a hand-out to the press which may edit, compress or enlarge it as deemed fit.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Press release is used when it is proposed to give wide publicity to a decision of government.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "D.O. stands for Demi-Official letter, typically used for formal but personal correspondence between officials.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Office Orders are primarily used for internal administration within a department.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Common uses of Office Orders include granting leave, distributing work, handling appointments, and transfers.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Official Correspondence includes specific formats like Office Orders for appointments and Notes for inter-departmental consultation.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Notes are used to obtain advice, views, concurrence, or comments from other departments or to seek clarification of existing rules.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "An inter-departmental note can be recorded on a file, e-file, or exist as an independent self-contained note.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Minutes must include date, time, venue, participants, conclusions, and responsible ministry.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Modes of communication depend on the nature and urgency of the message.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Memorandums are written in the third person.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Office Notes are used for internal communication.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Official letters are not friendly.",
+      "tag": "vocab"
+    },
+    {
+      "rule_en": "Press Communiqué is more formal and expected to be reproduced intact.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Official letters should not include personal language to foster a friendly environment.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A Government Order (GO) does not typically include personal anecdotes and stories.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Demi-Official Letters are used for correspondence between government officers to invite personal attention to an issue.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Circulars are used to convey information, instructions, or announcements to a large group of recipients simultaneously.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Office Memorandums are used for internal departmental communication or to convey information to employees within the same department.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "The appropriate salutation in an official letter is 'Sir/Madam'.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "Government Orders (GOs) are used to convey decisions, policies, instructions, or directives.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "An Endorsement is typically used to forward a receipt or a copy of a communication to another department or office.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "Official correspondence requires formal language and the avoidance of personal or informal expressions.",
+      "tag": "format"
+    },
+    {
+      "rule_en": "A Notification is used to announce appointments, promotions of gazetted officers, and statutory rules in the Gazette.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "An Office Memorandum is primarily used for internal communication within a department or between departments.",
+      "tag": "definition"
+    },
+    {
+      "rule_en": "A Resolution is used for public announcements of government decisions on important policy matters.",
+      "tag": "definition"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "inter-alia",
+      "meaning_en": "among other things"
+    },
+    {
+      "term_en": "G.O.(Ms)",
+      "meaning_en": "Government Order (Miscellaneous)"
+    },
+    {
+      "term_en": "U.O.",
+      "meaning_en": "Unofficial Note"
+    },
+    {
+      "term_en": "Forwarded by order",
+      "meaning_en": "A formal notation indicating that the communication is sent under the authority of a superior or the relevant department."
+    },
+    {
+      "term_en": "Stock File / Spare Copy",
+      "meaning_en": "Copies of official documents kept for record-keeping and future reference within the department."
+    },
+    {
+      "term_en": "reg.",
+      "meaning_en": "regarding"
+    },
+    {
+      "term_en": "-sd/",
+      "meaning_en": "signed"
+    },
+    {
+      "term_en": "Encl",
+      "meaning_en": "Enclosure (documents attached)"
+    },
+    {
+      "term_en": "Office Memorandum (OM)",
+      "meaning_en": "A formal document used for official correspondence within government offices."
+    },
+    {
+      "term_en": "Circular",
+      "meaning_en": "A notice or document distributed to a wide group of people."
+    },
+    {
+      "term_en": "G.O. (Government Order)",
+      "meaning_en": "An official communication/order issued by the government."
+    },
+    {
+      "term_en": "Sd/",
+      "meaning_en": "Signed; used in place of a physical signature in copies."
+    },
+    {
+      "term_en": "Endorsement",
+      "meaning_en": "A form of official correspondence used to forward copies of papers or return a receipt to the sender."
+    },
+    {
+      "term_en": "Notification",
+      "meaning_en": "A formal announcement of statutory rules, orders, or appointments published in the official Gazette."
+    },
+    {
+      "term_en": "Gazette",
+      "meaning_en": "The official journal of the government where public notices and legal orders are published."
+    },
+    {
+      "term_en": "Resolution",
+      "meaning_en": "A formal expression of opinion or intention made by an official body or formal meeting."
+    },
+    {
+      "term_en": "FAC",
+      "meaning_en": "Full Additional Charge."
+    },
+    {
+      "term_en": "Gazette of India",
+      "meaning_en": "An official government publication used to notify the public about new laws, orders, or government decisions."
+    },
+    {
+      "term_en": "Vide",
+      "meaning_en": "A Latin word meaning 'see' used to direct the reader to another part of a text or document."
+    },
+    {
+      "term_en": "Press communiqué",
+      "meaning_en": "A formal official announcement intended to be published exactly as written."
+    },
+    {
+      "term_en": "Press note",
+      "meaning_en": "An official announcement provided to the press that can be edited, enlarged, or compressed by the media."
+    },
+    {
+      "term_en": "Scuttling",
+      "meaning_en": "The act of deliberately sinking a ship or boat."
+    },
+    {
+      "term_en": "Repatriation",
+      "meaning_en": "The process of returning someone to their own country."
+    },
+    {
+      "term_en": "Apprehended",
+      "meaning_en": "Arrested or seized by the authorities."
+    },
+    {
+      "term_en": "Salvage",
+      "meaning_en": "The rescue of a ship or its cargo from loss at sea."
+    },
+    {
+      "term_en": "Office Order",
+      "meaning_en": "A formal document used by government departments for administrative purposes such as appointments or promotions."
+    },
+    {
+      "term_en": "Inter-departmental note",
+      "meaning_en": "Correspondence used between departments to seek advice, views, or clarification on proposals or rules."
+    },
+    {
+      "term_en": "Minutes",
+      "meaning_en": "A record of discussions prepared immediately after a meeting."
+    },
+    {
+      "term_en": "Demi-Official Letter",
+      "meaning_en": "A form of correspondence between government officers used to invite personal attention to an issue."
+    },
+    {
+      "term_en": "Office Memorandum",
+      "meaning_en": "Conveying information to employees or other departments."
+    }
+  ],
+  "examples": [
+    {
+      "note_en": "Includes a template of a standard Government Order containing: reference number, department name, location and date, the main body (Order), sanction details, and the signing authority (Under Secretary).",
+      "tag": "format"
+    },
+    {
+      "note_en": "The document specifies that the 'Destitute Differently Abled Pension Scheme' was renamed to 'Differently Abled Pension Scheme'.",
+      "tag": "content"
+    },
+    {
+      "note_en": "It clarifies eligibility criteria: persons with 40% and above disability are eligible, excluding those with permanent government jobs or private employment/self-employment with annual income exceeding Rs. 3.00 lakh.",
+      "tag": "content"
+    },
+    {
+      "note_en": "Official correspondence displays a 'To' section for primary recipients and a 'Copy to' section for information/record purposes.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Standard opening: 'With reference to your letter No........dated..... on the subject cited above, I am directed........'",
+      "tag": "format"
+    },
+    {
+      "note_en": "The body of the letter uses numbered paragraphs to detail instructions, such as submitting reports via a portal.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Sample content of D.O. letter: 'We propose to draw up a model scheme for prepared in this connection is enclosed. A copy the outline prepared in this connection is enclosed. I shall be grateful if you would let me have your comments as soon as possible. I may add that we intend circulating the draft scheme formally to all departments in the due course for their comments.'",
+      "tag": "format"
+    },
+    {
+      "note_en": "Format of Office Memorandum includes: No., Government of India, Department, OFFICE MEMORANDUM, Subject, The undersigned is directed to refer to this/their Department O.M. No.....dated........, Doubts have been expressed whether the provisions of.........also apply to......... It is hereby clarified that....",
+      "tag": "format"
+    },
+    {
+      "note_en": "An example of an Office Memorandum is provided regarding the 'Seeking details of Reporting and Reviewing officers of CLS officers for generating their APAR for the year 2024-25'.",
+      "tag": "format"
+    },
+    {
+      "note_en": "The provided circular outlines four key components: (1) Documents to be attached, (2) Procedures to be followed by Tahsildar, (3) Inspection Report format, and (4) Duration for issue of certificate.",
+      "tag": "content_analysis"
+    },
+    {
+      "note_en": "Standard opening phrase for an endorsement: 'A copy each of the papers mentioned below is forwarded for information and necessary action.'",
+      "tag": "format"
+    },
+    {
+      "note_en": "Formal template for a Notification involves specifying the Department, naming the official appointed/transferred, and including the signature of the Joint Secretary.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Examples of topics handled via Resolutions include the policy of industrial licensing and the appointment of committees or commissions of enquiry.",
+      "tag": "application"
+    },
+    {
+      "note_en": "Format includes: Header, Resolution Body with specific paragraph references, Order distribution list, and signatory space.",
+      "tag": "format"
+    },
+    {
+      "note_en": "The document provides a template for a Press Release concerning the appointment of a Commission.",
+      "tag": "template"
+    },
+    {
+      "note_en": "The text demonstrates the structural layout of a formal D.O. letter addressing a Union Minister regarding the safety and recovery of Tamil Nadu fishermen's property in Sri Lanka.",
+      "tag": "format"
+    },
+    {
+      "note_en": "The format includes the header (Government of India/Department), the title (OFFICE ORDER), the body detailing the action (e.g., granting leave or financial sanction), and the signing authority (Under Secretary).",
+      "tag": "format"
+    },
+    {
+      "note_en": "Office Order No. 18/2024 shows the appointment of a Senior Administrative Grade officer to a higher post.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Format of a Note includes: Heading (Government of India/Department of...), Subject, numbered paragraphs outlining the issue, and the request for advice.",
+      "tag": "format"
+    },
+    {
+      "note_en": "Fill in the blanks practice exercise for official correspondence.",
+      "tag": "exercise"
+    },
+    {
+      "note_en": "A 'Note' is used to seek advice, views, or comments from other departments on a proposal.",
+      "tag": "vocab"
+    }
+  ],
+  "pyq": [
+    {
+      "question_en": "The memorandum is always written in ________ person.",
+      "options_en": [],
+      "answer_en": "third",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "A good business letter follows the 7C's ________.",
+      "options_en": [],
+      "answer_en": "of effective communication",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The ________ letters are not friendly.",
+      "options_en": [],
+      "answer_en": "official",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The subject is not written in ________ letter.",
+      "options_en": [],
+      "answer_en": "informal",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The memos are called ________.",
+      "options_en": [],
+      "answer_en": "memorandums",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "No salutation and complimentary close are required in ________ letters.",
+      "options_en": [],
+      "answer_en": "office memorandum",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Office Note is used for ________ communication.",
+      "options_en": [],
+      "answer_en": "internal",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "The complimentary close such as 'sincerely yours' is used in ________ letters.",
+      "options_en": [],
+      "answer_en": "formal",
+      "answer_letter": null,
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following statements describes the purpose of official correspondence?",
+      "options_en": [
+        "To share personal opinions and informal updates between individuals.",
+        "To facilitate formal communication within and between government agencies, public services, and organizations regarding management, policies, and administration.",
+        "To disseminate casual announcements and social invitations.",
+        "To serve as a platform for creative writing and literary expression."
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Consider the following forms of official correspondence: 1. Government Orders, 2. Demi-Official Letters, 3. Circulars, 4. Press Releases. Which of these forms are used to communicate decisions or information to a broad audience, either within the government or to the public?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 3, and 4 only",
+        "1, 2, 3, and 4"
+      ],
+      "answer_en": "C",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "In official letters, which of the following practices is/are recommended? 1. Using personal language to establish a friendly tone, 2. Including a brief summary of any attachments, 3. Clearly stating the sender’s name and official title.",
+      "options_en": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "With reference to the “Office Memorandum”, consider the following statements: 1. It is primarily used for corresponding with external stakeholders. 2. It is written in the third person. 3. It includes a salutation and a complimentary close. Which of the statements given above is/are correct?",
+      "options_en": [
+        "1 only",
+        "2 only",
+        "1 and 3 only",
+        "2 and 3 only"
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "A Government Order (GO) is characterized by which of the following? 1. A personal and friendly tone. 2. A unique identifying number and date. 3. Articulation of directives. 4. Use of first-person narrative.",
+      "options_en": [
+        "1 and 4 only",
+        "2 and 3 only",
+        "1, 2, and 3 only",
+        "1, 2, 3, and 4"
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What is the key difference between a \"Press Communiqué\" and a \"Press Note\"?",
+      "options_en": [
+        "A Press Note is more formal and expected to be reproduced intact.",
+        "A Press Communiqué is more formal and expected to be reproduced intact.",
+        "There is no difference between the two.",
+        "A Press Note is used for internal communications, while a Press Communiqué is for external communications."
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "Which of the following statements is not correct regarding official letters?",
+      "options_en": [
+        "They are used for corresponding with State Governments and constitutional bodies.",
+        "They should always include personal language to foster a friendly environment.",
+        "The salutation \"Sir/Madam\" is appropriate.",
+        "The sender's name and official title must be clearly stated."
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "A Government Order (GO) does not typically include;",
+      "options_en": [
+        "A unique identifying number and date.",
+        "Clear articulation of the subject matter and directives.",
+        "Personal anecdotes and stories.",
+        "Indication of the issuing authority."
+      ],
+      "answer_en": "C",
+      "answer_letter": "C",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "When is a \"Demi-Official Letter\" generally used?",
+      "options_en": [
+        "For communicating with the general public on policy matters.",
+        "For correspondence between government officers to invite personal attention to an issue.",
+        "For issuing government orders and notifications.",
+        "For circulating information to a large group of recipients."
+      ],
+      "answer_en": "B",
+      "answer_letter": "B",
+      "has_marked_answer": false
+    },
+    {
+      "question_en": "Match the following forms of official correspondence with their primary purpose: a. Circular, b. Notification, c. Office Memorandum. Match with: i. Conveying information to employees or other departments, ii. Announcing appointments and promotions in the Gazette of India, iii. Communicating information to a large group simultaneously.",
+      "options_en": [
+        "a-1, b-2, c-3",
+        "a-3, b-2, c-1",
+        "a-2, b-3, c-1",
+        "a-3, b-1, c-2"
+      ],
+      "answer_en": "C",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following is used to seek advice, views, or comments from other departments on a proposal?",
+      "options_en": [
+        "Office Order",
+        "Press Release",
+        "Note",
+        "Resolution"
+      ],
+      "answer_en": "C",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following statements accurately describes the use of “Circulars” in official correspondence?",
+      "options_en": [
+        "A) They are used to address a specific individual or entity regarding a confidential matter.",
+        "B) They are employed to convey information, instructions, or announcements to a large group of recipients simultaneously.",
+        "C) They are primarily utilized for communication between government officers at the same hierarchical level.",
+        "D) They serve as a means of recording discussions and conclusions reached during meetings."
+      ],
+      "answer_en": "B) They are employed to convey information, instructions, or announcements to a large group of recipients simultaneously.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What is the primary purpose of an “Office Memorandum”?",
+      "options_en": [
+        "A) To issue government orders and policy decisions.",
+        "B) To correspond with State Governments and constitutional bodies.",
+        "C) To communicate information to a broad audience, including the general public.",
+        "D) To correspond with other Departments or convey information to employees within the same Department."
+      ],
+      "answer_en": "B) To correspond with State Governments and constitutional bodies.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "In an official letter, what is the appropriate salutation to use?",
+      "options_en": [
+        "A) “Dear Sir/Madam”",
+        "B) “My dear Sir/Madam”",
+        "C) “Sir/Madam”",
+        "D) “Respected Sir/Madam”"
+      ],
+      "answer_en": "C) “Sir/Madam”",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following is a characteristic of a “Government Order (GO)”?",
+      "options_en": [
+        "A) It is written in a personal and friendly tone.",
+        "B) It is used for inviting personal attention to an issue.",
+        "C) It conveys a decision, policy, instruction, or directive.",
+        "D) It is typically used for internal administrative instructions, such as granting leave."
+      ],
+      "answer_en": "B) It is used for inviting personal attention to an issue.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "When is an “Endorsement” typically used in official correspondence?",
+      "options_en": [
+        "A) To issue notifications in the Gazette of India.",
+        "B) To seek advice or views from other departments.",
+        "C) To forward a receipt or copy of a communication to another department or office.",
+        "D) To announce government decisions on important policy matters."
+      ],
+      "answer_en": "B) To seek advice or views from other departments.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following statements describes the appropriate tone and language to be used in official letters to the Indian government?",
+      "options_en": [
+        "A) Personal and expressive language is encouraged to build rapport.",
+        "B) The language should be formal, and personal language should be avoided.",
+        "C) Informal language is acceptable if the recipient is known to the sender.",
+        "D) Figurative language and idioms are preferred for clarity."
+      ],
+      "answer_en": "B) The language should be formal, and personal language should be avoided.",
+      "answer_letter": "B",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "What is the primary function of a \"Notification\" in official correspondence?",
+      "options_en": [
+        "A) To circulate information to a large group of employees within an organization.",
+        "B) To convey decisions on policy matters to the public.",
+        "C) To announce appointments and promotions of gazetted officers, and statutory rules and orders, usually through publication in the Gazette of India.",
+        "D) To seek advice or comments from other departments on a proposal."
+      ],
+      "answer_en": "C) To announce appointments and promotions of gazetted officers, and statutory rules and orders, usually through publication in the Gazette of India.",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "Which of the following statements is correct regarding an \"Office Memorandum\"?",
+      "options_en": [
+        "A) It is used for corresponding with State Governments and the general public.",
+        "B) It is written in the first person and includes a salutation.",
+        "C) It is generally used for internal communication within a department or with other departments.",
+        "D) It is a formal way of issuing government orders with legal implications."
+      ],
+      "answer_en": "C) It is generally used for internal communication within a department or with other departments.",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    },
+    {
+      "question_en": "In what context is a \"Resolution\" typically used in official correspondence?",
+      "options_en": [
+        "A) For day-to-day internal administrative instructions.",
+        "B) For correspondence between government officers to invite personal attention to an issue.",
+        "C) For making public announcements of government decisions on important matters of policy.",
+        "D) For communicating information, instructions, or announcements to a large group of recipients simultaneously."
+      ],
+      "answer_en": "C) For making public announcements of government decisions on important matters of policy.",
+      "answer_letter": "C",
+      "has_marked_answer": true
+    }
+  ],
+  "notes_en": "p85: This page provides an introduction to Government Orders (GOs), defining them as formal written communications used for official purposes. It outlines their key characteristics, such as the requirement for a structured format and unique identification, and explains that they function as authoritative records with legal or administrative significance. A sample template of a Government Order is provided to demonstrate the standard structure.\np86: This page provides an official template of a Government Order (G.O.) issued by the Social Welfare and Nutritious Meal Programme Department. It illustrates the standard structure of official correspondence, including the use of 'Read' sections to cite legislative context, the announcement of policy changes (renaming of the pension scheme), and the formal inclusion of eligibility criteria and financial concurrence.\np87: This page provides a practical template for official correspondence, detailing the address block, the distribution list ('Copy to'), the authorization line ('Forwarded by order'), and the specific use cases and salutation requirements for official letters.\np88: This page provides a template and a practical example of official correspondence (a letter from the Ministry of Human Resource Development). It demonstrates the structure of formal government communication, including reference numbers, subject lines, numbered directives, and the appropriate closing format.\np89: This page explains the characteristics and usage of Demi-Official (D.O.) letters in government correspondence. It highlights that they are used for personal/friendly communication between officers, typically within a hierarchy of one or two levels, and that they can also be used for non-official communication. It provides a standard format template and notes that guidelines regarding the National Emblem and colour codes are set by the Ministry of Home Affairs.\np90: This page provides a sample of official correspondence from the Central Government regarding the Lokpal & Lokayuktas Order, 2014, and describes the standard format and purpose of an Office Memorandum in government communication.\np91: This page provides a template for an Office Memorandum issued by the Ministry of Labour and Employment, highlighting its formal structure. It also defines the purpose of Circulars as an efficient tool for disseminating information to a large, defined group of recipients simultaneously, contrasting them with standard letters.\np92: This page provides a sample of an official circular issued by the Disaster Management and Mitigation Department regarding the issuance of certificates for the Jain Religious Minority in Tamil Nadu. It demonstrates the formal structure of administrative correspondence, including references to prior Government Orders (G.O.), clear instructions for field-level officers (Tahsildars), and the specific distribution list (To/Copy to).\np93: This page explains the purpose and format of 'Endorsements' in official correspondence. An endorsement is primarily used to forward copies of documents to various departments or to return receipts. It is explicitly noted that endorsements should not be used for communication between central and state governments, for which a formal letter is required.\np94: This page explains the concept and usage of 'Notifications' in official correspondence. They are primary tools for government departments to communicate appointments, promotions, and the promulgation of statutory rules to the public through the Government Gazette. The text provides a standard format for drafting such notifications and highlights the administrative authority of the Ministry of Home Affairs regarding their classification.\np95: This page explains the purpose and structure of government Resolutions. Resolutions are used to formally communicate government policy decisions, such as the constitution of new services or the appointment of commissions, and are officially published in the Gazette of India. It also includes an example of an 'ORDER' segment, which specifies the dissemination of the Resolution.\np96: This page provides a template of an official Government of India Resolution regarding the training of employees in the Hindi language. It illustrates the structure of official correspondence, including the citation of legal acts (Official Language Act, 1963), the use of specific reference numbers, and the formal distribution list for an official 'Order'.\np97: This page from Vetrii IAS Study Circle focuses on the distinction between two types of official press announcements: Press Communiqué and Press Note. It explains that a Press Communiqué is more formal and must be reproduced verbatim, whereas a Press Note is flexible and allows the press to modify the content. It also includes an example template for a government Press Release regarding the appointment of a commission.\np98: This page provides a sample text of a Demi-Official (D.O.) letter written by the Joint Secretary of Tamil Nadu to the Union Minister of External Affairs. It outlines specific concerns regarding the security of Indian fishermen, the scuttling of fishing boats by Sri Lankan authorities, and a formal request for intervention to facilitate the recovery of seized vessels and ensure the safety of the fishing community.\np99: This page provides an overview of the 'Office Order' format in official correspondence. Office orders are documents used for internal communication and administrative purposes, such as authorizing employee leave, work distribution, and financial sanctions like writing off irrecoverable losses under specific government rules.\np100: This page explains the structure and usage of Official Correspondence within government departments. It defines the 'Office Order' as an instrument for appointments/promotions and provides guidelines on the 'Note' format, which is primarily used for inter-departmental communication to obtain advice, concurrence, or clarification regarding rules and proposals.\np101: This page covers the definition and function of 'Minutes' in meetings and provides a set of practice questions regarding the conventions of official correspondence, including the usage of memorandums, office notes, and the style of business communication.\np102: This page provides a set of practice questions (Example 2) focusing on the fundamentals of official correspondence, including the purpose of formal communication, the functions of various formats (Government Orders, Circulars, Press Releases, Office Memoranda), and the appropriate style/practices used in official documentation.\np103: This page provides an overview of various forms of official correspondence including Press Communiqués, Official Letters, Government Orders (GOs), Demi-Official Letters, Circulars, Notifications, Office Memoranda, and Notes. It focuses on the specific formal purpose and constraints of each communication type.\np104: This page provides a practice quiz on the basics of official correspondence, covering the distinct purposes of Circulars, Office Memorandums, Government Orders, and Endorsements, along with standard formatting practices for official letters.\np105: This page provides an introduction to the conventions of official correspondence, emphasizing the necessity of formal tone and the specific functional roles of administrative documents like Notifications, Office Memoranda, and Resolutions.",
+  "source": "Data/General-English/Unit3,4/vetrii english unit 3 and unit 4 (1).pdf"
+}

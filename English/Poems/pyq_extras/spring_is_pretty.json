@@ -1,0 +1,24 @@
+{
+  "poem_id": "spring_is_pretty",
+  "count": 1,
+  "questions": [
+    {
+      "poem_title": "Spring is Pretty",
+      "poem_id": "spring_is_pretty",
+      "question_en": "Spring is Pretty but short and sweet when you can smell the grass From your garden seat Who does \"You\" refer to?",
+      "options_en": [
+        "The Poet",
+        "Spring",
+        "People",
+        "Autumn"
+      ],
+      "answer_en": "C People",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    }
+  ]
+}

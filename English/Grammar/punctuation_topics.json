@@ -1,0 +1,14 @@
+{
+  "subject_id": "English",
+  "menu": "punctuation",
+  "topics": [
+    {
+      "id": "punctuation",
+      "name_en": "Punctuation",
+      "name_ta": "நிறுத்தக்குறிகள்",
+      "batches": 4,
+      "questions_per_batch": 25,
+      "focus": "Mixed SSLC punctuation: full stop, question mark, exclamation, comma, semicolon, colon, apostrophe, quotation, brackets, dash, capitalization, spot/add punctuation."
+    }
+  ]
+}

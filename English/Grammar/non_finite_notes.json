@@ -1,0 +1,1485 @@
+{
+  "subject_id": "English",
+  "menu": "non_finite_verbs",
+  "sources": [
+    "verb-fully.pdf pp.[10, 11, 12, 13, 14] (primary, vision)",
+    "Grammer.pdf pp.[404, 405, 406, 407, 408, 414, 415, 416, 417] (primary)",
+    "Race Part A pp.[42, 43, 44] (secondary)",
+    "Govt pp.[69] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Finite verbs act as a main verb, indicate number, person and tense, and agree with the subject.",
+      "nf_topic": "overview",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Non-finite verbs (verbals) do not act as a verb, do not indicate number, person, or tense, and act as nouns, adjectives, or adverbs.",
+      "nf_topic": "overview",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Gerunds are formed by adding -ing to the verb (V+ing) and act as nouns.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Infinitives are formed by adding 'to' before the verb (to+V).",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Present participles are formed by adding -ing to the verb (V+ing) and can be used as adjectives.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Past participles are formed using the V3 form of the verb.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "Perfect participles are formed by 'having' + V3.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "rule_en": "The infinitive is often called 'to + verb'.",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Infinitives may be used without 'to' after modals (shall, will, do, did, would, make, need, may, might, could, must, let, dare, see) called Bare Infinitives.",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Infinitives can function as subject, direct object, subject complement, adjective, or adverb.",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "A gerund is an action word ending in -ing that functions as a noun.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Gerunds are used as subjects, objects, complements, objects to a preposition, in compound nouns, and in opposition to a pronoun.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Gerunds are used after phrasal verbs composed of 'verb + preposition' (e.g., look forward to, give up, take to).",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Gerunds are used after specific verbs: enjoy, finish, keep, mind, suggest, forgive, excuse, postpone, go.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Gerunds are used after phrases like 'It's no use', 'It's no good'.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "rule_en": "Words like 'begin', 'love', 'continue', 'try', 'learn', 'start', 'neglect' can be followed by an infinitive or gerund.",
+      "nf_topic": "overview",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "rule_en": "When infinitive or gerund is used after 'stop', they mean different things.",
+      "nf_topic": "overview",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Participles come after an object to describe it and express the state the object is in.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "rule_en": "Present participle indicates an activity that is continuing and is in progress.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "rule_en": "A present or past participle can function as an adjective phrase to describe a noun placed before it.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "rule_en": "A Gerund is a verb form ending in -ing that functions as a noun.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "rule_en": "Infinitives are formed by 'to' + base verb, functioning as subjects, objects, or modifiers.",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "rule_en": "Participles (Present -ing, Past -ed/-en) function as adjectives or parts of verb phrases.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "rule_en": "Finite verbs are limited by person, number, and tense; Non-finite verbs are not.",
+      "nf_topic": "overview",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "rule_en": "Finite verbs change tense and number according to the subject.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "rule_en": "Non-finite verbs have no subject and do not change according to the tense or number.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "rule_en": "Non-finite verbs (verbals) do not indicate tense and are classified into gerunds, infinitives, and participles.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "rule_en": "The infinitive is formed using 'to + verb'.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "rule_en": "Plain or bare infinitives are used without 'to' after modals and specific verbs (shall, will, do, did, would, make, need, may, might, could, must, let, dare, see).",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "rule_en": "An infinitive can function as a subject, direct object, subject complement, adjective, or adverb.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "rule_en": "A Gerund phrase consists of a gerund plus modifier(s), object(s), and/or complement(s).",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Use gerunds after verbs: 'enjoy', 'finish', 'keep', 'mind', 'suggest', 'forgive', 'excuse', 'postpone', 'go'.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Gerunds are used after a preposition.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Gerunds describe a real action.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Use infinitives after verbs: 'like', 'refuse'.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Infinitives are used to describe a general or future action.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Infinitives are used to express 'reason', 'intention', or 'purpose'.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "After verbs like 'begin', 'love', 'continue', 'try', 'learn', 'start', 'neglect', you can use either gerunds or infinitives.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "The meaning changes when using a gerund versus an infinitive after the verb 'stop'.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Use gerunds after the phrases 'It's no use' and 'It's no good'.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "rule_en": "Verbs which have the past or the present form are called FINITE verbs; they change with tense.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "rule_en": "Verbs which do not change to indicate tense, number, or person are called NON-FINITE verbs.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "rule_en": "Infinitives are the base form of the verb, often preceded by 'to'. They function as noun phrases or modifiers.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "rule_en": "Participles are formed by adding 'ing' or 'ed' to the base verb and are used as adjectives to modify a noun.",
+      "nf_topic": "participles",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "rule_en": "A Gerund is a verb that ends in ‘ing’ and is used as a noun. It can function as the subject of a verb, the object of a verb, or the object of a preposition.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "rule_en": "Non-finite verbs (verbals) do not show tense and do not function as a verb in the sentence.",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "rule_en": "Gerunds end in -ing and function as nouns.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "rule_en": "Infinitives consist of 'to' + base form of a verb and function as nouns, adjectives, or adverbs.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "rule_en": "Participles end in -ing (present) or -ed, -d, -t, -en, -n (past) and function as adjectives.",
+      "nf_topic": "participles",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "rule_en": "Gerunds function as nouns and end in -ing.",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "rule_en": "Infinitives are the base form of a verb preceded by 'to'.",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "rule_en": "Finite verbs indicate tense, time of actions, and change according to the subject (number or person).",
+      "nf_topic": "overview",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "rule_en": "Non-finite verbs (verbals) do not indicate tense or time and do not change according to the subject.",
+      "nf_topic": "overview",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "rule_en": "Gerund: Verb + ing used as a noun.",
+      "nf_topic": "gerunds",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "rule_en": "Infinitive: Formed as 'to + verb' (to-infinitive). Functions as a noun, adjective, or adverb.",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "rule_en": "Bare infinitive: Infinitive used without 'to' after modals (Shall, Will, Do, Did, Would, Make, Need, May, Might, Could, Must, Let, Dare, See).",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "rule_en": "Participle: Verb + ing (present) or -ed/-d/-t/-en/-n (past). Functions as an adjective or verbal adjective.",
+      "nf_topic": "participles",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "rule_en": "Present participles (e.g., hearing, thinking) indicate an unfinished action.",
+      "nf_topic": "participles",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "rule_en": "Sentences are determined by finite verbs (e.g., saw, spoke, rushed, cried).",
+      "nf_topic": "overview",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "rule_en": "Past participles (e.g., driven, loaded, stricken) indicate a completed action and usually end with -ed, -d, -n, -t, or -en.",
+      "nf_topic": "participles",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "rule_en": "Present and past participles are used as adjectives to qualify nouns.",
+      "nf_topic": "participles",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "rule_en": "Infinitives are 'to + present form of the verb'.",
+      "nf_topic": "infinitives",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "rule_en": "Bare infinitives give the same meaning of an infinitive without the use of 'to'.",
+      "nf_topic": "infinitives",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "rule_en": "Gerunds are verbal nouns. It is 'verb+ing'.",
+      "nf_topic": "gerunds",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "rule_en": "A participle is used as part of the continuous form of a verb.",
+      "nf_topic": "participles",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "rule_en": "A participle is used as an adjective (verbal adjective).",
+      "nf_topic": "participles",
+      "source": "govt",
+      "source_page": 69
+    }
+  ],
+  "examples": [
+    {
+      "input_en": "Walking is a healthy habit.",
+      "output_en": "Walking",
+      "nf_topic": "gerunds",
+      "note_en": "Functions as a noun.",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "input_en": "I like to walk early in the morning.",
+      "output_en": "to walk",
+      "nf_topic": "infinitives",
+      "note_en": "Functions as an infinitive.",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "input_en": "These are my walking shoes.",
+      "output_en": "walking",
+      "nf_topic": "participles",
+      "note_en": "Functions as an adjective describing the noun 'shoes'.",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "input_en": "Having walked a long distance, I felt tired.",
+      "output_en": "Having walked",
+      "nf_topic": "participles",
+      "note_en": "Perfect participle construction.",
+      "source": "verb_fully",
+      "source_page": 10
+    },
+    {
+      "input_en": "To swim",
+      "output_en": "To swim is a good exercise.",
+      "nf_topic": "infinitives",
+      "note_en": "Functioning as a subject.",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "input_en": "She made me do my project.",
+      "output_en": "She made me do my project.",
+      "nf_topic": "infinitives",
+      "note_en": "Bare infinitive after 'made'.",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "input_en": "Reading",
+      "output_en": "Reading is a good habit.",
+      "nf_topic": "gerunds",
+      "note_en": "Functioning as a subject.",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "input_en": "She is good at painting.",
+      "output_en": "She is good at painting.",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund used as object to a preposition.",
+      "source": "verb_fully",
+      "source_page": 11
+    },
+    {
+      "input_en": "When we saw Rajesh at the mall, I stopped to talk to him. Why didn't you wait?",
+      "output_en": "I stopped talking to him?",
+      "nf_topic": "overview",
+      "note_en": "Demonstrates different meanings of infinitive vs gerund after 'stop'.",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "input_en": "The baby singing in the room is my child.",
+      "output_en": "singing (present participle)",
+      "nf_topic": "participles",
+      "note_en": "Participle used as an adjective.",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "input_en": "The wrecked sailboat washed up on shore.",
+      "output_en": "wrecked (past participle)",
+      "nf_topic": "participles",
+      "note_en": "Participle used as an adjective.",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "input_en": "Boys love playing cricket.",
+      "output_en": "playing",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund functioning as the object of the verb 'love'.",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "input_en": "I like the flute, Krishna returned it. {played / having played}",
+      "output_en": "having played",
+      "nf_topic": "participles",
+      "note_en": "Perfect participle describing the completed action.",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "input_en": "Walking is a healthy habit",
+      "output_en": "Walking",
+      "nf_topic": "gerunds",
+      "note_en": "Present participle used as a noun.",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "input_en": "Having walked a long distance I felt tired.",
+      "output_en": "Having walked",
+      "nf_topic": "participles",
+      "note_en": "Past participle.",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "input_en": "She made me do my project.",
+      "output_en": "do",
+      "nf_topic": "infinitives",
+      "note_en": "Example of a bare infinitive used after 'made'.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "To wait seemed foolish when decisive action was required.",
+      "output_en": "To wait",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive functioning as a subject.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "We intended to leave early.",
+      "output_en": "to leave",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive functioning as a direct object.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "His ambition is to fly.",
+      "output_en": "to fly",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive functioning as a subject complement.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "He lacked the strength to resist.",
+      "output_en": "to resist",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive functioning as an adjective.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "We must study to learn.",
+      "output_en": "to learn",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive functioning as an adverb.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "Travelling might satisfy your desire for new experiences.",
+      "output_en": "Travelling",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund functioning as a subject.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "They do not appreciate my singing.",
+      "output_en": "singing",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund functioning as a direct object.",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "input_en": "My cat’s favourite activity is sleeping.",
+      "output_en": "sleeping",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund as subject complement.",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "input_en": "The police arrested him for speeding.",
+      "output_en": "speeding",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund as object of the preposition 'for'.",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "input_en": "I need to get up early tomorrow to complete my grammar exercise.",
+      "output_en": "to complete",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive expressing purpose/intention.",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "input_en": "I wish to finish my assignment by tonight.",
+      "output_en": "to finish",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive expressing intention.",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "input_en": "I stopped to talk to him.",
+      "output_en": "to talk",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive after 'stop' (indicates a pause in an activity to perform the action).",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "input_en": "I stopped talking to him.",
+      "output_en": "talking",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund after 'stop' (indicates ending the activity).",
+      "source": "grammer",
+      "source_page": 406
+    },
+    {
+      "input_en": "I saw a sparrow chirping on the roof.",
+      "output_en": "saw (finite), chirping (non-finite)",
+      "nf_topic": "overview",
+      "note_en": "Only 'see' changes with tense.",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "input_en": "It is our responsibility to save sparrows.",
+      "output_en": "to save",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive function as a noun phrase.",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "input_en": "Fluttering their wings, the sparrows splashed in the water.",
+      "output_en": "Fluttering",
+      "nf_topic": "participles",
+      "note_en": "Participle used to modify a noun.",
+      "source": "grammer",
+      "source_page": 414
+    },
+    {
+      "input_en": "Perching on the ground the sparrows search for grains.",
+      "output_en": "Perching",
+      "nf_topic": "participles",
+      "note_en": "Participle usage.",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "input_en": "Nesting of sparrows was very low last year.",
+      "output_en": "Nesting",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund as subject.",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "input_en": "Jumping is fun.",
+      "output_en": "Jumping",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund acting as subject to a verb.",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "input_en": "My son likes to ski.",
+      "output_en": "to ski",
+      "nf_topic": "infinitives",
+      "note_en": "Infinitive acting as direct object of the verb.",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "input_en": "The wrecked sailboat washed up on shore.",
+      "output_en": "wrecked",
+      "nf_topic": "participles",
+      "note_en": "Past participle modifying the noun 'sailboat'.",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "input_en": "Painting is an interesting hobby.",
+      "output_en": "Painting (Gerund)",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund used as subject.",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "input_en": "Dancing gives me joy.",
+      "output_en": "Dancing (Gerund)",
+      "nf_topic": "gerunds",
+      "note_en": "Gerund used as subject.",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "input_en": "The wrecked sailboat washed up on the shore.",
+      "output_en": "wrecked",
+      "nf_topic": "participles",
+      "note_en": "Past participle functioning as an adjective.",
+      "source": "race",
+      "source_page": 42
+    },
+    {
+      "input_en": "This is a dancing doll.",
+      "output_en": "dancing",
+      "nf_topic": "participles",
+      "note_en": "Present participle acting as an adjective.",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "input_en": "These are rotten fruits.",
+      "output_en": "rotten",
+      "nf_topic": "participles",
+      "note_en": "Past participle acting as an adjective.",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "input_en": "bid",
+      "output_en": "to bid",
+      "nf_topic": "infinitives",
+      "note_en": "Standard infinitive form",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "hear",
+      "output_en": "to hear",
+      "nf_topic": "infinitives",
+      "note_en": "Standard infinitive form",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "feel",
+      "output_en": "to feel",
+      "nf_topic": "infinitives",
+      "note_en": "Standard infinitive form",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "The coach made us (to)run around the ground.",
+      "output_en": "run",
+      "nf_topic": "infinitives",
+      "note_en": "Run is the bare infinitive",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "Driving too fast is dangerous.",
+      "output_en": "Driving",
+      "nf_topic": "gerunds",
+      "note_en": "Used as a verbal noun",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "He is painting.",
+      "output_en": "painting",
+      "nf_topic": "participles",
+      "note_en": "Part of continuous form",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "She was waiting.",
+      "output_en": "waiting",
+      "nf_topic": "participles",
+      "note_en": "Part of continuous form",
+      "source": "govt",
+      "source_page": 69
+    },
+    {
+      "input_en": "The rising sun looks majestic.",
+      "output_en": "rising",
+      "nf_topic": "participles",
+      "note_en": "Used as a verbal adjective",
+      "source": "govt",
+      "source_page": 69
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The astronauts managed ____ (complete) their training in record time.",
+      "answer_en": "to complete",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "They learned how ____ (survive) in space without gravity.",
+      "answer_en": "to survive",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "The best astronaut almost quit ____ (try) to learn the complex information.",
+      "answer_en": "trying",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "Their mission appeared ____ (be) in jeopardy.",
+      "answer_en": "to be",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "The Marina encouraged him by saying 'It's no good ____ (quit) the project right at the end.'",
+      "answer_en": "quitting",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 12
+    },
+    {
+      "prompt_en": "1. Deva forgot ___ the letter.",
+      "answer_en": "to post",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "2. The doctor advised the patient ___ his medicines without fail.",
+      "answer_en": "to take",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "3. Rajesh went to the airport ___ his friend.",
+      "answer_en": "to receive",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "4. The bear climbed up the tree ___ the honey.",
+      "answer_en": "to get",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "5. The boys went to the forest ___ birds.",
+      "answer_en": "to watch",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "1. the flute, Krishna returned it. {played / having played}",
+      "answer_en": "having played",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "2. We wish she continues ___ healthy. {being / be}",
+      "answer_en": "being",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "3. The doctor advised him against ___ in the sun. {wander / wandering}",
+      "answer_en": "wandering",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "5. the scissors I returned it to her. {using / having used}",
+      "answer_en": "having used",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 13
+    },
+    {
+      "prompt_en": "IV. 1-6 (Gerund form completion)",
+      "answer_en": "1. eating; 2. becoming; 3. fulfilling; 4. taking; 5. having; 6. Travelling.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "V. 1-5 (Participle form completion)",
+      "answer_en": "1. having played; 2. being; 3. wandering; 4. drinking; 5. having used.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "VII. 1-5 (Gerund form completion)",
+      "answer_en": "1. playing; 2. eating; 3. bothering; 4. painting; 5. dancing.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "VIII. 1-5 (Gerund form completion)",
+      "answer_en": "1. Exercising; 2. Flying; 3. Shopping; 4. meeting; 5. signaling.",
+      "nf_topic": "gerunds",
+      "source": "verb_fully",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "IX. 1-10 (Infinitive form completion)",
+      "answer_en": "1. to post; 2. to take; 3. to receive; 4. to eat; 5. to trap; 6. to make; 7. to rebuild; 8. to produce; 9. to get; 10. to go.",
+      "nf_topic": "infinitives",
+      "source": "verb_fully",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "X. 1-11 (Participle phrase usage)",
+      "answer_en": "1. Feeling sleepy, the baby cried; 2. Living alone, he had forgotten everybody; 3. Smiling, she walked out; 4. Shouting loudly, the child says that he needs attention; 5. The pen being broken, I threw it away; 6. Being tattered, the coat needs mending; 7. Hearing the noise, I turned around; 8. Being dissatisfied, he quit his job; 9. Being accompanied by many comrades, the politician entered the campus; 10. Singing a song, the girl entered the room; 11. Not knowing what to do, I phoned the police.",
+      "nf_topic": "participles",
+      "source": "verb_fully",
+      "source_page": 14
+    },
+    {
+      "prompt_en": "They want to try a new approach.",
+      "answer_en": "want (finite), to try (non-finite)",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "prompt_en": "Trying is easy.",
+      "answer_en": "Trying (non-finite), is (finite)",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "prompt_en": "Having tried everything, he gave up.",
+      "answer_en": "Having tried (non-finite), gave (finite)",
+      "nf_topic": "participles",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "prompt_en": "All I can do is try.",
+      "answer_en": "can do (finite), try (non-finite)",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "prompt_en": "If she tried, she would succeed.",
+      "answer_en": "tried (finite), would succeed (finite)",
+      "nf_topic": "overview",
+      "source": "grammer",
+      "source_page": 404
+    },
+    {
+      "prompt_en": "Identify the infinitive/gerund function in 'To swim is a good exercise.'",
+      "answer_en": "To swim - subject",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "Identify the infinitive/gerund function in 'I like to swim.'",
+      "answer_en": "to swim - object",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 405
+    },
+    {
+      "prompt_en": "The astronauts managed ___________ (complete) their training in record time.",
+      "answer_en": "to complete",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "They learned how __________ (survive) in space without gravity.",
+      "answer_en": "to survive",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "The best astronaut almost quit _________ (try) to learn the complex information.",
+      "answer_en": "trying",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Their mission appeared __________ (be) in jeopardy.",
+      "answer_en": "to be",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Then Marina encouraged him by saying, \"It’s no good __________ (quit) the project right at the end.\"",
+      "answer_en": "quitting",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Being an astronaut will enable you __________ (achieve) great success in life.",
+      "answer_en": "to achieve",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "If you give up ____________ (study) now, our mission will be scrubbed.",
+      "answer_en": "studying",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Think of your fellow astronauts who wouldn’t hesitate __________ (help) you in time of trouble.",
+      "answer_en": "to help",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "We astronauts must keep on _______________ (prepare) for our space launch.",
+      "answer_en": "preparing",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Some say it’s no use _____________ (travel) to distant planets, because it takes too long.",
+      "answer_en": "traveling",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "But we really want ____________ (visit) other planets and find out if life exists on them.",
+      "answer_en": "to visit",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "Can you imagine ___________ (walk) up to a Martian and shaking hands and ____________ (say), “Hello, how are you? “",
+      "answer_en": "walking, saying",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 407
+    },
+    {
+      "prompt_en": "We really look forward _____________ (meet) alien creatures and ________ (find) out what they are really like.",
+      "answer_en": "meeting, finding",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "Many scientists have warned us not _____________ (take) this dangerous journey, but we are not discouraged.",
+      "answer_en": "to take",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "Travelling to far away planets involves ____________ (risk) our lives for the thrill of discovery.",
+      "answer_en": "risking",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "However we won’t delay ____________ (blast) off into space.",
+      "answer_en": "blasting",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "Would you like __________ (accompany) us on our journey if you could?",
+      "answer_en": "to accompany",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "During our training we have got used to ___________ (be) weightless and ___________ (live) under difficult conditions.",
+      "answer_en": "being, living",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "Scientists admit to __________ (be) intensely curious about life on other planets.",
+      "answer_en": "being",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "I’m sure they would also enjoy __________ (travel) with our crew.",
+      "answer_en": "traveling",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "We told them ____________ (come) with us on our trip, but some of them think it is a waste of time ____________ (search) for life that doesn’t exist.",
+      "answer_en": "to come, searching",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "We have been taught how __________ (endure) hardships during our training and now we can’t afford __________ (waste) money.",
+      "answer_en": "to endure, to waste",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 408
+    },
+    {
+      "prompt_en": "Cycling is a good exercise.",
+      "answer_en": "Cycling (Gerund)",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Latha loves to cook exotic dishes.",
+      "answer_en": "to cook (Infinitive)",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "The sleeping gatekeeper caused a delay.",
+      "answer_en": "sleeping (Participle)",
+      "nf_topic": "participles",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Sathish enjoys reading.",
+      "answer_en": "reading (Gerund)",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "The teachers encouraged the students to ask questions.",
+      "answer_en": "to ask (Infinitive)",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Hearing a loud noise, we ran to the window.",
+      "answer_en": "Hearing (Participle)",
+      "nf_topic": "participles",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Smoking is prohibited.",
+      "answer_en": "Smoking (Gerund)",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Raj who was seriously injured in the accident is now fighting for his life.",
+      "answer_en": "injured (Participle), fighting (Participle)",
+      "nf_topic": "participles",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Anandi likes to go trekking during holidays.",
+      "answer_en": "to go (Infinitive), trekking (Gerund)",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Mary suggested taking notes.",
+      "answer_en": "taking (Gerund)",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "It was difficult to complete the rough draft.",
+      "answer_en": "to complete (Infinitive)",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 415
+    },
+    {
+      "prompt_en": "Boys love playing cricket.",
+      "answer_en": "playing",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "prompt_en": "I love eating ice creams.",
+      "answer_en": "eating",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "prompt_en": "Jessie enjoys bothering others.",
+      "answer_en": "bothering",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 416
+    },
+    {
+      "prompt_en": "1. ________ (exercise) is good for health.",
+      "answer_en": "Exercising",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "2. ________ (fly) a kite is fun.",
+      "answer_en": "Flying",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "3. ________ (shop) is my favourite hobby.",
+      "answer_en": "Shopping",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "4. My friend waited for the ________ (meet).",
+      "answer_en": "meeting",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "5. Huckleberry Finn was responsible for __________ (signal).",
+      "answer_en": "signalling",
+      "nf_topic": "gerunds",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "1. Deva forgot _________ the letter.",
+      "answer_en": "to post",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "2. The doctor advised the patient __________ his medicines without fail.",
+      "answer_en": "to take",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "3. Rajesh went to the airport _______ his friend.",
+      "answer_en": "to see off",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "4. The bear climbed up the tree _______ the honey.",
+      "answer_en": "to eat",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "5. The boys went to the forest _____________ birds.",
+      "answer_en": "to catch",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "6. I tried hard _______ both ends meet.",
+      "answer_en": "to make",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "7. The archaeologists are trying __________ the ruins of Keelady.",
+      "answer_en": "to excavate",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "8. Solar energy is used ________ electricity.",
+      "answer_en": "to generate",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "9. ________ concession, you have to apply well in advance.",
+      "answer_en": "To get",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "10. We have plans ________ to London during summer vacation.",
+      "answer_en": "to go",
+      "nf_topic": "infinitives",
+      "source": "grammer",
+      "source_page": 417
+    },
+    {
+      "prompt_en": "The astronauts managed (complete) their training.",
+      "answer_en": "to complete",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "The best astronaut almost quit (try) to learn.",
+      "answer_en": "trying",
+      "nf_topic": "gerunds",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "(Exercise) is good for health.",
+      "answer_en": "Exercising",
+      "nf_topic": "gerunds",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "Huckleberry Finn was responsible for (signal).",
+      "answer_en": "signaling",
+      "nf_topic": "gerunds",
+      "source": "race",
+      "source_page": 43
+    },
+    {
+      "prompt_en": "Deva forgot _________ the letter.",
+      "answer_en": "to post",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "The doctor advised the patient __________ his medicines without fail.",
+      "answer_en": "to take",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "Rajesh went to the airport _______ his friend.",
+      "answer_en": "to receive",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "The bear climbed up the tree _______ the honey.",
+      "answer_en": "to drink",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "The boys went to the forest _____________ birds.",
+      "answer_en": "to watch",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "I tried hard _______ both ends meet.",
+      "answer_en": "to make",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "The archaeologists are trying __________ the ruins of Keelady.",
+      "answer_en": "to study",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "Solar energy is used ________ electricity.",
+      "answer_en": "to generate",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "________ concession, you have to apply well in advance.",
+      "answer_en": "To get",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    },
+    {
+      "prompt_en": "We have plans ________to London during summer vacation.",
+      "answer_en": "to go",
+      "nf_topic": "infinitives",
+      "source": "race",
+      "source_page": 44
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 66,
+      "examples": 50,
+      "worked_exercises": 92
+    },
+    "by_nf_topic": {
+      "overview": {
+        "rules": 16,
+        "examples": 2,
+        "worked": 2
+      },
+      "gerunds": {
+        "rules": 17,
+        "examples": 15,
+        "worked": 35
+      },
+      "infinitives": {
+        "rules": 18,
+        "examples": 18,
+        "worked": 47
+      },
+      "participles": {
+        "rules": 15,
+        "examples": 15,
+        "worked": 8
+      }
+    }
+  }
+}

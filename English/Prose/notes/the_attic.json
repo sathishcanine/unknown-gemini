@@ -1,0 +1,88 @@
+{
+  "prose_id": "the_attic",
+  "prose_title": "The Attic",
+  "author": "Satyajit Ray",
+  "num": 4,
+  "pdf_pages": [
+    159,
+    179
+  ],
+  "prose_text_en": "Aditya and the narrator visit Bramhapur, Aditya's birthplace, after 29 years. They encounter Sasanka Sanyal at Nagen Uncle’s tea shop. Sanyal, an impoverished man, recites a poem by Tagore, triggering a memory in Aditya. Aditya visits his ancestral home, finds an old silver medal hidden in the attic, and later visits Sanyal to return the medal he had stolen from him during childhood. Aditya confesses, seeking to rectify his past mistake: 'This is the price of the medal. It is yours.'",
+  "summary_en": "Aditya returns to his ancestral village after 29 years and experiences deep guilt over a childhood incident involving a silver medal he had stolen from his peer, Sasanka Sanyal. He locates the medal in the attic of his old home and visits Sanyal to restore it, thereby finding peace. The story highlights the theme of human fallibility, the importance of rectifying past mistakes, and the enduring impact of childhood actions.",
+  "characters": [
+    {
+      "name_en": "Aditya Narayan Chowdhury",
+      "role_en": "The protagonist who returns to his village to address a childhood moral failing."
+    },
+    {
+      "name_en": "Sasanka Sanyal",
+      "role_en": "Aditya's childhood peer who suffered from Aditya's past dishonesty."
+    },
+    {
+      "name_en": "Nagen Uncle",
+      "role_en": "The owner of the local tea shop who provides information about Sanyal."
+    },
+    {
+      "name_en": "Narrator",
+      "role_en": "Aditya’s friend and business partner who accompanies him on the trip."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Bifurcated",
+      "meaning_en": "Divided into two"
+    },
+    {
+      "word_en": "Attic",
+      "meaning_en": "The space or room at the top of a building, under the roof"
+    },
+    {
+      "word_en": "Unperturbed",
+      "meaning_en": "Undisturbed"
+    },
+    {
+      "word_en": "Overwrought",
+      "meaning_en": "State of being upset"
+    },
+    {
+      "word_en": "Spire",
+      "meaning_en": "A tall, pointed structure on top of a building"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Satyajit Ray (1921–1992)",
+      "tag": "author"
+    },
+    {
+      "rule_en": "The story 'The Attic' is a translation of the Bengali story 'Chilekotha'.",
+      "tag": "title"
+    },
+    {
+      "rule_en": "The moral of the story: It is natural for humans to make mistakes, but we should try to rectify them.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Satyajit Ray edited the children's magazine 'Sandesh' started by his grandfather in 1913.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "Aditya hid the medal in the attic for 29 years.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "What was engraved on the medal?",
+      "answer_en": "Sriman Sasanka Sanyal – Special Prize for Recitation - 1948",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Why did Sasanka Sanyal recite the poem in the tea shop?",
+      "answer_en": "He recited it on purpose so that Aditya might remember him, as he had recognized Aditya by the mole on his cheek.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

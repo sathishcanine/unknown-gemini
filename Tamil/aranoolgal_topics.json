@@ -1,0 +1,59 @@
+{
+  "unit": "Aranoolgal",
+  "topics": [
+    {
+      "id": "aranoolgal_1",
+      "name_ta": "நாலடியார் — நான்மணிக்கடிகை",
+      "books": [
+        "naladiyar",
+        "nanmanikadikai"
+      ],
+      "batches": 3
+    },
+    {
+      "id": "aranoolgal_2",
+      "name_ta": "பழமொழி நானூறு — இன்னா நாற்பது",
+      "books": [
+        "pazhamozhi_nanuru",
+        "inna_narpathu"
+      ],
+      "batches": 3
+    },
+    {
+      "id": "aranoolgal_3",
+      "name_ta": "திரிகடுகம் — ஏலாதி",
+      "books": [
+        "thirikadugam",
+        "elathi"
+      ],
+      "batches": 2
+    },
+    {
+      "id": "aranoolgal_4",
+      "name_ta": "சிறுபஞ்சமூலம் — முதுமொழிக் காஞ்சி",
+      "books": [
+        "sirupanchamoolam",
+        "mudhumozhikkanchi"
+      ],
+      "batches": 3
+    },
+    {
+      "id": "aranoolgal_5",
+      "name_ta": "ஔவையார்",
+      "books": [
+        "avvaiyar"
+      ],
+      "batches": 3
+    },
+    {
+      "id": "aranoolgal_6",
+      "name_ta": "ஆசாரக்கோவை — அறநெறிச்சாரம் — நீதிநெறி விளக்கம்",
+      "books": [
+        "asarakkovai",
+        "araneri_saram",
+        "neethineri_vilakkam"
+      ],
+      "batches": 3
+    }
+  ]
+}

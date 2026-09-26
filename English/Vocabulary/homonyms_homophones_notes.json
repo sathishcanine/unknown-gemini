@@ -1,0 +1,5688 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "homonyms_homophones",
+  "sources": [
+    "Vetrii Vocabulary pp.[57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84] (primary, vision)",
+    "Race Part A pp.[47, 48] (primary)",
+    "Grammer.pdf pp.[141, 142, 144, 146, 147, 150, 151, 152, 153, 154] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "Homonyms are spelled the same way but differ in meaning.",
+      "hh_tag": "definition",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "rule_en": "Two or more words having the same spelling and pronunciation but different meanings and origins.",
+      "hh_tag": "definition",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "rule_en": "Confusables are words that are commonly confused with one another in meaning or usage because of slight similarities in spelling, pronunciation or meaning.",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "rule_en": "Homographs are words with same spelling but different meanings and sometimes different pronunciation.",
+      "hh_tag": "homograph",
+      "source": "vetrii",
+      "source_page": 419
+    },
+    {
+      "rule_en": "Heteronyms (also known as heterophones) are two or more words with same spelling but different sounds and meanings.",
+      "hh_tag": "homograph",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "rule_en": "Homophones are words that sound the same but have different meanings, origins and spellings.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "rule_en": "Fill in the blanks with suitable homophones.",
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "rule_en": "Homophones: words that have the same or similar sound but different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "rule_en": "Homophones are words having similar pronunciations but different spellings and meanings.",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "rule_en": "Homonyms are words with similar pronunciations and similar spelling but different meanings.",
+      "hh_tag": "homonym",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "rule_en": "Homophones are words that sound the same but have different spellings and meanings.",
+      "hh_tag": "overview",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "rule_en": "Homophones are two words that are spelled differently but have the same sound.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "rule_en": "Homophones have the same/similar sound but different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "rule_en": "Homophones are words with same pronunciation but different meanings, origins, or spelling.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "rule_en": "Homophones are words with similar sound but with a different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "rule_en": "Homonyms are words with similar sound and spelling, but with a different meaning.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "rule_en": "Polysemy: The association of one word with multiple meanings in different contexts.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 150
+    },
+    {
+      "rule_en": "Homonyms are words which have similar sound (pronunciation), same spelling but different meaning.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 151
+    },
+    {
+      "rule_en": "Homographs are words which have similar spelling, but different pronunciation and meaning.",
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "rule_en": "Antigrams are a pair of anagrams with opposite meanings.",
+      "hh_tag": "other",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "rule_en": "Contranyms (auto-antonyms) are words with multiple meanings of which one is the reverse of another.",
+      "hh_tag": "other",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "rule_en": "Homonyms are words that have the same pronunciation but different meanings.",
+      "hh_tag": "definition",
+      "source": "grammer",
+      "source_page": 154
+    },
+    {
+      "rule_en": "Homographs are words with the same spelling and same sound but different meanings.",
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 154
+    },
+    {
+      "rule_en": "Homophones are two or more words with the same sound but with different spellings and meanings.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 154
+    },
+    {
+      "rule_en": "Heteronyms (or heterophones) are two or more words with same spelling but different sounds and meanings.",
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 154
+    }
+  ],
+  "examples": [
+    {
+      "word_a_en": "hop",
+      "word_b_en": "hop",
+      "meaning_a_en": "move by jump",
+      "meaning_b_en": "a climbing plant",
+      "note_en": "E.g. hop, hop",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "wound",
+      "word_b_en": "wound",
+      "meaning_a_en": "Injury, physical harm",
+      "meaning_b_en": "Past tense of wind, twisted or turned",
+      "note_en": "The bandage was wound around the wound.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "fair",
+      "word_b_en": "fair",
+      "meaning_a_en": "Good.",
+      "meaning_b_en": "Competition exhibition.",
+      "note_en": "There is a fair arts and craft fair this weekend.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "saw",
+      "word_b_en": "saw",
+      "meaning_a_en": "Past tense of see.",
+      "meaning_b_en": "Tool for cutting wood.",
+      "note_en": "The woodcutter saw a huge saw in his dream.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "march",
+      "word_b_en": "March",
+      "meaning_a_en": "Walking in a military manner.",
+      "meaning_b_en": "3rd month of the year.",
+      "note_en": "We have march pass in March.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "can",
+      "word_b_en": "can",
+      "meaning_a_en": "A verb used to request permission or ability.",
+      "meaning_b_en": "A vessel",
+      "note_en": "Can you get me a can?",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "live",
+      "word_b_en": "live",
+      "meaning_a_en": "Living and not dead.",
+      "meaning_b_en": "Remain alive.",
+      "note_en": "How long will the live fish live without food?",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "right",
+      "meaning_a_en": "Correct.",
+      "meaning_b_en": "Direction.",
+      "note_en": "Write the right answers on the right side.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 57
+    },
+    {
+      "word_a_en": "well",
+      "word_b_en": "well",
+      "meaning_a_en": "A deep hole that is dug to get water",
+      "meaning_b_en": "Famous",
+      "note_en": "The well was dug by a well-known king.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "tears",
+      "word_b_en": "tears",
+      "meaning_a_en": "Drops of liquid from eyes",
+      "meaning_b_en": "Pull apart or to pieces with force",
+      "note_en": "She has tears in her eyes as she tears old photos.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "second",
+      "word_b_en": "second",
+      "meaning_a_en": "Number of sequences",
+      "meaning_b_en": "A unit of time",
+      "note_en": "I will be second in line if I wait one more second.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "bright",
+      "word_b_en": "bright",
+      "meaning_a_en": "Very smart or intelligent",
+      "meaning_b_en": "Filled with light",
+      "note_en": "Ashwanth is a bright student; It was a bright morning.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "express",
+      "word_b_en": "express",
+      "meaning_a_en": "Something done fast",
+      "meaning_b_en": "Convey or communicate",
+      "note_en": "I came to Chennai by the express train; She expressed her grief openly.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "kind",
+      "word_b_en": "kind",
+      "meaning_a_en": "Type or category",
+      "meaning_b_en": "Caring",
+      "note_en": "There are many kinds of flowers; She is a kind nurse.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "well",
+      "word_b_en": "well",
+      "meaning_a_en": "In good health",
+      "meaning_b_en": "Water resource",
+      "note_en": "I am doing well; I have a deep well in my house.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "cricket",
+      "word_b_en": "cricket",
+      "meaning_a_en": "Popular game",
+      "meaning_b_en": "Insect",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "bank",
+      "word_b_en": "bank",
+      "meaning_a_en": "Financial Institution",
+      "meaning_b_en": "Geographical river edge",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "will",
+      "word_b_en": "will",
+      "meaning_a_en": "Legal Document",
+      "meaning_b_en": "Future intention",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "bark",
+      "word_b_en": "bark",
+      "meaning_a_en": "Dog's sound",
+      "meaning_b_en": "Tree covering",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 58
+    },
+    {
+      "word_a_en": "Watch",
+      "word_b_en": "Watch",
+      "meaning_a_en": "Timepiece",
+      "meaning_b_en": "Observe carefully",
+      "note_en": "It is 10:30 am on my watch. / A spy was keeping a watch on her.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "Bat",
+      "word_b_en": "Bat",
+      "meaning_a_en": "Flying mammal",
+      "meaning_b_en": "Cricket equipment",
+      "note_en": "This bat is heavy. / I was asked to bat.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "address",
+      "word_b_en": "address",
+      "meaning_a_en": "to speak to",
+      "meaning_b_en": "location",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "air",
+      "word_b_en": "air",
+      "meaning_a_en": "oxygen",
+      "meaning_b_en": "a lilting tune",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "arm",
+      "word_b_en": "arm",
+      "meaning_a_en": "part of the body",
+      "meaning_b_en": "have a weapon",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "band",
+      "word_b_en": "band",
+      "meaning_a_en": "a musical group",
+      "meaning_b_en": "a ring",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "bark",
+      "word_b_en": "bark",
+      "meaning_a_en": "a tree's outer layer",
+      "meaning_b_en": "the sound a dog makes",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "bat",
+      "word_b_en": "bat",
+      "meaning_a_en": "a sports equipment used to hit a ball",
+      "meaning_b_en": "a nocturnal flying mammal",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "blind",
+      "word_b_en": "blind",
+      "meaning_a_en": "window shade",
+      "meaning_b_en": "unable to see",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "block",
+      "word_b_en": "block",
+      "meaning_a_en": "a solid piece of wood or other material",
+      "meaning_b_en": "make flow difficult",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "bond",
+      "word_b_en": "bond",
+      "meaning_a_en": "document",
+      "meaning_b_en": "a relationship between two things",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "bowl",
+      "word_b_en": "bowl",
+      "meaning_a_en": "a vessel",
+      "meaning_b_en": "to throw a ball (cricket)",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "crane",
+      "word_b_en": "crane",
+      "meaning_a_en": "a bird",
+      "meaning_b_en": "a machine to lift heavy load",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "current",
+      "word_b_en": "current",
+      "meaning_a_en": "up to date",
+      "meaning_b_en": "the flow of water or electricity",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "desert",
+      "word_b_en": "desert",
+      "meaning_a_en": "dry barren land",
+      "meaning_b_en": "to abandon",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "entrance",
+      "word_b_en": "entrance",
+      "meaning_a_en": "point of entry",
+      "meaning_b_en": "to delight",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "fair",
+      "word_b_en": "fair",
+      "meaning_a_en": "beautiful",
+      "meaning_b_en": "exhibition, show",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "fine",
+      "word_b_en": "fine",
+      "meaning_a_en": "describe something",
+      "meaning_b_en": "payment for a violation",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "grave",
+      "word_b_en": "grave",
+      "meaning_a_en": "serious",
+      "meaning_b_en": "place of burial",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "guard",
+      "word_b_en": "guard",
+      "meaning_a_en": "watchman",
+      "meaning_b_en": "to look after",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "hide",
+      "word_b_en": "hide",
+      "meaning_a_en": "animal's skin",
+      "meaning_b_en": "keep out of sight",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "kind",
+      "word_b_en": "kind",
+      "meaning_a_en": "a type or sort of something",
+      "meaning_b_en": "caring",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "lead",
+      "word_b_en": "lead",
+      "meaning_a_en": "to guide someone",
+      "meaning_b_en": "a type of metal",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "letter",
+      "word_b_en": "letter",
+      "meaning_a_en": "letters of the alphabets",
+      "meaning_b_en": "written correspondence",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "lie",
+      "word_b_en": "lie",
+      "meaning_a_en": "to recline",
+      "meaning_b_en": "false statement",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "mean",
+      "word_b_en": "mean",
+      "meaning_a_en": "average",
+      "meaning_b_en": "not nice/stingy",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 59
+    },
+    {
+      "word_a_en": "minute",
+      "word_b_en": "minute",
+      "meaning_a_en": "a unit of time equal to 60 seconds",
+      "meaning_b_en": "how small something is",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "mop",
+      "word_b_en": "mop",
+      "meaning_a_en": "clean",
+      "meaning_b_en": "tool for cleaning",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "object",
+      "word_b_en": "object",
+      "meaning_a_en": "goal, to express disapproval",
+      "meaning_b_en": "a thing that can be seen or touched",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "project",
+      "word_b_en": "project",
+      "meaning_a_en": "to plan",
+      "meaning_b_en": "a piece of work",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "ream",
+      "word_b_en": "ream",
+      "meaning_a_en": "a pile of paper",
+      "meaning_b_en": "to juice a citrus fruit",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "right",
+      "meaning_a_en": "correct",
+      "meaning_b_en": "direction",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "refuse",
+      "word_b_en": "refuse",
+      "meaning_a_en": "decline",
+      "meaning_b_en": "garbage",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "ring",
+      "word_b_en": "ring",
+      "meaning_a_en": "a band on a finger",
+      "meaning_b_en": "something circular in shape",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "rock",
+      "word_b_en": "rock",
+      "meaning_a_en": "a genre of music",
+      "meaning_b_en": "a stone",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "rose",
+      "word_b_en": "rose",
+      "meaning_a_en": "to rise or stand up",
+      "meaning_b_en": "a flower",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "row",
+      "word_b_en": "row",
+      "meaning_a_en": "a fight",
+      "meaning_b_en": "propel a boat forward",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "spring",
+      "word_b_en": "spring",
+      "meaning_a_en": "a season",
+      "meaning_b_en": "coiled metal",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "strap",
+      "word_b_en": "strap",
+      "meaning_a_en": "strip of leather",
+      "meaning_b_en": "fasten, hold",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "tender",
+      "word_b_en": "tender",
+      "meaning_a_en": "gentle",
+      "meaning_b_en": "offer of money",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "tire",
+      "word_b_en": "tire",
+      "meaning_a_en": "to grow fatigued",
+      "meaning_b_en": "a part of a wheel",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "well",
+      "word_b_en": "well",
+      "meaning_a_en": "in good health",
+      "meaning_b_en": "a source for water in the ground",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "will",
+      "word_b_en": "will",
+      "meaning_a_en": "to intend or decide to do something",
+      "meaning_b_en": "legal document",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "Advice",
+      "word_b_en": "Advise",
+      "meaning_a_en": "recommendation regarding a decision (noun)",
+      "meaning_b_en": "to recommend (verb)",
+      "note_en": "Pronunciation difference: 'c' sounds like /s/, 's' sounds like /z/",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "brought",
+      "word_b_en": "bought",
+      "meaning_a_en": "past participle of bring",
+      "meaning_b_en": "past participle of buy",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 60
+    },
+    {
+      "word_a_en": "Emigrate",
+      "word_b_en": "Immigrate",
+      "meaning_a_en": "Leaving homeland",
+      "meaning_b_en": "Come to live permanently in a foreign country",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Beside",
+      "word_b_en": "Besides",
+      "meaning_a_en": "At the side of",
+      "meaning_b_en": "In addition to",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Judicial",
+      "word_b_en": "Judicious",
+      "meaning_a_en": "Relating to justice",
+      "meaning_b_en": "Wise or prudent",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Eligible",
+      "word_b_en": "Illegible",
+      "meaning_a_en": "Satisfying appropriate conditions",
+      "meaning_b_en": "Not clear enough to read",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Conscience",
+      "word_b_en": "Conscious",
+      "meaning_a_en": "A person's moral sense of right and wrong",
+      "meaning_b_en": "Being aware of",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Industrial",
+      "word_b_en": "Industrious",
+      "meaning_a_en": "Relating to industry",
+      "meaning_b_en": "Diligent or hardworking",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Eminent",
+      "word_b_en": "Imminent",
+      "meaning_a_en": "Famous",
+      "meaning_b_en": "Something bad likely to happen very soon",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Illicit",
+      "word_b_en": "Elicit",
+      "meaning_a_en": "Illegal",
+      "meaning_b_en": "To evoke a response",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Prescribed",
+      "word_b_en": "Proscribed",
+      "meaning_a_en": "Set down rules",
+      "meaning_b_en": "Prohibited",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Affect",
+      "word_b_en": "Effect",
+      "meaning_a_en": "To influence something or someone",
+      "meaning_b_en": "Impact of something",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Aural",
+      "word_b_en": "Oral",
+      "meaning_a_en": "Relating to hearing",
+      "meaning_b_en": "Verbal",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Born",
+      "word_b_en": "Borne",
+      "meaning_a_en": "Related to birth",
+      "meaning_b_en": "Carried by",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Complement",
+      "word_b_en": "Compliment",
+      "meaning_a_en": "It is something that completes something else",
+      "meaning_b_en": "It is a praise or nice thing to say",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 61
+    },
+    {
+      "word_a_en": "Stationary",
+      "word_b_en": "Stationery",
+      "meaning_a_en": "Unmoving",
+      "meaning_b_en": "Letter writing materials and especially high quality paper",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "word_a_en": "Effect",
+      "word_b_en": "Affect",
+      "meaning_a_en": "A result or a consequence (usually a noun); can function as a verb meaning to bring about something",
+      "meaning_b_en": "To have an impression, influence, or effect on something (usually a verb)",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "word_a_en": "Lie",
+      "word_b_en": "Lay",
+      "meaning_a_en": "Used when the object is laying itself down",
+      "meaning_b_en": "Used when the object is being laid down",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "word_a_en": "Rise",
+      "word_b_en": "Raise",
+      "meaning_a_en": "Used when the object is lifting itself",
+      "meaning_b_en": "Used when the object is being risen by another force",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "word_a_en": "park",
+      "word_b_en": "park",
+      "meaning_a_en": "a piece of public land for recreation",
+      "meaning_b_en": "to leave a vehicle in a particular place",
+      "note_en": "Example of homograph",
+      "hh_tag": "homograph",
+      "source": "vetrii",
+      "source_page": 419
+    },
+    {
+      "word_a_en": "bat",
+      "word_b_en": "bat",
+      "meaning_a_en": "a sport equipment for hitting the ball",
+      "meaning_b_en": "a mammal",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "object (noun)",
+      "word_b_en": "object (verb)",
+      "meaning_a_en": "article, physical object",
+      "meaning_b_en": "to express an objection or protest",
+      "note_en": "A strange object was washed ashore in the Marina beach by the Tsunami waves. / The soldiers do not object to working in harsh conditions.",
+      "hh_tag": "homograph",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "lead",
+      "word_b_en": "lead",
+      "meaning_a_en": "a metal",
+      "meaning_b_en": "guide",
+      "note_en": null,
+      "hh_tag": "homograph",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "minute",
+      "word_b_en": "minute",
+      "meaning_a_en": "a period of time",
+      "meaning_b_en": "very small",
+      "note_en": null,
+      "hh_tag": "homograph",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "park",
+      "word_b_en": "park",
+      "meaning_a_en": "a public area close to nature",
+      "meaning_b_en": "action of moving a vehicle to a place",
+      "note_en": "Don't park your vehicles in the no parking area.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "crane",
+      "word_b_en": "crane",
+      "meaning_a_en": "a bird",
+      "meaning_b_en": "a machine used at construction sites",
+      "note_en": "The crane flew against the wind and escaped from the hunter. / The firefighter brought a crane to rescue the people stranded in the tenth floor.",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "block (1)",
+      "word_b_en": "block (2/3)",
+      "meaning_a_en": "A large solid piece of hard material with flat surface on each side",
+      "meaning_b_en": "A large single building subdivided into separate flats or offices / An obstacle to the smooth or normal progress or functioning of something",
+      "note_en": "The children are building a house with wooden blocks. / The dentist lives in the next block. / Don't block the view!",
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 64
+    },
+    {
+      "word_a_en": "Pocket",
+      "word_b_en": "Packet",
+      "meaning_a_en": "A small bag sewn into or on clothing to carry small things",
+      "meaning_b_en": "A paper or cardboard container, typically one in which goods are sold",
+      "note_en": "Santa filled his pocket with candies; Maheswari carried a packet of ribbons.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "Fond",
+      "word_b_en": "Found",
+      "meaning_a_en": "Having an affection or liking for",
+      "meaning_b_en": "Having been discovered by chance or unexpectedly",
+      "note_en": "Puppies are fond of soft balls; Rosalin found a 100 rupee note on her way back home.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "Lost",
+      "word_b_en": "Last",
+      "meaning_a_en": "To lose something, unable to find",
+      "meaning_b_en": "The final in position",
+      "note_en": "My brother lost his purse; I am the last child in my family.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "Paused",
+      "word_b_en": "Passed",
+      "meaning_a_en": "Stop",
+      "meaning_b_en": "Cross, Go by, Get through",
+      "note_en": "The vehicle paused at the signal; An old man passed by the shop.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "Pitcher",
+      "word_b_en": "Picture",
+      "meaning_a_en": "Container",
+      "meaning_b_en": "A drawing of a think scene",
+      "note_en": "The farmer took a pitcher to bring water; The child drew a picture of scenery.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "in",
+      "word_b_en": "inn",
+      "meaning_a_en": "preposition",
+      "meaning_b_en": "a place to lodge",
+      "note_en": "He lives in Mumbai; He stayed at an inn last night.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "know",
+      "word_b_en": "no",
+      "meaning_a_en": "to be familiar with",
+      "meaning_b_en": "not present",
+      "note_en": "I know the answer; There is no vacancy here.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 65
+    },
+    {
+      "word_a_en": "be",
+      "word_b_en": "bee",
+      "meaning_a_en": "verb form",
+      "meaning_b_en": "a flying insect",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "to",
+      "word_b_en": "two",
+      "meaning_a_en": "preposition",
+      "meaning_b_en": "number",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "watt",
+      "word_b_en": "what",
+      "meaning_a_en": "unit of power",
+      "meaning_b_en": "question word",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "write",
+      "meaning_a_en": "direction/correct",
+      "meaning_b_en": "communication by writing",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "were",
+      "word_b_en": "where",
+      "meaning_a_en": "past form of are",
+      "meaning_b_en": "question word",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "bare",
+      "word_b_en": "bear",
+      "meaning_a_en": "adj: naked/exposed",
+      "meaning_b_en": "n: an animal",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "herd",
+      "word_b_en": "heard",
+      "meaning_a_en": "collective noun",
+      "meaning_b_en": "past form of hear",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "throne",
+      "word_b_en": "thrown",
+      "meaning_a_en": "noun",
+      "meaning_b_en": "past form of throw",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "Ail",
+      "word_b_en": "Ale",
+      "meaning_a_en": "disturb",
+      "meaning_b_en": "beer",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "Berth",
+      "word_b_en": "Birth",
+      "meaning_a_en": "a sleeping seat in train",
+      "meaning_b_en": "coming to life",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 66
+    },
+    {
+      "word_a_en": "Blue",
+      "word_b_en": "Blew",
+      "meaning_a_en": "colour",
+      "meaning_b_en": "produce a current of air",
+      "note_en": "The small boy blew a blue balloon",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Cost",
+      "word_b_en": "Cast",
+      "meaning_a_en": "price",
+      "meaning_b_en": "act of throwing",
+      "note_en": "When the fisherman cast, the shells into the water he did not know the cost of it.",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Heal",
+      "word_b_en": "Heel",
+      "meaning_a_en": "to restore to health",
+      "meaning_b_en": "the back part of the human foot below the ankle",
+      "note_en": "The wound in the heel will take time to heal.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Deer",
+      "word_b_en": "Dear",
+      "meaning_a_en": "a kind of fearful quick running wild animal",
+      "meaning_b_en": "lovable",
+      "note_en": "I saw a deer which was very dear to the visitors.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Dairy",
+      "word_b_en": "Diary",
+      "meaning_a_en": "the place where the milk and milk product are made",
+      "meaning_b_en": "a personal record of daily events",
+      "note_en": "The dairy man keep a diary.",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Fair",
+      "word_b_en": "Fare",
+      "meaning_a_en": "acting in a honest, an honourable manner",
+      "meaning_b_en": "money charged for a journey",
+      "note_en": "The fair girl gave the bus fare.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "New",
+      "word_b_en": "Knew",
+      "meaning_a_en": "latest",
+      "meaning_b_en": "aware",
+      "note_en": "People knew very well that the new news was a false one.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Wait",
+      "word_b_en": "Weight",
+      "meaning_a_en": "delay acting",
+      "meaning_b_en": "gravitational force of an object towards south",
+      "note_en": "The shop keeper is 64 kg weight and he waits for the arrival of the bus.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Sea",
+      "word_b_en": "See",
+      "meaning_a_en": "the expanse of salt water which covers the earth",
+      "meaning_b_en": "visualize",
+      "note_en": "The tourist would like to see the sea",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Peace",
+      "word_b_en": "Piece",
+      "meaning_a_en": "state of freedom of the mind",
+      "meaning_b_en": "a bit",
+      "note_en": "A piece of wrong information disturbed the peace of the whole country.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Principal",
+      "word_b_en": "Principle",
+      "meaning_a_en": "chief, head",
+      "meaning_b_en": "truth, basic",
+      "note_en": "The principal regulated some principles.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Vacation",
+      "word_b_en": "Vocation",
+      "meaning_a_en": "long holidays",
+      "meaning_b_en": "occupation",
+      "note_en": "Better do some vocation during summer vacation.",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "Steal",
+      "word_b_en": "Steel",
+      "meaning_a_en": "take secretly",
+      "meaning_b_en": "hard alloy of iron",
+      "note_en": "The thief often steals the steel.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 67
+    },
+    {
+      "word_a_en": "bare",
+      "word_b_en": "bear",
+      "meaning_a_en": "uncovered or not decorated",
+      "meaning_b_en": "a large wild animal",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "dew",
+      "word_b_en": "due",
+      "meaning_a_en": "water condensed on a surface",
+      "meaning_b_en": "as a result",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "whale",
+      "word_b_en": "wail",
+      "meaning_a_en": "large sea creature",
+      "meaning_b_en": "cry of sorrow and grief",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "ate",
+      "word_b_en": "eight",
+      "meaning_a_en": "consumed (verb), eaten",
+      "meaning_b_en": "numeral (8)",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "allowed",
+      "word_b_en": "aloud",
+      "meaning_a_en": "permitted, granted",
+      "meaning_b_en": "audibly, vocally",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "ball",
+      "word_b_en": "bawl",
+      "meaning_a_en": "spherical object, play thing",
+      "meaning_b_en": "loud crying",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "band",
+      "word_b_en": "banned",
+      "meaning_a_en": "a musical group",
+      "meaning_b_en": "forbidden",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "be",
+      "word_b_en": "bee",
+      "meaning_a_en": "to exist",
+      "meaning_b_en": "honey-producing insect",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "bite",
+      "word_b_en": "byte",
+      "meaning_a_en": "mouth action",
+      "meaning_b_en": "digital unit (eight bits)",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "billed",
+      "word_b_en": "build",
+      "meaning_a_en": "has a bill",
+      "meaning_b_en": "to construct",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "blew",
+      "word_b_en": "blue",
+      "meaning_a_en": "past tense of blow",
+      "meaning_b_en": "colour",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "bold",
+      "word_b_en": "bowled",
+      "meaning_a_en": "brave, courageous",
+      "meaning_b_en": "knocked over",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "brake",
+      "word_b_en": "break",
+      "meaning_a_en": "stopping device",
+      "meaning_b_en": "to split apart, interval",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "bread",
+      "word_b_en": "bred",
+      "meaning_a_en": "food item",
+      "meaning_b_en": "past tense of breed",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "fair",
+      "word_b_en": "fare",
+      "meaning_a_en": "just, equal",
+      "meaning_b_en": "payment",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "find",
+      "word_b_en": "fined",
+      "meaning_a_en": "to locate",
+      "meaning_b_en": "penalized",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "fir",
+      "word_b_en": "fur",
+      "meaning_a_en": "evergreen tree",
+      "meaning_b_en": "animal hair",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "flour",
+      "word_b_en": "flower",
+      "meaning_a_en": "powdered grain",
+      "meaning_b_en": "a bloom",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "groan",
+      "word_b_en": "grown",
+      "meaning_a_en": "moan",
+      "meaning_b_en": "matured, has become larger",
+      "note_en": "homophone",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 68
+    },
+    {
+      "word_a_en": "hair",
+      "word_b_en": "hare",
+      "meaning_a_en": "grows from your head",
+      "meaning_b_en": "large rabbit",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "hangar",
+      "word_b_en": "hanger",
+      "meaning_a_en": "garage for aeroplanes",
+      "meaning_b_en": "from which things hang",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "hear",
+      "word_b_en": "here",
+      "meaning_a_en": "to listen",
+      "meaning_b_en": "at this location",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "heard",
+      "word_b_en": "herd",
+      "meaning_a_en": "listened to",
+      "meaning_b_en": "a group of ruminants",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "hour",
+      "word_b_en": "our",
+      "meaning_a_en": "sixty minutes",
+      "meaning_b_en": "possessed by us",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "idle",
+      "word_b_en": "idol",
+      "meaning_a_en": "not working",
+      "meaning_b_en": "object of worship",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "made",
+      "word_b_en": "maid",
+      "meaning_a_en": "accomplished",
+      "meaning_b_en": "a domestic servant",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "mail",
+      "word_b_en": "male",
+      "meaning_a_en": "postal delivery",
+      "meaning_b_en": "masculine person",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "meat",
+      "word_b_en": "meet",
+      "meaning_a_en": "animal flesh",
+      "meaning_b_en": "to connect",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "buy",
+      "word_b_en": "by",
+      "meaning_a_en": "to purchase",
+      "meaning_b_en": "near",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "oar",
+      "word_b_en": "ore",
+      "meaning_a_en": "a pole used to row a boat",
+      "meaning_b_en": "rock containing valuable minerals",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "one",
+      "word_b_en": "won",
+      "meaning_a_en": "singularity",
+      "meaning_b_en": "victorious",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "pail",
+      "word_b_en": "pale",
+      "meaning_a_en": "bucket",
+      "meaning_b_en": "light coloured",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "plain",
+      "word_b_en": "plane",
+      "meaning_a_en": "not fancy",
+      "meaning_b_en": "a flat surface",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "pole",
+      "word_b_en": "poll",
+      "meaning_a_en": "big stick",
+      "meaning_b_en": "a voting",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "pray",
+      "word_b_en": "prey",
+      "meaning_a_en": "worship God",
+      "meaning_b_en": "hunt",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "principal",
+      "word_b_en": "principle",
+      "meaning_a_en": "head of school",
+      "meaning_b_en": "a fundamental truth or belief",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "reign",
+      "word_b_en": "rein",
+      "meaning_a_en": "sovereign rule",
+      "meaning_b_en": "a long, narrow strap attached to a horse's bridle used to control it",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "rite",
+      "meaning_a_en": "correct",
+      "meaning_b_en": "ritual",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "scene",
+      "word_b_en": "seen",
+      "meaning_a_en": "a view of a place",
+      "meaning_b_en": "past participle of see",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "sea",
+      "word_b_en": "see",
+      "meaning_a_en": "ocean",
+      "meaning_b_en": "to look",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "son",
+      "word_b_en": "sun",
+      "meaning_a_en": "male child",
+      "meaning_b_en": "star",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "steal",
+      "word_b_en": "steel",
+      "meaning_a_en": "take unlawfully",
+      "meaning_b_en": "iron alloy",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "tail",
+      "word_b_en": "tale",
+      "meaning_a_en": "spinal appendage",
+      "meaning_b_en": "story",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "too",
+      "word_b_en": "two",
+      "meaning_a_en": "also",
+      "meaning_b_en": "a couple",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "waist",
+      "word_b_en": "waste",
+      "meaning_a_en": "between ribs and hips",
+      "meaning_b_en": "make ill use of",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "wait",
+      "word_b_en": "weight",
+      "meaning_a_en": "remain in readiness",
+      "meaning_b_en": "an amount of heaviness",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "wear",
+      "word_b_en": "where",
+      "meaning_a_en": "attire",
+      "meaning_b_en": "a place",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "weak",
+      "word_b_en": "week",
+      "meaning_a_en": "not strong",
+      "meaning_b_en": "seven days",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "yoke",
+      "word_b_en": "yolk",
+      "meaning_a_en": "oxen harness",
+      "meaning_b_en": "yellow egg centre",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 425
+    },
+    {
+      "word_a_en": "Whether",
+      "word_b_en": "Weather",
+      "meaning_a_en": "Used in indirect questions",
+      "meaning_b_en": "The state of the atmosphere at a given time and place",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Affect",
+      "word_b_en": "Effect",
+      "meaning_a_en": "To have an influence on",
+      "meaning_b_en": "Cause of change brought about by an agent",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Uninterested",
+      "word_b_en": "Disinterested",
+      "meaning_a_en": "Find something boring or dull",
+      "meaning_b_en": "Impartial, without personal bias",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Loose",
+      "word_b_en": "Lose",
+      "meaning_a_en": "Not fastened",
+      "meaning_b_en": "Not to win",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Cite",
+      "word_b_en": "Sight",
+      "meaning_a_en": "To quote or reference",
+      "meaning_b_en": "The ability to see",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Site",
+      "word_b_en": "Allowed",
+      "meaning_a_en": "Place or setting of something",
+      "meaning_b_en": "Given permission",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Aloud",
+      "word_b_en": "Comprise",
+      "meaning_a_en": "Using a loud voice",
+      "meaning_b_en": "To consist",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Compose",
+      "word_b_en": "Accept",
+      "meaning_a_en": "To make",
+      "meaning_b_en": "Receive something",
+      "note_en": null,
+      "hh_tag": "homonym",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Except",
+      "word_b_en": "Elicit",
+      "meaning_a_en": "With the exclusion of",
+      "meaning_b_en": "Gather information",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Illicit",
+      "word_b_en": "Imply",
+      "meaning_a_en": "Not sanctioned by law",
+      "meaning_b_en": "To express",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Infer",
+      "word_b_en": "Incredible",
+      "meaning_a_en": "To conclude",
+      "meaning_b_en": "Astonishing",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Incredulous",
+      "word_b_en": "Passed",
+      "meaning_a_en": "Disbelieving",
+      "meaning_b_en": "Past tense of the verb to pass",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Past",
+      "word_b_en": "Historic",
+      "meaning_a_en": "The time before the present",
+      "meaning_b_en": "Influence on history",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Historical",
+      "word_b_en": "Ensure",
+      "meaning_a_en": "Relating to the character of history",
+      "meaning_b_en": "To make sure or certain",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Assure",
+      "word_b_en": "Complement",
+      "meaning_a_en": "To give confidence",
+      "meaning_b_en": "To complete",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Compliment",
+      "word_b_en": "Precede",
+      "meaning_a_en": "Admiration or congratulation or praise",
+      "meaning_b_en": "To come before",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Proceed",
+      "word_b_en": "Advice",
+      "meaning_a_en": "To go forward",
+      "meaning_b_en": "Opinion (is the noun)",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Advise",
+      "word_b_en": null,
+      "meaning_a_en": "Opinion (is the verb)",
+      "meaning_b_en": null,
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 70
+    },
+    {
+      "word_a_en": "Your",
+      "word_b_en": "You're",
+      "meaning_a_en": "Means belonging to you",
+      "meaning_b_en": "Contracted form of 'you are'",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Loath",
+      "word_b_en": "Loathe",
+      "meaning_a_en": "Unwilling, reluctant",
+      "meaning_b_en": "To hate strongly",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Climactic",
+      "word_b_en": "Climatic",
+      "meaning_a_en": "Resulting in a climax",
+      "meaning_b_en": "Relating to the climate",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Dependent",
+      "word_b_en": "Dependant",
+      "meaning_a_en": "Relying on something",
+      "meaning_b_en": "One who relies on another",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Council",
+      "word_b_en": "Counsel",
+      "meaning_a_en": "An assembly",
+      "meaning_b_en": "Advice",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Prophesy",
+      "word_b_en": "Prophecy",
+      "meaning_a_en": "To reveal by divine inspiration, the act of predicting",
+      "meaning_b_en": "An inspired utterance of a prophet, the actual prediction",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Stationary",
+      "word_b_en": "Stationery",
+      "meaning_a_en": "Not moving",
+      "meaning_b_en": "Office supplies",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "Economic",
+      "word_b_en": "Economical",
+      "meaning_a_en": "Relating to the economy",
+      "meaning_b_en": "Thrifty and prudent in management",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "word_a_en": "brake",
+      "word_b_en": "break",
+      "meaning_a_en": "a device for slowing or stopping a moving vehicle",
+      "meaning_b_en": "to separate or cause to separate into pieces",
+      "note_en": "Homophones: similar sound, different meaning/spelling",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "waste",
+      "word_b_en": "waist",
+      "meaning_a_en": "to use or expend carelessly",
+      "meaning_b_en": "the part of the body between the ribs and the hips",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "principle",
+      "word_b_en": "principal",
+      "meaning_a_en": "a fundamental truth or proposition",
+      "meaning_b_en": "first in order of importance; main",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "bread",
+      "word_b_en": "bred",
+      "meaning_a_en": "food made of flour, water, and yeast",
+      "meaning_b_en": "past tense of breed",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "lesson",
+      "word_b_en": "lessen",
+      "meaning_a_en": "a period of learning or teaching",
+      "meaning_b_en": "to make or become less",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "pale",
+      "word_b_en": "pail",
+      "meaning_a_en": "light in color or having little color",
+      "meaning_b_en": "a bucket",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "through",
+      "word_b_en": "threw",
+      "meaning_a_en": "moving in one side and out of the other",
+      "meaning_b_en": "past tense of throw",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "corps",
+      "word_b_en": "corpse",
+      "meaning_a_en": "a subdivision of an armed force",
+      "meaning_b_en": "a dead body",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "word_a_en": "mail",
+      "word_b_en": "male",
+      "meaning_a_en": "letters/packages sent by post",
+      "meaning_b_en": "the gender that is not female",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "hole",
+      "word_b_en": "whole",
+      "meaning_a_en": "a hollow place or opening",
+      "meaning_b_en": "entire or complete",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "expect",
+      "word_b_en": "except",
+      "meaning_a_en": "to look forward to",
+      "meaning_b_en": "not including",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "meat",
+      "word_b_en": "meet",
+      "meaning_a_en": "flesh of animals used as food",
+      "meaning_b_en": "to come into the presence of someone",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "weak",
+      "word_b_en": "week",
+      "meaning_a_en": "lacking physical strength",
+      "meaning_b_en": "a period of seven days",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "petrol",
+      "word_b_en": "patrol",
+      "meaning_a_en": "fuel for a car",
+      "meaning_b_en": "to keep watch over an area",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "plane",
+      "word_b_en": "plain",
+      "meaning_a_en": "an aircraft",
+      "meaning_b_en": "clear or simple",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "suite",
+      "word_b_en": "suit",
+      "meaning_a_en": "a set of connected rooms",
+      "meaning_b_en": "a set of outer clothes",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "hair",
+      "word_b_en": "hare",
+      "meaning_a_en": "threadlike outgrowth from the skin",
+      "meaning_b_en": "a fast running animal like a rabbit",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "allusion",
+      "word_b_en": "illusion",
+      "meaning_a_en": "an indirect reference",
+      "meaning_b_en": "a deceptive appearance",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "lose",
+      "word_b_en": "loose",
+      "meaning_a_en": "to be deprived of",
+      "meaning_b_en": "not tight",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "ingenious",
+      "word_b_en": "ingenuous",
+      "meaning_a_en": "clever/inventive",
+      "meaning_b_en": "innocent/naive",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "word_a_en": "knight",
+      "word_b_en": "night",
+      "meaning_a_en": "A soldier in armour",
+      "meaning_b_en": "The time of darkness",
+      "note_en": "The brave knight rode through the dark night to rescue the princess.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "write",
+      "meaning_a_en": "Correct or side direction",
+      "meaning_b_en": "To mark letters or words on a surface",
+      "note_en": "I will write the correct answer on the right side of the page.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "arms",
+      "word_b_en": "alms",
+      "meaning_a_en": "Body parts",
+      "meaning_b_en": "Charity/donations",
+      "note_en": "The poor man gratefully received alms from the kind stranger's open arms.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "fair",
+      "word_b_en": "fare",
+      "meaning_a_en": "Beautiful or light/just",
+      "meaning_b_en": "Cost of a ticket",
+      "note_en": "The bus fare seemed reasonable for the fair weather we were experiencing.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "here",
+      "word_b_en": "hear",
+      "meaning_a_en": "In this place",
+      "meaning_b_en": "To perceive sound",
+      "note_en": "Come here and listen carefully so you can hear what I'm saying.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "heard",
+      "word_b_en": "herd",
+      "meaning_a_en": "Past tense of hear",
+      "meaning_b_en": "A group of cattle",
+      "note_en": "We heard the distant sound of the cattle herd moving across the plains.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "our",
+      "word_b_en": "hour",
+      "meaning_a_en": "Belonging to us",
+      "meaning_b_en": "Sixty minutes",
+      "note_en": "Our family will arrive in an hour for the reunion.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "no",
+      "word_b_en": "know",
+      "meaning_a_en": "Negative/Not any",
+      "meaning_b_en": "To have information",
+      "note_en": "I do not know if there is no more milk left in the refrigerator.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "not",
+      "word_b_en": "knot",
+      "meaning_a_en": "Negative",
+      "meaning_b_en": "A tangle in a rope",
+      "note_en": "Be careful not to tie a complicated knot in the rope.",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "word_a_en": "Steel",
+      "word_b_en": "Steal",
+      "meaning_a_en": "A metal",
+      "meaning_b_en": "To take something dishonestly",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "Bear",
+      "word_b_en": "Bare",
+      "meaning_a_en": "An animal",
+      "meaning_b_en": "Uncovered/exposed",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "No",
+      "word_b_en": "Know",
+      "meaning_a_en": "Denial/negative",
+      "meaning_b_en": "To have knowledge",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "Hair",
+      "word_b_en": "Hare",
+      "meaning_a_en": "Strands on head",
+      "meaning_b_en": "A fast animal",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "Hear",
+      "word_b_en": "Here",
+      "meaning_a_en": "Sense of sound",
+      "meaning_b_en": "At this location",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "Our",
+      "word_b_en": "Hour",
+      "meaning_a_en": "Possessive pronoun",
+      "meaning_b_en": "Unit of time",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "Buy",
+      "word_b_en": "By",
+      "meaning_a_en": "To purchase",
+      "meaning_b_en": "Near/via/past",
+      "note_en": "null",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "word_a_en": "Peace",
+      "word_b_en": "Piece",
+      "meaning_a_en": "Freedom from disturbance",
+      "meaning_b_en": "A portion of an object",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "word_a_en": "Credulous",
+      "word_b_en": "Credible",
+      "meaning_a_en": "Having a tendency to believe too readily",
+      "meaning_b_en": "Able to be believed",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "word_a_en": "Dessert",
+      "word_b_en": "Desert",
+      "meaning_a_en": "The sweet course of a meal",
+      "meaning_b_en": "A barren area of landscape",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "word_a_en": "Elicit",
+      "word_b_en": "Illicit",
+      "meaning_a_en": "Evoke or draw out",
+      "meaning_b_en": "Forbidden by laws or rules",
+      "note_en": "Homophones/Confusables",
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "word_a_en": "Eminent",
+      "word_b_en": "Imminent",
+      "meaning_a_en": "Famous and respected",
+      "meaning_b_en": "About to happen",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "word_a_en": "Prescribed",
+      "word_b_en": "Proscribed",
+      "meaning_a_en": "Advised or authorized",
+      "meaning_b_en": "Forbidden or condemned",
+      "note_en": "Confusables",
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "word_a_en": "Altar",
+      "word_b_en": "Alter",
+      "meaning_a_en": "a sacred place of worship",
+      "meaning_b_en": "change",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Beach",
+      "word_b_en": "Beech",
+      "meaning_a_en": "seashore",
+      "meaning_b_en": "a tree",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Dairy",
+      "word_b_en": "Diary",
+      "meaning_a_en": "the place where milk and milk products are made",
+      "meaning_b_en": "a personal record of daily events",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Fair",
+      "word_b_en": "Fare",
+      "meaning_a_en": "acting in an honest and honourable manner",
+      "meaning_b_en": "money charged for a journey",
+      "note_en": "Note: Text lists 'are' as second word, likely typo for 'fare'.",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Sell",
+      "word_b_en": "Cell",
+      "meaning_a_en": "give in exchange for money",
+      "meaning_b_en": "basic structural and functional unit of life",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Wait",
+      "word_b_en": "Weight",
+      "meaning_a_en": "delay acting",
+      "meaning_b_en": "the gravitational force of an object towards the Earth",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Steal",
+      "word_b_en": "Steel",
+      "meaning_a_en": "take secretly",
+      "meaning_b_en": "a hard alloy of iron",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Right",
+      "word_b_en": "Write",
+      "meaning_a_en": "morally good",
+      "meaning_b_en": "make letters or other symbols",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Sea",
+      "word_b_en": "See",
+      "meaning_a_en": "the expanse of salt water that covers the earth",
+      "meaning_b_en": "visualise",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Some",
+      "word_b_en": "Sum",
+      "meaning_a_en": "a few",
+      "meaning_b_en": "amount of money or result of adding numbers",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Principal",
+      "word_b_en": "Principle",
+      "meaning_a_en": "chief, head",
+      "meaning_b_en": "basic or General Scientific theorem",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Tale",
+      "word_b_en": "Tail",
+      "meaning_a_en": "story",
+      "meaning_b_en": "the back part of an animal/a thing",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Adapt",
+      "word_b_en": "Adopt",
+      "meaning_a_en": "make suitable",
+      "meaning_b_en": "take in one’s family as son or daughter",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Object",
+      "word_b_en": "Abject",
+      "meaning_a_en": "Thing",
+      "meaning_b_en": "miserable",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Apposite",
+      "word_b_en": "Opposite",
+      "meaning_a_en": "proper",
+      "meaning_b_en": "contrary",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Accessary",
+      "word_b_en": "Accessory",
+      "meaning_a_en": "helper in crime",
+      "meaning_b_en": "extra useful things",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Ark",
+      "word_b_en": "Arc",
+      "meaning_a_en": "a boat",
+      "meaning_b_en": "a part of a circle",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Bail",
+      "word_b_en": "Bale",
+      "meaning_a_en": "security",
+      "meaning_b_en": "big packing",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Dye",
+      "word_b_en": "Die",
+      "meaning_a_en": "to colour",
+      "meaning_b_en": "expire",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Pray",
+      "word_b_en": "Prey",
+      "meaning_a_en": "offer prayer",
+      "meaning_b_en": "animal/bird hunted for food",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Plain",
+      "word_b_en": "Plane",
+      "meaning_a_en": "simple",
+      "meaning_b_en": "surface",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Rice",
+      "word_b_en": "Rise",
+      "meaning_a_en": "a food grain",
+      "meaning_b_en": "come up",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Desert",
+      "word_b_en": "Dessert",
+      "meaning_a_en": "sandy land",
+      "meaning_b_en": "a sweet fruit dish served after dinner",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Sealing",
+      "word_b_en": "Ceiling",
+      "meaning_a_en": "mark with stamp",
+      "meaning_b_en": "inner roof",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Capital",
+      "word_b_en": "Capitol",
+      "meaning_a_en": "seat of administration",
+      "meaning_b_en": "building of the United States Congress",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Dual",
+      "word_b_en": "Duel",
+      "meaning_a_en": "double",
+      "meaning_b_en": "a fight between two persons with weapons",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Differ",
+      "word_b_en": "Defer",
+      "meaning_a_en": "disagree",
+      "meaning_b_en": "postpone",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Dew",
+      "word_b_en": "Due",
+      "meaning_a_en": "drops of moisture in the morning",
+      "meaning_b_en": "what one deserves",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Decent",
+      "word_b_en": "Descent",
+      "meaning_a_en": "looking nice",
+      "meaning_b_en": "coming down",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Cession",
+      "word_b_en": "Session",
+      "meaning_a_en": "yielding",
+      "meaning_b_en": "period of working of committee, college, etc.",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Council",
+      "word_b_en": "Counsel",
+      "meaning_a_en": "an assembly of selected nominated members",
+      "meaning_b_en": "advice, suggestion",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Confirm",
+      "word_b_en": "Conform",
+      "meaning_a_en": "make permanent",
+      "meaning_b_en": "comply with",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Device",
+      "word_b_en": "Devise",
+      "meaning_a_en": "tool",
+      "meaning_b_en": "to find a plan or method",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Lightening",
+      "word_b_en": "Lightning",
+      "meaning_a_en": "decrease",
+      "meaning_b_en": "a flash in the cloud during rains and storms",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Precede",
+      "word_b_en": "Proceed",
+      "meaning_a_en": "go before",
+      "meaning_b_en": "continue",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Check",
+      "word_b_en": "Cheque",
+      "meaning_a_en": "prevent",
+      "meaning_b_en": "pay order by a bank",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Canvas",
+      "word_b_en": "Canvass",
+      "meaning_a_en": "a rough cloth",
+      "meaning_b_en": "recommend",
+      "note_en": "",
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Roll",
+      "word_b_en": "Role",
+      "meaning_a_en": "form in a cylindrical shape",
+      "meaning_b_en": "part",
+      "note_en": "",
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 47
+    },
+    {
+      "word_a_en": "Sole",
+      "word_b_en": "Soul",
+      "meaning_a_en": "the bottom surface of the shoes",
+      "meaning_b_en": "spirit",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Angle",
+      "word_b_en": "Ankle",
+      "meaning_a_en": "the space between two lines meeting at a point or three places meeting at a point",
+      "meaning_b_en": "the joint that connects the leg with the foot",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Vain",
+      "word_b_en": "Vein",
+      "meaning_a_en": "useless",
+      "meaning_b_en": "the blood vessel that takes blood to the heart",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Coarse",
+      "word_b_en": "Course",
+      "meaning_a_en": "rough",
+      "meaning_b_en": "onward movement",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Complement",
+      "word_b_en": "Compliment",
+      "meaning_a_en": "that completes",
+      "meaning_b_en": "expression of regard/gift",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Corps",
+      "word_b_en": "Corpse",
+      "meaning_a_en": "division of army",
+      "meaning_b_en": "dead body",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Cannon",
+      "word_b_en": "Canon",
+      "meaning_a_en": "a big gun",
+      "meaning_b_en": "rules",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Effect",
+      "word_b_en": "Affect",
+      "meaning_a_en": "produce an impact or change",
+      "meaning_b_en": "Infect or Influence",
+      "note_en": null,
+      "hh_tag": "confusable",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Mail",
+      "word_b_en": "Male",
+      "meaning_a_en": "post",
+      "meaning_b_en": "masculine gender",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "One",
+      "word_b_en": "Won",
+      "meaning_a_en": "ordinal number",
+      "meaning_b_en": "victory",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Meat",
+      "word_b_en": "Meet",
+      "meaning_a_en": "the flesh of an animal",
+      "meaning_b_en": "see in person",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Scene",
+      "word_b_en": "Seen",
+      "meaning_a_en": "stage performance",
+      "meaning_b_en": "visualised",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Ear",
+      "word_b_en": "Year",
+      "meaning_a_en": "part of the body used to hear the sound",
+      "meaning_b_en": "the time taken by the Earth to orbit the Sun",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Tide",
+      "word_b_en": "Died",
+      "meaning_a_en": "hold together",
+      "meaning_b_en": "stop living",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Price",
+      "word_b_en": "Praise",
+      "meaning_a_en": "value of a thing",
+      "meaning_b_en": "flatter",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Aunt",
+      "word_b_en": "Ant",
+      "meaning_a_en": "uncle’s wife",
+      "meaning_b_en": "a small creature",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Root",
+      "word_b_en": "Route",
+      "meaning_a_en": "the underground part of a plant",
+      "meaning_b_en": "way",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Nun",
+      "word_b_en": "None",
+      "meaning_a_en": "the female member of a religious order",
+      "meaning_b_en": "no one",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Week",
+      "word_b_en": "Weak",
+      "meaning_a_en": "the space of seven days in a calendar",
+      "meaning_b_en": "lacking strength",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Sale",
+      "word_b_en": "Sail",
+      "meaning_a_en": "an act of selling",
+      "meaning_b_en": "to set out on a voyage",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Lessen",
+      "word_b_en": "Lesson",
+      "meaning_a_en": "mitigate",
+      "meaning_b_en": "the prescribed portion of instruction",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Pass",
+      "word_b_en": "Pause",
+      "meaning_a_en": "get through",
+      "meaning_b_en": "stop",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "Gilt",
+      "word_b_en": "Guilt",
+      "meaning_a_en": "Gold-coloured",
+      "meaning_b_en": "sinfulness",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "To",
+      "word_b_en": "Too/Two",
+      "meaning_a_en": "a preposition",
+      "meaning_b_en": "adverb/number",
+      "note_en": null,
+      "hh_tag": "homophone",
+      "source": "race",
+      "source_page": 48
+    },
+    {
+      "word_a_en": "see",
+      "word_b_en": "sea",
+      "meaning_a_en": "To perceive with the eyes",
+      "meaning_b_en": "The expanse of salt water that covers most of the earth",
+      "note_en": "Can you see the birds flying over the sea?",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "knight",
+      "word_b_en": "night",
+      "meaning_a_en": "A man who served his sovereign or lord as a mounted soldier in armor",
+      "meaning_b_en": "The period of darkness between sunset and sunrise",
+      "note_en": "N/A",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "write",
+      "meaning_a_en": "True or correct; or the direction opposite of left",
+      "meaning_b_en": "To mark letters or words on a surface",
+      "note_en": "N/A",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "arms",
+      "word_b_en": "alms",
+      "meaning_a_en": "Two upper limbs of the human body",
+      "meaning_b_en": "Money or food given to poor people",
+      "note_en": "N/A",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "fair",
+      "word_b_en": "fare",
+      "meaning_a_en": "Treating people equally; or a gathering for entertainment",
+      "meaning_b_en": "The money paid for a journey on public transport",
+      "note_en": "N/A",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "here",
+      "word_b_en": "hear",
+      "meaning_a_en": "In or at this place",
+      "meaning_b_en": "To perceive sound with the ear",
+      "note_en": "N/A",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "heard",
+      "word_b_en": "herd",
+      "meaning_a_en": "Past tense of hear",
+      "meaning_b_en": "A large group of animals, especially hoofed mammals",
+      "note_en": "N/A",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 141
+    },
+    {
+      "word_a_en": "our",
+      "word_b_en": "hour",
+      "meaning_a_en": "belonging to us",
+      "meaning_b_en": "a unit of time (60 minutes)",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "no",
+      "word_b_en": "know",
+      "meaning_a_en": "a negative response",
+      "meaning_b_en": "to have knowledge of something",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "not",
+      "word_b_en": "knot",
+      "meaning_a_en": "expression of negation",
+      "meaning_b_en": "an interlacing of rope/string",
+      "note_en": "Homophones",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "wound",
+      "word_b_en": "wound",
+      "meaning_a_en": "injury",
+      "meaning_b_en": "past tense of wind",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "fair",
+      "word_b_en": "fair",
+      "meaning_a_en": "just or unbiased",
+      "meaning_b_en": "an exhibition or gathering",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "saw",
+      "word_b_en": "saw",
+      "meaning_a_en": "past tense of see",
+      "meaning_b_en": "a tool for cutting wood",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "right",
+      "meaning_a_en": "correct",
+      "meaning_b_en": "the direction opposite of left",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "well",
+      "word_b_en": "well",
+      "meaning_a_en": "in good health",
+      "meaning_b_en": "a deep hole for water",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "march",
+      "word_b_en": "march",
+      "meaning_a_en": "to walk in a military manner",
+      "meaning_b_en": "the third month of the year",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "can",
+      "word_b_en": "can",
+      "meaning_a_en": "to be able to",
+      "meaning_b_en": "a metal container",
+      "note_en": "Homonyms",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 142
+    },
+    {
+      "word_a_en": "new",
+      "word_b_en": "knew",
+      "meaning_a_en": "not old",
+      "meaning_b_en": "past tense of know",
+      "note_en": "Same pronunciation, different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "word_a_en": "hole",
+      "word_b_en": "whole",
+      "meaning_a_en": "an opening",
+      "meaning_b_en": "entire",
+      "note_en": "Same pronunciation, different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "word_a_en": "knight",
+      "word_b_en": "night",
+      "meaning_a_en": "a man of rank",
+      "meaning_b_en": "the period of darkness",
+      "note_en": "Same pronunciation, different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "word_a_en": "see",
+      "word_b_en": "sea",
+      "meaning_a_en": "to perceive with eyes",
+      "meaning_b_en": "the ocean",
+      "note_en": "Same pronunciation, different spelling and meaning.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "word_a_en": "address",
+      "word_b_en": "address",
+      "meaning_a_en": "location",
+      "meaning_b_en": "to speak to",
+      "note_en": "This is her address / She addressed the open-air meeting.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 146
+    },
+    {
+      "word_a_en": "bat",
+      "word_b_en": "bat",
+      "meaning_a_en": "mammal",
+      "meaning_b_en": "an implement used to hit a ball",
+      "note_en": "I am afraid of bats / I love my cricket bat.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 146
+    },
+    {
+      "word_a_en": "express",
+      "word_b_en": "express",
+      "meaning_a_en": "something done fast",
+      "meaning_b_en": "convey",
+      "note_en": "N/A",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 146
+    },
+    {
+      "word_a_en": "kind",
+      "word_b_en": "kind",
+      "meaning_a_en": "type",
+      "meaning_b_en": "caring",
+      "note_en": "N/A",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 146
+    },
+    {
+      "word_a_en": "cricket",
+      "word_b_en": "cricket",
+      "meaning_a_en": "a popular sport",
+      "meaning_b_en": "an insect active at night",
+      "note_en": "Homonym",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "bank",
+      "word_b_en": "bank",
+      "meaning_a_en": "a financial institution",
+      "meaning_b_en": "the slope of land alongside a body of water",
+      "note_en": "Homonym",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "will",
+      "word_b_en": "will",
+      "meaning_a_en": "modal verb expressing future",
+      "meaning_b_en": "a legal document regarding estate",
+      "note_en": "Homonym",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "bark",
+      "word_b_en": "bark",
+      "meaning_a_en": "the cry of a dog",
+      "meaning_b_en": "the outer covering of a tree",
+      "note_en": "Homonym",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "watch",
+      "word_b_en": "watch",
+      "meaning_a_en": "a small timepiece",
+      "meaning_b_en": "to look at or observe",
+      "note_en": "Homonym",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "bat",
+      "word_b_en": "bat",
+      "meaning_a_en": "equipment used in sports",
+      "meaning_b_en": "a nocturnal flying mammal",
+      "note_en": "Homonym",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "in",
+      "word_b_en": "inn",
+      "meaning_a_en": "preposition denoting location",
+      "meaning_b_en": "a pub or hotel",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "know",
+      "word_b_en": "no",
+      "meaning_a_en": "to have information",
+      "meaning_b_en": "negative particle",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "be",
+      "word_b_en": "bee",
+      "meaning_a_en": "the verb to exist",
+      "meaning_b_en": "a flying insect",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "to",
+      "word_b_en": "two / too",
+      "meaning_a_en": "preposition of direction",
+      "meaning_b_en": "number 2 or also",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "watt",
+      "word_b_en": "what",
+      "meaning_a_en": "unit of power",
+      "meaning_b_en": "interrogative pronoun",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "right",
+      "word_b_en": "write",
+      "meaning_a_en": "correct or opposite of left",
+      "meaning_b_en": "to scribe with a pen",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "were",
+      "word_b_en": "where",
+      "meaning_a_en": "past plural of be",
+      "meaning_b_en": "interrogative adverb of place",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "bare",
+      "word_b_en": "bear",
+      "meaning_a_en": "uncovered",
+      "meaning_b_en": "a large animal or to carry/endure",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "herd",
+      "word_b_en": "heard",
+      "meaning_a_en": "group of animals",
+      "meaning_b_en": "past of hear",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "throne",
+      "word_b_en": "thrown",
+      "meaning_a_en": "royal seat",
+      "meaning_b_en": "past participle of throw",
+      "note_en": "Homophone",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "word_a_en": "bare",
+      "word_b_en": "bear",
+      "meaning_a_en": "uncovered or not decorated",
+      "meaning_b_en": "a large mammal; or to carry/endure",
+      "note_en": "Homophones: different spelling, same pronunciation.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 150
+    },
+    {
+      "word_a_en": "bright",
+      "word_b_en": "bright",
+      "meaning_a_en": "vivid/shiny (colors)",
+      "meaning_b_en": "intelligent (student) or promising (future)",
+      "note_en": "Homonym/Polysemy: Same spelling, different meanings depending on context.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 150
+    },
+    {
+      "word_a_en": "dew",
+      "word_b_en": "due",
+      "meaning_a_en": "water that has condensed on a cool surface overnight",
+      "meaning_b_en": "as a result",
+      "note_en": "Homophones: similar sound, different spelling/meaning",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 151
+    },
+    {
+      "word_a_en": "whale",
+      "word_b_en": "wail",
+      "meaning_a_en": "a large sea creature; mammal",
+      "meaning_b_en": "a cry of sorrow and grief",
+      "note_en": "Homophones: similar sound, different spelling/meaning",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 151
+    },
+    {
+      "word_a_en": "block",
+      "word_b_en": "block",
+      "meaning_a_en": "a large solid piece of hard material",
+      "meaning_b_en": "a large single building subdivided into flats or an obstacle",
+      "note_en": "Homonyms: same spelling, same sound, different meaning",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 151
+    },
+    {
+      "word_a_en": "pen",
+      "word_b_en": "pen",
+      "meaning_a_en": "A writing instrument",
+      "meaning_b_en": "To write",
+      "note_en": "Context: noun vs verb usage.",
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "word_a_en": "united",
+      "word_b_en": "untied",
+      "meaning_a_en": "Joined into a single entity",
+      "meaning_b_en": "Not tied, unfastened",
+      "note_en": "Anagram pair with opposite meaning.",
+      "hh_tag": "other",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "word_a_en": "dust",
+      "word_b_en": "dust",
+      "meaning_a_en": "Applying dust",
+      "meaning_b_en": "Removing dust",
+      "note_en": "Contranym example.",
+      "hh_tag": "other",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "word_a_en": "seed",
+      "word_b_en": "seed",
+      "meaning_a_en": "To add seeds",
+      "meaning_b_en": "To remove seeds",
+      "note_en": "Contranym example.",
+      "hh_tag": "other",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "word_a_en": "brake",
+      "word_b_en": "break",
+      "meaning_a_en": "a device for slowing or stopping a vehicle",
+      "meaning_b_en": "to separate or smash into pieces; an interval",
+      "note_en": "Commonly confused due to similar sound.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_a_en": "waste",
+      "word_b_en": "waist",
+      "meaning_a_en": "to use carelessly or squander",
+      "meaning_b_en": "the part of the human body between the ribs and the hips",
+      "note_en": "Confusable pair.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_a_en": "principle",
+      "word_b_en": "principal",
+      "meaning_a_en": "a fundamental truth or proposition",
+      "meaning_b_en": "first in order of importance; head of a school",
+      "note_en": "Confusable pair.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_a_en": "bread",
+      "word_b_en": "bred",
+      "meaning_a_en": "a food made of flour, water, and yeast",
+      "meaning_b_en": "reared or brought up (past tense of breed)",
+      "note_en": "Confusable pair.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_a_en": "lesson",
+      "word_b_en": "lessen",
+      "meaning_a_en": "a period of learning or instruction",
+      "meaning_b_en": "to make or become less; diminish",
+      "note_en": "Confusable pair.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_a_en": "through",
+      "word_b_en": "threw",
+      "meaning_a_en": "moving in one side and out the other",
+      "meaning_b_en": "past tense of throw",
+      "note_en": "Confusable pair.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "word_a_en": "dear",
+      "word_b_en": "deer",
+      "meaning_a_en": "a loved one",
+      "meaning_b_en": "a wild animal",
+      "note_en": "Same sound, different spelling.",
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 154
+    },
+    {
+      "word_a_en": "lead",
+      "word_b_en": "lead",
+      "meaning_a_en": "a metal",
+      "meaning_b_en": "to guide",
+      "note_en": "Same spelling, different sound and meaning.",
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 154
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The sugar had a negative _____ on the science experiment.",
+      "answer_en": "effect",
+      "options_en": [
+        "effect",
+        "affect"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "prompt_en": "I am going to _____ down for an hour.",
+      "answer_en": "lie",
+      "options_en": [
+        "lie",
+        "lay"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "prompt_en": "The gas prices continue to _____.",
+      "answer_en": "rise",
+      "options_en": [
+        "raise",
+        "rise"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "prompt_en": "The war had no _____ on oil prices.",
+      "answer_en": "effect",
+      "options_en": [
+        "affect",
+        "effect"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "prompt_en": "The broken down car was _____.",
+      "answer_en": "stationary",
+      "options_en": [
+        "stationary",
+        "stationery"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "prompt_en": "Poor grammar may _____ your essay marks.",
+      "answer_en": "affect",
+      "options_en": [
+        "affect",
+        "effect"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 62
+    },
+    {
+      "prompt_en": "1. effect, 2. lie, 3. rise, 4. advice, 5. effect, 6. complimented, 7. empathy, 8. stationary, 9. affect, 10. whether",
+      "answer_en": "These are the solutions to a fill-in-the-blank or multiple-choice exercise not fully visible in the snippet.",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 419
+    },
+    {
+      "prompt_en": "He lives ___ (in/inn) Mumbai.",
+      "answer_en": "in",
+      "options_en": [
+        "in",
+        "inn"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "I ___ (know/no) the answer.",
+      "answer_en": "know",
+      "options_en": [
+        "know",
+        "no"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "The honey ___ (be/bee) collect honey from flowers.",
+      "answer_en": "bee",
+      "options_en": [
+        "be",
+        "bee"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "I want to go ___ (to/two) my house now.",
+      "answer_en": "to",
+      "options_en": [
+        "to",
+        "two"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "It is a zero ___ (watt/what) bulb.",
+      "answer_en": "watt",
+      "options_en": [
+        "watt",
+        "what"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "___ (right/write) down all your requirements.",
+      "answer_en": "write",
+      "options_en": [
+        "right",
+        "write"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "They ___ (where/were) our students.",
+      "answer_en": "were",
+      "options_en": [
+        "where",
+        "were"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "The ___ (bare/bear) has fluffy skin",
+      "answer_en": "bear",
+      "options_en": [
+        "bare",
+        "bear"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "I ___ (herd/heard) a loud noise.",
+      "answer_en": "heard",
+      "options_en": [
+        "herd",
+        "heard"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "Caught the ball that was ___ (throne/thrown) to me.",
+      "answer_en": "thrown",
+      "options_en": [
+        "throne",
+        "thrown"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 427
+    },
+    {
+      "prompt_en": "Tiny hatchlings fall ____ (pray/prey) to many predators.",
+      "answer_en": "prey",
+      "options_en": [
+        "pray",
+        "prey"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "Sea turtles live their ____ (hole/whole) life in the sea.",
+      "answer_en": "whole",
+      "options_en": [
+        "hole",
+        "whole"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The turtles come ashore only during the ____ (night/knight).",
+      "answer_en": "night",
+      "options_en": [
+        "night",
+        "knight"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The predators follow the ____ (sent/scent) of the turtles to eat their eggs.",
+      "answer_en": "scent",
+      "options_en": [
+        "sent",
+        "scent"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The female turtles lay eggs and go back to the ____ (see/sea).",
+      "answer_en": "sea",
+      "options_en": [
+        "see",
+        "sea"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "I ____ too much a dinner. (ate/eight).",
+      "answer_en": "ate",
+      "options_en": [
+        "ate",
+        "eight"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "She is supposed to ____ at work today. (be/bee).",
+      "answer_en": "be",
+      "options_en": [
+        "be",
+        "bee"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "He huffed and puffed and ____ the house made of hay. (blew/blue).",
+      "answer_en": "blew",
+      "options_en": [
+        "blew",
+        "blue"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "We had a quick ____ for lunch. (brake/break).",
+      "answer_en": "break",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The ____ jumped right into the road in front of us. (dear/deer).",
+      "answer_en": "deer",
+      "options_en": [
+        "dear",
+        "deer"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "My favourite ____ is the daisy. (flour/flower).",
+      "answer_en": "flower",
+      "options_en": [
+        "flour",
+        "flower"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "She was one ____ short to pay for ice cream. (cent/scent).",
+      "answer_en": "cent",
+      "options_en": [
+        "cent",
+        "scent"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "My brother wants to be a ____ golfer. (grate/great).",
+      "answer_en": "great",
+      "options_en": [
+        "grate",
+        "great"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "Come over ____ ! (hear/here).",
+      "answer_en": "here",
+      "options_en": [
+        "hear",
+        "here"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "She ate the ____ pizza. (hole/whole).",
+      "answer_en": "whole",
+      "options_en": [
+        "hole",
+        "whole"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The ____ has hatched eggs. (foul/fowl)",
+      "answer_en": "fowl",
+      "options_en": [
+        "foul",
+        "fowl"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "An ____ has sixty minutes. (our/hour)",
+      "answer_en": "hour",
+      "options_en": [
+        "our",
+        "hour"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "We have a ____ at home. (maid/made)",
+      "answer_en": "maid",
+      "options_en": [
+        "maid",
+        "made"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "Shall we ____ tomorrow? (meet/meat)",
+      "answer_en": "meet",
+      "options_en": [
+        "meet",
+        "meat"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The boat man uses an ____ to row the boat. (ore/oar)",
+      "answer_en": "oar",
+      "options_en": [
+        "ore",
+        "oar"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "____ of them attended the function. (Nun/None)",
+      "answer_en": "None",
+      "options_en": [
+        "Nun",
+        "None"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "I bought a ____ to store water. (pale/pail)",
+      "answer_en": "pail",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "I enjoy swimming in the ____ (sea/see)",
+      "answer_en": "sea",
+      "options_en": [
+        "sea",
+        "see"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "What a beautiful ____ ! (seen/scene)",
+      "answer_en": "scene",
+      "options_en": [
+        "seen",
+        "scene"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 428
+    },
+    {
+      "prompt_en": "The robbers ________ things from houses. (steel/steal)",
+      "answer_en": "steal",
+      "options_en": [
+        "steel",
+        "steal"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "The ________ was interesting. (tail/tale)",
+      "answer_en": "tale",
+      "options_en": [
+        "tail",
+        "tale"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "________ is your house? (Where/Wear)",
+      "answer_en": "Where",
+      "options_en": [
+        "Where",
+        "Wear"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Do not ________ food. (waste/waist)",
+      "answer_en": "waste",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "We had to ________ the car as it broke down. (toe/tow)",
+      "answer_en": "tow",
+      "options_en": [
+        "toe",
+        "tow"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "The river flows through the ________ (plane/plain)",
+      "answer_en": "plain",
+      "options_en": [
+        "plane",
+        "plain"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Animals hunt their ________ (prey/pray)",
+      "answer_en": "prey",
+      "options_en": [
+        "prey",
+        "pray"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "I am comfortable in ________ (jeans/genes)",
+      "answer_en": "jeans",
+      "options_en": [
+        "jeans",
+        "genes"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "We enjoy our ________ (brake/break)",
+      "answer_en": "break",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "The batsman was ________ out. (bold/bowled)",
+      "answer_en": "bowled",
+      "options_en": [
+        "bold",
+        "bowled"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "I am not ________ to drink soda. (aloud/allowed)",
+      "answer_en": "allowed",
+      "options_en": [
+        "aloud",
+        "allowed"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "The wind ________ the leaves. (blue/blew)",
+      "answer_en": "blew",
+      "options_en": [
+        "blue",
+        "blew"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "I will ________ my friend. (meat, meet)",
+      "answer_en": "meet",
+      "options_en": [
+        "meat",
+        "meet"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "He will play the ________ in the second play. (role, roll)",
+      "answer_en": "role",
+      "options_en": [
+        "role",
+        "roll"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "I have ________ movie before. (scene, seen)",
+      "answer_en": "seen",
+      "options_en": [
+        "scene",
+        "seen"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Niteesh bought a ________ (knew/new) cricket bat.",
+      "answer_en": "new",
+      "options_en": [
+        "knew",
+        "new"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "The shepherd ________ (herd/heard) the cry of his sheep.",
+      "answer_en": "heard",
+      "options_en": [
+        "herd",
+        "heard"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Lakshmi completed her baking ________ (course/coarse) successfully.",
+      "answer_en": "course",
+      "options_en": [
+        "course",
+        "coarse"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Priya has broken her ________ (four/fore) limbs.",
+      "answer_en": "fore",
+      "options_en": [
+        "four",
+        "fore"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "Leaders of the world must work towards the ________ (peace/piece) of human race.",
+      "answer_en": "peace",
+      "options_en": [
+        "peace",
+        "piece"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 73
+    },
+    {
+      "prompt_en": "We have a short ______ between the sessions. (brake/break)",
+      "answer_en": "break",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "The car skidded to a halt when I applied the ______. (brake/break)",
+      "answer_en": "brake",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "Shivani wears a belt around her ______. (waste/waist)",
+      "answer_en": "waist",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "We should never misuse or ______ natural resources. (waste/waist)",
+      "answer_en": "waste",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "Oxygen is the ______ element present in the earth's crust. (principle/principal)",
+      "answer_en": "principal",
+      "options_en": [
+        "principle",
+        "principal"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "Both these machines work on the same ______. (principle/principal)",
+      "answer_en": "principle",
+      "options_en": [
+        "principle",
+        "principal"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "Turtles should be ______ in a healthy environment. (bread/bred)",
+      "answer_en": "bred",
+      "options_en": [
+        "bread",
+        "bred"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "I like to have toasted ______ for breakfast. (bread/bred)",
+      "answer_en": "bread",
+      "options_en": [
+        "bread",
+        "bred"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "This medicine will ______ your pain. (lesson/lessen)",
+      "answer_en": "lessen",
+      "options_en": [
+        "lesson",
+        "lessen"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "Finally, the manager learnt a ______ the hard way. (lesson/lessen)",
+      "answer_en": "lesson",
+      "options_en": [
+        "lesson",
+        "lessen"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "The child looks very sick and ______. (pale/pail)",
+      "answer_en": "pale",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "I need a ______ of water to wash these cups. (pale/pail)",
+      "answer_en": "pail",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "Ravi picked the banana peel and ______ it in the dustbin. (through/threw)",
+      "answer_en": "threw",
+      "options_en": [
+        "through",
+        "threw"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "The soldiers had to pass ______ a dark tunnel. (through/threw)",
+      "answer_en": "through",
+      "options_en": [
+        "through",
+        "threw"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "The ______ was covered with a shroud. (corps/corpse)",
+      "answer_en": "corpse",
+      "options_en": [
+        "corps",
+        "corpse"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "A five-day annual training camp for the senior cadets of the National Cadet ______ has been organised. (corps/corpse)",
+      "answer_en": "corps",
+      "options_en": [
+        "corps",
+        "corpse"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 430
+    },
+    {
+      "prompt_en": "The priest wanted to modify the ___ (altar/alter)",
+      "answer_en": "altar",
+      "options_en": [
+        "altar",
+        "alter"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The father gave his ___ (assent/ascent) to go abroad.",
+      "answer_en": "assent",
+      "options_en": [
+        "assent",
+        "ascent"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The technician is an ___ (adept/adapt) who knows how to change his diesel car into gas car.",
+      "answer_en": "adept",
+      "options_en": [
+        "adept",
+        "adapt"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "When some ___ (breathe/breath) through mouth smoke comes.",
+      "answer_en": "breathe",
+      "options_en": [
+        "breathe",
+        "breath"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "There are some ___ (beech/beach) trees along the road side.",
+      "answer_en": "beech",
+      "options_en": [
+        "beech",
+        "beach"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The criminal who came on ___ (bail/bale) met the lawyer.",
+      "answer_en": "bail",
+      "options_en": [
+        "bail",
+        "bale"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The birds sat on the ___ (bough/bow) of the tree.",
+      "answer_en": "bough",
+      "options_en": [
+        "bough",
+        "bow"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "He went to computer ___ (course/coarse)",
+      "answer_en": "course",
+      "options_en": [
+        "course",
+        "coarse"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "Driving goods ___ (carrier/career) is his job in life.",
+      "answer_en": "carrier",
+      "options_en": [
+        "carrier",
+        "career"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "The manager gave me a ___ (cheque/check).",
+      "answer_en": "cheque",
+      "options_en": [
+        "cheque",
+        "check"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 75
+    },
+    {
+      "prompt_en": "Anu has long ______ [hair / hare].",
+      "answer_en": "hair",
+      "options_en": [
+        "hair",
+        "hare"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "I ______ [no / know] what to do.",
+      "answer_en": "know",
+      "options_en": [
+        "no",
+        "know"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "Did you ______ [hear / here] what he said?",
+      "answer_en": "hear",
+      "options_en": [
+        "hear",
+        "here"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "I will meet you an ______ [hour / our] later.",
+      "answer_en": "hour",
+      "options_en": [
+        "hour",
+        "our"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "They ______ [buy / by] a new car.",
+      "answer_en": "buy",
+      "options_en": [
+        "buy",
+        "by"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "Gold is measured in ______ [carrot / carat].",
+      "answer_en": "carat",
+      "options_en": [
+        "carrot",
+        "carat"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "We can't ______ [hear / here] your voice.",
+      "answer_en": "hear",
+      "options_en": [
+        "hear",
+        "here"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "She ______ [knew / new] the address.",
+      "answer_en": "knew",
+      "options_en": [
+        "knew",
+        "new"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "He was admitted for a ______ [miner / minor] surgery.",
+      "answer_en": "minor",
+      "options_en": [
+        "miner",
+        "minor"
+      ],
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "The child threw ______ [its / it's] toy in anger.",
+      "answer_en": "its",
+      "options_en": [
+        "its",
+        "it's"
+      ],
+      "hh_tag": "confusable",
+      "source": "vetrii",
+      "source_page": 432
+    },
+    {
+      "prompt_en": "I sent a _______ [mail/male] to my friend.",
+      "answer_en": "mail",
+      "options_en": [
+        "mail",
+        "male"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "There is a _______ [hole/whole] in the wall.",
+      "answer_en": "hole",
+      "options_en": [
+        "hole",
+        "whole"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "We _______ [except/expect] a bright future.",
+      "answer_en": "expect",
+      "options_en": [
+        "except",
+        "expect"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "Some people don't like _______ [meat/meet].",
+      "answer_en": "meat",
+      "options_en": [
+        "meat",
+        "meet"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "Kala is _______ [weak/week] in Maths.",
+      "answer_en": "weak",
+      "options_en": [
+        "weak",
+        "week"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The police _______ [petrol/patrol] highways at night.",
+      "answer_en": "patrol",
+      "options_en": [
+        "petrol",
+        "patrol"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The _______ [plane/plain] landed on time.",
+      "answer_en": "plane",
+      "options_en": [
+        "plane",
+        "plain"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The politician stayed in a luxurious _______ [suite/suit].",
+      "answer_en": "suite",
+      "options_en": [
+        "suite",
+        "suit"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The colour of your _______ [hair/hare] is black.",
+      "answer_en": "hair",
+      "options_en": [
+        "hair",
+        "hare"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "There is an _______ [allusion/illusion] in this poem.",
+      "answer_en": "allusion",
+      "options_en": [
+        "allusion",
+        "illusion"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "The screw of the anklet is _______ [lose/loose].",
+      "answer_en": "loose",
+      "options_en": [
+        "lose",
+        "loose"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "A.R. Rahman is an _______ [ingenious/ingenuous] musician.",
+      "answer_en": "ingenious",
+      "options_en": [
+        "ingenious",
+        "ingenuous"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 77
+    },
+    {
+      "prompt_en": "Every morning my father likes to look at the ______ on the grass.",
+      "answer_en": "dew",
+      "options_en": [
+        "due",
+        "dew"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "Chennai is the ______ of Tamilnadu since 2011.",
+      "answer_en": "capital",
+      "options_en": [
+        "capitol",
+        "capital"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "I was very ______ last weekend because my friends went to the village without informing me.",
+      "answer_en": "bored",
+      "options_en": [
+        "bored",
+        "board"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "The cat caught the ______ of a mouse.",
+      "answer_en": "scent",
+      "options_en": [
+        "scent",
+        "cent"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "The ______ rises in the east.",
+      "answer_en": "sun",
+      "options_en": [
+        "son",
+        "sun"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "vetrii",
+      "source_page": 78
+    },
+    {
+      "prompt_en": "The (weather/whether) was horrible outside. The wind was blowing stronger and faster. The wind (howled/hauled) with a terrible noise. Vicky (new/ knew) that he had to find his dog Sam. He could (barley/barely) walk in the wind but he did not give up. Suddenly, he (heard/herd) the dog (wine / whine). He whirled around and found it inside a drain.",
+      "answer_en": "1. weather, 2. howled, 3. knew, 4. barely, 5. heard, 6. whine",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "I have kept ___ luggage ___ [there/their]",
+      "answer_en": "I have kept their luggage there",
+      "options_en": [
+        "there",
+        "their"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "Arun was sick for the whole of last ___ and he looks very ___ [week/weak]",
+      "answer_en": "Arun was sick for the whole of last week and he looks very weak.",
+      "options_en": [
+        "week",
+        "weak"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "The jockey ___ the horse along the busy ___ [rode/road]",
+      "answer_en": "The jockey rode the horse along the busy road.",
+      "options_en": [
+        "rode",
+        "road"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "The children remained ___ for ___ some time. [quite/quiet]",
+      "answer_en": "The children remained quite for quiet for some time.",
+      "options_en": [
+        "quite",
+        "quiet"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "Meera ___ her ___ wash all the clothes. [made/maid]",
+      "answer_en": "Meera made her maid wash all the clothes.",
+      "options_en": [
+        "made",
+        "maid"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "The passengers have gathered ___ to ___ the announcement. [hear/here]",
+      "answer_en": "The passengers have gathered here to hear the announcement.",
+      "options_en": [
+        "hear",
+        "here"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "The girl who is doing her computer ___ covered the system with a cloth. ___ [course/coarse]",
+      "answer_en": "The girl who is doing her computer course covered the system with a coarse cloth.",
+      "options_en": [
+        "course",
+        "coarse"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 435
+    },
+    {
+      "prompt_en": "The woman in the ______ saree is the bride. [blew/blue]",
+      "answer_en": "blue",
+      "options_en": [
+        "blew",
+        "blue"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "Reema turned ______ when she saw a snake in the room. [pale / pail]",
+      "answer_en": "pale",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "We saw two baby ______ in the zoo. [deer / dear]",
+      "answer_en": "deer",
+      "options_en": [
+        "deer",
+        "dear"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "It is now Maria's turn to ______ the dice. [role / roll]",
+      "answer_en": "roll",
+      "options_en": [
+        "role",
+        "roll"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "My mother applied an ointment on the wounds in my ______. [feet/feat]",
+      "answer_en": "feet",
+      "options_en": [
+        "feet",
+        "feat"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "The villagers ______ the vegetables in the market. [cell / sell]",
+      "answer_en": "sell",
+      "options_en": [
+        "cell",
+        "sell"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "The driver applied the hand ______ to stop the car. (break, brake)",
+      "answer_en": "brake",
+      "options_en": [
+        "break",
+        "brake"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "The hungry lion went in search of its ______. (pray, prey)",
+      "answer_en": "prey",
+      "options_en": [
+        "pray",
+        "prey"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "The ______ is pleasant today. (whether, weather)",
+      "answer_en": "weather",
+      "options_en": [
+        "whether",
+        "weather"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "Sundar ate the ______ cake yesterday. (hole, whole)",
+      "answer_en": "whole",
+      "options_en": [
+        "hole",
+        "whole"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "My uncle ______ a strange sound last night. (herd, heard)",
+      "answer_en": "heard",
+      "options_en": [
+        "herd",
+        "heard"
+      ],
+      "hh_tag": "homophone",
+      "source": "vetrii",
+      "source_page": 80
+    },
+    {
+      "prompt_en": "1. The colour of your ____ is the same as that of the ____. (Hair/hare)",
+      "answer_en": "Hair, hare",
+      "options_en": [
+        "by/buy",
+        "hear/here",
+        "hour/our",
+        "hair/hare",
+        "no/know"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "prompt_en": "2. Do you ____ the answer? ____ I don't. (Know/no)",
+      "answer_en": "Know, no",
+      "options_en": [
+        "by/buy",
+        "hear/here",
+        "hour/our",
+        "hair/hare",
+        "no/know"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "prompt_en": "3. I can ____ the bell from ____. (Hear/here)",
+      "answer_en": "Hear, here",
+      "options_en": [
+        "by/buy",
+        "hear/here",
+        "hour/our",
+        "hair/hare",
+        "no/know"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "prompt_en": "4. ____ day on earth is measured by the ____. (Our/hour)",
+      "answer_en": "Our, hour",
+      "options_en": [
+        "by/buy",
+        "hear/here",
+        "hour/our",
+        "hair/hare",
+        "no/know"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "prompt_en": "5. He wants to ____ a flat ____ selling his house. (Buy/by)",
+      "answer_en": "Buy, by",
+      "options_en": [
+        "by/buy",
+        "hear/here",
+        "hour/our",
+        "hair/hare",
+        "no/know"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 81
+    },
+    {
+      "prompt_en": "I had no ___ . He gave me a ___ of advice.",
+      "answer_en": "peace, piece",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "prompt_en": "The story told by the ___ old man is not ___.",
+      "answer_en": "credulous, credible",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "prompt_en": "They had dates for ___ in the ___.",
+      "answer_en": "dessert, desert",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "prompt_en": "The police tried to ___ information from the bootlegger who sells ___ liquor.",
+      "answer_en": "elicit, illicit",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "prompt_en": "The most ___ scientist in the world has been warning about the ___ danger of nuclear war.",
+      "answer_en": "eminent, imminent",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "prompt_en": "The book which has been ___ for the BA class has been ___ for containing some remarks against a particular religion.",
+      "answer_en": "prescribed, proscribed",
+      "options_en": [],
+      "hh_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 82
+    },
+    {
+      "prompt_en": "I am not ______ to drink soda.",
+      "answer_en": "allowed",
+      "options_en": [
+        "aloud",
+        "allowed"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "The wind ________ the leaves.",
+      "answer_en": "blew",
+      "options_en": [
+        "blue",
+        "blew"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "I will __________ my friend.",
+      "answer_en": "meet",
+      "options_en": [
+        "meat",
+        "meet"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "He will play the _________ in the second play.",
+      "answer_en": "role",
+      "options_en": [
+        "role",
+        "roll"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "I have _________ the movie already.",
+      "answer_en": "seen",
+      "options_en": [
+        "scene",
+        "seen"
+      ],
+      "hh_tag": "choose_correct",
+      "source": "grammer",
+      "source_page": 144
+    },
+    {
+      "prompt_en": "i) Children like bright colours. ii) Adhira gave me a bright smile. iii) Adhul is a bright student. iv) Sumaya has bright ideas. v) This young player has a bright future. Bring out the meaning of the word ‘Bright’ in each of the following sentences.",
+      "answer_en": "i) Vivid/Shiny; ii) Radiant/Cheerful; iii) Intelligent/Smart; iv) Clever/Innovative; v) Promising/Successful.",
+      "options_en": [],
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 150
+    },
+    {
+      "prompt_en": "Choose any FIVE words from the box and write two sentences each to bring out the different meanings of the word. Word options: bow, bat, fair, digest, row, pen, bank, match, fit, club, may, safe, change, content, ball, bank, bore, watch, ground, tip, toast, fire, sole, band.",
+      "answer_en": "This is an open-ended exercise based on the provided word mat of homonyms.",
+      "options_en": [
+        "bow",
+        "bat",
+        "fair",
+        "digest",
+        "row",
+        "pen",
+        "bank",
+        "match",
+        "fit",
+        "club",
+        "may",
+        "safe",
+        "change",
+        "content",
+        "ball",
+        "bank",
+        "bore",
+        "watch",
+        "ground",
+        "tip",
+        "toast",
+        "fire",
+        "sole",
+        "band"
+      ],
+      "hh_tag": "homonym",
+      "source": "grammer",
+      "source_page": 151
+    },
+    {
+      "prompt_en": "The ____________ (weather/whether) was horrible outside.",
+      "answer_en": "weather",
+      "options_en": [
+        "weather",
+        "whether"
+      ],
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "The wind ____________ (howled/hauled) with a terrible noise.",
+      "answer_en": "howled",
+      "options_en": [
+        "howled",
+        "hauled"
+      ],
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "Vicky __________ (new/knew) that he had to find his dog Sam.",
+      "answer_en": "knew",
+      "options_en": [
+        "new",
+        "knew"
+      ],
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "He could ___________ (barley/barely) walk in the wind.",
+      "answer_en": "barely",
+      "options_en": [
+        "barley",
+        "barely"
+      ],
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "Suddenly, he ____________ (heard/herd) the dog.",
+      "answer_en": "heard",
+      "options_en": [
+        "heard",
+        "herd"
+      ],
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "The dog was ____________ (wine / whine).",
+      "answer_en": "whine",
+      "options_en": [
+        "wine",
+        "whine"
+      ],
+      "hh_tag": "homophone",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "The bandage was wound around the wound.",
+      "answer_en": "wound (past tense of wind) / wound (injury)",
+      "options_en": [],
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "Johnny was content with the content.",
+      "answer_en": "content (satisfied) / content (subject matter)",
+      "options_en": [],
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "The students project their project using a smart board.",
+      "answer_en": "project (verb: to throw image) / project (noun: task)",
+      "options_en": [],
+      "hh_tag": "homograph",
+      "source": "grammer",
+      "source_page": 152
+    },
+    {
+      "prompt_en": "We have a short ___________ between the sessions.",
+      "answer_en": "break",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "The car skidded to a halt when I applied the ___________.",
+      "answer_en": "brake",
+      "options_en": [
+        "brake",
+        "break"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Shivani wears a belt around her ___________.",
+      "answer_en": "waist",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "We should never misuse or ___________ natural resources.",
+      "answer_en": "waste",
+      "options_en": [
+        "waste",
+        "waist"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Oxygen is the ___________ element present in the earth’s crust.",
+      "answer_en": "principal",
+      "options_en": [
+        "principle",
+        "principal"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Both these machines work on the same ___________.",
+      "answer_en": "principle",
+      "options_en": [
+        "principle",
+        "principal"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Turtles should be ___________ in a healthy environment.",
+      "answer_en": "bred",
+      "options_en": [
+        "bread",
+        "bred"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "I like to have toasted ___________ for breakfast.",
+      "answer_en": "bread",
+      "options_en": [
+        "bread",
+        "bred"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "This medicine will ___________ your pain.",
+      "answer_en": "lessen",
+      "options_en": [
+        "lesson",
+        "lessen"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Finally, the manager learnt a ___________ the hard way.",
+      "answer_en": "lesson",
+      "options_en": [
+        "lesson",
+        "lessen"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "The child looks very sick and ___________.",
+      "answer_en": "pale",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "I need a ___________ of water to wash these cups.",
+      "answer_en": "pail",
+      "options_en": [
+        "pale",
+        "pail"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Ravi picked the banana peel and ___________ it in the dustbin.",
+      "answer_en": "threw",
+      "options_en": [
+        "through",
+        "threw"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "The soldiers had to pass ___________ a dark tunnel.",
+      "answer_en": "through",
+      "options_en": [
+        "through",
+        "threw"
+      ],
+      "hh_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 153
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 25,
+      "examples": 356,
+      "worked_exercises": 174
+    },
+    "by_hh_tag": {
+      "definition": {
+        "rules": 3,
+        "examples": 0,
+        "worked": 0
+      },
+      "confusable": {
+        "rules": 1,
+        "examples": 44,
+        "worked": 2
+      },
+      "homograph": {
+        "rules": 5,
+        "examples": 5,
+        "worked": 3
+      },
+      "homophone": {
+        "rules": 8,
+        "examples": 217,
+        "worked": 79
+      },
+      "fill_blank": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 78
+      },
+      "homonym": {
+        "rules": 4,
+        "examples": 87,
+        "worked": 2
+      },
+      "overview": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 2,
+        "examples": 3,
+        "worked": 0
+      },
+      "choose_correct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 10
+      }
+    }
+  }
+}

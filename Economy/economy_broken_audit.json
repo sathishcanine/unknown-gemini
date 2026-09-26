@@ -1,0 +1,947 @@
+{
+  "subject": "Economy",
+  "total": 2275,
+  "drop_count": 31,
+  "drop_ids": [
+    9,
+    11,
+    550,
+    640,
+    757,
+    1021,
+    1396,
+    1446,
+    1461,
+    1476,
+    1479,
+    1616,
+    1649,
+    1655,
+    1667,
+    1686,
+    1687,
+    1731,
+    1742,
+    1743,
+    1861,
+    1944,
+    1964,
+    2016,
+    2060,
+    2035,
+    2039,
+    2048,
+    2062,
+    2063,
+    2076
+  ],
+  "by_reason": {
+    "empty_correct": 1,
+    "statements_missing": 20,
+    "duplicate_options": 3,
+    "stem_too_short": 1,
+    "match_incomplete": 6
+  },
+  "by_topic": {
+    "Nature of Indian Economy": 2,
+    "Fiscal Policy": 1,
+    "Finance Commission": 2,
+    "RBI": 1,
+    "Resource Sharing": 1,
+    "Rural Welfare": 4,
+    "Land Reforms": 1,
+    "Centre-State Relations": 1,
+    "Agriculture": 4,
+    "Agriculture S&T": 3,
+    "Human Development Index": 1,
+    "Social Problem : Population": 3,
+    "Social Problem : Poverty": 1,
+    "Social Problem : Education": 3,
+    "Social Problem : Employment": 2,
+    "Social Problem : Health": 1
+  },
+  "items": [
+    {
+      "id": 9,
+      "topic": "Nature of Indian Economy",
+      "reasons": [
+        "empty_correct"
+      ],
+      "stem": "The child development index takes into account the following factors: I. Education II. Income III. Health IV. Nutritional status. Select the correct combination.",
+      "opts": [],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 4
+    },
+    {
+      "id": 11,
+      "topic": "Nature of Indian Economy",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Regarding the Indian economy, which of the following reflect, unprecedented suspension of economic activity in the first quarter of this fiscal (April-June) due to the Covid pandemic",
+      "opts": [
+        [
+          "A",
+          "(a) and (b) only"
+        ],
+        [
+          "B",
+          "(a) and (c) only"
+        ],
+        [
+          "C",
+          "(b) and (c) only"
+        ],
+        [
+          "D",
+          "(b) and (d) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 550,
+      "topic": "Fiscal Policy",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the followings are the instruments of fiscal policy?",
+      "opts": [
+        [
+          "A",
+          "1, 2 and 3 only"
+        ],
+        [
+          "B",
+          "2, 3 and 4 only"
+        ],
+        [
+          "C",
+          "1, 3 and 4 only"
+        ],
+        [
+          "D",
+          "1, 2, 3 and 4"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 640,
+      "topic": "Finance Commission",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the following statement are correct about Finance Commission?",
+      "opts": [
+        [
+          "A",
+          "2 only correct"
+        ],
+        [
+          "B",
+          "1 and 3 are correct"
+        ],
+        [
+          "C",
+          "1 and 2 are correct"
+        ],
+        [
+          "D",
+          "4 only correct"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 757,
+      "topic": "Finance Commission",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following constitutional provisions empowers the Finance Commission to advise on the distribution of taxes between the Union and the States?",
+      "opts": [
+        [
+          "A",
+          "Article 275(1)"
+        ],
+        [
+          "B",
+          "Article 280(3)"
+        ],
+        [
+          "C",
+          "Article 268"
+        ],
+        [
+          "D",
+          "Article 282"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1021,
+      "topic": "RBI",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following is considered a component of Statutory Liquidity Ratio (SLR)?",
+      "opts": [
+        [
+          "A",
+          "Cash only"
+        ],
+        [
+          "B",
+          "Gold and approved securities"
+        ],
+        [
+          "C",
+          "Fixed deposits only"
+        ],
+        [
+          "D",
+          "Forex only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1396,
+      "topic": "Resource Sharing",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following taxes are levied by Union govt but collected and appropriated by the states?",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii)"
+        ],
+        [
+          "B",
+          "(iii) and (iv)"
+        ],
+        [
+          "C",
+          "(ii) and (iv)"
+        ],
+        [
+          "D",
+          "(ii) and (iii)"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1446,
+      "topic": "Rural Welfare",
+      "reasons": [
+        "duplicate_options"
+      ],
+      "stem": "Match the following: a) Poverty Alleviation Programme b) People's Development Programme c) Social Assistance Programme d) Basic Needs Programme 1. Mid-Day Meal 2. Indira Awas Yojana 3. National Old Ag",
+      "opts": [
+        [
+          "A",
+          "4   2   3   1"
+        ],
+        [
+          "B",
+          "..."
+        ],
+        [
+          "C",
+          "..."
+        ],
+        [
+          "D",
+          "..."
+        ]
+      ],
+      "a": 0,
+      "nums": 4,
+      "n_stmt": 4
+    },
+    {
+      "id": 1461,
+      "topic": "Rural Welfare",
+      "reasons": [
+        "stem_too_short"
+      ],
+      "stem": "PMRY means",
+      "opts": [
+        [
+          "A",
+          "Prime Minister Rural Yojana"
+        ],
+        [
+          "B",
+          "Prime Minister Regional Yojana"
+        ],
+        [
+          "C",
+          "Prime Minister Rozgar Yojana"
+        ],
+        [
+          "D",
+          "Prime Minister Rashtriya Yojana"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1476,
+      "topic": "Rural Welfare",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about self helping groups?",
+      "opts": [
+        [
+          "A",
+          "(1) only"
+        ],
+        [
+          "B",
+          "(1) and (2) only"
+        ],
+        [
+          "C",
+          "(1) and (3) only"
+        ],
+        [
+          "D",
+          "(2) and (3) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1479,
+      "topic": "Rural Welfare",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which among the following is correctly paired?",
+      "opts": [
+        [
+          "A",
+          "(1) and (2)"
+        ],
+        [
+          "B",
+          "(2) and (3)"
+        ],
+        [
+          "C",
+          "(3) and (4)"
+        ],
+        [
+          "D",
+          "(1) and (4)"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1616,
+      "topic": "Land Reforms",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following are the components of Mahalwari system :",
+      "opts": [
+        [
+          "A",
+          "(1), (2), (3)"
+        ],
+        [
+          "B",
+          "(3), (4), (1)"
+        ],
+        [
+          "C",
+          "(4), (2), (3)"
+        ],
+        [
+          "D",
+          "(2), (1), (4)"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1649,
+      "topic": "Centre-State Relations",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following is incorrectly paired?",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii)"
+        ],
+        [
+          "B",
+          "(ii) and (iii)"
+        ],
+        [
+          "C",
+          "(iii) and (iv)"
+        ],
+        [
+          "D",
+          "(i) and (iv)"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1655,
+      "topic": "Agriculture",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match List I with List II: (a) First World War - 1. High Yielding varieties (b) New Industrial policy - 2. 1960 (c) Green revolution - 3. 1991 (d) HYV - 4. 1914",
+      "opts": [
+        [
+          "A",
+          "a-4, b-3, c-2, d-1"
+        ],
+        [
+          "B",
+          "a-2, b-1, c-4, d-3"
+        ],
+        [
+          "C",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "D",
+          "a-2, b-3, c-4, d-1"
+        ]
+      ],
+      "a": 4,
+      "nums": 1,
+      "n_stmt": 4
+    },
+    {
+      "id": 1667,
+      "topic": "Agriculture",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following is / are not part of the agricultural price policy?",
+      "opts": [
+        [
+          "A",
+          "1 only"
+        ],
+        [
+          "B",
+          "2 only"
+        ],
+        [
+          "C",
+          "1, 2 and 3"
+        ],
+        [
+          "D",
+          "1, 3 and 4"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1686,
+      "topic": "Agriculture",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following operational holding of land and its share in Tamilnadu Agriculture: (a) Marginal Holdings (b) Small Holding (c) Medium Holdings (d) Large Holdings",
+      "opts": [
+        [
+          "A",
+          "(a)-1, (b)-3, (c)-2, (d)-4"
+        ],
+        [
+          "B",
+          "(a)-3, (b)-2, (c)-1, (d)-4"
+        ],
+        [
+          "C",
+          "(a)-4, (b)-3, (c)-2, (d)-1"
+        ],
+        [
+          "D",
+          "(a)-1, (b)-2, (c)-3, (d)-4"
+        ]
+      ],
+      "a": 4,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1687,
+      "topic": "Agriculture",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about Regulated market?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (iii) only"
+        ],
+        [
+          "C",
+          "(i) and (ii) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1731,
+      "topic": "Agriculture S&T",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are true about the weakness of Green Revolution?",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii) only"
+        ],
+        [
+          "B",
+          "(i) and (iii) only"
+        ],
+        [
+          "C",
+          "(i) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1742,
+      "topic": "Agriculture S&T",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which is/are correct statement/s of Uzhavan mobile application.",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii) only"
+        ],
+        [
+          "B",
+          "(i) and (iii) only"
+        ],
+        [
+          "C",
+          "(ii) and (iii) only"
+        ],
+        [
+          "D",
+          "(i) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1743,
+      "topic": "Agriculture S&T",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following are the objectives of National Agricultural Technology Project (NATP)?",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(ii) only"
+        ],
+        [
+          "C",
+          "(i) and (ii) only"
+        ],
+        [
+          "D",
+          "(ii) and (iii) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1861,
+      "topic": "Human Development Index",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match correctly the states showing wide variations:",
+      "opts": [
+        [
+          "A",
+          "(a) 4, (b) 2, (c) 1, (d) 3"
+        ],
+        [
+          "B",
+          "(a) 3, (b) 1, (c) 4, (d) 2"
+        ],
+        [
+          "C",
+          "(a) 2, (b) 3, (c) 1, (d) 4"
+        ],
+        [
+          "D",
+          "(a) 1, (b) 4, (c) 2, (d) 3"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1944,
+      "topic": "Social Problem : Population",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Statement 1: A major issue highlighted by census 2011 is that there are around 50 lakh less children in age group 0-6 years in census 2011 than census 2001. Statement 2: Population growth rate between",
+      "opts": [
+        [
+          "A",
+          "S1 and S2 are correct but S2 does not explain S1"
+        ],
+        [
+          "B",
+          "S1 is wrong; S2 is correct"
+        ],
+        [
+          "C",
+          "Both S1 and S2 are wrong"
+        ],
+        [
+          "D",
+          "S1 and S2 are correct and S2 explains the S1"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 1964,
+      "topic": "Social Problem : Population",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: (a) Year of Great Divide, (b) Year of Small Divide, (c) Year of Population Explosion, (d) Demographic transition",
+      "opts": [
+        [
+          "A",
+          "a-4, b-2, c-3, d-1"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "C",
+          "a-2, b-3, c-1, d-4"
+        ],
+        [
+          "D",
+          "a-4, b-3, c-2, d-1"
+        ]
+      ],
+      "a": 4,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 2016,
+      "topic": "Social Problem : Poverty",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following welfare schemes with their objectives: (a) ICDS, (b) NULM, (c) HRIDAY, (d) NSAP.",
+      "opts": [
+        [
+          "A",
+          "(a)-3, (b)-4, (c)-2, (d)-1"
+        ],
+        [
+          "B",
+          "(a)-1, (b)-2, (c)-3, (d)-4"
+        ],
+        [
+          "C",
+          "(a)-2, (b)-1, (c)-4, (d)-3"
+        ],
+        [
+          "D",
+          "(a)-4, (b)-3, (c)-1, (d)-2"
+        ]
+      ],
+      "a": 4,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 2060,
+      "topic": "Social Problem : Education",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following are part of elementary and secondary education scheme?",
+      "opts": [
+        [
+          "A",
+          "(1), (2), (3)"
+        ],
+        [
+          "B",
+          "(1), (2), (3), (4)"
+        ],
+        [
+          "C",
+          "(1), (3), (4)"
+        ],
+        [
+          "D",
+          "(2), (3), (4)"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 2035,
+      "topic": "Social Problem : Employment",
+      "reasons": [
+        "duplicate_options"
+      ],
+      "stem": "The provided image does not contain any exam questions, only a section header 'SOCIAL PROBLEMS - EMPLOYMENT'.",
+      "opts": [
+        [
+          "A",
+          "N/A"
+        ],
+        [
+          "B",
+          "N/A"
+        ],
+        [
+          "C",
+          "N/A"
+        ],
+        [
+          "D",
+          "N/A"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 2039,
+      "topic": "Social Problem : Population",
+      "reasons": [
+        "duplicate_options"
+      ],
+      "stem": "Match the List I with List II and select the correct answer using the codes given below: According to 2011 census, the literacy levels in the states are",
+      "opts": [
+        [
+          "A",
+          "1-2, 2-4, 3-3, 4-1"
+        ],
+        [
+          "B",
+          "1-1, 2-2, 3-4, 4-3"
+        ],
+        [
+          "C",
+          "1-1, 2-2, 3-4, 4-3"
+        ],
+        [
+          "D",
+          "1-1, 2-3, 3-2, 4-4"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 2048,
+      "topic": "Social Problem : Employment",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which one of the statement is not true of “Beti Bachao Beti Padhao”. The objectives of the schemes are?",
+      "opts": [
+        [
+          "A",
+          "(i) and (ii) only"
+        ],
+        [
+          "B",
+          "(i), (ii), (iii) only"
+        ],
+        [
+          "C",
+          "(ii), (iii), (iv) only"
+        ],
+        [
+          "D",
+          "(iv) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    },
+    {
+      "id": 2062,
+      "topic": "Social Problem : Education",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following: State wise literacy rate in India in 2024 (a) Tamil Nadu (b) Gujarat (c) Sikkim (d) West Bengal with 1. 82.4, 2. 80.5, 3. 82.2, 4. 82.9",
+      "opts": [
+        [
+          "A",
+          "(a) 4, (b) 1, (c) 3, (d) 2"
+        ],
+        [
+          "B",
+          "(a) 3, (b) 2, (c) 1, (d) 4"
+        ],
+        [
+          "C",
+          "(a) 1, (b) 2, (c) 3, (d) 4"
+        ],
+        [
+          "D",
+          "(a) 2, (b) 1, (c) 3, (d) 4"
+        ]
+      ],
+      "a": 4,
+      "nums": 0,
+      "n_stmt": 4
+    },
+    {
+      "id": 2063,
+      "topic": "Social Problem : Education",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Regarding the social problem of education, identify the correct statements from the given options (The specific statements (i), (ii), and (iii) were not provided in the image excerpt but implied by th",
+      "opts": [
+        [
+          "A",
+          "(i) only"
+        ],
+        [
+          "B",
+          "(i) and (ii) only"
+        ],
+        [
+          "C",
+          "(i) and (iii) only"
+        ],
+        [
+          "D",
+          "(i), (ii) and (iii) only"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 1
+    },
+    {
+      "id": 2076,
+      "topic": "Social Problem : Health",
+      "reasons": [
+        "statements_missing"
+      ],
+      "stem": "Which of the following statements are correct about MKSP; Mahila Kisan Sashaktikaran Pariyojana?",
+      "opts": [
+        [
+          "A",
+          "2 and 4 are correct"
+        ],
+        [
+          "B",
+          "2 and 3 are correct"
+        ],
+        [
+          "C",
+          "1 and 2 are correct"
+        ],
+        [
+          "D",
+          "3 and 4 are correct"
+        ]
+      ],
+      "a": 0,
+      "nums": 0,
+      "n_stmt": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "poem_id": "indian_seasons",
+  "count": 1,
+  "questions": [
+    {
+      "poem_title": "Indian Seasons",
+      "poem_id": "indian_seasons",
+      "question_en": "\"Summer comes in a blaze of Heat with sunny smiles and dusty feet.\" These lines are taken from the poem",
+      "options_en": [
+        "A Tragic Story",
+        "The Crocodile",
+        "Indian Seasons",
+        "Trees"
+      ],
+      "answer_en": "C Indian Seasons",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b016",
+      "source_note": "pyq_11_25_b016"
+    }
+  ]
+}

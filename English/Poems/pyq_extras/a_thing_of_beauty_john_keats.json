@@ -1,0 +1,42 @@
+{
+  "poem_id": "a_thing_of_beauty_john_keats",
+  "count": 2,
+  "questions": [
+    {
+      "poem_title": "A Thing of Beauty - John Keats",
+      "poem_id": "a_thing_of_beauty_john_keats",
+      "question_en": "'A thing of beauty is a joy forever' Whose words are these?",
+      "options_en": [
+        "John Milton",
+        "William words worth",
+        "William Blake",
+        "John keats"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    },
+    {
+      "poem_title": "A Thing of Beauty - John Keats",
+      "poem_id": "a_thing_of_beauty_john_keats",
+      "question_en": "\"A thing of beauty is a joy forever\" is a short piece taken from the poem",
+      "options_en": [
+        "Endymion",
+        "The Solitary Reaper",
+        "Ode to the West Wind",
+        "Kubla Khan"
+      ],
+      "answer_en": "Endymion",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "figure_of_speech": false,
+      "source_pdf": "Poem PYQ Topicwise (11-25) (1).pdf",
+      "source_band": "pyq_11_25_b006",
+      "source_note": "pyq_11_25_b006"
+    }
+  ]
+}

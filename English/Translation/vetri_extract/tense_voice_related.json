@@ -1,0 +1,341 @@
+{
+  "topic_id": "tense_voice_related",
+  "topic_title": "Tense / Voice-related Tasks",
+  "unit": 6,
+  "batches_target": 1,
+  "pages": [
+    110,
+    113
+  ],
+  "rules": [
+    {
+      "rule_en": "In Simple Present passive, use is/am/are + V3 (past participle).",
+      "tag": "tense|voice"
+    },
+    {
+      "rule_en": "In Present Continuous passive, use is/am/are + being + V3.",
+      "tag": "tense|voice"
+    },
+    {
+      "rule_en": "In Present Perfect passive, use has/have + been + V3.",
+      "tag": "tense|voice"
+    },
+    {
+      "rule_en": "In Past Continuous passive voice, use 'being' after the auxiliary verb.",
+      "tag": "voice"
+    },
+    {
+      "rule_en": "In Past Perfect passive voice, use 'been' after 'had'.",
+      "tag": "voice"
+    },
+    {
+      "rule_en": "In Simple Future passive voice, use 'be' after the modal 'will'.",
+      "tag": "voice"
+    },
+    {
+      "rule_en": "Future Perfect Tense passive construction: Subject + will have been + past participle + by agent.",
+      "tag": "tense|voice"
+    },
+    {
+      "rule_en": "To convert Active Voice to Passive Voice, the object of the active sentence becomes the subject of the passive sentence, often utilizing the auxiliary verb 'be' plus the past participle.",
+      "tag": "voice"
+    }
+  ],
+  "glossary": [],
+  "examples": [
+    {
+      "note_en": "Simple Past: I killed a snake -> A snake was killed by me.",
+      "tag": "tense|voice"
+    },
+    {
+      "note_en": "Past Continuous: He was driving a car -> A car was being driven by him.",
+      "tag": "tense|voice"
+    },
+    {
+      "note_en": "Past Perfect: They had completed the assignment -> The assignment had been completed by them.",
+      "tag": "tense|voice"
+    },
+    {
+      "note_en": "Simple Future: She will buy a car -> A car will be bought by her.",
+      "tag": "tense|voice"
+    },
+    {
+      "note_en": "Imperative sentence 'Help him' transforms to 'Let him be helped' in passive voice.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Simple present active 'Farmers sow maize' becomes 'Maize is sown' in passive.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Active: Spectators thronged the streets. Passive: The streets were thronged with spectators.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Active: Everyone will blame us. Passive: We will be blamed by everyone.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Active: The wind blew down the trees. Passive: The trees were blown down by the wind.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Active: The police caught the thieves. Passive: The thieves were caught by the police.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Active: You must do your duty. Passive: Your duty must be done by you.",
+      "tag": "voice"
+    },
+    {
+      "note_en": "Active: Someone has cleaned the windows. Passive: The windows have been cleaned.",
+      "tag": "voice"
+    }
+  ],
+  "passages": [],
+  "translations": [
+    {
+      "en": "He sings a song.",
+      "ta": "அவன் ஒரு பாட்டுப் பாடுகிறான்.",
+      "tag": "tense"
+    },
+    {
+      "en": "A song is sung by him.",
+      "ta": "ஒரு பாட்டு அவனால் பாடப்படுகிறது.",
+      "tag": "voice"
+    },
+    {
+      "en": "He does not sing a song.",
+      "ta": "அவன் பாட்டுப் பாடுவதில்லை.",
+      "tag": "tense"
+    },
+    {
+      "en": "A song is not sung by him.",
+      "ta": "பாட்டு அவனால் பாடப்படுவதில்லை.",
+      "tag": "voice"
+    },
+    {
+      "en": "Does he sing a song?",
+      "ta": "அவன் பாட்டுப் பாடுகிறானா?",
+      "tag": "tense"
+    },
+    {
+      "en": "Is a song sung by him?",
+      "ta": "பாட்டு அவனால் பாடப்படுகிறதா?",
+      "tag": "voice"
+    },
+    {
+      "en": "I am writing a letter.",
+      "ta": "நான் ஒரு கடிதம் எழுதிக்கொண்டிருக்கிறேன்.",
+      "tag": "tense"
+    },
+    {
+      "en": "A letter is being written by me.",
+      "ta": "ஒரு கடிதம் என்னால் எழுதப்பட்டுக்கொண்டிருக்கிறது.",
+      "tag": "voice"
+    },
+    {
+      "en": "I am not writing a letter.",
+      "ta": "நான் கடிதம் எழுதிக்கொண்டிருக்கவில்லை.",
+      "tag": "tense"
+    },
+    {
+      "en": "A letter is not being written by me.",
+      "ta": "கடிதம் என்னால் எழுதப்பட்டுக்கொண்டிருக்கவில்லை.",
+      "tag": "voice"
+    },
+    {
+      "en": "Am I writing a letter?",
+      "ta": "நான் கடிதம் எழுதிக்கொண்டிருக்கிறேனா?",
+      "tag": "tense"
+    },
+    {
+      "en": "Is a letter being written by me?",
+      "ta": "கடிதம் என்னால் எழுதப்பட்டுக்கொண்டிருக்கிறதா?",
+      "tag": "voice"
+    },
+    {
+      "en": "She has finished her work.",
+      "ta": "அவள் தன் வேலையை முடித்திருக்கிறாள்.",
+      "tag": "tense"
+    },
+    {
+      "en": "Her work has been finished by her.",
+      "ta": "அவளுடைய வேலை அவளால் முடிக்கப்பட்டிருக்கிறது.",
+      "tag": "voice"
+    },
+    {
+      "en": "She has not finished her work.",
+      "ta": "அவள் தன் வேலையை முடிக்கவில்லை.",
+      "tag": "tense"
+    },
+    {
+      "en": "Her work has not been finished by her.",
+      "ta": "அவளுடைய வேலை அவளால் முடிக்கப்படவில்லை.",
+      "tag": "voice"
+    },
+    {
+      "en": "Has she finished her work?",
+      "ta": "அவள் தன் வேலையை முடித்திருக்கிறாளா?",
+      "tag": "tense"
+    },
+    {
+      "en": "Has her work been finished by her?",
+      "ta": "அவளுடைய வேலை அவளால் முடிக்கப்பட்டிருக்கிறதா?",
+      "tag": "voice"
+    },
+    {
+      "en": "Simple Past: I killed a snake / A snake was killed by me.",
+      "ta": "நான் ஒரு பாம்பைக் கொன்றேன் / ஒரு பாம்பு என்னால் கொல்லப்பட்டது.",
+      "tag": "tense|voice"
+    },
+    {
+      "en": "Past Continuous: He was driving a car / A car was being driven by him.",
+      "ta": "அவன் கார் ஓட்டிக் கொண்டிருந்தான் / கார் அவனால் ஓட்டப்பட்டுக் கொண்டிருந்தது.",
+      "tag": "tense|voice"
+    },
+    {
+      "en": "Past Perfect: They had completed the assignment / The assignment had been completed by them.",
+      "ta": "அவர்கள் அந்தப் பணியை முடித்திருந்தார்கள் / அந்தப் பணி அவர்களால் முடிக்கப்பட்டிருந்தது.",
+      "tag": "tense|voice"
+    },
+    {
+      "en": "Simple Future: She will buy a car / A car will be bought by her.",
+      "ta": "அவள் கார் வாங்குவாள் / கார் அவளால் வாங்கப்படும்.",
+      "tag": "tense|voice"
+    },
+    {
+      "en": "You will have started the job.",
+      "ta": "நீ அந்த வேலையைத் தொடங்கி இருப்பாய்.",
+      "tag": "tense"
+    },
+    {
+      "en": "The job will have been started by you.",
+      "ta": "அந்த வேலை உன்னால் தொடங்கப்பட்டிருக்கும்.",
+      "tag": "voice"
+    },
+    {
+      "en": "Help him.",
+      "ta": "அவனுக்கு உதவு.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Let him be helped.",
+      "ta": "அவனுக்கு உதவி செய்யப்படட்டும்.",
+      "tag": "voice"
+    },
+    {
+      "en": "Farmers sow maize in the rainy season.",
+      "ta": "விவசாயிகள் மழைக்காலத்தில் சோளம் விதைக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Maize is sown in the rainy season.",
+      "ta": "மழைக்காலத்தில் சோளம் விதைக்கப்படுகிறது.",
+      "tag": "voice"
+    },
+    {
+      "en": "Are you writing?",
+      "ta": "நீ எழுதுகிறாயா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "Is a letter being written by you?",
+      "ta": "ஒரு கடிதம் உன்னால் எழுதப்படுகிறதா?",
+      "tag": "voice"
+    },
+    {
+      "en": "The workers were digging a canal.",
+      "ta": "தொழிலாளர்கள் ஒரு கால்வாய் வெட்டிக் கொண்டிருந்தார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "A canal was being dug by the workers.",
+      "ta": "ஒரு கால்வாய் தொழிலாளர்களால் வெட்டப்பட்டுக் கொண்டிருந்தது.",
+      "tag": "voice"
+    },
+    {
+      "en": "I will finish the job by the end of this week.",
+      "ta": "இந்த வார இறுதிக்குள் நான் வேலையை முடிப்பேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The job will be finished by the end of this week.",
+      "ta": "இந்த வார இறுதிக்குள் வேலை முடிக்கப்படும்.",
+      "tag": "voice"
+    },
+    {
+      "en": "The manager will give you a ticket.",
+      "ta": "மேலாளர் உங்களுக்கு ஒரு டிக்கெட் கொடுப்பார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You will be given a ticket by the manager.",
+      "ta": "உங்களுக்கு மேலாளரால் ஒரு டிக்கெட் கொடுக்கப்படும்.",
+      "tag": "voice"
+    },
+    {
+      "en": "Spectators thronged the streets.",
+      "ta": "பார்வையாளர்கள் தெருக்களில் திரண்டனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The streets were thronged with spectators.",
+      "ta": "தெருக்கள் பார்வையாளர்களால் நிரம்பின.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Everyone will blame us.",
+      "ta": "எல்லோரும் எங்களை குறை கூறுவார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We will be blamed by everyone.",
+      "ta": "நாங்கள் எல்லோராலும் குறை சொல்லப்படுவோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The wind blew down the trees.",
+      "ta": "காற்று மரங்களை சாய்த்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The trees were blown down by the wind.",
+      "ta": "மரங்கள் காற்றால் சாய்க்கப்பட்டன.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The police caught the thieves.",
+      "ta": "போலீசார் திருடர்களைப் பிடித்தனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The thieves were caught by the police.",
+      "ta": "திருடர்கள் போலீசாரால் பிடிக்கப்பட்டனர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "You must do your duty.",
+      "ta": "நீ உன் கடமையைச் செய்ய வேண்டும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Your duty must be done by you.",
+      "ta": "உன் கடமை உன்னால் செய்யப்பட வேண்டும்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Someone has cleaned the windows.",
+      "ta": "யாரோ ஜன்னல்களை சுத்தம் செய்திருக்கிறார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The windows have been cleaned.",
+      "ta": "ஜன்னல்கள் சுத்தம் செய்யப்பட்டிருக்கின்றன.",
+      "tag": "sentence"
+    }
+  ],
+  "pyq": [],
+  "notes_en": "p110: This page provides a comprehensive comparison table for converting Active Voice sentences into Passive Voice within the Simple Present, Present Continuous, and Present Perfect tenses, including interrogative and negative forms.\np111: This table provides a concise guide to converting sentences from active to passive voice across four tenses: Simple Past, Past Continuous, Past Perfect, and Simple Future. It includes affirmative, negative, and interrogative forms with corresponding Tamil translations for clear understanding.\np112: This page provides bilingual tables demonstrating the conversion of active voice sentences into passive voice across various tenses, including Future Perfect, along with examples for imperative and simple present/past continuous sentences.\np113: This page provides a comparison table demonstrating the transformation of various sentence structures from Active Voice to Passive Voice, accompanied by Tamil translations for better conceptual clarity.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

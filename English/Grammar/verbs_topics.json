@@ -1,0 +1,34 @@
+{
+  "subject_id": "English",
+  "menu": "verbs",
+  "topics": [
+    {
+      "id": "main_verbs",
+      "name_en": "Main Verbs",
+      "name_ta": "முதன்மை வினைச்சொற்கள்",
+      "batches": 2,
+      "focus": "Main/principal verb identification; action/state verbs; transitive vs intransitive; verb as doer of action; NOT tense filling or question tags."
+    },
+    {
+      "id": "auxiliary_verbs",
+      "name_en": "Auxiliary Verbs",
+      "name_ta": "துணை வினைச்சொற்கள்",
+      "batches": 2,
+      "focus": "Helping verbs: be (am/is/are/was/were), do (do/does/did), have (has/have/had); modals (can, may, must, shall, should, will, would); primary vs modal auxiliary; NOT question-tag or reported-speech conversion."
+    },
+    {
+      "id": "regular_verbs",
+      "name_en": "Regular Verbs",
+      "name_ta": "வழக்கமான வினைச்சொற்கள்",
+      "batches": 2,
+      "focus": "Regular verb forms: V1→V2 (-ed); V1→V3 (-ed); dance/danced, show/showed; choose correct past/past participle for regular verbs."
+    },
+    {
+      "id": "irregular_verbs",
+      "name_en": "Irregular Verbs",
+      "name_ta": "வழக்கமற்ற வினைச்சொற்கள்",
+      "batches": 2,
+      "focus": "Irregular V1/V2/V3: go/went/gone, eat/ate/eaten, ring/rang/rung, take/took/taken; pick correct past or past participle; common TNPSC irregular list."
+    }
+  ]
+}

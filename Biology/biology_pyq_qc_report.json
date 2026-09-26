@@ -1,0 +1,35 @@
+{
+  "total_pyq": 312,
+  "issue_count": 0,
+  "soft_issue_count": 1,
+  "clean_count": 312,
+  "by_topic": {
+    "Classification of Living Organisms": 71,
+    "Environment and Organism Life": 60,
+    "Human Diseases — Prevention and Control": 60,
+    "The Cell — Basic Unit of Life": 30,
+    "Genetics — Mendelism": 26,
+    "Nutrition and Food Habits": 22,
+    "Biodiversity and Conservation": 19,
+    "Blood and Circulation": 8,
+    "Respiration": 6,
+    "Reproductive System": 5,
+    "Endocrine System": 5
+  },
+  "by_exam_count": 72,
+  "pages_with_questions": 117,
+  "empty_pages_1_117": [],
+  "issues": [],
+  "soft_issues": [
+    {
+      "index": 311,
+      "source_page": 114,
+      "pyq_number": 101,
+      "question_en": "Modern man originated in which period and epoch of Geological Time scale:\n(i) Tertiary - Paleocene\n(ii) Tertiary - Plioc",
+      "tags": [
+        "answer_under_review"
+      ]
+    }
+  ],
+  "issue_tag_counts": {}
+}

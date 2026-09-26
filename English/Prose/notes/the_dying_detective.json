@@ -1,0 +1,98 @@
+{
+  "prose_id": "the_dying_detective",
+  "prose_title": "The Dying Detective",
+  "author": "Arthur Conan Doyle",
+  "num": 7,
+  "pdf_pages": [
+    219,
+    231
+  ],
+  "prose_text_en": "Sherlock Holmes is supposedly dying from a deadly and contagious disease from Sumatra. He asks his landlady, Mrs. Hudson, to summon Dr. Watson, but forbids him from touching his belongings. Holmes forces Watson to fetch Culverton Smith, a planter from Sumatra with specialized knowledge of the illness. Watson observes Holmes's 'delirious' state and his obsession with an ivory box. Upon Smith's arrival, Watson hides and overhears Smith confessing to murdering his nephew, Victor Savage, and attempting to kill Holmes with the same contaminated box. Holmes reveals his illness was a ruse (acting, fasting, and make-up) to trap Smith, leading to Smith's arrest by Inspector Morton.",
+  "summary_en": "In 'The Dying Detective,' Sherlock Holmes feigns a terminal, contagious illness to entrap Culverton Smith, who murdered his own nephew. Through his masterful acting and the assistance of Dr. Watson, Holmes lures Smith into confessing to the crime. The story highlights Holmes's intellectual brilliance, his ability to manipulate situations for justice, and his unwavering trust in Watson's friendship.",
+  "characters": [
+    {
+      "name_en": "Sherlock Holmes",
+      "role_en": "A detective who uses his brilliant deductive skills and acting abilities to solve cases."
+    },
+    {
+      "name_en": "Dr. Watson",
+      "role_en": "Holmes's loyal friend and assistant, who acts as the narrator."
+    },
+    {
+      "name_en": "Culverton Smith",
+      "role_en": "A cold-blooded murderer who specializes in Eastern diseases."
+    },
+    {
+      "name_en": "Mrs. Hudson",
+      "role_en": "The concerned landlady of Sherlock Holmes."
+    },
+    {
+      "name_en": "Inspector Morton",
+      "role_en": "A police officer from Scotland Yard who arrests Smith."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Gaunt",
+      "meaning_en": "Lean, especially because of suffering, hunger or age."
+    },
+    {
+      "word_en": "Delirious",
+      "meaning_en": "Disturbed state of mind characterized by restlessness."
+    },
+    {
+      "word_en": "Contagious",
+      "meaning_en": "Spreading of a disease by direct contact."
+    },
+    {
+      "word_en": "Bolted",
+      "meaning_en": "Closed the door with a bar that slides into a socket."
+    },
+    {
+      "word_en": "Frail",
+      "meaning_en": "Weak and delicate."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: Sir Arthur Ignatius Conan Doyle (1859-1930).",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Joseph Bell (1837-1911) was a lecturer in medicine whose detective approach inspired the character of Sherlock Holmes.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The story involves a ruse of 'fasting and make-up' to simulate death.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Theme: Intelligence, deception for justice, and friendship.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The story was narrated by the character Dr. Watson.",
+      "tag": "other"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "Who was Mrs. Hudson? Why was she worried?",
+      "answer_en": "Mrs. Hudson was the landlady of Sherlock Holmes. She was worried because Holmes had been sick for three days and was dying.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "According to Holmes, what was the disease he was suffering from?",
+      "answer_en": "Holmes claimed he was suffering from a deadly and contagious disease from Sumatra.",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "Who arrested Smith? What were the charges against him?",
+      "answer_en": "Inspector Morton arrested Smith on the charge of murder.",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

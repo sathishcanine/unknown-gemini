@@ -1,0 +1,1290 @@
+{
+  "results": [
+    {
+      "index": 1,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The image shows a clean statistical data table required to solve the question, with no answer markings or defects.",
+      "correct_looks_ok": true,
+      "question_en": "Find the range of the following distribution.",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p286_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 286,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 2,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The figure clearly shows the magic square needed to solve the question with no answer marks visible.",
+      "correct_looks_ok": true,
+      "question_en": "In a magic square given below each row, column and diagonal should have the same sum, find the values of x, y and z",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p286_q2.png"
+      ],
+      "batch": "Batch 1",
+      "page": 286,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image shows multiple questions with answer ticks and does not match the mirror image question stem.",
+      "correct_looks_ok": false,
+      "question_en": "If a mirror is placed below the word HIDE, what word will you see?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p331_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 331,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 4,
+      "verdict": "DROP",
+      "reasons": [
+        "not_picture_reasoning",
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "This is a pure coding-decoding text question that does not require the image, and the image contains multiple questions with a handwritten tick mark leaking the answer.",
+      "correct_looks_ok": false,
+      "question_en": "In a certain code language 'ANIMALS' is written as 'SLAMINA'. How is ONLINE written in that code?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p331_q2.png"
+      ],
+      "batch": "Batch 1",
+      "page": 331,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 5,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image shows multiple questions and is improperly cropped for the given question text.",
+      "correct_looks_ok": false,
+      "question_en": "Find the next term in the below Alpha Numeric Series. Z1A, X2D, V6G, T21J, R88M, P445P, ?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p331_q3.png"
+      ],
+      "batch": "Batch 1",
+      "page": 331,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains multiple unrelated questions and does not match the letter-number series question in the stem.",
+      "correct_looks_ok": false,
+      "question_en": "J2Z, K4X, I7V, ________, H16R, M22P Find the missing term",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p331_q4.png"
+      ],
+      "batch": "Batch 1",
+      "page": 331,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 7,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The figure clearly shows the grid puzzle required to find the missing number with no answer leaks.",
+      "correct_looks_ok": true,
+      "question_en": "Find the missing number in the place of ?.",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p337_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 337,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 8,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The dice figures are clear, complete, have no answer markings, and match the question stem.",
+      "correct_looks_ok": true,
+      "question_en": "Four pictures of a cube are given below which number is on the face opposite to 3?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p346_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 346,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 9,
+      "verdict": "DROP",
+      "reasons": [
+        "unusable_figure"
+      ],
+      "detail": "The image is extremely poorly cropped and shows only a tiny, incomplete sliver of the dice figure.",
+      "correct_looks_ok": false,
+      "question_en": "Various positions of a dice are given below. What will be the digit on the face opposite to the face having digit 1?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p347_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 347,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 10,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The figure clearly shows the unfolded cube and the four resulting dice options needed to solve the problem without any answer leaks.",
+      "correct_looks_ok": true,
+      "question_en": "On folding the given paper which of the following cube can not be formed?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p348_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 348,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 11,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The dice figure is clear, self-contained, and necessary to solve the question with no answer marks visible.",
+      "correct_looks_ok": true,
+      "question_en": "Which colour is in opposite to the plane having blue colour?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p349_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 349,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 12,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked"
+      ],
+      "detail": "A hand-drawn tick mark clearly points to option B in the image.",
+      "correct_looks_ok": false,
+      "question_en": "Which number is in opposite plane of 3?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p350_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 350,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 13,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains a hand-drawn tick mark next to option C and the question is a purely textual sequence-based problem.",
+      "correct_looks_ok": true,
+      "question_en": "Study the following sequence and answer : D \\# = 8 Q + $ O - @ Z % 6 d # A ? 7 > G B. Which element is 8th to the left of 17th element, if the above sequence is",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p357_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 357,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 14,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The figure is clear, self-contained, correctly displays the puzzle with the missing value, and has no answer leaks.",
+      "correct_looks_ok": true,
+      "question_en": "Find out the missing value in the given figure.",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p366_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 366,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 15,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked"
+      ],
+      "detail": "A blue hand-drawn tick mark is clearly visible pointing to option (D).",
+      "correct_looks_ok": false,
+      "question_en": "Find out the missing figure.",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p367_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 367,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 16,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop"
+      ],
+      "detail": "The image contains a duplicate/cut-off view of the diagram and unwanted watermark elements overlapping the content.",
+      "correct_looks_ok": false,
+      "question_en": "Find the missing number.",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p368_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 368,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 17,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop"
+      ],
+      "detail": "The image is badly cropped, showing overlapping text and duplicate figures from the page layout.",
+      "correct_looks_ok": false,
+      "question_en": "Which number replaces the question mark for the following numbers?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p369_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 369,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 18,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop"
+      ],
+      "detail": "The image contains a duplicated and overlapping view of the matrix puzzle with heavy watermarking.",
+      "correct_looks_ok": false,
+      "question_en": "Find the value of x.",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p370_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 370,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 19,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop"
+      ],
+      "detail": "The image shows a bilingual duplicate or cut-off layout with overlapping text.",
+      "correct_looks_ok": false,
+      "question_en": "How many triangles are there in the given figure?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p371_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 371,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 20,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "unusable_figure"
+      ],
+      "detail": "The image only shows options B and D partially while missing option figures completely.",
+      "correct_looks_ok": false,
+      "question_en": "Praveen recently got the registration number for his new-two wheeler. Here, the number is given in the form of mirror-image. Encode the image and find the corre",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p371_q2.png"
+      ],
+      "batch": "Batch 1",
+      "page": 371,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 21,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The pie-chart clearly displays the percentage distribution for each school needed to solve the ratio problem.",
+      "correct_looks_ok": true,
+      "question_en": "In the given Pie-chart A, B, C, D, E and F - represents schools in a town. If the total number of students are 16,000, then the ratio of 2 schools which is equa",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p372_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 372,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 22,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The line graph clearly shows the necessary data points and profit percentages required to solve the quantitative aptitude problem without any answer leaks or watermarks obscuring the graph.",
+      "correct_looks_ok": true,
+      "question_en": "The line graph shows the annual percent profit earned by a company during the period 1995-2000. Study the line graph and answer the following : If the expenditu",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p373_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 373,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 23,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The image contains a hand-drawn tick mark next to option C, revealing the correct answer, and includes a full question screenshot instead of just the chart figure.",
+      "correct_looks_ok": false,
+      "question_en": "The following pie-chart shows the percentage of Literate and Illiterate - Males and Female in a city. Total Number = 2,50,000. What is the different between the",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p374_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 374,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 24,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The bar graph is clean, legible, contains all necessary data for the years 1997 and 1998, and has no answer markings.",
+      "correct_looks_ok": true,
+      "question_en": "Study the following bar-graph and answer the question given below. Production of fertilizers by a company (in 10000 tonnes) over the years. What was the percent",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p375_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 375,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 25,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked"
+      ],
+      "detail": "A hand-drawn checkmark clearly points to option (C) in the image.",
+      "correct_looks_ok": false,
+      "question_en": "The mirror image of the word \"STILL\"",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p376_q1.png"
+      ],
+      "batch": "Batch 1",
+      "page": 376,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 26,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The image contains a hand-drawn checkmark next to option D, and shows duplicate bilingual sections.",
+      "correct_looks_ok": false,
+      "question_en": "How many triangles are there in the following figure?",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p377_q1.png"
+      ],
+      "batch": "Batch 2",
+      "page": 377,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 27,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The figure is a clear, self-contained diagram needed to count triangles with no answer marks visible.",
+      "correct_looks_ok": true,
+      "question_en": "The total number of triangles in the given figure is",
+      "image_urls": [
+        "/media/aptitude/reasoning/part2_p378_q1.png"
+      ],
+      "batch": "Batch 2",
+      "page": 378,
+      "source_pdf": "part2"
+    },
+    {
+      "index": 28,
+      "verdict": "DROP",
+      "reasons": [
+        "wrong_topic",
+        "bad_crop"
+      ],
+      "detail": "This is a statistics data interpretation pie-chart question misfiled into picture reasoning, and the image is cut off at the bottom showing part of a text line.",
+      "correct_looks_ok": false,
+      "question_en": "The following pie-chart shows the percentage of Literate and Iliterate Males and Female in a city. What is the different between the number of literate Males an",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2021_p015_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 15,
+      "source_pdf": "y2021"
+    },
+    {
+      "index": 29,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image contains multiple questions, page headers, and a visible tick mark on option B.",
+      "correct_looks_ok": true,
+      "question_en": "What will be the next term of the following series \\(\\frac{3}{16}, \\frac{1}{8}, \\frac{1}{12}, \\frac{1}{18}, \\dots\\)",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2021_p019_q2.png"
+      ],
+      "batch": "Batch 2",
+      "page": 19,
+      "source_pdf": "y2021"
+    },
+    {
+      "index": 30,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image contains multiple unrelated questions and a page header, and does not match the sum of squares question stem.",
+      "correct_looks_ok": false,
+      "question_en": "Find the sum of \\(15^2 + 16^2 + 17^2 + \\dots + 28^2\\)",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2021_p019_q3.png"
+      ],
+      "batch": "Batch 2",
+      "page": 19,
+      "source_pdf": "y2021"
+    },
+    {
+      "index": 31,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image shows completely unrelated questions (bar chart and number series) while the question is about algebraic weeks and days calculation.",
+      "correct_looks_ok": false,
+      "question_en": "How many days are there in \\(x\\) weeks \\(x\\) days?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2021_p019_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 19,
+      "source_pdf": "y2021"
+    },
+    {
+      "index": 32,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image contains multiple questions and a hand-drawn tick mark on option D.",
+      "correct_looks_ok": false,
+      "question_en": "How many triangles are there in the following figure:",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p004_q1.png"
+      ],
+      "batch": "Batch 2",
+      "page": 4,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 33,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image contains multiple questions and a hand-drawn tick mark leaking the correct answer for option C.",
+      "correct_looks_ok": false,
+      "question_en": "Find the missing number:\n49, 121, 169, ?, 361",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p004_q3.png"
+      ],
+      "batch": "Batch 2",
+      "page": 4,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 34,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image contains multiple questions and does not match the rectangle area question in the stem.",
+      "correct_looks_ok": false,
+      "question_en": "Find the area of a rectangle one of whose sides is 5 cm and diagonal 13 cm.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p004_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 4,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 35,
+      "verdict": "DROP",
+      "reasons": [
+        "not_picture_reasoning"
+      ],
+      "detail": "This is a verbal coding-decoding question where the figure only repeats the text already given in the question stem.",
+      "correct_looks_ok": true,
+      "question_en": "A group of letters are given. A numerical code has been given to each letter. These letters have to be unscrambled into a meaning word. Find out the code for th",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p005_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 5,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 36,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The image contains multiple questions and a hand-drawn tick mark leaking the correct answer on option C.",
+      "correct_looks_ok": false,
+      "question_en": "2 P J @ 8 $ L B 1 V # Q 6 δ G W 9 K C D 3 © • £ 5 F R 7 A Y 4\nP @ L is to Y 7 5 in the same way as $ 1 # is to",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p019_q1.png"
+      ],
+      "batch": "Batch 2",
+      "page": 19,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 37,
+      "verdict": "DROP",
+      "reasons": [
+        "not_picture_reasoning",
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The question is a pure mathematical reasoning text problem that does not need a figure, and the image contains answer leaks and multiple questions.",
+      "correct_looks_ok": false,
+      "question_en": "If × means +, − means ×, ÷ means + and + means −, what is the value of (3−15+19)×8+6?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p019_q2.png"
+      ],
+      "batch": "Batch 2",
+      "page": 19,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 38,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The figure contains the clear letter-to-number boxed data required to solve the coding question without any answer leaks or bad crops.",
+      "correct_looks_ok": true,
+      "question_en": "Assign the number for English alphabets as 1 for A, 2 for B upto 26 for Z. Find the meaning of [7|15|15|4] [13|15|18|14|9|14|7]",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p057_q6.png"
+      ],
+      "batch": "Batch 2",
+      "page": 57,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 39,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains multiple questions (including a bad crop), an answer tick mark, and a pure coding question that does not need a picture.",
+      "correct_looks_ok": false,
+      "question_en": "If English Alphabets A -> D, B -> E, C -> F, D -> G,..., Z -> C are arranged respectively. How will rewrite the word 'KHOOR'.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p058_q1.png"
+      ],
+      "batch": "Batch 2",
+      "page": 58,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 40,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains entirely different questions (coding-decoding and triangle counting) instead of the given work-and-wages word problem.",
+      "correct_looks_ok": false,
+      "question_en": "A, B and C are employed to do a piece of work for Rs. 529. A and B together are supposed to do 19/23 of the work and B and C together 8/23 of the work what amou",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p058_q3.png"
+      ],
+      "batch": "Batch 2",
+      "page": 58,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 41,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image shows a page containing multiple questions and a completely different question than the one in the JSON stem.",
+      "correct_looks_ok": false,
+      "question_en": "A can do a piece of work in 20 days and B can do it in 30 days. How long will they take to do the work together?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p058_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 58,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 42,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop"
+      ],
+      "detail": "The image shows multiple questions and a completely different figure/question mismatching the app stem about a geometric sequence.",
+      "correct_looks_ok": false,
+      "question_en": "Find the common ratio for the geometric sequence 0.15, 0.015, 0.0015, ...",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p089_q2.png"
+      ],
+      "batch": "Batch 2",
+      "page": 89,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 43,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop"
+      ],
+      "detail": "The image shows a completely different question about finding a missing value in a figure, whereas the app question is about the sum of squares.",
+      "correct_looks_ok": false,
+      "question_en": "Find the sum of 1^2 + 2^2 + ... + 19^2.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p089_q3.png"
+      ],
+      "batch": "Batch 2",
+      "page": 89,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 44,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The image clearly shows the number puzzle table required to solve the question without any answer leaks or artifacts.",
+      "correct_looks_ok": true,
+      "question_en": "Find the missing number in the place of ?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p092_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 92,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 45,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image contains multiple questions and a hand-drawn tick mark leaking the correct answer on option C.",
+      "correct_looks_ok": false,
+      "question_en": "The next term of the Alphanumeric series C4X, F9U, I16R, is",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p093_q2.png"
+      ],
+      "batch": "Batch 2",
+      "page": 93,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 46,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch",
+        "answer_leaked"
+      ],
+      "detail": "The image shows multiple questions with handwritten ticks on options, and the figure/question does not match the app question stem.",
+      "correct_looks_ok": false,
+      "question_en": "A mat of length 180 m is made by 15 women in 12 days. How long will it take for 32 women to make a mat of length 512 m?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p093_q3.png"
+      ],
+      "batch": "Batch 2",
+      "page": 93,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 47,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image shows multiple questions and page headers, and the question in the image does not match the app question stem.",
+      "correct_looks_ok": false,
+      "question_en": "Find the area of an equilateral triangle whose perimeter is 180 cm.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2022_p093_q4.png"
+      ],
+      "batch": "Batch 2",
+      "page": 93,
+      "source_pdf": "y2022"
+    },
+    {
+      "index": 48,
+      "verdict": "DROP",
+      "reasons": [
+        "wrong_topic"
+      ],
+      "detail": "This is a pure data interpretation pie chart question rather than a visual reasoning or picture puzzle.",
+      "correct_looks_ok": true,
+      "question_en": "In the given Pie-chart A, B, C, D, E and F represents schools in a town. If the total number of students are 16,000, then the ratio of 2 schools which is equal ",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p081_q2.png"
+      ],
+      "batch": "Batch 2",
+      "page": 81,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 49,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image shows a hand-drawn tick on option D, contains multiple questions, and is a verbal aptitude question rather than a picture reasoning figure.",
+      "correct_looks_ok": true,
+      "question_en": "The temperature at 12 noon at certain place was 18° above zero. If it decreases at the rate of 3° per hour at what time it would be 12° below zero?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p095_q1.png"
+      ],
+      "batch": "Batch 2",
+      "page": 95,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 50,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image shows completely different questions (temperature and mirror image) compared to the work-and-time question text in the app.",
+      "correct_looks_ok": false,
+      "question_en": "A and B under take to do a piece of work for Rs. 1200. A alone can do it in 8 days, while B can do it in 6 days. With the help of C, they complete it in 3 days.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p095_q3.png"
+      ],
+      "batch": "Batch 2",
+      "page": 95,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 51,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "options_broken"
+      ],
+      "detail": "The image shows a dice paper folding question, but the app question text is about a Fibonacci-like sequence.",
+      "correct_looks_ok": false,
+      "question_en": "Given $F_1 = 1, F_2 = 3, F_n = F_{n-1} + F_{n-2}$ then $F_{10}$ is",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p112_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 112,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 52,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "answer_leaked"
+      ],
+      "detail": "The image shows a cube folding question, whereas the text question is an arithmetic progression sum, and there is a visible answer mark at the bottom.",
+      "correct_looks_ok": false,
+      "question_en": "Find the sum of the following $6 + 13 + 20 + ........ + 97$",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p112_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 112,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 53,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains multiple questions, an answer leak (strikethrough/marking on option B), and is a standard arithmetic word problem rather than a visual reasoning question.",
+      "correct_looks_ok": false,
+      "question_en": "A tank can hold 150 litres of water at present it is only 40% full. How many litres of water will fill the tank so that it is 70% full?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p121_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 121,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 54,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains multiple questions, a hand-drawn tick mark on option B, and is a verbal mathematical operations question rather than picture reasoning.",
+      "correct_looks_ok": false,
+      "question_en": "If P denotes +, Q denotes ×, R denotes +, S denotes -, then what is the value of 18 Q 12 P 4 R 5 S 6?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p121_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 121,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 55,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked"
+      ],
+      "detail": "Option C is clearly marked with a hand-drawn slash in the image.",
+      "correct_looks_ok": false,
+      "question_en": "Praveen recently got the registration number for his new two-wheeler. Here, the number is given in the form of mirror-image. Encode the image and find the corre",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2023_p121_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 121,
+      "source_pdf": "y2023"
+    },
+    {
+      "index": 56,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop"
+      ],
+      "detail": "The image shows a calendar/date calculation question at the bottom, but includes a triangle counting figure from a completely different question at the top, along with multiple questions and heavy watermarks.",
+      "correct_looks_ok": false,
+      "question_en": "Calculate the days between 12 January 2004 and 7 March 2004.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p008_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 8,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 57,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch",
+        "answer_leaked"
+      ],
+      "detail": "The image shows multiple questions with answer markings, and the image content completely mismatches the question stem about G.P.",
+      "correct_looks_ok": false,
+      "question_en": "Find the first term of a G.P. in which S6 = 4095 and r = 4",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p008_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 8,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 58,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image shows a triangle counting question with hand-drawn marks and watermarks, whereas the question JSON is a completely different letter-number series question.",
+      "correct_looks_ok": false,
+      "question_en": "Find the missing term from the following : 16 D 7, 18 G 10, 21 K 14, 25 P 19, ______",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p008_q4.png"
+      ],
+      "batch": "Batch 3",
+      "page": 8,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 59,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains multiple questions and is a bad crop for a pure mathematical simplification problem.",
+      "correct_looks_ok": false,
+      "question_en": "Simplify $\\left[\\sqrt{\\frac{225}{729}} - \\sqrt{\\frac{25}{144}} \\div \\sqrt{\\frac{16}{81}}\\right]$",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p036_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 36,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 60,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image contains an answer leak with a red mark on option D, has a bad crop showing multiple questions, and is a pure aptitude time-and-work question that does not require a figure.",
+      "correct_looks_ok": false,
+      "question_en": "X, Y and Z can do a piece of job in 8, 12 and 16 days respectively. If X, Y and Z work together to complete, then find Y's share if they will be paid Rs. 26,000",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p087_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 87,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 61,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The correct option (B) is explicitly marked with a red tick in the image, and options are cut off.",
+      "correct_looks_ok": false,
+      "question_en": "Find the minimum number of straight lines used in forming the following figure.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p087_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 87,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 62,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop"
+      ],
+      "detail": "The image shows completely different questions (time & work and counting lines) than the app question about dice probability.",
+      "correct_looks_ok": false,
+      "question_en": "When two dice are rolled, the probability of getting same faces on the dice is",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p087_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 87,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 63,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image shows unrelated questions (time and work, and a different geometry problem) while the app question is about letter coding.",
+      "correct_looks_ok": false,
+      "question_en": "If A -> 1, B -> 2, C -> 3,..., Z -> 26 and ABC represents BEJ then CDE represents",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p087_q4.png"
+      ],
+      "batch": "Batch 3",
+      "page": 87,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 64,
+      "verdict": "DROP",
+      "reasons": [
+        "unusable_figure"
+      ],
+      "detail": "The field book table in the image is cropped and incomplete, missing essential data needed to calculate the area.",
+      "correct_looks_ok": false,
+      "question_en": "The readings in a field book are as given below : Calculate the area.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2024_p090_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 90,
+      "source_pdf": "y2024"
+    },
+    {
+      "index": 65,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The image contains a hand-drawn tick mark next to option B and shows multiple questions.",
+      "correct_looks_ok": false,
+      "question_en": "In a dice, if 2 is adjacent to 3, 5 and 6, then which of the following is necessarily true?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p018_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 18,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 66,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image shows multiple questions with a hand-drawn tick marking the correct answer for the target question.",
+      "correct_looks_ok": false,
+      "question_en": "Five girls are sitting in a row. Rosy is not adjacent to Sivanandhini and Abi. Anuradha is not adjacent to Sivanandhini. Rosy is adjacent to Monika. Monika is a",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p018_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 18,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 67,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image shows completely different questions (dice and seating arrangement) instead of the time and work question provided in the text stem.",
+      "correct_looks_ok": false,
+      "question_en": "8 Men working 9 hours a day complete a piece of work in 20 days. In how many days can 12 men working for 10 hours a day complete the same piece of work?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p018_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 18,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 68,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image shows multiple questions and a completely different question about dice, whereas the app question is about alphabetical series.",
+      "correct_looks_ok": false,
+      "question_en": "If A1B4C9D16.....Z676 is written, what is the total value of P and Q connected terms?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p022_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 22,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 69,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop"
+      ],
+      "detail": "The image shows multiple questions, cut-off options, and text overlap.",
+      "correct_looks_ok": false,
+      "question_en": "Given below are 4 pictures of a cube. Which number is on the face opposite to 3?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p022_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 22,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 70,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "mismatch"
+      ],
+      "detail": "The image contains multiple questions and text from a completely different question (dice problem) instead of matching the number series stem.",
+      "correct_looks_ok": false,
+      "question_en": "In the given series 6 4 1 2 2 8 7 4 2 1 5 3 8, how many numbers are there each of which is immediately preceded by a different number?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p026_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 26,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 71,
+      "verdict": "KEEP",
+      "reasons": [],
+      "detail": "The image clearly shows four positions of a dice required to solve the question without any answer leaks or defects.",
+      "correct_looks_ok": true,
+      "question_en": "A dice is thrown four times and its four different positions are given below. Find the number on the face opposite the face showing 2.",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p026_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 26,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 72,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "bad_crop"
+      ],
+      "detail": "The image shows a completely different question about dice, whereas the app question text is a number series.",
+      "correct_looks_ok": false,
+      "question_en": "Find the missing term of the sequence: 7, 12, 19, 24, 43, ______, 91",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p026_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 26,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 73,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The correct option (A) is visibly ticked in the image and contains full question text with bilingual duplication.",
+      "correct_looks_ok": false,
+      "question_en": "The reading in a field book are as given below. The area of the field is",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p027_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 27,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 74,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop"
+      ],
+      "detail": "The image contains a hand-drawn tick mark directly leaking the correct option (C) and includes extra text and cut-off content from the page.",
+      "correct_looks_ok": false,
+      "question_en": "In a dice if 1 is opposite to 4 and 2 is opposite to 5, then",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p063_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 63,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 75,
+      "verdict": "DROP",
+      "reasons": [
+        "answer_leaked",
+        "bad_crop",
+        "not_picture_reasoning"
+      ],
+      "detail": "The image shows multiple questions, a hand-drawn tick mark on the correct answer, and is a verbal reasoning question that does not require a figure.",
+      "correct_looks_ok": false,
+      "question_en": "P is elder than Q. R is elder than Q but younger than P. S is elder than P but younger than T. Who is the youngest?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p064_q1.png"
+      ],
+      "batch": "Batch 3",
+      "page": 64,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 76,
+      "verdict": "DROP",
+      "reasons": [
+        "bad_crop",
+        "answer_leaked"
+      ],
+      "detail": "The image contains multiple questions and a hand-drawn tick mark next to an option in the first question.",
+      "correct_looks_ok": false,
+      "question_en": "A survey was conducted among 350 magazine subscribers of the three different magazines 'A', 'B', and 'C'. It was found that 200 members do not subscribe magazin",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p064_q2.png"
+      ],
+      "batch": "Batch 3",
+      "page": 64,
+      "source_pdf": "y2025"
+    },
+    {
+      "index": 77,
+      "verdict": "DROP",
+      "reasons": [
+        "mismatch",
+        "unusable_figure"
+      ],
+      "detail": "The question asks about rotational symmetry order for dice faces, but the English translation and options are nonsensical and do not align with the standard geometry of dice.",
+      "correct_looks_ok": false,
+      "question_en": "A standard die, two faces only given below. How are the both order of rotational symmetry?",
+      "image_urls": [
+        "/media/aptitude/reasoning/y2025_p064_q3.png"
+      ],
+      "batch": "Batch 3",
+      "page": 64,
+      "source_pdf": "y2025"
+    }
+  ],
+  "summary": {
+    "total": 77,
+    "keep": 14,
+    "drop": 63,
+    "drop_reasons": {
+      "answer_leaked": 33,
+      "bad_crop": 51,
+      "mismatch": 25,
+      "not_picture_reasoning": 15,
+      "unusable_figure": 4,
+      "wrong_topic": 2,
+      "options_broken": 1
+    }
+  }
+}

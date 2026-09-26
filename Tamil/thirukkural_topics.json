@@ -1,0 +1,164 @@
+{
+  "subject_id": "Tamil",
+  "subject_en": "Tamil",
+  "subject_ta": "தமிழ்",
+  "unit": {
+    "id": "Thirukkural",
+    "name_en": "Unit 7 — Thirukkural",
+    "name_ta": "அலகு 7 — திருக்குறள்",
+    "exam_questions": 15,
+    "syllabus_note": "TNPSC General Tamil — Unit 7 Phase 1 (திருக்குறள்)"
+  },
+  "topics": [
+    {
+      "id": "thirukkural_batch_1",
+      "name_en": "Adhikarams 1 & 2",
+      "name_ta": "ஒழுக்கமுடைமை — பொறையுடைமை",
+      "group": "திருக்குறள்",
+      "priority": 1,
+      "adhikaram_serials": [
+        1,
+        2
+      ],
+      "adhikaram_names": [
+        "ஒழுக்கமுடைமை",
+        "பொறையுடைமை"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_2",
+      "name_en": "Adhikarams 3 & 4",
+      "name_ta": "ஊக்கமுடைமை — விருந்தோம்பல்",
+      "group": "திருக்குறள்",
+      "priority": 2,
+      "adhikaram_serials": [
+        3,
+        4
+      ],
+      "adhikaram_names": [
+        "ஊக்கமுடைமை",
+        "விருந்தோம்பல்"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_3",
+      "name_en": "Adhikarams 5 & 6",
+      "name_ta": "அறன் வலியுறுத்தல் — ஈகை",
+      "group": "திருக்குறள்",
+      "priority": 3,
+      "adhikaram_serials": [
+        5,
+        6
+      ],
+      "adhikaram_names": [
+        "அறன் வலியுறுத்தல்",
+        "ஈகை"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_4",
+      "name_en": "Adhikarams 7 & 8",
+      "name_ta": "பெரியாரைத் துணைக்கோடல் — வினை செயல்வகை",
+      "group": "திருக்குறள்",
+      "priority": 4,
+      "adhikaram_serials": [
+        7,
+        8
+      ],
+      "adhikaram_names": [
+        "பெரியாரைத் துணைக்கோடல்",
+        "வினை செயல்வகை"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_5",
+      "name_en": "Adhikarams 9 & 10",
+      "name_ta": "அவை அஞ்சாமை — கண்ணோட்டம்",
+      "group": "திருக்குறள்",
+      "priority": 5,
+      "adhikaram_serials": [
+        9,
+        10
+      ],
+      "adhikaram_names": [
+        "அவை அஞ்சாமை",
+        "கண்ணோட்டம்"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_6",
+      "name_en": "Adhikarams 11 & 12",
+      "name_ta": "அன்புடைமை — கல்வி",
+      "group": "திருக்குறள்",
+      "priority": 6,
+      "adhikaram_serials": [
+        11,
+        12
+      ],
+      "adhikaram_names": [
+        "அன்புடைமை",
+        "கல்வி"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_7",
+      "name_en": "Adhikarams 13 & 14",
+      "name_ta": "நடுவுநிலைமை — கூடா ஒழுக்கம்",
+      "group": "திருக்குறள்",
+      "priority": 7,
+      "adhikaram_serials": [
+        13,
+        14
+      ],
+      "adhikaram_names": [
+        "நடுவுநிலைமை",
+        "கூடா ஒழுக்கம்"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_8",
+      "name_en": "Adhikarams 15 & 16",
+      "name_ta": "கல்லாமை — செங்கோன்மை",
+      "group": "திருக்குறள்",
+      "priority": 8,
+      "adhikaram_serials": [
+        15,
+        16
+      ],
+      "adhikaram_names": [
+        "கல்லாமை",
+        "செங்கோன்மை"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_9",
+      "name_en": "Adhikarams 17 & 18",
+      "name_ta": "பண்புடைமை — நட்பாராய்தல்",
+      "group": "திருக்குறள்",
+      "priority": 9,
+      "adhikaram_serials": [
+        17,
+        18
+      ],
+      "adhikaram_names": [
+        "பண்புடைமை",
+        "நட்பாராய்தல்"
+      ]
+    },
+    {
+      "id": "thirukkural_batch_10",
+      "name_en": "Adhikarams 19 & 20",
+      "name_ta": "புறங்கூறாமை — அருளுடைமை",
+      "group": "திருக்குறள்",
+      "priority": 10,
+      "adhikaram_serials": [
+        19,
+        20
+      ],
+      "adhikaram_names": [
+        "புறங்கூறாமை",
+        "அருளுடைமை"
+      ]
+    }
+  ]
+}

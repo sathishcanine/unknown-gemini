@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "From which book is the excerpt 'Learning the Game' extracted?",
+    "question_ta": "From which book is the excerpt 'Learning the Game' extracted?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Straight from the Heart",
+        "text_ta": "Straight from the Heart"
+      },
+      {
+        "key": "B",
+        "text_en": "Playing It My Way",
+        "text_ta": "Playing It My Way"
+      },
+      {
+        "key": "C",
+        "text_en": "Sunny Days",
+        "text_ta": "Sunny Days"
+      },
+      {
+        "key": "D",
+        "text_en": "Century Is Not Enough",
+        "text_ta": "Century Is Not Enough"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The prose 'Learning the Game' is an extract from Sachin Tendulkar's autobiography titled 'Playing It My Way'.",
+    "explanation_ta": "The prose 'Learning the Game' is an extract from Sachin Tendulkar's autobiography titled 'Playing It My Way'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "R2: 'Learning the Game' is an extract from his autobiography, Playing it My Way."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who was Sachin Tendulkar's strict cricket coach mentioned in the lesson?",
+    "question_ta": "Who was Sachin Tendulkar's strict cricket coach mentioned in the lesson?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ramakant Achrekar",
+        "text_ta": "Ramakant Achrekar"
+      },
+      {
+        "key": "B",
+        "text_en": "Kapil Dev",
+        "text_ta": "Kapil Dev"
+      },
+      {
+        "key": "C",
+        "text_en": "Sunil Gavaskar",
+        "text_ta": "Sunil Gavaskar"
+      },
+      {
+        "key": "D",
+        "text_en": "Sanjay Manjrekar",
+        "text_ta": "Sanjay Manjrekar"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ramakant Achrekar was Sachin's coach who imparted rigorous training and mentorship at Shivaji Park.",
+    "explanation_ta": "Ramakant Achrekar was Sachin's coach who imparted rigorous training and mentorship at Shivaji Park.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "C2: Ramakant Achrekar — Cricket coach and strict mentor"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "At which venue did Sachin Tendulkar undergo his early cricket training sessions?",
+    "question_ta": "At which venue did Sachin Tendulkar undergo his early cricket training sessions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Shivaji Park",
+        "text_ta": "Shivaji Park"
+      },
+      {
+        "key": "B",
+        "text_en": "Brabourne Stadium",
+        "text_ta": "Brabourne Stadium"
+      },
+      {
+        "key": "C",
+        "text_en": "Eden Gardens",
+        "text_ta": "Eden Gardens"
+      },
+      {
+        "key": "D",
+        "text_en": "Wankhede Stadium",
+        "text_ta": "Wankhede Stadium"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sachin's coaching sessions under Achrekar took place at Shivaji Park in Mumbai.",
+    "explanation_ta": "Sachin's coaching sessions under Achrekar took place at Shivaji Park in Mumbai.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "R5: The coaching sessions took place at Shivaji Park, Mumbai."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who played a pivotal role by taking Sachin to Ramakant Achrekar for his first formal coaching trial?",
+    "question_ta": "Who played a pivotal role by taking Sachin to Ramakant Achrekar for his first formal coaching trial?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "His uncle, Vinayak",
+        "text_ta": "His uncle, Vinayak"
+      },
+      {
+        "key": "B",
+        "text_en": "His friend, Atul Ranade",
+        "text_ta": "His friend, Atul Ranade"
+      },
+      {
+        "key": "C",
+        "text_en": "His father, Ramesh Tendulkar",
+        "text_ta": "His father, Ramesh Tendulkar"
+      },
+      {
+        "key": "D",
+        "text_en": "His brother, Ajit Tendulkar",
+        "text_ta": "His brother, Ajit Tendulkar"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Sachin's brother Ajit intervened and took him to the camp after Sachin felt initially nervous.",
+    "explanation_ta": "Sachin's brother Ajit intervened and took him to the camp after Sachin felt initially nervous.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Summary & Sachin Tendulkar recounts..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What unique incentive did coach Achrekar place on the stumps during the intense 15-minute net sessions?",
+    "question_ta": "What unique incentive did coach Achrekar place on the stumps during the intense 15-minute net sessions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A one-rupee coin",
+        "text_ta": "A one-rupee coin"
+      },
+      {
+        "key": "B",
+        "text_en": "A silver coin",
+        "text_ta": "A silver coin"
+      },
+      {
+        "key": "C",
+        "text_en": "A five-rupee note",
+        "text_ta": "A five-rupee note"
+      },
+      {
+        "key": "D",
+        "text_en": "A gold medal",
+        "text_ta": "A gold medal"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Achrekar Sir would place a one-rupee coin on the stumps for the batsman to win by not getting out.",
+    "explanation_ta": "Achrekar Sir would place a one-rupee coin on the stumps for the batsman to win by not getting out.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "R3: Achrekar Sir would place a one-rupee coin on the stumps..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why did coach Achrekar place a one-rupee coin on the top of the stumps?",
+    "question_ta": "Why did coach Achrekar place a one-rupee coin on the top of the stumps?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To collect funds for the cricket club",
+        "text_ta": "To collect funds for the cricket club"
+      },
+      {
+        "key": "B",
+        "text_en": "To test the quality of the wooden stumps",
+        "text_ta": "To test the quality of the wooden stumps"
+      },
+      {
+        "key": "C",
+        "text_en": "To train Sachin to concentrate under pressure",
+        "text_ta": "To train Sachin to concentrate under pressure"
+      },
+      {
+        "key": "D",
+        "text_en": "To reward the highest run-scorer",
+        "text_ta": "To reward the highest run-scorer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The coin served as a psychological tool to build extreme concentration and resilience under fatigue.",
+    "explanation_ta": "The coin served as a psychological tool to build extreme concentration and resilience under fatigue.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "R3: Achrekar Sir would place a one-rupee coin on the stumps to train Sachin to concentrate under pressure."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which school did Sachin transfer to in order to pursue serious cricket training under his coach's guidance?",
+    "question_ta": "Which school did Sachin transfer to in order to pursue serious cricket training under his coach's guidance?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Don Bosco High School",
+        "text_ta": "Don Bosco High School"
+      },
+      {
+        "key": "B",
+        "text_en": "Cathedral High School",
+        "text_ta": "Cathedral High School"
+      },
+      {
+        "key": "C",
+        "text_en": "Shardashram Vidyamandir",
+        "text_ta": "Shardashram Vidyamandir"
+      },
+      {
+        "key": "D",
+        "text_en": "St. Mary's School",
+        "text_ta": "St. Mary's School"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Achrekar wanted Sachin to change schools to Shardashram Vidyamandir because it had better cricket facilities.",
+    "explanation_ta": "Achrekar wanted Sachin to change schools to Shardashram Vidyamandir because it had better cricket facilities.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "W2: Why was Sachin asked to change the school? ... Shardashram Vidyamandir."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What condition did Sachin's father lay down before approving his school transfer?",
+    "question_ta": "What condition did Sachin's father lay down before approving his school transfer?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "He should change schools only if he was really serious about playing cricket",
+        "text_ta": "He should change schools only if he was really serious about playing cricket"
+      },
+      {
+        "key": "B",
+        "text_en": "He must top his academic board examinations",
+        "text_ta": "He must top his academic board examinations"
+      },
+      {
+        "key": "C",
+        "text_en": "He must cycle to school every day",
+        "text_ta": "He must cycle to school every day"
+      },
+      {
+        "key": "D",
+        "text_en": "He must score a century every week",
+        "text_ta": "He must score a century every week"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sachin's father agreed to the transition only on the strict condition that Sachin possessed genuine dedication to the sport.",
+    "explanation_ta": "Sachin's father agreed to the transition only on the strict condition that Sachin possessed genuine dedication to the sport.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "W3: What was the condition laid down by Sachin’s father for changing the school?"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What served as a very personal coaching manual for Sachin during his formative years?",
+    "question_ta": "What served as a very personal coaching manual for Sachin during his formative years?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A textbook on cricket strokes by Sunil Gavaskar",
+        "text_ta": "A textbook on cricket strokes by Sunil Gavaskar"
+      },
+      {
+        "key": "B",
+        "text_en": "A note containing thoughts about batting given by his brother Ajit",
+        "text_ta": "A note containing thoughts about batting given by his brother Ajit"
+      },
+      {
+        "key": "C",
+        "text_en": "A coaching diary given by Achrekar Sir",
+        "text_ta": "A coaching diary given by Achrekar Sir"
+      },
+      {
+        "key": "D",
+        "text_en": "A handwritten letter from his father",
+        "text_ta": "A handwritten letter from his father"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ajit Tendulkar gave Sachin a note regarding batting thoughts that acted as a personal manual.",
+    "explanation_ta": "Ajit Tendulkar gave Sachin a note regarding batting thoughts that acted as a personal manual.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "W1: What did serve as a very personal coaching manual to Sachin?"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What household chore did Sachin have to perform daily due to having only one set of cricket clothes?",
+    "question_ta": "What household chore did Sachin have to perform daily due to having only one set of cricket clothes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Polishing his cricket boots",
+        "text_ta": "Polishing his cricket boots"
+      },
+      {
+        "key": "B",
+        "text_en": "Stitching his batting pads",
+        "text_ta": "Stitching his batting pads"
+      },
+      {
+        "key": "C",
+        "text_en": "Washing his cricket clothes immediately after practice",
+        "text_ta": "Washing his cricket clothes immediately after practice"
+      },
+      {
+        "key": "D",
+        "text_en": "Ironing his uniform",
+        "text_ta": "Ironing his uniform"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sachin had to wash his single set of cricket clothes after every morning session so they would dry out for the evening session.",
+    "explanation_ta": "Sachin had to wash his single set of cricket clothes after every morning session so they would dry out for the evening session.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Prose Excerpts: ... washing his only set of cricket clothes daily..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the famous moral advice given by coach Achrekar to Sachin: 'If you practice hard enough, one day people from across the world will...'",
+    "question_ta": "Complete the famous moral advice given by coach Achrekar to Sachin: 'If you practice hard enough, one day people from across the world will...'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "remember your records'",
+        "text_ta": "remember your records'"
+      },
+      {
+        "key": "B",
+        "text_en": "come and watch you play'",
+        "text_ta": "come and watch you play'"
+      },
+      {
+        "key": "C",
+        "text_en": "praise your sportsmanship'",
+        "text_ta": "praise your sportsmanship'"
+      },
+      {
+        "key": "D",
+        "text_en": "come and read about you'",
+        "text_ta": "come and read about you'"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Achrekar motivated Sachin by predicting that tireless hard work would make global audiences come to watch him.",
+    "explanation_ta": "Achrekar motivated Sachin by predicting that tireless hard work would make global audiences come to watch him.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "R4: 'If you practice hard enough, one day people from across the world will come and watch you play.'"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the glossary word 'emulate'?",
+    "question_ta": "What is the meaning of the glossary word 'emulate'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "To distance oneself from a group",
+        "text_ta": "To distance oneself from a group"
+      },
+      {
+        "key": "B",
+        "text_en": "To oppose strongly in a debate",
+        "text_ta": "To oppose strongly in a debate"
+      },
+      {
+        "key": "C",
+        "text_en": "To match or surpass typically by imitation",
+        "text_ta": "To match or surpass typically by imitation"
+      },
+      {
+        "key": "D",
+        "text_en": "To criticize openly in public",
+        "text_ta": "To criticize openly in public"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary defines 'emulate' as to match or surpass typically by imitation.",
+    "explanation_ta": "The glossary defines 'emulate' as to match or surpass typically by imitation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "G1: emulate = to match or surpass typically by imitation"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct meaning of the term 'overawed' as given in the vocabulary glossary.",
+    "question_ta": "Choose the correct meaning of the term 'overawed' as given in the vocabulary glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Extremely tired due to physical exertion",
+        "text_ta": "Extremely tired due to physical exertion"
+      },
+      {
+        "key": "B",
+        "text_en": "Filled with anger and resentment",
+        "text_ta": "Filled with anger and resentment"
+      },
+      {
+        "key": "C",
+        "text_en": "Confused by a large gathering",
+        "text_ta": "Confused by a large gathering"
+      },
+      {
+        "key": "D",
+        "text_en": "Impressed so much that they are silent or inhibited",
+        "text_ta": "Impressed so much that they are silent or inhibited"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G2 defines 'overawed' as being impressed so much that one becomes silent or inhibited.",
+    "explanation_ta": "Glossary item G2 defines 'overawed' as being impressed so much that one becomes silent or inhibited.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "G2: overawed = impressed so much that they are silent or inhibited"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'rigorous' signify?",
+    "question_ta": "What does the glossary term 'rigorous' signify?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Casual and relaxed",
+        "text_ta": "Casual and relaxed"
+      },
+      {
+        "key": "B",
+        "text_en": "Brief and incomplete",
+        "text_ta": "Brief and incomplete"
+      },
+      {
+        "key": "C",
+        "text_en": "Rough and disorganized",
+        "text_ta": "Rough and disorganized"
+      },
+      {
+        "key": "D",
+        "text_en": "Extremely thorough and careful",
+        "text_ta": "Extremely thorough and careful"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the text glossary, 'rigorous' means extremely thorough and careful.",
+    "explanation_ta": "According to the text glossary, 'rigorous' means extremely thorough and careful.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "G3: rigorous = extremely thorough and careful"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct definition of 'stamina' from the lesson's glossary.",
+    "question_ta": "Identify the correct definition of 'stamina' from the lesson's glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The tactical skill required in team sports",
+        "text_ta": "The tactical skill required in team sports"
+      },
+      {
+        "key": "B",
+        "text_en": "The mental pressure experienced during a match",
+        "text_ta": "The mental pressure experienced during a match"
+      },
+      {
+        "key": "C",
+        "text_en": "The ability to sustain prolonged physical and mental effort",
+        "text_ta": "The ability to sustain prolonged physical and mental effort"
+      },
+      {
+        "key": "D",
+        "text_en": "The speed at which a runner completes a sprint",
+        "text_ta": "The speed at which a runner completes a sprint"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G4 defines stamina as the ability to sustain prolonged physical and mental effort.",
+    "explanation_ta": "Glossary G4 defines stamina as the ability to sustain prolonged physical and mental effort.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "G4: stamina = the ability to sustain prolonged physical and mental effort"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does 'melee' mean in the context of vocabulary?",
+    "question_ta": "What does 'melee' mean in the context of vocabulary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A peaceful assembly of mentors",
+        "text_ta": "A peaceful assembly of mentors"
+      },
+      {
+        "key": "B",
+        "text_en": "A structured training schedule",
+        "text_ta": "A structured training schedule"
+      },
+      {
+        "key": "C",
+        "text_en": "A confused crowd of people",
+        "text_ta": "A confused crowd of people"
+      },
+      {
+        "key": "D",
+        "text_en": "A sudden stroke in cricket",
+        "text_ta": "A sudden stroke in cricket"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G5 defines 'melee' as a confused crowd of people.",
+    "explanation_ta": "Glossary G5 defines 'melee' as a confused crowd of people.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "G5: melee = a confused crowd of people"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Define 'farsightedness' according to the glossary provided in the text.",
+    "question_ta": "Define 'farsightedness' according to the glossary provided in the text.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Inability to see distant objects clearly",
+        "text_ta": "Inability to see distant objects clearly"
+      },
+      {
+        "key": "B",
+        "text_en": "Focusing only on immediate results",
+        "text_ta": "Focusing only on immediate results"
+      },
+      {
+        "key": "C",
+        "text_en": "Showing a prudent awareness of future possibilities",
+        "text_ta": "Showing a prudent awareness of future possibilities"
+      },
+      {
+        "key": "D",
+        "text_en": "Having a nostalgic view of the past",
+        "text_ta": "Having a nostalgic view of the past"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G6 defines 'farsightedness' as showing a prudent awareness of future possibilities.",
+    "explanation_ta": "Glossary G6 defines 'farsightedness' as showing a prudent awareness of future possibilities.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "G6: farsightedness = showing a prudent awareness of future possibilities"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "When was Sachin Tendulkar born, as established in the biographical facts?",
+    "question_ta": "When was Sachin Tendulkar born, as established in the biographical facts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "24th June 1972",
+        "text_ta": "24th June 1972"
+      },
+      {
+        "key": "B",
+        "text_en": "10th November 1974",
+        "text_ta": "10th November 1974"
+      },
+      {
+        "key": "C",
+        "text_en": "15th August 1975",
+        "text_ta": "15th August 1975"
+      },
+      {
+        "key": "D",
+        "text_en": "24th April 1973",
+        "text_ta": "24th April 1973"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Fact R1 states that Sachin Tendulkar was born on 24th April 1973 in Mumbai.",
+    "explanation_ta": "Fact R1 states that Sachin Tendulkar was born on 24th April 1973 in Mumbai.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "R1: Sachin Tendulkar was born on 24th April 1973 in Mumbai."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Sachin initially feel when he first joined the cricket camp at Shivaji Park?",
+    "question_ta": "How did Sachin initially feel when he first joined the cricket camp at Shivaji Park?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Extremely confident and arrogant",
+        "text_ta": "Extremely confident and arrogant"
+      },
+      {
+        "key": "B",
+        "text_en": "Nervous and overawed",
+        "text_ta": "Nervous and overawed"
+      },
+      {
+        "key": "C",
+        "text_en": "Angry and rebellious",
+        "text_ta": "Angry and rebellious"
+      },
+      {
+        "key": "D",
+        "text_en": "Indifferent and bored",
+        "text_ta": "Indifferent and bored"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sachin was initially nervous and overawed before his brother Ajit intervened to help him get accepted.",
+    "explanation_ta": "Sachin was initially nervous and overawed before his brother Ajit intervened to help him get accepted.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Prose Excerpts: Initially nervous, Sachin was accepted into the camp only after his brother Ajit intervened."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of narrative account is presented in 'Learning the Game'?",
+    "question_ta": "What type of narrative account is presented in 'Learning the Game'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A historical biography of Indian cricket captains",
+        "text_ta": "A historical biography of Indian cricket captains"
+      },
+      {
+        "key": "B",
+        "text_en": "A fictional short story about village cricket",
+        "text_ta": "A fictional short story about village cricket"
+      },
+      {
+        "key": "C",
+        "text_en": "A satirical essay on sports management",
+        "text_ta": "A satirical essay on sports management"
+      },
+      {
+        "key": "D",
+        "text_en": "A motivational autobiographical account of overcoming challenges",
+        "text_ta": "A motivational autobiographical account of overcoming challenges"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The summary notes that the narrative serves as a motivational account of overcoming physical and mental challenges to achieve excellence.",
+    "explanation_ta": "The summary notes that the narrative serves as a motivational account of overcoming physical and mental challenges to achieve excellence.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Summary: The narrative serves as a motivational account of overcoming physical and mental challenges..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following describes coach Ramakant Achrekar's guidance style as highlighted in the text?",
+    "question_ta": "Which of the following describes coach Ramakant Achrekar's guidance style as highlighted in the text?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Farsighted and disciplined",
+        "text_ta": "Farsighted and disciplined"
+      },
+      {
+        "key": "B",
+        "text_en": "Theoretical and non-practical",
+        "text_ta": "Theoretical and non-practical"
+      },
+      {
+        "key": "C",
+        "text_en": "Lenient and casual",
+        "text_ta": "Lenient and casual"
+      },
+      {
+        "key": "D",
+        "text_en": "Indifferent and distant",
+        "text_ta": "Indifferent and distant"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sachin credits his success to his brother's support and his coach's farsighted guidance and strict discipline.",
+    "explanation_ta": "Sachin credits his success to his brother's support and his coach's farsighted guidance and strict discipline.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Summary & C2: Ramakant Achrekar — Cricket coach and strict mentor"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What core values are primarily highlighted throughout Sachin Tendulkar's training journey in this lesson?",
+    "question_ta": "What core values are primarily highlighted throughout Sachin Tendulkar's training journey in this lesson?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Hard work, discipline, and mentor-student relationship",
+        "text_ta": "Hard work, discipline, and mentor-student relationship"
+      },
+      {
+        "key": "B",
+        "text_en": "Fame, wealth, and media recognition",
+        "text_ta": "Fame, wealth, and media recognition"
+      },
+      {
+        "key": "C",
+        "text_en": "Speed, luxury, and individual glory",
+        "text_ta": "Speed, luxury, and individual glory"
+      },
+      {
+        "key": "D",
+        "text_en": "Luck, coincidence, and natural talent alone",
+        "text_ta": "Luck, coincidence, and natural talent alone"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The summary emphasizes that the lesson highlights the importance of hard work, discipline, and the mentor-student relationship.",
+    "explanation_ta": "The summary emphasizes that the lesson highlights the importance of hard work, discipline, and the mentor-student relationship.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Summary: It highlights the importance of hard work, discipline, and the mentor-student relationship..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did the rigorous training schedule under Achrekar primarily consist of?",
+    "question_ta": "What did the rigorous training schedule under Achrekar primarily consist of?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Morning and evening practice sessions",
+        "text_ta": "Morning and evening practice sessions"
+      },
+      {
+        "key": "B",
+        "text_en": "Only afternoon practice sessions",
+        "text_ta": "Only afternoon practice sessions"
+      },
+      {
+        "key": "C",
+        "text_en": "Gym workouts without net practice",
+        "text_ta": "Gym workouts without net practice"
+      },
+      {
+        "key": "D",
+        "text_en": "Weekly theory classes and video analysis",
+        "text_ta": "Weekly theory classes and video analysis"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The rigorous training included demanding morning and evening sessions at Shivaji Park.",
+    "explanation_ta": "The rigorous training included demanding morning and evening sessions at Shivaji Park.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Prose Excerpts: The rigorous training included morning and evening sessions..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is credited with providing crucial support and being the guiding force behind Sachin's cricketing career?",
+    "question_ta": "Who is credited with providing crucial support and being the guiding force behind Sachin's cricketing career?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "His team captain",
+        "text_ta": "His team captain"
+      },
+      {
+        "key": "B",
+        "text_en": "His brother Ajit Tendulkar",
+        "text_ta": "His brother Ajit Tendulkar"
+      },
+      {
+        "key": "C",
+        "text_en": "His school principal",
+        "text_ta": "His school principal"
+      },
+      {
+        "key": "D",
+        "text_en": "His childhood neighbor",
+        "text_ta": "His childhood neighbor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sachin explicitly credits his success to his brother Ajit's support and his coach's farsighted guidance.",
+    "explanation_ta": "Sachin explicitly credits his success to his brother Ajit's support and his coach's farsighted guidance.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "Summary: Sachin credits his success to his brother Ajit's support..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "Learning the Game",
+    "topic": "Learning the Game",
+    "topic_id": "learning_the_game",
+    "topic_ta": "Learning the Game",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which game is the central subject of the lesson 'Learning the Game'?",
+    "question_ta": "Which game is the central subject of the lesson 'Learning the Game'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Football",
+        "text_ta": "Football"
+      },
+      {
+        "key": "B",
+        "text_en": "Basketball",
+        "text_ta": "Basketball"
+      },
+      {
+        "key": "C",
+        "text_en": "Cricket",
+        "text_ta": "Cricket"
+      },
+      {
+        "key": "D",
+        "text_en": "Hockey",
+        "text_ta": "Hockey"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The entire prose revolves around Sachin Tendulkar learning and mastering the game of cricket.",
+    "explanation_ta": "The entire prose revolves around Sachin Tendulkar learning and mastering the game of cricket.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "learning_the_game",
+    "source_note": "PYQ P6: Which game is mentioned in this lesson 'Learning the Game'?"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "subject": "Current Affairs",
+  "total": 240,
+  "drop_count": 1,
+  "drop_ids": [
+    5227
+  ],
+  "by_reason": {
+    "match_incomplete": 1
+  },
+  "by_topic": {
+    "Current Affairs : March 2026": 1
+  },
+  "items": [
+    {
+      "id": 5227,
+      "topic": "Current Affairs : March 2026",
+      "reasons": [
+        "match_incomplete"
+      ],
+      "stem": "Match the following regarding recent developments in India: a) First Quantum Computer Launch b) First Dark Sky Park in Tamil Nadu c) 60th Jnanpith Award Recipient d) UCC Bill 2026 state",
+      "opts": [
+        [
+          "A",
+          "1-c, 2-d, 3-a, 4-b"
+        ],
+        [
+          "B",
+          "a-4, b-3, c-1, d-2"
+        ],
+        [
+          "C",
+          "a-2, b-4, c-1, d-3"
+        ],
+        [
+          "D",
+          "a-1, b-3, c-2, d-4"
+        ]
+      ],
+      "batch": "Batch 1"
+    }
+  ]
+}

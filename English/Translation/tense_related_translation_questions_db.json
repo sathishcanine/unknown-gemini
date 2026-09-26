@@ -1,0 +1,3452 @@
+[
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which tense is primarily used to express habitual actions and universal truths according to the framework?",
+    "question_ta": "Which tense is primarily used to express habitual actions and universal truths according to the framework?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Future Perfect Tense",
+        "text_ta": "Future Perfect Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Simple Present Tense",
+        "text_ta": "Simple Present Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Past Continuous Tense",
+        "text_ta": "Past Continuous Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Present Continuous Tense",
+        "text_ta": "Present Continuous Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R1 states that Simple Present Tense is used to express habitual actions and universal truths.",
+    "explanation_ta": "Rule R1 states that Simple Present Tense is used to express habitual actions and universal truths.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil translation for the habitual action 'She reads books every evening.'",
+    "question_ta": "Identify the correct Tamil translation for the habitual action 'She reads books every evening.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவள் புத்தகம் படித்துக் கொண்டிருக்கிறாள்.",
+        "text_ta": "அவள் புத்தகம் படித்துக் கொண்டிருக்கிறாள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவள் நேற்று புத்தகம் படித்தாள்.",
+        "text_ta": "அவள் நேற்று புத்தகம் படித்தாள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவள் புத்தகம் வாசித்திருப்பாள்.",
+        "text_ta": "அவள் புத்தகம் வாசித்திருப்பாள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவள் தினமும் மாலை புத்தகங்கள் வாசிக்கிறாள்.",
+        "text_ta": "அவள் தினமும் மாலை புத்தகங்கள் வாசிக்கிறாள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Translation pair T1 directly matches 'She reads books every evening.' with 'அவள் தினமும் மாலை புத்தகங்கள் வாசிக்கிறாள்.'",
+    "explanation_ta": "Translation pair T1 directly matches 'She reads books every evening.' with 'அவள் தினமும் மாலை புத்தகங்கள் வாசிக்கிறாள்.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Translation Pair T1"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the Present Continuous tense indicate?",
+    "question_ta": "What does the Present Continuous tense indicate?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Actions happening at the moment of speaking",
+        "text_ta": "Actions happening at the moment of speaking"
+      },
+      {
+        "key": "B",
+        "text_en": "Actions completed before another past action",
+        "text_ta": "Actions completed before another past action"
+      },
+      {
+        "key": "C",
+        "text_en": "Actions completed in the recent past",
+        "text_ta": "Actions completed in the recent past"
+      },
+      {
+        "key": "D",
+        "text_en": "Habitual actions and universal truths",
+        "text_ta": "Habitual actions and universal truths"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R3 explicitly states that Present Continuous tense is used to indicate actions happening at the moment of speaking.",
+    "explanation_ta": "Rule R3 explicitly states that Present Continuous tense is used to indicate actions happening at the moment of speaking.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil equivalent for the universal truth 'The sun rises in the east.'?",
+    "question_ta": "What is the Tamil equivalent for the universal truth 'The sun rises in the east.'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நீர் கொதிக்கிறது.",
+        "text_ta": "நீர் கொதிக்கிறது."
+      },
+      {
+        "key": "B",
+        "text_en": "சூரியன் மேற்கில் மறைகிறது.",
+        "text_ta": "சூரியன் மேற்கில் மறைகிறது."
+      },
+      {
+        "key": "C",
+        "text_en": "சூரியன் கிழக்கில் உதிக்கிறது.",
+        "text_ta": "சூரியன் கிழக்கில் உதிக்கிறது."
+      },
+      {
+        "key": "D",
+        "text_en": "ரயில் வருகிறது.",
+        "text_ta": "ரயில் வருகிறது."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G5 and translation pair T5 show that 'The sun rises' translates to 'சூரியன் கிழக்கில் உதிக்கிறது.'",
+    "explanation_ta": "Glossary item G5 and translation pair T5 show that 'The sun rises' translates to 'சூரியன் கிழக்கில் உதிக்கிறது.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Translation Pair T5 / Glossary G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which tense indicates a completed action with present relevance, often translated using completed action markers in Tamil?",
+    "question_ta": "Which tense indicates a completed action with present relevance, often translated using completed action markers in Tamil?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Present Perfect Tense",
+        "text_ta": "Present Perfect Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Simple Present Tense",
+        "text_ta": "Simple Present Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Past Continuous Tense",
+        "text_ta": "Past Continuous Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Future Continuous Tense",
+        "text_ta": "Future Continuous Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R6 defines the function of the Present Perfect Tense as indicating a completed action with present relevance.",
+    "explanation_ta": "Rule R6 defines the function of the Present Perfect Tense as indicating a completed action with present relevance.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R6"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the English meaning and tense category for the Tamil phrase 'முடித்துவிட்டாள்'?",
+    "question_ta": "What is the English meaning and tense category for the Tamil phrase 'முடித்துவிட்டாள்'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Had finished - past action",
+        "text_ta": "Had finished - past action"
+      },
+      {
+        "key": "B",
+        "text_en": "Will finish - scheduled action",
+        "text_ta": "Will finish - scheduled action"
+      },
+      {
+        "key": "C",
+        "text_en": "Is finishing - ongoing action",
+        "text_ta": "Is finishing - ongoing action"
+      },
+      {
+        "key": "D",
+        "text_en": "Has finished - completed action",
+        "text_ta": "Has finished - completed action"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G29 lists 'Has finished = completed action | TA:முடித்துவிட்டாள்'.",
+    "explanation_ta": "Glossary item G29 lists 'Has finished = completed action | TA:முடித்துவிட்டாள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G29"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which structure is used for the Past Continuous tense to denote ongoing actions in the past?",
+    "question_ta": "Which structure is used for the Past Continuous tense to denote ongoing actions in the past?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was/were + verb-ing",
+        "text_ta": "was/were + verb-ing"
+      },
+      {
+        "key": "B",
+        "text_en": "had + past participle",
+        "text_ta": "had + past participle"
+      },
+      {
+        "key": "C",
+        "text_en": "will + verb root",
+        "text_ta": "will + verb root"
+      },
+      {
+        "key": "D",
+        "text_en": "has/have + past participle",
+        "text_ta": "has/have + past participle"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13 notes that Past Continuous tense uses 'was/were' + verb-ing to denote ongoing actions in the past.",
+    "explanation_ta": "Rule R13 notes that Past Continuous tense uses 'was/were' + verb-ing to denote ongoing actions in the past.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R13"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct translation for the ongoing past action: 'She was reading.'",
+    "question_ta": "Identify the correct translation for the ongoing past action: 'She was reading.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "படித்துவிட்டாள்",
+        "text_ta": "படித்துவிட்டாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "படிக்கிறாள்",
+        "text_ta": "படிக்கிறாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "படித்துக் கொண்டிருந்தாள்",
+        "text_ta": "படித்துக் கொண்டிருந்தாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "படிப்பாள்",
+        "text_ta": "படிப்பாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G47 and G66 highlight that 'Was reading' translates to 'படித்துக் கொண்டிருந்தாள்'.",
+    "explanation_ta": "Glossary G47 and G66 highlight that 'Was reading' translates to 'படித்துக் கொண்டிருந்தாள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G47"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the primary grammatical focus of the Past Perfect tense?",
+    "question_ta": "What is the primary grammatical focus of the Past Perfect tense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "An action completed before another past action occurred",
+        "text_ta": "An action completed before another past action occurred"
+      },
+      {
+        "key": "B",
+        "text_en": "A habitual action performed every day",
+        "text_ta": "A habitual action performed every day"
+      },
+      {
+        "key": "C",
+        "text_en": "An ongoing action in the present moment",
+        "text_ta": "An ongoing action in the present moment"
+      },
+      {
+        "key": "D",
+        "text_en": "An action happening at a specific time in the future",
+        "text_ta": "An action happening at a specific time in the future"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R16 specifies that Past Perfect Tense describes an action that was completed before another past action occurred.",
+    "explanation_ta": "Rule R16 specifies that Past Perfect Tense describes an action that was completed before another past action occurred.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the Present Perfect Continuous tense describe?",
+    "question_ta": "What does the Present Perfect Continuous tense describe?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "An action completed before another past action",
+        "text_ta": "An action completed before another past action"
+      },
+      {
+        "key": "B",
+        "text_en": "An action that started in the past and is still continuing in the present",
+        "text_ta": "An action that started in the past and is still continuing in the present"
+      },
+      {
+        "key": "C",
+        "text_en": "An action happening only at the moment of speech",
+        "text_ta": "An action happening only at the moment of speech"
+      },
+      {
+        "key": "D",
+        "text_en": "A planned future event",
+        "text_ta": "A planned future event"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R8 states that Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+    "explanation_ta": "Rule R8 states that Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R8"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How is the Future Continuous tense typically translated into Tamil?",
+    "question_ta": "How is the Future Continuous tense typically translated into Tamil?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "[Verb root] + [உதிக்கிறது]",
+        "text_ta": "[Verb root] + [உதிக்கிறது]"
+      },
+      {
+        "key": "B",
+        "text_en": "[Verb root] + [கொண்டிருந்தாள்]",
+        "text_ta": "[Verb root] + [கொண்டிருந்தாள்]"
+      },
+      {
+        "key": "C",
+        "text_en": "[Verb root] + [விட்டான்]",
+        "text_ta": "[Verb root] + [விட்டான்]"
+      },
+      {
+        "key": "D",
+        "text_en": "[Verb root] + [கொண்டிருப்பேன்/இருப்பார்]",
+        "text_ta": "[Verb root] + [கொண்டிருப்பேன்/இருப்பார்]"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R24 indicates that Future Continuous tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+    "explanation_ta": "Rule R24 indicates that Future Continuous tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R24"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation for the completed past action 'Built'?",
+    "question_ta": "What is the Tamil translation for the completed past action 'Built'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கட்டிக் கொண்டிருக்கிறார்கள்",
+        "text_ta": "கட்டிக் கொண்டிருக்கிறார்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "கட்டினார்கள்",
+        "text_ta": "கட்டினார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "கட்டியிருப்பார்கள்",
+        "text_ta": "கட்டியிருப்பார்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "கட்டுவார்கள்",
+        "text_ta": "கட்டுவார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G44 states 'Built = completed action in the past | TA:கட்டினார்கள்'.",
+    "explanation_ta": "Glossary item G44 states 'Built = completed action in the past | TA:கட்டினார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G44"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which tense is used to express scheduled, planned, intended, or expected events using 'will' in Tamil translation?",
+    "question_ta": "Which tense is used to express scheduled, planned, intended, or expected events using 'will' in Tamil translation?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The simple future tense",
+        "text_ta": "The simple future tense"
+      },
+      {
+        "key": "B",
+        "text_en": "The simple past tense",
+        "text_ta": "The simple past tense"
+      },
+      {
+        "key": "C",
+        "text_en": "The past perfect tense",
+        "text_ta": "The past perfect tense"
+      },
+      {
+        "key": "D",
+        "text_en": "The present continuous tense",
+        "text_ta": "The present continuous tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R23 states that the simple future tense ('will') is used in Tamil translation to express scheduled, planned, intended, or expected events.",
+    "explanation_ta": "Rule R23 states that the simple future tense ('will') is used in Tamil translation to express scheduled, planned, intended, or expected events.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R23"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Match the English verb 'Will have built' with its correct Tamil translation from the glossary.",
+    "question_ta": "Match the English verb 'Will have built' with its correct Tamil translation from the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கட்டுகின்றனர்",
+        "text_ta": "கட்டுகின்றனர்"
+      },
+      {
+        "key": "B",
+        "text_en": "கட்டினார்கள்",
+        "text_ta": "கட்டினார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "கட்டிக் கொண்டிருப்பார்கள்",
+        "text_ta": "கட்டிக் கொண்டிருப்பார்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "கட்டியிருப்பார்கள்",
+        "text_ta": "கட்டியிருப்பார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G86 gives 'Will have built = Action completed before a specific future time | TA:கட்டியிருப்பார்கள்'.",
+    "explanation_ta": "Glossary item G86 gives 'Will have built = Action completed before a specific future time | TA:கட்டியிருப்பார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G86"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the Future Perfect Tense indicate?",
+    "question_ta": "What does the Future Perfect Tense indicate?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A routine habit performed daily",
+        "text_ta": "A routine habit performed daily"
+      },
+      {
+        "key": "B",
+        "text_en": "An action that will be completed before a specific time in the future",
+        "text_ta": "An action that will be completed before a specific time in the future"
+      },
+      {
+        "key": "C",
+        "text_en": "An action happening right now in the present",
+        "text_ta": "An action happening right now in the present"
+      },
+      {
+        "key": "D",
+        "text_en": "An ongoing action in the past before an event",
+        "text_ta": "An ongoing action in the past before an event"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R28 states that Future Perfect Tense indicates an action that will be completed before a specific time in the future.",
+    "explanation_ta": "Rule R28 states that Future Perfect Tense indicates an action that will be completed before a specific time in the future.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R28"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the Tamil meaning for the action happening now: 'Cooking'.",
+    "question_ta": "Identify the Tamil meaning for the action happening now: 'Cooking'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "சமைத்தார்",
+        "text_ta": "சமைத்தார்"
+      },
+      {
+        "key": "B",
+        "text_en": "சமைத்திருப்பாள்",
+        "text_ta": "சமைத்திருப்பாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "சமைத்துக் கொண்டிருந்தாள்",
+        "text_ta": "சமைத்துக் கொண்டிருந்தாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "சமைக்கிறாள்",
+        "text_ta": "சமைக்கிறாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G17 specifies 'Cooking = action happening now | TA:சமைக்கிறாள்'.",
+    "explanation_ta": "Glossary item G17 specifies 'Cooking = action happening now | TA:சமைக்கிறாள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G17"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What tense formula is used for 'Future Perfect Tense'?",
+    "question_ta": "What tense formula is used for 'Future Perfect Tense'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "had + past participle",
+        "text_ta": "had + past participle"
+      },
+      {
+        "key": "B",
+        "text_en": "was/were + verb-ing",
+        "text_ta": "was/were + verb-ing"
+      },
+      {
+        "key": "C",
+        "text_en": "will have + past participle",
+        "text_ta": "will have + past participle"
+      },
+      {
+        "key": "D",
+        "text_en": "has/have + verb-ing",
+        "text_ta": "has/have + verb-ing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R27 mentions 'Use 'Future Perfect Tense' (will have + past participle)...'",
+    "explanation_ta": "Rule R27 mentions 'Use 'Future Perfect Tense' (will have + past participle)...'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R27"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which Tamil translation corresponds to the completed action 'Have bought'?",
+    "question_ta": "Which Tamil translation corresponds to the completed action 'Have bought'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "வாங்கிவிட்டாள்",
+        "text_ta": "வாங்கிவிட்டாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "வாங்குவாள்",
+        "text_ta": "வாங்குவாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "வாங்கியுள்ளோம்",
+        "text_ta": "வாங்கியுள்ளோம்"
+      },
+      {
+        "key": "D",
+        "text_en": "வாங்குகிறோம்",
+        "text_ta": "வாங்குகிறோம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G32 notes 'Have bought = completed action | TA:வாங்கியுள்ளோம்'.",
+    "explanation_ta": "Glossary item G32 notes 'Have bought = completed action | TA:வாங்கியுள்ளோம்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G32"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the Past Perfect Continuous tense?",
+    "question_ta": "What is the function of the Past Perfect Continuous tense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Describing an action that was ongoing in the past up until another point or event",
+        "text_ta": "Describing an action that was ongoing in the past up until another point or event"
+      },
+      {
+        "key": "B",
+        "text_en": "Indicating a universal truth or scientific fact",
+        "text_ta": "Indicating a universal truth or scientific fact"
+      },
+      {
+        "key": "C",
+        "text_en": "Describing an action happening at this exact moment",
+        "text_ta": "Describing an action happening at this exact moment"
+      },
+      {
+        "key": "D",
+        "text_en": "Expressing a planned action in the future",
+        "text_ta": "Expressing a planned action in the future"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R20 states that Past Perfect Continuous tense describes an action that was ongoing in the past up until another point or event.",
+    "explanation_ta": "Rule R20 states that Past Perfect Continuous tense describes an action that was ongoing in the past up until another point or event.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R20"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil translation for the sentence: 'They play cricket on Sundays.'",
+    "question_ta": "Identify the correct Tamil translation for the sentence: 'They play cricket on Sundays.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடினார்கள்.",
+        "text_ta": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடினார்கள்."
+      },
+      {
+        "key": "B",
+        "text_en": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடிக் கொண்டிருக்கிறார்கள்.",
+        "text_ta": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடிக் கொண்டிருக்கிறார்கள்."
+      },
+      {
+        "key": "C",
+        "text_en": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுவார்கள்.",
+        "text_ta": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுவார்கள்."
+      },
+      {
+        "key": "D",
+        "text_en": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுகிறார்கள்.",
+        "text_ta": "அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுகிறார்கள்."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Translation pair T2 translates 'They play cricket on Sundays.' directly as 'அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுகிறார்கள்.'",
+    "explanation_ta": "Translation pair T2 translates 'They play cricket on Sundays.' directly as 'அவர்கள் ஞாயிற்றுக்கிழமைகளில் கிரிக்கெட் விளையாடுகிறார்கள்.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Translation Pair T2"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the Future Perfect Continuous Tense describe?",
+    "question_ta": "What does the Future Perfect Continuous Tense describe?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A habitual action done every evening",
+        "text_ta": "A habitual action done every evening"
+      },
+      {
+        "key": "B",
+        "text_en": "A completed action before a past event",
+        "text_ta": "A completed action before a past event"
+      },
+      {
+        "key": "C",
+        "text_en": "An action completed in the immediate past",
+        "text_ta": "An action completed in the immediate past"
+      },
+      {
+        "key": "D",
+        "text_en": "An ongoing action in the future leading up to a specific point in time",
+        "text_ta": "An ongoing action in the future leading up to a specific point in time"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Rule R30 states that The Future Perfect Continuous tense describes an ongoing action in the future that leads up to a specific point in time.",
+    "explanation_ta": "Rule R30 states that The Future Perfect Continuous tense describes an ongoing action in the future that leads up to a specific point in time.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R30"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Match the glossary item 'Had left' with its correct Tamil translation.",
+    "question_ta": "Match the glossary item 'Had left' with its correct Tamil translation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "புறப்படுவாள்",
+        "text_ta": "புறப்படுவாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது",
+        "text_ta": "புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது"
+      },
+      {
+        "key": "C",
+        "text_en": "புறப்படுகிறார்கள்",
+        "text_ta": "புறப்படுகிறார்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "புறப்பட்டுவிட்டோம்",
+        "text_ta": "புறப்பட்டுவிட்டோம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G68 shows 'Had left = action completed before another past action | TA:புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது'.",
+    "explanation_ta": "Glossary item G68 shows 'Had left = action completed before another past action | TA:புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G68"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which page framework explains Simple Present Tense usage for habitual actions and universal truths?",
+    "question_ta": "Which page framework explains Simple Present Tense usage for habitual actions and universal truths?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "p91",
+        "text_ta": "p91"
+      },
+      {
+        "key": "B",
+        "text_en": "p95",
+        "text_ta": "p95"
+      },
+      {
+        "key": "C",
+        "text_en": "p86",
+        "text_ta": "p86"
+      },
+      {
+        "key": "D",
+        "text_en": "p98",
+        "text_ta": "p98"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Summary entry for p86 highlights that it provides a framework for understanding Simple Present Tense through translation, highlighting habitual actions and universal truths.",
+    "explanation_ta": "Summary entry for p86 highlights that it provides a framework for understanding Simple Present Tense through translation, highlighting habitual actions and universal truths.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Summary p86"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil meaning for the ongoing action in the past: 'Were playing'?",
+    "question_ta": "What is the Tamil meaning for the ongoing action in the past: 'Were playing'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "விளையாடிக் கொண்டிருந்தார்கள்",
+        "text_ta": "விளையாடிக் கொண்டிருந்தார்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "விளையாடியிருப்பார்கள்",
+        "text_ta": "விளையாடியிருப்பார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "விளையாடினார்கள்",
+        "text_ta": "விளையாடினார்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "விளையாடுகிறார்கள்",
+        "text_ta": "விளையாடுகிறார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G48 provides 'Were playing = ongoing action in the past | TA:விளையாடிக் கொண்டிருந்தார்கள்'.",
+    "explanation_ta": "Glossary item G48 provides 'Were playing = ongoing action in the past | TA:விளையாடிக் கொண்டிருந்தார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G48"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the summary, what does page 96 emphasize regarding Past Perfect tense?",
+    "question_ta": "According to the summary, what does page 96 emphasize regarding Past Perfect tense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "It involves ongoing actions in the future.",
+        "text_ta": "It involves ongoing actions in the future."
+      },
+      {
+        "key": "B",
+        "text_en": "It involves actions completed before other past events.",
+        "text_ta": "It involves actions completed before other past events."
+      },
+      {
+        "key": "C",
+        "text_en": "It involves habitual actions every morning.",
+        "text_ta": "It involves habitual actions every morning."
+      },
+      {
+        "key": "D",
+        "text_en": "It involves actions happening right now.",
+        "text_ta": "It involves actions happening right now."
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Summary for p96 states that Past Perfect involves actions completed before other past events.",
+    "explanation_ta": "Summary for p96 states that Past Perfect involves actions completed before other past events.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "Tense-related Translation",
+    "source_note": "Summary p96"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the English tense category that denotes an action happening right at the moment of speech.",
+    "question_ta": "Identify the English tense category that denotes an action happening right at the moment of speech.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Present Continuous Tense",
+        "text_ta": "Present Continuous Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Future Perfect Tense",
+        "text_ta": "Future Perfect Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Past Perfect Tense",
+        "text_ta": "Past Perfect Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Simple Past Tense",
+        "text_ta": "Simple Past Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to R4 and R5, the Present Continuous Tense denotes an action happening at the moment of speaking or currently in progress.",
+    "explanation_ta": "According to R4 and R5, the Present Continuous Tense denotes an action happening at the moment of speaking or currently in progress.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R4"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the correct Tamil translation for the glossary item 'Had left'?",
+    "question_ta": "What is the correct Tamil translation for the glossary item 'Had left'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அழைத்திருந்தாய்",
+        "text_ta": "அழைத்திருந்தாய்"
+      },
+      {
+        "key": "B",
+        "text_en": "முடித்துவிட்டான் / முடித்துவிட்டோம்",
+        "text_ta": "முடித்துவிட்டான் / முடித்துவிட்டோம்"
+      },
+      {
+        "key": "C",
+        "text_en": "புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது",
+        "text_ta": "புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது"
+      },
+      {
+        "key": "D",
+        "text_en": "சாப்பிட்டுவிட்டார்கள்",
+        "text_ta": "சாப்பிட்டுவிட்டார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G68 explicitly maps 'Had left' to 'புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது'.",
+    "explanation_ta": "Glossary item G68 explicitly maps 'Had left' to 'புறப்பட்டுவிட்டாள் / புறப்பட்டுவிட்டது'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G68"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which tense formula uses 'had + past participle' to describe an action completed before another past action?",
+    "question_ta": "Which tense formula uses 'had + past participle' to describe an action completed before another past action?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simple Past Tense",
+        "text_ta": "Simple Past Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Present Perfect Tense",
+        "text_ta": "Present Perfect Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Past Continuous Tense",
+        "text_ta": "Past Continuous Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Past Perfect Tense",
+        "text_ta": "Past Perfect Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "R17 states to use Past Perfect (Had + past participle) to describe an action completed before another past action.",
+    "explanation_ta": "R17 states to use Past Perfect (Had + past participle) to describe an action completed before another past action.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R17"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the Past Perfect tense emphasize regarding past events according to page 96?",
+    "question_ta": "What does the Past Perfect tense emphasize regarding past events according to page 96?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ongoing actions happening in the present",
+        "text_ta": "Ongoing actions happening in the present"
+      },
+      {
+        "key": "B",
+        "text_en": "Actions completed before other past events",
+        "text_ta": "Actions completed before other past events"
+      },
+      {
+        "key": "C",
+        "text_en": "Universal truths and facts",
+        "text_ta": "Universal truths and facts"
+      },
+      {
+        "key": "D",
+        "text_en": "Planned actions in the future",
+        "text_ta": "Planned actions in the future"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Page 96 highlights that Past Perfect involves actions completed before other past events.",
+    "explanation_ta": "Page 96 highlights that Past Perfect involves actions completed before other past events.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "p96"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil meaning for the completed past action 'Drew'?",
+    "question_ta": "What is the Tamil meaning for the completed past action 'Drew'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "வரைந்தாள்",
+        "text_ta": "வரைந்தாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "கட்டினார்கள்",
+        "text_ta": "கட்டினார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "திறந்தான்",
+        "text_ta": "திறந்தான்"
+      },
+      {
+        "key": "D",
+        "text_en": "தூங்கியது",
+        "text_ta": "தூங்கியது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G42 translates the past tense verb 'Drew' as 'வரைந்தாள்'.",
+    "explanation_ta": "Glossary item G42 translates the past tense verb 'Drew' as 'வரைந்தாள்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G42"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which Tamil translation corresponds to the glossary entry 'Has lost'?",
+    "question_ta": "Which Tamil translation corresponds to the glossary entry 'Has lost'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "சென்றுள்ளனர்",
+        "text_ta": "சென்றுள்ளனர்"
+      },
+      {
+        "key": "B",
+        "text_en": "தொலைத்துவிட்டான்",
+        "text_ta": "தொலைத்துவிட்டான்"
+      },
+      {
+        "key": "C",
+        "text_en": "வாங்கியுள்ளோம்",
+        "text_ta": "வாங்கியுள்ளோம்"
+      },
+      {
+        "key": "D",
+        "text_en": "சாப்பிட்டுவிட்டேன்",
+        "text_ta": "சாப்பிட்டுவிட்டேன்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G33 matches 'Has lost' with 'தொலைத்துவிட்டான்'.",
+    "explanation_ta": "Glossary item G33 matches 'Has lost' with 'தொலைத்துவிட்டான்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G33"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "How does the summary describe the grammatical focus of page 90?",
+    "question_ta": "How does the summary describe the grammatical focus of page 90?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Structural overview of Simple Present and Past Tense",
+        "text_ta": "Structural overview of Simple Present and Past Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Rules for habitual actions and universal truths",
+        "text_ta": "Rules for habitual actions and universal truths"
+      },
+      {
+        "key": "C",
+        "text_en": "Comparative study of Present Perfect and Present Perfect Continuous tenses",
+        "text_ta": "Comparative study of Present Perfect and Present Perfect Continuous tenses"
+      },
+      {
+        "key": "D",
+        "text_en": "Analysis of Future Continuous tense translation",
+        "text_ta": "Analysis of Future Continuous tense translation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Summary p90 notes it provides a comparative study of English Present Perfect and Present Perfect Continuous tenses with corresponding Tamil translations.",
+    "explanation_ta": "Summary p90 notes it provides a comparative study of English Present Perfect and Present Perfect Continuous tenses with corresponding Tamil translations.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "p90"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the Tamil meaning for the action happening now: 'Cleaning'.",
+    "question_ta": "Identify the Tamil meaning for the action happening now: 'Cleaning'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "படிக்கிறோம்",
+        "text_ta": "படிக்கிறோம்"
+      },
+      {
+        "key": "B",
+        "text_en": "சமைக்கிறாள்",
+        "text_ta": "சமைக்கிறாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "ஓட்டுகிறான்",
+        "text_ta": "ஓட்டுகிறான்"
+      },
+      {
+        "key": "D",
+        "text_en": "சுத்தம் செய்கிறேன்",
+        "text_ta": "சுத்தம் செய்கிறேன்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G18 maps 'Cleaning' to 'சுத்தம் செய்கிறேன்'.",
+    "explanation_ta": "Glossary item G18 maps 'Cleaning' to 'சுத்தம் செய்கிறேன்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G18"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil meaning for the ongoing action in the past: 'Was cooking'?",
+    "question_ta": "What is the Tamil meaning for the ongoing action in the past: 'Was cooking'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "சமைத்துக் கொண்டிருந்தாள்",
+        "text_ta": "சமைத்துக் கொண்டிருந்தாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "ஓட்டிக் கொண்டிருந்தார்",
+        "text_ta": "ஓட்டிக் கொண்டிருந்தார்"
+      },
+      {
+        "key": "C",
+        "text_en": "குரைத்துக் கொண்டிருந்தது",
+        "text_ta": "குரைத்துக் கொண்டிருந்தது"
+      },
+      {
+        "key": "D",
+        "text_en": "தூங்கிக் கொண்டிருந்தாய்",
+        "text_ta": "தூங்கிக் கொண்டிருந்தாய்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G54 translates 'Was cooking' to 'சமைத்துக் கொண்டிருந்தாள்'.",
+    "explanation_ta": "Glossary item G54 translates 'Was cooking' to 'சமைத்துக் கொண்டிருந்தாள்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G54"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which tense is used to describe an ongoing action in the future leading up to a specific point?",
+    "question_ta": "Which tense is used to describe an ongoing action in the future leading up to a specific point?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Future Perfect Continuous Tense",
+        "text_ta": "Future Perfect Continuous Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Simple Future Tense",
+        "text_ta": "Simple Future Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Future Perfect Tense",
+        "text_ta": "Future Perfect Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Future Continuous Tense",
+        "text_ta": "Future Continuous Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "R29 and R31 state that the Future Perfect Continuous Tense describes an ongoing action in the future leading up to a specific point.",
+    "explanation_ta": "R29 and R31 state that the Future Perfect Continuous Tense describes an ongoing action in the future leading up to a specific point.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R29"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does the Present Perfect Continuous tense describe according to the grammatical framework?",
+    "question_ta": "What does the Present Perfect Continuous tense describe according to the grammatical framework?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A universal truth or permanent fact",
+        "text_ta": "A universal truth or permanent fact"
+      },
+      {
+        "key": "B",
+        "text_en": "An action completed before another past event",
+        "text_ta": "An action completed before another past event"
+      },
+      {
+        "key": "C",
+        "text_en": "An action that started in the past and is still continuing in the present",
+        "text_ta": "An action that started in the past and is still continuing in the present"
+      },
+      {
+        "key": "D",
+        "text_en": "An ongoing action in the past",
+        "text_ta": "An ongoing action in the past"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "R8, R9, and R10 state that the Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+    "explanation_ta": "R8, R9, and R10 state that the Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R8"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Match the glossary item 'Had called' with its correct Tamil translation.",
+    "question_ta": "Match the glossary item 'Had called' with its correct Tamil translation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "சமைத்துவிட்டார்",
+        "text_ta": "சமைத்துவிட்டார்"
+      },
+      {
+        "key": "B",
+        "text_en": "தூங்கிவிட்டான்",
+        "text_ta": "தூங்கிவிட்டான்"
+      },
+      {
+        "key": "C",
+        "text_en": "அழைத்திருந்தாய்",
+        "text_ta": "அழைத்திருந்தாய்"
+      },
+      {
+        "key": "D",
+        "text_en": "விளக்கியிருந்தார்",
+        "text_ta": "விளக்கியிருந்தார்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G71 maps 'Had called' to 'அழைத்திருந்தாய்'.",
+    "explanation_ta": "Glossary item G71 maps 'Had called' to 'அழைத்திருந்தாய்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G71"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which page framework explains the comparative guide for translating Simple Past and Past Continuous tenses?",
+    "question_ta": "Which page framework explains the comparative guide for translating Simple Past and Past Continuous tenses?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "PASS1",
+        "text_ta": "PASS1"
+      },
+      {
+        "key": "B",
+        "text_en": "p86",
+        "text_ta": "p86"
+      },
+      {
+        "key": "C",
+        "text_en": "PASS2",
+        "text_ta": "PASS2"
+      },
+      {
+        "key": "D",
+        "text_en": "PASS3",
+        "text_ta": "PASS3"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "PASS3 states it provides a comparative guide for translating Simple Past and Past Continuous tenses from English to Tamil.",
+    "explanation_ta": "PASS3 states it provides a comparative guide for translating Simple Past and Past Continuous tenses from English to Tamil.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "PASS3"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation for the completed past action 'Opened'?",
+    "question_ta": "What is the Tamil translation for the completed past action 'Opened'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தூங்கியது",
+        "text_ta": "தூங்கியது"
+      },
+      {
+        "key": "B",
+        "text_en": "கட்டினார்கள்",
+        "text_ta": "கட்டினார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "திறந்தான்",
+        "text_ta": "திறந்தான்"
+      },
+      {
+        "key": "D",
+        "text_en": "வரைந்தாள்",
+        "text_ta": "வரைந்தாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G43 maps 'Opened' to 'திறந்தான்'.",
+    "explanation_ta": "Glossary item G43 maps 'Opened' to 'திறந்தான்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G43"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil translation for the action happening now: 'Singing'.",
+    "question_ta": "Identify the correct Tamil translation for the action happening now: 'Singing'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "கற்பிக்கிறார்",
+        "text_ta": "கற்பிக்கிறார்"
+      },
+      {
+        "key": "B",
+        "text_en": "குடிக்கிறீர்கள்",
+        "text_ta": "குடிக்கிறீர்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "நடக்கிறோம்",
+        "text_ta": "நடக்கிறோம்"
+      },
+      {
+        "key": "D",
+        "text_en": "பாடுகிறான்",
+        "text_ta": "பாடுகிறான்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G24 maps 'Singing' to 'பாடுகிறான்'.",
+    "explanation_ta": "Glossary item G24 maps 'Singing' to 'பாடுகிறான்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G24"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்] for an ongoing action at a specific future time?",
+    "question_ta": "Which tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்] for an ongoing action at a specific future time?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Future Continuous tense",
+        "text_ta": "Future Continuous tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Future Perfect Continuous tense",
+        "text_ta": "Future Perfect Continuous tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Simple Future tense",
+        "text_ta": "Simple Future tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Future Perfect tense",
+        "text_ta": "Future Perfect tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "R24 details that Future Continuous tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+    "explanation_ta": "R24 details that Future Continuous tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R24"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil equivalent for the habitual action verb 'Drinks'?",
+    "question_ta": "What is the Tamil equivalent for the habitual action verb 'Drinks'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பார்க்கிறோம்",
+        "text_ta": "பார்க்கிறோம்"
+      },
+      {
+        "key": "B",
+        "text_en": "வாசிக்கிறாள்",
+        "text_ta": "வாசிக்கிறாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "விளையாடுகிறார்கள்",
+        "text_ta": "விளையாடுகிறார்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "குடிக்கிறாள்",
+        "text_ta": "குடிக்கிறாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G3 defines 'Drinks' as a habitual action with the Tamil translation 'குடிக்கிறாள்'.",
+    "explanation_ta": "Glossary item G3 defines 'Drinks' as a habitual action with the Tamil translation 'குடிக்கிறாள்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G3"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the function of the Future Perfect tense?",
+    "question_ta": "What is the function of the Future Perfect tense?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Expresses an action that will be completed before a specific point or time in the future",
+        "text_ta": "Expresses an action that will be completed before a specific point or time in the future"
+      },
+      {
+        "key": "B",
+        "text_en": "Indicates an action happening right now",
+        "text_ta": "Indicates an action happening right now"
+      },
+      {
+        "key": "C",
+        "text_en": "Describes an ongoing action leading up to a future point",
+        "text_ta": "Describes an ongoing action leading up to a future point"
+      },
+      {
+        "key": "D",
+        "text_en": "Expresses habitual routines",
+        "text_ta": "Expresses habitual routines"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "R26 specifies that Future Perfect tense expresses an action that will be completed before a specific point or time in the future.",
+    "explanation_ta": "R26 specifies that Future Perfect tense expresses an action that will be completed before a specific point or time in the future.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R26"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Match the glossary item 'Had washed' with its correct Tamil translation.",
+    "question_ta": "Match the glossary item 'Had washed' with its correct Tamil translation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "முடித்துவிட்டான்",
+        "text_ta": "முடித்துவிட்டான்"
+      },
+      {
+        "key": "B",
+        "text_en": "கழுவிவிட்டேன்",
+        "text_ta": "கழுவிவிட்டேன்"
+      },
+      {
+        "key": "C",
+        "text_en": "வாங்கிவிட்டாள்",
+        "text_ta": "வாங்கிவிட்டாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "பார்த்துவிட்டோம்",
+        "text_ta": "பார்த்துவிட்டோம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G79 matches 'Had washed' with 'கழுவிவிட்டேன்'.",
+    "explanation_ta": "Glossary item G79 matches 'Had washed' with 'கழுவிவிட்டேன்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G79"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What does page 88 provide in the translation framework?",
+    "question_ta": "What does page 88 provide in the translation framework?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rules for Future Perfect Continuous tense",
+        "text_ta": "Rules for Future Perfect Continuous tense"
+      },
+      {
+        "key": "B",
+        "text_en": "A comprehensive table mapping English Present Continuous sentences to Tamil equivalents",
+        "text_ta": "A comprehensive table mapping English Present Continuous sentences to Tamil equivalents"
+      },
+      {
+        "key": "C",
+        "text_en": "A glossary of past tense verb translations",
+        "text_ta": "A glossary of past tense verb translations"
+      },
+      {
+        "key": "D",
+        "text_en": "A structural overview of Simple Present Tense rules",
+        "text_ta": "A structural overview of Simple Present Tense rules"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Summary p88 states it provides a comprehensive table mapping English sentences in the Present Continuous tense to their Tamil equivalents.",
+    "explanation_ta": "Summary p88 states it provides a comprehensive table mapping English sentences in the Present Continuous tense to their Tamil equivalents.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "p88"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil meaning for the completed action 'Have learned'?",
+    "question_ta": "What is the Tamil meaning for the completed action 'Have learned'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தொலைத்துவிட்டான்",
+        "text_ta": "தொலைத்துவிட்டான்"
+      },
+      {
+        "key": "B",
+        "text_en": "கற்றுக்கொண்டுவிட்டாய்",
+        "text_ta": "கற்றுக்கொண்டுவிட்டாய்"
+      },
+      {
+        "key": "C",
+        "text_en": "வந்துவிட்டது",
+        "text_ta": "வந்துவிட்டது"
+      },
+      {
+        "key": "D",
+        "text_en": "எழுதியிருக்கிறாள்",
+        "text_ta": "எழுதியிருக்கிறாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G34 maps 'Have learned' to 'கற்றுக்கொண்டுவிட்டாய்'.",
+    "explanation_ta": "Glossary item G34 maps 'Have learned' to 'கற்றுக்கொண்டுவிட்டாய்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G34"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the Tamil meaning for the ongoing past action: 'Were sleeping'.",
+    "question_ta": "Identify the Tamil meaning for the ongoing past action: 'Were sleeping'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தூங்கிக் கொண்டிருந்தாய்",
+        "text_ta": "தூங்கிக் கொண்டிருந்தாய்"
+      },
+      {
+        "key": "B",
+        "text_en": "பார்த்துக் கொண்டிருந்தேன்",
+        "text_ta": "பார்த்துக் கொண்டிருந்தேன்"
+      },
+      {
+        "key": "C",
+        "text_en": "படித்துக் கொண்டிருந்தாள்",
+        "text_ta": "படித்துக் கொண்டிருந்தாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "விளையாடிக் கொண்டிருந்தார்கள்",
+        "text_ta": "விளையாடிக் கொண்டிருந்தார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G53 translates 'Were sleeping' to 'தூங்கிக் கொண்டிருந்தாய்'.",
+    "explanation_ta": "Glossary item G53 translates 'Were sleeping' to 'தூங்கிக் கொண்டிருந்தாய்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G53"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Which tense is used to describe actions that were completed in the past according to rule R11?",
+    "question_ta": "Which tense is used to describe actions that were completed in the past according to rule R11?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Past continuous tense",
+        "text_ta": "Past continuous tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Present perfect tense",
+        "text_ta": "Present perfect tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Simple past tense",
+        "text_ta": "Simple past tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Past perfect tense",
+        "text_ta": "Past perfect tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R11 states that the simple past tense is used to describe actions that were completed in the past.",
+    "explanation_ta": "Rule R11 states that the simple past tense is used to describe actions that were completed in the past.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Match the glossary item 'Will have been living' with its correct Tamil translation.",
+    "question_ta": "Match the glossary item 'Will have been living' with its correct Tamil translation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "காத்திருந்திருப்பேன்",
+        "text_ta": "காத்திருந்திருப்பேன்"
+      },
+      {
+        "key": "B",
+        "text_en": "வசித்து இருப்பார்கள்",
+        "text_ta": "வசித்து இருப்பார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "படித்து கொண்டிருப்பாள்",
+        "text_ta": "படித்து கொண்டிருப்பாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "வேலை செய்து கொண்டிருப்போம்",
+        "text_ta": "வேலை செய்து கொண்டிருப்போம்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G95 maps 'Will have been living' to 'வசித்து இருப்பார்கள்'.",
+    "explanation_ta": "Glossary item G95 maps 'Will have been living' to 'வசித்து இருப்பார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G95"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation for the glossary entry 'Will finish'?",
+    "question_ta": "What is the Tamil translation for the glossary entry 'Will finish'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "முடிப்பேன்",
+        "text_ta": "முடிப்பேன்"
+      },
+      {
+        "key": "B",
+        "text_en": "முடித்திருப்பான்",
+        "text_ta": "முடித்திருப்பான்"
+      },
+      {
+        "key": "C",
+        "text_en": "சென்றிருப்பாள்",
+        "text_ta": "சென்றிருப்பாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "சந்திப்பாள்",
+        "text_ta": "சந்திப்பாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G83 maps 'Will finish' (certain action) to 'முடிப்பேன்'.",
+    "explanation_ta": "Glossary item G83 maps 'Will finish' (certain action) to 'முடிப்பேன்'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "Tense-related Translation",
+    "source_note": "G83"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which tense category is formally defined as expressing actions that began in the past and are still continuing right now?",
+    "question_ta": "Which tense category is formally defined as expressing actions that began in the past and are still continuing right now?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Future Perfect Tense",
+        "text_ta": "Future Perfect Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Present Perfect Continuous Tense",
+        "text_ta": "Present Perfect Continuous Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Past Continuous Tense",
+        "text_ta": "Past Continuous Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Simple Present Tense",
+        "text_ta": "Simple Present Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the rules, the Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+    "explanation_ta": "According to the rules, the Present Perfect Continuous tense describes an action that started in the past and is still continuing in the present.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R8"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil translation equivalent for the English glossary item 'Danced'.",
+    "question_ta": "Identify the correct Tamil translation equivalent for the English glossary item 'Danced'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நடனமாடிக் கொண்டிருந்தாள்",
+        "text_ta": "நடனமாடிக் கொண்டிருந்தாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "நடனமாடுகிறார்கள்",
+        "text_ta": "நடனமாடுகிறார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "நடனமாடினாள்",
+        "text_ta": "நடனமாடினாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "நடனம் செய்வாள்",
+        "text_ta": "நடனம் செய்வாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In the glossary, 'Danced' as a completed action in the past translates to 'நடனமாடினாள்'.",
+    "explanation_ta": "In the glossary, 'Danced' as a completed action in the past translates to 'நடனமாடினாள்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G45"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the specific Tamil meaning associated with the ongoing past action phrase 'Was driving'?",
+    "question_ta": "What is the specific Tamil meaning associated with the ongoing past action phrase 'Was driving'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "ஓட்டுவார்",
+        "text_ta": "ஓட்டுவார்"
+      },
+      {
+        "key": "B",
+        "text_en": "ஓட்டுகிறான்",
+        "text_ta": "ஓட்டுகிறான்"
+      },
+      {
+        "key": "C",
+        "text_en": "ஓட்டிக் கொண்டிருந்தார்",
+        "text_ta": "ஓட்டிக் கொண்டிருந்தார்"
+      },
+      {
+        "key": "D",
+        "text_en": "ஓட்டிவிட்டான்",
+        "text_ta": "ஓட்டிவிட்டான்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary states that the ongoing past action 'Was driving' translates to 'ஓட்டிக் கொண்டிருந்தார்'.",
+    "explanation_ta": "The glossary states that the ongoing past action 'Was driving' translates to 'ஓட்டிக் கொண்டிருந்தார்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G55"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which English tense structure translates to an action completed before another past action?",
+    "question_ta": "Which English tense structure translates to an action completed before another past action?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simple Past Tense",
+        "text_ta": "Simple Past Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Past Continuous Tense",
+        "text_ta": "Past Continuous Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Past Perfect Tense",
+        "text_ta": "Past Perfect Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Present Perfect Tense",
+        "text_ta": "Present Perfect Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rule R16 specifies that the Past Perfect Tense describes an action that was completed before another past action occurred.",
+    "explanation_ta": "Rule R16 specifies that the Past Perfect Tense describes an action that was completed before another past action occurred.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R16"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Select the correct Tamil translation corresponding to the English glossary entry 'Have seen'.",
+    "question_ta": "Select the correct Tamil translation corresponding to the English glossary entry 'Have seen'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "பார்ப்போம்",
+        "text_ta": "பார்ப்போம்"
+      },
+      {
+        "key": "B",
+        "text_en": "பார்த்துக் கொண்டிருந்தோம்",
+        "text_ta": "பார்த்துக் கொண்டிருந்தோம்"
+      },
+      {
+        "key": "C",
+        "text_en": "பார்த்துவிட்டேன்",
+        "text_ta": "பார்த்துவிட்டேன்"
+      },
+      {
+        "key": "D",
+        "text_en": "பார்த்திருந்தாய்",
+        "text_ta": "பார்த்திருந்தாய்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G37 maps 'Have seen' to 'பார்த்துவிட்டேன்' under completed actions.",
+    "explanation_ta": "Glossary item G37 maps 'Have seen' to 'பார்த்துவிட்டேன்' under completed actions.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G37"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which phrase denotes an action happening right at the moment of speech according to the active glossary list for ongoing actions?",
+    "question_ta": "Which phrase denotes an action happening right at the moment of speech according to the active glossary list for ongoing actions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Slept",
+        "text_ta": "Slept"
+      },
+      {
+        "key": "B",
+        "text_en": "Had left",
+        "text_ta": "Had left"
+      },
+      {
+        "key": "C",
+        "text_en": "Reads",
+        "text_ta": "Reads"
+      },
+      {
+        "key": "D",
+        "text_en": "Writing",
+        "text_ta": "Writing"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G12 lists 'Writing' as an action happening now with the Tamil meaning 'எழுதுகிறான்'.",
+    "explanation_ta": "Glossary item G12 lists 'Writing' as an action happening now with the Tamil meaning 'எழுதுகிறான்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G12"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does the grammatical framework outline as the primary focus of page 90?",
+    "question_ta": "What does the grammatical framework outline as the primary focus of page 90?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simple Present Tense and universal truths",
+        "text_ta": "Simple Present Tense and universal truths"
+      },
+      {
+        "key": "B",
+        "text_en": "Past Perfect translation rules",
+        "text_ta": "Past Perfect translation rules"
+      },
+      {
+        "key": "C",
+        "text_en": "Future Continuous tense structure",
+        "text_ta": "Future Continuous tense structure"
+      },
+      {
+        "key": "D",
+        "text_en": "Comparative study of English Present Perfect and Present Perfect Continuous tenses",
+        "text_ta": "Comparative study of English Present Perfect and Present Perfect Continuous tenses"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Page 90 summary explicitly provides a comparative study of English Present Perfect and Present Perfect Continuous tenses with corresponding Tamil translations.",
+    "explanation_ta": "Page 90 summary explicitly provides a comparative study of English Present Perfect and Present Perfect Continuous tenses with corresponding Tamil translations.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Summary p90"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the proper Tamil translation for the glossary entry 'Will visit'.",
+    "question_ta": "Identify the proper Tamil translation for the glossary entry 'Will visit'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "சந்திப்பாள்",
+        "text_ta": "சந்திப்பாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "சந்தித்திருப்பாள்",
+        "text_ta": "சந்தித்திருப்பாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "சந்தித்துவிட்டாள்",
+        "text_ta": "சந்தித்துவிட்டாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "சந்திப்பார்கள்",
+        "text_ta": "சந்திப்பார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G82 pairs 'Will visit' (planned action) with 'சந்திப்பாள்'.",
+    "explanation_ta": "Glossary item G82 pairs 'Will visit' (planned action) with 'சந்திப்பாள்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G82"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which tense is used to denote planned, certain, intended, or expected actions using 'will' in English-Tamil translations?",
+    "question_ta": "Which tense is used to denote planned, certain, intended, or expected actions using 'will' in English-Tamil translations?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Future tense",
+        "text_ta": "Future tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Past Perfect Tense",
+        "text_ta": "Past Perfect Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Present Continuous Tense",
+        "text_ta": "Present Continuous Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Simple Present Tense",
+        "text_ta": "Simple Present Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R22 states that the future tense in English is often used to denote planned, certain, intended, or expected actions.",
+    "explanation_ta": "Rule R22 states that the future tense in English is often used to denote planned, certain, intended, or expected actions.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R22"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil equivalent for the ongoing action in the past phrase 'Was crying'?",
+    "question_ta": "What is the Tamil equivalent for the ongoing action in the past phrase 'Was crying'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "அழுதுக் கொண்டிருந்தது",
+        "text_ta": "அழுதுக் கொண்டிருந்தது"
+      },
+      {
+        "key": "B",
+        "text_en": "அழுதுகொண்டிருக்கிறாள்",
+        "text_ta": "அழுதுகொண்டிருக்கிறாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "அழுதுவிட்டது",
+        "text_ta": "அழுதுவிட்டது"
+      },
+      {
+        "key": "D",
+        "text_en": "அழுதுவிடுவாள்",
+        "text_ta": "அழுதுவிடுவாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G65 defines 'Was crying' as an ongoing action in the past with the Tamil translation 'அழுதுக் கொண்டிருந்தது'.",
+    "explanation_ta": "Glossary item G65 defines 'Was crying' as an ongoing action in the past with the Tamil translation 'அழுதுக் கொண்டிருந்தது'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G65"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which page framework explains the mapping of English sentences in the Present Continuous tense to their Tamil equivalents focusing on the present moment?",
+    "question_ta": "Which page framework explains the mapping of English sentences in the Present Continuous tense to their Tamil equivalents focusing on the present moment?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Page 88",
+        "text_ta": "Page 88"
+      },
+      {
+        "key": "B",
+        "text_en": "Page 86",
+        "text_ta": "Page 86"
+      },
+      {
+        "key": "C",
+        "text_en": "Page 93",
+        "text_ta": "Page 93"
+      },
+      {
+        "key": "D",
+        "text_en": "Page 97",
+        "text_ta": "Page 97"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Page 88 provides a comprehensive table mapping English sentences in the Present Continuous tense to their Tamil equivalents for actions happening in the present moment.",
+    "explanation_ta": "Page 88 provides a comprehensive table mapping English sentences in the Present Continuous tense to their Tamil equivalents for actions happening in the present moment.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Summary p88"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Match the glossary item 'Had read' with its precise Tamil translation.",
+    "question_ta": "Match the glossary item 'Had read' with its precise Tamil translation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "படித்திருப்பாள்",
+        "text_ta": "படித்திருப்பாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "படித்துவிட்டேன்",
+        "text_ta": "படித்துவிட்டேன்"
+      },
+      {
+        "key": "C",
+        "text_en": "படித்துக் கொண்டிருந்தாய்",
+        "text_ta": "படித்துக் கொண்டிருந்தாய்"
+      },
+      {
+        "key": "D",
+        "text_en": "படிக்கிறாள்",
+        "text_ta": "படிக்கிறாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Glossary item G70 pairs 'Had read' (action completed before another past action) with 'படித்துவிட்டேன்'.",
+    "explanation_ta": "Glossary item G70 pairs 'Had read' (action completed before another past action) with 'படித்துவிட்டேன்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G70"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the structural formula definition associated with Future Continuous tense in Tamil translation patterns?",
+    "question_ta": "What is the structural formula definition associated with Future Continuous tense in Tamil translation patterns?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "[Verb root] + [முடித்தேன்]",
+        "text_ta": "[Verb root] + [முடித்தேன்]"
+      },
+      {
+        "key": "B",
+        "text_en": "[Verb root] + [கொண்டிருப்பேன்/இருப்பார்]",
+        "text_ta": "[Verb root] + [கொண்டிருப்பேன்/இருப்பார்]"
+      },
+      {
+        "key": "C",
+        "text_en": "[Verb root] + [இருந்தான்]",
+        "text_ta": "[Verb root] + [இருந்தான்]"
+      },
+      {
+        "key": "D",
+        "text_en": "[Verb root] + [உள்ளது]",
+        "text_ta": "[Verb root] + [உள்ளது]"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R24 indicates that the Future Continuous tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+    "explanation_ta": "Rule R24 indicates that the Future Continuous tense is typically translated in Tamil using the format [Verb root] + [கொண்டிருப்பேன்/இருப்பார்].",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R24"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct Tamil translation for the completed action entry 'Has finished'.",
+    "question_ta": "Identify the correct Tamil translation for the completed action entry 'Has finished'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "முடித்துவிட்டான்",
+        "text_ta": "முடித்துவிட்டான்"
+      },
+      {
+        "key": "B",
+        "text_en": "முடித்துவிட்டோம்",
+        "text_ta": "முடித்துவிட்டோம்"
+      },
+      {
+        "key": "C",
+        "text_en": "முடிப்பேன்",
+        "text_ta": "முடிப்பேன்"
+      },
+      {
+        "key": "D",
+        "text_en": "முடித்துவிட்டாள்",
+        "text_ta": "முடித்துவிட்டாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary G29 shows that 'Has finished' translates directly to 'முடித்துவிட்டாள்'.",
+    "explanation_ta": "Glossary G29 shows that 'Has finished' translates directly to 'முடித்துவிட்டாள்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G29"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which rule defines the application of Simple Past tense for actions completed in the past?",
+    "question_ta": "Which rule defines the application of Simple Past tense for actions completed in the past?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rule R28",
+        "text_ta": "Rule R28"
+      },
+      {
+        "key": "B",
+        "text_en": "Rule R11",
+        "text_ta": "Rule R11"
+      },
+      {
+        "key": "C",
+        "text_en": "Rule R3",
+        "text_ta": "Rule R3"
+      },
+      {
+        "key": "D",
+        "text_en": "Rule R22",
+        "text_ta": "Rule R22"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R11 states: 'The simple past tense is used to describe actions that were completed in the past.'",
+    "explanation_ta": "Rule R11 states: 'The simple past tense is used to describe actions that were completed in the past.'",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R11"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What does page 93 of the grammatical reference provide for learners?",
+    "question_ta": "What does page 93 of the grammatical reference provide for learners?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A structural breakdown of Future Perfect Continuous tense",
+        "text_ta": "A structural breakdown of Future Perfect Continuous tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Glossary of universal truths",
+        "text_ta": "Glossary of universal truths"
+      },
+      {
+        "key": "C",
+        "text_en": "A table of various English verbs in the past tense alongside their corresponding Tamil translations",
+        "text_ta": "A table of various English verbs in the past tense alongside their corresponding Tamil translations"
+      },
+      {
+        "key": "D",
+        "text_en": "Rules for Present Continuous tense formation",
+        "text_ta": "Rules for Present Continuous tense formation"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Summary for p93 states that it provides a table of various English verbs in the past tense alongside their corresponding Tamil translations.",
+    "explanation_ta": "Summary for p93 states that it provides a table of various English verbs in the past tense alongside their corresponding Tamil translations.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Summary p93"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the Tamil meaning for the action happening now: 'Swimming'.",
+    "question_ta": "Identify the Tamil meaning for the action happening now: 'Swimming'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "நீந்தினாள்",
+        "text_ta": "நீந்தினாள்"
+      },
+      {
+        "key": "B",
+        "text_en": "நீந்துவார்கள்",
+        "text_ta": "நீந்துவார்கள்"
+      },
+      {
+        "key": "C",
+        "text_en": "நீந்திக் கொண்டிருந்தார்கள்",
+        "text_ta": "நீந்திக் கொண்டிருந்தார்கள்"
+      },
+      {
+        "key": "D",
+        "text_en": "நீந்துகிறார்கள்",
+        "text_ta": "நீந்துகிறார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G22 indicates that 'Swimming' as an action happening now translates to 'நீந்துகிறார்கள்'.",
+    "explanation_ta": "Glossary item G22 indicates that 'Swimming' as an action happening now translates to 'நீந்துகிறார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G22"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which tense indicates an action that will be completed before a specific point or time in the future?",
+    "question_ta": "Which tense indicates an action that will be completed before a specific point or time in the future?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simple Future Tense",
+        "text_ta": "Simple Future Tense"
+      },
+      {
+        "key": "B",
+        "text_en": "Future Perfect Tense",
+        "text_ta": "Future Perfect Tense"
+      },
+      {
+        "key": "C",
+        "text_en": "Future Continuous Tense",
+        "text_ta": "Future Continuous Tense"
+      },
+      {
+        "key": "D",
+        "text_en": "Future Perfect Continuous Tense",
+        "text_ta": "Future Perfect Continuous Tense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Rule R26 states that the Future Perfect tense expresses an action that will be completed before a specific point or time in the future.",
+    "explanation_ta": "Rule R26 states that the Future Perfect tense expresses an action that will be completed before a specific point or time in the future.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R26"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil translation corresponding to the glossary entry 'Will have departed'?",
+    "question_ta": "What is the Tamil translation corresponding to the glossary entry 'Will have departed'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "புறப்பட்டிருப்பார்கள்",
+        "text_ta": "புறப்பட்டிருப்பார்கள்"
+      },
+      {
+        "key": "B",
+        "text_en": "புறப்பட்டுவிட்டது",
+        "text_ta": "புறப்பட்டுவிட்டது"
+      },
+      {
+        "key": "C",
+        "text_en": "புறப்பட்டிருக்கும்",
+        "text_ta": "புறப்பட்டிருக்கும்"
+      },
+      {
+        "key": "D",
+        "text_en": "புறப்பட்டுவிட்டாள்",
+        "text_ta": "புறப்பட்டுவிட்டாள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary G90 matches 'Will have departed' with the Tamil translation 'புறப்பட்டிருக்கும்'.",
+    "explanation_ta": "Glossary G90 matches 'Will have departed' with the Tamil translation 'புறப்பட்டிருக்கும்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G90"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which phrase represents an ongoing action in the future leading up to a specific point, matching 'Will have been living'?",
+    "question_ta": "Which phrase represents an ongoing action in the future leading up to a specific point, matching 'Will have been living'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "வேலை செய்து கொண்டிருப்போம்",
+        "text_ta": "வேலை செய்து கொண்டிருப்போம்"
+      },
+      {
+        "key": "B",
+        "text_en": "காத்திருந்திருப்பேன்",
+        "text_ta": "காத்திருந்திருப்பேன்"
+      },
+      {
+        "key": "C",
+        "text_en": "படித்து கொண்டிருப்பாள்",
+        "text_ta": "படித்து கொண்டிருப்பாள்"
+      },
+      {
+        "key": "D",
+        "text_en": "வசித்து இருப்பார்கள்",
+        "text_ta": "வசித்து இருப்பார்கள்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G95 maps 'Will have been living' to 'வசித்து இருப்பார்கள்'.",
+    "explanation_ta": "Glossary item G95 maps 'Will have been living' to 'வசித்து இருப்பார்கள்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G95"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the correct English tense and meaning category for the Tamil phrase 'வாங்கியுள்ளோம்'.",
+    "question_ta": "Identify the correct English tense and meaning category for the Tamil phrase 'வாங்கியுள்ளோம்'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Have bought (completed action)",
+        "text_ta": "Have bought (completed action)"
+      },
+      {
+        "key": "B",
+        "text_en": "Had bought (past action completed before another)",
+        "text_ta": "Had bought (past action completed before another)"
+      },
+      {
+        "key": "C",
+        "text_en": "Will have built (future completed action)",
+        "text_ta": "Will have built (future completed action)"
+      },
+      {
+        "key": "D",
+        "text_en": "Are buying (action happening now)",
+        "text_ta": "Are buying (action happening now)"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glossary item G32 lists 'Have bought' as a completed action with the Tamil translation 'வாங்கியுள்ளோம்'.",
+    "explanation_ta": "Glossary item G32 lists 'Have bought' as a completed action with the Tamil translation 'வாங்கியுள்ளோம்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G32"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the primary function of page 94 in the translation framework?",
+    "question_ta": "What is the primary function of page 94 in the translation framework?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Listing vocabulary for ongoing actions in the present",
+        "text_ta": "Listing vocabulary for ongoing actions in the present"
+      },
+      {
+        "key": "B",
+        "text_en": "Detailing Future Perfect Continuous sentence formulas",
+        "text_ta": "Detailing Future Perfect Continuous sentence formulas"
+      },
+      {
+        "key": "C",
+        "text_en": "Providing a structured comparison of English and Tamil sentence patterns focusing on Simple Past and Past Continuous tenses",
+        "text_ta": "Providing a structured comparison of English and Tamil sentence patterns focusing on Simple Past and Past Continuous tenses"
+      },
+      {
+        "key": "D",
+        "text_en": "Explaining universal truths in Simple Present",
+        "text_ta": "Explaining universal truths in Simple Present"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Summary for p94 highlights a structured comparison of English and Tamil sentence patterns focusing on Simple Past and Past Continuous tenses.",
+    "explanation_ta": "Summary for p94 highlights a structured comparison of English and Tamil sentence patterns focusing on Simple Past and Past Continuous tenses.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Summary p94"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Match the glossary item 'Had explained' with its proper Tamil translation.",
+    "question_ta": "Match the glossary item 'Had explained' with its proper Tamil translation.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "விளக்கிக் கொண்டிருந்தார்",
+        "text_ta": "விளக்கிக் கொண்டிருந்தார்"
+      },
+      {
+        "key": "B",
+        "text_en": "விளக்குவார்",
+        "text_ta": "விளக்குவார்"
+      },
+      {
+        "key": "C",
+        "text_en": "விளக்கியிருந்தார்",
+        "text_ta": "விளக்கியிருந்தார்"
+      },
+      {
+        "key": "D",
+        "text_en": "விளக்கிவிட்டார்",
+        "text_ta": "விளக்கிவிட்டார்"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G73 lists 'Had explained' as an action completed before another past action, translated as 'விளக்கியிருந்தார்'.",
+    "explanation_ta": "Glossary item G73 lists 'Had explained' as an action completed before another past action, translated as 'விளக்கியிருந்தார்'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G73"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Which sentence structure is explicitly designated for Past Continuous tense ongoing past actions?",
+    "question_ta": "Which sentence structure is explicitly designated for Past Continuous tense ongoing past actions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "was/were + verb-ing",
+        "text_ta": "was/were + verb-ing"
+      },
+      {
+        "key": "B",
+        "text_en": "had + past participle",
+        "text_ta": "had + past participle"
+      },
+      {
+        "key": "C",
+        "text_en": "will have + past participle",
+        "text_ta": "will have + past participle"
+      },
+      {
+        "key": "D",
+        "text_en": "verb root + s/es",
+        "text_ta": "verb root + s/es"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rule R13 notes that Past Continuous tense uses 'was/were' + verb-ing to denote ongoing actions in the past.",
+    "explanation_ta": "Rule R13 notes that Past Continuous tense uses 'was/were' + verb-ing to denote ongoing actions in the past.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Rule R13"
+  },
+  {
+    "subject": "English",
+    "unit": "Translation",
+    "menu": "Tense-related Translation",
+    "topic": "Tense-related Translation",
+    "topic_id": "tense-related_translation",
+    "topic_ta": "Tense-related Translation",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the Tamil meaning for the completed past action 'Slept'?",
+    "question_ta": "What is the Tamil meaning for the completed past action 'Slept'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "தூங்கிக் கொண்டிருந்தாய்",
+        "text_ta": "தூங்கிக் கொண்டிருந்தாய்"
+      },
+      {
+        "key": "B",
+        "text_en": "தூங்குவாள்",
+        "text_ta": "தூங்குவாள்"
+      },
+      {
+        "key": "C",
+        "text_en": "தூங்கிவிட்டான்",
+        "text_ta": "தூங்கிவிட்டான்"
+      },
+      {
+        "key": "D",
+        "text_en": "தூங்கியது",
+        "text_ta": "தூங்கியது"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Glossary item G41 lists 'Slept' as a completed action in the past with the Tamil translation 'தூங்கியது'.",
+    "explanation_ta": "Glossary item G41 lists 'Slept' as a completed action in the past with the Tamil translation 'தூங்கியது'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "Tense-related Translation",
+    "source_note": "Glossary G41"
+  }
+]

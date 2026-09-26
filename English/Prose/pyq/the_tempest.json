@@ -1,0 +1,150 @@
+{
+  "prose_id": "the_tempest",
+  "prose_title": "The Tempest",
+  "questions": [
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "28. \"No girl\" answered the father -------- who is the girl here?",
+      "options_en": [
+        "A Mirinda",
+        "B Angelene",
+        "",
+        ""
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b001",
+      "band": "prose_pyq_b001"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "31. The Duke of Milan was --------",
+      "options_en": [
+        "(A) Ferdinand",
+        "(B) Prospero",
+        "(C) Ariel",
+        "(D) Gonzalo"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b002",
+      "band": "prose_pyq_b002"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "41. The character 'Ariel' in the tempest is -----------",
+      "options_en": [
+        "(A) a witch",
+        "(B) a human",
+        "(C) a good spirit",
+        "(D) an ugly monster"
+      ],
+      "answer_en": "",
+      "answer_letter": null,
+      "has_marked_answer": false,
+      "source_note": "prose_pyq_b002",
+      "band": "prose_pyq_b002"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "25. What game did Ferdinand play with Miranda in the Island?",
+      "options_en": [
+        "(A) Carrom",
+        "(B) Hide and Seek",
+        "(C) Cards",
+        "(D) Chess"
+      ],
+      "answer_en": "(D) Chess",
+      "answer_letter": "D",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b002",
+      "band": "prose_pyq_b002"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "53. Who is the author of the lesson \"TEMPEST\"?",
+      "options_en": [
+        "(A) Charles Lamb",
+        "(B) Browning",
+        "(C) Shakespeare",
+        "(D) Wordsworth"
+      ],
+      "answer_en": "(C) Shakespeare",
+      "answer_letter": "C",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b002",
+      "band": "prose_pyq_b002"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "52. Miranda is the beautiful daughter of ------------- in William Shakespeare's 'The tempest'.",
+      "options_en": [
+        "(A) Sycorax",
+        "(B) Prospero",
+        "(C) Caliban",
+        "(D) Antonio"
+      ],
+      "answer_en": "(B) Prospero",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b002",
+      "band": "prose_pyq_b002"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "Miranda is the beautiful daughter of _________ in William Shakespeare's 'The tempest'.",
+      "options_en": [
+        "Sycorax",
+        "Prospero",
+        "Caliban",
+        "Antonio"
+      ],
+      "answer_en": "Prospero",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b003",
+      "band": "prose_pyq_b003"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "Sycorax was _________ to Ariel in the lesson, \"The Tempest\".",
+      "options_en": [
+        "an old enemy",
+        "a friend",
+        "a brother",
+        "the master"
+      ],
+      "answer_en": "an old enemy",
+      "answer_letter": "A",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b003",
+      "band": "prose_pyq_b003"
+    },
+    {
+      "prose_title": "The Tempest",
+      "prose_id": "the_tempest",
+      "question_en": "William Shakespeare's birth place was",
+      "options_en": [
+        "Yorkshire",
+        "Stratford-Upon-Avon",
+        "London",
+        "Durban"
+      ],
+      "answer_en": "Stratford-Upon-Avon",
+      "answer_letter": "B",
+      "has_marked_answer": true,
+      "source_note": "prose_pyq_b003",
+      "band": "prose_pyq_b003"
+    }
+  ]
+}

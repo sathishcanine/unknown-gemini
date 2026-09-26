@@ -1,0 +1,109 @@
+{
+  "poem_id": "the_river",
+  "poem_title": "The River",
+  "author": "Caroline Ann Bowles",
+  "num": 21,
+  "pdf_pages": [
+    72,
+    75
+  ],
+  "poem_text_en": "River, river, little river!\nBright you sparkle on your way;\nO’er the yellow pebbles dancing,\nThrough the flowers and foliage glancing,\nLike a child at play.\n\nRiver, river! Swelling river!\nOn you rush through rough and smooth;\nLouder, faster, brawling, leaping.\nOver rocks, by rose-banks, sweeping\nLike impetuous youth.\n\nRiver, river! Brimming river!\nBroad and deep, and still as time;\nSeeming still, yet still in motion,\nTending onward to the ocean,\nJust like mortal prime.\n\nRiver, river! Headlong river!\nDown you dash into the sea,\nSea that line hath never sounded,\nSea that sail hath never rounded,\nLike eternity.",
+  "summary_en": "Caroline Ann Bowles compares the life of a river to the different stages of human life. From the playful childhood and impetuous youth to the mature prime and final eternity, the poem illustrates the river's journey as a reflection of man's growth and eventual transition to the unknown.",
+  "glossary": [
+    {
+      "word_en": "foliage",
+      "meaning_en": "a cluster of leaves, flowers and branches"
+    },
+    {
+      "word_en": "glancing",
+      "meaning_en": "touching or hitting something lightly from the side"
+    },
+    {
+      "word_en": "swelling",
+      "meaning_en": "becoming greater in intensity or volume"
+    },
+    {
+      "word_en": "rose-banks",
+      "meaning_en": "riverbanks where roses appear along"
+    },
+    {
+      "word_en": "impetuous",
+      "meaning_en": "acting quickly and without thought or care"
+    },
+    {
+      "word_en": "tending",
+      "meaning_en": "going in a particular way"
+    },
+    {
+      "word_en": "headlong",
+      "meaning_en": "with the head first and the rest of the body following"
+    },
+    {
+      "word_en": "hath",
+      "meaning_en": "the third person singular form of 'have'"
+    },
+    {
+      "word_en": "eternity",
+      "meaning_en": "life continuing without end after death"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "simile",
+      "example_en": "Like a child at play",
+      "note_en": "Comparing the movement of the river to a child."
+    },
+    {
+      "device_en": "simile",
+      "example_en": "Like impetuous youth",
+      "note_en": "Comparing the river's rush to the energy of youth."
+    },
+    {
+      "device_en": "simile",
+      "example_en": "Like eternity",
+      "note_en": "Comparing the sea to the concept of eternity."
+    },
+    {
+      "device_en": "anaphora",
+      "example_en": "Sea that line hath never sounded, / Sea that sail hath never rounded",
+      "note_en": "Repetition of 'Sea that' at the beginning of successive lines."
+    },
+    {
+      "device_en": "epithet",
+      "example_en": "Little river",
+      "note_en": "Use of descriptive adjective attribute."
+    },
+    {
+      "device_en": "alliteration",
+      "example_en": "Seeming still, yet still",
+      "note_en": "Repetition of the 's' sound."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Caroline Ann Bowles (1786-1854) was the wife of poet laureate Robert Southey.",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem uses a four-stanza structure to map the river's journey to human life stages.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "The poem contains imagery like 'yellow pebbles' and 'rose-banks'.",
+      "tag": "fos"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "In the poem 'The River', the poet compares the flow of the river with ___________.",
+      "answer_en": "stages of human life",
+      "options_en": [
+        "prime phase",
+        "the yellow pebbles",
+        "motionless",
+        "stages of human life"
+      ],
+      "tag": "short_answer"
+    }
+  ]
+}

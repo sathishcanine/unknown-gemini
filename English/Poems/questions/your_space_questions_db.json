@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Who is the author of the poem under test?",
+    "question_ta": "Who is the author of the poem under test?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "William Shakespeare",
+        "text_ta": "William Shakespeare"
+      },
+      {
+        "key": "B",
+        "text_en": "William Wordsworth",
+        "text_ta": "William Wordsworth"
+      },
+      {
+        "key": "C",
+        "text_en": "John Keats",
+        "text_ta": "John Keats"
+      },
+      {
+        "key": "D",
+        "text_en": "David Bates",
+        "text_ta": "David Bates"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The poem is written by David Bates as per the ground truth.",
+    "explanation_ta": "The poem is written by David Bates as per the ground truth.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "R1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the poet, it is better far to rule by what than fear?",
+    "question_ta": "According to the poet, it is better far to rule by what than fear?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "love",
+        "text_ta": "love"
+      },
+      {
+        "key": "B",
+        "text_en": "anger",
+        "text_ta": "anger"
+      },
+      {
+        "key": "C",
+        "text_en": "power",
+        "text_ta": "power"
+      },
+      {
+        "key": "D",
+        "text_en": "wealth",
+        "text_ta": "wealth"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem states: 'It is better far to rule by love, than fear'.",
+    "explanation_ta": "The poem states: 'It is better far to rule by love, than fear'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "W1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the poet advise us not to let harsh words mar?",
+    "question_ta": "What does the poet advise us not to let harsh words mar?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The good we might do here",
+        "text_ta": "The good we might do here"
+      },
+      {
+        "key": "B",
+        "text_en": "Our physical strength",
+        "text_ta": "Our physical strength"
+      },
+      {
+        "key": "C",
+        "text_en": "Our daily wealth and property",
+        "text_ta": "Our daily wealth and property"
+      },
+      {
+        "key": "D",
+        "text_en": "The future plans we make",
+        "text_ta": "The future plans we make"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem says: 'let not harsh words mar / The good we might do here!'",
+    "explanation_ta": "The poem says: 'let not harsh words mar / The good we might do here!'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does Love whisper low according to the second stanza?",
+    "question_ta": "What does Love whisper low according to the second stanza?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The vows that true hearts bind",
+        "text_ta": "The vows that true hearts bind"
+      },
+      {
+        "key": "B",
+        "text_en": "Tales of ancient history",
+        "text_ta": "Tales of ancient history"
+      },
+      {
+        "key": "C",
+        "text_en": "Secrets of the deep universe",
+        "text_ta": "Secrets of the deep universe"
+      },
+      {
+        "key": "D",
+        "text_en": "Words of warning and caution",
+        "text_ta": "Words of warning and caution"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The text states: 'Love doth whisper low / The vows that true hearts bind'.",
+    "explanation_ta": "The text states: 'Love doth whisper low / The vows that true hearts bind'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How should we teach the little child?",
+    "question_ta": "How should we teach the little child?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "In accents soft and mild",
+        "text_ta": "In accents soft and mild"
+      },
+      {
+        "key": "B",
+        "text_en": "Through harsh and demanding rules",
+        "text_ta": "Through harsh and demanding rules"
+      },
+      {
+        "key": "C",
+        "text_en": "With strict and loud commands",
+        "text_ta": "With strict and loud commands"
+      },
+      {
+        "key": "D",
+        "text_en": "Using rapid and stern tones",
+        "text_ta": "Using rapid and stern tones"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem instructs: 'Teach it in accents soft and mild'.",
+    "explanation_ta": "The poem instructs: 'Teach it in accents soft and mild'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "W2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Why should we speak gently to the young?",
+    "question_ta": "Why should we speak gently to the young?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They will have enough to bear and life is full of anxious care",
+        "text_ta": "They will have enough to bear and life is full of anxious care"
+      },
+      {
+        "key": "B",
+        "text_en": "They do not understand harsh words at all",
+        "text_ta": "They do not understand harsh words at all"
+      },
+      {
+        "key": "C",
+        "text_en": "They are already wiser than adults",
+        "text_ta": "They are already wiser than adults"
+      },
+      {
+        "key": "D",
+        "text_en": "They possess all the wealth of the world",
+        "text_ta": "They possess all the wealth of the world"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The poem explains: 'Speak gently to the young, for they / Will have enough to bear – / Pass through this life as best they may, / ‘T is full of anxious care!'",
+    "explanation_ta": "The poem explains: 'Speak gently to the young, for they / Will have enough to bear – / Pass through this life as best they may, / ‘T is full of anxious care!'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Whose care-worn heart should we take care not to grieve?",
+    "question_ta": "Whose care-worn heart should we take care not to grieve?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The young warrior",
+        "text_ta": "The young warrior"
+      },
+      {
+        "key": "B",
+        "text_en": "The wealthy ruler",
+        "text_ta": "The wealthy ruler"
+      },
+      {
+        "key": "C",
+        "text_en": "The aged one",
+        "text_ta": "The aged one"
+      },
+      {
+        "key": "D",
+        "text_en": "The little child",
+        "text_ta": "The little child"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem advises: 'Speak gently to the aged one, / Grieve not the care-worn heart'.",
+    "explanation_ta": "The poem advises: 'Speak gently to the aged one, / Grieve not the care-worn heart'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the line: 'Let no ____ tone be ____.'",
+    "question_ta": "Complete the line: 'Let no ____ tone be ____.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "rough, found",
+        "text_ta": "rough, found"
+      },
+      {
+        "key": "B",
+        "text_en": "loud, spoken",
+        "text_ta": "loud, spoken"
+      },
+      {
+        "key": "C",
+        "text_en": "harsh, heard",
+        "text_ta": "harsh, heard"
+      },
+      {
+        "key": "D",
+        "text_en": "wild, seen",
+        "text_ta": "wild, seen"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The textbook worked exercise states: 'Let no harsh tone be heard.'",
+    "explanation_ta": "The textbook worked exercise states: 'Let no harsh tone be heard.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "W3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the poet say about the poor in relation to harsh words?",
+    "question_ta": "What does the poet say about the poor in relation to harsh words?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They deserve harsh words to make them work harder",
+        "text_ta": "They deserve harsh words to make them work harder"
+      },
+      {
+        "key": "B",
+        "text_en": "Let no harsh tone be heard when speaking to them",
+        "text_ta": "Let no harsh tone be heard when speaking to them"
+      },
+      {
+        "key": "C",
+        "text_en": "They are immune to harsh words",
+        "text_ta": "They are immune to harsh words"
+      },
+      {
+        "key": "D",
+        "text_en": "Harsh words help them endure poverty",
+        "text_ta": "Harsh words help them endure poverty"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poem instructs: 'Speak gently, kindly, to the poor; / Let no harsh tone be heard'.",
+    "explanation_ta": "The poem instructs: 'Speak gently, kindly, to the poor; / Let no harsh tone be heard'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the poetic phrase: 'They may have ____ in ____.'",
+    "question_ta": "Complete the poetic phrase: 'They may have ____ in ____.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "struggled, rain",
+        "text_ta": "struggled, rain"
+      },
+      {
+        "key": "B",
+        "text_en": "worked, pain",
+        "text_ta": "worked, pain"
+      },
+      {
+        "key": "C",
+        "text_en": "failed, strain",
+        "text_ta": "failed, strain"
+      },
+      {
+        "key": "D",
+        "text_en": "toiled, vain",
+        "text_ta": "toiled, vain"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The text reads: 'They may have toiled in vain'.",
+    "explanation_ta": "The text reads: 'They may have toiled in vain'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "W4"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How should we treat the erring according to the poet?",
+    "question_ta": "How should we treat the erring according to the poet?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Scold them with harsh words",
+        "text_ta": "Scold them with harsh words"
+      },
+      {
+        "key": "B",
+        "text_en": "Speak gently and win them back",
+        "text_ta": "Speak gently and win them back"
+      },
+      {
+        "key": "C",
+        "text_en": "Ignore them completely",
+        "text_ta": "Ignore them completely"
+      },
+      {
+        "key": "D",
+        "text_en": "Punish them severely for their mistakes",
+        "text_ta": "Punish them severely for their mistakes"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The poet advises: 'Speak gently to the erring – know, / They may have toiled in vain; / Perchance unkindness made them so; / Oh, win them back again!'",
+    "explanation_ta": "The poet advises: 'Speak gently to the erring – know, / They may have toiled in vain; / Perchance unkindness made them so; / Oh, win them back again!'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did He who gave His life say when elements were in fierce strife?",
+    "question_ta": "What did He who gave His life say when elements were in fierce strife?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Calm down immediately",
+        "text_ta": "Calm down immediately"
+      },
+      {
+        "key": "B",
+        "text_en": "Hear my voice and obey",
+        "text_ta": "Hear my voice and obey"
+      },
+      {
+        "key": "C",
+        "text_en": "Peace, be still",
+        "text_ta": "Peace, be still"
+      },
+      {
+        "key": "D",
+        "text_en": "Let the storm rage on",
+        "text_ta": "Let the storm rage on"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The poem states: 'When elements were in fierce strife, / Said to them, ‘Peace, be still.’'",
+    "explanation_ta": "The poem states: 'When elements were in fierce strife, / Said to them, ‘Peace, be still.’'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the lines: 'The ____, the ____, which it may bring.'",
+    "question_ta": "Complete the lines: 'The ____, the ____, which it may bring.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "love, peace",
+        "text_ta": "love, peace"
+      },
+      {
+        "key": "B",
+        "text_en": "hope, light",
+        "text_ta": "hope, light"
+      },
+      {
+        "key": "C",
+        "text_en": "good, joy",
+        "text_ta": "good, joy"
+      },
+      {
+        "key": "D",
+        "text_en": "kind, warm",
+        "text_ta": "kind, warm"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The textbook worked exercise shows: 'The good, the joy, which it may bring.'",
+    "explanation_ta": "The textbook worked exercise shows: 'The good, the joy, which it may bring.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "W5"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What shall tell of the good and joy brought by gentle words dropped in the heart's deep well?",
+    "question_ta": "What shall tell of the good and joy brought by gentle words dropped in the heart's deep well?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The mortal world",
+        "text_ta": "The mortal world"
+      },
+      {
+        "key": "B",
+        "text_en": "The passing wind",
+        "text_ta": "The passing wind"
+      },
+      {
+        "key": "C",
+        "text_en": "Future historians",
+        "text_ta": "Future historians"
+      },
+      {
+        "key": "D",
+        "text_en": "Eternity",
+        "text_ta": "Eternity"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The concluding lines state: 'The good, the joy, which it may bring, / Eternity shall tell.'",
+    "explanation_ta": "The concluding lines state: 'The good, the joy, which it may bring, / Eternity shall tell.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "Poem Text"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Complete the phrase: 'The ____ of ____ are nearly run.'",
+    "question_ta": "Complete the phrase: 'The ____ of ____ are nearly run.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "years, age",
+        "text_ta": "years, age"
+      },
+      {
+        "key": "B",
+        "text_en": "sands, life",
+        "text_ta": "sands, life"
+      },
+      {
+        "key": "C",
+        "text_en": "days, youth",
+        "text_ta": "days, youth"
+      },
+      {
+        "key": "D",
+        "text_en": "hours, time",
+        "text_ta": "hours, time"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The textbook exercise reads: 'The sands of life are nearly run.'",
+    "explanation_ta": "The textbook exercise reads: 'The sands of life are nearly run.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "W6"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the line: 'The sands of life are nearly run.'",
+    "question_ta": "Identify the figure of speech in the line: 'The sands of life are nearly run.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Oxymoron",
+        "text_ta": "Oxymoron"
+      },
+      {
+        "key": "D",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Life is compared directly to the sand in an hourglass, which is a metaphor.",
+    "explanation_ta": "Life is compared directly to the sand in an hourglass, which is a metaphor.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "F1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the figure of speech in the phrase: 'Love doth whisper low.'",
+    "question_ta": "Identify the figure of speech in the phrase: 'Love doth whisper low.'",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Personification",
+        "text_ta": "Personification"
+      },
+      {
+        "key": "B",
+        "text_en": "Metaphor",
+        "text_ta": "Metaphor"
+      },
+      {
+        "key": "C",
+        "text_en": "Alliteration",
+        "text_ta": "Alliteration"
+      },
+      {
+        "key": "D",
+        "text_en": "Simile",
+        "text_ta": "Simile"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Love is given the human quality of whispering, making it personification.",
+    "explanation_ta": "Love is given the human quality of whispering, making it personification.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "F2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the general rhyme scheme of the stanzas in the poem?",
+    "question_ta": "What is the general rhyme scheme of the stanzas in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "abab",
+        "text_ta": "abab"
+      },
+      {
+        "key": "B",
+        "text_en": "aabb",
+        "text_ta": "aabb"
+      },
+      {
+        "key": "C",
+        "text_en": "abba",
+        "text_ta": "abba"
+      },
+      {
+        "key": "D",
+        "text_en": "abcd",
+        "text_ta": "abcd"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The rhyme scheme of the stanzas is generally abab.",
+    "explanation_ta": "The rhyme scheme of the stanzas is generally abab.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "R3"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Find out the meaning of the glossary word 'harsh'.",
+    "question_ta": "Find out the meaning of the glossary word 'harsh'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "soft",
+        "text_ta": "soft"
+      },
+      {
+        "key": "B",
+        "text_en": "sweet",
+        "text_ta": "sweet"
+      },
+      {
+        "key": "C",
+        "text_en": "gentle",
+        "text_ta": "gentle"
+      },
+      {
+        "key": "D",
+        "text_en": "rough",
+        "text_ta": "rough"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the glossary, 'harsh' means 'rough'.",
+    "explanation_ta": "According to the glossary, 'harsh' means 'rough'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G1"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the archaic word 'doth' as per the glossary?",
+    "question_ta": "What is the meaning of the archaic word 'doth' as per the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "doing",
+        "text_ta": "doing"
+      },
+      {
+        "key": "B",
+        "text_en": "done",
+        "text_ta": "done"
+      },
+      {
+        "key": "C",
+        "text_en": "does",
+        "text_ta": "does"
+      },
+      {
+        "key": "D",
+        "text_en": "did",
+        "text_ta": "did"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary defines 'doth' as 'does'.",
+    "explanation_ta": "The glossary defines 'doth' as 'does'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G2"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary term 'anxious' mean?",
+    "question_ta": "What does the glossary term 'anxious' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Being completely fearless and bold",
+        "text_ta": "Being completely fearless and bold"
+      },
+      {
+        "key": "B",
+        "text_en": "Feeling extremely joyful and calm",
+        "text_ta": "Feeling extremely joyful and calm"
+      },
+      {
+        "key": "C",
+        "text_en": "Showing total indifference",
+        "text_ta": "Showing total indifference"
+      },
+      {
+        "key": "D",
+        "text_en": "Feeling worried or showing worry",
+        "text_ta": "Feeling worried or showing worry"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The glossary defines 'anxious' as feeling worried or showing worry.",
+    "explanation_ta": "The glossary defines 'anxious' as feeling worried or showing worry.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G5"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'grieve' according to the glossary?",
+    "question_ta": "What is the meaning of the word 'grieve' according to the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rejoice greatly",
+        "text_ta": "Rejoice greatly"
+      },
+      {
+        "key": "B",
+        "text_en": "Be sorrowful",
+        "text_ta": "Be sorrowful"
+      },
+      {
+        "key": "C",
+        "text_en": "Speak loudly",
+        "text_ta": "Speak loudly"
+      },
+      {
+        "key": "D",
+        "text_en": "Run swiftly",
+        "text_ta": "Run swiftly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The glossary defines 'grieve' as 'be sorrowful'.",
+    "explanation_ta": "The glossary defines 'grieve' as 'be sorrowful'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G6"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to the glossary, what does 'depart' mean?",
+    "question_ta": "According to the glossary, what does 'depart' mean?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Leave/go",
+        "text_ta": "Leave/go"
+      },
+      {
+        "key": "B",
+        "text_en": "Arrive/stay",
+        "text_ta": "Arrive/stay"
+      },
+      {
+        "key": "C",
+        "text_en": "Return/come",
+        "text_ta": "Return/come"
+      },
+      {
+        "key": "D",
+        "text_en": "Sit/rest",
+        "text_ta": "Sit/rest"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The glossary defines 'depart' as 'leave/go'.",
+    "explanation_ta": "The glossary defines 'depart' as 'leave/go'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G7"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'endure' based on the glossary?",
+    "question_ta": "What is the meaning of the word 'endure' based on the glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Reject completely",
+        "text_ta": "Reject completely"
+      },
+      {
+        "key": "B",
+        "text_en": "Fight aggressively",
+        "text_ta": "Fight aggressively"
+      },
+      {
+        "key": "C",
+        "text_en": "Enjoy happily",
+        "text_ta": "Enjoy happily"
+      },
+      {
+        "key": "D",
+        "text_en": "Suffer patiently",
+        "text_ta": "Suffer patiently"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The glossary defines 'endure' as 'suffer patiently'.",
+    "explanation_ta": "The glossary defines 'endure' as 'suffer patiently'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G8"
+  },
+  {
+    "subject": "English",
+    "unit": "Poems",
+    "menu": "Your Space",
+    "topic": "Your Space",
+    "topic_id": "your_space",
+    "topic_ta": "Your Space",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Find the meaning of the word 'toiled' from the glossary.",
+    "question_ta": "Find the meaning of the word 'toiled' from the glossary.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Slept peacefully",
+        "text_ta": "Slept peacefully"
+      },
+      {
+        "key": "B",
+        "text_en": "Spoke softly",
+        "text_ta": "Spoke softly"
+      },
+      {
+        "key": "C",
+        "text_en": "Worked hard",
+        "text_ta": "Worked hard"
+      },
+      {
+        "key": "D",
+        "text_en": "Wandered aimlessly",
+        "text_ta": "Wandered aimlessly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The glossary defines 'toiled' as 'worked hard'.",
+    "explanation_ta": "The glossary defines 'toiled' as 'worked hard'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "your_space",
+    "source_note": "G9"
+  }
+]

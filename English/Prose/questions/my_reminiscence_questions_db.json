@@ -1,0 +1,1152 @@
+[
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Where did Rabindranath Tagore stay with his brother and sister-in-law during the peaceful creative days described in 'My Reminiscences'?",
+    "question_ta": "Where did Rabindranath Tagore stay with his brother and sister-in-law during the peaceful creative days described in 'My Reminiscences'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A riverside villa named 'Moran's Garden'",
+        "text_ta": "A riverside villa named 'Moran's Garden'"
+      },
+      {
+        "key": "B",
+        "text_en": "A quiet cottage in Shantiniketan",
+        "text_ta": "A quiet cottage in Shantiniketan"
+      },
+      {
+        "key": "C",
+        "text_en": "A mountain retreat in Darjeeling",
+        "text_ta": "A mountain retreat in Darjeeling"
+      },
+      {
+        "key": "D",
+        "text_en": "A ancestral mansion in Central Calcutta",
+        "text_ta": "A ancestral mansion in Central Calcutta"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tagore recalls staying at a riverside villa called 'Moran's Garden' in Chandernagore with his brother Jyotirindra and sister-in-law.",
+    "explanation_ta": "Tagore recalls staying at a riverside villa called 'Moran's Garden' in Chandernagore with his brother Jyotirindra and sister-in-law.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "R3: The author's riverside villa was known as 'Moran’s Garden'."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which river is vividly described by Tagore as flowing past their retreat and serving as food and drink to the hungry and thirsty?",
+    "question_ta": "Which river is vividly described by Tagore as flowing past their retreat and serving as food and drink to the hungry and thirsty?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ganges",
+        "text_ta": "Ganges"
+      },
+      {
+        "key": "B",
+        "text_en": "Padma",
+        "text_ta": "Padma"
+      },
+      {
+        "key": "C",
+        "text_en": "Brahmaputra",
+        "text_ta": "Brahmaputra"
+      },
+      {
+        "key": "D",
+        "text_en": "Yamuna",
+        "text_ta": "Yamuna"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tagore frequently speaks about the river Ganges and its calming, vital presence in the Bengal landscape.",
+    "explanation_ta": "Tagore frequently speaks about the river Ganges and its calming, vital presence in the Bengal landscape.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "W1: The author speaks about the river Ganges."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the name of the author's brother who accompanied him at the riverside villa?",
+    "question_ta": "What was the name of the author's brother who accompanied him at the riverside villa?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Debendranath",
+        "text_ta": "Debendranath"
+      },
+      {
+        "key": "B",
+        "text_en": "Dwijendranath",
+        "text_ta": "Dwijendranath"
+      },
+      {
+        "key": "C",
+        "text_en": "Jyotirindra",
+        "text_ta": "Jyotirindra"
+      },
+      {
+        "key": "D",
+        "text_en": "Satyendranath",
+        "text_ta": "Satyendranath"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tagore stayed with his brother Jyotirindra, who often played the violin while Tagore drifted in a boat or sang.",
+    "explanation_ta": "Tagore stayed with his brother Jyotirindra, who often played the violin while Tagore drifted in a boat or sang.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "W2: The author’s brother’s name is Jyotirindra."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What type of songs did Tagore spend some rainy afternoons singing away in a veritable frenzy to his own tunes?",
+    "question_ta": "What type of songs did Tagore spend some rainy afternoons singing away in a veritable frenzy to his own tunes?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Folk Ballads of Bengal",
+        "text_ta": "Folk Ballads of Bengal"
+      },
+      {
+        "key": "B",
+        "text_en": "Classical Ghazals",
+        "text_ta": "Classical Ghazals"
+      },
+      {
+        "key": "C",
+        "text_en": "Old Vaishnava Songs",
+        "text_ta": "Old Vaishnava Songs"
+      },
+      {
+        "key": "D",
+        "text_en": "Patriotic Songs",
+        "text_ta": "Patriotic Songs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The author spent his days singing old Vaishnava songs or drifting in a boat with his brother's violin accompaniment.",
+    "explanation_ta": "The author spent his days singing old Vaishnava songs or drifting in a boat with his brother's violin accompaniment.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "P5: Old Vaishnava Songs"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which collection of poems or songs did Tagore write while staying in the topmost room of the villa?",
+    "question_ta": "Which collection of poems or songs did Tagore write while staying in the topmost room of the villa?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sonar Tari",
+        "text_ta": "Sonar Tari"
+      },
+      {
+        "key": "B",
+        "text_en": "Morning Songs",
+        "text_ta": "Morning Songs"
+      },
+      {
+        "key": "C",
+        "text_en": "Gitanjali",
+        "text_ta": "Gitanjali"
+      },
+      {
+        "key": "D",
+        "text_en": "Evening Songs",
+        "text_ta": "Evening Songs"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Tagore wrote his 'Evening Songs' while occupying the topmost room of the house, which featured irregular rooms and stained-glass windows.",
+    "explanation_ta": "Tagore wrote his 'Evening Songs' while occupying the topmost room of the house, which featured irregular rooms and stained-glass windows.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "R4: Tagore wrote 'Evening Songs' while staying in the topmost room of the villa."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How does Tagore metaphorically describe the modern mills that encroach upon the peace of the past?",
+    "question_ta": "How does Tagore metaphorically describe the modern mills that encroach upon the peace of the past?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dragon-like figures belching black smoke",
+        "text_ta": "Dragon-like figures belching black smoke"
+      },
+      {
+        "key": "B",
+        "text_en": "Roaring beasts silencing the river",
+        "text_ta": "Roaring beasts silencing the river"
+      },
+      {
+        "key": "C",
+        "text_en": "Giant iron pillars piercing the sky",
+        "text_ta": "Giant iron pillars piercing the sky"
+      },
+      {
+        "key": "D",
+        "text_en": "Monster machines devouring the green fields",
+        "text_ta": "Monster machines devouring the green fields"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tagore laments the encroachment of modern 'dragon-like' mills and 'hydra-headed unrest' upon the natural peace.",
+    "explanation_ta": "Tagore laments the encroachment of modern 'dragon-like' mills and 'hydra-headed unrest' upon the natural peace.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "R5: The author compares modern mills to 'dragon-like' figures belching black smoke."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "At what age was 'My Reminiscences' published, shortly before Tagore's trip to Europe and America in 1912?",
+    "question_ta": "At what age was 'My Reminiscences' published, shortly before Tagore's trip to Europe and America in 1912?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fifty",
+        "text_ta": "Fifty"
+      },
+      {
+        "key": "B",
+        "text_en": "Forty",
+        "text_ta": "Forty"
+      },
+      {
+        "key": "C",
+        "text_en": "Sixty",
+        "text_ta": "Sixty"
+      },
+      {
+        "key": "D",
+        "text_en": "Seventy",
+        "text_ta": "Seventy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'My Reminiscences' was published when Tagore was fifty years old, serving as a nostalgic reflection before his 1912 journey.",
+    "explanation_ta": "'My Reminiscences' was published when Tagore was fifty years old, serving as a nostalgic reflection before his 1912 journey.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "R2: 'My Reminiscences' was published when Tagore was fifty, shortly before his 1912 trip to Europe/America."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the glossary word 'ineffable' mean in the context of literary expressions?",
+    "question_ta": "What does the glossary word 'ineffable' mean in the context of literary expressions?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Quickly fading away",
+        "text_ta": "Quickly fading away"
+      },
+      {
+        "key": "B",
+        "text_en": "Beyond expression; too great to be expressed",
+        "text_ta": "Beyond expression; too great to be expressed"
+      },
+      {
+        "key": "C",
+        "text_en": "Extremely loud and disturbing",
+        "text_ta": "Extremely loud and disturbing"
+      },
+      {
+        "key": "D",
+        "text_en": "Hidden from plain sight",
+        "text_ta": "Hidden from plain sight"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "According to the glossary, 'ineffable' translates to beyond expression or too great to be expressed.",
+    "explanation_ta": "According to the glossary, 'ineffable' translates to beyond expression or too great to be expressed.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "G1: ineffable = beyond expression; too great to be expressed"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the meaning of the word 'languid' as provided in the prose glossary?",
+    "question_ta": "What is the meaning of the word 'languid' as provided in the prose glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Shouting loudly",
+        "text_ta": "Shouting loudly"
+      },
+      {
+        "key": "B",
+        "text_en": "Moving slowly",
+        "text_ta": "Moving slowly"
+      },
+      {
+        "key": "C",
+        "text_en": "Brilliant and bright",
+        "text_ta": "Brilliant and bright"
+      },
+      {
+        "key": "D",
+        "text_en": "Running rapidly",
+        "text_ta": "Running rapidly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The glossary defines 'languid' as moving slowly.",
+    "explanation_ta": "The glossary defines 'languid' as moving slowly.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "G2: languid = moving slowly"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which of the following best describes the meaning of the word 'plaintive'?",
+    "question_ta": "Which of the following best describes the meaning of the word 'plaintive'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Filled with anger",
+        "text_ta": "Filled with anger"
+      },
+      {
+        "key": "B",
+        "text_en": "Exceedingly proud",
+        "text_ta": "Exceedingly proud"
+      },
+      {
+        "key": "C",
+        "text_en": "Sounding sad",
+        "text_ta": "Sounding sad"
+      },
+      {
+        "key": "D",
+        "text_en": "Sounding joyful",
+        "text_ta": "Sounding joyful"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In the glossary notes, 'plaintive' means sounding sad.",
+    "explanation_ta": "In the glossary notes, 'plaintive' means sounding sad.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "G3: plaintive = sounding sad"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the term 'ministrations' mean according to the lesson glossary?",
+    "question_ta": "What does the term 'ministrations' mean according to the lesson glossary?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The process of building houses",
+        "text_ta": "The process of building houses"
+      },
+      {
+        "key": "B",
+        "text_en": "The administration of justice",
+        "text_ta": "The administration of justice"
+      },
+      {
+        "key": "C",
+        "text_en": "The act of helping or caring",
+        "text_ta": "The act of helping or caring"
+      },
+      {
+        "key": "D",
+        "text_en": "The act of ruling a country",
+        "text_ta": "The act of ruling a country"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G4 defines 'ministrations' as the act of helping or caring.",
+    "explanation_ta": "Glossary item G4 defines 'ministrations' as the act of helping or caring.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "G4: ministrations = the act of helping or caring"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "In the context of the text, what does 'wrought' signify?",
+    "question_ta": "In the context of the text, what does 'wrought' signify?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Caused",
+        "text_ta": "Caused"
+      },
+      {
+        "key": "B",
+        "text_en": "Bought",
+        "text_ta": "Bought"
+      },
+      {
+        "key": "C",
+        "text_en": "Painted",
+        "text_ta": "Painted"
+      },
+      {
+        "key": "D",
+        "text_en": "Destroyed",
+        "text_ta": "Destroyed"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The glossary entry specifies that 'wrought' means caused.",
+    "explanation_ta": "The glossary entry specifies that 'wrought' means caused.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "G5: wrought = caused"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What does the word 'garb' mean based on the vocabulary list?",
+    "question_ta": "What does the word 'garb' mean based on the vocabulary list?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Landscape",
+        "text_ta": "Landscape"
+      },
+      {
+        "key": "B",
+        "text_en": "Vehicle",
+        "text_ta": "Vehicle"
+      },
+      {
+        "key": "C",
+        "text_en": "Clothes",
+        "text_ta": "Clothes"
+      },
+      {
+        "key": "D",
+        "text_en": "Shelter",
+        "text_ta": "Shelter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Glossary item G6 defines 'garb' as clothes.",
+    "explanation_ta": "Glossary item G6 defines 'garb' as clothes.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "G6: garb = clothes"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What natural feature glimmered over the smooth flowing stream during Tagore's tranquil evenings?",
+    "question_ta": "What natural feature glimmered over the smooth flowing stream during Tagore's tranquil evenings?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Lightning",
+        "text_ta": "Lightning"
+      },
+      {
+        "key": "B",
+        "text_en": "Moonlight",
+        "text_ta": "Moonlight"
+      },
+      {
+        "key": "C",
+        "text_en": "Starlight",
+        "text_ta": "Starlight"
+      },
+      {
+        "key": "D",
+        "text_en": "Sunlight",
+        "text_ta": "Sunlight"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The textbook worked exercises note that the moonlight glimmered over the smooth flowing stream.",
+    "explanation_ta": "The textbook worked exercises note that the moonlight glimmered over the smooth flowing stream.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "W3: The _________ glimmered over the smooth flowing stream. ⇒ moonlight"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was the overarching theme of Tagore's reflective prose piece 'My Reminiscences'?",
+    "question_ta": "What was the overarching theme of Tagore's reflective prose piece 'My Reminiscences'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "An autobiography detailing his political campaigns",
+        "text_ta": "An autobiography detailing his political campaigns"
+      },
+      {
+        "key": "B",
+        "text_en": "A travelogue of his voyages across Western countries",
+        "text_ta": "A travelogue of his voyages across Western countries"
+      },
+      {
+        "key": "C",
+        "text_en": "A historical account of the Bengal partition",
+        "text_ta": "A historical account of the Bengal partition"
+      },
+      {
+        "key": "D",
+        "text_en": "A nostalgic reflection on a formative, nature-inspired period of his life",
+        "text_ta": "A nostalgic reflection on a formative, nature-inspired period of his life"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The summary notes that the text serves as a nostalgic reflection on a formative period spent connecting with nature.",
+    "explanation_ta": "The summary notes that the text serves as a nostalgic reflection on a formative period spent connecting with nature.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Summary: The text serves as a nostalgic reflection on a formative period of his life."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "How did Tagore experience the beauty of the river and the leisure of his stay at Chandernagore?",
+    "question_ta": "How did Tagore experience the beauty of the river and the leisure of his stay at Chandernagore?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "As an interruption to his formal education",
+        "text_ta": "As an interruption to his formal education"
+      },
+      {
+        "key": "B",
+        "text_en": "As a burdensome isolation from society",
+        "text_ta": "As a burdensome isolation from society"
+      },
+      {
+        "key": "C",
+        "text_en": "Like food and drink to the hungry and thirsty",
+        "text_ta": "Like food and drink to the hungry and thirsty"
+      },
+      {
+        "key": "D",
+        "text_en": "Like a chaotic storm disrupting his routine",
+        "text_ta": "Like a chaotic storm disrupting his routine"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tagore compared the beauty of the river and the leisure of the time to 'food and drink to the hungry and thirsty.'",
+    "explanation_ta": "Tagore compared the beauty of the river and the leisure of the time to 'food and drink to the hungry and thirsty.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Prose Excerpt: comparing the beauty of the river and the leisure of the time to 'food and drink to the hungry and thirsty.'"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What architectural feature characterized the house at 'Moran's Garden' where Tagore found sanctuary for his poetry?",
+    "question_ta": "What architectural feature characterized the house at 'Moran's Garden' where Tagore found sanctuary for his poetry?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A massive dome and subterranean chambers",
+        "text_ta": "A massive dome and subterranean chambers"
+      },
+      {
+        "key": "B",
+        "text_en": "Straw roofs and mud-plastered walls",
+        "text_ta": "Straw roofs and mud-plastered walls"
+      },
+      {
+        "key": "C",
+        "text_en": "Symmetrical arches and marble pillars",
+        "text_ta": "Symmetrical arches and marble pillars"
+      },
+      {
+        "key": "D",
+        "text_en": "Irregular rooms and stained-glass windows",
+        "text_ta": "Irregular rooms and stained-glass windows"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The house is described as having irregular rooms and stained-glass windows, serving as a sanctuary for his poetry.",
+    "explanation_ta": "The house is described as having irregular rooms and stained-glass windows, serving as a sanctuary for his poetry.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Prose Excerpt: The house, with its irregular rooms and stained-glass windows..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What did Tagore's brother Jyotirindra play to accompany Tagore while drifting in a boat?",
+    "question_ta": "What did Tagore's brother Jyotirindra play to accompany Tagore while drifting in a boat?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Flute",
+        "text_ta": "Flute"
+      },
+      {
+        "key": "B",
+        "text_en": "Harmonium",
+        "text_ta": "Harmonium"
+      },
+      {
+        "key": "C",
+        "text_en": "Sitar",
+        "text_ta": "Sitar"
+      },
+      {
+        "key": "D",
+        "text_en": "Violin",
+        "text_ta": "Violin"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Jyotirindra accompanied Tagore with his violin while Tagore drifted in a boat or sang.",
+    "explanation_ta": "Jyotirindra accompanied Tagore with his violin while Tagore drifted in a boat or sang.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Prose Excerpt: drifting in a boat with his brother’s violin accompaniment."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What contrast does Tagore draw between the past and modern life in his reminiscences?",
+    "question_ta": "What contrast does Tagore draw between the past and modern life in his reminiscences?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The poverty of the past versus the immense wealth of the modern era",
+        "text_ta": "The poverty of the past versus the immense wealth of the modern era"
+      },
+      {
+        "key": "B",
+        "text_en": "The silence of ancient villages versus the peaceful quiet of modern cities",
+        "text_ta": "The silence of ancient villages versus the peaceful quiet of modern cities"
+      },
+      {
+        "key": "C",
+        "text_en": "The serene natural beauty of the past versus industrialization and restless modern pace",
+        "text_ta": "The serene natural beauty of the past versus industrialization and restless modern pace"
+      },
+      {
+        "key": "D",
+        "text_en": "The rigidity of old traditions versus the complete freedom of modern society",
+        "text_ta": "The rigidity of old traditions versus the complete freedom of modern society"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "He contrasts the serene, natural beauty of the past with the industrialization and restless pace of modern life.",
+    "explanation_ta": "He contrasts the serene, natural beauty of the past with the industrialization and restless pace of modern life.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Summary: He contrasts the serene, natural beauty of the past with the industrialization and restless pace of modern life."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Which relative besides his brother did Tagore live with at the riverside villa in Chandernagore?",
+    "question_ta": "Which relative besides his brother did Tagore live with at the riverside villa in Chandernagore?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mother",
+        "text_ta": "Mother"
+      },
+      {
+        "key": "B",
+        "text_en": "Uncle",
+        "text_ta": "Uncle"
+      },
+      {
+        "key": "C",
+        "text_en": "Sister-in-law",
+        "text_ta": "Sister-in-law"
+      },
+      {
+        "key": "D",
+        "text_en": "Eldest sister",
+        "text_ta": "Eldest sister"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tagore revisits his brother Jyotirindra and sister-in-law at their riverside villa, 'Moran's Garden.'",
+    "explanation_ta": "Tagore revisits his brother Jyotirindra and sister-in-law at their riverside villa, 'Moran's Garden.'",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Prose Excerpt: The author revisits his brother Jyotirindra and sister-in-law at their riverside villa..."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What was Rabindranath Tagore's primary background according to biographical facts?",
+    "question_ta": "What was Rabindranath Tagore's primary background according to biographical facts?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "A Nobel prize-winning Bengali poet, author, and philosopher",
+        "text_ta": "A Nobel prize-winning Bengali poet, author, and philosopher"
+      },
+      {
+        "key": "B",
+        "text_en": "A British-trained barrister and social reformer",
+        "text_ta": "A British-trained barrister and social reformer"
+      },
+      {
+        "key": "C",
+        "text_en": "A renowned classical painter and court historian",
+        "text_ta": "A renowned classical painter and court historian"
+      },
+      {
+        "key": "D",
+        "text_en": "A pioneering scientist and mathematician",
+        "text_ta": "A pioneering scientist and mathematician"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rabindranath Tagore (1861-1941) was a Nobel prize-winning Bengali poet, author, and philosopher.",
+    "explanation_ta": "Rabindranath Tagore (1861-1941) was a Nobel prize-winning Bengali poet, author, and philosopher.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "R1: Rabindranath Tagore (1861-1941) was a Nobel prize-winning Bengali poet, author, and philosopher."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What inspired Tagore's poetry and music profoundly during his stay at Chandernagore?",
+    "question_ta": "What inspired Tagore's poetry and music profoundly during his stay at Chandernagore?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "The bustling commercial activity of the city",
+        "text_ta": "The bustling commercial activity of the city"
+      },
+      {
+        "key": "B",
+        "text_en": "The deep connection he felt with nature",
+        "text_ta": "The deep connection he felt with nature"
+      },
+      {
+        "key": "C",
+        "text_en": "The rigorous study of foreign literature",
+        "text_ta": "The rigorous study of foreign literature"
+      },
+      {
+        "key": "D",
+        "text_en": "The grand architecture of royal palaces",
+        "text_ta": "The grand architecture of royal palaces"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The essay highlights the deep connection he felt with nature, which inspired his poetry and music.",
+    "explanation_ta": "The essay highlights the deep connection he felt with nature, which inspired his poetry and music.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Summary: The essay highlights the deep connection he felt with nature, which inspired his poetry and music."
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What term does Tagore use alongside 'dragon-like' mills to describe the disruptive force of industrial progress?",
+    "question_ta": "What term does Tagore use alongside 'dragon-like' mills to describe the disruptive force of industrial progress?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Mechanical tyranny",
+        "text_ta": "Mechanical tyranny"
+      },
+      {
+        "key": "B",
+        "text_en": "Iron-fisted destruction",
+        "text_ta": "Iron-fisted destruction"
+      },
+      {
+        "key": "C",
+        "text_en": "Restless smoke",
+        "text_ta": "Restless smoke"
+      },
+      {
+        "key": "D",
+        "text_en": "Hydra-headed unrest",
+        "text_ta": "Hydra-headed unrest"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Tagore laments the encroachment of modern 'dragon-like' mills and 'hydra-headed unrest' upon the peace of the past.",
+    "explanation_ta": "Tagore laments the encroachment of modern 'dragon-like' mills and 'hydra-headed unrest' upon the peace of the past.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Prose Excerpt: modern 'dragon-like' mills and 'hydra-headed unrest'"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "According to Tagore's descriptions, what role did the Bengal landscape and the Ganges play in his inner life?",
+    "question_ta": "According to Tagore's descriptions, what role did the Bengal landscape and the Ganges play in his inner life?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "They were vital to his soul",
+        "text_ta": "They were vital to his soul"
+      },
+      {
+        "key": "B",
+        "text_en": "They served as a source of commercial travel",
+        "text_ta": "They served as a source of commercial travel"
+      },
+      {
+        "key": "C",
+        "text_en": "They were reminders of past historical battles",
+        "text_ta": "They were reminders of past historical battles"
+      },
+      {
+        "key": "D",
+        "text_en": "They were mere scenery for his daily walks",
+        "text_ta": "They were mere scenery for his daily walks"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "He describes the Ganges and the surrounding Bengal landscape as vital to his soul.",
+    "explanation_ta": "He describes the Ganges and the surrounding Bengal landscape as vital to his soul.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "Prose Excerpt: He describes the Ganges and the surrounding Bengal landscape as vital to his soul"
+  },
+  {
+    "subject": "English",
+    "unit": "Prose",
+    "menu": "My Reminiscence",
+    "topic": "My Reminiscence",
+    "topic_id": "my_reminiscence",
+    "topic_ta": "My Reminiscence",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What life span represents the birth and death years of Rabindranath Tagore?",
+    "question_ta": "What life span represents the birth and death years of Rabindranath Tagore?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "1861-1941",
+        "text_ta": "1861-1941"
+      },
+      {
+        "key": "B",
+        "text_en": "1870-1950",
+        "text_ta": "1870-1950"
+      },
+      {
+        "key": "C",
+        "text_en": "1850-1920",
+        "text_ta": "1850-1920"
+      },
+      {
+        "key": "D",
+        "text_en": "1848-1915",
+        "text_ta": "1848-1915"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Biographical records state that Rabindranath Tagore lived from 1861 to 1941.",
+    "explanation_ta": "Biographical records state that Rabindranath Tagore lived from 1861 to 1941.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "my_reminiscence",
+    "source_note": "R1: Rabindranath Tagore (1861-1941) was a Nobel prize-winning Bengali poet..."
+  }
+]

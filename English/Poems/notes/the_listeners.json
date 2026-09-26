@@ -1,0 +1,110 @@
+{
+  "poem_id": "the_listeners",
+  "poem_title": "The Listeners",
+  "author": "Walter de la Mare",
+  "num": 10,
+  "pdf_pages": [
+    35,
+    37
+  ],
+  "poem_text_en": "'Is there anybody there?' said the Traveller,\nKnocking on the moonlit door;\nAnd his horse in the silence champed the grasses\nOf the forest’s ferny floor: And a bird flew up out of the turret,\nAbove the Traveller’s head:\nAnd he smote upon the door again a second time;\n'Is there anybody there?' he said.\nBut no one descended to the Traveller;\nNo head from the leaf-fringed sill\nLeaned over and looked into his grey eyes,\nWhere he stood perplexed and still.\nBut only a host of phantom listeners\nThat dwelt in the lone house then\nStood listening in the quiet of the moonlight\nTo that voice from the world of men:\nStood thronging the faint moonbeams on the dark stair,\nThat goes down to the empty hall,\nHearkening in an air stirred and shaken\nBy the lonely Traveller’s call.",
+  "summary_en": "A Traveller arrives at a lonely, moonlit house in a forest and knocks, asking if anyone is home. He receives no answer from living beings, though he is silently observed by a host of phantom listeners inside. The poem creates an atmosphere of mystery and suspense, leaving the reader with unanswered questions about the Traveller's purpose and the identity of the ghosts.",
+  "glossary": [
+    {
+      "word_en": "champed",
+      "meaning_en": "bit and chewed upon noisily"
+    },
+    {
+      "word_en": "ferny",
+      "meaning_en": "consisting of flowerless plants (ferns)"
+    },
+    {
+      "word_en": "turret",
+      "meaning_en": "a small tower that projects from the wall of a building"
+    },
+    {
+      "word_en": "smote",
+      "meaning_en": "knocked loudly"
+    },
+    {
+      "word_en": "sill",
+      "meaning_en": "a horizontal piece of timber beneath a window or a door"
+    },
+    {
+      "word_en": "perplexed",
+      "meaning_en": "confused"
+    },
+    {
+      "word_en": "thronging",
+      "meaning_en": "crowding"
+    },
+    {
+      "word_en": "hearkening",
+      "meaning_en": "listening attentively"
+    }
+  ],
+  "figures_of_speech": [
+    {
+      "device_en": "alliteration",
+      "example_en": "Of the forest’s ferny floor",
+      "note_en": "Repetition of the 'f' sound in forest, ferny, floor."
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "The poet is Walter de la Mare (1873–1956).",
+      "tag": "poet"
+    },
+    {
+      "rule_en": "The poem is a classic work known for its sense of mystery and suspense.",
+      "tag": "theme"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The Traveller came at noon. (True/False)",
+      "answer_en": "False",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The house was situated in the forest. (True/False)",
+      "answer_en": "True",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "There were ghostly listeners inside the house. (True/False)",
+      "answer_en": "True",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The Traveller came to the house by bicycle. (True/False)",
+      "answer_en": "False",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "The phantoms answered and asked the traveller to go away. (True/False)",
+      "answer_en": "False",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

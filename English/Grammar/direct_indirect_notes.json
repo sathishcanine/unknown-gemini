@@ -1,0 +1,1412 @@
+{
+  "subject_id": "English",
+  "menu": "direct_indirect_speech",
+  "sources": [
+    "Grammer.pdf pp.[95, 96, 97, 98, 101, 103, 104, 105, 106, 107, 108, 111, 113, 114, 116, 118, 119, 120, 126, 127] (primary)",
+    "Govt pp.[50, 56, 57] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "The actual words spoken by a person are Direct Speech, enclosed within quotation marks.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "rule_en": "When reporting words later, changes are made to the speaker's original words, resulting in Reported Speech (Indirect Speech).",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "rule_en": "In indirect speech, the tense of the verb is changed to the past tense (e.g., 'want' becomes 'wanted', 'are' becomes 'were', 'is' becomes 'was').",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "rule_en": "The conjunction 'that' is used to introduce the reported statement.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "rule_en": "Simple Present changes to Simple Past; Present Continuous to Past Continuous; Present Perfect to Past Perfect; Present Perfect Continuous to Past Perfect Continuous; Simple Past to Past Perfect; Past Continuous to Past Perfect Continuous; Past Perfect remains No Change.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Will, Shall, Can change to Would, Should, Could; Have to/must changes to Had to; Would/Should remains as Would/Should have + P.P.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Imperative (do it) changes to Infinitive (to do it).",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Direct Speech uses quotation marks; Reported Speech does not use quotation marks.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Use 'Say' for 'say something' (e.g., She said that...) and 'Tell' for 'tell someone something' (e.g., She told us that...).",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Five changes are required: Pronouns, Expression of time and place, Verb tenses, Word order for questions, Reporting verbs.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "rule_en": "Tense shift: 'will' becomes 'would', 'may' becomes 'might', 'have been' becomes 'had been', 'have not' becomes 'had not', 'was' becomes 'had been' (past perfect), 'can' becomes 'could', 'must' becomes 'had to', 'am' becomes 'was'.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "rule_en": "Time/Place expression shifts: 'today' becomes 'that day', 'tomorrow' becomes 'the next day', 'last week' becomes 'the previous week', 'here' becomes 'there', 'tonight' becomes 'that night'.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "rule_en": "Use 'told' when the listener is mentioned; use 'said' when the listener is not necessarily mentioned.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "In direct speech, use inverted commas for exact words. In indirect speech, do not use inverted commas.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "Simple Present changes to Simple Past.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "Present Continuous changes to Past Continuous.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "Present Perfect changes to Past Perfect.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "Simple Past changes to Past Perfect.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "Past Continuous changes to Past Perfect Continuous.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "Modals: 'can' to 'could', 'may' to 'might', 'must' to 'had to', 'will' to 'would'.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "rule_en": "When the reporting or principal verb is in the Past Tense, all Present tenses of the Direct are changed into the corresponding Past Tenses.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "Simple present becomes a simple past.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "Present continuous becomes a past continuous.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "Present perfect becomes a past perfect.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "The 'shall' and 'will' of the Future Tense are changed into should and would.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "Simple past in the Direct becomes the past perfect in the Indirect.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "Tenses do not change if the statement is a universal truth.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "If the reporting verb is in the Present Tense, the tenses of the Direct Speech do not change.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "rule_en": "Words expressing nearness in time or place are changed into words expressing distance (e.g., now to then, here to there, today to that day).",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 166
+    },
+    {
+      "rule_en": "The changes in time/place words do not occur if the speech is reported during the same period or at the same place.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 166
+    },
+    {
+      "rule_en": "In reporting questions, Indirect Speech is introduced by verbs like 'asked' or 'enquired', and conjunctions like 'whether' or 'if'.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 166
+    },
+    {
+      "rule_en": "In reporting commands and requests, the Indirect Speech is introduced by verbs such as ordered, requested, commanded, shouted, urged, etc.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "rule_en": "Pronoun changes: I changes to he/she; You (subject) to he/she; You (object) to him/her; My to his/her; Myself to himself/herself; We to they; Us to them; Your to their; Themselves to themselves.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 187
+    },
+    {
+      "rule_en": "Time and Position changes: this to that; these to those; now to then; ago to before; last night to the previous night; next day to the following day; today to that day; yesterday to the previous day; tomorrow to the next day; next week to the following week; last week to the previous week; here to there.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 187
+    },
+    {
+      "rule_en": "If the reporting verb is in the present tense, the verb form remains the same in indirect speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "rule_en": "When reporting a universal truth (something that is always true), the verb form remains the same in indirect speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "rule_en": "Modal verbs like would, might, could, should, ought to, and used to remain the same in indirect speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "rule_en": "When converting interrogative sentences (Wh-questions), the verb tense often shifts to the past, and the word order changes from question format (auxiliary + subject) to statement format (subject + verb).",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "rule_en": "When converting yes/no questions, use 'if' or 'whether' as the conjunction, and change the verb to the appropriate past tense.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "rule_en": "Direct speech uses quotation marks to quote actual words; indirect speech (reported speech) does not.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "When the reporting verb is in the present tense, the tense in the reported statement does not change.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "When reporting statements, change the pronouns and the tense in the reported statement.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "When reporting questions, use asked/wanted to know and the word order of a statement.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "Time and place changes: now → then, today → that day, ago → before, yesterday → the day before, tomorrow → the next day/following day, next week → the following week, this → that.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "Auxiliary verb changes: can/cannot → could/couldn't, may → might, will/shall → would/should.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "Auxiliary verbs that do not change: might, could, need not.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "rule_en": "Modal 'might' remains 'might' in indirect speech, and time expressions like 'tomorrow' change to 'the day after'.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 119
+    },
+    {
+      "rule_en": "The reporter's point of view governs the changes from the direct into indirect mode, specifically regarding personal pronouns, tense of the verb, and adverbs of time and place.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "rule_en": "Present Simple changes to Past Simple; Present Continuous to Past Continuous; Past Simple to Past Perfect; Past Continuous to Past Perfect Continuous; Present Perfect to Past Perfect; Future Simple (will) to 'would'.",
+      "speech_topic": "overview",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "rule_en": "Direct Yes/No questions use 'if' or 'whether' in reported speech; 'Wh-' questions retain the question word.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "rule_en": "Requests or commands are converted using an infinitive structure (to + verb) following the requested/instructed/asked verb.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "rule_en": "When the reporting verb is in the present or future tense, the tense in the Direct speech does not change.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "rule_en": "Simple Past Tense is used in reported speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "govt",
+      "source_page": 50
+    },
+    {
+      "rule_en": "Would is used as the past form of shall and will; it is mainly used in indirect speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "govt",
+      "source_page": 7
+    },
+    {
+      "rule_en": "Could is used as the equivalent of can in the past tense, mainly in indirect speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "govt",
+      "source_page": 57
+    },
+    {
+      "rule_en": "Might is used as the past form of may to express possibility or permission, mainly in indirect speech.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "govt",
+      "source_page": 57
+    }
+  ],
+  "examples": [
+    {
+      "direct_en": "My uncle said to me, “I am coming to Chennai tomorrow.”",
+      "indirect_en": "My uncle told me that he was coming to Chennai the next day.",
+      "speech_topic": "statements_dti",
+      "note_en": "Demonstrates change in tense, pronouns, and time expressions.",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "direct_en": "Ram said to Rakesh, “I want an ice cream.”",
+      "indirect_en": "Ram told Rakesh that he wanted an ice cream.",
+      "speech_topic": "statements_dti",
+      "note_en": "Demonstrates change in reporting verb and tense.",
+      "source": "grammer",
+      "source_page": 88
+    },
+    {
+      "direct_en": "Monica said, “I want to become a doctor.”",
+      "indirect_en": "Monica said that she wanted to become a doctor.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present simple changes to past simple; 'I' changes to 'she'.",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "direct_en": "The librarian said, “The comic books are kept on the second shelf.”",
+      "indirect_en": "The librarian said that the comic books were kept on the second shelf.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present tense 'are' changes to past tense 'were'.",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "direct_en": "Sidharthan said, “The monument is beautiful.”",
+      "indirect_en": "Sidharthan said that the monument was beautiful.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present tense 'is' changes to past tense 'was'.",
+      "source": "grammer",
+      "source_page": 89
+    },
+    {
+      "direct_en": "She said, “I meet my friend.”",
+      "indirect_en": "She said that she met her friend.",
+      "speech_topic": "statements_dti",
+      "note_en": "Simple present tense verb 'meet' changes to past tense 'met'.",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "direct_en": "I admire you.",
+      "indirect_en": "She said that she admired me.",
+      "speech_topic": "statements_dti",
+      "note_en": "Pronoun and tense change application.",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "direct_en": "Kaitlyn said, “I am very busy now.”",
+      "indirect_en": "Kaitlyn said that she was very busy then.",
+      "speech_topic": "statements_dti",
+      "note_en": "Demonstrates change of tense and time reference.",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "direct_en": "He said, “I am cooking.”",
+      "indirect_en": "He said (that) he was cooking.",
+      "speech_topic": "statements_dti",
+      "note_en": "Listener not mentioned, so 'said' is used.",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "direct_en": "He said to me, “I will be waiting here.”",
+      "indirect_en": "He told me (that) he would be waiting there.",
+      "speech_topic": "statements_dti",
+      "note_en": "Listener is mentioned ('me'), so 'told' is used.",
+      "source": "grammer",
+      "source_page": 164
+    },
+    {
+      "direct_en": "He said, “I am fine.”",
+      "indirect_en": "He said (that) he was fine.",
+      "speech_topic": "statements_dti",
+      "note_en": "Simple present to simple past",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "direct_en": "She said, “My sister is learning Karate.”",
+      "indirect_en": "She said (that) her sister was learning Karate.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present continuous to past continuous",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "direct_en": "He said, “I have won the match.”",
+      "indirect_en": "He said (that) he had won the match.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present perfect to past perfect",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "direct_en": "She said, “The horse died in the night.”",
+      "indirect_en": "She said that the horse had died in the night.",
+      "speech_topic": "statements_dti",
+      "note_en": "Simple past to past perfect",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "direct_en": "The teacher said, “The earth goes round the sun.”",
+      "indirect_en": "The teacher said the earth goes round the sun.",
+      "speech_topic": "statements_dti",
+      "note_en": "Universal truth, no tense change",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "direct_en": "The Prince said, “It gives me great pleasure to be here this evening.”",
+      "indirect_en": "The Prince said that it gave him great pleasure to be there that evening.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Standard conversion of time and place words.",
+      "source": "grammer",
+      "source_page": 166
+    },
+    {
+      "direct_en": "The Prince said, “It gives me great pleasure to be here this evening.”",
+      "indirect_en": "The Prince said that it gives him great pleasure to be here this evening.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "No change applied because it is reported in the same place/time.",
+      "source": "grammer",
+      "source_page": 166
+    },
+    {
+      "direct_en": "He said to me, “What are you doing?”",
+      "indirect_en": "He asked me what I was doing.",
+      "speech_topic": "questions",
+      "note_en": "Conversion of an interrogative sentence.",
+      "source": "grammer",
+      "source_page": 166
+    },
+    {
+      "direct_en": "“Where do you live?” asked the stranger.",
+      "indirect_en": "The stranger enquired where I lived.",
+      "speech_topic": "questions",
+      "note_en": "WH-questions use the interrogative word as the connector.",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "He said, “Will you attend the meeting?”",
+      "indirect_en": "He asked them whether they would attend the meeting.",
+      "speech_topic": "questions",
+      "note_en": "Yes/No questions use 'whether' or 'if' as the connector.",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "Rama said to Arjun, “Go away.”",
+      "indirect_en": "Rama ordered Arjun to go away.",
+      "speech_topic": "commands_imperatives",
+      "note_en": "Imperative sentences use an infinitive verb (to + verb).",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "He said to him, “Please wait here till I return.”",
+      "indirect_en": "He requested him to wait there till he returned.",
+      "speech_topic": "commands_imperatives",
+      "note_en": "Includes pronoun and adverb change: here becomes there, I becomes he.",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "“Call the first witness,” said the judge.",
+      "indirect_en": "The judge commanded them to call the first witness.",
+      "speech_topic": "commands_imperatives",
+      "note_en": "The verb 'commanded' reflects the authority of the speaker.",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "He shouted, “Let me go.”",
+      "indirect_en": "He shouted to them to let him go.",
+      "speech_topic": "commands_imperatives",
+      "note_en": "Use of 'shouted' as the reporting verb.",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "He said, “Be quiet and listen to my words.”",
+      "indirect_en": "He urged them to be quiet and listen to his words.",
+      "speech_topic": "commands_imperatives",
+      "note_en": "The verb 'urged' indicates a strong recommendation.",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "direct_en": "I am enjoying my holiday.",
+      "indirect_en": "Krish says that he is enjoying his holiday.",
+      "speech_topic": "statements_dti",
+      "note_en": "Reporting verb 'says' is in present tense.",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "direct_en": "Asia is the largest continent.",
+      "indirect_en": "Balu said that Asia is the largest continent.",
+      "speech_topic": "statements_dti",
+      "note_en": "Universal truth remains present tense.",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "direct_en": "I might come.",
+      "indirect_en": "Shalini said that she might come.",
+      "speech_topic": "statements_dti",
+      "note_en": "Modal verb 'might' remains unchanged.",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "direct_en": "Rita says, “I’ve got admission in a school in Mumbai and I’m moving there next week”.",
+      "indirect_en": "Rita says that she has got admission in a school in Mumbai and is moving there next week.",
+      "speech_topic": "statements_dti",
+      "note_en": "Reporting verb is in present tense, so tense in reported statement does not change.",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "direct_en": "Do you like to dance?",
+      "indirect_en": "She wanted to know if I liked to dance.",
+      "speech_topic": "questions",
+      "note_en": "Uses 'wanted to know' and statement word order.",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "direct_en": "Where do you reside?",
+      "indirect_en": "She asked me where I resided.",
+      "speech_topic": "questions",
+      "note_en": "Uses 'asked' and statement word order.",
+      "source": "grammer",
+      "source_page": 79
+    },
+    {
+      "direct_en": "He said, 'Minu might come tomorrow.'",
+      "indirect_en": "He said (that) Minu might come the day after.",
+      "speech_topic": "statements_dti",
+      "note_en": "Conversion of modal verb and time indicator.",
+      "source": "grammer",
+      "source_page": 119
+    },
+    {
+      "direct_en": "Sindhu said, “I play chess.”",
+      "indirect_en": "Sindhu said that she played chess.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present Simple to Past Simple.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "Jayashree said, \"I am working in a school.\"",
+      "indirect_en": "Jayashree said that she was working in a school.",
+      "speech_topic": "statements_dti",
+      "note_en": "Present Continuous to Past Continuous.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "Mani said, “I bought a car.”",
+      "indirect_en": "Mani said that he had bought a car.",
+      "speech_topic": "statements_dti",
+      "note_en": "Past Simple to Past Perfect.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "Sundar said to me, “I'll see you later.”",
+      "indirect_en": "Sundar told me that he would see me later.",
+      "speech_topic": "statements_dti",
+      "note_en": "Future Simple (will) to 'would'.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "Shankar said to me, “Do you know me?”",
+      "indirect_en": "Shankar asked me if I knew him.",
+      "speech_topic": "questions",
+      "note_en": "Yes/No question converted with 'if'.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "The old woman said to the boy, “Please help me.”",
+      "indirect_en": "The old woman requested the boy to help her.",
+      "speech_topic": "commands_imperatives",
+      "note_en": "Reported request.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "now",
+      "indirect_en": "then / at that time",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Adverb conversion table entry.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "tomorrow",
+      "indirect_en": "the next day / the following day",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Adverb conversion table entry.",
+      "source": "grammer",
+      "source_page": 149
+    },
+    {
+      "direct_en": "I said, ‘Let us go to a beach resort this Sunday.”",
+      "indirect_en": "I suggested to my sister that we should go to a beach resort that Sunday.",
+      "speech_topic": "statements_dti",
+      "note_en": "Suggestion using 'let us'",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "direct_en": "Mahesh says, “I have a headache.”",
+      "indirect_en": "Mahesh says that he has a headache.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Reporting verb in present tense; no tense shift.",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "direct_en": "She will say, “I don’t like pizzas.”",
+      "indirect_en": "She will say that she doesn’t like pizzas.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Reporting verb in future tense; no tense shift.",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "direct_en": "He is a good boy.",
+      "indirect_en": "He told me that he was a good boy.",
+      "speech_topic": "statements_dti",
+      "note_en": "Shift from Simple Present (is) to Simple Past (was) in reported speech.",
+      "source": "govt",
+      "source_page": 50
+    },
+    {
+      "direct_en": "She said, 'I will come to your house today.'",
+      "indirect_en": "She said that she would come to my house that day.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Conversion of will to would and today to that day.",
+      "source": "govt",
+      "source_page": 7
+    },
+    {
+      "direct_en": "The clerk said, 'The principal will come soon.'",
+      "indirect_en": "The clerk said that the principal would come soon.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Conversion of will to would.",
+      "source": "govt",
+      "source_page": 7
+    },
+    {
+      "direct_en": "The mother told her son, 'I will see your work tomorrow.'",
+      "indirect_en": "The mother told her son that she would see his work the next day.",
+      "speech_topic": "time_pronoun_reporting",
+      "note_en": "Conversion of will to would and tomorrow to the next day.",
+      "source": "govt",
+      "source_page": 7
+    },
+    {
+      "direct_en": "Can you meet me at my place?",
+      "indirect_en": "She asked him whether he could meet her at her place.",
+      "speech_topic": "questions",
+      "note_en": "Conversion of 'can' to 'could' in indirect speech.",
+      "source": "govt",
+      "source_page": 57
+    },
+    {
+      "direct_en": "I can attend the meeting.",
+      "indirect_en": "I said that I could attend the meeting.",
+      "speech_topic": "statements_dti",
+      "note_en": "Conversion of 'can' to 'could' in indirect speech.",
+      "source": "govt",
+      "source_page": 57
+    },
+    {
+      "direct_en": "He can finish the work within a week.",
+      "indirect_en": "He said that he could finish the work within a week.",
+      "speech_topic": "statements_dti",
+      "note_en": "Conversion of 'can' to 'could' in indirect speech.",
+      "source": "govt",
+      "source_page": 57
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "“It is too late.” I said that it ............. too late.",
+      "answer_en": "was",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "prompt_en": "“I met you yesterday.” Sam told me that he had met me...........................",
+      "answer_en": "the day before",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "prompt_en": "“I cannot come.” Mala said that ...............................................",
+      "answer_en": "she could not come",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 117
+    },
+    {
+      "prompt_en": "4. “I will pay tomorrow.” He said that he would pay ......................................",
+      "answer_en": "He said that he would pay the next day.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "5. “The Himalayas are the highest mountain ranges.” He knew that the Himalayas ................. the highest mountain ranges.",
+      "answer_en": "He knew that the Himalayas are the highest mountain ranges. (Universal truth remains unchanged)",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "6. “I may lend you some money.” Balu promised .......................some money.",
+      "answer_en": "Balu promised that he might lend me some money.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "7. “I have been watching a film.” He said that ................................. a film.",
+      "answer_en": "He said that he had been watching a film.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "8. “I have not done it today.” I explained that I had not done it ....................",
+      "answer_en": "I explained that I had not done it that day.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "9. “I was with him last week.” Jimmy told that ................................ with him the previous week.",
+      "answer_en": "Jimmy told that he had been with him the previous week.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "10. “I will finish this picture tomorrow.” Jothi said that......................... picture the next day.",
+      "answer_en": "Jothi said that she would finish that picture the next day.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 118
+    },
+    {
+      "prompt_en": "Jane told Bessie that she would hide herself in the library with Uncle Reed’s book.",
+      "answer_en": "Jane said to Bessie, 'I will hide myself in the library with Uncle Reed’s book.'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "John ordered Jane to come there when he called her.",
+      "answer_en": "John said to Jane, 'Come here when I call you.'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Eliza asked Jane what she was doing then.",
+      "answer_en": "Eliza said to Jane, 'What are you doing now?'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Mrs. Reed told Bessie to take her away to the red room and lock her in there.",
+      "answer_en": "Mrs. Reed said to Bessie, 'Take me away to the red room and lock me in there.'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Miss. Temple asked Jane whether she could read and write.",
+      "answer_en": "Miss. Temple said to Jane, 'Can you read and write?'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Miss. Miller asked Miss. Temple where she should put Jane.",
+      "answer_en": "Miss. Miller said to Miss. Temple, 'Where should I put Jane?'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Jane asked Helen why they called it an institution.",
+      "answer_en": "Jane said to Helen, 'Why do you call it an institution?'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Helen asked Jane why she had come there.",
+      "answer_en": "Helen said to Jane, 'Why have you come here?'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Jane asked Mrs. Fairfax whether she would have the pleasure of seeing Miss. Fairfax that night.",
+      "answer_en": "Jane said to Mrs. Fairfax, 'Will I have the pleasure of seeing Miss. Fairfax tonight?'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "Miss. Adela told Jane that she could sing and dance also.",
+      "answer_en": "Miss. Adela said to Jane, 'I can sing and dance also.'",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 153
+    },
+    {
+      "prompt_en": "He says, “I am fine.”",
+      "answer_en": "He says he is fine.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "prompt_en": "She has just said, “My sister is learning Bharatanatyam.”",
+      "answer_en": "She has just said her sister is learning Bharatanatyam.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "prompt_en": "He says, “I have won the match.”",
+      "answer_en": "He says he has won the match.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "prompt_en": "She says, “The horse died in the night.”",
+      "answer_en": "She says the horse died in the night.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 165
+    },
+    {
+      "prompt_en": "“What do you want?” he said to her.",
+      "answer_en": "He asked her what she wanted.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "prompt_en": "He said, “How's your father?”",
+      "answer_en": "He asked how her father was.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "prompt_en": "“Are you coming home with me?” he asked.",
+      "answer_en": "He asked whether I was coming home with him.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "prompt_en": "The poor man exclaimed, “Will none of you help me?”",
+      "answer_en": "The poor man exclaimed and asked if none of them would help him.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "prompt_en": "“Don't you know the way home?” asked I.",
+      "answer_en": "I asked if they did not know the way home.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 167
+    },
+    {
+      "prompt_en": "Bring me a glass of milk, said the sage to the villagers.",
+      "answer_en": "The sage ordered/asked the villagers to bring him a glass of milk.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Sit down, boys, said the teacher.",
+      "answer_en": "The teacher told the boys to sit down.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Halt! shouted the officer to his men.",
+      "answer_en": "The officer shouted to his men to halt.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Take off your hat, the king said to the Hatter.",
+      "answer_en": "The king told the Hatter to take off his hat.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "The teacher said to him, Do not read so fast.",
+      "answer_en": "The teacher advised/told him not to read so fast.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "He said to me, Wait until I come.",
+      "answer_en": "He told me to wait until he came.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Hurry up, he said to his servant, Do not waste time.",
+      "answer_en": "He told his servant to hurry up and not to waste time.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Run away, children, said their mother.",
+      "answer_en": "Their mother told the children to run away.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "He said, Daughter, take my golden jug, and fetch me some water from the Well.",
+      "answer_en": "He told his daughter to take his golden jug and fetch him some water from the well.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Go down to the bazaar. Bring me some oil and a lump of ice. ordered his master.",
+      "answer_en": "His master ordered him to go down to the bazaar and bring him some oil and a lump of ice.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Punitha asked Pushpa what she was reading.",
+      "answer_en": "What are you reading, Pushpa? asked Punitha.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Pushpa told her that he was reading Robinson Crusoe.",
+      "answer_en": "I am reading Robinson Crusoe, Pushpa told her.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Punitha asked her what it was all about.",
+      "answer_en": "What is it all about? Punitha asked.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Pushpa said it was about a man wrecked on an island.",
+      "answer_en": "It is about a man wrecked on an island, Pushpa said.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Punitha then asked her friend who had given her the book.",
+      "answer_en": "Who gave you the book, Pushpa? Punitha then asked.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Pushpa answered that her uncle had given it to her at Christmas.",
+      "answer_en": "My uncle gave it to me at Christmas, answered Pushpa.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Finally Punitha inquired if she could borrow it.",
+      "answer_en": "May I borrow it? inquired Punitha.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Pushpa replied that she would certainly lend it to her.",
+      "answer_en": "Of course I will lend it to you, replied Pushpa.",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 168
+    },
+    {
+      "prompt_en": "Nevin asked his father when the next letter would come.",
+      "answer_en": "Nevin asked his father, \"When will the next letter come?\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "I wrote that I would visit him next day.",
+      "answer_en": "I wrote, \"I will visit him tomorrow.\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "I told them to be quiet.",
+      "answer_en": "I said to them, \"Be quiet.\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "Lakshan asked me if I had anything to say.",
+      "answer_en": "Lakshan asked me, \"Do you have anything to say?\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "An old mouse asked who would bell the cat.",
+      "answer_en": "An old mouse asked, \"Who will bell the cat?\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "Mervin said that he wanted to be a soldier.",
+      "answer_en": "Mervin said, \"I want to be a soldier.\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "Ebin asked me what I wanted.",
+      "answer_en": "Ebin asked me, \"What do you want?\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "Bhagya said that she had seen that picture.",
+      "answer_en": "Bhagya said, \"I have seen this picture.\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "The stranger asked Nasrin where she lived.",
+      "answer_en": "The stranger asked Nasrin, \"Where do you live?\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "I asked Mary if she would lend me a pencil.",
+      "answer_en": "I asked Mary, \"Will you lend me a pencil?\"",
+      "speech_topic": "indirect_to_direct",
+      "source": "grammer",
+      "source_page": 169
+    },
+    {
+      "prompt_en": "Pushpa said, “Do not spoil the eco-system.”",
+      "answer_en": "Pushpa advised/ordered not to spoil the eco-system.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "Ebin said, “Have you booked the tickets to Delhi?”",
+      "answer_en": "Ebin asked if he/she had booked the tickets to Delhi.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "Rehman said to Tilak, “When are we leaving to our native?”",
+      "answer_en": "Rehman asked Tilak when they were leaving to their native.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "Maha said, “Lakshan, you should get up early in the morning.”",
+      "answer_en": "Maha told Lakshan that he should get up early in the morning.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "Gladin said to his mother, “Can you, please, buy me a hot-chocolate?”",
+      "answer_en": "Gladin requested his mother to buy him a hot-chocolate.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "“Tomorrow I have to take a test in English”, said Sudha.",
+      "answer_en": "Sudha said that she had to take a test in English the next day.",
+      "speech_topic": "time_pronoun_reporting",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "Amali said to her sister, “I need your help to arrange the books in the shelf.”",
+      "answer_en": "Amali told her sister that she needed her help to arrange the books in the shelf.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "“Why don’t you use crayons for colouring?” said Prabhu to his son.",
+      "answer_en": "Prabhu asked his son why he didn't use crayons for colouring.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 189
+    },
+    {
+      "prompt_en": "Kavi says: 'I am enjoying my holiday.'",
+      "answer_en": "Kavi says that she is enjoying her holiday.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Alisha said: 'I will never go to work.'",
+      "answer_en": "Alisha said that she would never go to work.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "Vinoth said: 'People in Africa are starving.'",
+      "answer_en": "Vinoth said that people in Africa are starving.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 145
+    },
+    {
+      "prompt_en": "1. “Who took my English book?” He was curious to know who...",
+      "answer_en": "b. had taken his English book.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "prompt_en": "2. “Where does Helen live?” Jim wants to know where...",
+      "answer_en": "b. Helen lives.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "prompt_en": "3. “Why do volcanoes erupt?” She wondered why...",
+      "answer_en": "c. volcanoes erupted.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "prompt_en": "4. “Do you know why she is unhappy?” He asked me if ... unhappy",
+      "answer_en": "d. I knew why she was",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "prompt_en": "5. “How many photos have you got?” He wants to know how many...",
+      "answer_en": "a. photos I had got.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 147
+    },
+    {
+      "prompt_en": "Rewrite the conversation in Indirect Speech: Derry: Do you have any friends? Mr. Lamb: Hundreds. Derry: But I’m not a friend. Mr. Lamb: What have you done to make me think you’re not?",
+      "answer_en": "Derry asked Mr. Lamb if he had any friends. Mr. Lamb replied that he had hundreds. Derry remarked that he was not a friend. Mr. Lamb asked Derry what he had done to make him think he was not.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 119
+    },
+    {
+      "prompt_en": "He enquired, “When do you intend to meet me?”",
+      "answer_en": "He enquired when she intended to meet him.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "“Do you really come from Japan?” the King asked.",
+      "answer_en": "The King asked if/whether she/he really came from Japan.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Uma said, “Are you interested in this deal?”",
+      "answer_en": "Uma asked if he/she was interested in that deal.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "Reena asked Meena, “Will you meet a girl like Sheena?”",
+      "answer_en": "Reena asked Meena if she would meet a girl like Sheena.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "The teacher told the children, “Please do not eat raw and overripe fruit.”",
+      "answer_en": "The teacher requested/advised the children not to eat raw and overripe fruit.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "The teacher explained, “It snows in the mountains is the winter”.",
+      "answer_en": "The teacher explained that it snows in the mountains in the winter.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "My friend often tells me, “All that glitters is not gold.”",
+      "answer_en": "My friend often tells me that all that glitters is not gold.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "The teacher told the class, “Knowledge is power.”",
+      "answer_en": "The teacher told the class that knowledge is power.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 69
+    },
+    {
+      "prompt_en": "The boys says, “I am very nervous to attend school.”",
+      "answer_en": "The boy says that he is very nervous to attend school.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "They will say, “We will not be able to come home early for dinner.”",
+      "answer_en": "They will say that they will not be able to come home early for dinner.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "We say, “We cannot live without water.”",
+      "answer_en": "We say that we cannot live without water.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "The forgetful old lady always questions me, “Where do you live?”",
+      "answer_en": "The forgetful old lady always questions me where I live.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "My aunt will say, “I am fed up of your pranks.”",
+      "answer_en": "My aunt will say that she is fed up of my pranks.",
+      "speech_topic": "statements_dti",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "“Have you finished reading the book, Mohan?” said Mr. Mani to his son. “No dad”, said Mohan, feeling ashamed. “Why not, Mohan?” “Because it is not interesting dad, and I am sure I shall never finish it by this month.”",
+      "answer_en": "Mr. Mani asked his son Mohan if he had finished reading the book. Mohan replied negatively feeling ashamed. Mr. Mani asked him why not. Mohan replied that it was not interesting and he was sure he would never finish it by that month.",
+      "speech_topic": "questions",
+      "source": "grammer",
+      "source_page": 70
+    },
+    {
+      "prompt_en": "Father: Why didn’t you go to school last week? Son: I was not well dad, I had fever. Father: What will happen to your notes? Have you completed all the assignments? Son: Don’t worry dad. My friends have helped me with my notes and my assignments.",
+      "answer_en": "Father asked his son why he had not gone to school the previous week. The son replied that he was not well and had fever. The father asked what would happen to his notes and asked if he had completed all the assignments. The son told his father not to worry, adding that his friends had helped him with his notes and assignments.",
+      "speech_topic": "commands_imperatives",
+      "source": "grammer",
+      "source_page": 70
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 56,
+      "examples": 50,
+      "worked_exercises": 89
+    },
+    "by_speech_topic": {
+      "overview": {
+        "rules": 8,
+        "examples": 0,
+        "worked": 0
+      },
+      "time_pronoun_reporting": {
+        "rules": 37,
+        "examples": 9,
+        "worked": 2
+      },
+      "statements_dti": {
+        "rules": 3,
+        "examples": 28,
+        "worked": 25
+      },
+      "commands_imperatives": {
+        "rules": 3,
+        "examples": 6,
+        "worked": 14
+      },
+      "questions": {
+        "rules": 5,
+        "examples": 7,
+        "worked": 20
+      },
+      "indirect_to_direct": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 28
+      }
+    }
+  }
+}

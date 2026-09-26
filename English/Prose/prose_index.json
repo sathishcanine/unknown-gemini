@@ -1,0 +1,288 @@
+{
+  "unit": "Unit VII — Prose",
+  "source_original": "Data/General-English/Unit-7/TNPSC_Poem_Prose.pdf",
+  "source_pyq": [
+    "Data/General-English/Unit-7/Prose PYQ Topicwise (1-14).pdf"
+  ],
+  "questions_per_prose": 25,
+  "pyq_based": true,
+  "phase1_nums": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "prose": [
+    {
+      "num": 1,
+      "id": "his_first_flight",
+      "title": "His First Flight",
+      "author": "Liam O'Flaherty",
+      "index_page": 102,
+      "pdf_start": 105,
+      "pdf_end": 119
+    },
+    {
+      "num": 2,
+      "id": "the_night_the_ghost_got_in",
+      "title": "The Night the Ghost Got In",
+      "author": "James Grover Thurber",
+      "index_page": 117,
+      "pdf_start": 120,
+      "pdf_end": 134
+    },
+    {
+      "num": 3,
+      "id": "empowered_women_navigating_the_world",
+      "title": "Empowered Women Navigating the World",
+      "author": null,
+      "index_page": 132,
+      "pdf_start": 135,
+      "pdf_end": 158
+    },
+    {
+      "num": 4,
+      "id": "the_attic",
+      "title": "The Attic",
+      "author": "Satyajit Ray",
+      "index_page": 156,
+      "pdf_start": 159,
+      "pdf_end": 179
+    },
+    {
+      "num": 5,
+      "id": "tech_bloomers",
+      "title": "Tech Bloomers",
+      "author": null,
+      "index_page": 177,
+      "pdf_start": 180,
+      "pdf_end": 201
+    },
+    {
+      "num": 6,
+      "id": "the_last_lesson",
+      "title": "The Last Lesson",
+      "author": "Alphonse Daudet",
+      "index_page": 199,
+      "pdf_start": 202,
+      "pdf_end": 218
+    },
+    {
+      "num": 7,
+      "id": "the_dying_detective",
+      "title": "The Dying Detective",
+      "author": "Arthur Conan Doyle",
+      "index_page": 216,
+      "pdf_start": 219,
+      "pdf_end": 231
+    },
+    {
+      "num": 8,
+      "id": "learning_the_game",
+      "title": "Learning the Game",
+      "author": "Sachin Ramesh Tendulkar",
+      "index_page": 229,
+      "pdf_start": 232,
+      "pdf_end": 248
+    },
+    {
+      "num": 9,
+      "id": "i_can_t_climb_trees_anymore",
+      "title": "I Can't Climb Trees Anymore",
+      "author": "Ruskin Bond",
+      "index_page": 246,
+      "pdf_start": 249,
+      "pdf_end": 258
+    },
+    {
+      "num": 10,
+      "id": "old_man_river",
+      "title": "Old Man River",
+      "author": "Dorothy Deming",
+      "index_page": 256,
+      "pdf_start": 259,
+      "pdf_end": 282
+    },
+    {
+      "num": 11,
+      "id": "seventeen_oranges",
+      "title": "Seventeen Oranges",
+      "author": "Bill Naughton",
+      "index_page": 280,
+      "pdf_start": 283,
+      "pdf_end": 296
+    },
+    {
+      "num": 12,
+      "id": "water_the_elixir_of_life",
+      "title": "Water – The Elixir of Life",
+      "author": "Sir C.V. Raman",
+      "index_page": 294,
+      "pdf_start": 297,
+      "pdf_end": 320
+    },
+    {
+      "num": 13,
+      "id": "from_zero_to_infinity",
+      "title": "From Zero to Infinity",
+      "author": "Biography of Srinivasa Ramanujan",
+      "index_page": 318,
+      "pdf_start": 321,
+      "pdf_end": 332
+    },
+    {
+      "num": 14,
+      "id": "a_birthday_letter",
+      "title": "A Birthday Letter",
+      "author": "Jawaharlal Nehru",
+      "index_page": 330,
+      "pdf_start": 333,
+      "pdf_end": 345
+    },
+    {
+      "num": 15,
+      "id": "the_nose_jewel",
+      "title": "The Nose Jewel",
+      "author": "C. Rajagopalachari",
+      "index_page": 343,
+      "pdf_start": 346,
+      "pdf_end": 366
+    },
+    {
+      "num": 16,
+      "id": "hobby_turns_a_successful_career",
+      "title": "Hobby – Turns A Successful Career",
+      "author": null,
+      "index_page": 364,
+      "pdf_start": 367,
+      "pdf_end": 384
+    },
+    {
+      "num": 17,
+      "id": "sir_isaac_newton_the_ingenious_scientist",
+      "title": "Sir Isaac Newton – The Ingenious Scientist",
+      "author": "Nathaniel Hawthorne",
+      "index_page": 382,
+      "pdf_start": 385,
+      "pdf_end": 400
+    },
+    {
+      "num": 18,
+      "id": "my_reminiscence",
+      "title": "My Reminiscence",
+      "author": "Rabindranath Tagore",
+      "index_page": 398,
+      "pdf_start": 401,
+      "pdf_end": 416
+    },
+    {
+      "num": 19,
+      "id": "sea_turtles",
+      "title": "Sea Turtles",
+      "author": "Shekar Dattatri",
+      "index_page": 414,
+      "pdf_start": 417,
+      "pdf_end": 429
+    },
+    {
+      "num": 20,
+      "id": "when_the_trees_walked",
+      "title": "When the Trees Walked",
+      "author": "Ruskin Bond",
+      "index_page": 427,
+      "pdf_start": 430,
+      "pdf_end": 445
+    },
+    {
+      "num": 21,
+      "id": "a_visitor_from_distant_lands",
+      "title": "A Visitor from Distant Lands",
+      "author": null,
+      "index_page": 443,
+      "pdf_start": 446,
+      "pdf_end": 459
+    },
+    {
+      "num": 22,
+      "id": "sports_stars",
+      "title": "Sports Stars",
+      "author": "Mithali Dorai Raj",
+      "index_page": 457,
+      "pdf_start": 460,
+      "pdf_end": 476
+    },
+    {
+      "num": 23,
+      "id": "the_last_stone_carver",
+      "title": "The Last Stone Carver",
+      "author": "Sigrun Srivastav",
+      "index_page": 474,
+      "pdf_start": 477,
+      "pdf_end": 489
+    },
+    {
+      "num": 24,
+      "id": "eidgah",
+      "title": "Eidgah",
+      "author": "Munshi Premchand",
+      "index_page": 487,
+      "pdf_start": 490,
+      "pdf_end": 504
+    },
+    {
+      "num": 25,
+      "id": "the_wind_on_haunted_hill",
+      "title": "The Wind on Haunted Hill",
+      "author": "Ruskin Bond",
+      "index_page": 502,
+      "pdf_start": 505,
+      "pdf_end": 521
+    },
+    {
+      "num": 26,
+      "id": "a_prayer_to_the_teacher",
+      "title": "A Prayer to the Teacher",
+      "author": "Subroto Bagchi",
+      "index_page": 519,
+      "pdf_start": 522,
+      "pdf_end": 537
+    },
+    {
+      "num": 27,
+      "id": "the_tempest",
+      "title": "The Tempest",
+      "author": "Tales From Shakespeare",
+      "index_page": 535,
+      "pdf_start": 538,
+      "pdf_end": 545
+    },
+    {
+      "num": 28,
+      "id": "a_hunter_turned_naturalist",
+      "title": "A Hunter Turned Naturalist",
+      "author": "Jim Corbett",
+      "index_page": 543,
+      "pdf_start": 546,
+      "pdf_end": 550
+    },
+    {
+      "num": 29,
+      "id": "the_cat_and_the_painkiller",
+      "title": "The Cat and the Painkiller",
+      "author": "Mark Twain",
+      "index_page": 548,
+      "pdf_start": 551,
+      "pdf_end": 559
+    }
+  ]
+}

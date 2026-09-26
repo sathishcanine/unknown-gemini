@@ -1,0 +1,1717 @@
+{
+  "subject_id": "English",
+  "unit": "Vocabulary",
+  "menu": "abbreviations",
+  "sources": [
+    "Vetrii Vocabulary pp.[165, 166, 167, 168, 169, 170] (primary, vision)",
+    "Grammer.pdf pp.[345, 346, 347, 348, 351, 353] (secondary)"
+  ],
+  "rules": [
+    {
+      "rule_en": "An abbreviation is a shortened form of a word or phrase.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "rule_en": "An acronym is a shortened form of a phrase usually made up of the initial letters of that phrase.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 346
+    },
+    {
+      "rule_en": "Abbreviation refers to any shortened or contracted form of a word or phrase.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 347
+    },
+    {
+      "rule_en": "Acronym is a type of abbreviation formed from the first letters of a series of words and pronounced as a separate word.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 347
+    },
+    {
+      "rule_en": "All acronyms are abbreviations, but not every abbreviation is an acronym.",
+      "ab_tag": "overview",
+      "source": "grammer",
+      "source_page": 347
+    },
+    {
+      "rule_en": "Abbreviations are shortened forms of words or phrases, often formed by taking the initial letters of words or specific mathematical unit symbols.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "rule_en": "Abbreviations are shortened forms of words or phrases, often representing names of organizations, technologies, or technical terms.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 351
+    },
+    {
+      "rule_en": "Abbreviations are shortened forms of words or phrases, often formed by taking the initial letters of each word in the phrase.",
+      "ab_tag": "definition",
+      "source": "grammer",
+      "source_page": 353
+    }
+  ],
+  "examples": [
+    {
+      "abbr_en": "PBS",
+      "expansion_en": "Public Broadcasting Service",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "ACF",
+      "expansion_en": "Administration for Children and Families",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "DSS",
+      "expansion_en": "Delayed Shock Syndrome",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "PSA",
+      "expansion_en": "Public Service Announcement",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Mr.",
+      "expansion_en": "Mister",
+      "note_en": "Plural is Misters",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Mrs.",
+      "expansion_en": "Mistress",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Prof.",
+      "expansion_en": "Professor",
+      "note_en": "Plural is Profs.",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "St.",
+      "expansion_en": "Saint",
+      "note_en": "Plural is Sts.",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Rev.",
+      "expansion_en": "Reverend",
+      "note_en": "Plural is Revs.",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Hon.",
+      "expansion_en": "Honourable",
+      "note_en": "Plural is Hons.",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Jr.",
+      "expansion_en": "Junior",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "Pres.",
+      "expansion_en": "President",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "VCR",
+      "expansion_en": "Videocassette Recorder",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "CD",
+      "expansion_en": "Compact Disc",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "DVD",
+      "expansion_en": "Digital Video/Versatile Disk",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "GPS",
+      "expansion_en": "Global Positioning System",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "VR",
+      "expansion_en": "Virtual reality",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "AR",
+      "expansion_en": "Augmented Reality",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "TV",
+      "expansion_en": "Television",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "a.m.",
+      "expansion_en": "ante meridiem",
+      "note_en": "before noon",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "p.m.",
+      "expansion_en": "post meridiem",
+      "note_en": "after noon",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "A.D.",
+      "expansion_en": "anno domini",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "B.C.E.",
+      "expansion_en": "before common era",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "C.E.",
+      "expansion_en": "common era",
+      "note_en": "null",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "etc.",
+      "expansion_en": "et cetera",
+      "note_en": "and so forth",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "i.e.",
+      "expansion_en": "id est",
+      "note_en": "that is",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 521
+    },
+    {
+      "abbr_en": "e.g.",
+      "expansion_en": "exempli gratia (for example)",
+      "note_en": "Latin abbreviation",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "et al.",
+      "expansion_en": "et alii (and others)",
+      "note_en": "Latin abbreviation",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "vs.",
+      "expansion_en": "versus",
+      "note_en": "Latin abbreviation",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "ft",
+      "expansion_en": "feet",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "ft2",
+      "expansion_en": "square feet",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "kg",
+      "expansion_en": "kilogram",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "km",
+      "expansion_en": "kilometre",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "mm",
+      "expansion_en": "millimetre",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "ml",
+      "expansion_en": "millilitre",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "oF",
+      "expansion_en": "degrees Fahrenheit",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "oC",
+      "expansion_en": "degrees Celsius",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "CBI",
+      "expansion_en": "Central Bureau of Investigation",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "IB",
+      "expansion_en": "Intelligence Bureau",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "IMF",
+      "expansion_en": "International Monetary Fund",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "UN",
+      "expansion_en": "United Nations",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "EC",
+      "expansion_en": "Election Commission",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "EU",
+      "expansion_en": "European Union",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "IIT",
+      "expansion_en": "Indian Institute of Technology",
+      "note_en": "Institution",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "USA",
+      "expansion_en": "United States of America",
+      "note_en": "Country",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "UK",
+      "expansion_en": "United Kingdom",
+      "note_en": "Country",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "UAE",
+      "expansion_en": "United Arab Emirates",
+      "note_en": "Country",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "IQ",
+      "expansion_en": "Intelligence Quotient",
+      "note_en": "General term",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "Mph",
+      "expansion_en": "miles per hour",
+      "note_en": "General term",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "mpg",
+      "expansion_en": "miles per gallon",
+      "note_en": "General term",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 166
+    },
+    {
+      "abbr_en": "TAFE",
+      "expansion_en": "Tractor and Farm Equipment",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "TANSI",
+      "expansion_en": "Tamil Nadu Small Scale Industries",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "RAM",
+      "expansion_en": "Random Access Memory",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "ROM",
+      "expansion_en": "Read only Memory",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "LAN",
+      "expansion_en": "Local Area Network",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "AIR",
+      "expansion_en": "All India Radio",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "CAD",
+      "expansion_en": "Computer Aided Design",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "LASER",
+      "expansion_en": "Light Amplification by Stimulated Emission of Radiation",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "WHO",
+      "expansion_en": "World Health Organisation",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "TOEFL",
+      "expansion_en": "Test of English as a Foreign Language",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "AVADI",
+      "expansion_en": "Armoured Vehicles and Ammunition Depot of India",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "NEET",
+      "expansion_en": "National Eligibility cum Entrance Test",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "UDISE",
+      "expansion_en": "Unified District Information System for Education",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "PAN",
+      "expansion_en": "Permanent Account Number",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "NEWS",
+      "expansion_en": "North, East, West and South",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "SIM",
+      "expansion_en": "Subscriber Identification Module",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "VAT",
+      "expansion_en": "Value Added Tax",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "INSAT",
+      "expansion_en": "Indian National Satellite",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "SEBI",
+      "expansion_en": "Securities Exchange Board of India",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "NOPE",
+      "expansion_en": "National Optimum Population Effort",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "NORD",
+      "expansion_en": "National Organization for Rate Disorders",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "DARE",
+      "expansion_en": "Drug Abuse Resistance Education",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "EAT",
+      "expansion_en": "Estimated Arrival Time",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "SCUBA",
+      "expansion_en": "Self-Contained Underwater Breathing Apparatus",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 523
+    },
+    {
+      "abbr_en": "UFO",
+      "expansion_en": "Unidentified Flying Object",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "C.A",
+      "expansion_en": "Chartered Accountant",
+      "note_en": "Abbreviation",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "NGO",
+      "expansion_en": "Non-Governmental Organization",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "SSC",
+      "expansion_en": "Staff Selection Commission",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "UNESCO",
+      "expansion_en": "United Nations Educational Scientific and Cultural Organization",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "CAT",
+      "expansion_en": "Common Admission Test",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "SAT",
+      "expansion_en": "Scholastic Assessment Test",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "ECG",
+      "expansion_en": "Electrocardiogram",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "ILO",
+      "expansion_en": "International Labour Organization",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "SCERT",
+      "expansion_en": "State Council of Educational Research and Training",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "ISRO",
+      "expansion_en": "Indian Space Research Organisation",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "FIR",
+      "expansion_en": "First Information Report",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "UNICEF",
+      "expansion_en": "United Nations International Children's Emergency Fund",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "NASA",
+      "expansion_en": "National Aeronautics and Space Administration",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "AIDS",
+      "expansion_en": "Acquired Immuno-deficiency Syndrome",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "ADHD",
+      "expansion_en": "Attention Deficit Hyperactivity Disorder",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "FAQ",
+      "expansion_en": "Frequently Asked Questions",
+      "note_en": "Acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 168
+    },
+    {
+      "abbr_en": "SIM",
+      "expansion_en": "Subscriber Identity Module",
+      "note_en": "Telecommunications acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "CCTV",
+      "expansion_en": "Closed-Circuit Television",
+      "note_en": "Surveillance system acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "HDMI",
+      "expansion_en": "High-Definition Multimedia Interface",
+      "note_en": "Digital display interface",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "MRI",
+      "expansion_en": "Magnetic Resonance Imaging",
+      "note_en": "Medical imaging acronym",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "CRY",
+      "expansion_en": "Child Rights and You",
+      "note_en": "Organization name",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "ROM",
+      "expansion_en": "Read-Only Memory",
+      "note_en": "Computing term",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "CPU",
+      "expansion_en": "Central Processing Unit",
+      "note_en": "Computing term",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "ALU",
+      "expansion_en": "Arithmetic Logic Unit",
+      "note_en": "Computing term",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "abbr_en": "IELTS",
+      "expansion_en": "International English Language Testing System",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "GST",
+      "expansion_en": "Goods and Service Tax",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "TNPSC",
+      "expansion_en": "Tamil Nadu Public Service Commission",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "STD",
+      "expansion_en": "Subscriber Trunk Dialing",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "ISD",
+      "expansion_en": "International Subscriber Dialing",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "MBA",
+      "expansion_en": "Master of Business Administration",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "MHRD",
+      "expansion_en": "Ministry of Human Resource Development (now renamed as Ministry of Education in India)",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "NSS",
+      "expansion_en": "National Service Scheme",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "PTA",
+      "expansion_en": "Parent-Teacher Association",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "ICU",
+      "expansion_en": "Intensive Care Unit",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "IIM",
+      "expansion_en": "Indian Institute of Management",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "NCC",
+      "expansion_en": "National Cadet Corps",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "LED",
+      "expansion_en": "Light Emitting Diode",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "CBSE",
+      "expansion_en": "Central Board of Secondary Education",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "GDP",
+      "expansion_en": "Gross Domestic Product",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "LCD",
+      "expansion_en": "Liquid Crystal Display",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "NRI",
+      "expansion_en": "Non-Resident Indian",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "ITI",
+      "expansion_en": "Industrial Training Institute",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "USB",
+      "expansion_en": "Universal Serial Bus",
+      "note_en": "none",
+      "ab_tag": "other",
+      "source": "vetrii",
+      "source_page": 526
+    },
+    {
+      "abbr_en": "PM",
+      "expansion_en": "Prime Minister",
+      "note_en": "Shortened form of a phrase",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "ATM",
+      "expansion_en": "Automated Teller Machine",
+      "note_en": "Common business abbreviation",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "GB",
+      "expansion_en": "Giga Byte",
+      "note_en": "Computing term",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "PC",
+      "expansion_en": "Personal Computer",
+      "note_en": "Computing term",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "CEO",
+      "expansion_en": "Chief Educational Officer",
+      "note_en": "Official designation",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "EMIS",
+      "expansion_en": "Education Management Information System",
+      "note_en": "System designation",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "IAS",
+      "expansion_en": "Indian Administrative Service",
+      "note_en": "Administrative body",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "NMMS",
+      "expansion_en": "National Means cum Merit Scholarship",
+      "note_en": "Scholarship name",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "SBI",
+      "expansion_en": "State Bank of India",
+      "note_en": "Banking institution",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "OTP",
+      "expansion_en": "One Time Password",
+      "note_en": "Security term",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "IFSC",
+      "expansion_en": "Indian Financial System Code",
+      "note_en": "Banking code",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "PDF",
+      "expansion_en": "Portable Document Format",
+      "note_en": "File format",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "UPS",
+      "expansion_en": "Uninterruptible Power Supply",
+      "note_en": "Power hardware",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "GST",
+      "expansion_en": "Goods and Services Tax",
+      "note_en": "Taxation term",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 345
+    },
+    {
+      "abbr_en": "NATO",
+      "expansion_en": "North Atlantic Treaty Organization",
+      "note_en": "Initial letters of the phrase.",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 346
+    },
+    {
+      "abbr_en": "WHO",
+      "expansion_en": "World Health Organization",
+      "note_en": "Initial letters of the phrase.",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 346
+    },
+    {
+      "abbr_en": "e.g.",
+      "expansion_en": "exempli gratia",
+      "note_en": "for example",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 347
+    },
+    {
+      "abbr_en": "et al.",
+      "expansion_en": "et alii",
+      "note_en": "and others",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 347
+    },
+    {
+      "abbr_en": "ft²",
+      "expansion_en": "square feet",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "abbr_en": "°F",
+      "expansion_en": "degrees Fahrenheit",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "abbr_en": "°C",
+      "expansion_en": "degrees Celsius",
+      "note_en": "Mathematical unit",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "abbr_en": "USA",
+      "expansion_en": "United Stated of America",
+      "note_en": "Country name",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "abbr_en": "RSC",
+      "expansion_en": "Referee Stopped Contest",
+      "note_en": "Term used in boxing context.",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 351
+    },
+    {
+      "abbr_en": "AIBA",
+      "expansion_en": "Association Internationale de Boxe Amateur",
+      "note_en": "International sports organization.",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 351
+    },
+    {
+      "abbr_en": "SMIM",
+      "expansion_en": "Send Me an Instant Message",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "EOD",
+      "expansion_en": "End Of Discussion",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "IMD",
+      "expansion_en": "India Meteorological Department",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "CSI",
+      "expansion_en": "Crime Scene Investigation",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "CPS",
+      "expansion_en": "Child Protective Services",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "AMA",
+      "expansion_en": "Against Medical Advice",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "SUV",
+      "expansion_en": "Sports Utility Vehicle",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    },
+    {
+      "abbr_en": "NHL",
+      "expansion_en": "National Hockey League",
+      "note_en": "",
+      "ab_tag": "other",
+      "source": "grammer",
+      "source_page": 353
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "1. My dad wakes up very early in the morning because he has to be at work at 6.00____",
+      "answer_en": "a.m",
+      "options_en": [
+        "a.m",
+        "p.m",
+        "etc.",
+        "BCE"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "2. Socrates, the famous Classical Greek Athenian philosopher, died in 399____",
+      "answer_en": "BCE",
+      "options_en": [
+        "a.m",
+        "p.m",
+        "etc.",
+        "BCE"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "3. Leonardo Da Vinci was a famous Italian polymath, a painter, a sculptor, an architect, a musician, a scientist____",
+      "answer_en": "etc.",
+      "options_en": [
+        "a.m",
+        "p.m",
+        "etc.",
+        "BCE"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "4. I usually return home from work at 10.30____",
+      "answer_en": "p.m",
+      "options_en": [
+        "a.m",
+        "p.m",
+        "etc.",
+        "BCE"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "5. John downloaded a clip from YouTube in ____ quality.",
+      "answer_en": "HD",
+      "options_en": [
+        "HD",
+        "GPS",
+        "m",
+        "IQ"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "6. There are many irregular verbs in the English language, ____ break, do, make.",
+      "answer_en": "e.g",
+      "options_en": [
+        "e.g",
+        "Vs",
+        "m",
+        "IQ"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "7. I'm watching a great football match, Barcelona ____ Real Madrid.",
+      "answer_en": "Vs",
+      "options_en": [
+        "e.g",
+        "Vs",
+        "m",
+        "IQ"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "8. Humans who dive without protection can survive 300 ____ under water.",
+      "answer_en": "m",
+      "options_en": [
+        "e.g",
+        "Vs",
+        "m",
+        "IQ"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "9. A 11-year-old girl just beat Einstein on an ____ test.",
+      "answer_en": "IQ",
+      "options_en": [
+        "e.g",
+        "Vs",
+        "m",
+        "IQ"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "10. We used the ____ facility to track the location",
+      "answer_en": "GPS",
+      "options_en": [
+        "HD",
+        "GPS",
+        "m",
+        "IQ"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "vetrii",
+      "source_page": 525
+    },
+    {
+      "prompt_en": "Expand the following: ECG, ILO, SCERT, IIT, ISRO, FIR, UNESCO, UNICEF, NASA, AIDS, ADHD, UFO, FAQ",
+      "answer_en": "ECG: Electrocardiogram; ILO: International Labour Organization; SCERT: State Council of Educational Research and Training; IIT: Indian Institute of Technology; ISRO: Indian Space Research Organisation; FIR: First Information Report; UNESCO: United Nations Educational, Scientific and Cultural Organization; UNICEF: United Nations Children's Fund; NASA: National Aeronautics and Space Administration; AIDS: Acquired Immuno Deficiency Syndrome; ADHD: Attention Deficit Hyperactivity Disorder; UFO: Unidentified Flying Object; FAQ: Frequently Asked Questions",
+      "options_en": [],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 346
+    },
+    {
+      "prompt_en": "My dad wakes up very early in the morning because he has to be at work at 6.00 __.",
+      "answer_en": "a.m.",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "Socrates, the famous Classical Greek Athenian philosopher, died in 399 __.",
+      "answer_en": "BCE",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "Leonardo Da Vinci was a famous Italian polymath, a painter, a sculptor, an architect, a musician, a scientist __.",
+      "answer_en": "etc.",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "I usually return home from work at 10.30 __.",
+      "answer_en": "p.m.",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "John downloaded a clip from YouTube in __ quality.",
+      "answer_en": "HD",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "There are many irregular verbs in the English language, __ break, do, make.",
+      "answer_en": "e.g",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "I’m watching a great football match, Barcelona __ Real Madrid.",
+      "answer_en": "vs",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "Humans who dive without protection can survive 300 __ under water.",
+      "answer_en": "m",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "A 11-year-old girl just beat Einstein on an __ test.",
+      "answer_en": "IQ",
+      "options_en": [
+        "SIM",
+        "ISRO",
+        "WHO",
+        "CCTV",
+        "HDMI",
+        "LASER",
+        "MRI",
+        "CRY",
+        "RAM",
+        "ROM",
+        "CPU",
+        "ALU",
+        "a.m.",
+        "etc.",
+        "BCE",
+        "e.g",
+        "HD",
+        "m",
+        "IQ",
+        "GPS",
+        "p.m.",
+        "vs"
+      ],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 348
+    },
+    {
+      "prompt_en": "Write the expanded forms of the following: 1. IELTS, 2. GST, 3. TNPSC, 4. STD, 5. ISD, 6. MBA, 7. MHRD, 8. GPS, 9. NSS, 10. PTA, 11. NGO, 12. ICU, 13. IIM, 14. MRI, 15. ECG, 16. NCC, 17. LED, 18. CPU, 19. CBSE, 20. GDP, 21. LCD, 22. NRI, 23. IIT, 24. ITI, 25. USB",
+      "answer_en": "1. International English Language Testing System, 2. Goods and Services Tax, 3. Tamil Nadu Public Service Commission, 4. Subscriber Trunk Dialing, 5. International Subscriber Dialing, 6. Master of Business Administration, 7. Ministry of Human Resource Development, 8. Global Positioning System, 9. National Service Scheme, 10. Parent Teacher Association, 11. Non-Governmental Organization, 12. Intensive Care Unit, 13. Indian Institute of Management, 14. Magnetic Resonance Imaging, 15. Electrocardiogram, 16. National Cadet Corps, 17. Light Emitting Diode, 18. Central Processing Unit, 19. Central Board of Secondary Education, 20. Gross Domestic Product, 21. Liquid Crystal Display, 22. Non-Resident Indian, 23. Indian Institute of Technology, 24. Industrial Training Institute, 25. Universal Serial Bus",
+      "options_en": [],
+      "ab_tag": "fill_blank",
+      "source": "grammer",
+      "source_page": 351
+    }
+  ],
+  "stats": {
+    "totals": {
+      "rules": 8,
+      "examples": 150,
+      "worked_exercises": 21
+    },
+    "by_ab_tag": {
+      "definition": {
+        "rules": 7,
+        "examples": 0,
+        "worked": 0
+      },
+      "overview": {
+        "rules": 1,
+        "examples": 0,
+        "worked": 0
+      },
+      "other": {
+        "rules": 0,
+        "examples": 150,
+        "worked": 0
+      },
+      "fill_blank": {
+        "rules": 0,
+        "examples": 0,
+        "worked": 21
+      }
+    }
+  }
+}

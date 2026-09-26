@@ -1,0 +1,104 @@
+{
+  "prose_id": "the_nose_jewel",
+  "prose_title": "The Nose Jewel",
+  "author": "C. Rajagopalachari",
+  "num": 15,
+  "pdf_pages": [
+    346,
+    366
+  ],
+  "prose_text_en": "Ramayya, a simple man, lived in a tiled house with his wife. Two sparrows nested on his roof. The male sparrow brought a diamond nose-jewel found on a muck-heap to the nest, mocking the greed of humans. Ramayya's wife discovered the jewel and wore it. When Meenakshi Ammal reported her daughter's lost nose-jewel, the whole village suspected the maid-servant Kuppayi. Panicked and fearing police investigation, Ramayya's wife hid the jewel in a box and fell ill with fever. The story concludes with the couple living the rest of their lives in fear, reflecting the moral: 'we should never be greedy for what belongs to others.'",
+  "summary_en": "The story follows the lives of a simple couple, Ramayya and his wife, whose lives are disrupted when they come into possession of a lost diamond nose-jewel. While the wife selfishly keeps the jewel, the resulting fear of being caught by the police leads to her severe illness and a life of constant anxiety. The tale serves as a cautionary fable about the consequences of greed and the psychological burden of dishonesty.",
+  "characters": [
+    {
+      "name_en": "Ramayya",
+      "role_en": "A simple man living in a tiled house who lives in fear after his wife finds a stolen jewel."
+    },
+    {
+      "name_en": "Ramayya's wife",
+      "role_en": "Finds the diamond nose-jewel and keeps it, leading to her panic and illness."
+    },
+    {
+      "name_en": "Meenakshi Ammal",
+      "role_en": "The neighbor whose daughter lost the diamond nose-jewel."
+    },
+    {
+      "name_en": "Kuppayi",
+      "role_en": "The innocent maid-servant falsely suspected of stealing the jewel."
+    },
+    {
+      "name_en": "The two sparrows",
+      "role_en": "Observers who provide commentary on human greed."
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Disdain",
+      "meaning_en": "Feeling of contempt or scorn"
+    },
+    {
+      "word_en": "Muck-heap",
+      "meaning_en": "A heap of dung or refuse"
+    },
+    {
+      "word_en": "Grub",
+      "meaning_en": "Food"
+    },
+    {
+      "word_en": "Magistrate",
+      "meaning_en": "A judicial officer"
+    },
+    {
+      "word_en": "Consoled",
+      "meaning_en": "Comforted in a time of grief or disappointment"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Author: C. Rajagopalachari (Rajaji)",
+      "tag": "author"
+    },
+    {
+      "rule_en": "Theme: Greed and the fear of consequences.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "Rajaji was the last Governor-General of India and a Bharat Ratna recipient.",
+      "tag": "other"
+    },
+    {
+      "rule_en": "The diamond nose-jewel serves as a catalyst for the characters' moral dilemma.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "The sparrows built their nests in the _________.",
+      "answer_en": "roof of Ramayya's house",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "The diamond jewel belonged to _______ .",
+      "answer_en": "Meenakshi Ammal's daughter",
+      "options_en": [],
+      "tag": "short_answer"
+    },
+    {
+      "prompt_en": "The mother consoled her little girl. (Choose synonym for consoled)",
+      "answer_en": "comforted",
+      "options_en": [
+        "pretended",
+        "comforted",
+        "left"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "Two sparrows built a nest on a tree top. (True/False)",
+      "answer_en": "False",
+      "options_en": [],
+      "tag": "short_answer"
+    }
+  ]
+}

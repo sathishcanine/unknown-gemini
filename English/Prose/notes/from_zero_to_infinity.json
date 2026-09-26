@@ -1,0 +1,106 @@
+{
+  "prose_id": "from_zero_to_infinity",
+  "prose_title": "From Zero to Infinity",
+  "author": "Biography of Srinivasa Ramanujan",
+  "num": 13,
+  "pdf_pages": [
+    321,
+    332
+  ],
+  "prose_text_en": "The biography recounts Srinivasa Ramanujan's life, starting with a classroom anecdote where he questioned division by zero, proposing the answer as infinity. Ramanujan, a child prodigy from Erode (born Dec 22, 1887), mastered S.L. Loney’s advanced trigonometry and G.S. Carr’s 'A Synopsis of Elementary Results in Pure Applied Mathematics'. Despite his genius, he struggled with formal education, failing college exams due to neglecting other subjects. He eventually secured a clerk position at Madras Port Trust through Francis Spring. His path-breaking letter to G.H. Hardy at Cambridge led to his fellowship at Trinity College. He contributed significantly to number theory (Partition Theory, modular equations, and the Hardy-Ramanujan-Littlewood circle method). He passed away young, following a battle with Tuberculosis.",
+  "summary_en": "Srinivasa Ramanujan was an extraordinary Indian mathematical genius who rose from humble beginnings to international acclaim despite a lack of formal training. His work in number theory, particularly his Partition Theory, continues to influence modern technology, including ATM functionality. Though he faced early rejection and poor health, his dedication to mathematics led him to become the first Indian Fellow of Trinity College, Cambridge.",
+  "characters": [
+    {
+      "name_en": "Srinivasa Ramanujan",
+      "role_en": "Mathematical genius and protagonist"
+    },
+    {
+      "name_en": "G.H. Hardy",
+      "role_en": "Cambridge mathematician who discovered Ramanujan"
+    },
+    {
+      "name_en": "Bhaskara",
+      "role_en": "Indian mathematician who identified zero divided by zero as infinity"
+    },
+    {
+      "name_en": "Francis Spring",
+      "role_en": "Director of Madras Port Trust who hired Ramanujan"
+    },
+    {
+      "name_en": "John Shepherd-Barron",
+      "role_en": "Inventor of the ATM who utilized Ramanujan's Partition Theory"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "Prodigy",
+      "meaning_en": "A child who shows a great ability at a young age"
+    },
+    {
+      "word_en": "Conjecture",
+      "meaning_en": "An opinion or conclusion formed on the basis of incomplete information"
+    },
+    {
+      "word_en": "Emaciated",
+      "meaning_en": "Very thin and weak due to illness or hunger"
+    },
+    {
+      "word_en": "Dingy",
+      "meaning_en": "A dark and dirty place"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "Ramanujan was born in Erode, Tamil Nadu, on December 22, 1887.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "He proved/identified zero divided by zero as infinity, a concept Bhaskara also explored.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Ramanujan's notebooks are famously known as 'Ramanujan’s Frayed Notebooks'.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "He became the first Indian to be elected Fellow of Trinity College, Cambridge.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "ATM cash dispensers use Ramanujan’s 'Partition Theory'.",
+      "tag": "plot"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "She will not recognize us. (Convert to Passive)",
+      "answer_en": "We will not be recognized by her.",
+      "options_en": [
+        "will not recognize",
+        "will not being recognized",
+        "will not be recognized"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "They didn’t invite me, but I went anyway. (Convert to Passive)",
+      "answer_en": "I wasn't invited but I went anyway.",
+      "options_en": [
+        "wasn't invited",
+        "wasn't being invited",
+        "wasn't inviting"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "They broke up the table for firewood. (Convert to Passive)",
+      "answer_en": "The table was broken up for firewood.",
+      "options_en": [
+        "broke",
+        "had broken",
+        "was broken"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "prose_id": "empowered_women_navigating_the_world",
+  "prose_title": "Empowered Women Navigating the World",
+  "author": null,
+  "num": 3,
+  "pdf_pages": [
+    135,
+    158
+  ],
+  "prose_text_en": "The prose details the 'Navika Sagar Parikrama' expedition, featuring the first all-women Indian Navy crew to circumnavigate the globe aboard the indigenously built sailboat 'INSV Tarini'. The crew, led by Lt. Cdr. Vartika Joshi, completed the 254-day journey starting and ending in Goa (Sept 2017 – May 2018), covering five legs and four stopovers. Despite lacking prior experience, the six-member team underwent three years of intensive training. Vartika Joshi emphasized honesty, stating, 'I wanted to make sure that I complete this journey with ultimate honesty,' by avoiding auxiliary means of repulsion. The crew highlighted that the sea is gender-neutral, and the project served as a major boost for 'Nari Shakti' (women power) in India.",
+  "summary_en": "This prose recounts the historic 254-day circumnavigation of the globe by an all-women Indian Navy crew on the sailboat INSV Tarini. Led by Vartika Joshi, the team faced extreme weather and technical challenges while promoting the 'Make in India' initiative. The narrative showcases themes of teamwork, persistence, and breaking gender stereotypes in maritime exploration. It concludes by highlighting that gender does not dictate success in sailing, as the sea remains gender-neutral.",
+  "characters": [
+    {
+      "name_en": "Vartika Joshi",
+      "role_en": "Lt. Cdr. and crew skipper"
+    },
+    {
+      "name_en": "Pratibh Jamwal",
+      "role_en": "Lt. Cdr. and crew member"
+    },
+    {
+      "name_en": "Swathi Patarapalli",
+      "role_en": "Lt. Cdr. and crew member"
+    },
+    {
+      "name_en": "Aishwarya Boddapati",
+      "role_en": "Lt. and crew member"
+    },
+    {
+      "name_en": "Vijaya Devi",
+      "role_en": "Lt. and crew member"
+    },
+    {
+      "name_en": "Payal Gupta",
+      "role_en": "Lt. and crew member"
+    },
+    {
+      "name_en": "Dilip Donde",
+      "role_en": "Capt. (Retd.), mentor to the crew"
+    }
+  ],
+  "glossary": [
+    {
+      "word_en": "circumnavigate",
+      "meaning_en": "to travel all the way around something, especially the Earth"
+    },
+    {
+      "word_en": "indigenously",
+      "meaning_en": "naturally; innately; inherently"
+    },
+    {
+      "word_en": "consonance",
+      "meaning_en": "agreement or compatibility between opinions or actions"
+    },
+    {
+      "word_en": "skippered",
+      "meaning_en": "acted as a master or captain of a vessel"
+    },
+    {
+      "word_en": "bio-luminescence",
+      "meaning_en": "the production of light by living organisms"
+    }
+  ],
+  "rules": [
+    {
+      "rule_en": "INSV stands for Indian Naval Ship Vessel.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "INSV Tarini was built by M/s Aquarius Shipyard Pvt. Ltd in Goa.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "Navika Sagar Parikrama was the project aimed at empowering women.",
+      "tag": "theme"
+    },
+    {
+      "rule_en": "First Indian solo circumnavigation was by Capt. Dilip Donde.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "First Indian non-stop solo circumnavigation was by Cdr. Abhilash Tomy.",
+      "tag": "plot"
+    },
+    {
+      "rule_en": "The sea does not discriminate between genders; it is gender-neutral.",
+      "tag": "quote"
+    }
+  ],
+  "worked_exercises": [
+    {
+      "prompt_en": "1. Indian Navy’s all-women crew was the first-ever to circumnavigate the globe.",
+      "answer_en": "True",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "2. The crew consists of six members of men and women Indian Navy service.",
+      "answer_en": "False. The crew consists of six women officers of the Indian Navy.",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "3. Vartika Joshi skippered the crew to circumnavigate the globe.",
+      "answer_en": "True",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "4. The crew started their expedition on 10 July 2017 from Mumbai.",
+      "answer_en": "False. The crew started their expedition on 10 September 2017 from Goa.",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    },
+    {
+      "prompt_en": "5. Dilip Donde was the first person to go on a non-stop solo circumnavigation.",
+      "answer_en": "False. Cdr. Abhilash Tomy was the first person to do a non-stop solo circumnavigation.",
+      "options_en": [
+        "True",
+        "False"
+      ],
+      "tag": "choose_correct"
+    }
+  ]
+}

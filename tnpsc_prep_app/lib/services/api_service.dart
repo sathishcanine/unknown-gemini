@@ -282,4 +282,109 @@ class ApiService {
       );
     }
   }
+
+  /// Effective subscription plans (applies per-user admin price overrides when [userId] is set).
+  Future<List<Map<String, dynamic>>> getSubscriptionPlans({String? userId}) async {
+    try {
+      final uri = Uri.parse('$_baseUrl/api/plans').replace(
+        queryParameters: {
+          if (userId != null && userId.isNotEmpty) 'user_id': userId,
+        },
+      );
+      final response = await http
+          .get(uri, headers: _headers)
+          .timeout(const Duration(seconds: 12));
+      if (response.statusCode == 200) {
+        final data = jsonDecode(utf8.decode(response.bodyBytes));
+        final plans = data is Map ? data['plans'] : null;
+        if (plans is List) {
+          return plans
+              .map((e) => Map<String, dynamic>.from(e as Map))
+              .where((p) => p['code']?.toString() != '1m')
+              .toList();
+        }
+      }
+    } catch (e) {
+      debugPrint('getSubscriptionPlans failed: $e');
+    }
+    return [];
+  }
+
+  Future<Map<String, dynamic>?> createRazorpayOrder({
+    required String userId,
+    required String planCode,
+  }) async {
+    try {
+      final res = await http
+          .post(
+            Uri.parse('$_baseUrl/api/payments/razorpay/create-order'),
+            headers: _headers,
+            body: jsonEncode({'user_id': userId, 'plan_code': planCode}),
+          )
+          .timeout(const Duration(seconds: 20));
+      if (res.statusCode >= 200 && res.statusCode < 300) {
+        return Map<String, dynamic>.from(jsonDecode(utf8.decode(res.bodyBytes)) as Map);
+      }
+      debugPrint('createRazorpayOrder ${res.statusCode}: ${res.body}');
+      // Surface server error text to UI via a marker map.
+      String detail = 'Could not create payment order (${res.statusCode}).';
+      try {
+        final body = jsonDecode(utf8.decode(res.bodyBytes));
+        if (body is Map && body['detail'] != null) {
+          detail = body['detail'].toString();
+        }
+      } catch (_) {}
+      return {'_error': detail};
+    } catch (e) {
+      debugPrint('createRazorpayOrder failed: $e');
+      return {'_error': e.toString()};
+    }
+  }
+
+  Future<Map<String, dynamic>?> verifyRazorpayPayment({
+    required String userId,
+    required String orderId,
+    required String paymentId,
+    required String signature,
+  }) async {
+    try {
+      final res = await http
+          .post(
+            Uri.parse('$_baseUrl/api/payments/razorpay/verify'),
+            headers: _headers,
+            body: jsonEncode({
+              'user_id': userId,
+              'razorpay_order_id': orderId,
+              'razorpay_payment_id': paymentId,
+              'razorpay_signature': signature,
+            }),
+          )
+          .timeout(const Duration(seconds: 20));
+      if (res.statusCode >= 200 && res.statusCode < 300) {
+        final data = jsonDecode(utf8.decode(res.bodyBytes));
+        if (data is Map && data['entitlement'] is Map) {
+          return Map<String, dynamic>.from(data['entitlement'] as Map);
+        }
+      }
+      debugPrint('verifyRazorpayPayment ${res.statusCode}: ${res.body}');
+    } catch (e) {
+      debugPrint('verifyRazorpayPayment failed: $e');
+    }
+    return null;
+  }
+
+  Future<Map<String, dynamic>?> fetchEntitlement({required String userId}) async {
+    try {
+      final uri = Uri.parse('$_baseUrl/api/users/entitlement').replace(
+        queryParameters: {'user_id': userId},
+      );
+      final res = await http.get(uri, headers: _headers).timeout(const Duration(seconds: 12));
+      if (res.statusCode == 200) {
+        return Map<String, dynamic>.from(jsonDecode(utf8.decode(res.bodyBytes)) as Map);
+      }
+    } catch (e) {
+      debugPrint('fetchEntitlement failed: $e');
+    }
+    return null;
+  }
 }

@@ -1,0 +1,2487 @@
+{
+  "topic_id": "word_translation",
+  "topic_title": "Word Translation",
+  "unit": 6,
+  "batches_target": 3,
+  "pages": [
+    56,
+    69
+  ],
+  "rules": [
+    {
+      "rule_en": "Vocabulary acquisition via English-Tamil translation mapping is essential for TNPSC language sections.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Expand vocabulary by grouping words with similar prefixes (e.g., 'con-' words) to improve retention for TNPSC comprehension and synonyms/antonyms sections.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Expanding vocabulary through direct English-to-Tamil word mapping is crucial for TNPSC General English translation sections.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Vocabulary building through word-to-Tamil translation is a fundamental requirement for the TNPSC General English paper.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Expand vocabulary by identifying root words and their Tamil equivalents to improve performance in TNPSC General English translation sections.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Expanding vocabulary is essential for TNPSC General English synonym and antonym questions.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Vocabulary enrichment is essential for TNPSC English language proficiency.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Expand your vocabulary for English comprehension and synonym/antonym questions in TNPSC exams.",
+      "tag": "strategy"
+    },
+    {
+      "rule_en": "Idioms often require contextual translation rather than literal translation for TNPSC English proficiency.",
+      "tag": "strategy"
+    }
+  ],
+  "glossary": [
+    {
+      "term_en": "Animosity",
+      "meaning_en": "Hostility",
+      "meaning_ta": "பகைமை"
+    },
+    {
+      "term_en": "Annihilate",
+      "meaning_en": "Destroy completely",
+      "meaning_ta": "முற்றிலும் அழிக்கவும்"
+    },
+    {
+      "term_en": "Anomaly",
+      "meaning_en": "Irregularity",
+      "meaning_ta": "ஒழுங்கின்மை"
+    },
+    {
+      "term_en": "Annual",
+      "meaning_en": "Yearly",
+      "meaning_ta": "வருடாந்திர"
+    },
+    {
+      "term_en": "Antediluvian",
+      "meaning_en": "Ancient",
+      "meaning_ta": "பழங்கால"
+    },
+    {
+      "term_en": "Anticipate",
+      "meaning_en": "Expect",
+      "meaning_ta": "எதிர்பார்ப்ப"
+    },
+    {
+      "term_en": "Antipathy",
+      "meaning_en": "Dislike",
+      "meaning_ta": "வெறுப்பு / அருவருப்பு"
+    },
+    {
+      "term_en": "Apathy",
+      "meaning_en": "Lack of interest",
+      "meaning_ta": "உதாசீனம்"
+    },
+    {
+      "term_en": "Apex",
+      "meaning_en": "Peak",
+      "meaning_ta": "உச்சம்"
+    },
+    {
+      "term_en": "Apocryphal",
+      "meaning_en": "Of doubtful authenticity",
+      "meaning_ta": "நம்பமுடியாத"
+    },
+    {
+      "term_en": "Apotheosis",
+      "meaning_en": "Exaltation to divine status",
+      "meaning_ta": "கொள்கை வழிபாடு / தெய்வீகமாக்கல்"
+    },
+    {
+      "term_en": "Appease",
+      "meaning_en": "Pacify",
+      "meaning_ta": "சமாதானப்படுத்து"
+    },
+    {
+      "term_en": "Apparent",
+      "meaning_en": "Clear",
+      "meaning_ta": "தெளிவான"
+    },
+    {
+      "term_en": "Apply",
+      "meaning_en": "Make a request",
+      "meaning_ta": "விண்ணப்பி"
+    },
+    {
+      "term_en": "Apprehend",
+      "meaning_en": "Arrest",
+      "meaning_ta": "பிடி / கைது செய்"
+    },
+    {
+      "term_en": "Approach",
+      "meaning_en": "Method of dealing",
+      "meaning_ta": "அணுகுமுறை"
+    },
+    {
+      "term_en": "Arbitrary",
+      "meaning_en": "Based on random choice",
+      "meaning_ta": "தன்னிச்சையான"
+    },
+    {
+      "term_en": "Arduous",
+      "meaning_en": "Difficult",
+      "meaning_ta": "கடினமான"
+    },
+    {
+      "term_en": "Arrange",
+      "meaning_en": "Organize",
+      "meaning_ta": "ஏற்பாடு செய்"
+    },
+    {
+      "term_en": "Articulate",
+      "meaning_en": "Clear speaker",
+      "meaning_ta": "தெளிவாக பேசுபவர்"
+    },
+    {
+      "term_en": "Ascertain",
+      "meaning_en": "Confirm",
+      "meaning_ta": "உறுதி செய்யவும்"
+    },
+    {
+      "term_en": "Ascetic",
+      "meaning_en": "Self-disciplined",
+      "meaning_ta": "துறவியான"
+    },
+    {
+      "term_en": "Assiduous",
+      "meaning_en": "Hardworking",
+      "meaning_ta": "உழைப்பாளி"
+    },
+    {
+      "term_en": "Assimilate",
+      "meaning_en": "Absorb",
+      "meaning_ta": "உட்கொள்"
+    },
+    {
+      "term_en": "Assume",
+      "meaning_en": "Suppose",
+      "meaning_ta": "கருதுதல்"
+    },
+    {
+      "term_en": "Astute",
+      "meaning_en": "Shrewd",
+      "meaning_ta": "தந்திரமான / கூர்மையான"
+    },
+    {
+      "term_en": "Attempt",
+      "meaning_en": "Effort",
+      "meaning_ta": "முயற்சி"
+    },
+    {
+      "term_en": "Attend",
+      "meaning_en": "Be present",
+      "meaning_ta": "கலந்து கொள்"
+    },
+    {
+      "term_en": "Audacious",
+      "meaning_en": "Bold",
+      "meaning_ta": "துணிச்சலான"
+    },
+    {
+      "term_en": "Authentic",
+      "meaning_en": "Genuine",
+      "meaning_ta": "உண்மையான"
+    },
+    {
+      "term_en": "Austere",
+      "meaning_en": "Strict",
+      "meaning_ta": "கடுமையான"
+    },
+    {
+      "term_en": "Authority",
+      "meaning_en": "Power",
+      "meaning_ta": "அதிகாரம்"
+    },
+    {
+      "term_en": "Available",
+      "meaning_en": "Accessible",
+      "meaning_ta": "கிடைக்கும்"
+    },
+    {
+      "term_en": "Avarice",
+      "meaning_en": "Greed",
+      "meaning_ta": "பேராசை"
+    },
+    {
+      "term_en": "Average",
+      "meaning_en": "Mean",
+      "meaning_ta": "சராசரி"
+    },
+    {
+      "term_en": "Avoid",
+      "meaning_en": "Keep away from",
+      "meaning_ta": "தவிர்க்க"
+    },
+    {
+      "term_en": "Balance",
+      "meaning_en": "Stability",
+      "meaning_ta": "சமநிலை"
+    },
+    {
+      "term_en": "Banal",
+      "meaning_en": "Commonplace",
+      "meaning_ta": "சாதாரணமான"
+    },
+    {
+      "term_en": "Benefit",
+      "meaning_en": "Advantage",
+      "meaning_ta": "பயன்"
+    },
+    {
+      "term_en": "Benevolent",
+      "meaning_en": "Kind",
+      "meaning_ta": "கருணையுள்ள"
+    },
+    {
+      "term_en": "Benign",
+      "meaning_en": "Harmless",
+      "meaning_ta": "தீங்கற்ற"
+    },
+    {
+      "term_en": "Bias",
+      "meaning_en": "Prejudice",
+      "meaning_ta": "பக்கச்சார்பான"
+    },
+    {
+      "term_en": "Biased",
+      "meaning_en": "Unfairly prejudiced",
+      "meaning_ta": "பாரபட்சமான"
+    },
+    {
+      "term_en": "Bizarre",
+      "meaning_en": "Strange",
+      "meaning_ta": "விசித்திரமான"
+    },
+    {
+      "term_en": "Blandishment",
+      "meaning_en": "Flattery",
+      "meaning_ta": "மயக்கு வார்த்தை"
+    },
+    {
+      "term_en": "Blatant",
+      "meaning_en": "Openly obvious",
+      "meaning_ta": "வெளிப்படையான"
+    },
+    {
+      "term_en": "Bolster",
+      "meaning_en": "Strengthen",
+      "meaning_ta": "வலுப்படுத்து"
+    },
+    {
+      "term_en": "Brevity",
+      "meaning_en": "Conciseness",
+      "meaning_ta": "சுருக்கம்"
+    },
+    {
+      "term_en": "Brittle",
+      "meaning_en": "Easily broken",
+      "meaning_ta": "உடையக்கூடிய"
+    },
+    {
+      "term_en": "Bureaucracy",
+      "meaning_en": "Administrative system",
+      "meaning_ta": "அலுவலகத்தனம்"
+    },
+    {
+      "term_en": "Burgeoning",
+      "meaning_en": "Growing rapidly",
+      "meaning_ta": "வளர்ந்துவரும்"
+    },
+    {
+      "term_en": "Cacophony",
+      "meaning_en": "Harsh noise",
+      "meaning_ta": "இனிமையற்ற இரைச்சல்"
+    },
+    {
+      "term_en": "Cajole",
+      "meaning_en": "Persuade by flattery",
+      "meaning_ta": "மயக்கிப் பேசு"
+    },
+    {
+      "term_en": "Calculate",
+      "meaning_en": "Compute",
+      "meaning_ta": "கணக்கிடு"
+    },
+    {
+      "term_en": "Callous",
+      "meaning_en": "Insensitive",
+      "meaning_ta": "கடினமான"
+    },
+    {
+      "term_en": "Candid",
+      "meaning_en": "Frank",
+      "meaning_ta": "நேர்மையான"
+    },
+    {
+      "term_en": "Capable",
+      "meaning_en": "Competent",
+      "meaning_ta": "திறமை உள்ள"
+    },
+    {
+      "term_en": "Capacity",
+      "meaning_en": "Ability",
+      "meaning_ta": "திறன்"
+    },
+    {
+      "term_en": "Capitulate",
+      "meaning_en": "Surrender",
+      "meaning_ta": "ஒப்புக்கொடுக்கவும் / சரணடை"
+    },
+    {
+      "term_en": "Capricious",
+      "meaning_en": "Changing mood",
+      "meaning_ta": "மாறக்கூடிய"
+    },
+    {
+      "term_en": "Catastrophe",
+      "meaning_en": "disaster",
+      "meaning_ta": "பேரழிவு"
+    },
+    {
+      "term_en": "Catalyst",
+      "meaning_en": "stimulant",
+      "meaning_ta": "வினையூக்கி"
+    },
+    {
+      "term_en": "Caustic",
+      "meaning_en": "corrosive",
+      "meaning_ta": "கடுமையான"
+    },
+    {
+      "term_en": "Censure",
+      "meaning_en": "criticize",
+      "meaning_ta": "கண்டனம்"
+    },
+    {
+      "term_en": "Challenge",
+      "meaning_en": "dare",
+      "meaning_ta": "சவால்"
+    },
+    {
+      "term_en": "Change",
+      "meaning_en": "alteration",
+      "meaning_ta": "மாற்றம்"
+    },
+    {
+      "term_en": "Chicanery",
+      "meaning_en": "deception",
+      "meaning_ta": "வஞ்சகம்"
+    },
+    {
+      "term_en": "Choice",
+      "meaning_en": "selection",
+      "meaning_ta": "தேர்வு"
+    },
+    {
+      "term_en": "Churlish",
+      "meaning_en": "rude",
+      "meaning_ta": "முரட்டுத்தனமான"
+    },
+    {
+      "term_en": "Circumvent",
+      "meaning_en": "avoid",
+      "meaning_ta": "தவிர்த்து செல் / சுற்றிச்செல்"
+    },
+    {
+      "term_en": "Clarify",
+      "meaning_en": "explain",
+      "meaning_ta": "தெளிவுபடுத்து"
+    },
+    {
+      "term_en": "Coerce",
+      "meaning_en": "force",
+      "meaning_ta": "கட்டாயப்படுத்துதல்"
+    },
+    {
+      "term_en": "Cognizant",
+      "meaning_en": "aware",
+      "meaning_ta": "அறிந்த/அறிவுடைய"
+    },
+    {
+      "term_en": "Cogent",
+      "meaning_en": "convincing",
+      "meaning_ta": "வலுவான வாதமுள்ள"
+    },
+    {
+      "term_en": "Coherent",
+      "meaning_en": "logical",
+      "meaning_ta": "ஒத்திசைவான"
+    },
+    {
+      "term_en": "Collate",
+      "meaning_en": "compare/arrange",
+      "meaning_ta": "ஒப்பிடு"
+    },
+    {
+      "term_en": "Collect",
+      "meaning_en": "gather",
+      "meaning_ta": "சேகரி"
+    },
+    {
+      "term_en": "Combine",
+      "meaning_en": "join",
+      "meaning_ta": "இணை"
+    },
+    {
+      "term_en": "Comfort",
+      "meaning_en": "solace",
+      "meaning_ta": "ஆறுதல்"
+    },
+    {
+      "term_en": "Commemorate",
+      "meaning_en": "honor memory",
+      "meaning_ta": "நினைவுகூர்"
+    },
+    {
+      "term_en": "Communicate",
+      "meaning_en": "convey info",
+      "meaning_ta": "தொடர்பு கொள்ளு"
+    },
+    {
+      "term_en": "Compelling",
+      "meaning_en": "forceful",
+      "meaning_ta": "வற்புறுத்தும்"
+    },
+    {
+      "term_en": "Compare",
+      "meaning_en": "examine similarities",
+      "meaning_ta": "ஒப்பிடு"
+    },
+    {
+      "term_en": "Compete",
+      "meaning_en": "contend",
+      "meaning_ta": "போட்டியிடு"
+    },
+    {
+      "term_en": "Complacent",
+      "meaning_en": "self-satisfied",
+      "meaning_ta": "திருப்தியடைந்த"
+    },
+    {
+      "term_en": "Complete",
+      "meaning_en": "finish",
+      "meaning_ta": "முடி"
+    },
+    {
+      "term_en": "Comprehend",
+      "meaning_en": "understand",
+      "meaning_ta": "புரிந்து கொள்"
+    },
+    {
+      "term_en": "Comprehensive",
+      "meaning_en": "thorough",
+      "meaning_ta": "விரிவான"
+    },
+    {
+      "term_en": "Concomitant",
+      "meaning_en": "accompanying",
+      "meaning_ta": "இணைந்து நிகழும்"
+    },
+    {
+      "term_en": "Concise",
+      "meaning_en": "brief",
+      "meaning_ta": "சுருக்கமான"
+    },
+    {
+      "term_en": "Concentrate",
+      "meaning_en": "focus",
+      "meaning_ta": "கவனம் செலுத்து"
+    },
+    {
+      "term_en": "Conducive",
+      "meaning_en": "favorable",
+      "meaning_ta": "உதவிகரமான"
+    },
+    {
+      "term_en": "Concur",
+      "meaning_en": "agree",
+      "meaning_ta": "உடன்படுதல்"
+    },
+    {
+      "term_en": "Conflagration",
+      "meaning_en": "great fire",
+      "meaning_ta": "பெருந்தீ"
+    },
+    {
+      "term_en": "Confound",
+      "meaning_en": "puzzle",
+      "meaning_ta": "குழப்பு"
+    },
+    {
+      "term_en": "Congeal",
+      "meaning_en": "solidify",
+      "meaning_ta": "உறை"
+    },
+    {
+      "term_en": "Confirm",
+      "meaning_en": "verify",
+      "meaning_ta": "உறுதிசெய்"
+    },
+    {
+      "term_en": "Connect",
+      "meaning_en": "join",
+      "meaning_ta": "இணை"
+    },
+    {
+      "term_en": "Consequence",
+      "meaning_en": "result",
+      "meaning_ta": "விளைவு"
+    },
+    {
+      "term_en": "Consensus",
+      "meaning_en": "general agreement",
+      "meaning_ta": "ஒருமித்த கருத்து"
+    },
+    {
+      "term_en": "Conservative",
+      "meaning_en": "traditional",
+      "meaning_ta": "பழமைவாத"
+    },
+    {
+      "term_en": "Consider",
+      "meaning_en": "deliberate",
+      "meaning_ta": "பரிசீலனை செய்"
+    },
+    {
+      "term_en": "Consistent",
+      "meaning_en": "steady",
+      "meaning_ta": "நிலையான"
+    },
+    {
+      "term_en": "Consolidate",
+      "meaning_en": "strengthen",
+      "meaning_ta": "ஒருங்கிணை"
+    },
+    {
+      "term_en": "Construct",
+      "meaning_en": "build",
+      "meaning_ta": "கட்டமை"
+    },
+    {
+      "term_en": "Contentious",
+      "meaning_en": "controversial",
+      "meaning_ta": "சர்ச்சைக்குரிய"
+    },
+    {
+      "term_en": "Contemporary",
+      "meaning_en": "modern",
+      "meaning_ta": "சமகாலத்தைய"
+    },
+    {
+      "term_en": "Continue",
+      "meaning_en": "resume",
+      "meaning_ta": "தொடரு"
+    },
+    {
+      "term_en": "Contradict",
+      "meaning_en": "disagree",
+      "meaning_ta": "முரண்படு"
+    },
+    {
+      "term_en": "Contrite",
+      "meaning_en": "apologetic",
+      "meaning_ta": "வருத்தப்பட்ட"
+    },
+    {
+      "term_en": "Contribute",
+      "meaning_en": "give",
+      "meaning_ta": "பங்களி"
+    },
+    {
+      "term_en": "Convenient",
+      "meaning_en": "suitable",
+      "meaning_ta": "வசதியான"
+    },
+    {
+      "term_en": "Conundrum",
+      "meaning_en": "riddle",
+      "meaning_ta": "புதிர்"
+    },
+    {
+      "term_en": "Copious",
+      "meaning_en": "abundant",
+      "meaning_ta": "ஏராளமான"
+    },
+    {
+      "term_en": "Corpulent",
+      "meaning_en": "fat",
+      "meaning_ta": "பருமனான"
+    },
+    {
+      "term_en": "Correct",
+      "meaning_en": "right",
+      "meaning_ta": "சரியான"
+    },
+    {
+      "term_en": "Corroborate",
+      "meaning_en": "confirm",
+      "meaning_ta": "உறுதிப்படுத்து"
+    },
+    {
+      "term_en": "Craven",
+      "meaning_en": "cowardly",
+      "meaning_ta": "கோழை"
+    },
+    {
+      "term_en": "Create",
+      "meaning_en": "produce",
+      "meaning_ta": "உருவாக்கு"
+    },
+    {
+      "term_en": "Credible",
+      "meaning_en": "believable",
+      "meaning_ta": "நம்பகமான"
+    },
+    {
+      "term_en": "Credulous",
+      "meaning_en": "gullible",
+      "meaning_ta": "நம்பிக்கையுள்ள"
+    },
+    {
+      "term_en": "Criticize",
+      "meaning_en": "censure",
+      "meaning_ta": "விமர்சிக்க"
+    },
+    {
+      "term_en": "Cryptic",
+      "meaning_en": "mysterious or obscure",
+      "meaning_ta": "மறைபொருள் கொண்ட/ புதிரான"
+    },
+    {
+      "term_en": "Culpable",
+      "meaning_en": "deserving blame",
+      "meaning_ta": "குற்றமுள்ள"
+    },
+    {
+      "term_en": "Cumulative",
+      "meaning_en": "increasing by successive additions",
+      "meaning_ta": "திரளான"
+    },
+    {
+      "term_en": "Curious",
+      "meaning_en": "eager to know or learn",
+      "meaning_ta": "ஆர்வம்"
+    },
+    {
+      "term_en": "Cursory",
+      "meaning_en": "hasty and therefore not thorough",
+      "meaning_ta": "விரைவு"
+    },
+    {
+      "term_en": "Damage",
+      "meaning_en": "physical harm",
+      "meaning_ta": "சேதம்"
+    },
+    {
+      "term_en": "Dauntless",
+      "meaning_en": "showing fearlessness",
+      "meaning_ta": "அஞ்சாத"
+    },
+    {
+      "term_en": "Debate",
+      "meaning_en": "a formal discussion",
+      "meaning_ta": "விவாதம்"
+    },
+    {
+      "term_en": "Debilitate",
+      "meaning_en": "make weak and infirm",
+      "meaning_ta": "பலவீனப்படுத்துதல்"
+    },
+    {
+      "term_en": "Decide",
+      "meaning_en": "make a choice",
+      "meaning_ta": "முடிவு செய்"
+    },
+    {
+      "term_en": "Decipher",
+      "meaning_en": "succeed in understanding",
+      "meaning_ta": "புரிந்துகொள்"
+    },
+    {
+      "term_en": "Decrease",
+      "meaning_en": "make or become smaller",
+      "meaning_ta": "குறை"
+    },
+    {
+      "term_en": "Deference",
+      "meaning_en": "humble submission and respect",
+      "meaning_ta": "மரியாதை"
+    },
+    {
+      "term_en": "Defer",
+      "meaning_en": "put off to a later time",
+      "meaning_ta": "தாமதப்படுத்து"
+    },
+    {
+      "term_en": "Define",
+      "meaning_en": "state the exact meaning",
+      "meaning_ta": "வரையறு"
+    },
+    {
+      "term_en": "Delay",
+      "meaning_en": "make late or slow",
+      "meaning_ta": "தாமதம்"
+    },
+    {
+      "term_en": "Deleterious",
+      "meaning_en": "causing harm or damage",
+      "meaning_ta": "தீங்கான"
+    },
+    {
+      "term_en": "Delineate",
+      "meaning_en": "describe or portray precisely",
+      "meaning_ta": "வரைந்துகாட்டு"
+    },
+    {
+      "term_en": "Demand",
+      "meaning_en": "an insistent request",
+      "meaning_ta": "கோரிக்கை"
+    },
+    {
+      "term_en": "Demarcate",
+      "meaning_en": "set the boundaries",
+      "meaning_ta": "எல்லைக்கோடு இடு"
+    },
+    {
+      "term_en": "Demur",
+      "meaning_en": "raise doubts or show reluctance",
+      "meaning_ta": "எதிர்ப்பு தெரிவிக்க"
+    },
+    {
+      "term_en": "Denigrate",
+      "meaning_en": "criticize unfairly",
+      "meaning_ta": "அவமதி"
+    },
+    {
+      "term_en": "Denounce",
+      "meaning_en": "publicly declare to be wrong",
+      "meaning_ta": "கண்டி"
+    },
+    {
+      "term_en": "Deny",
+      "meaning_en": "state that one refuses to admit",
+      "meaning_ta": "மறுக்க"
+    },
+    {
+      "term_en": "Depend",
+      "meaning_en": "be controlled or determined by",
+      "meaning_ta": "சார்ந்து"
+    },
+    {
+      "term_en": "Deplete",
+      "meaning_en": "use up the supply",
+      "meaning_ta": "குறை"
+    },
+    {
+      "term_en": "Depravity",
+      "meaning_en": "moral corruption",
+      "meaning_ta": "சீரிழிவு"
+    },
+    {
+      "term_en": "Deride",
+      "meaning_en": "express contempt for",
+      "meaning_ta": "ஏளனம்"
+    },
+    {
+      "term_en": "Derive",
+      "meaning_en": "obtain something from a source",
+      "meaning_ta": "பெறுதல்"
+    },
+    {
+      "term_en": "Describe",
+      "meaning_en": "give an account in words",
+      "meaning_ta": "விவரிக்க"
+    },
+    {
+      "term_en": "Desire",
+      "meaning_en": "a strong feeling of wanting",
+      "meaning_ta": "விருப்பம்"
+    },
+    {
+      "term_en": "Despot",
+      "meaning_en": "a ruler with absolute power",
+      "meaning_ta": "கொடுங்கோலன்"
+    },
+    {
+      "term_en": "Despondent",
+      "meaning_en": "in low spirits from loss of hope",
+      "meaning_ta": "மனச்சோர்வு"
+    },
+    {
+      "term_en": "Desultory",
+      "meaning_en": "lacking a plan, purpose, or enthusiasm",
+      "meaning_ta": "குறிக்கோளற்ற/ சீரற்ற"
+    },
+    {
+      "term_en": "Deteriorate",
+      "meaning_en": "become progressively worse",
+      "meaning_ta": "மோசமாகு"
+    },
+    {
+      "term_en": "Detrimental",
+      "meaning_en": "tending to cause harm",
+      "meaning_ta": "தீங்கு விளைவிக்கும்"
+    },
+    {
+      "term_en": "Develop",
+      "meaning_en": "grow or cause to grow",
+      "meaning_ta": "வளர்ச்சிபெறு"
+    },
+    {
+      "term_en": "Dexterity",
+      "meaning_en": "skill in performing tasks",
+      "meaning_ta": "திறமை"
+    },
+    {
+      "term_en": "Diatribe",
+      "meaning_en": "a forceful and bitter verbal attack",
+      "meaning_ta": "கடுந்தாக்குதல்"
+    },
+    {
+      "term_en": "Dichotomy",
+      "meaning_en": "a division between two things",
+      "meaning_ta": "இரட்டை"
+    },
+    {
+      "term_en": "Didactic",
+      "meaning_en": "intended to teach",
+      "meaning_ta": "போதனை"
+    },
+    {
+      "term_en": "Difference",
+      "meaning_en": "a point in which two things differ",
+      "meaning_ta": "வித்தியாசம்"
+    },
+    {
+      "term_en": "Difficult",
+      "meaning_en": "needing much effort",
+      "meaning_ta": "கடினம்"
+    },
+    {
+      "term_en": "Diffident",
+      "meaning_en": "modest or shy",
+      "meaning_ta": "தன்னம்பிக்கை இல்லாத"
+    },
+    {
+      "term_en": "Dilatory",
+      "meaning_en": "slow to act",
+      "meaning_ta": "தாமதம் செய்யும்"
+    },
+    {
+      "term_en": "Diligent",
+      "meaning_en": "having or showing care in work",
+      "meaning_ta": "முயற்சியுள்ள"
+    },
+    {
+      "term_en": "Direct",
+      "meaning_en": "extending or moving straight",
+      "meaning_ta": "நேரடி"
+    },
+    {
+      "term_en": "Discern",
+      "meaning_en": "perceive or recognize",
+      "meaning_ta": "உணர்"
+    },
+    {
+      "term_en": "Discordant",
+      "meaning_en": "disagreeing or incongruous",
+      "meaning_ta": "ஒத்துழைக்காத"
+    },
+    {
+      "term_en": "Discrepancy",
+      "meaning_en": "a lack of compatibility",
+      "meaning_ta": "வேறுபாடு"
+    },
+    {
+      "term_en": "Disadvantage",
+      "meaning_en": "an unfavorable circumstance",
+      "meaning_ta": "குறைபாடு"
+    },
+    {
+      "term_en": "Discover",
+      "meaning_en": "find unexpectedly",
+      "meaning_ta": "கண்டுபிடி"
+    },
+    {
+      "term_en": "Discuss",
+      "meaning_en": "talk about something",
+      "meaning_ta": "விவாதிக்க"
+    },
+    {
+      "term_en": "Disdain",
+      "meaning_en": "the feeling that someone is unworthy",
+      "meaning_ta": "அவமதிப்பு"
+    },
+    {
+      "term_en": "Disparage",
+      "meaning_en": "regard or represent as being of little worth",
+      "meaning_ta": "இழிவுபடுத்துதல்"
+    },
+    {
+      "term_en": "Disparate",
+      "meaning_en": "essentially different in kind",
+      "meaning_ta": "வேறுபட்ட"
+    },
+    {
+      "term_en": "Dispel",
+      "meaning_en": "make disappear",
+      "meaning_ta": "நீக்கு"
+    },
+    {
+      "term_en": "Display",
+      "meaning_en": "put in a prominent place",
+      "meaning_ta": "காட்டுதல்"
+    },
+    {
+      "term_en": "Disseminate",
+      "meaning_en": "spread widely",
+      "meaning_ta": "பரப்புதல்"
+    },
+    {
+      "term_en": "Dissent",
+      "meaning_en": "hold or express disagreement",
+      "meaning_ta": "கருத்து வேறுபாடு"
+    },
+    {
+      "term_en": "Disturb",
+      "meaning_en": "interfere with the normal arrangement",
+      "meaning_ta": "தொந்தரவு செய்"
+    },
+    {
+      "term_en": "Diverse",
+      "meaning_en": "showing a great deal of variety",
+      "meaning_ta": "பல்வேறு"
+    },
+    {
+      "term_en": "Divergent",
+      "meaning_en": "Differing",
+      "meaning_ta": "வேறுபட்ட"
+    },
+    {
+      "term_en": "Divide",
+      "meaning_en": "Split",
+      "meaning_ta": "பிரி"
+    },
+    {
+      "term_en": "Dogmatic",
+      "meaning_en": "Assertive/Authoritative",
+      "meaning_ta": "உறுதியான/அதிகாரப்பூர்வமான"
+    },
+    {
+      "term_en": "Dominant",
+      "meaning_en": "Ruling/Prevailing",
+      "meaning_ta": "ஆதிக்கம் செலுத்தும்"
+    },
+    {
+      "term_en": "Doubt",
+      "meaning_en": "Uncertainty",
+      "meaning_ta": "சந்தேகம்"
+    },
+    {
+      "term_en": "Dubious",
+      "meaning_en": "Doubtful",
+      "meaning_ta": "சந்தேகமான"
+    },
+    {
+      "term_en": "Duplicity",
+      "meaning_en": "Deceitfulness",
+      "meaning_ta": "இருமனம்"
+    },
+    {
+      "term_en": "Ebullient",
+      "meaning_en": "Cheerful",
+      "meaning_ta": "மகிழ்ச்சியான"
+    },
+    {
+      "term_en": "Eccentric",
+      "meaning_en": "Unconventional",
+      "meaning_ta": "விசித்திரமான"
+    },
+    {
+      "term_en": "Eclectic",
+      "meaning_en": "Selecting from various sources",
+      "meaning_ta": "தேர்ந்தெடுத்த"
+    },
+    {
+      "term_en": "Efficacious",
+      "meaning_en": "Effective",
+      "meaning_ta": "பயனுள்ள/செயல்திறன் உள்ள"
+    },
+    {
+      "term_en": "Efficient",
+      "meaning_en": "Competent",
+      "meaning_ta": "திறமையான"
+    },
+    {
+      "term_en": "Effort",
+      "meaning_en": "Attempt",
+      "meaning_ta": "முயற்சி"
+    },
+    {
+      "term_en": "Effervescent",
+      "meaning_en": "Bubbly/Lively",
+      "meaning_ta": "உற்சாகமான"
+    },
+    {
+      "term_en": "Egregious",
+      "meaning_en": "Outstandingly bad",
+      "meaning_ta": "மோசமான"
+    },
+    {
+      "term_en": "Elaborate",
+      "meaning_en": "Detailed",
+      "meaning_ta": "விரிவாக்கு"
+    },
+    {
+      "term_en": "Elicit",
+      "meaning_en": "Draw out",
+      "meaning_ta": "வெளிக்கொணர்"
+    },
+    {
+      "term_en": "Elite",
+      "meaning_en": "Superior group",
+      "meaning_ta": "உயர்குடி"
+    },
+    {
+      "term_en": "Eloquent",
+      "meaning_en": "Fluent speaker",
+      "meaning_ta": "வசீகரமான பேசுபவர்"
+    },
+    {
+      "term_en": "Elucidate",
+      "meaning_en": "Clarify",
+      "meaning_ta": "தெளிவுபடுத்து"
+    },
+    {
+      "term_en": "Embellish",
+      "meaning_en": "Decorate",
+      "meaning_ta": "அழகுபடுத்து"
+    },
+    {
+      "term_en": "Emphasize",
+      "meaning_en": "Stress",
+      "meaning_ta": "வலியுறுத்தல்"
+    },
+    {
+      "term_en": "Emulate",
+      "meaning_en": "Imitate",
+      "meaning_ta": "பின்பற்றுதல்"
+    },
+    {
+      "term_en": "Empirical",
+      "meaning_en": "Based on observation",
+      "meaning_ta": "அனுபவப்பூர்வமான"
+    },
+    {
+      "term_en": "Encourage",
+      "meaning_en": "Support",
+      "meaning_ta": "ஊக்குவி"
+    },
+    {
+      "term_en": "Endure",
+      "meaning_en": "Suffer/Bear",
+      "meaning_ta": "தாங்கு"
+    },
+    {
+      "term_en": "Enervate",
+      "meaning_en": "Drain of energy",
+      "meaning_ta": "பலவீனப்படுத்து"
+    },
+    {
+      "term_en": "Enhance",
+      "meaning_en": "Improve",
+      "meaning_ta": "மேம்படுத்து"
+    },
+    {
+      "term_en": "Enigma",
+      "meaning_en": "Puzzle",
+      "meaning_ta": "புதிர்"
+    },
+    {
+      "term_en": "Enigmatic",
+      "meaning_en": "Mysterious",
+      "meaning_ta": "புதிரான"
+    },
+    {
+      "term_en": "Ennui",
+      "meaning_en": "Boredom",
+      "meaning_ta": "சலிப்பு"
+    },
+    {
+      "term_en": "Enumerate",
+      "meaning_en": "List",
+      "meaning_ta": "எண்ணிக்கை"
+    },
+    {
+      "term_en": "Ensure",
+      "meaning_en": "Make certain",
+      "meaning_ta": "உறுதிசெய்"
+    },
+    {
+      "term_en": "Ephemeral",
+      "meaning_en": "Short-lived",
+      "meaning_ta": "குறுகியகால"
+    },
+    {
+      "term_en": "Equanimity",
+      "meaning_en": "Calmness",
+      "meaning_ta": "சமநிலை"
+    },
+    {
+      "term_en": "Equivalent",
+      "meaning_en": "Equal",
+      "meaning_ta": "சமானமான"
+    },
+    {
+      "term_en": "Equivocate",
+      "meaning_en": "Use ambiguous language",
+      "meaning_ta": "சாக்குப்போக்குக் கூறி ஏமாற்று"
+    },
+    {
+      "term_en": "Equivocal",
+      "meaning_en": "Ambiguous",
+      "meaning_ta": "இருபொருள் கொண்ட"
+    },
+    {
+      "term_en": "Eradicate",
+      "meaning_en": "Destroy/Remove",
+      "meaning_ta": "அழி"
+    },
+    {
+      "term_en": "Erudite",
+      "meaning_en": "Scholarly",
+      "meaning_ta": "மிகுந்த அறிவுடைய"
+    },
+    {
+      "term_en": "Eschew",
+      "meaning_en": "Avoid",
+      "meaning_ta": "தவிர்த்துவிடு"
+    },
+    {
+      "term_en": "Esoteric",
+      "meaning_en": "Secret/Hidden",
+      "meaning_ta": "இரகசிய"
+    },
+    {
+      "term_en": "Establish",
+      "meaning_en": "Set up",
+      "meaning_ta": "நிறுவு"
+    },
+    {
+      "term_en": "Estimate",
+      "meaning_en": "Calculate roughly",
+      "meaning_ta": "மதிப்பீடு செய்"
+    },
+    {
+      "term_en": "Ethical",
+      "meaning_en": "Moral",
+      "meaning_ta": "நெறிமுறை"
+    },
+    {
+      "term_en": "Eulogy",
+      "meaning_en": "Speech of praise",
+      "meaning_ta": "புகழ்ச்சி"
+    },
+    {
+      "term_en": "Euphemism",
+      "meaning_en": "Mild expression",
+      "meaning_ta": "மென்மொழி"
+    },
+    {
+      "term_en": "Evaluate",
+      "meaning_en": "Assess",
+      "meaning_ta": "மதிப்பீடு செய்"
+    },
+    {
+      "term_en": "Evidence",
+      "meaning_en": "Proof",
+      "meaning_ta": "ஆதாரம்"
+    },
+    {
+      "term_en": "Exacerbate",
+      "meaning_en": "Make worse",
+      "meaning_ta": "மோசமாக்கு"
+    },
+    {
+      "term_en": "Examine",
+      "meaning_en": "Inspect",
+      "meaning_ta": "பரிசோதனை செய்"
+    },
+    {
+      "term_en": "Excellent",
+      "meaning_en": "Very good",
+      "meaning_ta": "சிறந்த"
+    },
+    {
+      "term_en": "Exception",
+      "meaning_en": "Exclusion",
+      "meaning_ta": "விதிவிலக்கு"
+    },
+    {
+      "term_en": "Exchange",
+      "meaning_en": "Swap",
+      "meaning_ta": "பரிமாறு"
+    },
+    {
+      "term_en": "Exculpate",
+      "meaning_en": "Free from guilt",
+      "meaning_ta": "குற்றமிலாது"
+    },
+    {
+      "term_en": "Exigent",
+      "meaning_en": "Urgent",
+      "meaning_ta": "அவசர"
+    },
+    {
+      "term_en": "Exonerate",
+      "meaning_en": "Absolve",
+      "meaning_ta": "குற்றமின்றி விடுதலை"
+    },
+    {
+      "term_en": "Expand",
+      "meaning_en": "Increase",
+      "meaning_ta": "விரிவாக்கு"
+    },
+    {
+      "term_en": "Expect",
+      "meaning_en": "Anticipate",
+      "meaning_ta": "எதிர்பார்த்து"
+    },
+    {
+      "term_en": "Experience",
+      "meaning_en": "Occurrence/Knowledge",
+      "meaning_ta": "அனுபவம்"
+    },
+    {
+      "term_en": "Expeditious",
+      "meaning_en": "Quick",
+      "meaning_ta": "விரைவான"
+    },
+    {
+      "term_en": "Expedite",
+      "meaning_en": "Accelerate",
+      "meaning_ta": "துரிதப்படுத்து"
+    },
+    {
+      "term_en": "Explicit",
+      "meaning_en": "Clear",
+      "meaning_ta": "தெளிவான"
+    },
+    {
+      "term_en": "Explain",
+      "meaning_en": "Clarify",
+      "meaning_ta": "விளக்கம்"
+    },
+    {
+      "term_en": "Express",
+      "meaning_en": "Convey",
+      "meaning_ta": "வெளிப்படுத்து"
+    },
+    {
+      "term_en": "Extend",
+      "meaning_en": "Stretch",
+      "meaning_ta": "நீட்டு"
+    },
+    {
+      "term_en": "Extol",
+      "meaning_en": "Praise highly",
+      "meaning_ta": "புகழ்ந்து பேசுதல்"
+    },
+    {
+      "term_en": "Facetious",
+      "meaning_en": "Playful",
+      "meaning_ta": "கேலிக்குரிய"
+    },
+    {
+      "term_en": "Facilitate",
+      "meaning_en": "Make easier",
+      "meaning_ta": "எளிதாக்கு"
+    },
+    {
+      "term_en": "Factor",
+      "meaning_en": "Element",
+      "meaning_ta": "காரணி"
+    },
+    {
+      "term_en": "Failure",
+      "meaning_en": "Lack of success",
+      "meaning_ta": "தோல்வி"
+    },
+    {
+      "term_en": "Fallacious",
+      "meaning_en": "Based on a mistaken belief",
+      "meaning_ta": "தவறான தர்க்கமுள்ள"
+    },
+    {
+      "term_en": "Fallacy",
+      "meaning_en": "Mistaken belief",
+      "meaning_ta": "தவறான நம்பிக்கை"
+    },
+    {
+      "term_en": "Familiar",
+      "meaning_en": "Well known",
+      "meaning_ta": "பரிச்சயமான"
+    },
+    {
+      "term_en": "Fastidious",
+      "meaning_en": "Very attentive to detail",
+      "meaning_ta": "தேர்ந்தெடுக்கும்"
+    },
+    {
+      "term_en": "Fatuous",
+      "meaning_en": "Silly",
+      "meaning_ta": "முட்டாள்"
+    },
+    {
+      "term_en": "Feasible",
+      "meaning_en": "Possible",
+      "meaning_ta": "சாத்தியமான"
+    },
+    {
+      "term_en": "Fecund",
+      "meaning_en": "Fertile",
+      "meaning_ta": "வளமான"
+    },
+    {
+      "term_en": "Fervent",
+      "meaning_en": "Passionate",
+      "meaning_ta": "உற்சாகமான/ஆர்வமுள்ள"
+    },
+    {
+      "term_en": "Fickle",
+      "meaning_en": "Changing frequently",
+      "meaning_ta": "நிலைமையற்ற"
+    },
+    {
+      "term_en": "Finesse",
+      "meaning_en": "Skill",
+      "meaning_ta": "நுட்பம்"
+    },
+    {
+      "term_en": "Flagrant",
+      "meaning_en": "Blatant",
+      "meaning_ta": "வெளிப்படையான"
+    },
+    {
+      "term_en": "Flippant",
+      "meaning_en": "Not serious",
+      "meaning_ta": "அலட்சிய"
+    },
+    {
+      "term_en": "Florid",
+      "meaning_en": "Ornate",
+      "meaning_ta": "அலங்கார"
+    },
+    {
+      "term_en": "Fluctuate",
+      "meaning_en": "Vary",
+      "meaning_ta": "ஏற்ற இறக்கம்"
+    },
+    {
+      "term_en": "Foment",
+      "meaning_en": "Instigate",
+      "meaning_ta": "தூண்டுதல்/உண்டாக்கு"
+    },
+    {
+      "term_en": "Focus",
+      "meaning_en": "Center",
+      "meaning_ta": "கவனம்"
+    },
+    {
+      "term_en": "Force",
+      "meaning_en": "Strength",
+      "meaning_ta": "வலி"
+    },
+    {
+      "term_en": "Formal",
+      "meaning_en": "Official",
+      "meaning_ta": "முறையான"
+    },
+    {
+      "term_en": "Fortuitous",
+      "meaning_en": "Accidental",
+      "meaning_ta": "தற்செயலான"
+    },
+    {
+      "term_en": "Fraudulent",
+      "meaning_en": "Deceptive",
+      "meaning_ta": "மோசடியான"
+    },
+    {
+      "term_en": "Frequent",
+      "meaning_en": "Occurring often",
+      "meaning_ta": "அடிக்கடி"
+    },
+    {
+      "term_en": "Frivolous",
+      "meaning_en": "Not serious",
+      "meaning_ta": "முக்கியமற்ற"
+    },
+    {
+      "term_en": "Frugal",
+      "meaning_en": "Thrifty",
+      "meaning_ta": "சிக்கனமான"
+    },
+    {
+      "term_en": "Fundamental",
+      "meaning_en": "Basic",
+      "meaning_ta": "அடிப்படையான"
+    },
+    {
+      "term_en": "Garrulous",
+      "meaning_en": "Talkative",
+      "meaning_ta": "அதிகம் பேசுபவர்"
+    },
+    {
+      "term_en": "Generate",
+      "meaning_en": "Produce",
+      "meaning_ta": "உருவாக்கு"
+    },
+    {
+      "term_en": "Genuine",
+      "meaning_en": "Real",
+      "meaning_ta": "உண்மையான"
+    },
+    {
+      "term_en": "Germane",
+      "meaning_en": "Relevant",
+      "meaning_ta": "பொருத்தமான"
+    },
+    {
+      "term_en": "Glamorous",
+      "meaning_en": "Charming",
+      "meaning_ta": "கவர்ச்சிகரமான"
+    },
+    {
+      "term_en": "Goal",
+      "meaning_en": "Objective",
+      "meaning_ta": "இலக்கு"
+    },
+    {
+      "term_en": "Gradual",
+      "meaning_en": "Slow",
+      "meaning_ta": "படிப்படியான"
+    },
+    {
+      "term_en": "Grandiose",
+      "meaning_en": "Impressive",
+      "meaning_ta": "பிரம்மாண்ட"
+    },
+    {
+      "term_en": "Gratuitous",
+      "meaning_en": "Uncalled for",
+      "meaning_ta": "இலவசமான"
+    },
+    {
+      "term_en": "Gregarious",
+      "meaning_en": "Sociable",
+      "meaning_ta": "சமூக விரும்பும்"
+    },
+    {
+      "term_en": "Guarantee",
+      "meaning_en": "Assurance",
+      "meaning_ta": "உத்தரவாதம்"
+    },
+    {
+      "term_en": "Guile",
+      "meaning_en": "Cunning",
+      "meaning_ta": "ஏமாற்றும் வஞ்சம்"
+    },
+    {
+      "term_en": "Hackneyed",
+      "meaning_en": "Overused",
+      "meaning_ta": "பழமையான"
+    },
+    {
+      "term_en": "Handle",
+      "meaning_en": "Manage",
+      "meaning_ta": "கையாளு"
+    },
+    {
+      "term_en": "Hapless",
+      "meaning_en": "Unfortunate",
+      "meaning_ta": "துரதிர்ஷ்டவசமான"
+    },
+    {
+      "term_en": "Harangue",
+      "meaning_en": "Lecture",
+      "meaning_ta": "உரையாடல்/சொற்பொழிவு"
+    },
+    {
+      "term_en": "Harm",
+      "meaning_en": "Injury",
+      "meaning_ta": "சேதம்"
+    },
+    {
+      "term_en": "Haughty",
+      "meaning_en": "Arrogant",
+      "meaning_ta": "அகங்காரமான/திமிர் பிடித்த"
+    },
+    {
+      "term_en": "Hazardous",
+      "meaning_en": "Dangerous",
+      "meaning_ta": "ஆபத்தான"
+    },
+    {
+      "term_en": "Hedonist",
+      "meaning_en": "Pleasure seeker",
+      "meaning_ta": "இன்பவாதி"
+    },
+    {
+      "term_en": "Hegemony",
+      "meaning_en": "Dominance",
+      "meaning_ta": "ஆதிக்கம்"
+    },
+    {
+      "term_en": "Heritage",
+      "meaning_en": "Legacy",
+      "meaning_ta": "பாரம்பரியம்"
+    },
+    {
+      "term_en": "Hesitate",
+      "meaning_en": "Pause",
+      "meaning_ta": "தயங்கு"
+    },
+    {
+      "term_en": "Heterogeneous",
+      "meaning_en": "Diverse",
+      "meaning_ta": "பல்வேறு வகையான"
+    },
+    {
+      "term_en": "Hierarchy",
+      "meaning_en": "Ranking",
+      "meaning_ta": "படிநிலை"
+    },
+    {
+      "term_en": "Highlight",
+      "meaning_en": "Emphasize",
+      "meaning_ta": "முக்கியமாக கூறு"
+    },
+    {
+      "term_en": "Hinder",
+      "meaning_en": "delay or obstruct",
+      "meaning_ta": "தடைசெய்"
+    },
+    {
+      "term_en": "Homogeneous",
+      "meaning_en": "of the same kind",
+      "meaning_ta": "ஒரே மாதிரியான"
+    },
+    {
+      "term_en": "Hyperbole",
+      "meaning_en": "exaggerated statements",
+      "meaning_ta": "மிகப்படுத்துதல்"
+    },
+    {
+      "term_en": "Hypothesis",
+      "meaning_en": "a proposed explanation",
+      "meaning_ta": "கருதுகோள்"
+    },
+    {
+      "term_en": "Hypothetical",
+      "meaning_en": "based on a hypothesis",
+      "meaning_ta": "அனுமான/ஊகத்தின் அடிப்படையில்"
+    },
+    {
+      "term_en": "Iconoclast",
+      "meaning_en": "a person who attacks cherished beliefs",
+      "meaning_ta": "பழமைவாதத்தை எதிர்ப்பவர்"
+    },
+    {
+      "term_en": "Identify",
+      "meaning_en": "establish the identity of",
+      "meaning_ta": "அடையாளம் காண்"
+    },
+    {
+      "term_en": "Idiosyncrasy",
+      "meaning_en": "a distinctive feature",
+      "meaning_ta": "தனித்துவம்"
+    },
+    {
+      "term_en": "Ignominious",
+      "meaning_en": "deserving public shame",
+      "meaning_ta": "அவமானமான/இழிவான"
+    },
+    {
+      "term_en": "Ignore",
+      "meaning_en": "refuse to take notice of",
+      "meaning_ta": "புறக்கணி"
+    },
+    {
+      "term_en": "Immense",
+      "meaning_en": "extremely large",
+      "meaning_ta": "மிகப்பெரிய"
+    },
+    {
+      "term_en": "Imminent",
+      "meaning_en": "about to happen",
+      "meaning_ta": "விரைவில் நடக்கப்போகும்"
+    },
+    {
+      "term_en": "Impact",
+      "meaning_en": "marked effect",
+      "meaning_ta": "தாக்கம்"
+    },
+    {
+      "term_en": "Impassive",
+      "meaning_en": "not feeling emotion",
+      "meaning_ta": "உணர்ச்சியற்ற"
+    },
+    {
+      "term_en": "Impartial",
+      "meaning_en": "fair and unbiased",
+      "meaning_ta": "நடுநிலை"
+    },
+    {
+      "term_en": "Impede",
+      "meaning_en": "delay or prevent",
+      "meaning_ta": "தடைசெய்"
+    },
+    {
+      "term_en": "Imperious",
+      "meaning_en": "assuming power without justification",
+      "meaning_ta": "ஆணவமான"
+    },
+    {
+      "term_en": "Implement",
+      "meaning_en": "put into effect",
+      "meaning_ta": "நடைமுறைப்படுத்து"
+    },
+    {
+      "term_en": "Impetuous",
+      "meaning_en": "acting quickly without thought",
+      "meaning_ta": "முன்யோசனையற்ற"
+    },
+    {
+      "term_en": "Implacable",
+      "meaning_en": "unable to be appeased",
+      "meaning_ta": "சமாதானப்படுத்த முடியாத"
+    },
+    {
+      "term_en": "Improve",
+      "meaning_en": "make or become better",
+      "meaning_ta": "மேம்படுத்து"
+    },
+    {
+      "term_en": "Immutable",
+      "meaning_en": "unchanging over time",
+      "meaning_ta": "மாறாத/நிலையான"
+    },
+    {
+      "term_en": "Impunity",
+      "meaning_en": "exemption from punishment",
+      "meaning_ta": "தண்டனையின்றி"
+    },
+    {
+      "term_en": "Inane",
+      "meaning_en": "silly; stupid",
+      "meaning_ta": "அர்த்தமற்ற"
+    },
+    {
+      "term_en": "Incentive",
+      "meaning_en": "a thing that motivates",
+      "meaning_ta": "ஊக்கத்தொகை"
+    },
+    {
+      "term_en": "Incessant",
+      "meaning_en": "continuing without pause",
+      "meaning_ta": "இடையறாத"
+    },
+    {
+      "term_en": "Incontrovertible",
+      "meaning_en": "not able to be denied",
+      "meaning_ta": "மறுக்கமுடியாத"
+    },
+    {
+      "term_en": "Include",
+      "meaning_en": "make part of a whole",
+      "meaning_ta": "சேர்த்து"
+    },
+    {
+      "term_en": "Incongruous",
+      "meaning_en": "not in harmony",
+      "meaning_ta": "பொருந்தாத"
+    },
+    {
+      "term_en": "Inconsequential",
+      "meaning_en": "not important",
+      "meaning_ta": "முக்கியமற்ற"
+    },
+    {
+      "term_en": "Incorrigible",
+      "meaning_en": "not able to be corrected",
+      "meaning_ta": "திருத்த முடியாத"
+    },
+    {
+      "term_en": "Indelible",
+      "meaning_en": "not able to be forgotten/removed",
+      "meaning_ta": "அழிக்க முடியாத"
+    },
+    {
+      "term_en": "Indefatigable",
+      "meaning_en": "persisting tirelessly",
+      "meaning_ta": "களைப்பற்ற"
+    },
+    {
+      "term_en": "Increase",
+      "meaning_en": "make or become greater",
+      "meaning_ta": "அதிகரிக்க"
+    },
+    {
+      "term_en": "Indigenous",
+      "meaning_en": "originating in a particular place",
+      "meaning_ta": "உள்நாட்டு"
+    },
+    {
+      "term_en": "Indolent",
+      "meaning_en": "wanting to avoid activity",
+      "meaning_ta": "சோம்பேறி"
+    },
+    {
+      "term_en": "Ineffable",
+      "meaning_en": "too great to be expressed",
+      "meaning_ta": "வெளிப்படுத்த முடியாத"
+    },
+    {
+      "term_en": "Inevitable",
+      "meaning_en": "certain to happen",
+      "meaning_ta": "தவிர்க்க முடியாத"
+    },
+    {
+      "term_en": "Infer",
+      "meaning_en": "deduce or conclude",
+      "meaning_ta": "ஊகி"
+    },
+    {
+      "term_en": "Influence",
+      "meaning_en": "the capacity to have an effect",
+      "meaning_ta": "தாக்கம்"
+    },
+    {
+      "term_en": "Inform",
+      "meaning_en": "give facts to",
+      "meaning_ta": "தகவல் அளி"
+    },
+    {
+      "term_en": "Infrastructure",
+      "meaning_en": "basic organizational structures",
+      "meaning_ta": "அடிமட்ட வசதிகள்"
+    },
+    {
+      "term_en": "Initial",
+      "meaning_en": "existing or occurring at the beginning",
+      "meaning_ta": "ஆரம்பமான"
+    },
+    {
+      "term_en": "Initiative",
+      "meaning_en": "the power to act independently",
+      "meaning_ta": "முன்முயற்சி"
+    },
+    {
+      "term_en": "Innate",
+      "meaning_en": "inborn; natural",
+      "meaning_ta": "இயல்பான"
+    },
+    {
+      "term_en": "Innocuous",
+      "meaning_en": "not harmful",
+      "meaning_ta": "தீங்கு இல்லாத"
+    },
+    {
+      "term_en": "Innovate",
+      "meaning_en": "make changes in something established",
+      "meaning_ta": "புதுமைப்படுத்து"
+    },
+    {
+      "term_en": "Inscrutable",
+      "meaning_en": "impossible to understand",
+      "meaning_ta": "புரிந்துகொள்ள முடியாத"
+    },
+    {
+      "term_en": "Insidious",
+      "meaning_en": "proceeding in a gradual way with harmful effects",
+      "meaning_ta": "இரகசிய"
+    },
+    {
+      "term_en": "Insipid",
+      "meaning_en": "lacking flavor",
+      "meaning_ta": "சுவையற்ற"
+    },
+    {
+      "term_en": "Inspire",
+      "meaning_en": "fill with the urge to do something",
+      "meaning_ta": "ஊக்குவி"
+    },
+    {
+      "term_en": "Integrate",
+      "meaning_en": "bring into equal participation",
+      "meaning_ta": "ஒருங்கிணை"
+    },
+    {
+      "term_en": "Intend",
+      "meaning_en": "have as one's purpose",
+      "meaning_ta": "நோக்குடன்"
+    },
+    {
+      "term_en": "Interest",
+      "meaning_en": "the state of wanting to know",
+      "meaning_ta": "ஆர்வம்"
+    },
+    {
+      "term_en": "Interpret",
+      "meaning_en": "explain the meaning of",
+      "meaning_ta": "விளக்கம் அளி"
+    },
+    {
+      "term_en": "Interrupt",
+      "meaning_en": "stop the continuous progress of",
+      "meaning_ta": "இடையூறு செய்"
+    },
+    {
+      "term_en": "Intransigent",
+      "meaning_en": "unwilling to change one's views",
+      "meaning_ta": "உறுதியான/பிடிவாதமான"
+    },
+    {
+      "term_en": "Intractable",
+      "meaning_en": "Uncontrollable",
+      "meaning_ta": "கட்டுப்படுத்த முடியாத"
+    },
+    {
+      "term_en": "Intricate",
+      "meaning_en": "Complex",
+      "meaning_ta": "சிக்கலான"
+    },
+    {
+      "term_en": "Introduce",
+      "meaning_en": "Present",
+      "meaning_ta": "அறிமுகப்படுத்து"
+    },
+    {
+      "term_en": "Inundate",
+      "meaning_en": "Flood",
+      "meaning_ta": "வெள்ளம்"
+    },
+    {
+      "term_en": "Involve",
+      "meaning_en": "Include/Engage",
+      "meaning_ta": "ஈடுபடுத்து"
+    },
+    {
+      "term_en": "Irascible",
+      "meaning_en": "Easily angered",
+      "meaning_ta": "எளிதில் கோபப்படும் / கோப குணம் கொண்ட"
+    },
+    {
+      "term_en": "Issue",
+      "meaning_en": "Problem",
+      "meaning_ta": "பிரச்சனை"
+    },
+    {
+      "term_en": "Jejune",
+      "meaning_en": "Childish/Dull",
+      "meaning_ta": "குழந்தைத்தனமான / அனுபவமற்ற"
+    },
+    {
+      "term_en": "Jettison",
+      "meaning_en": "Throw away",
+      "meaning_ta": "தூக்கி எறி"
+    },
+    {
+      "term_en": "Judicious",
+      "meaning_en": "Wise",
+      "meaning_ta": "விவேகமான"
+    },
+    {
+      "term_en": "Judge",
+      "meaning_en": "Magistrate",
+      "meaning_ta": "நீதிபதி"
+    },
+    {
+      "term_en": "Jurisdiction",
+      "meaning_en": "Authority area",
+      "meaning_ta": "அதிகார எல்லை"
+    },
+    {
+      "term_en": "Justify",
+      "meaning_en": "Prove right",
+      "meaning_ta": "நியாயப்படுத்து"
+    },
+    {
+      "term_en": "Juxtapose",
+      "meaning_en": "Place side by side",
+      "meaning_ta": "அருகருகே வை"
+    },
+    {
+      "term_en": "Juxtaposition",
+      "meaning_en": "Act of placing side by side",
+      "meaning_ta": "அருகருகே வைக்கும் செயல்"
+    },
+    {
+      "term_en": "Keen",
+      "meaning_en": "Sharp/Eager",
+      "meaning_ta": "ஆர்வமுள்ள"
+    },
+    {
+      "term_en": "Knowledge",
+      "meaning_en": "Information/Wisdom",
+      "meaning_ta": "அறிவு"
+    },
+    {
+      "term_en": "Knowledgeable",
+      "meaning_en": "Well-informed",
+      "meaning_ta": "அறிவுள்ள"
+    },
+    {
+      "term_en": "Laconic",
+      "meaning_en": "Brief/Concise",
+      "meaning_ta": "சுருக்கமான"
+    },
+    {
+      "term_en": "Lack",
+      "meaning_en": "Shortage",
+      "meaning_ta": "பற்றாக்குறை"
+    },
+    {
+      "term_en": "Languid",
+      "meaning_en": "Sluggish/Weak",
+      "meaning_ta": "சோர்வான"
+    },
+    {
+      "term_en": "Lead",
+      "meaning_en": "Guide",
+      "meaning_ta": "வழிநடத்து"
+    },
+    {
+      "term_en": "Legacy",
+      "meaning_en": "Inheritance",
+      "meaning_ta": "மரபு"
+    },
+    {
+      "term_en": "Legitimate",
+      "meaning_en": "Lawful",
+      "meaning_ta": "சட்டபூர்வமான"
+    },
+    {
+      "term_en": "Lenient",
+      "meaning_en": "Merciful",
+      "meaning_ta": "மென்மையான"
+    },
+    {
+      "term_en": "Lucrative",
+      "meaning_en": "Profitable",
+      "meaning_ta": "லாபகரமான"
+    },
+    {
+      "term_en": "Lucid",
+      "meaning_en": "Clear",
+      "meaning_ta": "தெளிவான"
+    },
+    {
+      "term_en": "Maelstrom",
+      "meaning_en": "Whirlpool",
+      "meaning_ta": "சுழல்"
+    },
+    {
+      "term_en": "Magnanimous",
+      "meaning_en": "Generous",
+      "meaning_ta": "பெருந்தன்மை"
+    },
+    {
+      "term_en": "Maintain",
+      "meaning_en": "Preserve",
+      "meaning_ta": "பராமரிக்க"
+    },
+    {
+      "term_en": "Major",
+      "meaning_en": "Important",
+      "meaning_ta": "முக்கியமான"
+    },
+    {
+      "term_en": "Malfeasance",
+      "meaning_en": "Misconduct",
+      "meaning_ta": "அதிகார துஷ்பிரயோகம்"
+    },
+    {
+      "term_en": "Malleable",
+      "meaning_en": "Flexible",
+      "meaning_ta": "வளைந்துவிடும்"
+    },
+    {
+      "term_en": "Mandatory",
+      "meaning_en": "Compulsory",
+      "meaning_ta": "கட்டாயமான"
+    },
+    {
+      "term_en": "Manage",
+      "meaning_en": "Handle",
+      "meaning_ta": "நிர்வகி"
+    },
+    {
+      "term_en": "Maximum",
+      "meaning_en": "Most/Highest",
+      "meaning_ta": "அதிகபட்சம்"
+    },
+    {
+      "term_en": "Measure",
+      "meaning_en": "Dimension",
+      "meaning_ta": "அளவு"
+    },
+    {
+      "term_en": "Mendacious",
+      "meaning_en": "Dishonest",
+      "meaning_ta": "பொய்யான"
+    }
+  ],
+  "examples": [],
+  "passages": [],
+  "translations": [
+    {
+      "en": "Abate",
+      "ta": "குறைக்கவும்",
+      "tag": "word"
+    },
+    {
+      "en": "Ability",
+      "ta": "திறன்",
+      "tag": "word"
+    },
+    {
+      "en": "Abdicate",
+      "ta": "ராஜினாமா செய்யவும்",
+      "tag": "word"
+    },
+    {
+      "en": "Abscond",
+      "ta": "தப்பி ஓடு",
+      "tag": "word"
+    },
+    {
+      "en": "Absolute",
+      "ta": "முழுமையான",
+      "tag": "word"
+    },
+    {
+      "en": "Abstruse",
+      "ta": "புரிந்துகொள்ள கடினமான",
+      "tag": "word"
+    },
+    {
+      "en": "Abstain",
+      "ta": "விலகியிரு",
+      "tag": "word"
+    },
+    {
+      "en": "Abundant",
+      "ta": "ஏராளமான",
+      "tag": "word"
+    },
+    {
+      "en": "Accept",
+      "ta": "ஏற்கவும்",
+      "tag": "word"
+    },
+    {
+      "en": "Access",
+      "ta": "அணுகல்",
+      "tag": "word"
+    },
+    {
+      "en": "Accolade",
+      "ta": "பாராட்டு",
+      "tag": "word"
+    },
+    {
+      "en": "Accomplish",
+      "ta": "நிறைவேற்று",
+      "tag": "word"
+    },
+    {
+      "en": "Accumulate",
+      "ta": "திரட்டு",
+      "tag": "word"
+    },
+    {
+      "en": "Accurate",
+      "ta": "துல்லியம்",
+      "tag": "word"
+    },
+    {
+      "en": "Achieve",
+      "ta": "சாதிக்க",
+      "tag": "word"
+    },
+    {
+      "en": "Acknowledge",
+      "ta": "ஒப்புக்கொள்",
+      "tag": "word"
+    },
+    {
+      "en": "Acquire",
+      "ta": "பெறு",
+      "tag": "word"
+    },
+    {
+      "en": "Acrimonious",
+      "ta": "கசப்பான",
+      "tag": "word"
+    },
+    {
+      "en": "Acumen",
+      "ta": "கூர்மையான அறிவு",
+      "tag": "word"
+    },
+    {
+      "en": "Adapt",
+      "ta": "பொருந்துதல்",
+      "tag": "word"
+    },
+    {
+      "en": "Adequate",
+      "ta": "போதுமான",
+      "tag": "word"
+    },
+    {
+      "en": "Adhere",
+      "ta": "பின்பற்று",
+      "tag": "word"
+    },
+    {
+      "en": "Adjacent",
+      "ta": "அருகிலுள்ள",
+      "tag": "word"
+    },
+    {
+      "en": "Adjust",
+      "ta": "சரிசெய்",
+      "tag": "word"
+    },
+    {
+      "en": "Adulation",
+      "ta": "பெருமப்படுத்தல்",
+      "tag": "word"
+    },
+    {
+      "en": "Adumbrate",
+      "ta": "சூசகமாக அறிவி",
+      "tag": "word"
+    },
+    {
+      "en": "Administer",
+      "ta": "நிர்வகி",
+      "tag": "word"
+    },
+    {
+      "en": "Adroit",
+      "ta": "திறமையான",
+      "tag": "word"
+    },
+    {
+      "en": "Advantage",
+      "ta": "நன்மை",
+      "tag": "word"
+    },
+    {
+      "en": "Advocate",
+      "ta": "வக்கீல் / ஆதரவு",
+      "tag": "word"
+    },
+    {
+      "en": "Affect",
+      "ta": "பாதிக்க",
+      "tag": "word"
+    },
+    {
+      "en": "Affluent",
+      "ta": "செல்வந்த",
+      "tag": "word"
+    },
+    {
+      "en": "Aggregate",
+      "ta": "மொத்த",
+      "tag": "word"
+    },
+    {
+      "en": "Agree",
+      "ta": "ஒப்புக்கொள்",
+      "tag": "word"
+    },
+    {
+      "en": "Alacrity",
+      "ta": "சுறுசுறுப்பு",
+      "tag": "word"
+    },
+    {
+      "en": "Alleviate",
+      "ta": "தணிக்கவும்",
+      "tag": "word"
+    },
+    {
+      "en": "Allocate",
+      "ta": "ஒதுக்கு",
+      "tag": "word"
+    },
+    {
+      "en": "Allow",
+      "ta": "அனுமதி",
+      "tag": "word"
+    },
+    {
+      "en": "Ambiguity",
+      "ta": "தெளிவின்மை",
+      "tag": "word"
+    },
+    {
+      "en": "Ambiguous",
+      "ta": "தெளிவில்லாத",
+      "tag": "word"
+    },
+    {
+      "en": "Ambition",
+      "ta": "ஆசை",
+      "tag": "word"
+    },
+    {
+      "en": "Ambitious",
+      "ta": "லட்சியமுள்ள",
+      "tag": "word"
+    },
+    {
+      "en": "Ameliorate",
+      "ta": "மேம்படுத்து",
+      "tag": "word"
+    },
+    {
+      "en": "Amend",
+      "ta": "திருத்து",
+      "tag": "word"
+    },
+    {
+      "en": "Amplify",
+      "ta": "பெருக்கு",
+      "tag": "word"
+    },
+    {
+      "en": "Anachronism",
+      "ta": "காலத்திற்கு பொருந்தாத",
+      "tag": "word"
+    },
+    {
+      "en": "Analogous",
+      "ta": "ஒப்புமையான",
+      "tag": "word"
+    },
+    {
+      "en": "Analysis",
+      "ta": "பகுப்பாய்வு",
+      "tag": "word"
+    },
+    {
+      "en": "Analyse",
+      "ta": "பகுப்பாய்வு செய்",
+      "tag": "word"
+    },
+    {
+      "en": "She writes a letter.",
+      "ta": "அவள் ஒரு கடிதம் எழுதுகிறாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The letter is written by her.",
+      "ta": "அந்தக் கடிதம் அவளால் எழுதப்படுகிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is playing football.",
+      "ta": "அவன் கால்பந்து விளையாடிக்கொண்டிருக்கிறான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They went to the market.",
+      "ta": "அவர்கள் சந்தைக்குப் போனார்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "To err is human.",
+      "ta": "தவறு செய்வது மனித இயல்பு.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Swimming is good exercise.",
+      "ta": "நீச்சல் நல்ல உடற்பயிற்சி.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The barking dog woke us up.",
+      "ta": "குறைக்கும் நாய் எங்களை எழுப்பியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She likes coffee, doesn't she?",
+      "ta": "அவளுக்கு காபி பிடிக்கும், இல்லையா?",
+      "tag": "sentence"
+    },
+    {
+      "en": "She gave him the book yesterday.",
+      "ta": "அவள் அவனுக்கு நேற்று புத்தகத்தைக் கொடுத்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The sun rises in the east.",
+      "ta": "சூரியன் கிழக்கில் உதிக்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He is tired, so he went to bed.",
+      "ta": "அவன் களைப்பாக இருந்தான், அதனால் படுக்கைக்குப் போனான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Because it was raining, we stayed inside.",
+      "ta": "மழை பெய்ததால், நாங்கள் உள்ளேயே இருந்தோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The girl with the blue eyes smiled.",
+      "ta": "நீல நிறக் கண்களை உடைய பெண் சிரித்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "When the bell rang, the students left the classroom.",
+      "ta": "மணி அடித்தவுடன், மாணவர்கள் வகுப்பறையை விட்டு வெளியேறினர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "This book is more interesting than that one.",
+      "ta": "இந்த புத்தகம் அந்தப் புத்தகத்தை விட அதிக சுவாரஸ்யமானது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She is the tallest girl in the class.",
+      "ta": "அவள் வகுப்பறையில் மிக உயரமான பெண்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He said, \"I am tired.\"",
+      "ta": "அவன், \"நான் களைப்பாக இருக்கிறேன்\" என்று சொன்னான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He said that he was tired.",
+      "ta": "அவன் தான் களைப்பாக இருப்பதாகச் சொன்னான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I went to the store and bought some milk.",
+      "ta": "நான் கடைக்குப் போய் கொஞ்சம் பால் வாங்கினேன்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "They are over there. Their house is big.",
+      "ta": "அவர்கள் அங்கே இருக்கிறார்கள். அவர்களுடைய வீடு பெரியது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "I saw the sea. It was beautiful to see.",
+      "ta": "நான் கடலைப் பார்த்தேன். பார்ப்பதற்கு அழகாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "It's raining cats and dogs.",
+      "ta": "பலத்த மழை பெய்கிறது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He kicked the bucket.",
+      "ta": "அவன் இறந்துவிட்டான்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She looked up the word in the dictionary.",
+      "ta": "அவள் அகராதியில் அந்த வார்த்தையைப் பார்த்தாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "At this rate you will get into hot water.",
+      "ta": "இதே வேகத்தில் போனால் நீ சிக்கலில் மாட்டிக்கொள்வாய்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "We escaped by the skin of our teeth.",
+      "ta": "நாங்கள் நூலிழையில் தப்பினோம்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She broke off in the middle of her story.",
+      "ta": "அவள் கதையின் நடுவில் நிறுத்தினாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Her performance was fantastic.",
+      "ta": "அவளுடைய நடிப்பு அருமையாக இருந்தது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Smooth as silk.",
+      "ta": "பட்டு போல மென்மையாக.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The detectives searched every nook and cranny of the house for clues.",
+      "ta": "துப்பறியும் நபர்கள் தடயங்களுக்காக வீட்டின் ஒவ்வொரு மூலையையும் சந்து பொந்தையும் தேடினர்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "Stop beating around the bush and tell me what you really want.",
+      "ta": "சுற்றி வளைக்காமல், உங்களுக்கு என்ன வேண்டும் என்று நேரடியாகச் சொல்லுங்கள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "He was determined to win the election, by hook or by crook.",
+      "ta": "அவர் எப்படியாவது, நல்ல வழியிலோ கெட்ட வழியிலோ, தேர்தலில் வெற்றி பெற உறுதியாக இருந்தார்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "There's no hard and fast rule about what you should wear to the party.",
+      "ta": "விருந்துக்கு என்ன அணிய வேண்டும் என்பதில் எந்த கடினமான மற்றும் இறுக்கமான விதியும் இல்லை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The company was accused of cutting corners on safety to reduce costs.",
+      "ta": "நிறுவனம் செலவுகளைக் குறைப்பதற்காகப் பாதுகாப்பில் சமரசம் செய்வதாகக் குற்றம் சாட்டப்பட்டது.",
+      "tag": "sentence"
+    },
+    {
+      "en": "She is a smart cookie; she solved the problem in no time.",
+      "ta": "அவள் ஒரு புத்திசாலி; அவள் பிரச்சனையைச் சீக்கிரமாகத் தீர்த்துவிட்டாள்.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The corona virus problem is a hard nut to crack; it requires global cooperation.",
+      "ta": "கொரோனா வைரஸ் தீர்க்க முடியாத பிரச்சனை; இதற்கு உலகளாவிய ஒத்துழைப்பு தேவை.",
+      "tag": "sentence"
+    },
+    {
+      "en": "The newly appointed secretary is always in a pickle because of carelessness.",
+      "ta": "புதிதாக நியமிக்கப்பட்ட செயலாளர் கவனக்குறைவால் எப்போதும் ஒரு சிக்கலில் இருக்கிறார்.",
+      "tag": "sentence"
+    }
+  ],
+  "pyq": [],
+  "notes_en": "p56: This page provides a glossary list under Chapter 1: Word Translation, containing English vocabulary terms translated into Tamil for TNPSC preparation.\np57: This page provides an extensive vocabulary list with English to Tamil translations for General English preparation, covering words from A to C.\np58: This page provides a systematic English-to-Tamil word translation list, focusing on vocabulary starting with the letters 'C', particularly words beginning with the prefix 'con-'. It is a resource for building the lexical base required for TNPSC General English examinations.\np59: This page provides an alphabetical vocabulary list (C-D) with English terms and their corresponding Tamil meanings to aid in General English language preparation for TNPSC examinations.\np60: This page provides a comprehensive alphabetical list of English vocabulary words starting with D and E, alongside their equivalent Tamil meanings. It is designed to assist TNPSC aspirants in building their translation vocabulary skills.\np61: This page provides an extensive alphabetical glossary list of English vocabulary words with their corresponding Tamil translations. It is designed to assist candidates in improving their vocabulary for TNPSC General English examinations.\np62: This page provides an extensive alphabetical glossary of English vocabulary terms translated into Tamil, specifically curated for TNPSC exam preparation. The list focuses on advanced adjectives, nouns, and verbs commonly encountered in competitive English sections.\np63: This page provides a comprehensive vocabulary list organized alphabetically, mapping English terms to their Tamil meanings. It is designed to assist TNPSC candidates in improving their General English proficiency through direct word-translation practice.\np64: This page provides an extensive vocabulary list focusing on word translations from English to Tamil. It covers a wide range of academic and descriptive terms commonly tested in TNPSC competitive exams.\np65: This page provides a glossary of English words ranging from 'P' to 'R' with their corresponding Tamil translations, useful for General English vocabulary preparation.\np66: This page provides a comprehensive vocabulary list for word-to-Tamil translation, covering common English terms from R to T, which is essential for English comprehension and vocabulary-based questions in the TNPSC General English syllabus.\np67: This page provides an alphabetically organized glossary of English words with their corresponding Tamil translations, specifically focused on enhancing vocabulary proficiency for TNPSC General English examinations.\np68: This page provides a collection of common English sentences translated into Tamil to assist with sentence translation exercises for TNPSC exams. It covers various tenses, voice transformations, and complex sentence structures.\np69: This page provides a collection of English idioms and common sentences with their appropriate Tamil translations, emphasizing natural expression over literal translation.",
+  "source": "Data/General-English/Unit-5,6/vetrii english unit 5 and 6.pdf"
+}

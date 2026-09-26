@@ -1,0 +1,4602 @@
+[
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Toilet'?",
+    "question_ta": "What is the American English equivalent for the British term 'Toilet'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rest Room",
+        "text_ta": "Rest Room"
+      },
+      {
+        "key": "B",
+        "text_en": "Washroom",
+        "text_ta": "Washroom"
+      },
+      {
+        "key": "C",
+        "text_en": "Bathroom",
+        "text_ta": "Bathroom"
+      },
+      {
+        "key": "D",
+        "text_en": "Lavatory",
+        "text_ta": "Lavatory"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Toilet while American English uses Rest Room.",
+    "explanation_ta": "According to the notes, British English uses Toilet while American English uses Rest Room.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English equivalent for the British word 'Spanner'.",
+    "question_ta": "Choose the correct American English equivalent for the British word 'Spanner'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Wrench",
+        "text_ta": "Wrench"
+      },
+      {
+        "key": "B",
+        "text_en": "Hammer",
+        "text_ta": "Hammer"
+      },
+      {
+        "key": "C",
+        "text_en": "Pliers",
+        "text_ta": "Pliers"
+      },
+      {
+        "key": "D",
+        "text_en": "Screwdriver",
+        "text_ta": "Screwdriver"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Spanner ↔ Wrench' as a tool vocabulary pair.",
+    "explanation_ta": "The notes list 'Spanner ↔ Wrench' as a tool vocabulary pair.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E14"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English counterpart for the British word 'Lorry'?",
+    "question_ta": "What is the American English counterpart for the British word 'Lorry'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Truck",
+        "text_ta": "Truck"
+      },
+      {
+        "key": "B",
+        "text_en": "Van",
+        "text_ta": "Van"
+      },
+      {
+        "key": "C",
+        "text_en": "Car",
+        "text_ta": "Car"
+      },
+      {
+        "key": "D",
+        "text_en": "Bus",
+        "text_ta": "Bus"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Lorry while American English uses Truck.",
+    "explanation_ta": "According to the notes, British English uses Lorry while American English uses Truck.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E54"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Odour'.",
+    "question_ta": "Identify the American English spelling for the British word 'Odour'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Odor",
+        "text_ta": "Odor"
+      },
+      {
+        "key": "B",
+        "text_en": "Odore",
+        "text_ta": "Odore"
+      },
+      {
+        "key": "C",
+        "text_en": "Oudour",
+        "text_ta": "Oudour"
+      },
+      {
+        "key": "D",
+        "text_en": "Oddour",
+        "text_ta": "Oddour"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English often simplifies spellings, such as removing 'u' in words like 'odour'.",
+    "explanation_ta": "American English often simplifies spellings, such as removing 'u' in words like 'odour'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "R7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American spelling for the British word 'Neighbour'?",
+    "question_ta": "What is the American spelling for the British word 'Neighbour'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Neighbor",
+        "text_ta": "Neighbor"
+      },
+      {
+        "key": "B",
+        "text_en": "Nieghbor",
+        "text_ta": "Nieghbor"
+      },
+      {
+        "key": "C",
+        "text_en": "Neighbur",
+        "text_ta": "Neighbur"
+      },
+      {
+        "key": "D",
+        "text_en": "Nabor",
+        "text_ta": "Nabor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list the spelling variation as 'Neighbour ↔ Neighbor'.",
+    "explanation_ta": "The notes list the spelling variation as 'Neighbour ↔ Neighbor'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English term for the British word 'Lift'.",
+    "question_ta": "Choose the American English term for the British word 'Lift'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Elevator",
+        "text_ta": "Elevator"
+      },
+      {
+        "key": "B",
+        "text_en": "Escalator",
+        "text_ta": "Escalator"
+      },
+      {
+        "key": "C",
+        "text_en": "Hoist",
+        "text_ta": "Hoist"
+      },
+      {
+        "key": "D",
+        "text_en": "Crane",
+        "text_ta": "Crane"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Lift while American English uses Elevator.",
+    "explanation_ta": "According to the notes, British English uses Lift while American English uses Elevator.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E50"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Mobile phone'?",
+    "question_ta": "What is the American English equivalent for the British word 'Mobile phone'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Cell phone",
+        "text_ta": "Cell phone"
+      },
+      {
+        "key": "B",
+        "text_en": "Smart phone",
+        "text_ta": "Smart phone"
+      },
+      {
+        "key": "C",
+        "text_en": "Hand phone",
+        "text_ta": "Hand phone"
+      },
+      {
+        "key": "D",
+        "text_en": "Tele phone",
+        "text_ta": "Tele phone"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes identify 'Mobile phone ↔ Cell phone' as a portable telephone pair.",
+    "explanation_ta": "The notes identify 'Mobile phone ↔ Cell phone' as a portable telephone pair.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for 'Apologise'.",
+    "question_ta": "Identify the American English spelling for 'Apologise'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Apologize",
+        "text_ta": "Apologize"
+      },
+      {
+        "key": "B",
+        "text_en": "Apologise",
+        "text_ta": "Apologise"
+      },
+      {
+        "key": "C",
+        "text_en": "Apallogize",
+        "text_ta": "Apallogize"
+      },
+      {
+        "key": "D",
+        "text_en": "Apolligise",
+        "text_ta": "Apolligise"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English tends to use 'z' instead of 's' in words like 'apologise'.",
+    "explanation_ta": "American English tends to use 'z' instead of 's' in words like 'apologise'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "R7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American equivalent for the British term 'Anticlockwise'?",
+    "question_ta": "What is the American equivalent for the British term 'Anticlockwise'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Counter clockwise",
+        "text_ta": "Counter clockwise"
+      },
+      {
+        "key": "B",
+        "text_en": "Anti clockwise",
+        "text_ta": "Anti clockwise"
+      },
+      {
+        "key": "C",
+        "text_en": "Reverse clockwise",
+        "text_ta": "Reverse clockwise"
+      },
+      {
+        "key": "D",
+        "text_en": "Back clockwise",
+        "text_ta": "Back clockwise"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses Anticlockwise while American English uses Counter clockwise.",
+    "explanation_ta": "The notes state that British English uses Anticlockwise while American English uses Counter clockwise.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English term for the British word 'Trousers'.",
+    "question_ta": "Choose the American English term for the British word 'Trousers'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pants",
+        "text_ta": "Pants"
+      },
+      {
+        "key": "B",
+        "text_en": "Jeans",
+        "text_ta": "Jeans"
+      },
+      {
+        "key": "C",
+        "text_en": "Shorts",
+        "text_ta": "Shorts"
+      },
+      {
+        "key": "D",
+        "text_en": "Suit",
+        "text_ta": "Suit"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, Trousers corresponds to Pants as a clothing item.",
+    "explanation_ta": "According to the notes, Trousers corresponds to Pants as a clothing item.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E41"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Manager'?",
+    "question_ta": "What is the American English equivalent for the British word 'Manager'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Director",
+        "text_ta": "Director"
+      },
+      {
+        "key": "B",
+        "text_en": "Supervisor",
+        "text_ta": "Supervisor"
+      },
+      {
+        "key": "C",
+        "text_en": "Administrator",
+        "text_ta": "Administrator"
+      },
+      {
+        "key": "D",
+        "text_en": "Executive",
+        "text_ta": "Executive"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes indicate that British English uses Manager while American English uses Director.",
+    "explanation_ta": "The notes indicate that British English uses Manager while American English uses Director.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Metre'.",
+    "question_ta": "Identify the American English spelling for the British word 'Metre'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Meter",
+        "text_ta": "Meter"
+      },
+      {
+        "key": "B",
+        "text_en": "Metar",
+        "text_ta": "Metar"
+      },
+      {
+        "key": "C",
+        "text_en": "Meeter",
+        "text_ta": "Meeter"
+      },
+      {
+        "key": "D",
+        "text_en": "Mettor",
+        "text_ta": "Mettor"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list the spelling variation as 'Metre ↔ Meter'.",
+    "explanation_ta": "The notes list the spelling variation as 'Metre ↔ Meter'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English word corresponding to the British word 'Trainers'?",
+    "question_ta": "What is the American English word corresponding to the British word 'Trainers'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sneakers",
+        "text_ta": "Sneakers"
+      },
+      {
+        "key": "B",
+        "text_en": "Boots",
+        "text_ta": "Boots"
+      },
+      {
+        "key": "C",
+        "text_en": "Slippers",
+        "text_ta": "Slippers"
+      },
+      {
+        "key": "D",
+        "text_en": "Sandals",
+        "text_ta": "Sandals"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Trainers ↔ Sneakers' under vocabulary variation.",
+    "explanation_ta": "The notes list 'Trainers ↔ Sneakers' under vocabulary variation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E37"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English equivalent for the British word 'Motorway'.",
+    "question_ta": "Choose the American English equivalent for the British word 'Motorway'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Highway",
+        "text_ta": "Highway"
+      },
+      {
+        "key": "B",
+        "text_en": "Expressway",
+        "text_ta": "Expressway"
+      },
+      {
+        "key": "C",
+        "text_en": "Freeway",
+        "text_ta": "Freeway"
+      },
+      {
+        "key": "D",
+        "text_en": "Road",
+        "text_ta": "Road"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Motorway ↔ Highway' as a vocabulary variation.",
+    "explanation_ta": "The notes list 'Motorway ↔ Highway' as a vocabulary variation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E43"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English word for the British term 'Cupboard'?",
+    "question_ta": "What is the American English word for the British term 'Cupboard'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Closet",
+        "text_ta": "Closet"
+      },
+      {
+        "key": "B",
+        "text_en": "Cabinet",
+        "text_ta": "Cabinet"
+      },
+      {
+        "key": "C",
+        "text_en": "Locker",
+        "text_ta": "Locker"
+      },
+      {
+        "key": "D",
+        "text_en": "Wardrobe",
+        "text_ta": "Wardrobe"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Cupboard while American English uses Closet.",
+    "explanation_ta": "According to the notes, British English uses Cupboard while American English uses Closet.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E30"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Offence'.",
+    "question_ta": "Identify the American English spelling for the British word 'Offence'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Offense",
+        "text_ta": "Offense"
+      },
+      {
+        "key": "B",
+        "text_en": "Ofence",
+        "text_ta": "Ofence"
+      },
+      {
+        "key": "C",
+        "text_en": "Offence",
+        "text_ta": "Offence"
+      },
+      {
+        "key": "D",
+        "text_en": "Ofense",
+        "text_ta": "Ofense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list the spelling variation as 'Offence ↔ Offense'.",
+    "explanation_ta": "The notes list the spelling variation as 'Offence ↔ Offense'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Diary'?",
+    "question_ta": "What is the American English equivalent for the British term 'Diary'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Data Book",
+        "text_ta": "Data Book"
+      },
+      {
+        "key": "B",
+        "text_en": "Journal",
+        "text_ta": "Journal"
+      },
+      {
+        "key": "C",
+        "text_en": "Notebook",
+        "text_ta": "Notebook"
+      },
+      {
+        "key": "D",
+        "text_en": "Planner",
+        "text_ta": "Planner"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses Diary while American English uses Data Book.",
+    "explanation_ta": "The notes state that British English uses Diary while American English uses Data Book.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English equivalent for the British word 'Presenter'.",
+    "question_ta": "Choose the American English equivalent for the British word 'Presenter'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Announcer",
+        "text_ta": "Announcer"
+      },
+      {
+        "key": "B",
+        "text_en": "Host",
+        "text_ta": "Host"
+      },
+      {
+        "key": "C",
+        "text_en": "Speaker",
+        "text_ta": "Speaker"
+      },
+      {
+        "key": "D",
+        "text_en": "Broadcaster",
+        "text_ta": "Broadcaster"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Presenter while American English uses Announcer.",
+    "explanation_ta": "According to the notes, British English uses Presenter while American English uses Announcer.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E33"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English word corresponding to the British word 'Zed'?",
+    "question_ta": "What is the American English word corresponding to the British word 'Zed'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Zee",
+        "text_ta": "Zee"
+      },
+      {
+        "key": "B",
+        "text_en": "Zet",
+        "text_ta": "Zet"
+      },
+      {
+        "key": "C",
+        "text_en": "Zay",
+        "text_ta": "Zay"
+      },
+      {
+        "key": "D",
+        "text_en": "Z",
+        "text_ta": "Z"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Zed ↔ Zee' as a vocabulary variation.",
+    "explanation_ta": "The notes list 'Zed ↔ Zee' as a vocabulary variation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E46"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British term 'Nursing Home'.",
+    "question_ta": "Identify the American English equivalent for the British term 'Nursing Home'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Private Hospital",
+        "text_ta": "Private Hospital"
+      },
+      {
+        "key": "B",
+        "text_en": "Clinic",
+        "text_ta": "Clinic"
+      },
+      {
+        "key": "C",
+        "text_en": "Care Center",
+        "text_ta": "Care Center"
+      },
+      {
+        "key": "D",
+        "text_en": "Medical Center",
+        "text_ta": "Medical Center"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses Nursing Home while American English uses Private Hospital.",
+    "explanation_ta": "The notes state that British English uses Nursing Home while American English uses Private Hospital.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E47"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Honour'?",
+    "question_ta": "What is the American English spelling for the British word 'Honour'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Honor",
+        "text_ta": "Honor"
+      },
+      {
+        "key": "B",
+        "text_en": "Honner",
+        "text_ta": "Honner"
+      },
+      {
+        "key": "C",
+        "text_en": "Hounor",
+        "text_ta": "Hounor"
+      },
+      {
+        "key": "D",
+        "text_en": "Honour",
+        "text_ta": "Honour"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list the spelling variation as 'Honour ↔ Honor'.",
+    "explanation_ta": "The notes list the spelling variation as 'Honour ↔ Honor'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English equivalent for the British word 'Fellow'.",
+    "question_ta": "Choose the American English equivalent for the British word 'Fellow'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Guy",
+        "text_ta": "Guy"
+      },
+      {
+        "key": "B",
+        "text_en": "Man",
+        "text_ta": "Man"
+      },
+      {
+        "key": "C",
+        "text_en": "Mate",
+        "text_ta": "Mate"
+      },
+      {
+        "key": "D",
+        "text_en": "Friend",
+        "text_ta": "Friend"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Fellow ↔ Guy' as a vocabulary variation.",
+    "explanation_ta": "The notes list 'Fellow ↔ Guy' as a vocabulary variation.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Fully'?",
+    "question_ta": "What is the American English equivalent for the British word 'Fully'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Totally",
+        "text_ta": "Totally"
+      },
+      {
+        "key": "B",
+        "text_en": "Completely",
+        "text_ta": "Completely"
+      },
+      {
+        "key": "C",
+        "text_en": "Entirely",
+        "text_ta": "Entirely"
+      },
+      {
+        "key": "D",
+        "text_en": "Thoroughly",
+        "text_ta": "Thoroughly"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Fully while American English uses Totally.",
+    "explanation_ta": "According to the notes, British English uses Fully while American English uses Totally.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Favour'.",
+    "question_ta": "Identify the American English spelling for the British word 'Favour'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Favor",
+        "text_ta": "Favor"
+      },
+      {
+        "key": "B",
+        "text_en": "Faveur",
+        "text_ta": "Faveur"
+      },
+      {
+        "key": "C",
+        "text_en": "Favoure",
+        "text_ta": "Favoure"
+      },
+      {
+        "key": "D",
+        "text_en": "Favour",
+        "text_ta": "Favour"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list the spelling variation as 'Favour ↔ Favor'.",
+    "explanation_ta": "The notes list the spelling variation as 'Favour ↔ Favor'.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 1",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Biscuit'?",
+    "question_ta": "What is the American English equivalent for the British word 'Biscuit'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Cookie",
+        "text_ta": "Cookie"
+      },
+      {
+        "key": "B",
+        "text_en": "Bread",
+        "text_ta": "Bread"
+      },
+      {
+        "key": "C",
+        "text_en": "Cake",
+        "text_ta": "Cake"
+      },
+      {
+        "key": "D",
+        "text_en": "Muffin",
+        "text_ta": "Muffin"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses Biscuit while American English uses Cookie or Cracker.",
+    "explanation_ta": "The notes state that British English uses Biscuit while American English uses Cookie or Cracker.",
+    "type": "practice",
+    "batch": "Batch 1",
+    "group": "british_american",
+    "source_note": "E57"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Queue'?",
+    "question_ta": "What is the American English equivalent for the British term 'Queue'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Line",
+        "text_ta": "Line"
+      },
+      {
+        "key": "B",
+        "text_en": "Row",
+        "text_ta": "Row"
+      },
+      {
+        "key": "C",
+        "text_en": "Sequence",
+        "text_ta": "Sequence"
+      },
+      {
+        "key": "D",
+        "text_en": "Chain",
+        "text_ta": "Chain"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses Queue while American English uses Line.",
+    "explanation_ta": "According to the notes, British English uses Queue while American English uses Line.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Car park'.",
+    "question_ta": "Choose the correct American English term for the British word 'Car park'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Parking lot",
+        "text_ta": "Parking lot"
+      },
+      {
+        "key": "B",
+        "text_en": "Vehicle ground",
+        "text_ta": "Vehicle ground"
+      },
+      {
+        "key": "C",
+        "text_en": "Park space",
+        "text_ta": "Park space"
+      },
+      {
+        "key": "D",
+        "text_en": "Car station",
+        "text_ta": "Car station"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses Car park while American English uses Parking lot as per the notes.",
+    "explanation_ta": "British English uses Car park while American English uses Parking lot as per the notes.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English counterpart for the British word 'Chairman'?",
+    "question_ta": "What is the American English counterpart for the British word 'Chairman'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "President",
+        "text_ta": "President"
+      },
+      {
+        "key": "B",
+        "text_en": "Director",
+        "text_ta": "Director"
+      },
+      {
+        "key": "C",
+        "text_en": "Leader",
+        "text_ta": "Leader"
+      },
+      {
+        "key": "D",
+        "text_en": "Manager",
+        "text_ta": "Manager"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As stated in the notes, British English uses Chairman while American English uses President.",
+    "explanation_ta": "As stated in the notes, British English uses Chairman while American English uses President.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English word for the British term 'Sweet'.",
+    "question_ta": "Identify the American English word for the British term 'Sweet'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Candy",
+        "text_ta": "Candy"
+      },
+      {
+        "key": "B",
+        "text_en": "Sugar",
+        "text_ta": "Sugar"
+      },
+      {
+        "key": "C",
+        "text_en": "Dessert",
+        "text_ta": "Dessert"
+      },
+      {
+        "key": "D",
+        "text_en": "Cookie",
+        "text_ta": "Cookie"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses Sweet while American English uses Candy based on the notes.",
+    "explanation_ta": "British English uses Sweet while American English uses Candy based on the notes.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English term for the British word 'Presenter'?",
+    "question_ta": "What is the American English term for the British word 'Presenter'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Announcer",
+        "text_ta": "Announcer"
+      },
+      {
+        "key": "B",
+        "text_en": "Speaker",
+        "text_ta": "Speaker"
+      },
+      {
+        "key": "C",
+        "text_en": "Host",
+        "text_ta": "Host"
+      },
+      {
+        "key": "D",
+        "text_en": "Broadcaster",
+        "text_ta": "Broadcaster"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes specify that British English uses Presenter while American English uses Announcer.",
+    "explanation_ta": "The notes specify that British English uses Presenter while American English uses Announcer.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American spelling for the British word 'Rumour'.",
+    "question_ta": "Choose the correct American spelling for the British word 'Rumour'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rumor",
+        "text_ta": "Rumor"
+      },
+      {
+        "key": "B",
+        "text_en": "Rumour",
+        "text_ta": "Rumour"
+      },
+      {
+        "key": "C",
+        "text_en": "Rumoer",
+        "text_ta": "Rumoer"
+      },
+      {
+        "key": "D",
+        "text_en": "Roomer",
+        "text_ta": "Roomer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English simplifies spellings, such as removing 'u' as seen in the pair Rumour ↔ Rumor.",
+    "explanation_ta": "American English simplifies spellings, such as removing 'u' as seen in the pair Rumour ↔ Rumor.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E7"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Humour'.",
+    "question_ta": "Identify the American English spelling for the British word 'Humour'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Humor",
+        "text_ta": "Humor"
+      },
+      {
+        "key": "B",
+        "text_en": "Humour",
+        "text_ta": "Humour"
+      },
+      {
+        "key": "C",
+        "text_en": "Humoer",
+        "text_ta": "Humoer"
+      },
+      {
+        "key": "D",
+        "text_en": "Humer",
+        "text_ta": "Humer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English often simplifies spellings by removing 'u', converting 'Humour' to 'Humor'.",
+    "explanation_ta": "American English often simplifies spellings by removing 'u', converting 'Humour' to 'Humor'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Tyre'?",
+    "question_ta": "What is the American English spelling for the British word 'Tyre'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Tire",
+        "text_ta": "Tire"
+      },
+      {
+        "key": "B",
+        "text_en": "Tyre",
+        "text_ta": "Tyre"
+      },
+      {
+        "key": "C",
+        "text_en": "Tir",
+        "text_ta": "Tir"
+      },
+      {
+        "key": "D",
+        "text_en": "Tyri",
+        "text_ta": "Tyri"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, the spelling variation for 'Tyre' in American English is 'Tire'.",
+    "explanation_ta": "According to the notes, the spelling variation for 'Tyre' in American English is 'Tire'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E17"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English spelling for the British word 'Realise'.",
+    "question_ta": "Choose the American English spelling for the British word 'Realise'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Realize",
+        "text_ta": "Realize"
+      },
+      {
+        "key": "B",
+        "text_en": "Realise",
+        "text_ta": "Realise"
+      },
+      {
+        "key": "C",
+        "text_en": "Realizee",
+        "text_ta": "Realizee"
+      },
+      {
+        "key": "D",
+        "text_en": "Realys",
+        "text_ta": "Realys"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English uses 'z' instead of 's' as shown in the pair Realise ↔ Realize.",
+    "explanation_ta": "American English uses 'z' instead of 's' as shown in the pair Realise ↔ Realize.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Anticlockwise'?",
+    "question_ta": "What is the American English equivalent for the British term 'Anticlockwise'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Counter clockwise",
+        "text_ta": "Counter clockwise"
+      },
+      {
+        "key": "B",
+        "text_en": "Reverse clockwise",
+        "text_ta": "Reverse clockwise"
+      },
+      {
+        "key": "C",
+        "text_en": "Back wise",
+        "text_ta": "Back wise"
+      },
+      {
+        "key": "D",
+        "text_en": "Opposite direction",
+        "text_ta": "Opposite direction"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses Anticlockwise while American English uses Counter clockwise as per the notes.",
+    "explanation_ta": "British English uses Anticlockwise while American English uses Counter clockwise as per the notes.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English term for the British word 'Motorway'.",
+    "question_ta": "Choose the American English term for the British word 'Motorway'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Highway",
+        "text_ta": "Highway"
+      },
+      {
+        "key": "B",
+        "text_en": "Expressway",
+        "text_ta": "Expressway"
+      },
+      {
+        "key": "C",
+        "text_en": "Freeway",
+        "text_ta": "Freeway"
+      },
+      {
+        "key": "D",
+        "text_en": "Mainroad",
+        "text_ta": "Mainroad"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Motorway ↔ Highway' as a vocabulary variation between British and American English.",
+    "explanation_ta": "The notes list 'Motorway ↔ Highway' as a vocabulary variation between British and American English.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E32"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Cheque'?",
+    "question_ta": "What is the American English equivalent for the British word 'Cheque'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Check",
+        "text_ta": "Check"
+      },
+      {
+        "key": "B",
+        "text_en": "Chek",
+        "text_ta": "Chek"
+      },
+      {
+        "key": "C",
+        "text_en": "Chit",
+        "text_ta": "Chit"
+      },
+      {
+        "key": "D",
+        "text_en": "Bill",
+        "text_ta": "Bill"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the notes, the spelling variation for 'Cheque' in American English is 'Check'.",
+    "explanation_ta": "Based on the notes, the spelling variation for 'Cheque' in American English is 'Check'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E37"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Defence'.",
+    "question_ta": "Identify the American English spelling for the British word 'Defence'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Defense",
+        "text_ta": "Defense"
+      },
+      {
+        "key": "B",
+        "text_en": "Defence",
+        "text_ta": "Defence"
+      },
+      {
+        "key": "C",
+        "text_en": "Defens",
+        "text_ta": "Defens"
+      },
+      {
+        "key": "D",
+        "text_en": "Defants",
+        "text_ta": "Defants"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the spelling variation notes, British 'Defence' corresponds to American 'Defense'.",
+    "explanation_ta": "According to the spelling variation notes, British 'Defence' corresponds to American 'Defense'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E45"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Football'.",
+    "question_ta": "Choose the correct American English term for the British word 'Football'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Soccer",
+        "text_ta": "Soccer"
+      },
+      {
+        "key": "B",
+        "text_en": "Rugby",
+        "text_ta": "Rugby"
+      },
+      {
+        "key": "C",
+        "text_en": "Gridiron",
+        "text_ta": "Gridiron"
+      },
+      {
+        "key": "D",
+        "text_en": "Polo",
+        "text_ta": "Polo"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the notes, British English uses Football for the sport while American English uses Soccer.",
+    "explanation_ta": "As per the notes, British English uses Football for the sport while American English uses Soccer.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E48"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Enrol'?",
+    "question_ta": "What is the American English spelling for the British word 'Enrol'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Enroll",
+        "text_ta": "Enroll"
+      },
+      {
+        "key": "B",
+        "text_en": "Enrol",
+        "text_ta": "Enrol"
+      },
+      {
+        "key": "C",
+        "text_en": "Enrole",
+        "text_ta": "Enrole"
+      },
+      {
+        "key": "D",
+        "text_en": "Inroll",
+        "text_ta": "Inroll"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes show 'Enrol ↔ Enroll' as a spelling variation between British and American English.",
+    "explanation_ta": "The notes show 'Enrol ↔ Enroll' as a spelling variation between British and American English.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E50"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British term 'Bookshop'.",
+    "question_ta": "Identify the American English equivalent for the British term 'Bookshop'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bookstore",
+        "text_ta": "Bookstore"
+      },
+      {
+        "key": "B",
+        "text_en": "Library",
+        "text_ta": "Library"
+      },
+      {
+        "key": "C",
+        "text_en": "Reading room",
+        "text_ta": "Reading room"
+      },
+      {
+        "key": "D",
+        "text_en": "Book stall",
+        "text_ta": "Book stall"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses Bookshop while American English uses Bookstore according to the notes.",
+    "explanation_ta": "British English uses Bookshop while American English uses Bookstore according to the notes.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English term for the British word 'Boot' (of a car)?",
+    "question_ta": "What is the American English term for the British word 'Boot' (of a car)?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Trunk",
+        "text_ta": "Trunk"
+      },
+      {
+        "key": "B",
+        "text_en": "Hood",
+        "text_ta": "Hood"
+      },
+      {
+        "key": "C",
+        "text_en": "Bumper",
+        "text_ta": "Bumper"
+      },
+      {
+        "key": "D",
+        "text_en": "Fender",
+        "text_ta": "Fender"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes pair 'Boot ↔ Trunk' as an automotive vocabulary difference.",
+    "explanation_ta": "The notes pair 'Boot ↔ Trunk' as an automotive vocabulary difference.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E56"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English equivalent for the British word 'Cinema/Film'.",
+    "question_ta": "Choose the American English equivalent for the British word 'Cinema/Film'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Movie",
+        "text_ta": "Movie"
+      },
+      {
+        "key": "B",
+        "text_en": "Show",
+        "text_ta": "Show"
+      },
+      {
+        "key": "C",
+        "text_en": "Theater",
+        "text_ta": "Theater"
+      },
+      {
+        "key": "D",
+        "text_en": "Drama",
+        "text_ta": "Drama"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses Cinema/Film while American English uses Movie as stated in the notes.",
+    "explanation_ta": "British English uses Cinema/Film while American English uses Movie as stated in the notes.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E57"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Labour'.",
+    "question_ta": "Identify the American English spelling for the British word 'Labour'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Labor",
+        "text_ta": "Labor"
+      },
+      {
+        "key": "B",
+        "text_en": "Labour",
+        "text_ta": "Labour"
+      },
+      {
+        "key": "C",
+        "text_en": "Laboar",
+        "text_ta": "Laboar"
+      },
+      {
+        "key": "D",
+        "text_en": "Laber",
+        "text_ta": "Laber"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English simplifies spellings by dropping 'u', changing 'Labour' to 'Labor' as noted.",
+    "explanation_ta": "American English simplifies spellings by dropping 'u', changing 'Labour' to 'Labor' as noted.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "E60"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Petrol'?",
+    "question_ta": "What is the American English equivalent for the British word 'Petrol'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Gasoline",
+        "text_ta": "Gasoline"
+      },
+      {
+        "key": "B",
+        "text_en": "Oil",
+        "text_ta": "Oil"
+      },
+      {
+        "key": "C",
+        "text_en": "Fuel",
+        "text_ta": "Fuel"
+      },
+      {
+        "key": "D",
+        "text_en": "Gas",
+        "text_ta": "Gas"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The worked examples state that the American equivalent of 'petrol' is 'gasoline'.",
+    "explanation_ta": "The worked examples state that the American equivalent of 'petrol' is 'gasoline'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "W8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English word for the British word 'Pavement'.",
+    "question_ta": "Choose the correct American English word for the British word 'Pavement'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sidewalk",
+        "text_ta": "Sidewalk"
+      },
+      {
+        "key": "B",
+        "text_en": "Path",
+        "text_ta": "Path"
+      },
+      {
+        "key": "C",
+        "text_en": "Roadway",
+        "text_ta": "Roadway"
+      },
+      {
+        "key": "D",
+        "text_en": "Walkway",
+        "text_ta": "Walkway"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the worked examples, the American English word for Pavement is Sidewalk.",
+    "explanation_ta": "According to the worked examples, the American English word for Pavement is Sidewalk.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "W20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English term for the British word 'Spanner'?",
+    "question_ta": "What is the American English term for the British word 'Spanner'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Wrench",
+        "text_ta": "Wrench"
+      },
+      {
+        "key": "B",
+        "text_en": "Pliers",
+        "text_ta": "Pliers"
+      },
+      {
+        "key": "C",
+        "text_en": "Screw driver",
+        "text_ta": "Screw driver"
+      },
+      {
+        "key": "D",
+        "text_en": "Hammer",
+        "text_ta": "Hammer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the worked examples, 'spanner' corresponds to 'wrench'.",
+    "explanation_ta": "Based on the worked examples, 'spanner' corresponds to 'wrench'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "W4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British term 'Chemist'.",
+    "question_ta": "Identify the American English equivalent for the British term 'Chemist'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Druggist",
+        "text_ta": "Druggist"
+      },
+      {
+        "key": "B",
+        "text_en": "Pharmacist",
+        "text_ta": "Pharmacist"
+      },
+      {
+        "key": "C",
+        "text_en": "Doctor",
+        "text_ta": "Doctor"
+      },
+      {
+        "key": "D",
+        "text_en": "Scientist",
+        "text_ta": "Scientist"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The worked examples list 'chemist' as corresponding to 'druggist'.",
+    "explanation_ta": "The worked examples list 'chemist' as corresponding to 'druggist'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "W13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "What is the American English word for the British term 'Torch' (battery operated)?",
+    "question_ta": "What is the American English word for the British term 'Torch' (battery operated)?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Flashlight",
+        "text_ta": "Flashlight"
+      },
+      {
+        "key": "B",
+        "text_en": "Light",
+        "text_ta": "Light"
+      },
+      {
+        "key": "C",
+        "text_en": "Lamp",
+        "text_ta": "Lamp"
+      },
+      {
+        "key": "D",
+        "text_en": "Bulb",
+        "text_ta": "Bulb"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the matching worked examples, British 'torch' corresponds to American 'flashlight'.",
+    "explanation_ta": "According to the matching worked examples, British 'torch' corresponds to American 'flashlight'.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "W22"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 2",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English word for the British word 'Nappy'.",
+    "question_ta": "Choose the correct American English word for the British word 'Nappy'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Diaper",
+        "text_ta": "Diaper"
+      },
+      {
+        "key": "B",
+        "text_en": "Cloth",
+        "text_ta": "Cloth"
+      },
+      {
+        "key": "C",
+        "text_en": "Wrapper",
+        "text_ta": "Wrapper"
+      },
+      {
+        "key": "D",
+        "text_en": "Cover",
+        "text_ta": "Cover"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British and American English differ in vocabulary choice for common objects like Nappy, which is Diaper in American English.",
+    "explanation_ta": "British and American English differ in vocabulary choice for common objects like Nappy, which is Diaper in American English.",
+    "type": "practice",
+    "batch": "Batch 2",
+    "group": "british_american",
+    "source_note": "R5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Flat'?",
+    "question_ta": "What is the American English equivalent for the British word 'Flat'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Apartment",
+        "text_ta": "Apartment"
+      },
+      {
+        "key": "B",
+        "text_en": "Condo",
+        "text_ta": "Condo"
+      },
+      {
+        "key": "C",
+        "text_en": "Studio",
+        "text_ta": "Studio"
+      },
+      {
+        "key": "D",
+        "text_en": "Villa",
+        "text_ta": "Villa"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the British-American pairs, British English uses 'Flat' while American English uses 'Apartment'.",
+    "explanation_ta": "According to the British-American pairs, British English uses 'Flat' while American English uses 'Apartment'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E20"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Luggage'.",
+    "question_ta": "Choose the correct American English term for the British word 'Luggage'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Baggage",
+        "text_ta": "Baggage"
+      },
+      {
+        "key": "B",
+        "text_en": "Suitcase",
+        "text_ta": "Suitcase"
+      },
+      {
+        "key": "C",
+        "text_en": "Pack",
+        "text_ta": "Pack"
+      },
+      {
+        "key": "D",
+        "text_en": "Cargo",
+        "text_ta": "Cargo"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Luggage' while American English uses 'Baggage'.",
+    "explanation_ta": "British English uses 'Luggage' while American English uses 'Baggage'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E41"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English word corresponding to the British term 'Currency Note'?",
+    "question_ta": "What is the American English word corresponding to the British term 'Currency Note'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Bill",
+        "text_ta": "Bill"
+      },
+      {
+        "key": "B",
+        "text_en": "Check",
+        "text_ta": "Check"
+      },
+      {
+        "key": "C",
+        "text_en": "Coin",
+        "text_ta": "Coin"
+      },
+      {
+        "key": "D",
+        "text_en": "Cash",
+        "text_ta": "Cash"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Currency Note' while American English uses 'Bill'.",
+    "explanation_ta": "British English uses 'Currency Note' while American English uses 'Bill'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E21"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English counterpart for the British word 'Underground'.",
+    "question_ta": "Identify the American English counterpart for the British word 'Underground'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Subway",
+        "text_ta": "Subway"
+      },
+      {
+        "key": "B",
+        "text_en": "Metro",
+        "text_ta": "Metro"
+      },
+      {
+        "key": "C",
+        "text_en": "Train",
+        "text_ta": "Train"
+      },
+      {
+        "key": "D",
+        "text_en": "Tunnel",
+        "text_ta": "Tunnel"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Underground in British English corresponds to Subway in American English transport terms.",
+    "explanation_ta": "Underground in British English corresponds to Subway in American English transport terms.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E52"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Colour'?",
+    "question_ta": "What is the American English spelling for the British word 'Colour'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Color",
+        "text_ta": "Color"
+      },
+      {
+        "key": "B",
+        "text_en": "Coloure",
+        "text_ta": "Coloure"
+      },
+      {
+        "key": "C",
+        "text_en": "Cullour",
+        "text_ta": "Cullour"
+      },
+      {
+        "key": "D",
+        "text_en": "Calar",
+        "text_ta": "Calar"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English often simplifies spellings, such as removing 'u' in words like 'colour' to become 'color'.",
+    "explanation_ta": "American English often simplifies spellings, such as removing 'u' in words like 'colour' to become 'color'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E38"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English spelling for the British word 'Behaviour'.",
+    "question_ta": "Choose the American English spelling for the British word 'Behaviour'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Behavior",
+        "text_ta": "Behavior"
+      },
+      {
+        "key": "B",
+        "text_en": "Behavioir",
+        "text_ta": "Behavioir"
+      },
+      {
+        "key": "C",
+        "text_en": "Behayviour",
+        "text_ta": "Behayviour"
+      },
+      {
+        "key": "D",
+        "text_en": "Behaver",
+        "text_ta": "Behaver"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The spelling variant for 'Behaviour' in American English is 'Behavior'.",
+    "explanation_ta": "The spelling variant for 'Behaviour' in American English is 'Behavior'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Bin'?",
+    "question_ta": "What is the American English equivalent for the British word 'Bin'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Trash Can",
+        "text_ta": "Trash Can"
+      },
+      {
+        "key": "B",
+        "text_en": "Dustbin",
+        "text_ta": "Dustbin"
+      },
+      {
+        "key": "C",
+        "text_en": "Basket",
+        "text_ta": "Basket"
+      },
+      {
+        "key": "D",
+        "text_en": "Wastebox",
+        "text_ta": "Wastebox"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Bin' while American English uses 'Trash Can'.",
+    "explanation_ta": "British English uses 'Bin' while American English uses 'Trash Can'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E47"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British word 'Curtain'.",
+    "question_ta": "Identify the American English equivalent for the British word 'Curtain'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Drapes",
+        "text_ta": "Drapes"
+      },
+      {
+        "key": "B",
+        "text_en": "Blinds",
+        "text_ta": "Blinds"
+      },
+      {
+        "key": "C",
+        "text_en": "Shades",
+        "text_ta": "Shades"
+      },
+      {
+        "key": "D",
+        "text_en": "Screens",
+        "text_ta": "Screens"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Curtain' while American English uses 'Drapes'.",
+    "explanation_ta": "British English uses 'Curtain' while American English uses 'Drapes'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E54"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Match'.",
+    "question_ta": "Choose the correct American English term for the British word 'Match'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Game",
+        "text_ta": "Game"
+      },
+      {
+        "key": "B",
+        "text_en": "Sport",
+        "text_ta": "Sport"
+      },
+      {
+        "key": "C",
+        "text_en": "Play",
+        "text_ta": "Play"
+      },
+      {
+        "key": "D",
+        "text_en": "Contest",
+        "text_ta": "Contest"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Match' while American English uses 'Game'.",
+    "explanation_ta": "British English uses 'Match' while American English uses 'Game'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E45"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Cancelled'?",
+    "question_ta": "What is the American English spelling for the British word 'Cancelled'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Canceled",
+        "text_ta": "Canceled"
+      },
+      {
+        "key": "B",
+        "text_en": "Canseled",
+        "text_ta": "Canseled"
+      },
+      {
+        "key": "C",
+        "text_en": "Canselled",
+        "text_ta": "Canselled"
+      },
+      {
+        "key": "D",
+        "text_en": "Canld",
+        "text_ta": "Canld"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The spelling variation for 'Cancelled' in American English is 'Canceled'.",
+    "explanation_ta": "The spelling variation for 'Cancelled' in American English is 'Canceled'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E44"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British term 'Slip Road'.",
+    "question_ta": "Identify the American English equivalent for the British term 'Slip Road'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ramp",
+        "text_ta": "Ramp"
+      },
+      {
+        "key": "B",
+        "text_en": "Highway",
+        "text_ta": "Highway"
+      },
+      {
+        "key": "C",
+        "text_en": "Freeway",
+        "text_ta": "Freeway"
+      },
+      {
+        "key": "D",
+        "text_en": "Turnpike",
+        "text_ta": "Turnpike"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Under roadway terms, British English uses 'Slip Road' while American English uses 'Ramp'.",
+    "explanation_ta": "Under roadway terms, British English uses 'Slip Road' while American English uses 'Ramp'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E8"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English term for the British word 'Fellow'.",
+    "question_ta": "Choose the American English term for the British word 'Fellow'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Guy",
+        "text_ta": "Guy"
+      },
+      {
+        "key": "B",
+        "text_en": "Man",
+        "text_ta": "Man"
+      },
+      {
+        "key": "C",
+        "text_en": "Boy",
+        "text_ta": "Boy"
+      },
+      {
+        "key": "D",
+        "text_en": "Mate",
+        "text_ta": "Mate"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Under vocabulary variation, 'Fellow' corresponds to 'Guy' in American English.",
+    "explanation_ta": "Under vocabulary variation, 'Fellow' corresponds to 'Guy' in American English.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E9"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Cross Roads'?",
+    "question_ta": "What is the American English equivalent for the British term 'Cross Roads'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Intersection",
+        "text_ta": "Intersection"
+      },
+      {
+        "key": "B",
+        "text_en": "Junction",
+        "text_ta": "Junction"
+      },
+      {
+        "key": "C",
+        "text_en": "Crossing",
+        "text_ta": "Crossing"
+      },
+      {
+        "key": "D",
+        "text_en": "Square",
+        "text_ta": "Square"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In roadway terms, British English uses 'Cross Roads' whereas American English uses 'Intersection'.",
+    "explanation_ta": "In roadway terms, British English uses 'Cross Roads' whereas American English uses 'Intersection'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E35"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Medallist'.",
+    "question_ta": "Identify the American English spelling for the British word 'Medallist'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Medalist",
+        "text_ta": "Medalist"
+      },
+      {
+        "key": "B",
+        "text_en": "Medalliste",
+        "text_ta": "Medalliste"
+      },
+      {
+        "key": "C",
+        "text_en": "Medelist",
+        "text_ta": "Medelist"
+      },
+      {
+        "key": "D",
+        "text_en": "Medalst",
+        "text_ta": "Medalst"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The spelling variation for 'Medallist' in American English is 'Medalist'.",
+    "explanation_ta": "The spelling variation for 'Medallist' in American English is 'Medalist'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English word for the British word 'Cutlery'.",
+    "question_ta": "Choose the correct American English word for the British word 'Cutlery'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Silver Ware",
+        "text_ta": "Silver Ware"
+      },
+      {
+        "key": "B",
+        "text_en": "Spoons",
+        "text_ta": "Spoons"
+      },
+      {
+        "key": "C",
+        "text_en": "Kitchenware",
+        "text_ta": "Kitchenware"
+      },
+      {
+        "key": "D",
+        "text_en": "Utensils",
+        "text_ta": "Utensils"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Cutlery' while American English uses 'Silver Ware'.",
+    "explanation_ta": "British English uses 'Cutlery' while American English uses 'Silver Ware'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E12"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Humour'?",
+    "question_ta": "What is the American English spelling for the British word 'Humour'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Humor",
+        "text_ta": "Humor"
+      },
+      {
+        "key": "B",
+        "text_en": "Humour",
+        "text_ta": "Humour"
+      },
+      {
+        "key": "C",
+        "text_en": "Humoar",
+        "text_ta": "Humoar"
+      },
+      {
+        "key": "D",
+        "text_en": "Humer",
+        "text_ta": "Humer"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English simplifies spellings by removing 'u', changing 'Humour' to 'Humor'.",
+    "explanation_ta": "American English simplifies spellings by removing 'u', changing 'Humour' to 'Humor'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E28"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British term 'Fire Brigade'.",
+    "question_ta": "Identify the American English equivalent for the British term 'Fire Brigade'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Fire Department",
+        "text_ta": "Fire Department"
+      },
+      {
+        "key": "B",
+        "text_en": "Fire House",
+        "text_ta": "Fire House"
+      },
+      {
+        "key": "C",
+        "text_en": "Fire Squad",
+        "text_ta": "Fire Squad"
+      },
+      {
+        "key": "D",
+        "text_en": "Fire Station",
+        "text_ta": "Fire Station"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Fire Brigade' while American English uses 'Fire Department'.",
+    "explanation_ta": "British English uses 'Fire Brigade' while American English uses 'Fire Department'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E29"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English spelling for the British word 'Memorise'.",
+    "question_ta": "Choose the American English spelling for the British word 'Memorise'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Memorize",
+        "text_ta": "Memorize"
+      },
+      {
+        "key": "B",
+        "text_en": "Memorice",
+        "text_ta": "Memorice"
+      },
+      {
+        "key": "C",
+        "text_en": "Memorry",
+        "text_ta": "Memorry"
+      },
+      {
+        "key": "D",
+        "text_en": "Memorizee",
+        "text_ta": "Memorizee"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English uses 'z' instead of 's' in words like 'memorise' to spell it as 'memorize'.",
+    "explanation_ta": "American English uses 'z' instead of 's' in words like 'memorise' to spell it as 'memorize'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E31"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Stupid'?",
+    "question_ta": "What is the American English equivalent for the British word 'Stupid'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Dumb",
+        "text_ta": "Dumb"
+      },
+      {
+        "key": "B",
+        "text_en": "Silly",
+        "text_ta": "Silly"
+      },
+      {
+        "key": "C",
+        "text_en": "Foolish",
+        "text_ta": "Foolish"
+      },
+      {
+        "key": "D",
+        "text_en": "Idiotic",
+        "text_ta": "Idiotic"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Stupid' while American English uses 'Dumb'.",
+    "explanation_ta": "British English uses 'Stupid' while American English uses 'Dumb'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British word 'Rubber Band'.",
+    "question_ta": "Identify the American English equivalent for the British word 'Rubber Band'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Elastic Band",
+        "text_ta": "Elastic Band"
+      },
+      {
+        "key": "B",
+        "text_en": "Stretch Band",
+        "text_ta": "Stretch Band"
+      },
+      {
+        "key": "C",
+        "text_en": "Rubber Ring",
+        "text_ta": "Rubber Ring"
+      },
+      {
+        "key": "D",
+        "text_en": "Flex Band",
+        "text_ta": "Flex Band"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Rubber Band' while American English uses 'Elastic Band'.",
+    "explanation_ta": "British English uses 'Rubber Band' while American English uses 'Elastic Band'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E53"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Manager'.",
+    "question_ta": "Choose the correct American English term for the British word 'Manager'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Director",
+        "text_ta": "Director"
+      },
+      {
+        "key": "B",
+        "text_en": "Leader",
+        "text_ta": "Leader"
+      },
+      {
+        "key": "C",
+        "text_en": "Supervisor",
+        "text_ta": "Supervisor"
+      },
+      {
+        "key": "D",
+        "text_en": "Boss",
+        "text_ta": "Boss"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "British English uses 'Manager' while American English uses 'Director'.",
+    "explanation_ta": "British English uses 'Manager' while American English uses 'Director'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E55"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Civilise'?",
+    "question_ta": "What is the American English spelling for the British word 'Civilise'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Civilize",
+        "text_ta": "Civilize"
+      },
+      {
+        "key": "B",
+        "text_en": "Civilice",
+        "text_ta": "Civilice"
+      },
+      {
+        "key": "C",
+        "text_en": "Civillise",
+        "text_ta": "Civillise"
+      },
+      {
+        "key": "D",
+        "text_en": "Civilizee",
+        "text_ta": "Civilizee"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The spelling variation for 'Civilise' in American English is 'Civilize' (using 'z' instead of 's').",
+    "explanation_ta": "The spelling variation for 'Civilise' in American English is 'Civilize' (using 'z' instead of 's').",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E39"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English counterpart for the British word 'Zed'.",
+    "question_ta": "Identify the American English counterpart for the British word 'Zed'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Zee",
+        "text_ta": "Zee"
+      },
+      {
+        "key": "B",
+        "text_en": "Zet",
+        "text_ta": "Zet"
+      },
+      {
+        "key": "C",
+        "text_en": "Z",
+        "text_ta": "Z"
+      },
+      {
+        "key": "D",
+        "text_en": "Zed-ee",
+        "text_ta": "Zed-ee"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Under vocabulary variation, British 'Zed' corresponds to American 'Zee'.",
+    "explanation_ta": "Under vocabulary variation, British 'Zed' corresponds to American 'Zee'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E42"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English equivalent for the British word 'Cutting'.",
+    "question_ta": "Choose the American English equivalent for the British word 'Cutting'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Clipping",
+        "text_ta": "Clipping"
+      },
+      {
+        "key": "B",
+        "text_en": "Snippet",
+        "text_ta": "Snippet"
+      },
+      {
+        "key": "C",
+        "text_en": "Piece",
+        "text_ta": "Piece"
+      },
+      {
+        "key": "D",
+        "text_en": "Slice",
+        "text_ta": "Slice"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Under vocabulary variation, British English 'Cutting' is 'Clipping' in American English.",
+    "explanation_ta": "Under vocabulary variation, British English 'Cutting' is 'Clipping' in American English.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E26"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 3",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for the British word 'Labour'?",
+    "question_ta": "What is the American English spelling for the British word 'Labour'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Labor",
+        "text_ta": "Labor"
+      },
+      {
+        "key": "B",
+        "text_en": "Laboure",
+        "text_ta": "Laboure"
+      },
+      {
+        "key": "C",
+        "text_en": "Labur",
+        "text_ta": "Labur"
+      },
+      {
+        "key": "D",
+        "text_en": "Labr",
+        "text_ta": "Labr"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "American English simplifies spellings by dropping the 'u', making 'Labour' into 'Labor'.",
+    "explanation_ta": "American English simplifies spellings by dropping the 'u', making 'Labour' into 'Labor'.",
+    "type": "practice",
+    "batch": "Batch 3",
+    "group": "british_american",
+    "source_note": "E40"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Timetable'?",
+    "question_ta": "What is the American English equivalent for the British term 'Timetable'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Schedule",
+        "text_ta": "Schedule"
+      },
+      {
+        "key": "B",
+        "text_en": "Calendar",
+        "text_ta": "Calendar"
+      },
+      {
+        "key": "C",
+        "text_en": "Program",
+        "text_ta": "Program"
+      },
+      {
+        "key": "D",
+        "text_en": "Routine",
+        "text_ta": "Routine"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses 'Timetable' while American English uses 'Schedule'.",
+    "explanation_ta": "According to the notes, British English uses 'Timetable' while American English uses 'Schedule'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E3"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English term for the British word 'Cooker'.",
+    "question_ta": "Choose the American English term for the British word 'Cooker'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Stove",
+        "text_ta": "Stove"
+      },
+      {
+        "key": "B",
+        "text_en": "Oven",
+        "text_ta": "Oven"
+      },
+      {
+        "key": "C",
+        "text_en": "Heater",
+        "text_ta": "Heater"
+      },
+      {
+        "key": "D",
+        "text_en": "Furnace",
+        "text_ta": "Furnace"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the notes, British English uses 'Cooker' while American English uses 'Stove'.",
+    "explanation_ta": "Based on the notes, British English uses 'Cooker' while American English uses 'Stove'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E18"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Pullover'?",
+    "question_ta": "What is the American English equivalent for the British word 'Pullover'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Sweater",
+        "text_ta": "Sweater"
+      },
+      {
+        "key": "B",
+        "text_en": "Jacket",
+        "text_ta": "Jacket"
+      },
+      {
+        "key": "C",
+        "text_en": "Coat",
+        "text_ta": "Coat"
+      },
+      {
+        "key": "D",
+        "text_en": "Shirt",
+        "text_ta": "Shirt"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses 'Pullover' while American English uses 'Sweater'.",
+    "explanation_ta": "The notes state that British English uses 'Pullover' while American English uses 'Sweater'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E34"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Anaemia'.",
+    "question_ta": "Identify the American English spelling for the British word 'Anaemia'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Anemia",
+        "text_ta": "Anemia"
+      },
+      {
+        "key": "B",
+        "text_en": "Aneemia",
+        "text_ta": "Aneemia"
+      },
+      {
+        "key": "C",
+        "text_en": "Anemya",
+        "text_ta": "Anemya"
+      },
+      {
+        "key": "D",
+        "text_en": "Anima",
+        "text_ta": "Anima"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The spelling variant for 'Anaemia' in American English is 'Anemia' as per the notes.",
+    "explanation_ta": "The spelling variant for 'Anaemia' in American English is 'Anemia' as per the notes.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E15"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Maize'.",
+    "question_ta": "Choose the correct American English term for the British word 'Maize'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Corn",
+        "text_ta": "Corn"
+      },
+      {
+        "key": "B",
+        "text_en": "Wheat",
+        "text_ta": "Wheat"
+      },
+      {
+        "key": "C",
+        "text_en": "Barley",
+        "text_ta": "Barley"
+      },
+      {
+        "key": "D",
+        "text_en": "Oats",
+        "text_ta": "Oats"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes specify that British English uses 'Maize' while American English uses 'Corn'.",
+    "explanation_ta": "The notes specify that British English uses 'Maize' while American English uses 'Corn'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E54"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Blind'?",
+    "question_ta": "What is the American English equivalent for the British term 'Blind'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Window Shade",
+        "text_ta": "Window Shade"
+      },
+      {
+        "key": "B",
+        "text_en": "Curtain",
+        "text_ta": "Curtain"
+      },
+      {
+        "key": "C",
+        "text_en": "Screen",
+        "text_ta": "Screen"
+      },
+      {
+        "key": "D",
+        "text_en": "Shutter",
+        "text_ta": "Shutter"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the vocabulary pairs in the notes, 'Blind' corresponds to 'Window Shade'.",
+    "explanation_ta": "According to the vocabulary pairs in the notes, 'Blind' corresponds to 'Window Shade'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E2"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Traveller'.",
+    "question_ta": "Identify the American English spelling for the British word 'Traveller'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Traveler",
+        "text_ta": "Traveler"
+      },
+      {
+        "key": "B",
+        "text_en": "Travler",
+        "text_ta": "Travler"
+      },
+      {
+        "key": "C",
+        "text_en": "Travellor",
+        "text_ta": "Travellor"
+      },
+      {
+        "key": "D",
+        "text_en": "Traveleir",
+        "text_ta": "Traveleir"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on spelling variations in the notes, 'Traveller' becomes 'Traveler'.",
+    "explanation_ta": "Based on spelling variations in the notes, 'Traveller' becomes 'Traveler'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E28"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English word for the British term 'Push Chair'.",
+    "question_ta": "Choose the American English word for the British term 'Push Chair'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Stroller",
+        "text_ta": "Stroller"
+      },
+      {
+        "key": "B",
+        "text_en": "Pram",
+        "text_ta": "Pram"
+      },
+      {
+        "key": "C",
+        "text_en": "Buggy",
+        "text_ta": "Buggy"
+      },
+      {
+        "key": "D",
+        "text_en": "Wagon",
+        "text_ta": "Wagon"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes indicate that 'Push Chair' corresponds to 'Stroller'.",
+    "explanation_ta": "The notes indicate that 'Push Chair' corresponds to 'Stroller'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E10"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English spelling for 'Sceptic'?",
+    "question_ta": "What is the American English spelling for 'Sceptic'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Skeptic",
+        "text_ta": "Skeptic"
+      },
+      {
+        "key": "B",
+        "text_en": "Sceptick",
+        "text_ta": "Sceptick"
+      },
+      {
+        "key": "C",
+        "text_en": "Scptic",
+        "text_ta": "Scptic"
+      },
+      {
+        "key": "D",
+        "text_en": "Skaptic",
+        "text_ta": "Skaptic"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the spelling variation notes, 'Sceptic' is spelled as 'Skeptic' in American English.",
+    "explanation_ta": "According to the spelling variation notes, 'Sceptic' is spelled as 'Skeptic' in American English.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E25"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English equivalent for the British word 'Nappy'.",
+    "question_ta": "Choose the American English equivalent for the British word 'Nappy'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Diaper",
+        "text_ta": "Diaper"
+      },
+      {
+        "key": "B",
+        "text_en": "Napkin",
+        "text_ta": "Napkin"
+      },
+      {
+        "key": "C",
+        "text_en": "Towel",
+        "text_ta": "Towel"
+      },
+      {
+        "key": "D",
+        "text_en": "Cloth",
+        "text_ta": "Cloth"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes list 'Nappy' under British terms with 'Diaper' as its American counterpart.",
+    "explanation_ta": "The notes list 'Nappy' under British terms with 'Diaper' as its American counterpart.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E29"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Railway'?",
+    "question_ta": "What is the American English equivalent for the British term 'Railway'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Rail Road",
+        "text_ta": "Rail Road"
+      },
+      {
+        "key": "B",
+        "text_en": "Train Track",
+        "text_ta": "Train Track"
+      },
+      {
+        "key": "C",
+        "text_en": "Line",
+        "text_ta": "Line"
+      },
+      {
+        "key": "D",
+        "text_en": "Metro",
+        "text_ta": "Metro"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "As per the notes, British English uses 'Railway' while American English uses 'Rail Road'.",
+    "explanation_ta": "As per the notes, British English uses 'Railway' while American English uses 'Rail Road'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E30"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Focussed'.",
+    "question_ta": "Identify the American English spelling for the British word 'Focussed'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Focused",
+        "text_ta": "Focused"
+      },
+      {
+        "key": "B",
+        "text_en": "Focust",
+        "text_ta": "Focust"
+      },
+      {
+        "key": "C",
+        "text_en": "Focusd",
+        "text_ta": "Focusd"
+      },
+      {
+        "key": "D",
+        "text_en": "Focussed",
+        "text_ta": "Focussed"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The spelling variant given in the notes for 'Focussed' is 'Focused'.",
+    "explanation_ta": "The spelling variant given in the notes for 'Focussed' is 'Focused'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E13"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English term for the British word 'Car'.",
+    "question_ta": "Choose the correct American English term for the British word 'Car'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Automobile",
+        "text_ta": "Automobile"
+      },
+      {
+        "key": "B",
+        "text_en": "Vehicle",
+        "text_ta": "Vehicle"
+      },
+      {
+        "key": "C",
+        "text_en": "Truck",
+        "text_ta": "Truck"
+      },
+      {
+        "key": "D",
+        "text_en": "Van",
+        "text_ta": "Van"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses 'Car' while American English uses 'Automobile'.",
+    "explanation_ta": "According to the notes, British English uses 'Car' while American English uses 'Automobile'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E59"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English word corresponding to the British term 'Cupboard'?",
+    "question_ta": "What is the American English word corresponding to the British term 'Cupboard'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Closet",
+        "text_ta": "Closet"
+      },
+      {
+        "key": "B",
+        "text_en": "Cabinet",
+        "text_ta": "Cabinet"
+      },
+      {
+        "key": "C",
+        "text_en": "Wardrobe",
+        "text_ta": "Wardrobe"
+      },
+      {
+        "key": "D",
+        "text_en": "Locker",
+        "text_ta": "Locker"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses 'Cupboard' while American English uses 'Closet'.",
+    "explanation_ta": "The notes state that British English uses 'Cupboard' while American English uses 'Closet'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E49"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Axe'.",
+    "question_ta": "Identify the American English spelling for the British word 'Axe'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Ax",
+        "text_ta": "Ax"
+      },
+      {
+        "key": "B",
+        "text_en": "Acks",
+        "text_ta": "Acks"
+      },
+      {
+        "key": "C",
+        "text_en": "Acs",
+        "text_ta": "Acs"
+      },
+      {
+        "key": "D",
+        "text_en": "Axx",
+        "text_ta": "Axx"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the spelling variations in the notes, 'Axe' is simplified to 'Ax'.",
+    "explanation_ta": "Based on the spelling variations in the notes, 'Axe' is simplified to 'Ax'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E19"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Licence'?",
+    "question_ta": "What is the American English equivalent for the British term 'Licence'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "License",
+        "text_ta": "License"
+      },
+      {
+        "key": "B",
+        "text_en": "Lisense",
+        "text_ta": "Lisense"
+      },
+      {
+        "key": "C",
+        "text_en": "Licens",
+        "text_ta": "Licens"
+      },
+      {
+        "key": "D",
+        "text_en": "Lycense",
+        "text_ta": "Lycense"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the spelling variation notes, 'Licence' is spelled as 'License' in American English.",
+    "explanation_ta": "According to the spelling variation notes, 'Licence' is spelled as 'License' in American English.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E56"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English equivalent for the British word 'Tram'.",
+    "question_ta": "Identify the American English equivalent for the British word 'Tram'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Street Car",
+        "text_ta": "Street Car"
+      },
+      {
+        "key": "B",
+        "text_en": "Subway",
+        "text_ta": "Subway"
+      },
+      {
+        "key": "C",
+        "text_en": "Trolley",
+        "text_ta": "Trolley"
+      },
+      {
+        "key": "D",
+        "text_en": "Bus",
+        "text_ta": "Bus"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes indicate that British 'Tram' corresponds to American 'Street Car'.",
+    "explanation_ta": "The notes indicate that British 'Tram' corresponds to American 'Street Car'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E24"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English spelling for the British word 'Instalment'.",
+    "question_ta": "Choose the American English spelling for the British word 'Instalment'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Installment",
+        "text_ta": "Installment"
+      },
+      {
+        "key": "B",
+        "text_en": "Instalmentt",
+        "text_ta": "Instalmentt"
+      },
+      {
+        "key": "C",
+        "text_en": "Instalmant",
+        "text_ta": "Instalmant"
+      },
+      {
+        "key": "D",
+        "text_en": "Instollment",
+        "text_ta": "Instollment"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the notes, the spelling variation for 'Instalment' in American English is 'Installment'.",
+    "explanation_ta": "Based on the notes, the spelling variation for 'Instalment' in American English is 'Installment'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E50"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Pyjamas'?",
+    "question_ta": "What is the American English equivalent for the British term 'Pyjamas'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Pajamas",
+        "text_ta": "Pajamas"
+      },
+      {
+        "key": "B",
+        "text_en": "Pyjamaz",
+        "text_ta": "Pyjamaz"
+      },
+      {
+        "key": "C",
+        "text_en": "Pajamass",
+        "text_ta": "Pajamass"
+      },
+      {
+        "key": "D",
+        "text_en": "Pijamas",
+        "text_ta": "Pijamas"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, 'Pyjamas' has the spelling variant 'Pajamas' in American English.",
+    "explanation_ta": "According to the notes, 'Pyjamas' has the spelling variant 'Pajamas' in American English.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E4"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the correct American English word for the British word 'Chairman'.",
+    "question_ta": "Choose the correct American English word for the British word 'Chairman'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "President",
+        "text_ta": "President"
+      },
+      {
+        "key": "B",
+        "text_en": "Director",
+        "text_ta": "Director"
+      },
+      {
+        "key": "C",
+        "text_en": "Leader",
+        "text_ta": "Leader"
+      },
+      {
+        "key": "D",
+        "text_en": "Chief",
+        "text_ta": "Chief"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses 'Chairman' while American English uses 'President'.",
+    "explanation_ta": "The notes state that British English uses 'Chairman' while American English uses 'President'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E5"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British word 'Luggage'?",
+    "question_ta": "What is the American English equivalent for the British word 'Luggage'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Baggage",
+        "text_ta": "Baggage"
+      },
+      {
+        "key": "B",
+        "text_en": "Cases",
+        "text_ta": "Cases"
+      },
+      {
+        "key": "C",
+        "text_en": "Packs",
+        "text_ta": "Packs"
+      },
+      {
+        "key": "D",
+        "text_en": "Cargo",
+        "text_ta": "Cargo"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the notes, British English uses 'Luggage' while American English uses 'Baggage'.",
+    "explanation_ta": "According to the notes, British English uses 'Luggage' while American English uses 'Baggage'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E11"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Identify the American English spelling for the British word 'Civilise'.",
+    "question_ta": "Identify the American English spelling for the British word 'Civilise'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Civilize",
+        "text_ta": "Civilize"
+      },
+      {
+        "key": "B",
+        "text_en": "Civilise",
+        "text_ta": "Civilise"
+      },
+      {
+        "key": "C",
+        "text_en": "Civiliz",
+        "text_ta": "Civiliz"
+      },
+      {
+        "key": "D",
+        "text_en": "Cifillize",
+        "text_ta": "Cifillize"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes show that American English uses 'z' instead of 's' in words like 'Civilise', making it 'Civilize'.",
+    "explanation_ta": "The notes show that American English uses 'z' instead of 's' in words like 'Civilise', making it 'Civilize'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E51"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English term for the British word 'Match'.",
+    "question_ta": "Choose the American English term for the British word 'Match'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Game",
+        "text_ta": "Game"
+      },
+      {
+        "key": "B",
+        "text_en": "Play",
+        "text_ta": "Play"
+      },
+      {
+        "key": "C",
+        "text_en": "Sport",
+        "text_ta": "Sport"
+      },
+      {
+        "key": "D",
+        "text_en": "Contest",
+        "text_ta": "Contest"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Based on the notes, British English uses 'Match' while American English uses 'Game'.",
+    "explanation_ta": "Based on the notes, British English uses 'Match' while American English uses 'Game'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E6"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "What is the American English equivalent for the British term 'Petrol'?",
+    "question_ta": "What is the American English equivalent for the British term 'Petrol'?",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Gasoline",
+        "text_ta": "Gasoline"
+      },
+      {
+        "key": "B",
+        "text_en": "Fuel",
+        "text_ta": "Fuel"
+      },
+      {
+        "key": "C",
+        "text_en": "Oil",
+        "text_ta": "Oil"
+      },
+      {
+        "key": "D",
+        "text_en": "Energy",
+        "text_ta": "Energy"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The notes state that British English uses 'Petrol' while American English uses 'Gasoline'.",
+    "explanation_ta": "The notes state that British English uses 'Petrol' while American English uses 'Gasoline'.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E16"
+  },
+  {
+    "subject": "English",
+    "unit": "Vocabulary",
+    "menu": "British & American English",
+    "topic": "British & American English",
+    "topic_id": "british_american",
+    "topic_ta": "British & American English",
+    "source_exam": "Practice Batch 4",
+    "difficulty": "Medium",
+    "question_en": "Choose the American English spelling for the British word 'Marvellous'.",
+    "question_ta": "Choose the American English spelling for the British word 'Marvellous'.",
+    "options": [
+      {
+        "key": "A",
+        "text_en": "Marvelous",
+        "text_ta": "Marvelous"
+      },
+      {
+        "key": "B",
+        "text_en": "Marvelus",
+        "text_ta": "Marvelus"
+      },
+      {
+        "key": "C",
+        "text_en": "Marveliss",
+        "text_ta": "Marveliss"
+      },
+      {
+        "key": "D",
+        "text_en": "Marvellus",
+        "text_ta": "Marvellus"
+      },
+      {
+        "key": "E",
+        "text_en": "Answer not known",
+        "text_ta": "Answer not known"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "According to the spelling variation notes, 'Marvellous' is spelled as 'Marvelous' in American English.",
+    "explanation_ta": "According to the spelling variation notes, 'Marvellous' is spelled as 'Marvelous' in American English.",
+    "type": "practice",
+    "batch": "Batch 4",
+    "group": "british_american",
+    "source_note": "E58"
+  }
+]
